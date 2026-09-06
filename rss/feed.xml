@@ -306,9 +306,9 @@
     </item>
     <item>
       <title>[Payloads] Common_FPS_PS5</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.0.0/Common_FPS_PS5_v1.0.0.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.1.0/Common_FPS_PS5_v1.1.0.elf</link>
       <description>A lightweight, open-source real-time FPS counter for PlayStation 5.</description>
-      <pubDate>v1.0.0</pubDate>
+      <pubDate>v1.1.0</pubDate>
     </item>
     <item>
       <title>[Payloads] PS5-Game-Compressor</title>
