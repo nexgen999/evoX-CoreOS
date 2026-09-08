@@ -18,7 +18,6 @@
       <outline text="kstuff-toggle" title="kstuff-toggle" type="rss" xmlUrl="https://github.com/EchoStretch/kstuff-toggle" description="Utility to toggle kstuff features."/>
       <outline text="kstuff-lite_drakmor" title="kstuff-lite_drakmor" type="rss" xmlUrl="https://github.com/drakmor/kstuff-lite" description="Drakmor's variant of kstuff-lite."/>
       <outline text="ps5-linux-loader" title="ps5-linux-loader" type="rss" xmlUrl="https://github.com/ps5-linux/ps5-linux-loader" description="Linux loader payload for the PS5."/>
-      <outline text="uds-trophy-unlocker" title="uds-trophy-unlocker" type="rss" xmlUrl="https://git.etawen.dev/soniciso/uds-trophy-unlocker" description="Trophy unlocker utility for PS5 hosted on Forgejo."/>
       <outline text="ChronicLoader-PS5-Payload" title="ChronicLoader-PS5-Payload" type="rss" xmlUrl="https://github.com/StonedModder/ChronicLoader-PS5-Payload" description="ChronicLoader utility payload for PS5."/>
       <outline text="Ghostpad" title="Ghostpad" type="rss" xmlUrl="https://github.com/StonedModder/Ghostpad" description="Ghostpad controller input utility."/>
       <outline text="Ghostcontrol-PS5-USB-Controller-Patcher" title="Ghostcontrol-PS5-USB-Controller-Patcher" type="rss" xmlUrl="https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher" description="USB Controller patcher tool for PS5."/>
