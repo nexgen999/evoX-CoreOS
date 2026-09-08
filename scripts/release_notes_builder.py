@@ -11,7 +11,7 @@ def generate_release_notes(data_store_by_cat):
     categories = ["payloads", "pkg", "ffpfsc", "apps"]
     current_changes = {}
     
-    # 1. Détection des nouveautés/mises à jour
+    # 1. Détection des nouveautés/mises à jour basées uniquement sur le filename
     for cat in categories:
         new_file = os.path.join(json_dir, f"{cat}.json")
         old_file = os.path.join(json_dir, f"old_{cat}.json")
@@ -22,34 +22,30 @@ def generate_release_notes(data_store_by_cat):
         with open(new_file, 'r', encoding='utf-8') as f:
             new_data = json.load(f)
             
-        old_items_map = {}
+        old_filenames = set()
         if os.path.exists(old_file):
             with open(old_file, 'r', encoding='utf-8') as f:
                 old_data = json.load(f)
-                if isinstance(old_data, dict):
-                    for sub_cat, sub_list in old_data.items():
-                        if isinstance(sub_list, list):
-                            for item in sub_list:
-                                if isinstance(item, dict):
-                                    fname = item.get('filename')
-                                    if fname:
-                                        old_items_map[fname] = item.get('version', '')
+                for key, val in old_data.items():
+                    if isinstance(val, list):
+                        for item in val:
+                            if isinstance(item, dict):
+                                fname = item.get('filename')
+                                if fname:
+                                    old_filenames.add(fname)
                     
         added_or_updated = []
         if isinstance(new_data, dict):
-            for sub_cat, sub_list in new_data.items():
-                if isinstance(sub_list, list):
-                    for item in sub_list:
+            for key, val in new_data.items():
+                if isinstance(val, list):
+                    for item in val:
                         if isinstance(item, dict):
                             fname = item.get('filename')
-                            fver = item.get('version', 'v1.0.0')
                             if not fname:
                                 continue
                             
-                            if fname not in old_items_map:
-                                added_or_updated.append(f"`{fname}` ({fver}) - *Nouveau*")
-                            elif fver and old_items_map.get(fname) != fver:
-                                added_or_updated.append(f"`{fname}` ({fver}) - *Mis à jour*")
+                            if fname not in old_filenames:
+                                added_or_updated.append(f"`{fname}` - *Nouveau*")
                                 
         if added_or_updated:
             current_changes[cat] = sorted(list(set(added_or_updated)))
@@ -84,7 +80,7 @@ def generate_release_notes(data_store_by_cat):
         "apps": "🛠️"
     }
 
-    # 3. Lecture directe et stricte des JSON par catégorie
+    # 3. Affichage direct uniquement des `filename` groupés par section sans versions superflues
     for cat_key in categories:
         json_file_path = os.path.join(json_dir, f"{cat_key}.json")
         icon = icons.get(cat_key, "📦")
@@ -96,25 +92,26 @@ def generate_release_notes(data_store_by_cat):
                 json_content = json.load(f)
                 
             if isinstance(json_content, dict):
-                for sub_cat_name, sub_list in json_content.items():
-                    if isinstance(sub_list, list) and sub_list:
-                        valid_files = []
-                        for item in sub_list:
+                for section_key, section_val in json_content.items():
+                    if section_key == "name":
+                        continue
+                        
+                    file_entries = []
+                    if isinstance(section_val, list):
+                        for item in section_val:
                             if isinstance(item, dict):
                                 fname = item.get('filename')
-                                fver = item.get('version', '')
                                 if fname:
-                                    valid_files.append((fname, fver))
-                        
-                        if valid_files:
-                            has_items = True
-                            content += f"* **{sub_cat_name}**\n"
-                            seen = set()
-                            for fname, fver in valid_files:
-                                if fname not in seen:
-                                    seen.add(fname)
-                                    ver_str = f" *({fver})*" if fver else ""
-                                    content += f"  * `{fname}`{ver_str}\n"
+                                    file_entries.append(fname)
+                            
+                    if file_entries:
+                        has_items = True
+                        content += f"* **{section_key}**\n"
+                        seen = set()
+                        for fname in file_entries:
+                            if fname not in seen:
+                                seen.add(fname)
+                                content += f"  * `{fname}`\n"
         
         if not has_items:
             content += "*Aucun élément dans ce pack.*\n"
