@@ -52,7 +52,7 @@ jobs:
           find . -type d -name "__pycache__" -exec rm -rf {} + 2>/dev/null || true
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add json/ rss/ index.html README.md release_notes.md scripts/ feed/ payloads/ archives/ 2>/dev/null || true
+          git add -A
           git diff-index --quiet HEAD || (git commit -m "🤖 Auto-update store, RSS, Web, Release Notes & Packages [skip ci]" && git push)
 
       - name: 8. Nettoyage et Publication des Releases avec notes structurées
