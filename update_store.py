@@ -40,20 +40,27 @@ def generate_release_notes(data_store_by_cat):
                 for item in old_data:
                     if isinstance(item, dict):
                         old_items_map[item.get('name')] = item.get('version')
+                    elif isinstance(item, str):
+                        old_items_map[item] = ""
                     
         added_or_updated = []
         for item in new_data:
-            if not isinstance(item, dict):
+            if isinstance(item, dict):
+                name = item.get('name')
+                version = item.get('version', 'v1.0.0')
+            elif isinstance(item, str):
+                name = item
+                version = ""
+            else:
                 continue
-            name = item.get('name')
-            version = item.get('version', 'v1.0.0')
+                
             if not name:
                 continue
             
             if name not in old_items_map:
-                added_or_updated.append(f"`{name}` ({version}) - *Nouveau*")
-            elif old_items_map[name] != version:
-                added_or_updated.append(f"`{name}` ({version}) - *Mis à jour*")
+                added_or_updated.append(f"`{name}` ({version}) - *Nouveau*".strip())
+            elif version and old_items_map.get(name) != version:
+                added_or_updated.append(f"`{name}` ({version}) - *Mis à jour*".strip())
                 
         if added_or_updated:
             current_changes[cat] = added_or_updated
@@ -97,9 +104,13 @@ def generate_release_notes(data_store_by_cat):
                 has_items = True
                 content += f"* **{sub_cat}**\n"
                 for item in items:
-                    filename = item.get('filename', item.get('name', ''))
-                    version = item.get('version', '')
-                    content += f"  * `{filename}` *({version})*\n"
+                    if isinstance(item, dict):
+                        filename = item.get('filename', item.get('name', ''))
+                        version = item.get('version', '')
+                        ver_str = f" *({version})*" if version else ""
+                        content += f"  * `{filename}`{ver_str}\n"
+                    elif isinstance(item, str):
+                        content += f"  * `{item}`\n"
         
         if not has_items:
             content += "*Aucun élément dans ce pack.*\n"
@@ -119,7 +130,7 @@ def build_aio_archives(payloads_flat, pkg_flat, ffpfsc_flat, apps_flat):
         zip_path = os.path.join(archives_dir, zip_name)
         with zipfile.ZipFile(zip_path, 'w', zipfile.ZIP_DEFLATED) as zf:
             for item in items:
-                file_path = item.get("local_path")
+                file_path = item.get("local_path") if isinstance(item, dict) else None
                 if file_path and os.path.exists(file_path):
                     zf.write(file_path, arcname=os.path.basename(file_path))
         size_bytes = os.path.getsize(zip_path) if os.path.exists(zip_path) else 0
