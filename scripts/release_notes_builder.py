@@ -29,20 +29,27 @@ def generate_release_notes(data_store_by_cat):
                 for item in old_data:
                     if isinstance(item, dict):
                         old_items_map[item.get('name')] = item.get('version')
+                    elif isinstance(item, str):
+                        old_items_map[item] = ""
                     
         added_or_updated = []
         for item in new_data:
-            if not isinstance(item, dict):
+            if isinstance(item, dict):
+                name = item.get('name')
+                version = item.get('version', 'v1.0.0')
+            elif isinstance(item, str):
+                name = item
+                version = ""
+            else:
                 continue
-            name = item.get('name')
-            version = item.get('version', 'v1.0.0')
+                
             if not name:
                 continue
             
             if name not in old_items_map:
-                added_or_updated.append(f"`{name}` ({version}) - *Nouveau*")
-            elif old_items_map[name] != version:
-                added_or_updated.append(f"`{name}` ({version}) - *Mis à jour*")
+                added_or_updated.append(f"`{name}` ({version}) - *Nouveau*".strip())
+            elif version and old_items_map.get(name) != version:
+                added_or_updated.append(f"`{name}` ({version}) - *Mis à jour*".strip())
                 
         if added_or_updated:
             current_changes[cat] = added_or_updated
@@ -52,11 +59,11 @@ def generate_release_notes(data_store_by_cat):
     content += "Le store PlayStation 5 a été mis à jour avec succès.\n\n"
     
     content += "#### 📦 Archives AIO Disponibles :\n"
-    content += "- `- PS5_payloads_aio_latest.zip`\n"
-    content += "- `- PS5_pkg_aio_latest.zip`\n"
-    content += "- `- PS5_ffpfsc_aio_latest.zip`\n"
-    content += "- `- PS5_apps_aio_latest.zip`\n"
-    content += "- `- PS5_ultimate_pack_latest.zip`\n\n"
+    content += "- `PS5_payloads_aio_latest.zip`\n"
+    content += "- `PS5_pkg_aio_latest.zip`\n"
+    content += "- `PS5_ffpfsc_aio_latest.zip`\n"
+    content += "- `PS5_apps_aio_latest.zip`\n"
+    content += "- `PS5_ultimate_pack_latest.zip`\n\n"
     
     content += "#### 📂 Fichiers inclus / mis à jour :\n"
     if current_changes:
@@ -82,14 +89,25 @@ def generate_release_notes(data_store_by_cat):
         content += f"<details>\n<summary><b>{icon} Pack {cat_key.upper()}</b></summary>\n\n"
         
         has_items = False
-        for sub_cat, items in cat_dict.items():
-            if items:
+        for sub_cat_name, sub_cat_data in cat_dict.items():
+            items_list = []
+            if isinstance(sub_cat_data, dict):
+                items_list = sub_cat_data.get('items', [])
+            elif isinstance(sub_cat_data, list):
+                items_list = sub_cat_data
+                
+            if items_list:
                 has_items = True
-                content += f"* **{sub_cat}**\n"
-                for item in items:
-                    filename = item.get('filename', item.get('name', ''))
-                    version = item.get('version', '')
-                    content += f"  * `{filename}` *({version})*\n"
+                content += f"* **{sub_cat_name}**\n"
+                for item in items_list:
+                    if isinstance(item, dict):
+                        filename = item.get('filename', item.get('name', ''))
+                        version = item.get('version', '')
+                        ver_str = f" *({version})*" if version else ""
+                        if filename:
+                            content += f"  * `{filename}`{ver_str}\n"
+                    elif isinstance(item, str):
+                        content += f"  * `{item}`\n"
         
         if not has_items:
             content += "*Aucun élément dans ce pack.*\n"
