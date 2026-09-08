@@ -8,7 +8,6 @@ def generate_build_changelog():
     json_dir = PATHS.get("json_dir", "json")
     changelog_path = "CHANGELOG.md"
     
-    # Catégories gérées
     categories = ["payloads", "pkg", "ffpfsc", "apps"]
     current_changes = {}
     
@@ -32,7 +31,6 @@ def generate_build_changelog():
                     
         added_or_updated = []
         for item in new_data:
-            # Vérification de sécurité : s'assure que l'élément est bien un dictionnaire
             if not isinstance(item, dict):
                 continue
                 
@@ -50,7 +48,6 @@ def generate_build_changelog():
         if added_or_updated:
             current_changes[cat] = added_or_updated
             
-        # Sauvegarde du nouveau fichier en tant qu'ancien pour la prochaine build
         with open(old_file, 'w', encoding='utf-8') as f:
             json.dump(new_data, f, indent=4, ensure_ascii=False)
 
@@ -58,7 +55,6 @@ def generate_build_changelog():
         print("    ℹ️ Aucun nouveau fichier ou changement détecté pour ce build.")
         return
 
-    # Formatage de l'entrée du jour
     date_str = datetime.now().strftime("%d/%m/%Y à %H:%M")
     new_section = f"## Build du {date_str}\n"
     for cat, items in current_changes.items():
@@ -67,7 +63,6 @@ def generate_build_changelog():
             new_section += f"  * {entry}\n"
     new_section += "\n"
 
-    # Lecture de l'ancien changelog s'il existe
     existing_content = ""
     if os.path.exists(changelog_path):
         with open(changelog_path, 'r', encoding='utf-8') as f:
