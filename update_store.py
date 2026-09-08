@@ -23,6 +23,7 @@ def generate_release_notes(data_store_by_cat):
     categories = ["payloads", "pkg", "ffpfsc", "apps"]
     current_changes = {}
     
+    # 1. Détection des nouveautés/mises à jour
     for cat in categories:
         new_file = os.path.join(json_dir, f"{cat}.json")
         old_file = os.path.join(json_dir, f"old_{cat}.json")
@@ -33,38 +34,46 @@ def generate_release_notes(data_store_by_cat):
         with open(new_file, 'r', encoding='utf-8') as f:
             new_data = json.load(f)
             
-        old_items_map = {}
+        old_filenames = set()
         if os.path.exists(old_file):
             with open(old_file, 'r', encoding='utf-8') as f:
                 old_data = json.load(f)
-                for item in old_data:
-                    if isinstance(item, dict):
-                        old_items_map[item.get('name')] = item.get('version')
-                    elif isinstance(item, str):
-                        old_items_map[item] = ""
+                for key, val in old_data.items():
+                    if isinstance(val, list):
+                        for item in val:
+                            if isinstance(item, dict):
+                                fname = item.get('filename')
+                                if fname:
+                                    old_filenames.add(fname)
+                    elif isinstance(val, dict):
+                        items_list = val.get('items', [])
+                        for item in items_list:
+                            if isinstance(item, dict):
+                                fname = item.get('filename')
+                                if fname:
+                                    old_filenames.add(fname)
                     
         added_or_updated = []
-        for item in new_data:
-            if isinstance(item, dict):
-                name = item.get('name')
-                version = item.get('version', 'v1.0.0')
-            elif isinstance(item, str):
-                name = item
-                version = ""
-            else:
-                continue
-                
-            if not name:
-                continue
-            
-            if name not in old_items_map:
-                added_or_updated.append(f"`{name}` ({version}) - *Nouveau*".strip())
-            elif version and old_items_map.get(name) != version:
-                added_or_updated.append(f"`{name}` ({version}) - *Mis à jour*".strip())
-                
+        if isinstance(new_data, dict):
+            for key, val in new_data.items():
+                if key == "name":
+                    continue
+                items_list = []
+                if isinstance(val, list):
+                    items_list = val
+                elif isinstance(val, dict):
+                    items_list = val.get('items', [])
+                    
+                for item in items_list:
+                    if isinstance(item, dict):
+                        fname = item.get('filename')
+                        if fname and fname not in old_filenames:
+                            added_or_updated.append(f"`{fname}` - *Nouveau*")
+                                
         if added_or_updated:
-            current_changes[cat] = added_or_updated
+            current_changes[cat] = sorted(list(set(added_or_updated)))
 
+    # 2. Construction du contenu Markdown
     content = f"### 🚀 Synthèse de la mise à jour ({date_str})\n\n"
     content += "Le store PlayStation 5 a été mis à jour avec succès.\n\n"
     
@@ -94,23 +103,43 @@ def generate_release_notes(data_store_by_cat):
         "apps": "🛠️"
     }
 
-    for cat_key, cat_dict in data_store_by_cat.items():
+    # 3. Lecture directe et propre depuis les fichiers JSON générés
+    for cat_key in categories:
+        json_file_path = os.path.join(json_dir, f"{cat_key}.json")
         icon = icons.get(cat_key, "📦")
         content += f"<details>\n<summary><b>{icon} Pack {cat_key.upper()}</b></summary>\n\n"
         
         has_items = False
-        for sub_cat, items in cat_dict.items():
-            if items:
-                has_items = True
-                content += f"* **{sub_cat}**\n"
-                for item in items:
-                    if isinstance(item, dict):
-                        filename = item.get('filename', item.get('name', ''))
-                        version = item.get('version', '')
-                        ver_str = f" *({version})*" if version else ""
-                        content += f"  * `{filename}`{ver_str}\n"
-                    elif isinstance(item, str):
-                        content += f"  * `{item}`\n"
+        if os.path.exists(json_file_path):
+            with open(json_file_path, 'r', encoding='utf-8') as f:
+                json_content = json.load(f)
+                
+            if isinstance(json_content, dict):
+                for section_key, section_val in json_content.items():
+                    if section_key == "name":
+                        continue
+                        
+                    file_entries = []
+                    items_list = []
+                    if isinstance(section_val, list):
+                        items_list = section_val
+                    elif isinstance(section_val, dict):
+                        items_list = section_val.get('items', [])
+                        
+                    for item in items_list:
+                        if isinstance(item, dict):
+                            fname = item.get('filename')
+                            if fname:
+                                file_entries.append(fname)
+                            
+                    if file_entries:
+                        has_items = True
+                        content += f"* **{section_key}**\n"
+                        seen = set()
+                        for fname in file_entries:
+                            if fname not in seen:
+                                seen.add(fname)
+                                content += f"  * `{fname}`\n"
         
         if not has_items:
             content += "*Aucun élément dans ce pack.*\n"
