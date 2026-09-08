@@ -354,9 +354,9 @@
     </item>
     <item>
       <title>ps5-web-file-manager</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.7/ps5-web-file-manager_v1.7.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.8/ps5-web-file-manager_v1.8.elf</link>
       <description>PS5 Web File Manager http://your-ps5-ip:8888.</description>
-      <pubDate>v1.7</pubDate>
+      <pubDate>v1.8</pubDate>
     </item>
     <item>
       <title>PS5-File-Explorer</title>
