@@ -1,14 +1,15 @@
 import os
 import json
 from datetime import datetime
+from scripts.config_rules import PATHS
 
 def generate_build_changelog():
-    json_dir = "json"
+    print("📝 [Bonus] Génération du changelog de build incrémental...")
+    json_dir = PATHS.get("json_dir", "json")
     changelog_path = "CHANGELOG.md"
     
     # Catégories gérées
     categories = ["payloads", "pkg", "ffpfsc", "apps"]
-    
     current_changes = {}
     
     for cat in categories:
@@ -25,14 +26,21 @@ def generate_build_changelog():
         if os.path.exists(old_file):
             with open(old_file, 'r', encoding='utf-8') as f:
                 old_data = json.load(f)
-                # Selon la structure, on map par nom ou filename
                 for item in old_data:
-                    old_items_map[item.get('name')] = item.get('version')
+                    if isinstance(item, dict):
+                        old_items_map[item.get('name')] = item.get('version')
                     
         added_or_updated = []
         for item in new_data:
+            # Vérification de sécurité : s'assure que l'élément est bien un dictionnaire
+            if not isinstance(item, dict):
+                continue
+                
             name = item.get('name')
             version = item.get('version', 'v1.0.0')
+            
+            if not name:
+                continue
             
             if name not in old_items_map:
                 added_or_updated.append(f"`{name}` ({version}) - *Nouveau*")
@@ -47,7 +55,8 @@ def generate_build_changelog():
             json.dump(new_data, f, indent=4, ensure_ascii=False)
 
     if not current_changes:
-        return # Rien de nouveau, pas de modification du changelog
+        print("    ℹ️ Aucun nouveau fichier ou changement détecté pour ce build.")
+        return
 
     # Formatage de l'entrée du jour
     date_str = datetime.now().strftime("%d/%m/%Y à %H:%M")
@@ -58,7 +67,7 @@ def generate_build_changelog():
             new_section += f"  * {entry}\n"
     new_section += "\n"
 
-    # Lecture de l'ancien changelog s'il existe pour prepend (ajouter en haut)
+    # Lecture de l'ancien changelog s'il existe
     existing_content = ""
     if os.path.exists(changelog_path):
         with open(changelog_path, 'r', encoding='utf-8') as f:
@@ -66,7 +75,6 @@ def generate_build_changelog():
     else:
         existing_content = "# 📜 Journal des Mises à Jour (Changelog)\n\n"
 
-    # Insertion de la nouvelle build juste après le titre principal
     header = "# 📜 Journal des Mises à Jour (Changelog)\n\n"
     body_content = existing_content.replace(header, "")
     
@@ -74,4 +82,4 @@ def generate_build_changelog():
 
     with open(changelog_path, 'w', encoding='utf-8') as f:
         f.write(final_content)
-    print("✅ Changelog de build généré avec succès !")
+    print("    ✅ Fichier CHANGELOG.md mis à jour avec succès !")
