@@ -8,7 +8,7 @@ def generate_release_notes(data_store_by_cat):
     notes_path = "release_notes.md"
     date_str = datetime.now().strftime("v%Y.%m.%d-%H%M")
     
-    # 1. Détection des nouveautés/mises à jour (comparaison old_*.json vs *.json)
+    # 1. Détection des nouveautés/mises à jour
     categories = ["payloads", "pkg", "ffpfsc", "apps"]
     current_changes = {}
     
@@ -84,30 +84,42 @@ def generate_release_notes(data_store_by_cat):
         "apps": "🛠️"
     }
 
+    def extract_files_recursively(data):
+        found = []
+        if isinstance(data, list):
+            for elem in data:
+                found.extend(extract_files_recursively(elem))
+        elif isinstance(data, dict):
+            # Si le dictionnaire représente un fichier direct (contient filename ou name et pas juste une structure de regroupement)
+            if "filename" in data or ("name" in data and ("url" in data or "version" in data or "path" in data)):
+                filename = data.get('filename', data.get('name', ''))
+                version = data.get('version', '')
+                if filename and filename not in ["name", "items"]:
+                    found.append((filename, version))
+            # Sinon on fouille dans toutes les valeurs du dictionnaire
+            for k, v in data.items():
+                if k not in ["name", "items"] or isinstance(v, list):
+                    found.extend(extract_files_recursively(v))
+        return found
+
     for cat_key, cat_dict in data_store_by_cat.items():
         icon = icons.get(cat_key, "📦")
         content += f"<details>\n<summary><b>{icon} Pack {cat_key.upper()}</b></summary>\n\n"
         
         has_items = False
-        for sub_cat_name, sub_cat_data in cat_dict.items():
-            items_list = []
-            if isinstance(sub_cat_data, dict):
-                items_list = sub_cat_data.get('items', [])
-            elif isinstance(sub_cat_data, list):
-                items_list = sub_cat_data
-                
-            if items_list:
-                has_items = True
-                content += f"* **{sub_cat_name}**\n"
-                for item in items_list:
-                    if isinstance(item, dict):
-                        filename = item.get('filename', item.get('name', ''))
-                        version = item.get('version', '')
-                        ver_str = f" *({version})*" if version else ""
-                        if filename:
+        if isinstance(cat_dict, dict):
+            for sub_cat_name, sub_cat_data in cat_dict.items():
+                files = extract_files_recursively(sub_cat_data)
+                if files:
+                    has_items = True
+                    content += f"* **{sub_cat_name}**\n"
+                    # Dédoublonner tout en gardant l'ordre
+                    seen = set()
+                    for filename, version in files:
+                        if filename not in seen:
+                            seen.add(filename)
+                            ver_str = f" *({version})*" if version else ""
                             content += f"  * `{filename}`{ver_str}\n"
-                    elif isinstance(item, str):
-                        content += f"  * `{item}`\n"
         
         if not has_items:
             content += "*Aucun élément dans ce pack.*\n"
