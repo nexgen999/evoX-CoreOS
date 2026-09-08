@@ -2,7 +2,7 @@
 import os
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
-from scripts.config_rules import BASE_URL
+from scripts.config_rules import PATHS, BASE_URL
 
 def build_rss_feed(data_store):
     base_rss_dir = "rss"
@@ -13,6 +13,35 @@ def build_rss_feed(data_store):
     ET.SubElement(global_channel, "title").text = "PS5 Store AIO - Global Feed"
     ET.SubElement(global_channel, "link").text = BASE_URL
     ET.SubElement(global_channel, "description").text = "Flux RSS global de toutes les mises à jour du store PS5"
+
+    # Racine OPML globale pour compiler toutes les sources de tous les dossiers feeds d'origine
+    global_opml_root = ET.Element("opml", version="2.0")
+    global_head = ET.SubElement(global_opml_root, "head")
+    ET.SubElement(global_head, "title").text = "PS5 Store AIO - All Sources OPML"
+    global_opml_body = ET.SubElement(global_opml_root, "body")
+
+    # Parcours des dossiers feed pour compiler les sources d'origine (OPML source)
+    for cat_tech, cat_paths in PATHS["categories"].items():
+        feed_dir = cat_paths.get("feed")
+        if feed_dir and os.path.exists(feed_dir):
+            cat_outline = ET.SubElement(global_opml_body, "outline", {"text": cat_tech.title(), "title": cat_tech.title()})
+            for opml_file in [f for f in os.listdir(feed_dir) if f.endswith('.opml')]:
+                opml_path = os.path.join(feed_dir, opml_file)
+                try:
+                    tree = ET.parse(opml_path)
+                    root = tree.getroot()
+                    for outline in root.findall(".//outline"):
+                        xml_url = outline.get("xmlUrl") or outline.get("xmlurl")
+                        if xml_url:
+                            ET.SubElement(cat_outline, "outline", {
+                                "text": outline.get("text", outline.get("title", "Source")),
+                                "title": outline.get("title", outline.get("text", "Source")),
+                                "type": "rss",
+                                "xmlUrl": xml_url,
+                                "description": outline.get("description", "")
+                            })
+                except Exception as e:
+                    print(f"⚠️ Erreur lecture OPML source {opml_path} : {e}")
 
     for cat_key, cat_info in data_store.items():
         if not isinstance(cat_info, dict):
@@ -67,3 +96,8 @@ def build_rss_feed(data_store):
     global_xml_str = minidom.parseString(ET.tostring(global_rss_root)).toprettyxml(indent="  ")
     with open(os.path.join(base_rss_dir, "feed.xml"), "w", encoding="utf-8") as f:
         f.write(global_xml_str)
+
+    # Sauvegarde du fichier OPML consolidé global dans /rss/source_aio.opml
+    global_opml_str = minidom.parseString(ET.tostring(global_opml_root)).toprettyxml(indent="  ")
+    with open(os.path.join(base_rss_dir, "source_aio.opml"), "w", encoding="utf-8") as f:
+        f.write(global_opml_str)
