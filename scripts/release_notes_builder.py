@@ -8,10 +8,10 @@ def generate_release_notes(data_store_by_cat):
     notes_path = "release_notes.md"
     date_str = datetime.now().strftime("v%Y.%m.%d-%H%M")
     
-    # 1. Détection des nouveautés/mises à jour (comparaison old_*.json vs *.json)
     categories = ["payloads", "pkg", "ffpfsc", "apps"]
     current_changes = {}
     
+    # 1. Détection des nouveautés/mises à jour
     for cat in categories:
         new_file = os.path.join(json_dir, f"{cat}.json")
         old_file = os.path.join(json_dir, f"old_{cat}.json")
@@ -26,61 +26,35 @@ def generate_release_notes(data_store_by_cat):
         if os.path.exists(old_file):
             with open(old_file, 'r', encoding='utf-8') as f:
                 old_data = json.load(f)
-                def extract_old_items(data):
-                    items = []
-                    if isinstance(data, list):
-                        for item in data:
-                            items.extend(extract_old_items(item))
-                    elif isinstance(data, dict):
-                        if "name" in data or "filename" in data:
-                            items.append(data)
-                        for v in data.values():
-                            items.extend(extract_old_items(v))
-                    return items
-                    
-                for item in extract_old_items(old_data):
-                    if isinstance(item, dict):
-                        name = item.get('filename') or item.get('name')
-                        if name and name not in ["name", "items"]:
-                            old_items_map[name] = item.get('version', '')
-                    elif isinstance(item, str):
-                        old_items_map[item] = ""
+                if isinstance(old_data, dict):
+                    for sub_cat, items in old_data.items():
+                        if isinstance(items, list):
+                            for item in items:
+                                if isinstance(item, dict):
+                                    fname = item.get('filename') or item.get('name')
+                                    if fname:
+                                        old_items_map[fname] = item.get('version', '')
                     
         added_or_updated = []
-        def extract_new_items(data):
-            items = []
-            if isinstance(data, list):
-                for item in data:
-                    items.extend(extract_new_items(item))
-            elif isinstance(data, dict):
-                if "name" in data or "filename" in data:
-                    items.append(data)
-                for v in data.values():
-                    items.extend(extract_new_items(v))
-            return items
-
-        for item in extract_new_items(new_data):
-            if isinstance(item, dict):
-                name = item.get('filename') or item.get('name')
-                version = item.get('version', 'v1.0.0')
-            elif isinstance(item, str):
-                name = item
-                version = ""
-            else:
-                continue
-                
-            if not name or name in ["name", "items"]:
-                continue
-            
-            if name not in old_items_map:
-                added_or_updated.append(f"`{name}` ({version}) - *Nouveau*".strip())
-            elif version and old_items_map.get(name) != version:
-                added_or_updated.append(f"`{name}` ({version}) - *Mis à jour*".strip())
-                
+        if isinstance(new_data, dict):
+            for sub_cat, items in new_data.items():
+                if isinstance(items, list):
+                    for item in items:
+                        if isinstance(item, dict):
+                            fname = item.get('filename') or item.get('name')
+                            fver = item.get('version', 'v1.0.0')
+                            if not fname or fname in ["name", "items"]:
+                                continue
+                            
+                            if fname not in old_items_map:
+                                added_or_updated.append(f"`{fname}` ({fver}) - *Nouveau*")
+                            elif fver and old_items_map.get(fname) != fver:
+                                added_or_updated.append(f"`{fname}` ({fver}) - *Mis à jour*")
+                                
         if added_or_updated:
             current_changes[cat] = sorted(list(set(added_or_updated)))
 
-    # 2. Construction du contenu Markdown pour la Release
+    # 2. Construction du contenu Markdown
     content = f"### 🚀 Synthèse de la mise à jour ({date_str})\n\n"
     content += "Le store PlayStation 5 a été mis à jour avec succès.\n\n"
     
@@ -110,7 +84,7 @@ def generate_release_notes(data_store_by_cat):
         "apps": "🛠️"
     }
 
-    # 3. Lecture directe des fichiers JSON générés pour l'affichage propre
+    # 3. Lecture directe et propre des fichiers JSON générés
     for cat_key in categories:
         json_file_path = os.path.join(json_dir, f"{cat_key}.json")
         icon = icons.get(cat_key, "📦")
@@ -121,50 +95,28 @@ def generate_release_notes(data_store_by_cat):
             with open(json_file_path, 'r', encoding='utf-8') as f:
                 json_content = json.load(f)
                 
-            if isinstance(json_content, list):
-                for element in json_content:
-                    if isinstance(element, dict):
-                        sub_name = element.get('name') or element.get('category') or "Éléments"
-                        sub_items = element.get('items', [element])
-                        
-                        if isinstance(sub_items, list) and sub_items:
-                            valid_sub_items = []
-                            for sub_item in sub_items:
-                                if isinstance(sub_item, dict):
-                                    fname = sub_item.get('filename') or sub_item.get('name', '')
-                                    fver = sub_item.get('version', '')
-                                    if fname and fname not in ["name", "items"]:
-                                        valid_sub_items.append((fname, fver))
-                                elif isinstance(sub_item, str):
-                                    valid_sub_items.append((sub_item, ''))
-                                    
-                            if valid_sub_items:
-                                has_items = True
-                                content += f"* **{sub_name}**\n"
-                                seen_files = set()
-                                for fname, fver in valid_sub_items:
-                                    if fname not in seen_files:
-                                        seen_files.add(fname)
-                                        ver_str = f" *({fver})*" if fver else ""
-                                        content += f"  * `{fname}`{ver_str}\n"
-            elif isinstance(json_content, dict):
-                for sub_name, sub_items in json_content.items():
-                    if sub_items:
-                        has_items = True
-                        content += f"* **{sub_name}**\n"
-                        if isinstance(sub_items, list):
-                            seen_files = set()
-                            for sub_item in sub_items:
-                                if isinstance(sub_item, dict):
-                                    fname = sub_item.get('filename') or sub_item.get('name', '')
-                                    fver = sub_item.get('version', '')
-                                    if fname and fname not in ["name", "items"] and fname not in seen_files:
-                                        seen_files.add(fname)
-                                        ver_str = f" *({fver})*" if fver else ""
-                                        content += f"  * `{fname}`{ver_str}\n"
-                                elif isinstance(sub_item, str) and sub_item not in seen_files:
-                                    seen_files.add(sub_item)
-                                    content += f"  * `{sub_item}`\n"
+            if isinstance(json_content, dict):
+                for sub_cat_name, sub_items in json_content.items():
+                    if isinstance(sub_items, list) and sub_items:
+                        valid_files = []
+                        for sub_item in sub_items:
+                            if isinstance(sub_item, dict):
+                                fname = sub_item.get('filename') or sub_item.get('name')
+                                fver = sub_item.get('version', '')
+                                if fname and fname not in ["name", "items"]:
+                                    valid_files.append((fname, fver))
+                            elif isinstance(sub_item, str):
+                                valid_files.append((sub_item, ''))
+                                
+                        if valid_files:
+                            has_items = True
+                            content += f"* **{sub_cat_name}**\n"
+                            seen = set()
+                            for fname, fver in valid_files:
+                                if fname not in seen:
+                                    seen.add(fname)
+                                    ver_str = f" *({fver})*" if fver else ""
+                                    content += f"  * `{fname}`{ver_str}\n"
         
         if not has_items:
             content += "*Aucun élément dans ce pack.*\n"
