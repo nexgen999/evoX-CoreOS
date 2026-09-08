@@ -26,30 +26,38 @@ def generate_release_notes(data_store_by_cat):
         if os.path.exists(old_file):
             with open(old_file, 'r', encoding='utf-8') as f:
                 old_data = json.load(f)
-                if isinstance(old_data, dict):
-                    for sub_cat, items in old_data.items():
-                        if isinstance(items, list):
-                            for item in items:
+                # Parcours sécurisé de old_data (dict ou list)
+                items_collection = old_data.values() if isinstance(old_data, dict) else old_data
+                for sub in items_collection:
+                    if isinstance(sub, dict):
+                        sub_items = sub.get('items', [sub])
+                        if isinstance(sub_items, list):
+                            for item in sub_items:
                                 if isinstance(item, dict):
                                     fname = item.get('filename') or item.get('name')
-                                    if fname:
+                                    if fname and fname not in ["name", "items"]:
                                         old_items_map[fname] = item.get('version', '')
                     
         added_or_updated = []
         if isinstance(new_data, dict):
-            for sub_cat, items in new_data.items():
-                if isinstance(items, list):
-                    for item in items:
-                        if isinstance(item, dict):
-                            fname = item.get('filename') or item.get('name')
-                            fver = item.get('version', 'v1.0.0')
-                            if not fname or fname in ["name", "items"]:
-                                continue
-                            
-                            if fname not in old_items_map:
-                                added_or_updated.append(f"`{fname}` ({fver}) - *Nouveau*")
-                            elif fver and old_items_map.get(fname) != fver:
-                                added_or_updated.append(f"`{fname}` ({fver}) - *Mis à jour*")
+            for sub_cat_name, sub_data in new_data.items():
+                sub_items = []
+                if isinstance(sub_data, dict):
+                    sub_items = sub_data.get('items', [])
+                elif isinstance(sub_data, list):
+                    sub_items = sub_data
+                    
+                for item in sub_items:
+                    if isinstance(item, dict):
+                        fname = item.get('filename') or item.get('name')
+                        fver = item.get('version', 'v1.0.0')
+                        if not fname or fname in ["name", "items"]:
+                            continue
+                        
+                        if fname not in old_items_map:
+                            added_or_updated.append(f"`{fname}` ({fver}) - *Nouveau*")
+                        elif fver and old_items_map.get(fname) != fver:
+                            added_or_updated.append(f"`{fname}` ({fver}) - *Mis à jour*")
                                 
         if added_or_updated:
             current_changes[cat] = sorted(list(set(added_or_updated)))
@@ -96,27 +104,32 @@ def generate_release_notes(data_store_by_cat):
                 json_content = json.load(f)
                 
             if isinstance(json_content, dict):
-                for sub_cat_name, sub_items in json_content.items():
-                    if isinstance(sub_items, list) and sub_items:
-                        valid_files = []
-                        for sub_item in sub_items:
-                            if isinstance(sub_item, dict):
-                                fname = sub_item.get('filename') or sub_item.get('name')
-                                fver = sub_item.get('version', '')
-                                if fname and fname not in ["name", "items"]:
-                                    valid_files.append((fname, fver))
-                            elif isinstance(sub_item, str):
-                                valid_files.append((sub_item, ''))
-                                
-                        if valid_files:
-                            has_items = True
-                            content += f"* **{sub_cat_name}**\n"
-                            seen = set()
-                            for fname, fver in valid_files:
-                                if fname not in seen:
-                                    seen.add(fname)
-                                    ver_str = f" *({fver})*" if fver else ""
-                                    content += f"  * `{fname}`{ver_str}\n"
+                for sub_cat_name, sub_data in json_content.items():
+                    sub_items = []
+                    if isinstance(sub_data, dict):
+                        sub_items = sub_data.get('items', [])
+                    elif isinstance(sub_data, list):
+                        sub_items = sub_data
+                        
+                    valid_files = []
+                    for sub_item in sub_items:
+                        if isinstance(sub_item, dict):
+                            fname = sub_item.get('filename') or sub_item.get('name')
+                            fver = sub_item.get('version', '')
+                            if fname and fname not in ["name", "items"]:
+                                valid_files.append((fname, fver))
+                        elif isinstance(sub_item, str):
+                            valid_files.append((sub_item, ''))
+                            
+                    if valid_files:
+                        has_items = True
+                        content += f"* **{sub_cat_name}**\n"
+                        seen = set()
+                        for fname, fver in valid_files:
+                            if fname not in seen:
+                                seen.add(fname)
+                                ver_str = f" *({fver})*" if fver else ""
+                                content += f"  * `{fname}`{ver_str}\n"
         
         if not has_items:
             content += "*Aucun élément dans ce pack.*\n"
