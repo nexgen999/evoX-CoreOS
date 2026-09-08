@@ -27,21 +27,21 @@ def generate_release_notes(data_store_by_cat):
             with open(old_file, 'r', encoding='utf-8') as f:
                 old_data = json.load(f)
                 if isinstance(old_data, dict):
-                    for sub_name, sub_items in old_data.items():
-                        if isinstance(sub_items, list):
-                            for item in sub_items:
+                    for sub_cat, sub_list in old_data.items():
+                        if isinstance(sub_list, list):
+                            for item in sub_list:
                                 if isinstance(item, dict):
-                                    fname = item.get('filename') or item.get('name')
+                                    fname = item.get('filename')
                                     if fname:
                                         old_items_map[fname] = item.get('version', '')
                     
         added_or_updated = []
         if isinstance(new_data, dict):
-            for sub_name, sub_items in new_data.items():
-                if isinstance(sub_items, list):
-                    for item in sub_items:
+            for sub_cat, sub_list in new_data.items():
+                if isinstance(sub_list, list):
+                    for item in sub_list:
                         if isinstance(item, dict):
-                            fname = item.get('filename') or item.get('name')
+                            fname = item.get('filename')
                             fver = item.get('version', 'v1.0.0')
                             if not fname:
                                 continue
@@ -84,7 +84,7 @@ def generate_release_notes(data_store_by_cat):
         "apps": "🛠️"
     }
 
-    # 3. Lecture directe, simple et stricte des JSON du dossier json/
+    # 3. Lecture directe et stricte des JSON par catégorie
     for cat_key in categories:
         json_file_path = os.path.join(json_dir, f"{cat_key}.json")
         icon = icons.get(cat_key, "📦")
@@ -95,21 +95,17 @@ def generate_release_notes(data_store_by_cat):
             with open(json_file_path, 'r', encoding='utf-8') as f:
                 json_content = json.load(f)
                 
-            # Structure attendue : dictionnaire { "sous_catégorie": [ { "filename": "...", "version": "..." }, ... ] }
             if isinstance(json_content, dict):
-                for sub_cat_name, items_list in json_content.items():
-                    if isinstance(items_list, list) and items_list:
+                for sub_cat_name, sub_list in json_content.items():
+                    if isinstance(sub_list, list) and sub_list:
                         valid_files = []
-                        for item in items_list:
+                        for item in sub_list:
                             if isinstance(item, dict):
-                                # On récupère directement le filename ou le name de l'objet
-                                fname = item.get('filename') or item.get('name')
+                                fname = item.get('filename')
                                 fver = item.get('version', '')
                                 if fname:
                                     valid_files.append((fname, fver))
-                            elif isinstance(item, str):
-                                valid_files.append((item, ''))
-                                
+                        
                         if valid_files:
                             has_items = True
                             content += f"* **{sub_cat_name}**\n"
