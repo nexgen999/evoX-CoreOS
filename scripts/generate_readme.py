@@ -2,15 +2,34 @@
 import os
 from scripts.config_rules import PATHS, BASE_URL
 
-def generate_readme(credits_list, data_store=None):
+def generate_readme(credits_list, data_store_by_cat=None):
     readme_path = "README.md"
     
+    # Extraction dynamique du propriétaire et du dépôt depuis BASE_URL
+    # Ex: https://nexgen999.github.io/evoX-CoreOS -> owner = nexgen999, repo = evoX-CoreOS
+    clean_url = BASE_URL.replace("https://", "").replace("http://", "")
+    url_parts = clean_url.split("/")
+    owner = url_parts[0].split(".")[0]
+    repo = url_parts[1] if len(url_parts) > 1 else "evoX-CoreOS"
+    
+    github_releases_base = f"https://github.com/{owner}/{repo}/releases/download/latest"
+    json_base_url = f"{BASE_URL}/json"
+
     sorted_credits = sorted(list(set(credits_list)))
     credits_content = "\n".join(sorted_credits) if sorted_credits else "_Aucun crédit répertorié._"
 
-    content = f"""# 🚀 PS5 Super PLDMGR Auto-Updater Core OS
+    # En-tête et bannière
+    content = f"""<p align="center"><h1>evoX-CoreOS</h1></p>
 
-Store automatisé et intelligent pour PlayStation 5 regroupant les payloads, packages (PKG), fichiers FFPFSC et applications utilitaires avec synchronisation continue.
+<p align="center">
+  <img src="assets/evoX-CoreOS.png" alt="evoX-CoreOS Banner" width="800">
+</p>
+
+---
+
+## 🌟 À Propos du Projet
+
+**evoX-CoreOS** est un écosystème automatisé et intelligent pour PlayStation 5. Il centralise, structure et synchronise en continu les payloads, packages (PKG), fichiers FFPFSC et applications utilitaires de la scène homebrew. Le système intègre une génération dynamique de flux RSS et OPML pour la veille technologique, ainsi qu'une compilation automatisée des packages et des archives AIO (All-In-One).
 
 ---
 
@@ -24,34 +43,97 @@ Accédez à l'interface web interactive générée automatiquement pour explorer
 ## 🔗 Liste des URLs JSON Globales
 
 Retrouvez l'ensemble des points d'accès aux données JSON du store :
-- **Payloads Global** : `{BASE_URL}/json/payloads.json`
-- **Packages (PKG) Global** : `{BASE_URL}/json/pkg.json`
-- **Fichiers FFPFSC Global** : `{BASE_URL}/json/ffpfsc.json`
-- **Applications Global** : `{BASE_URL}/json/apps.json`
+- **Payloads Global** : `{json_base_url}/payloads.json`
+- **Packages (PKG) Global** : `{json_base_url}/pkg.json`
+- **Fichiers FFPFSC Global** : `{json_base_url}/ffpfsc.json`
+- **Applications Global** : `{json_base_url}/apps.json`
 
 ---
 
 ## 📡 Flux RSS & Veille Technologique
 
-Les flux RSS générés automatiquement permettent de suivre en temps réel les mises à jour des dépôts, des outils et des binaires de la scène PS5 :
+Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en temps réel les mises à jour des dépôts, des outils et des binaires de la scène PS5 :
 - **Flux RSS Payloads** : `{BASE_URL}/rss/payloads_rss.xml`
 - **Flux RSS Packages (PKG)** : `{BASE_URL}/rss/pkg_rss.xml`
 - **Flux RSS Fichiers FFPFSC** : `{BASE_URL}/rss/ffpfsc_rss.xml`
 - **Flux RSS Applications** : `{BASE_URL}/rss/apps_rss.xml`
+- **Fichier Source OPML Global** : `{BASE_URL}/rss/source_aio.opml`
 
 ---
 
 ## 📦 Packs Latest à Télécharger (AIO)
 
-- **Pack Payloads AIO** : [{BASE_URL}/archives/PS5_payloads_aio_latest.zip]({BASE_URL}/archives/PS5_payloads_aio_latest.zip)
-- **Pack PKG AIO** : [{BASE_URL}/archives/PS5_pkg_aio_latest.zip]({BASE_URL}/archives/PS5_pkg_aio_latest.zip)
-- **Pack FFPFSC AIO** : [{BASE_URL}/archives/PS5_ffpfsc_aio_latest.zip]({BASE_URL}/archives/PS5_ffpfsc_aio_latest.zip)
-- **Pack Apps AIO** : [{BASE_URL}/archives/PS5_apps_aio_latest.zip]({BASE_URL}/archives/PS5_apps_aio_latest.zip)
-- **Ultimate Pack AIO** : [{BASE_URL}/archives/PS5_ultimate_pack_latest.zip]({BASE_URL}/archives/PS5_ultimate_pack_latest.zip)
+- **Pack Payloads AIO** : [{github_releases_base}/PS5_payloads_aio_latest.zip]({github_releases_base}/PS5_payloads_aio_latest.zip)
+- **Pack PKG AIO** : [{github_releases_base}/PS5_pkg_aio_latest.zip]({github_releases_base}/PS5_pkg_aio_latest.zip)
+- **Pack FFPFSC AIO** : [{github_releases_base}/PS5_ffpfsc_aio_latest.zip]({github_releases_base}/PS5_ffpfsc_aio_latest.zip)
+- **Pack Apps AIO** : [{github_releases_base}/PS5_apps_aio_latest.zip]({github_releases_base}/PS5_apps_aio_latest.zip)
+- **Ultimate Pack AIO** : [{github_releases_base}/PS5_ultimate_pack_latest.zip]({github_releases_base}/PS5_ultimate_pack_latest.zip)
 
 ---
+"""
 
-## ☕ Crédits & Sources
+    # Génération des tableaux visuels par catégorie et sous-catégorie
+    category_titles = {
+        "payloads": "⚡ Payloads (.elf / .bin) Disponibles par Catégorie",
+        "pkg": "🎮 Packages PS5 (.pkg) Disponibles",
+        "ffpfsc": "📄 Fichiers FFPFSC Disponibles",
+        "apps": "🛠️ Applications Utilitaires Disponibles"
+    }
+
+    if data_store_by_cat:
+        for cat_key, cat_data in data_store_by_cat.items():
+            if not cat_data:
+                continue
+            
+            section_title = category_titles.get(cat_key, f"📦 {cat_key.upper()}")
+            content += f"## {section_title}\n\n"
+            
+            for sub_cat_name, items in cat_data.items():
+                if not items:
+                    continue
+                
+                content += f"### 📂 {sub_cat_name}\n\n"
+                json_filename = f"{sub_cat_name.replace(' ', '_').replace('/', '_')}.json"
+                content += f"> **JSON Catégorie** : `{json_base_url}/{json_filename}`\n\n"
+                
+                # Format du tableau selon la catégorie (PKG vs Payloads/Autres)
+                if cat_key == "pkg":
+                    content += "| Package | Auteur | Version | Description |\n"
+                    content += "| :--- | :--- | :--- | :--- |\n"
+                    for item in items:
+                        if isinstance(item, dict):
+                            name = item.get('name', item.get('filename', 'Inconnu'))
+                            url = item.get('url', '#')
+                            author = item.get('author', 'Inconnu')
+                            version = item.get('version', 'v1.0.0')
+                            desc = item.get('description', '') or 'Aucune description.'
+                            
+                            # Si le nom est un fichier, on nettoie l'affichage
+                            display_name = f"[{name}]({url})" if url and url != '#' else name
+                            content += f"| {display_name} | {author} | {version} | {desc} |\n"
+                else:
+                    content += "| Application | Version | Empreinte SHA-256 | Description |\n"
+                    content += "| :--- | :--- | :--- | :--- |\n"
+                    for item in items:
+                        if isinstance(item, dict):
+                            name = item.get('name', item.get('filename', 'Inconnu'))
+                            url = item.get('url', '#')
+                            version = item.get('version', 'v1.0.0')
+                            sha = item.get('sha256', 'N/A')
+                            if sha and len(sha) > 12:
+                                sha_short = f"`{sha[:12]}...`"
+                            else:
+                                sha_short = f"`{sha}`" if sha else "N/A"
+                            desc = item.get('description', '') or 'Aucune description.'
+                            
+                            display_name = f"[{name}]({url})" if url and url != '#' else name
+                            content += f"| {display_name} | {version} | {sha_short} | {desc} |\n"
+                
+                content += "\n"
+            content += "---\n\n"
+
+    # Crédits & Sources
+    content += f"""## ☕ Crédits & Sources
 
 Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 
