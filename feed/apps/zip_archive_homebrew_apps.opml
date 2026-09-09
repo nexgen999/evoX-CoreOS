@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>zip_archive_homebrew_apps</title>
+  </head>
+  <body>
+    <outline text="castation" title="castation" type="rss" xmlUrl="https://github.com/BrinooTk/castation" author="BrinooTk" description="Dreamcast emulator based on Flycast PlayStation 5 homebrew"/>
+  </body>
+</opml>
