@@ -5,5 +5,6 @@
   </head>
   <body>
     <outline text="castation" title="castation" type="rss" xmlUrl="https://github.com/BrinooTk/castation" author="BrinooTk" description="Dreamcast emulator based on Flycast PlayStation 5 homebrew"/>
+    <outline text="dump_installer" title="dump_installer" type="rss" xmlUrl="https://github.com/EchoStretch/dump_installer" author="EchoStretch" description="Dump installer howmebrew"/>
   </body>
 </opml>
