@@ -5,9 +5,6 @@ from scripts.config_rules import PATHS, BASE_URL
 def generate_readme(credits_list, data_store_by_cat=None):
     readme_path = "README.md"
     
-    # DEBUG : Affichez le contenu reçu pour voir si les listes d'éléments sont vides
-    print("DEBUG data_store_by_cat:", data_store_by_cat)
-
     clean_url = BASE_URL.replace("https://", "").replace("http://", "")
     url_parts = clean_url.split("/")
     owner = url_parts[0].split(".")[0]
@@ -87,16 +84,29 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
             section_title = category_titles.get(cat_key, f"📦 {cat_key.upper()}")
             content += f"## {section_title}\n\n"
             
+            # Tri alphabétique des sous-catégories de A à Z
             sorted_sub_cats = sorted(cat_data.items(), key=lambda x: x[0].lower())
             
-            for sub_cat_name, items in sorted_sub_cats:
+            for sub_cat_key, sub_cat_val in sorted_sub_cats:
+                if not sub_cat_val:
+                    continue
+                
+                # Extraction sécurisée du nom d'affichage et de la liste des éléments ("items")
+                if isinstance(sub_cat_val, dict):
+                    sub_cat_name = sub_cat_val.get('name', sub_cat_key)
+                    items = sub_cat_val.get('items', [])
+                else:
+                    sub_cat_name = sub_cat_key
+                    items = sub_cat_val
+                
                 if not items:
                     continue
                 
                 content += f"### 📂 {sub_cat_name}\n\n"
-                json_filename = f"{sub_cat_name.replace(' ', '_').replace('/', '_')}.json"
+                json_filename = f"{sub_cat_key.replace(' ', '_').replace('/', '_')}.json"
                 content += f"> **JSON Catégorie** : `{json_base_url}/{cat_key}/{json_filename}`\n\n\n"
                 
+                # Tri alphabétique strict des éléments (de A à Z) basés sur 'name' ou 'filename'
                 sorted_items = sorted(
                     items, 
                     key=lambda x: x.get('name', x.get('filename', '')).lower() if isinstance(x, dict) else str(x).lower()
@@ -124,7 +134,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
                             name = item.get('name', item.get('filename', 'Inconnu'))
                             url = item.get('url', '#')
                             version = item.get('version', 'v1.0.0')
-                            sha = item.get('sha256', 'N/A')
+                            sha = item.get('checksum', item.get('sha256', 'N/A'))
                             if sha and len(sha) > 12:
                                 sha_short = f"`{sha[:12]}...`"
                             else:
