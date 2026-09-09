@@ -5,6 +5,9 @@ from scripts.config_rules import PATHS, BASE_URL
 def generate_readme(credits_list, data_store_by_cat=None):
     readme_path = "README.md"
     
+    # DEBUG : Affichez le contenu reçu pour voir si les listes d'éléments sont vides
+    print("DEBUG data_store_by_cat:", data_store_by_cat)
+
     clean_url = BASE_URL.replace("https://", "").replace("http://", "")
     url_parts = clean_url.split("/")
     owner = url_parts[0].split(".")[0]
@@ -84,7 +87,6 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
             section_title = category_titles.get(cat_key, f"📦 {cat_key.upper()}")
             content += f"## {section_title}\n\n"
             
-            # Tri alphabétique strict des sous-catégories (De A à Z)
             sorted_sub_cats = sorted(cat_data.items(), key=lambda x: x[0].lower())
             
             for sub_cat_name, items in sorted_sub_cats:
@@ -95,7 +97,6 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
                 json_filename = f"{sub_cat_name.replace(' ', '_').replace('/', '_')}.json"
                 content += f"> **JSON Catégorie** : `{json_base_url}/{cat_key}/{json_filename}`\n\n\n"
                 
-                # Tri alphabétique strict des éléments (De A à Z)
                 sorted_items = sorted(
                     items, 
                     key=lambda x: x.get('name', x.get('filename', '')).lower() if isinstance(x, dict) else str(x).lower()
