@@ -1,48 +1,68 @@
 import os
+import json
 from datetime import datetime
 from scripts.config_rules import PATHS
 
 def generate_release_notes(data_store_by_cat):
+    print("📝 Génération des notes de version pour la Release...")
+    json_dir = PATHS.get("json_dir", "json")
     notes_path = "release_notes.md"
-    changelog_path = "CHANGELOG.md"
     date_str = datetime.now().strftime("v%Y.%m.%d-%H%M")
     
     categories = ["payloads", "pkg", "ffpfsc", "apps"]
+    current_changes = {}
     
-    # Extraction automatique des nouveautés directement depuis le CHANGELOG.md fraîchement généré
-    recent_changes_html = ""
-    if os.path.exists(changelog_path):
-        with open(changelog_path, 'r', encoding='utf-8') as f:
-            changelog_content = f.read()
+    # 1. Détection automatique des nouveautés par comparaison old / new JSON
+    for cat in categories:
+        new_file = os.path.join(json_dir, f"{cat}.json")
+        old_file = os.path.join(json_dir, f"old_{cat}.json")
+        
+        if not os.path.exists(new_file):
+            continue
             
-        # On extrait la première section de build du changelog
-        parts = changelog_content.split("## Build du ")
-        if len(parts) > 1:
-            latest_build_block = parts[1].split("## Build du ")[0]
-            lines = latest_build_block.strip().split('\n')
-            # Ignore la première ligne (la date du build)
-            build_lines = lines[1:] if len(lines) > 1 else []
+        with open(new_file, 'r', encoding='utf-8') as f:
+            new_data = json.load(f)
             
-            if build_lines:
-                current_cat = None
-                cat_items = {}
-                for line in build_lines:
-                    if line.startswith("- "):
-                        cat_name = line.replace("- ", "").strip()
-                        current_cat = cat_name
-                        cat_items[current_cat] = []
-                    elif line.startswith("  - ") or line.startswith("   - ") or line.startswith("    - "):
-                        item_text = line.strip().lstrip("- ").strip()
-                        if current_cat:
-                            cat_items[current_cat].append(item_text)
-                
-                for cat, items in cat_items.items():
-                    recent_changes_html += f"<details>\n<summary><b>{cat}</b> ({len(items)} changements)</summary>\n\n"
-                    for entry in items:
-                        recent_changes_html += f"- {entry}\n"
-                    recent_changes_html += "\n</details>\n\n"
+        old_filenames = set()
+        if os.path.exists(old_file):
+            with open(old_file, 'r', encoding='utf-8') as f:
+                old_data = json.load(f)
+                for key, val in old_data.items():
+                    if isinstance(val, list):
+                        for item in val:
+                            if isinstance(item, dict):
+                                fname = item.get('filename')
+                                if fname:
+                                    old_filenames.add(fname)
+                    elif isinstance(val, dict):
+                        items_list = val.get('items', [])
+                        for item in items_list:
+                            if isinstance(item, dict):
+                                fname = item.get('filename')
+                                if fname:
+                                    old_filenames.add(fname)
+                    
+        added_or_updated = []
+        if isinstance(new_data, dict):
+            for key, val in new_data.items():
+                if key == "name":
+                    continue
+                items_list = []
+                if isinstance(val, list):
+                    items_list = val
+                elif isinstance(val, dict):
+                    items_list = val.get('items', [])
+                    
+                for item in items_list:
+                    if isinstance(item, dict):
+                        fname = item.get('filename')
+                        if fname and fname not in old_filenames:
+                            added_or_updated.append(f"`{fname}` - *Nouveau*")
+                            
+        if added_or_updated:
+            current_changes[cat] = sorted(list(set(added_or_updated)))
 
-    # Construction du contenu Markdown global
+    # 2. Construction du contenu Markdown global
     content = f"### 🚀 Synthèse de la mise à jour ({date_str})\n\n"
     content += "Le store PlayStation 5 a été mis à jour avec succès.\n\n"
     
@@ -54,8 +74,12 @@ def generate_release_notes(data_store_by_cat):
     content += "- `PS5_ultimate_pack_latest.zip`\n\n"
     
     content += "#### 📂 Fichiers inclus / mis à jour :\n"
-    if recent_changes_html:
-        content += recent_changes_html
+    if current_changes:
+        for cat, items in current_changes.items():
+            content += f"<details>\n<summary><b>{cat.upper()}</b> ({len(items)} changements)</summary>\n\n"
+            for entry in items:
+                content += f"- {entry}\n"
+            content += "\n</details>\n\n"
     else:
         content += "*Aucun nouveau fichier ou changement détecté sur cette build.*\n\n"
 
@@ -68,14 +92,12 @@ def generate_release_notes(data_store_by_cat):
         "apps": "🛠️"
     }
 
-    json_dir = PATHS.get("json_dir", "json")
     for cat_key in categories:
         json_file_path = os.path.join(json_dir, f"{cat_key}.json")
         icon = icons.get(cat_key, "📦")
         content += f"<details>\n<summary><b>{icon} Pack {cat_key.upper()}</b></summary>\n\n"
         
         has_items = False
-        import json
         if os.path.exists(json_file_path):
             with open(json_file_path, 'r', encoding='utf-8') as f:
                 json_content = json.load(f)
@@ -86,21 +108,18 @@ def generate_release_notes(data_store_by_cat):
                         continue
                         
                     file_entries = []
+                    items_list = []
                     if isinstance(section_val, list):
-                        for item in section_val:
-                            if isinstance(item, dict):
-                                fname = item.get('filename')
-                                if fname:
-                                    file_entries.append(fname)
+                        items_list = section_val
                     elif isinstance(section_val, dict):
-                        sub_items = section_val.get('items', [])
-                        if isinstance(sub_items, list):
-                            for item in sub_items:
-                                if isinstance(item, dict):
-                                    fname = item.get('filename')
-                                    if fname:
-                                        file_entries.append(fname)
-                            
+                        items_list = section_val.get('items', [])
+                        
+                    for item in items_list:
+                        if isinstance(item, dict):
+                            fname = item.get('filename')
+                            if fname:
+                                file_entries.append(fname)
+                        
                     if file_entries:
                         has_items = True
                         content += f"* **{section_key}**\n"
@@ -117,4 +136,4 @@ def generate_release_notes(data_store_by_cat):
 
     with open(notes_path, "w", encoding="utf-8") as f:
         f.write(content)
-    print("    ✅ Fichier release_notes.md généré avec succès à partir du Changelog !")
+    print("    ✅ Fichier release_notes.md généré avec succès !")
