@@ -21,20 +21,50 @@ def generate_build_changelog():
         with open(new_file, 'r', encoding='utf-8') as f:
             new_data = json.load(f)
             
+        # Indexation des anciens éléments (compatibilité structure plate ou imbriquée)
         old_items_map = {}
         if os.path.exists(old_file):
             with open(old_file, 'r', encoding='utf-8') as f:
                 old_data = json.load(f)
-                for item in old_data:
-                    if isinstance(item, dict):
-                        old_items_map[item.get('name')] = item.get('version')
-                    
-        added_or_updated = []
-        for item in new_data:
-            if not isinstance(item, dict):
-                continue
                 
-            name = item.get('name')
+            def extract_items_to_map(data, target_map):
+                if isinstance(data, list):
+                    for item in data:
+                        if isinstance(item, dict):
+                            name = item.get('name') or item.get('filename')
+                            version = item.get('version')
+                            if name:
+                                target_map[name] = version
+                elif isinstance(data, dict):
+                    for val in data.values():
+                        extract_items_to_map(val, target_map)
+
+            extract_items_to_map(old_data, old_items_map)
+                
+        # Extraction et comparaison des nouveaux éléments
+        new_items_list = []
+        def collect_new_items(data, target_list):
+            if isinstance(data, list):
+                for item in data:
+                    if isinstance(item, dict):
+                        target_list.append(item)
+            elif isinstance(data, dict):
+                # Si c'est un dict de sous-catégories contenant des listes ou des dicts d'items
+                for sub_val in data.values():
+                    if isinstance(sub_val, list):
+                        target_list.extend([i for i in sub_val if isinstance(i, dict)])
+                    elif isinstance(sub_val, dict):
+                        # Cas où les items sont dans une clé 'items' ou directement dedans
+                        if 'items' in sub_val and isinstance(sub_val['items'], list):
+                            target_list.extend([i for i in sub_val['items'] if isinstance(i, dict)])
+                        else:
+                            collect_new_items(sub_val, target_list)
+
+        collect_new_items(new_data, new_items_list)
+        
+        added_or_updated = []
+        for item in new_items_list:
+            name = item.get('name') or item.get('filename')
             version = item.get('version', 'v1.0.0')
             
             if not name:
