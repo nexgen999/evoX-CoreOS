@@ -20,6 +20,16 @@
       "version": "1.07",
       "author": "EchoStretch",
       "category": "Applications"
+    },
+    {
+      "name": "dump_runner",
+      "filename": "dump_runner.zip",
+      "url": "https://github.com/EchoStretch/dump_runner/releases/download/v1.02/dump_runner.zip",
+      "local_path": "archives/temp_apps/dump_runner.zip",
+      "description": "Dump runner howmebrew",
+      "version": "v1.02",
+      "author": "EchoStretch",
+      "category": "Applications"
     }
   ]
 }

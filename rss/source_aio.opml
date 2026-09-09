@@ -105,6 +105,7 @@
     <outline text="Apps" title="Apps">
       <outline text="castation" title="castation" type="rss" xmlUrl="https://github.com/BrinooTk/castation" description="Dreamcast emulator based on Flycast PlayStation 5 homebrew"/>
       <outline text="dump_installer" title="dump_installer" type="rss" xmlUrl="https://github.com/EchoStretch/dump_installer" description="Dump installer howmebrew"/>
+      <outline text="dump_runner" title="dump_runner" type="rss" xmlUrl="https://github.com/EchoStretch/dump_runner" description="Dump runner howmebrew"/>
       <outline text="ProsperoAI" title="ProsperoAI" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoAI" description="Private, local generative AI for PlayStation 5 homebrew"/>
     </outline>
   </body>

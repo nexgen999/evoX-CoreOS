@@ -17,6 +17,12 @@
       <pubDate>1.07</pubDate>
     </item>
     <item>
+      <title>dump_runner</title>
+      <link>https://github.com/EchoStretch/dump_runner/releases/download/v1.02/dump_runner.zip</link>
+      <description>Dump runner howmebrew</description>
+      <pubDate>v1.02</pubDate>
+    </item>
+    <item>
       <title>ProsperoAI (PPSA99004.zip)</title>
       <link>https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.000.000/PPSA99004.zip</link>
       <description>Private, local generative AI for PlayStation 5 homebrew</description>
