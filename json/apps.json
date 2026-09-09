@@ -12,6 +12,16 @@
       "category": "Applications"
     },
     {
+      "name": "dump_installer",
+      "filename": "dump_installer.zip",
+      "url": "https://github.com/EchoStretch/dump_installer/releases/download/1.07/dump_installer.zip",
+      "local_path": "archives/temp_apps/dump_installer.zip",
+      "description": "Dump installer howmebrew",
+      "version": "1.07",
+      "author": "EchoStretch",
+      "category": "Applications"
+    },
+    {
       "name": "ProsperoAI (PPSA99004.zip)",
       "filename": "PPSA99004.zip",
       "url": "https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.000.000/PPSA99004.zip",

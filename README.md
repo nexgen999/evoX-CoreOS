@@ -323,6 +323,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 | [castation (castation-0.4.0.zip)](https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip) | v0.4.0 | `N/A` | Dreamcast emulator based on Flycast PlayStation 5 homebrew |
+| [dump_installer](https://github.com/EchoStretch/dump_installer/releases/download/1.07/dump_installer.zip) | 1.07 | `N/A` | Dump installer howmebrew |
 
 ---
 
@@ -335,6 +336,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **BestPig** : [BackPork](https://github.com/BestPig/BackPork)
 - **BrinooTk** : [castation](https://github.com/BrinooTk/castation)
 - **Drakmor** : [nanoDNS](https://github.com/drakmor/nanoDNS)
+- **EchoStretch** : [dump_installer](https://github.com/EchoStretch/dump_installer)
 - **EchoStretch** : [kstuff-lite_EchoStretch](https://github.com/EchoStretch/kstuff-lite)
 - **EchoStretch** : [kstuff_EchoStretch](https://github.com/EchoStretch/kstuff)
 - **EchoStretch** : [ps5-app-dumper](https://github.com/EchoStretch/ps5-app-dumper)

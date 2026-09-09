@@ -11,6 +11,12 @@
       <pubDate>v0.4.0</pubDate>
     </item>
     <item>
+      <title>dump_installer</title>
+      <link>https://github.com/EchoStretch/dump_installer/releases/download/1.07/dump_installer.zip</link>
+      <description>Dump installer howmebrew</description>
+      <pubDate>1.07</pubDate>
+    </item>
+    <item>
       <title>ProsperoAI (PPSA99004.zip)</title>
       <link>https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.000.000/PPSA99004.zip</link>
       <description>Private, local generative AI for PlayStation 5 homebrew</description>

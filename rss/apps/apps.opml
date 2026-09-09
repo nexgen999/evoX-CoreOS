@@ -5,6 +5,7 @@
   </head>
   <body>
     <outline text="castation (castation-0.4.0.zip)" title="castation (castation-0.4.0.zip)" type="rss" xmlUrl="https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip" description="Dreamcast emulator based on Flycast PlayStation 5 homebrew"/>
+    <outline text="dump_installer" title="dump_installer" type="rss" xmlUrl="https://github.com/EchoStretch/dump_installer/releases/download/1.07/dump_installer.zip" description="Dump installer howmebrew"/>
     <outline text="ProsperoAI (PPSA99004.zip)" title="ProsperoAI (PPSA99004.zip)" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.000.000/PPSA99004.zip" description="Private, local generative AI for PlayStation 5 homebrew"/>
   </body>
 </opml>

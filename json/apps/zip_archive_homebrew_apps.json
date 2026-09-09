@@ -10,6 +10,16 @@
       "version": "v0.4.0",
       "author": "BrinooTk",
       "category": "Applications"
+    },
+    {
+      "name": "dump_installer",
+      "filename": "dump_installer.zip",
+      "url": "https://github.com/EchoStretch/dump_installer/releases/download/1.07/dump_installer.zip",
+      "local_path": "archives/temp_apps/dump_installer.zip",
+      "description": "Dump installer howmebrew",
+      "version": "1.07",
+      "author": "EchoStretch",
+      "category": "Applications"
     }
   ]
 }
