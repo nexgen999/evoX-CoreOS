@@ -90,13 +90,12 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
                 
                 content += f"### 📂 {sub_cat_name}\n\n"
                 json_filename = f"{sub_cat_name.replace(' ', '_').replace('/', '_')}.json"
-                # Correction du chemin en intégrant le sous-dossier de catégorie (ex: /json/payloads/...)
                 content += f"> **JSON Catégorie** : `{json_base_url}/{cat_key}/{json_filename}`\n\n"
                 
                 table_lines = []
                 if cat_key == "pkg":
                     table_lines.append("| Package | Auteur | Version | Description |")
-                    table_lines.append("| :--- | :--- | :--- | :--- |")
+                    table_lines.append("| :--- | :--- | :--- | :--- |\n") # Ajout d'un saut de ligne ici pour séparer l'en-tête du corps
                     for item in items:
                         if isinstance(item, dict):
                             name = item.get('name', item.get('filename', 'Inconnu'))
@@ -109,7 +108,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
                             table_lines.append(f"| {display_name} | {author} | {version} | {desc} |")
                 else:
                     table_lines.append("| Application | Version | Empreinte SHA-256 | Description |")
-                    table_lines.append("| :--- | :--- | :--- | :--- |")
+                    table_lines.append("| :--- | :--- | :--- | :--- |\n") # Ajout d'un saut de ligne ici aussi
                     for item in items:
                         if isinstance(item, dict):
                             name = item.get('name', item.get('filename', 'Inconnu'))
