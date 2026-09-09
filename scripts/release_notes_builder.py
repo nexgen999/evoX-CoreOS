@@ -11,7 +11,7 @@ def generate_release_notes(data_store_by_cat):
     categories = ["payloads", "pkg", "ffpfsc", "apps"]
     current_changes = {}
     
-    # 1. Détection des nouveautés/mises à jour basées uniquement sur le filename
+    # 1. Détection robuste des nouveautés/mises à jour basées sur le filename
     for cat in categories:
         new_file = os.path.join(json_dir, f"{cat}.json")
         old_file = os.path.join(json_dir, f"old_{cat}.json")
@@ -26,27 +26,37 @@ def generate_release_notes(data_store_by_cat):
         if os.path.exists(old_file):
             with open(old_file, 'r', encoding='utf-8') as f:
                 old_data = json.load(f)
-                for key, val in old_data.items():
-                    if isinstance(val, list):
-                        for item in val:
-                            if isinstance(item, dict):
-                                fname = item.get('filename')
-                                if fname:
-                                    old_filenames.add(fname)
-                    
-        added_or_updated = []
-        if isinstance(new_data, dict):
-            for key, val in new_data.items():
-                if isinstance(val, list):
-                    for item in val:
+                
+            def extract_old_filenames(data):
+                if isinstance(data, list):
+                    for item in data:
                         if isinstance(item, dict):
-                            fname = item.get('filename')
-                            if not fname:
-                                continue
-                            
-                            if fname not in old_filenames:
-                                added_or_updated.append(f"`{fname}` - *Nouveau*")
-                                
+                            fname = item.get('filename') or item.get('name')
+                            if fname:
+                                old_filenames.add(fname)
+                elif isinstance(data, dict):
+                    for val in data.values():
+                        extract_old_filenames(val)
+            
+            extract_old_filenames(old_data)
+                
+        added_or_updated = []
+        
+        def extract_new_filenames(data):
+            if isinstance(data, list):
+                for item in data:
+                    if isinstance(item, dict):
+                        fname = item.get('filename') or item.get('name')
+                        if fname and fname not in old_filenames:
+                            added_or_updated.append(f"`{fname}` - *Nouveau*")
+            elif isinstance(data, dict):
+                for key, val in data.items():
+                    if key == "name":
+                        continue
+                    extract_new_filenames(val)
+
+        extract_new_filenames(new_data)
+                        
         if added_or_updated:
             current_changes[cat] = sorted(list(set(added_or_updated)))
 
@@ -103,6 +113,15 @@ def generate_release_notes(data_store_by_cat):
                                 fname = item.get('filename')
                                 if fname:
                                     file_entries.append(fname)
+                    elif isinstance(section_val, dict):
+                        # Gérer le cas où les sous-sections contiennent une liste d'items
+                        sub_items = section_val.get('items', [])
+                        if isinstance(sub_items, list):
+                            for item in sub_items:
+                                if isinstance(item, dict):
+                                    fname = item.get('filename')
+                                    if fname:
+                                        file_entries.append(fname)
                             
                     if file_entries:
                         has_items = True
