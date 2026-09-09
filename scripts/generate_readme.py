@@ -84,7 +84,10 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
             section_title = category_titles.get(cat_key, f"📦 {cat_key.upper()}")
             content += f"## {section_title}\n\n"
             
-            for sub_cat_name, items in cat_data.items():
+            # Tri alphabétique des sous-catégories (De A à Z)
+            sorted_sub_cats = sorted(cat_data.items(), key=lambda x: x[0].lower())
+            
+            for sub_cat_name, items in sorted_sub_cats:
                 if not items:
                     continue
                 
@@ -92,11 +95,17 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
                 json_filename = f"{sub_cat_name.replace(' ', '_').replace('/', '_')}.json"
                 content += f"> **JSON Catégorie** : `{json_base_url}/{cat_key}/{json_filename}`\n\n"
                 
+                # Tri alphabétique des éléments de la liste (De A à Z)
+                sorted_items = sorted(
+                    items, 
+                    key=lambda x: x.get('name', x.get('filename', '')).lower() if isinstance(x, dict) else str(x).lower()
+                )
+                
                 table_lines = []
                 if cat_key == "pkg":
                     table_lines.append("| Package | Auteur | Version | Description |")
-                    table_lines.append("| :--- | :--- | :--- | :--- |\n") # Ajout d'un saut de ligne ici pour séparer l'en-tête du corps
-                    for item in items:
+                    table_lines.append("| :--- | :--- | :--- | :--- |")
+                    for item in sorted_items:
                         if isinstance(item, dict):
                             name = item.get('name', item.get('filename', 'Inconnu'))
                             url = item.get('url', '#')
@@ -108,8 +117,8 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
                             table_lines.append(f"| {display_name} | {author} | {version} | {desc} |")
                 else:
                     table_lines.append("| Application | Version | Empreinte SHA-256 | Description |")
-                    table_lines.append("| :--- | :--- | :--- | :--- |\n") # Ajout d'un saut de ligne ici aussi
-                    for item in items:
+                    table_lines.append("| :--- | :--- | :--- | :--- |")
+                    for item in sorted_items:
                         if isinstance(item, dict):
                             name = item.get('name', item.get('filename', 'Inconnu'))
                             url = item.get('url', '#')
@@ -124,6 +133,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
                             display_name = f"[{name}]({url})" if url and url != '#' else name
                             table_lines.append(f"| {display_name} | {version} | {sha_short} | {desc} |")
                 
+                # Assemblage avec des retours à la ligne stricts pour forcer le rendu du tableau Markdown
                 content += "\n".join(table_lines) + "\n\n"
             content += "---\n\n"
 
