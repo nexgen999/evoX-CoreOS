@@ -5,8 +5,6 @@ from scripts.config_rules import PATHS, BASE_URL
 def generate_readme(credits_list, data_store_by_cat=None):
     readme_path = "README.md"
     
-    # Extraction dynamique du propriétaire et du dépôt depuis BASE_URL
-    # Ex: https://nexgen999.github.io/evoX-CoreOS -> owner = nexgen999, repo = evoX-CoreOS
     clean_url = BASE_URL.replace("https://", "").replace("http://", "")
     url_parts = clean_url.split("/")
     owner = url_parts[0].split(".")[0]
@@ -18,7 +16,6 @@ def generate_readme(credits_list, data_store_by_cat=None):
     sorted_credits = sorted(list(set(credits_list)))
     credits_content = "\n".join(sorted_credits) if sorted_credits else "_Aucun crédit répertorié._"
 
-    # En-tête et bannière
     content = f"""<p align="center"><h1>evoX-CoreOS</h1></p>
 
 <p align="center">
@@ -72,7 +69,6 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 ---
 """
 
-    # Génération des tableaux visuels par catégorie et sous-catégorie
     category_titles = {
         "payloads": "⚡ Payloads (.elf / .bin) Disponibles par Catégorie",
         "pkg": "🎮 Packages PS5 (.pkg) Disponibles",
@@ -94,12 +90,13 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
                 
                 content += f"### 📂 {sub_cat_name}\n\n"
                 json_filename = f"{sub_cat_name.replace(' ', '_').replace('/', '_')}.json"
-                content += f"> **JSON Catégorie** : `{json_base_url}/{json_filename}`\n\n"
+                # Correction du chemin en intégrant le sous-dossier de catégorie (ex: /json/payloads/...)
+                content += f"> **JSON Catégorie** : `{json_base_url}/{cat_key}/{json_filename}`\n\n"
                 
-                # Format du tableau selon la catégorie (PKG vs Payloads/Autres)
+                table_lines = []
                 if cat_key == "pkg":
-                    content += "| Package | Auteur | Version | Description |\n"
-                    content += "| :--- | :--- | :--- | :--- |\n"
+                    table_lines.append("| Package | Auteur | Version | Description |")
+                    table_lines.append("| :--- | :--- | :--- | :--- |")
                     for item in items:
                         if isinstance(item, dict):
                             name = item.get('name', item.get('filename', 'Inconnu'))
@@ -108,12 +105,11 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
                             version = item.get('version', 'v1.0.0')
                             desc = item.get('description', '') or 'Aucune description.'
                             
-                            # Si le nom est un fichier, on nettoie l'affichage
                             display_name = f"[{name}]({url})" if url and url != '#' else name
-                            content += f"| {display_name} | {author} | {version} | {desc} |\n"
+                            table_lines.append(f"| {display_name} | {author} | {version} | {desc} |")
                 else:
-                    content += "| Application | Version | Empreinte SHA-256 | Description |\n"
-                    content += "| :--- | :--- | :--- | :--- |\n"
+                    table_lines.append("| Application | Version | Empreinte SHA-256 | Description |")
+                    table_lines.append("| :--- | :--- | :--- | :--- |")
                     for item in items:
                         if isinstance(item, dict):
                             name = item.get('name', item.get('filename', 'Inconnu'))
@@ -127,12 +123,11 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
                             desc = item.get('description', '') or 'Aucune description.'
                             
                             display_name = f"[{name}]({url})" if url and url != '#' else name
-                            content += f"| {display_name} | {version} | {sha_short} | {desc} |\n"
+                            table_lines.append(f"| {display_name} | {version} | {sha_short} | {desc} |")
                 
-                content += "\n"
+                content += "\n".join(table_lines) + "\n\n"
             content += "---\n\n"
 
-    # Crédits & Sources
     content += f"""## ☕ Crédits & Sources
 
 Ce projet agrège et structure le travail des développeurs de la scène PS5 :
