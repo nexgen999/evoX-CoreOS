@@ -53,126 +53,126 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 ### 📂 ps5_sdk_debug
 
-> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_sdk_debug.json`
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/ps5_sdk_debug.json`
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 
 ### 📂 ps5_kstuff
 
-> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_kstuff.json`
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/ps5_kstuff.json`
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 
 ### 📂 ps5_linux
 
-> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_linux.json`
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/ps5_linux.json`
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 
 ### 📂 ps5_utility
 
-> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_utility.json`
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/ps5_utility.json`
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 
 ### 📂 ps5_video_player
 
-> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_video_player.json`
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/ps5_video_player.json`
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 
 ### 📂 ps5_fan
 
-> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_fan.json`
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/ps5_fan.json`
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 
 ### 📂 ps5_freeshop
 
-> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_freeshop.json`
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/ps5_freeshop.json`
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 
 ### 📂 ps5_saves
 
-> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_saves.json`
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/ps5_saves.json`
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 
 ### 📂 ps5_themes-avatars
 
-> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_themes-avatars.json`
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/ps5_themes-avatars.json`
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 
 ### 📂 PS5_Cheat
 
-> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/PS5_Cheat.json`
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/PS5_Cheat.json`
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 
 ### 📂 ps5-webkit-autoloader
 
-> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5-webkit-autoloader.json`
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/ps5-webkit-autoloader.json`
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 
 ### 📂 ps5_hen_loader
 
-> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_hen_loader.json`
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/ps5_hen_loader.json`
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 
 ### 📂 ps5_dns
 
-> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_dns.json`
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/ps5_dns.json`
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 
 ### 📂 PS5_Overlay
 
-> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/PS5_Overlay.json`
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/PS5_Overlay.json`
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 
 ### 📂 ps5_game_dump
 
-> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_game_dump.json`
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/ps5_game_dump.json`
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 
 ### 📂 ps5_file_explorer
 
-> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_file_explorer.json`
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/ps5_file_explorer.json`
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 
 ### 📂 ps5_server
 
-> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_server.json`
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/ps5_server.json`
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
 
 ### 📂 PS5_Activation
 
-> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/PS5_Activation.json`
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/PS5_Activation.json`
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
@@ -183,7 +183,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 ### 📂 ps5_pkg_apps
 
-> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_pkg_apps.json`
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/pkg/ps5_pkg_apps.json`
 
 | Package | Auteur | Version | Description |
 | :--- | :--- | :--- | :--- |
@@ -194,7 +194,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 ### 📂 ffpfsc_apps
 
-> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ffpfsc_apps.json`
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ffpfsc/ffpfsc_apps.json`
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
