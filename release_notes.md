@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.09-1828)
+### 🚀 Synthèse de la mise à jour (v2026.09.09-1841)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -10,7 +10,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
 - `PS5_ultimate_pack_latest.zip`
 
 #### 📂 Fichiers inclus / mis à jour :
-*Aucun nouveau fichier ou changement détecté sur cette build.*
+📜 [Consulter le journal complet des modifications (CHANGELOG.md)](CHANGELOG.md)
 
 #### 🛠️ Détail des Packs & Contenu des Archives
 <details>
