@@ -84,7 +84,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
             section_title = category_titles.get(cat_key, f"📦 {cat_key.upper()}")
             content += f"## {section_title}\n\n"
             
-            # Tri alphabétique des sous-catégories (De A à Z)
+            # Tri alphabétique strict des sous-catégories (De A à Z)
             sorted_sub_cats = sorted(cat_data.items(), key=lambda x: x[0].lower())
             
             for sub_cat_name, items in sorted_sub_cats:
@@ -93,9 +93,9 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
                 
                 content += f"### 📂 {sub_cat_name}\n\n"
                 json_filename = f"{sub_cat_name.replace(' ', '_').replace('/', '_')}.json"
-                content += f"> **JSON Catégorie** : `{json_base_url}/{cat_key}/{json_filename}`\n\n"
+                content += f"> **JSON Catégorie** : `{json_base_url}/{cat_key}/{json_filename}`\n\n\n"
                 
-                # Tri alphabétique des éléments de la liste (De A à Z)
+                # Tri alphabétique strict des éléments (De A à Z)
                 sorted_items = sorted(
                     items, 
                     key=lambda x: x.get('name', x.get('filename', '')).lower() if isinstance(x, dict) else str(x).lower()
@@ -133,7 +133,6 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
                             display_name = f"[{name}]({url})" if url and url != '#' else name
                             table_lines.append(f"| {display_name} | {version} | {sha_short} | {desc} |")
                 
-                # Assemblage avec des retours à la ligne stricts pour forcer le rendu du tableau Markdown
                 content += "\n".join(table_lines) + "\n\n"
             content += "---\n\n"
 
