@@ -13,13 +13,13 @@
     },
     {
       "name": "pegasus-dl",
-      "filename": "pegasus-dl_v1.7.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.7.0/pegasus-dl_v1.7.0.elf",
-      "local_path": "payloads/ps5_freeshop/pegasus-dl/v1.7.0/pegasus-dl_v1.7.0.elf",
+      "filename": "pegasus-dl_v1.8.0.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.8.0/pegasus-dl_v1.8.0.elf",
+      "local_path": "payloads/ps5_freeshop/pegasus-dl/v1.8.0/pegasus-dl_v1.8.0.elf",
       "description": "free store webadmin http://your-ps5-ip:6970.",
-      "version": "v1.7.0",
+      "version": "v1.8.0",
       "category": "PS5 Freeshop",
-      "checksum": "cb2a4b3c248323f2432ce118cb1bf4975146035239ce9b571a9bdb51b3fee226"
+      "checksum": "3665fa275a185e597ef364379a7f7ad5a9d58f30fda2af6bd04e43299ff2e669"
     },
     {
       "name": "ps5shopappkg-dpi",

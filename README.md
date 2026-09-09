@@ -1,6 +1,14 @@
-# 🚀 PS5 Super PLDMGR Auto-Updater Core OS
+<p align="center"><h1>evoX-CoreOS</h1></p>
 
-Store automatisé et intelligent pour PlayStation 5 regroupant les payloads, packages (PKG), fichiers FFPFSC et applications utilitaires avec synchronisation continue.
+<p align="center">
+  <img src="assets/evoX-CoreOS.png" alt="evoX-CoreOS Banner" width="800">
+</p>
+
+---
+
+## 🌟 À Propos du Projet
+
+**evoX-CoreOS** est un écosystème automatisé et intelligent pour PlayStation 5. Il centralise, structure et synchronise en continu les payloads, packages (PKG), fichiers FFPFSC et applications utilitaires de la scène homebrew. Le système intègre une génération dynamique de flux RSS et OPML pour la veille technologique, ainsi qu'une compilation automatisée des packages et des archives AIO (All-In-One).
 
 ---
 
@@ -23,21 +31,173 @@ Retrouvez l'ensemble des points d'accès aux données JSON du store :
 
 ## 📡 Flux RSS & Veille Technologique
 
-Les flux RSS générés automatiquement permettent de suivre en temps réel les mises à jour des dépôts, des outils et des binaires de la scène PS5 :
+Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en temps réel les mises à jour des dépôts, des outils et des binaires de la scène PS5 :
 - **Flux RSS Payloads** : `https://nexgen999.github.io/evoX-CoreOS/rss/payloads_rss.xml`
 - **Flux RSS Packages (PKG)** : `https://nexgen999.github.io/evoX-CoreOS/rss/pkg_rss.xml`
 - **Flux RSS Fichiers FFPFSC** : `https://nexgen999.github.io/evoX-CoreOS/rss/ffpfsc_rss.xml`
 - **Flux RSS Applications** : `https://nexgen999.github.io/evoX-CoreOS/rss/apps_rss.xml`
+- **Fichier Source OPML Global** : `https://nexgen999.github.io/evoX-CoreOS/rss/source_aio.opml`
 
 ---
 
 ## 📦 Packs Latest à Télécharger (AIO)
 
-- **Pack Payloads AIO** : [https://nexgen999.github.io/evoX-CoreOS/archives/PS5_payloads_aio_latest.zip](https://nexgen999.github.io/evoX-CoreOS/archives/PS5_payloads_aio_latest.zip)
-- **Pack PKG AIO** : [https://nexgen999.github.io/evoX-CoreOS/archives/PS5_pkg_aio_latest.zip](https://nexgen999.github.io/evoX-CoreOS/archives/PS5_pkg_aio_latest.zip)
-- **Pack FFPFSC AIO** : [https://nexgen999.github.io/evoX-CoreOS/archives/PS5_ffpfsc_aio_latest.zip](https://nexgen999.github.io/evoX-CoreOS/archives/PS5_ffpfsc_aio_latest.zip)
-- **Pack Apps AIO** : [https://nexgen999.github.io/evoX-CoreOS/archives/PS5_apps_aio_latest.zip](https://nexgen999.github.io/evoX-CoreOS/archives/PS5_apps_aio_latest.zip)
-- **Ultimate Pack AIO** : [https://nexgen999.github.io/evoX-CoreOS/archives/PS5_ultimate_pack_latest.zip](https://nexgen999.github.io/evoX-CoreOS/archives/PS5_ultimate_pack_latest.zip)
+- **Pack Payloads AIO** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_payloads_aio_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_payloads_aio_latest.zip)
+- **Pack PKG AIO** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_pkg_aio_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_pkg_aio_latest.zip)
+- **Pack FFPFSC AIO** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ffpfsc_aio_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ffpfsc_aio_latest.zip)
+- **Pack Apps AIO** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_apps_aio_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_apps_aio_latest.zip)
+- **Ultimate Pack AIO** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_latest.zip)
+
+---
+## ⚡ Payloads (.elf / .bin) Disponibles par Catégorie
+
+### 📂 ps5_sdk_debug
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_sdk_debug.json`
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+
+### 📂 ps5_kstuff
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_kstuff.json`
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+
+### 📂 ps5_linux
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_linux.json`
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+
+### 📂 ps5_utility
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_utility.json`
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+
+### 📂 ps5_video_player
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_video_player.json`
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+
+### 📂 ps5_fan
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_fan.json`
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+
+### 📂 ps5_freeshop
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_freeshop.json`
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+
+### 📂 ps5_saves
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_saves.json`
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+
+### 📂 ps5_themes-avatars
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_themes-avatars.json`
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+
+### 📂 PS5_Cheat
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/PS5_Cheat.json`
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+
+### 📂 ps5-webkit-autoloader
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5-webkit-autoloader.json`
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+
+### 📂 ps5_hen_loader
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_hen_loader.json`
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+
+### 📂 ps5_dns
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_dns.json`
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+
+### 📂 PS5_Overlay
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/PS5_Overlay.json`
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+
+### 📂 ps5_game_dump
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_game_dump.json`
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+
+### 📂 ps5_file_explorer
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_file_explorer.json`
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+
+### 📂 ps5_server
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_server.json`
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+
+### 📂 PS5_Activation
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/PS5_Activation.json`
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+
+---
+
+## 🎮 Packages PS5 (.pkg) Disponibles
+
+### 📂 ps5_pkg_apps
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ps5_pkg_apps.json`
+
+| Package | Auteur | Version | Description |
+| :--- | :--- | :--- | :--- |
+
+---
+
+## 📄 Fichiers FFPFSC Disponibles
+
+### 📂 ffpfsc_apps
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/ffpfsc_apps.json`
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
 
 ---
 
@@ -70,7 +230,6 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **Phoenixx1202** : [Spectrum-Library](https://github.com/Phoenixx1202/Spectrum-Library)
 - **SonicIso** : [ELF Arsenal](https://git.etawen.dev/soniciso/elf-arsenal)
 - **StonedModder** : [ChronicLoader-PS5-Payload](https://github.com/StonedModder/ChronicLoader-PS5-Payload)
-- **StonedModder** : [Ghostcontrol-PS5-USB-Controller-Patcher](https://github.com/StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher)
 - **StonedModder** : [Ghostpad](https://github.com/StonedModder/Ghostpad)
 - **StonedModder** : [PS Game State Lib](https://github.com/StonedModder/ps-game-state-lib)
 - **StonedModder** : [PS-DiscordPresence](https://github.com/StonedModder/PS-DiscordPresence)

@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.09-1037)
+### 🚀 Synthèse de la mise à jour (v2026.09.09-1501)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -29,7 +29,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5-linux-loader_v2.5.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
   * `Ghostpad_v1.0.0.elf`
-  * `Ghostcontrol-PS5-USB-Controller-Patcher_v1.0.5.elf`
   * `PoorDS4-stop_v0.1.0-rc38.elf`
   * `PoorDS4rc38_v0.1.0-rc38.elf`
   * `PoorDS4-status_v0.1.0-rc38.elf`
@@ -43,7 +42,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PS-Play_v2.1.elf`
   * `ps5-fan-control_v0.3.elf`
   * `Spectrum-Library_v1.4.4.elf`
-  * `pegasus-dl_v1.7.0.elf`
+  * `pegasus-dl_v1.8.0.elf`
   * `ps5shopappkg-dpi.elf`
   * `garlic-savemgr_v1.13.elf`
   * `garlic-worker_v1.1.7.elf`

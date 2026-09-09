@@ -77,12 +77,6 @@
       <pubDate>v1.0.0</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ghostcontrol-PS5-USB-Controller-Patcher</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/Ghostcontrol-PS5-USB-Controller-Patcher/1.0.5/Ghostcontrol-PS5-USB-Controller-Patcher_v1.0.5.elf</link>
-      <description>USB Controller patcher tool for PS5.</description>
-      <pubDate>1.0.5</pubDate>
-    </item>
-    <item>
       <title>[Payloads] PoorDS4-stop</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc38/PoorDS4-stop_v0.1.0-rc38.elf</link>
       <description>PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.</description>
@@ -162,9 +156,9 @@
     </item>
     <item>
       <title>[Payloads] pegasus-dl</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.7.0/pegasus-dl_v1.7.0.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.8.0/pegasus-dl_v1.8.0.elf</link>
       <description>free store webadmin http://your-ps5-ip:6970.</description>
-      <pubDate>v1.7.0</pubDate>
+      <pubDate>v1.8.0</pubDate>
     </item>
     <item>
       <title>[Payloads] ps5shopappkg-dpi</title>
