@@ -502,5 +502,17 @@
       <description>PS5 IPTV</description>
       <pubDate>01.000.002</pubDate>
     </item>
+    <item>
+      <title>[Applications] castation (castation-0.4.0.zip)</title>
+      <link>https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip</link>
+      <description>Dreamcast emulator based on Flycast PlayStation 5 homebrew</description>
+      <pubDate>v0.4.0</pubDate>
+    </item>
+    <item>
+      <title>[Applications] ProsperoAI (PPSA99004.zip)</title>
+      <link>https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.000.000/PPSA99004.zip</link>
+      <description>Private, local generative AI for PlayStation 5 homebrew</description>
+      <pubDate>01.000.000</pubDate>
+    </item>
   </channel>
 </rss>

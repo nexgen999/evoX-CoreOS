@@ -1,4 +1,25 @@
 {
     "name": "AIO Store Apps",
-    "apps": []
+    "apps": [
+        {
+            "name": "castation (castation-0.4.0.zip)",
+            "filename": "castation-0.4.0.zip",
+            "url": "https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip",
+            "local_path": "archives/temp_apps/castation-0.4.0.zip",
+            "description": "Dreamcast emulator based on Flycast PlayStation 5 homebrew",
+            "version": "v0.4.0",
+            "author": "BrinooTk",
+            "category": "Applications"
+        },
+        {
+            "name": "ProsperoAI (PPSA99004.zip)",
+            "filename": "PPSA99004.zip",
+            "url": "https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.000.000/PPSA99004.zip",
+            "local_path": "archives/temp_apps/PPSA99004.zip",
+            "description": "Private, local generative AI for PlayStation 5 homebrew",
+            "version": "01.000.000",
+            "author": "blackbearreloaded",
+            "category": "Applications"
+        }
+    ]
 }

@@ -1,0 +1,15 @@
+{
+  "name": "Applications",
+  "apps": [
+    {
+      "name": "castation (castation-0.4.0.zip)",
+      "filename": "castation-0.4.0.zip",
+      "url": "https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip",
+      "local_path": "archives/temp_apps/castation-0.4.0.zip",
+      "description": "Dreamcast emulator based on Flycast PlayStation 5 homebrew",
+      "version": "v0.4.0",
+      "author": "BrinooTk",
+      "category": "Applications"
+    }
+  ]
+}

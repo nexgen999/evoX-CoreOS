@@ -102,5 +102,9 @@
       <outline text="ProsperoTV" title="ProsperoTV" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoTV" description="PS5 IPTV"/>
       <outline text="ProsperoAI" title="ProsperoAI" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoAI" description="Private, local generative AI for PlayStation 5 homebrew"/>
     </outline>
+    <outline text="Apps" title="Apps">
+      <outline text="castation" title="castation" type="rss" xmlUrl="https://github.com/BrinooTk/castation" description="Dreamcast emulator based on Flycast PlayStation 5 homebrew"/>
+      <outline text="ProsperoAI" title="ProsperoAI" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoAI" description="Private, local generative AI for PlayStation 5 homebrew"/>
+    </outline>
   </body>
 </opml>

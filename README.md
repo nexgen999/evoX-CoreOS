@@ -304,6 +304,28 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 ---
 
+## 🛠️ Applications Utilitaires Disponibles
+
+### 📂 Applications
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/apps/zip_archive_ffpfsc_apps.json`
+
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+| [ProsperoAI (PPSA99004.zip)](https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.000.000/PPSA99004.zip) | 01.000.000 | `N/A` | Private, local generative AI for PlayStation 5 homebrew |
+
+### 📂 Applications
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/apps/zip_archive_homebrew_apps.json`
+
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+| [castation (castation-0.4.0.zip)](https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip) | v0.4.0 | `N/A` | Dreamcast emulator based on Flycast PlayStation 5 homebrew |
+
+---
+
 ## ☕ Crédits & Sources
 
 Ce projet agrège et structure le travail des développeurs de la scène PS5 :
@@ -311,6 +333,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **Al-Azif** : [Chukei DNS](https://github.com/Al-Azif/chukei-dns)
 - **ArkSama** : [Lapy JB Daemon](https://raw.githubusercontent.com/ArkSama/PS5-Lapy-JB-Daemon/main/lapy_jb_daemon.elf)
 - **BestPig** : [BackPork](https://github.com/BestPig/BackPork)
+- **BrinooTk** : [castation](https://github.com/BrinooTk/castation)
 - **Drakmor** : [nanoDNS](https://github.com/drakmor/nanoDNS)
 - **EchoStretch** : [kstuff-lite_EchoStretch](https://github.com/EchoStretch/kstuff-lite)
 - **EchoStretch** : [kstuff_EchoStretch](https://github.com/EchoStretch/kstuff)
@@ -341,6 +364,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **aydencharles** : [onionHEN](https://github.com/aydencharles/onionHEN)
 - **barisyild** : [airpsx](https://github.com/barisyild/airpsx)
 - **bizkut** : [unrar-ps5](https://github.com/bizkut/unrar-ps5)
+- **blackbearreloaded** : [ProsperoAI](https://github.com/blackbearreloaded/ProsperoAI)
 - **blackbearreloaded** : [ProsperoLight](https://github.com/blackbearreloaded/ProsperoLight)
 - **blackbearreloaded** : [ProsperoRadio](https://github.com/blackbearreloaded/ProsperoRadio)
 - **blackbearreloaded** : [ProsperoTV](https://github.com/blackbearreloaded/ProsperoTV)
