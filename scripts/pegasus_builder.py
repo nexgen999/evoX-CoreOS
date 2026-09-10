@@ -1,6 +1,36 @@
 import os
 import json
+import subprocess
 from scripts.config_rules import PATHS
+
+def get_github_base_url():
+    """Détecte dynamiquement l'URL raw GitHub du dépôt courant via les commandes git."""
+    try:
+        # Récupère l'URL remote origin (supporte les formats HTTPS et SSH)
+        result = subprocess.run(
+            ["git", "remote", "get-url", "origin"],
+            capture_output=True,
+            text=True,
+            check=True
+        )
+        url = result.stdout.strip()
+        
+        # Conversion du format SSH (git@github.com:user/repo.git) en HTTPS
+        if url.startswith("git@github.com:"):
+            url = url.replace("git@github.com:", "https://github.com/")
+            
+        # Nettoyage de l'extension .git de fin
+        if url.endswith(".git"):
+            url = url[:-4]
+            
+        if "github.com" in url:
+            # Retourne l'URL raw pointant vers la branche main/master et le dossier assets
+            return f"{url}/raw/main/assets"
+    except Exception:
+        pass
+        
+    # Fallback par défaut si git n'est pas initialisé ou accessible
+    return "https://raw.githubusercontent.com/nexgen999/evoX-CoreOS/main/assets"
 
 def generate_pegasus_catalog(pkg_flat, ffpfsc_flat):
     print("🎯 Génération du catalogue JSON pour Pegasus-DL...")
@@ -10,8 +40,9 @@ def generate_pegasus_catalog(pkg_flat, ffpfsc_flat):
     
     catalog_path = os.path.join(output_dir, "catalog.json")
     
-    # URL de base brute GitHub pour pointer directement sur les assets du dépôt
-    base_url = "https://raw.githubusercontent.com/nexgen999/evox-w2jb/main/assets"
+    # Récupération dynamique de l'URL des assets
+    base_url = get_github_base_url()
+    print(f"    🔗 URL des assets détectée : {base_url}")
     
     packages = []
     
