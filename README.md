@@ -298,7 +298,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| [ProsperoLight (PPSA99002.ffpfsc)](https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.055/PPSA99002.ffpfsc) | 01.000.055 | `N/A` | PS5 Moonlight |
+| [ProsperoLight (PPSA99002.ffpfsc)](https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.060/PPSA99002.ffpfsc) | 01.000.060 | `N/A` | PS5 Moonlight |
 | [ProsperoRadio (PPSA99001.ffpfsc)](https://github.com/blackbearreloaded/ProsperoRadio/releases/download/01.000.005/PPSA99001.ffpfsc) | 01.000.005 | `N/A` | PS5 Radio Player |
 | [ProsperoTV (PPSA99003.ffpfsc)](https://github.com/blackbearreloaded/ProsperoTV/releases/download/01.000.002/PPSA99003.ffpfsc) | 01.000.002 | `N/A` | PS5 IPTV |
 
