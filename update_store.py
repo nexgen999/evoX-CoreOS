@@ -13,6 +13,7 @@ from scripts.generate_rss import build_rss_feed
 from scripts.generate_readme import build_readme
 from scripts.generate_web import build_index_html
 from scripts.changelog_builder import generate_build_changelog
+from scripts.pegasus_builder import generate_pegasus_catalog
 
 def generate_release_notes(data_store_by_cat):
     print("📝 Génération des notes de version pour la Release...")
@@ -150,6 +151,9 @@ def main():
 
     print("📦 [2/5] Génération de l'arborescence JSON complète...")
     build_all(data_store)
+
+    print("🎯 [2.5/5] Génération du catalogue Pegasus-DL...")
+    generate_pegasus_catalog(pkg_flat, ffpfsc_flat)
 
     print("📡 [3/5] Génération des flux RSS et OPML...")
     build_rss_feed(data_store_flat)
