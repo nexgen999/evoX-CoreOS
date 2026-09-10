@@ -5,7 +5,7 @@
             "titleId": "CUSA00000",
             "title": "PS5PKG_Avatar-Changer_v1.00.pkg",
             "version": "v1.0.0",
-            "icon": "/assets/evoX-CoreOS_pkg.jpg",
+            "icon": "https://raw.githubusercontent.com/nexgen999/evox-w2jb/main/assets/evoX-CoreOS_pkg.jpg",
             "downloadLinks": [
                 {
                     "name": "Direct PKG",
@@ -17,7 +17,7 @@
             "titleId": "CUSA00000",
             "title": "PS5PKG_FPKGi_v1.10.0.pkg",
             "version": "v1.0.0",
-            "icon": "/assets/evoX-CoreOS_pkg.jpg",
+            "icon": "https://raw.githubusercontent.com/nexgen999/evox-w2jb/main/assets/evoX-CoreOS_pkg.jpg",
             "downloadLinks": [
                 {
                     "name": "Direct PKG",
@@ -29,7 +29,7 @@
             "titleId": "CUSA00000",
             "title": "PS5PKG_HOMEBREWLOADER_v0.30.pkg",
             "version": "v1.0.0",
-            "icon": "/assets/evoX-CoreOS_pkg.jpg",
+            "icon": "https://raw.githubusercontent.com/nexgen999/evox-w2jb/main/assets/evoX-CoreOS_pkg.jpg",
             "downloadLinks": [
                 {
                     "name": "Direct PKG",
@@ -41,7 +41,7 @@
             "titleId": "CUSA00000",
             "title": "PS5PKG_Homebrew_Store_installer.pkg",
             "version": "v1.0.0",
-            "icon": "/assets/evoX-CoreOS_pkg.jpg",
+            "icon": "https://raw.githubusercontent.com/nexgen999/evox-w2jb/main/assets/evoX-CoreOS_pkg.jpg",
             "downloadLinks": [
                 {
                     "name": "Direct PKG",
@@ -53,7 +53,7 @@
             "titleId": "CUSA00000",
             "title": "PS5PKG_InternetBrowser-Game_Menu_v1.00.pkg",
             "version": "v1.0.0",
-            "icon": "/assets/evoX-CoreOS_pkg.jpg",
+            "icon": "https://raw.githubusercontent.com/nexgen999/evox-w2jb/main/assets/evoX-CoreOS_pkg.jpg",
             "downloadLinks": [
                 {
                     "name": "Direct PKG",
@@ -65,7 +65,7 @@
             "titleId": "CUSA00000",
             "title": "PS5PKG_InternetBrowser-Media_Menu_v1.00.pkg",
             "version": "v1.0.0",
-            "icon": "/assets/evoX-CoreOS_pkg.jpg",
+            "icon": "https://raw.githubusercontent.com/nexgen999/evox-w2jb/main/assets/evoX-CoreOS_pkg.jpg",
             "downloadLinks": [
                 {
                     "name": "Direct PKG",
@@ -77,7 +77,7 @@
             "titleId": "CUSA00000",
             "title": "PS5-SHOP-APPKG.pkg",
             "version": "v1.0.0",
-            "icon": "/assets/evoX-CoreOS_pkg.jpg",
+            "icon": "https://raw.githubusercontent.com/nexgen999/evox-w2jb/main/assets/evoX-CoreOS_pkg.jpg",
             "downloadLinks": [
                 {
                     "name": "Direct PKG",
@@ -89,7 +89,7 @@
             "titleId": "CUSA00000",
             "title": "PS5PKG_Itemzflow_Game_Manager_v1.14.pkg",
             "version": "v1.0.0",
-            "icon": "/assets/evoX-CoreOS_pkg.jpg",
+            "icon": "https://raw.githubusercontent.com/nexgen999/evox-w2jb/main/assets/evoX-CoreOS_pkg.jpg",
             "downloadLinks": [
                 {
                     "name": "Direct PKG",
@@ -101,7 +101,7 @@
             "titleId": "CUSA00000",
             "title": "PS5PKG_PS5-Xplorer_v1.05.pkg",
             "version": "v1.0.0",
-            "icon": "/assets/evoX-CoreOS_pkg.jpg",
+            "icon": "https://raw.githubusercontent.com/nexgen999/evox-w2jb/main/assets/evoX-CoreOS_pkg.jpg",
             "downloadLinks": [
                 {
                     "name": "Direct PKG",
@@ -113,7 +113,7 @@
             "titleId": "CUSA00000",
             "title": "PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg",
             "version": "v1.0.0",
-            "icon": "/assets/evoX-CoreOS_pkg.jpg",
+            "icon": "https://raw.githubusercontent.com/nexgen999/evox-w2jb/main/assets/evoX-CoreOS_pkg.jpg",
             "downloadLinks": [
                 {
                     "name": "Direct PKG",
@@ -125,7 +125,7 @@
             "titleId": "FFPFSC001",
             "title": "PPSA99002.ffpfsc",
             "version": "01.000.060",
-            "icon": "/assets/evoX-CoreOS_ffpfsc.jpg",
+            "icon": "https://raw.githubusercontent.com/nexgen999/evox-w2jb/main/assets/evoX-CoreOS_ffpfsc.jpg",
             "downloadLinks": [
                 {
                     "name": "Direct FFPFSC",
@@ -137,7 +137,7 @@
             "titleId": "FFPFSC001",
             "title": "PPSA99001.ffpfsc",
             "version": "01.000.005",
-            "icon": "/assets/evoX-CoreOS_ffpfsc.jpg",
+            "icon": "https://raw.githubusercontent.com/nexgen999/evox-w2jb/main/assets/evoX-CoreOS_ffpfsc.jpg",
             "downloadLinks": [
                 {
                     "name": "Direct FFPFSC",
@@ -149,7 +149,7 @@
             "titleId": "FFPFSC001",
             "title": "PPSA99003.ffpfsc",
             "version": "01.000.002",
-            "icon": "/assets/evoX-CoreOS_ffpfsc.jpg",
+            "icon": "https://raw.githubusercontent.com/nexgen999/evox-w2jb/main/assets/evoX-CoreOS_ffpfsc.jpg",
             "downloadLinks": [
                 {
                     "name": "Direct FFPFSC",
