@@ -5,10 +5,12 @@
             "titleId": "CUSA00000",
             "title": "PS5PKG_Avatar-Changer_v1.00.pkg",
             "version": "v1.0.0",
-            "icon": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
+            "description": "Avatar-Changer.",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
+            "downloadSource": "https://github.com/nexgen999/evoX-CoreOS",
             "downloadLinks": [
                 {
-                    "name": "Direct PKG",
+                    "name": "Github",
                     "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Avatar-Changer_v1.00.pkg"
                 }
             ]
@@ -17,10 +19,12 @@
             "titleId": "CUSA00000",
             "title": "PS5PKG_FPKGi_v1.10.0.pkg",
             "version": "v1.0.0",
-            "icon": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
+            "description": "FPKGi.",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
+            "downloadSource": "https://github.com/nexgen999/evoX-CoreOS",
             "downloadLinks": [
                 {
-                    "name": "Direct PKG",
+                    "name": "Github",
                     "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_FPKGi_v1.10.0.pkg"
                 }
             ]
@@ -29,10 +33,12 @@
             "titleId": "CUSA00000",
             "title": "PS5PKG_HOMEBREWLOADER_v0.30.pkg",
             "version": "v1.0.0",
-            "icon": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
+            "description": "HOMEBREWLOADER.",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
+            "downloadSource": "https://github.com/nexgen999/evoX-CoreOS",
             "downloadLinks": [
                 {
-                    "name": "Direct PKG",
+                    "name": "Github",
                     "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_HOMEBREWLOADER_v0.30.pkg"
                 }
             ]
@@ -41,10 +47,12 @@
             "titleId": "CUSA00000",
             "title": "PS5PKG_Homebrew_Store_installer.pkg",
             "version": "v1.0.0",
-            "icon": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
+            "description": "Homebrew_Store.",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
+            "downloadSource": "https://github.com/nexgen999/evoX-CoreOS",
             "downloadLinks": [
                 {
-                    "name": "Direct PKG",
+                    "name": "Github",
                     "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Homebrew_Store_installer.pkg"
                 }
             ]
@@ -53,10 +61,12 @@
             "titleId": "CUSA00000",
             "title": "PS5PKG_InternetBrowser-Game_Menu_v1.00.pkg",
             "version": "v1.0.0",
-            "icon": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
+            "description": "InternetBrowser-Game_Menu.",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
+            "downloadSource": "https://github.com/nexgen999/evoX-CoreOS",
             "downloadLinks": [
                 {
-                    "name": "Direct PKG",
+                    "name": "Github",
                     "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_InternetBrowser-Game_Menu_v1.00.pkg"
                 }
             ]
@@ -65,10 +75,12 @@
             "titleId": "CUSA00000",
             "title": "PS5PKG_InternetBrowser-Media_Menu_v1.00.pkg",
             "version": "v1.0.0",
-            "icon": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
+            "description": "InternetBrowser-Media_Menu.",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
+            "downloadSource": "https://github.com/nexgen999/evoX-CoreOS",
             "downloadLinks": [
                 {
-                    "name": "Direct PKG",
+                    "name": "Github",
                     "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_InternetBrowser-Media_Menu_v1.00.pkg"
                 }
             ]
@@ -77,10 +89,12 @@
             "titleId": "CUSA00000",
             "title": "PS5-SHOP-APPKG.pkg",
             "version": "v1.0.0",
-            "icon": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
+            "description": "PS5-SHOP-APPKG need etahen or ps5shopappkg-dpi .",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
+            "downloadSource": "https://github.com/nexgen999/evoX-CoreOS",
             "downloadLinks": [
                 {
-                    "name": "Direct PKG",
+                    "name": "Github",
                     "url": "https://github.com/ps5xploit/ps5shopappkg/releases/download/ps5shopappkg/PS5-SHOP-APPKG.pkg"
                 }
             ]
@@ -89,10 +103,12 @@
             "titleId": "CUSA00000",
             "title": "PS5PKG_Itemzflow_Game_Manager_v1.14.pkg",
             "version": "v1.0.0",
-            "icon": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
+            "description": "Itemzflow_Game_Manager.",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
+            "downloadSource": "https://github.com/nexgen999/evoX-CoreOS",
             "downloadLinks": [
                 {
-                    "name": "Direct PKG",
+                    "name": "Github",
                     "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Itemzflow_Game_Manager_v1.14.pkg"
                 }
             ]
@@ -101,10 +117,12 @@
             "titleId": "CUSA00000",
             "title": "PS5PKG_PS5-Xplorer_v1.05.pkg",
             "version": "v1.0.0",
-            "icon": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
+            "description": "PS5-Xplorer.",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
+            "downloadSource": "https://github.com/nexgen999/evoX-CoreOS",
             "downloadLinks": [
                 {
-                    "name": "Direct PKG",
+                    "name": "Github",
                     "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5-Xplorer_v1.05.pkg"
                 }
             ]
@@ -113,10 +131,12 @@
             "titleId": "CUSA00000",
             "title": "PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg",
             "version": "v1.0.0",
-            "icon": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
+            "description": "PS5Webit-Nexgen999_Installer.",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
+            "downloadSource": "https://github.com/nexgen999/evoX-CoreOS",
             "downloadLinks": [
                 {
-                    "name": "Direct PKG",
+                    "name": "Github",
                     "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg"
                 }
             ]
@@ -125,10 +145,12 @@
             "titleId": "FFPFSC001",
             "title": "PPSA99002.ffpfsc",
             "version": "01.000.060",
-            "icon": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_ffpfsc.jpg",
+            "description": "PS5 Moonlight",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_ffpfsc.jpg",
+            "downloadSource": "https://github.com/nexgen999/evoX-CoreOS",
             "downloadLinks": [
                 {
-                    "name": "Direct FFPFSC",
+                    "name": "Github",
                     "url": "https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.060/PPSA99002.ffpfsc"
                 }
             ]
@@ -137,10 +159,12 @@
             "titleId": "FFPFSC001",
             "title": "PPSA99001.ffpfsc",
             "version": "01.000.005",
-            "icon": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_ffpfsc.jpg",
+            "description": "PS5 Radio Player",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_ffpfsc.jpg",
+            "downloadSource": "https://github.com/nexgen999/evoX-CoreOS",
             "downloadLinks": [
                 {
-                    "name": "Direct FFPFSC",
+                    "name": "Github",
                     "url": "https://github.com/blackbearreloaded/ProsperoRadio/releases/download/01.000.005/PPSA99001.ffpfsc"
                 }
             ]
@@ -149,10 +173,12 @@
             "titleId": "FFPFSC001",
             "title": "PPSA99003.ffpfsc",
             "version": "01.000.002",
-            "icon": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_ffpfsc.jpg",
+            "description": "PS5 IPTV",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_ffpfsc.jpg",
+            "downloadSource": "https://github.com/nexgen999/evoX-CoreOS",
             "downloadLinks": [
                 {
-                    "name": "Direct FFPFSC",
+                    "name": "Github",
                     "url": "https://github.com/blackbearreloaded/ProsperoTV/releases/download/01.000.002/PPSA99003.ffpfsc"
                 }
             ]
