@@ -10,13 +10,16 @@ def generate_pegasus_catalog(pkg_flat, ffpfsc_flat):
     
     catalog_path = os.path.join(output_dir, "catalog.json")
     
+    # URL de base brute GitHub pour pointer directement sur les assets du dépôt
+    base_url = "https://raw.githubusercontent.com/nexgen999/evox-w2jb/main/assets"
+    
     packages = []
     
     # Traitement des PKG
     if pkg_flat:
         for item in pkg_flat:
             title = item.get("filename", "Unknown PKG")
-            title_id = item.get("titleId", "CUSA00000") # Valeur par défaut ou extraite
+            title_id = item.get("titleId", "CUSA00000")
             version = item.get("version", "1.00")
             url = item.get("url", "")
             
@@ -27,7 +30,7 @@ def generate_pegasus_catalog(pkg_flat, ffpfsc_flat):
                 "titleId": title_id,
                 "title": title,
                 "version": version,
-                "icon": "/assets/evoX-CoreOS_pkg.jpg",
+                "icon": f"{base_url}/evoX-CoreOS_pkg.jpg",
                 "downloadLinks": [
                     {
                         "name": "Direct PKG",
@@ -52,7 +55,7 @@ def generate_pegasus_catalog(pkg_flat, ffpfsc_flat):
                 "titleId": title_id,
                 "title": title,
                 "version": version,
-                "icon": "/assets/evoX-CoreOS_ffpfsc.jpg",
+                "icon": f"{base_url}/evoX-CoreOS_ffpfsc.jpg",
                 "downloadLinks": [
                     {
                         "name": "Direct FFPFSC",
