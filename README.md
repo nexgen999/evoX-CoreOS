@@ -221,7 +221,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [ftpsrv_ps5-payload](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ftpsrv_ps5-payload/v0.21.1/ftpsrv_ps5-payload_v0.21.1.elf) | v0.21.1 | `0ccfe0097081...` | FTP server background daemon. Port: 21 |
 | [gdbsrv](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/gdbsrv/v0.9/gdbsrv_v0.9.elf) | v0.9 | `fc91ea233cdb...` | GDB Debugger server payload. Port: 1234 |
 | [klogsrv](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/klogsrv/v0.9/klogsrv_v0.9.elf) | v0.9 | `e828ec144231...` | Kernel log server daemon. Port: 3232 |
-| [ps5upload](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.17.7/ps5upload_v5.17.7.elf) | v5.17.7 | `0fe96f274a97...` | PS5 Upload server / tool. Port: 9025 |
+| [ps5upload](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.17.8/ps5upload_v5.17.8.elf) | v5.17.8 | `89298249535d...` | PS5 Upload server / tool. Port: 9025 |
 | [websrv](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf) | v0.34 | `54730c867c6e...` | HTTP Web server payload. Port: 8080 |
 | [zftpd](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zftpd_v1.5.0.bin) | v1.5.0 | `f430dc1fdeae...` | FTP server payload for PS5. Port: 21 |
 | [zftpd](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zftpd_v1.5.0.elf) | v1.5.0 | `bc21772ceafd...` | FTP server payload for PS5. Port: 21 |

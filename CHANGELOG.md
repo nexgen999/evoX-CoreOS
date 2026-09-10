@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 10/09/2026 à 20:21
+* **PAYLOADS**
+  * `ps5upload` (v5.17.8) - *Mise à jour (Précédent: v5.17.7)*
+
 ## Build du 10/09/2026 à 10:25
 * **FFPFSC**
   * `ProsperoLight (PPSA99002.ffpfsc)` (01.000.060) - *Mise à jour (Précédent: 01.000.055)*
