@@ -3,10 +3,9 @@ import json
 import subprocess
 from scripts.config_rules import PATHS
 
-def get_github_base_url():
-    """Détecte dynamiquement l'URL raw GitHub du dépôt courant via les commandes git."""
+def get_jsdelivr_base_url():
+    """Détecte dynamiquement l'URL CDN jsDelivr du dépôt courant via git."""
     try:
-        # Récupère l'URL remote origin (supporte les formats HTTPS et SSH)
         result = subprocess.run(
             ["git", "remote", "get-url", "origin"],
             capture_output=True,
@@ -14,35 +13,30 @@ def get_github_base_url():
             check=True
         )
         url = result.stdout.strip()
-        
-        # Conversion du format SSH (git@github.com:user/repo.git) en HTTPS
         if url.startswith("git@github.com:"):
             url = url.replace("git@github.com:", "https://github.com/")
-            
-        # Nettoyage de l'extension .git de fin
         if url.endswith(".git"):
             url = url[:-4]
             
         if "github.com" in url:
-            # Retourne l'URL raw pointant vers la branche main/master et le dossier assets
-            return f"{url}/raw/main/assets"
+            parts = url.split("github.com/")
+            if len(parts) > 1:
+                user_repo = parts[1]
+                return f"https://cdn.jsdelivr.net/gh/{user_repo}@main"
     except Exception:
         pass
         
-    # Fallback par défaut si git n'est pas initialisé ou accessible
-    return "https://raw.githubusercontent.com/nexgen999/evoX-CoreOS/main/assets"
+    return "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main"
 
 def generate_pegasus_catalog(pkg_flat, ffpfsc_flat):
-    print("🎯 Génération du catalogue JSON pour Pegasus-DL...")
+    print("🎯 Génération du catalogue JSON pour Pegasus-DL via CDN...")
     
     output_dir = os.path.join(PATHS.get("json_dir", "json"), "pegasus-dl")
     os.makedirs(output_dir, exist_ok=True)
     
     catalog_path = os.path.join(output_dir, "catalog.json")
-    
-    # Récupération dynamique de l'URL des assets
-    base_url = get_github_base_url()
-    print(f"    🔗 URL des assets détectée : {base_url}")
+    base_url = get_jsdelivr_base_url()
+    print(f"    🔗 URL CDN de base détectée : {base_url}")
     
     packages = []
     
@@ -61,11 +55,11 @@ def generate_pegasus_catalog(pkg_flat, ffpfsc_flat):
                 "titleId": title_id,
                 "title": title,
                 "version": version,
-                "icon": f"{base_url}/evoX-CoreOS_pkg.jpg",
+                "icon": f"{base_url}/assets/evoX-CoreOS_pkg.jpg",
                 "downloadLinks": [
                     {
                         "name": "Direct PKG",
-                        "url": url
+                        "url": url  # Tu peux aussi remplacer par le CDN si le fichier est versionné dans le repo
                     }
                 ]
             }
@@ -86,7 +80,7 @@ def generate_pegasus_catalog(pkg_flat, ffpfsc_flat):
                 "titleId": title_id,
                 "title": title,
                 "version": version,
-                "icon": f"{base_url}/evoX-CoreOS_ffpfsc.jpg",
+                "icon": f"{base_url}/assets/evoX-CoreOS_ffpfsc.jpg",
                 "downloadLinks": [
                     {
                         "name": "Direct FFPFSC",
