@@ -33,7 +33,7 @@ def get_github_repo_info():
     return repo_url, jsdelivr_url
 
 def generate_pegasus_catalog(pkg_flat, ffpfsc_flat):
-    print("🎯 Génération du catalogue JSON pour Pegasus-DL (format corrigé)...")
+    print("🎯 Génération du catalogue JSON pour Pegasus-DL (avec catégorie)...")
     
     output_dir = os.path.join(PATHS.get("json_dir", "json"), "pegasus-dl")
     os.makedirs(output_dir, exist_ok=True)
@@ -59,6 +59,7 @@ def generate_pegasus_catalog(pkg_flat, ffpfsc_flat):
                 "titleId": title_id,
                 "title": title,
                 "version": version,
+                "category": "game",
                 "description": description,
                 "posterUrl": f"{jsdelivr_url}/assets/evoX-CoreOS_pkg.jpg",
                 "downloadSource": repo_url,
