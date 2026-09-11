@@ -83,13 +83,13 @@
     },
     {
       "name": "ps5upload",
-      "filename": "ps5upload_v5.17.9.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.17.9/ps5upload_v5.17.9.elf",
-      "local_path": "payloads/ps5_server/ps5upload/v5.17.9/ps5upload_v5.17.9.elf",
+      "filename": "ps5upload_v5.17.10.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.17.10/ps5upload_v5.17.10.elf",
+      "local_path": "payloads/ps5_server/ps5upload/v5.17.10/ps5upload_v5.17.10.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v5.17.9",
+      "version": "v5.17.10",
       "category": "PS5 Server",
-      "checksum": "458663202cf67279b3da88a0e8cf94a85d833db10710c90771598a3ad1f7f135"
+      "checksum": "4039b181fb44d68f05f9d8d8e62062eef39202a2c2b8f3a75cfc3c78dae39a03"
     },
     {
       "name": "airpsx",
