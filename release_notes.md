@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.11-1027)
+### 🚀 Synthèse de la mise à jour (v2026.09.13-2030)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -41,7 +41,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `svtplay_v0.3.elf`
   * `PS-Play_v2.1.elf`
   * `ps5-fan-control_v0.3.elf`
-  * `Spectrum-Library_v1.4.4.elf`
+  * `Spectrum-Library_v1.4.5.elf`
   * `pegasus-dl_v1.8.0.elf`
   * `ps5shopappkg-dpi.elf`
   * `garlic-savemgr_v1.13.elf`
@@ -62,7 +62,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ELF_Arsenal_v1.6.22.elf`
   * `Kura_v1.6.50.elf`
   * `PIZZA-HEN_v2.00.elf`
-  * `onionHEN_v0.0.12.elf`
+  * `onionHEN_v0.0.13.elf`
   * `etaHEN-2.6B.bin`
   * `nanoDNS_v0.4.elf`
   * `Chukei_DNS_v0.9.0.elf`
@@ -84,7 +84,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `gdbsrv_v0.9.elf`
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.15-ng-stable.elf`
-  * `ps5upload_v5.17.10.elf`
+  * `ps5upload_v5.26.0.elf`
   * `airpsx_v0.19.elf`
   * `np-fake-signin_v1.3.elf`
 

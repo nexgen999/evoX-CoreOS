@@ -123,7 +123,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | :--- | :--- | :--- | :--- |
 | [pegasus-dl](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.8.0/pegasus-dl_v1.8.0.elf) | v1.8.0 | `3665fa275a18...` | free store webadmin http://your-ps5-ip:6970. |
 | [ps5shopappkg-dpi](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/ps5shopappkg-dpi/Source-Fixe/ps5shopappkg-dpi.elf) | Source-Fixe | `c4672cfa9094...` | You need PS5-SHOP-APPKG.pkg DPI port 9040. |
-| [Spectrum-Library](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/Spectrum-Library/1.4.4/Spectrum-Library_v1.4.4.elf) | 1.4.4 | `2005b5e169dc...` | free store webadmin http://your-ps5-ip:7575. |
+| [Spectrum-Library](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/Spectrum-Library/1.4.5/Spectrum-Library_v1.4.5.elf) | 1.4.5 | `cd93973a8926...` | free store webadmin http://your-ps5-ip:7575. |
 
 ### 📂 PS5 Game Dump
 
@@ -149,7 +149,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [etaHEN](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/etaHEN/2.5B/etaHEN_v2.5B.bin) | 2.5B | `4845cac45095...` | Le Homebrew Enabler (HEN) de référence pour la PS5 avec serveurs de triche, plugins et gestionnaire de mémoire intégrés. |
 | [etaHEN-2.6B](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/etaHEN-Beta/Source-Fixe/etaHEN-2.6B.bin) | Source-Fixe | `512c74a9d6f5...` | etahen beta version experimental. |
 | [Kura](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/Kura/v1.6.50/Kura_v1.6.50.elf) | v1.6.50 | `8bac520b2b99...` | Un loader de payloads moderne et épuré conçu pour optimiser l'injection de code sur PS5. |
-| [onionHEN](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/onionHEN/v0.0.12/onionHEN_v0.0.12.elf) | v0.0.12 | `a5c8dafe2af2...` | An all-in-one HEN and Toolbox for PlayStation 5. |
+| [onionHEN](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/onionHEN/v0.0.13/onionHEN_v0.0.13.elf) | v0.0.13 | `aa3f98847948...` | An all-in-one HEN and Toolbox for PlayStation 5. |
 | [PIZZA-HEN](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PIZZA-HEN/v2.00/PIZZA-HEN_v2.00.elf) | v2.00 | `8535d399612d...` | PIZZA HEN is an experimental all-in-one PS5 homebrew environment. |
 | [pldmgr](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.5.1/pldmgr_v0.5.1.elf) | v0.5.1 | `05617c69ea14...` | Interface d'administration et de gestion réseau pour envoyer, activer et ordonner vos fichiers ELF/BIN sur la console. |
 | [PS5_Unified_Autoloader](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.4-955249d/PS5_Unified_Autoloader_v0.1.4-955249d.elf) | v0.1.4-955249d | `31d12ba2b0b1...` | Chargeur universel de payloads permettant de lancer automatiquement vos outils favoris au démarrage de l'exploit. |
@@ -221,7 +221,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [ftpsrv_ps5-payload](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ftpsrv_ps5-payload/v0.21.1/ftpsrv_ps5-payload_v0.21.1.elf) | v0.21.1 | `0ccfe0097081...` | FTP server background daemon. Port: 21 |
 | [gdbsrv](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/gdbsrv/v0.9/gdbsrv_v0.9.elf) | v0.9 | `fc91ea233cdb...` | GDB Debugger server payload. Port: 1234 |
 | [klogsrv](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/klogsrv/v0.9/klogsrv_v0.9.elf) | v0.9 | `e828ec144231...` | Kernel log server daemon. Port: 3232 |
-| [ps5upload](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.17.10/ps5upload_v5.17.10.elf) | v5.17.10 | `4039b181fb44...` | PS5 Upload server / tool. Port: 9025 |
+| [ps5upload](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.26.0/ps5upload_v5.26.0.elf) | v5.26.0 | `735edfeb5cf6...` | PS5 Upload server / tool. Port: 9025 |
 | [websrv](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf) | v0.34 | `54730c867c6e...` | HTTP Web server payload. Port: 8080 |
 | [zftpd](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zftpd_v1.5.0.bin) | v1.5.0 | `f430dc1fdeae...` | FTP server payload for PS5. Port: 21 |
 | [zftpd](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zftpd_v1.5.0.elf) | v1.5.0 | `bc21772ceafd...` | FTP server payload for PS5. Port: 21 |

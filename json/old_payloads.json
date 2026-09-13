@@ -243,13 +243,13 @@
         },
         {
             "name": "Spectrum-Library",
-            "filename": "Spectrum-Library_v1.4.4.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/Spectrum-Library/1.4.4/Spectrum-Library_v1.4.4.elf",
-            "local_path": "payloads/ps5_freeshop/Spectrum-Library/1.4.4/Spectrum-Library_v1.4.4.elf",
+            "filename": "Spectrum-Library_v1.4.5.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/Spectrum-Library/1.4.5/Spectrum-Library_v1.4.5.elf",
+            "local_path": "payloads/ps5_freeshop/Spectrum-Library/1.4.5/Spectrum-Library_v1.4.5.elf",
             "description": "free store webadmin http://your-ps5-ip:7575.",
-            "version": "1.4.4",
+            "version": "1.4.5",
             "category": "PS5 Freeshop",
-            "checksum": "2005b5e169dc360c52b9033cc02bce4169a9d4a078627c543b9bbcf66607b9d5"
+            "checksum": "cd93973a89263fad0b13b39d77d7fbb401c7c7c641bc036965876c810ebf534e"
         },
         {
             "name": "pegasus-dl",
@@ -453,13 +453,13 @@
         },
         {
             "name": "onionHEN",
-            "filename": "onionHEN_v0.0.12.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/onionHEN/v0.0.12/onionHEN_v0.0.12.elf",
-            "local_path": "payloads/ps5_hen_loader/onionHEN/v0.0.12/onionHEN_v0.0.12.elf",
+            "filename": "onionHEN_v0.0.13.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/onionHEN/v0.0.13/onionHEN_v0.0.13.elf",
+            "local_path": "payloads/ps5_hen_loader/onionHEN/v0.0.13/onionHEN_v0.0.13.elf",
             "description": "An all-in-one HEN and Toolbox for PlayStation 5.",
-            "version": "v0.0.12",
+            "version": "v0.0.13",
             "category": "PS5 HEN Loader",
-            "checksum": "a5c8dafe2af2681e8014421400c4ade4183a8d8be6dad6080dbd0930fa159e00"
+            "checksum": "aa3f98847948e2ae8ea600c3f437e28247a0a4f8b73651a046d2859924bf97b3"
         },
         {
             "name": "etaHEN-2.6B",
@@ -673,13 +673,13 @@
         },
         {
             "name": "ps5upload",
-            "filename": "ps5upload_v5.17.10.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.17.10/ps5upload_v5.17.10.elf",
-            "local_path": "payloads/ps5_server/ps5upload/v5.17.10/ps5upload_v5.17.10.elf",
+            "filename": "ps5upload_v5.26.0.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.26.0/ps5upload_v5.26.0.elf",
+            "local_path": "payloads/ps5_server/ps5upload/v5.26.0/ps5upload_v5.26.0.elf",
             "description": "PS5 Upload server / tool. Port: 9025",
-            "version": "v5.17.10",
+            "version": "v5.26.0",
             "category": "PS5 Server",
-            "checksum": "4039b181fb44d68f05f9d8d8e62062eef39202a2c2b8f3a75cfc3c78dae39a03"
+            "checksum": "735edfeb5cf61b65bde8260cd63ce3d4417e2442dfe9609ae551a5bd8f15803a"
         },
         {
             "name": "airpsx",

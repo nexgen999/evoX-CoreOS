@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 13/09/2026 à 20:30
+* **PAYLOADS**
+  * `Spectrum-Library` (1.4.5) - *Mise à jour (Précédent: 1.4.4)*
+  * `onionHEN` (v0.0.13) - *Mise à jour (Précédent: v0.0.12)*
+  * `ps5upload` (v5.26.0) - *Mise à jour (Précédent: v5.17.10)*
+
 ## Build du 11/09/2026 à 10:27
 * **PAYLOADS**
   * `ps5upload` (v5.17.10) - *Mise à jour (Précédent: v5.17.9)*

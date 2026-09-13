@@ -150,9 +150,9 @@
     </item>
     <item>
       <title>Spectrum-Library</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/Spectrum-Library/1.4.4/Spectrum-Library_v1.4.4.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/Spectrum-Library/1.4.5/Spectrum-Library_v1.4.5.elf</link>
       <description>free store webadmin http://your-ps5-ip:7575.</description>
-      <pubDate>1.4.4</pubDate>
+      <pubDate>1.4.5</pubDate>
     </item>
     <item>
       <title>pegasus-dl</title>
@@ -276,9 +276,9 @@
     </item>
     <item>
       <title>onionHEN</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/onionHEN/v0.0.12/onionHEN_v0.0.12.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/onionHEN/v0.0.13/onionHEN_v0.0.13.elf</link>
       <description>An all-in-one HEN and Toolbox for PlayStation 5.</description>
-      <pubDate>v0.0.12</pubDate>
+      <pubDate>v0.0.13</pubDate>
     </item>
     <item>
       <title>etaHEN-2.6B</title>
@@ -408,9 +408,9 @@
     </item>
     <item>
       <title>ps5upload</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.17.10/ps5upload_v5.17.10.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.26.0/ps5upload_v5.26.0.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v5.17.10</pubDate>
+      <pubDate>v5.26.0</pubDate>
     </item>
     <item>
       <title>airpsx</title>

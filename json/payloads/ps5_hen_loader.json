@@ -63,13 +63,13 @@
     },
     {
       "name": "onionHEN",
-      "filename": "onionHEN_v0.0.12.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/onionHEN/v0.0.12/onionHEN_v0.0.12.elf",
-      "local_path": "payloads/ps5_hen_loader/onionHEN/v0.0.12/onionHEN_v0.0.12.elf",
+      "filename": "onionHEN_v0.0.13.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/onionHEN/v0.0.13/onionHEN_v0.0.13.elf",
+      "local_path": "payloads/ps5_hen_loader/onionHEN/v0.0.13/onionHEN_v0.0.13.elf",
       "description": "An all-in-one HEN and Toolbox for PlayStation 5.",
-      "version": "v0.0.12",
+      "version": "v0.0.13",
       "category": "PS5 HEN Loader",
-      "checksum": "a5c8dafe2af2681e8014421400c4ade4183a8d8be6dad6080dbd0930fa159e00"
+      "checksum": "aa3f98847948e2ae8ea600c3f437e28247a0a4f8b73651a046d2859924bf97b3"
     },
     {
       "name": "etaHEN-2.6B",
