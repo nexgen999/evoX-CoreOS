@@ -3,6 +3,38 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA09518",
+      "title": "WUCHANG Fallen Feathers Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/jnVUCJ2pPy"
+        }
+      ],
+      "version": "01.013",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA09518_40b4e63d70c9133f9349185a16b37a335f286fd45099d91a2488c13ebb6e40bc/icon0.webp",
+      "description": "WUCHANG: Fallen Feathers Deluxe Edition includes: - WUCHANG: Fallen Feathers Base Game 9 Costumes: - Tiger of Fortune Costume - Draconic Resurgence Costume - Soul Ritual Robe Costume - Overlord’s Regalia Costume - Forged Iron Costume - Radiant Costume - Duskhaze Bamboo Costume - Draconic Duskdance Costume - Draconic Dawnkdance Costume 8 Weapons: - Watcher’s Gaze (Sword) - Dragoncoil Lance (Spear) - Eternal Sovereignty (Dual Blades) - Moonlight Dragon (Sword) - Hooked Blade Spear - Blazing Nightlotus - Swanblade - Redcoil Waraxe 1 Skill Upgrade Item - Blood of Changhong Skill Upgrade Item (Large) WUCHANG: Fallen Feathers is a soulslike, action RPG set in the land of Shu during the dark and tumultuous late Ming Dynasty, plagued with warring factions and a mysterious illness spawning monstrous creatures. Become Wuchang, a skilled pirate warrior struck by amnesia, who must navigate the uncertainties of her mysterious past while afflicted by the horrific Feathering disease. Explore the depths of Shu, enhancing your arsenal and mastering new skills harvested from fallen foes. Evolve your fighting style by sacrificing elusive Red Mercury and further develop new techniques obtained throughout your journey. Battle against grotesque abominations, drawing on ancient lore to challenge the creeping darkness that threatens the humanity that remains. Your quest for truth will take you through forgotten temples, overgrown ruins, and shadowed paths fraught with peril. As you piece together Wuchang's lost memories, your choices will lead you to one of several endings—each determined by the choices made, secrets unearthed and the allies you choose to trust. Immerse yourself in a rich storyline, dynamic combat system, and breathtaking visuals that offer an unforgettable adventure through lands veiled in chaos and death. Will you reveal the truths of Wuchang's curse and bring peace to Shu, or will you succumb to the encroaching horrors? The fate of the land rests in your hands.\nRegion: USA\nUpdated: 2026-09-14T16:11:51.709Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 18253611008
+    },
+    {
+      "titleId": "PPSA01473",
+      "title": "Ratchet & Clank Rift Apart",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/or5M0KqYTx"
+        }
+      ],
+      "version": "1.005.003",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01473_7470682670552ab7644519b624354cba828c47145e540963e5f667649a80357c/icon0.webp",
+      "description": "BLAST YOUR WAY THROUGH AN INTERDIMENSIONAL ADVENTURE Ratchet and Clank are back! Help them stop a robotic emperor intent on conquering cross-dimensional worlds, with their own universe next in the firing line. Witness the evolution of the dream team as they’re joined by Rivet – a Lombax resistance fighter from another dimension. - Blast your way home with an arsenal of outrageous weaponry. - Experience the shuffle of dimensional rifts and dynamic gameplay. - Explore never-before-seen planets and alternate dimension versions of old favorites. PS5™ FEATURES: - Feel in-game actions through the haptic feedback of the DualSense™ wireless controller. - Take full control of advanced weapon mechanics, made possible by adaptive triggers. - Planet-hop at hyper-speed via the near-instant loading of the PS5™ console’s SSD. - Immerse your ears with Tempest 3D AudioTech* as you work to save the universe. - Enhanced lighting and ray tracing render dazzling in-game worlds – displayed in crisp, dynamic 4K and HDR**. - Choose Performance Mode to enjoy targeted 60 frames per second gameplay***. Celebrate 20 years of Ratchet & Clank with five brand-new armor sets inspired by games of the past. Download the game update* at no extra cost and receive: - Holoflux armor - Quest armor - Marauder armor - Commando armor - Clank armor *Game update v.1.004 requires internet connection.\nRegion: USA\nAPR: apr-emu-v0.4.2.1\nUpdated: 2026-09-14T15:25:45.534Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 59055800320
+    },
+    {
       "titleId": "PPSA01746",
       "title": "Kena Bridge of Spirits",
       "downloadLinks": [
@@ -25,6 +57,10 @@
         {
           "name": "Viki",
           "url": "https://vikingfile.com/f/pTCubFW6TG"
+        },
+        {
+          "name": "Archive",
+          "url": "https://archive.org/details/SMMiles_PKG"
         }
       ],
       "version": "01.015.001",
