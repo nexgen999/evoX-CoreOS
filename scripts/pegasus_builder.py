@@ -55,7 +55,7 @@ def apply_pegasus_metadata(items_list):
 def generate_pegasus_catalog(pkg_flat, ffpfsc_flat, output_path="json/pegasus_catalog.json"):
     """
     Génère le catalogue unifié Pegasus compatible avec les éléments PKG et FFPFSC,
-    en y appliquant les métadonnées personnalisées.
+    en y appliquant les métadonnées personnalisées et en mettant à jour le fichier final.
     """
     all_items = []
     
@@ -87,8 +87,17 @@ def generate_pegasus_catalog(pkg_flat, ffpfsc_flat, output_path="json/pegasus_ca
         "packages": final_items
     }
 
+    # 1. Enregistrement standard (json/pegasus_catalog.json)
     os.makedirs(os.path.dirname(output_path) if os.path.dirname(output_path) else ".", exist_ok=True)
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(catalog_output, f, indent=4, ensure_ascii=False)
         
     print(f"    ➔ Catalogue Pegasus généré : {output_path} ({len(final_items)} éléments)")
+
+    # 2. Enregistrement direct vers le fichier final cible (json/pegasus-dl/catalog.json)
+    final_dl_path = "json/pegasus-dl/catalog.json"
+    os.makedirs(os.path.dirname(final_dl_path), exist_ok=True)
+    with open(final_dl_path, "w", encoding="utf-8") as f:
+        json.dump(catalog_output, f, indent=4, ensure_ascii=False)
+        
+    print(f"    ➔ Catalogue Pegasus-DL final mis à jour : {final_dl_path}")
