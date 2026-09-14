@@ -1,29 +1,39 @@
 import os
 import json
 
-def apply_pegasus_metadata(items_list, config_path="assets/icon/pegasus_metadata.json"):
+def apply_pegasus_metadata(items_list):
     """
     Injecte les métadonnées personnalisées (titleId, title, icône/poster) 
     configurées via l'application Manager.
     """
+    # Résolution absolue du chemin vers assets/icon/pegasus_metadata.json
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    config_path = os.path.abspath(os.path.join(base_dir, "..", "assets", "icon", "pegasus_metadata.json"))
+    
     metadata = {}
     if os.path.exists(config_path):
         try:
             with open(config_path, "r", encoding="utf-8") as f:
                 metadata = json.load(f)
-        except Exception:
-            pass
+        except Exception as e:
+            print(f"    ⚠️ Erreur lors de la lecture de {config_path}: {e}")
 
     for item in items_list:
-        filename = item.get("filename")
-        if filename in metadata:
-            overrides = metadata[filename]
+        fname = item.get("filename")
+        # Si le nom de fichier n'est pas explicite, on l'extrait de l'URL
+        if not fname and item.get("url"):
+            fname = os.path.basename(item["url"])
+            
+        if fname in metadata:
+            overrides = metadata[fname]
             if overrides.get("titleId"):
                 item["titleId"] = overrides["titleId"]
             if overrides.get("title"):
                 item["title"] = overrides["title"]
             if overrides.get("icon"):
-                item["posterUrl"] = f"assets/icon/{overrides['icon']}"
+                icon_name = overrides['icon']
+                if icon_name.strip():
+                    item["posterUrl"] = f"https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/{icon_name}"
                 
     return items_list
 
@@ -38,13 +48,16 @@ def generate_pegasus_catalog(pkg_flat, ffpfsc_flat, output_path="json/pegasus_ca
     for item in pkg_flat + ffpfsc_flat:
         if isinstance(item, dict):
             fname = item.get("filename")
+            if not fname and item.get("url"):
+                fname = os.path.basename(item["url"])
+                
             if fname and not any(i.get("filename") == fname for i in all_items):
                 all_items.append({
                     "filename": fname,
-                    "titleId": item.get("titleId", ""),
-                    "title": item.get("title", ""),
+                    "titleId": item.get("titleId", "CUSA00000"),
+                    "title": item.get("title", fname),
                     "url": item.get("url", ""),
-                    "posterUrl": item.get("posterUrl", "")
+                    "posterUrl": item.get("posterUrl", "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg")
                 })
 
     # Application des surcharges du fichier pegasus_metadata.json
