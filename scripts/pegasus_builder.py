@@ -4,26 +4,42 @@ import json
 def apply_pegasus_metadata(items_list):
     """
     Injecte les métadonnées personnalisées (titleId, title, icône/poster) 
-    configurées via l'application Manager.
+    configurées via l'application Manager avec des vérifications de diagnostic.
     """
+    # Résolution absolue du chemin vers assets/icon/pegasus_metadata.json
     base_dir = os.path.dirname(os.path.abspath(__file__))
     config_path = os.path.abspath(os.path.join(base_dir, "..", "assets", "icon", "pegasus_metadata.json"))
+    
+    print(f"    🔍 [DEBUG] Recherche du fichier de métadonnées : {config_path}")
+    print(f"    🔍 [DEBUG] Le fichier existe ? {os.path.exists(config_path)}")
     
     metadata = {}
     if os.path.exists(config_path):
         try:
             with open(config_path, "r", encoding="utf-8") as f:
                 metadata = json.load(f)
+                print(f"    🔍 [DEBUG] Clés trouvées dans le JSON de config : {list(metadata.keys())}")
         except Exception as e:
-            print(f"    ⚠️ Erreur lors de la lecture de {config_path}: {e}")
+            print(f"    ⚠️ [DEBUG] Erreur de lecture du JSON: {e}")
+    else:
+        # Solution de repli : essayer un autre chemin au cas où le script est lancé depuis la racine
+        alt_config_path = os.path.abspath("assets/icon/pegasus_metadata.json")
+        if os.path.exists(alt_config_path):
+            print(f"    🔍 [DEBUG] Trouvé via le chemin alternatif : {alt_config_path}")
+            try:
+                with open(alt_config_path, "r", encoding="utf-8") as f:
+                    metadata = json.load(f)
+                    print(f"    🔍 [DEBUG] Clés trouvées : {list(metadata.keys())}")
+            except Exception as e:
+                pass
 
     for item in items_list:
-        # On cherche le nom du fichier soit via la clé filename, soit dans la liste des liens de téléchargement
         fname = item.get("filename")
         if not fname and "downloadLinks" in item and item["downloadLinks"]:
             fname = os.path.basename(item["downloadLinks"][0].get("url", ""))
         
         if fname and fname in metadata:
+            print(f"    ✅ [DEBUG] Match trouvé pour le fichier : {fname}")
             overrides = metadata[fname]
             if overrides.get("titleId"):
                 item["titleId"] = overrides["titleId"]
@@ -43,11 +59,9 @@ def generate_pegasus_catalog(pkg_flat, ffpfsc_flat, output_path="json/pegasus_ca
     """
     all_items = []
     
-    # On fusionne directement les dictionnaires d'origine pour ne pas perdre 
-    # les champs (version, description, downloadLinks, etc.)
+    # Fusion et formatage des éléments PKG et FFPFSC
     for item in pkg_flat + ffpfsc_flat:
         if isinstance(item, dict):
-            # S'assure qu'on a un filename de référence
             fname = item.get("filename")
             if not fname and "downloadLinks" in item and item["downloadLinks"]:
                 fname = os.path.basename(item["downloadLinks"][0].get("url", ""))
@@ -57,7 +71,6 @@ def generate_pegasus_catalog(pkg_flat, ffpfsc_flat, output_path="json/pegasus_ca
             
             # Évite les doublons
             if fname and not any(i.get("filename") == fname for i in all_items):
-                # Si les valeurs par défaut manquent
                 if not item.get("titleId"):
                     item["titleId"] = "CUSA00000"
                 if not item.get("posterUrl"):
