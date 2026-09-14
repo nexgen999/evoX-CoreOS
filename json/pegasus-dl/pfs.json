@@ -3,6 +3,38 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA09091",
+      "title": "Fairy Fencer F: Refrain Chord",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/n8bj26Oyjr"
+        }
+      ],
+      "version": "01.000.001",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA09091_d96b75de47386f760664b62db962634079b00d19b0da5e70516712c4f7476632/icon0.webp",
+      "description": "Long ago, the people were given knowledge by the Goddess, and civilization flourished. They built towers stretching toward the heavens, and a weapon so powerful, they could pierce the gods themselves. However, that civilization was decimated shortly after a violent conflict between the Goddess and the Vile God. Ages have passed since then. Our story begins with a young man named Fang who had become a Fencer, a swordsman who has the ability to wield a special weapon imbued with a Fairy known as a Fury. Along with his companions, Fang is on a journey to find the Furies, and resurrect the Goddess. One day, he encounters a woman who can save people with her song, and another who can brainwash people with her song. Along with the mysterious power of the women who call themselves Muses, Fang's destiny begins to unfold... Key Features FFF Tactics?! – Strategize to capitalize with an all-new Tactical RPG battle system! Use terrain, and objects such as rocks, boxes, and grass to your advantage. Strategic positioning on the battlefield can raise your evasiveness, or lower your movement speed, among other effects. Plus, Avalanche Attack and Fairize battle mechanics return! Fairies, Fencers, Furies...and Muses? – With the introduction of the two Muses, all-new battle mechanics are at your command. Use the power of their song to buff allies or combine both area of effect boosts for an even more DRAMATIC buff! But beware, enemies within the area can also benefit. Hidden Fairies, Locations and Treasure! – Break new ground with this fresh take on \"World Shaping.\" With \"Location Shaping,\" use your collected Furies by stabbing them in various locations of the world map. Doing so can unlock items, hidden locations, or even Fairies. Activate a chain to stab more locations without using up your limited Locate Energy! All-New Story With Multiple Routes! – Follow Fang and his friends through multiple routes in this all-new story, as they continue their search for Furies in order to resurrect the Goddess. Will you find harmony or dissonance when fate lies in your hands?\nRegion: USA\nAPR: apr-emu-v0.4.2.1\nUpdated: 2026-09-14T17:42:54.787Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 3221225472
+    },
+    {
+      "titleId": "PPSA03190",
+      "title": "MultiVersus",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/lbUstXaBpC"
+        }
+      ],
+      "version": "01.055",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03190_14e1ef171630502dfd3bf72e7d349d3554f23594d577b184e5f2bc2ae67caf6e/icon0.webp",
+      "description": "MultiVersus (MVS) is a 2024 free-to-play fighting game developed by Player First Games and published by Warner Bros. Games. The crossover game features characters and stages from and inspired by Warner Bros. franchises, including the company's film series, Looney Tunes, Game of Thrones, the DC Universe, Scooby-Doo and Cartoon Network franchises. As a platform fighter, the game primarily revolves around dealing sufficient damage to opponents in order to force them beyond the stage's boundaries, with particular emphasis on cooperative play. Officially announced in November 2021 following online rumors and leaks,[2] early access and open beta versions of the game ran from July 2022 to June 2023. The game then re-entered development until it was officially released on May 28, 2024, for PlayStation 4, PlayStation 5, Windows, Xbox One and Xbox Series X/S.[3][4] New characters and stages were added until the beginning of Season 5 on January 31, 2025.[5] MultiVersus received mixed reviews and was a commercial failure, following a period of initial success. Its open beta received praise for its team-oriented gameplay, presentation and faithfulness to the represented franchises, with minor criticism for its microtransactions. The latter, alongside technical issues, became a more prominent point of criticism upon the game's full release, with critics opining that its monetization mechanics were aggressive, including time-limited cosmetics. MultiVersus was delisted and its servers were permanently closed on May 30, 2025, remaining playable through its offline modes.\nRegion: EUR\nUpdated: 2026-09-14T16:14:35.563Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 19971597926
+    },
+    {
       "titleId": "PPSA09518",
       "title": "WUCHANG Fallen Feathers Deluxe Edition",
       "downloadLinks": [
