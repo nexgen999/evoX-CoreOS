@@ -36,8 +36,9 @@
             "version": "v1.0.0",
             "author": "ps5-payload-dev",
             "category": "PKG",
-            "titleId": "CUSA00000",
-            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg"
+            "titleId": "FAKE00000",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/homebrew-launcher.png",
+            "title": "Homebrew Launcher"
         },
         {
             "name": "Homebrew_Store_installer",
@@ -48,7 +49,7 @@
             "version": "v1.0.0",
             "author": "pkg-zone",
             "category": "PKG",
-            "titleId": "StoreR2",
+            "titleId": "NPXS39041",
             "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/Homebrew-Store.png",
             "title": "PS5 Homebrew Store"
         },
@@ -61,8 +62,8 @@
             "version": "v1.0.0",
             "author": "ps5xploit",
             "category": "PKG",
-            "titleId": "browserG",
-            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
+            "titleId": "MOUU12023",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/Internet-browser_Media.png",
             "title": "Internet Brower-Game"
         },
         {
@@ -74,8 +75,8 @@
             "version": "v1.0.0",
             "author": "ps5xploit",
             "category": "PKG",
-            "titleId": "broserM",
-            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
+            "titleId": "MOUU12023",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/Internet-browser_Media.png",
             "title": "Internet Brower-Media"
         },
         {
@@ -87,7 +88,7 @@
             "version": "v1.0.0",
             "author": "ps5xploit",
             "category": "PKG",
-            "titleId": "ps5shopappkg",
+            "titleId": "MOUS21425",
             "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/ps5shopappkg.png",
             "title": "ps5shopappkg"
         },
@@ -126,8 +127,8 @@
             "version": "v1.0.0",
             "author": "Master0",
             "category": "PKG",
-            "titleId": "ps5webkit",
-            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/ps5webkit.jpg",
+            "titleId": "PPNX00999",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/ps5webkit-nexgen.png",
             "title": "PS5 Webkit"
         },
         {
