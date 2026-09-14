@@ -3,6 +3,26 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA29141",
+      "title": "LEGO® Party!",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/m93bohPa4i"
+        },
+        {
+          "name": "Rootz",
+          "url": "https://www.rootz.so/d/18zaGO"
+        }
+      ],
+      "version": "01.000",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA29141_d7a0bf97f7a7ee1bad47620d0324ff91de0a7bdc419a8ebb6cdcc8ba65e6e50d/icon0.webp",
+      "description": "LEGO® Party! is a 4-player party game that’s built different! Compete against your friends in wacky Challenge Zones and 60 hilarious minigames from across your favorite LEGO sets like LEGO Pirates, LEGO Space, LEGO NINJAGO® and more. Join your friends online no matter their platform, or get together for a LEGO Party game night. With multiple game modes and tons of minifigures to unlock, you’ll have all the bricks to build the ultimate party! Challenge players near or far, customize your character and compete in a variety of awesome minigames to get as many Golden Bricks as you can, by any means necessary! But beware, watch out for monsters, traps and flying roast turkeys on your way to become the next star of LEGO Party! Play your way: Bring your friends and enjoy the mayhem in couch multiplayer or with cross-platform online multiplayer for up to 4 players. Whether it's competing for the perfect score in Rocketball, practicing against that pesky kraken in Kraken Up or boogieing down in Dance Off, you can enjoy LEGO Party! together or solo! Go for the gold: In LEGO Party! you have one goal: to become the player with the most Golden Bricks! Use power-ups to gain the advantage and set up traps to sabotage your opponents across a range of customizable LEGO themed Challenge Zones. Everything is awesome: Put your speed, wits, and LEGO expertise to the test across a variety of crazy minigames. Race to make dinner for aliens, run through collapsing tombs and skid round the track in rally races and so much more across 60 different wildly fun minigames. You do you: With over 1 billion minifigure combinations from iconic LEGO sets, you can go with a classic look or design your own unique and outlandish minifigure. Show off your creation at the next party!\nRegion: EUR\nUpdated: 2026-09-14T00:33:49.089Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 6947109601
+    },
+    {
       "titleId": "PPSA15508",
       "title": "The Last of Us Part II Remastered",
       "downloadLinks": [
@@ -81,6 +101,10 @@
         {
           "name": "Viki",
           "url": "https://vik1ngfile.site/f/Kl0CxvJh8Y"
+        },
+        {
+          "name": "Archive",
+          "url": "https://archive.org/details/SM2_FPKG"
         }
       ],
       "version": "01.004.003",
