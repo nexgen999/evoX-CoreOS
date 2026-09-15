@@ -92,6 +92,16 @@
             "checksum": "9c1b242eaed3704ef18be45d001a2c4ebf2d9222cfe3cbb0f0c3db33309abac9"
         },
         {
+            "name": "ps5-linux-loader",
+            "filename": "ps5-linux-loader_v2.5.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_linux/ps5-linux-loader/v2.5/ps5-linux-loader_v2.5.elf",
+            "local_path": "payloads/ps5_linux/ps5-linux-loader/v2.5/ps5-linux-loader_v2.5.elf",
+            "description": "Linux loader payload for the PS5.",
+            "version": "v2.5",
+            "category": "PS5 Linux",
+            "checksum": "9fc48733077145d1d204a4c9cdb879baaab1e711a604dd73af0dd4a807d6bc49"
+        },
+        {
             "name": "ChronicLoader-PS5-Payload",
             "filename": "ChronicLoader-PS5-Payload_v0.1.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/ChronicLoader-PS5-Payload/0.1/ChronicLoader-PS5-Payload_v0.1.elf",
@@ -663,13 +673,13 @@
         },
         {
             "name": "ps5upload",
-            "filename": "ps5upload_v5.26.0.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.26.0/ps5upload_v5.26.0.elf",
-            "local_path": "payloads/ps5_server/ps5upload/v5.26.0/ps5upload_v5.26.0.elf",
+            "filename": "ps5upload_v5.28.0.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.28.0/ps5upload_v5.28.0.elf",
+            "local_path": "payloads/ps5_server/ps5upload/v5.28.0/ps5upload_v5.28.0.elf",
             "description": "PS5 Upload server / tool. Port: 9025",
-            "version": "v5.26.0",
+            "version": "v5.28.0",
             "category": "PS5 Server",
-            "checksum": "735edfeb5cf61b65bde8260cd63ce3d4417e2442dfe9609ae551a5bd8f15803a"
+            "checksum": "e5937396055234122e21fa39ebc88287a8de916dbf541d5739b376e74ff882a3"
         },
         {
             "name": "airpsx",

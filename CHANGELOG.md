@@ -1,5 +1,10 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 15/09/2026 à 16:04
+* **PAYLOADS**
+  * `ps5-linux-loader` (v2.5) - *Nouveau*
+  * `ps5upload` (v5.28.0) - *Mise à jour (Précédent: v5.26.0)*
+
 ## Build du 15/09/2026 à 10:51
 * **PAYLOADS**
   * `pegasus-dl` (v1.9.0) - *Mise à jour (Précédent: v1.8.0)*

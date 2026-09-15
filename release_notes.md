@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.15-1051)
+### 🚀 Synthèse de la mise à jour (v2026.09.15-1604)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -26,6 +26,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `kstuff_EchoStretch_v1.6.7.elf`
   * `kstuff-lite_EchoStretch_v1.10.elf`
   * `kstuff-lite_drakmor_v1.2-dr-test1.elf`
+  * `ps5-linux-loader_v2.5.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
   * `Ghostpad_v1.0.0.elf`
   * `PoorDS4-stop_v0.1.0-rc38.elf`
@@ -83,7 +84,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `gdbsrv_v0.9.elf`
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.15-ng-stable.elf`
-  * `ps5upload_v5.26.0.elf`
+  * `ps5upload_v5.28.0.elf`
   * `airpsx_v0.19.elf`
   * `np-fake-signin_v1.3.elf`
 
