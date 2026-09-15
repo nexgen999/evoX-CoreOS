@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 15/09/2026 à 10:51
+* **PAYLOADS**
+  * `pegasus-dl` (v1.9.0) - *Mise à jour (Précédent: v1.8.0)*
+
 ## Build du 13/09/2026 à 20:30
 * **PAYLOADS**
   * `Spectrum-Library` (1.4.5) - *Mise à jour (Précédent: 1.4.4)*

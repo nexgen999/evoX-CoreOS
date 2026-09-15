@@ -59,12 +59,6 @@
       <pubDate>1.2-dr-test1</pubDate>
     </item>
     <item>
-      <title>[Payloads] ps5-linux-loader</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_linux/ps5-linux-loader/v2.5/ps5-linux-loader_v2.5.elf</link>
-      <description>Linux loader payload for the PS5.</description>
-      <pubDate>v2.5</pubDate>
-    </item>
-    <item>
       <title>[Payloads] ChronicLoader-PS5-Payload</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/ChronicLoader-PS5-Payload/0.1/ChronicLoader-PS5-Payload_v0.1.elf</link>
       <description>ChronicLoader utility payload for PS5.</description>
@@ -156,9 +150,9 @@
     </item>
     <item>
       <title>[Payloads] pegasus-dl</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.8.0/pegasus-dl_v1.8.0.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.9.0/pegasus-dl_v1.9.0.elf</link>
       <description>free store webadmin http://your-ps5-ip:6970.</description>
-      <pubDate>v1.8.0</pubDate>
+      <pubDate>v1.9.0</pubDate>
     </item>
     <item>
       <title>[Payloads] ps5shopappkg-dpi</title>

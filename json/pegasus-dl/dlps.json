@@ -43441,11 +43441,11 @@
       "title": "Gex Trilogy",
       "downloadLinks": [
         {
-          "name": "USA 10.xx Base - 1fichier",
+          "name": "USA 10.xx Base - 1fichier part 1",
           "url": "https://1fichier.com/?ng1wgjj08ctnj74ccfm3"
         },
         {
-          "name": "USA 10.xx Base - Rootz",
+          "name": "USA 10.xx Base - Rootz part 1",
           "url": "https://rootz.so/d/1oxGdc"
         },
         {
@@ -43453,16 +43453,40 @@
           "url": "https://www.mediafire.com/file/4l4ry57di59x1uu/[DLPSGAME.COM]+-+01.000+PPSA28542.rar/file"
         },
         {
-          "name": "USA 10.xx Base - Akirabox",
+          "name": "USA 10.xx Base - Akirabox part 1",
           "url": "https://akirabox.com/BnkmW71o2mR0/file"
         },
         {
-          "name": "USA 10.xx Base - Vikingfile",
+          "name": "USA 10.xx Base - Vikingfile part 1",
           "url": "https://vikingfile.com/f/99pIH8Ebps"
         },
         {
           "name": "USA 10.xx Base - Buzzheavier",
           "url": "https://buzzheavier.com/1xwse5h1p4ga"
+        },
+        {
+          "name": "USA 10.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/1RgzR98a83bp/file"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/AAscaeAedg"
+        },
+        {
+          "name": "USA 10.xx Base - 1fichier part 2",
+          "url": "https://1fichier.com/?88j3bfbg65huuh5kdqai"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz part 2",
+          "url": "https://rootz.so/d/1mmzya"
+        },
+        {
+          "name": "exFAT v01.000 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/OJWoLG5ZUC"
+        },
+        {
+          "name": "exFAT v01.000 Base - Akirabox",
+          "url": "https://akirabox.com/b5Ozd2axWmB8/file"
         },
         {
           "name": "USA exFAT 01.000 Base - AKIA (exFAT)",
@@ -43487,7 +43511,7 @@
       ],
       "category": "game",
       "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/05/2-11.jpg",
-      "description": "Variant: USA 10.xx\nRegion: USA\nRelease note: Works on 10.xx and higher\nContributor: @ SiESPta Team\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.000\nRegion: USA\nRelease note: exFAT format — FW 01.000 — 4.xx BackPort\nContributor: pippo",
+      "description": "Variant: USA 10.xx\nRegion: USA\nRelease note: Works on 10.xx and higher\nContributor: @ SiESPta Team\nPassword: DLPSGAME.COM\n\nVariant: exFAT v01.000\nRelease note: Gex Trilogy (v01.000) – BP 4.xx – PPSA28542 – exFAT\nContributor: Thanks to SiESPTA for the Files and kerrdec97 for the BackPort.\n\nVariant: USA exFAT 01.000\nRegion: USA\nRelease note: exFAT format — FW 01.000 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/gex-trilogy-ps5/"
     },
     {
@@ -46825,6 +46849,14 @@
           "url": "https://filecrypt.cc/Container/6581DA25FE.html"
         },
         {
+          "name": "EUR 11.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/qw1zeY6MjzXy/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/5JBbQpwtOp"
+        },
+        {
           "name": "EUR 11.xx Base - Mediafire part 1",
           "url": "https://www.mediafire.com/file/6vmil2rpx3f4za0/[DLPSGAME.COM]-PPSA29986-DUPLEX.part1.rar/file"
         },
@@ -46847,14 +46879,6 @@
         {
           "name": "EUR 11.xx Base - Buzzheavier part 2",
           "url": "https://buzzheavier.com/lgyeixot0m2i"
-        },
-        {
-          "name": "EUR 11.xx Base - Akirabox part 3",
-          "url": "https://akirabox.com/qw1zeY6MjzXy/file"
-        },
-        {
-          "name": "EUR 11.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/5JBbQpwtOp"
         },
         {
           "name": "EUR 11.xx BackPort 4.xx - Rootz",
@@ -46927,8 +46951,32 @@
           "url": "https://akirabox.com/Y2xm0ZNp0zRO/file"
         },
         {
-          "name": "EUR 9.xx Base - 1fichier",
+          "name": "EUR 9.xx Base - 1fichier part 1",
           "url": "https://1fichier.com/?utk35sqhfslhuqd9o42h"
+        },
+        {
+          "name": "EUR 9.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/LK0G14N7Yz91/file"
+        },
+        {
+          "name": "EUR 9.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/oyGjz5TeGx"
+        },
+        {
+          "name": "EUR 9.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/gXeGOANbP3Aa/file"
+        },
+        {
+          "name": "EUR 9.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/nkSBO7sSJ2"
+        },
+        {
+          "name": "EUR 9.xx Base - Rootz",
+          "url": "https://rootz.so/d/2GczZ2"
+        },
+        {
+          "name": "EUR 9.xx Base - 1fichier part 2",
+          "url": "https://1fichier.com/?tpukr30plr644kmjf0f2"
         },
         {
           "name": "EUR 9.xx Base - Mediafire part 1",
@@ -46967,12 +47015,24 @@
           "url": "https://buzzheavier.com/92hygenavvan"
         },
         {
-          "name": "EUR 9.xx Base - Akirabox",
-          "url": "https://akirabox.com/LK0G14N7Yz91/file"
+          "name": "EUR 9.xx BackPort 4.xx - Akirabox",
+          "url": "https://akirabox.com/gXeGOAWV63Aa/file"
         },
         {
-          "name": "EUR 9.xx Base - Vikingfile",
-          "url": "https://vikingfile.com/f/oyGjz5TeGx"
+          "name": "EUR 9.xx BackPort 4.xx - Vikingfile",
+          "url": "https://vikingfile.com/f/SEwGylppvP"
+        },
+        {
+          "name": "EUR 9.xx BackPort 4.xx - 1fichier",
+          "url": "https://1fichier.com/?81eln2ko1rnwqaq5om2x"
+        },
+        {
+          "name": "EUR 9.xx BackPort 4.xx - Mediafire",
+          "url": "https://www.mediafire.com/file/k1ibsgmsq8a1pn7/[DLPSGAME.COM]-4xx[PPSA18697][01.000.026].zip/file"
+        },
+        {
+          "name": "EUR 9.xx BackPort 4.xx - Rootz",
+          "url": "https://rootz.so/d/1a0NAO"
         }
       ],
       "category": "game",

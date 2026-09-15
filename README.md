@@ -121,7 +121,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| [pegasus-dl](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.8.0/pegasus-dl_v1.8.0.elf) | v1.8.0 | `3665fa275a18...` | free store webadmin http://your-ps5-ip:6970. |
+| [pegasus-dl](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.9.0/pegasus-dl_v1.9.0.elf) | v1.9.0 | `6336c626f0fb...` | free store webadmin http://your-ps5-ip:6970. |
 | [ps5shopappkg-dpi](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/ps5shopappkg-dpi/Source-Fixe/ps5shopappkg-dpi.elf) | Source-Fixe | `c4672cfa9094...` | You need PS5-SHOP-APPKG.pkg DPI port 9040. |
 | [Spectrum-Library](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/Spectrum-Library/1.4.5/Spectrum-Library_v1.4.5.elf) | 1.4.5 | `cd93973a8926...` | free store webadmin http://your-ps5-ip:7575. |
 
@@ -164,15 +164,6 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [kstuff-lite_drakmor](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-lite_drakmor/1.2-dr-test1/kstuff-lite_drakmor_v1.2-dr-test1.elf) | 1.2-dr-test1 | `9c1b242eaed3...` | Drakmor's variant of kstuff-lite. |
 | [kstuff-lite_EchoStretch](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-lite_EchoStretch/v1.10/kstuff-lite_EchoStretch_v1.10.elf) | v1.10 | `82cbb1e70f8a...` | Lightweight version of kstuff. |
 | [kstuff_EchoStretch](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff_EchoStretch/v1.6.7/kstuff_EchoStretch_v1.6.7.elf) | v1.6.7 | `f1c1f4b2b639...` | Fnd Kstuff payload for PS5. |
-
-### 📂 PS5 Linux
-
-> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/ps5_linux.json`
-
-
-| Application | Version | Empreinte SHA-256 | Description |
-| :--- | :--- | :--- | :--- |
-| [ps5-linux-loader](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_linux/ps5-linux-loader/v2.5/ps5-linux-loader_v2.5.elf) | v2.5 | `9fc487330771...` | Linux loader payload for the PS5. |
 
 ### 📂 PS5 Overlay
 
@@ -397,7 +388,6 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **pkg-zone** : [Homebrew_Store_installer](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Homebrew_Store_installer.pkg)
 - **porhe911** : [Common-FPS-for-PS5](https://github.com/porhe911/Common-FPS-for-PS5)
 - **ps4macedo** : [Host-PSM pooP2JB](https://github.com/ps4macedo/instalador-host-psm-poop2jb)
-- **ps5-linux** : [ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader)
 - **ps5-payload-dev** : [HOMEBREWLOADER](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_HOMEBREWLOADER_v0.30.pkg)
 - **ps5-payload-dev** : [elfldr](https://github.com/ps5-payload-dev/elfldr)
 - **ps5-payload-dev** : [ftpsrv_ps5-payload](https://github.com/ps5-payload-dev/ftpsrv)
