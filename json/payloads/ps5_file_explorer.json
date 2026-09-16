@@ -23,13 +23,13 @@
     },
     {
       "name": "ps5-web-file-manager",
-      "filename": "ps5-web-file-manager_v1.8.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.8/ps5-web-file-manager_v1.8.elf",
-      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.8/ps5-web-file-manager_v1.8.elf",
+      "filename": "ps5-web-file-manager_v1.9.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.9/ps5-web-file-manager_v1.9.elf",
+      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.9/ps5-web-file-manager_v1.9.elf",
       "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
-      "version": "v1.8",
+      "version": "v1.9",
       "category": "PS5 File Explorer",
-      "checksum": "c1a688354f00d7b41ec172f930649732b2bc0c77db3d061c533ae4e7252a8a51"
+      "checksum": "711cb076e887fcd55d973ade8b84bb6c22720be295bfde18e32761f6e0479a3e"
     },
     {
       "name": "PS5-File-Explorer",

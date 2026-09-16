@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.16-0253)
+### 🚀 Synthèse de la mise à jour (v2026.09.16-1041)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -74,7 +74,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `apr_emu_updater_v2.0.6.elf`
   * `BFpilot_v0.4.4.elf`
   * `lapy_jb_daemon.elf`
-  * `ps5-web-file-manager_v1.8.elf`
+  * `ps5-web-file-manager_v1.9.elf`
   * `PS5-File-Explorer_vfile-explorer-v0.2.1.elf`
   * `zftpd_v1.5.0.bin`
   * `zftpd_v1.5.0.elf`

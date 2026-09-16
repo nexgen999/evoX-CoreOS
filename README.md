@@ -112,7 +112,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [BFpilot](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/BFpilot/v0.4.4/BFpilot_v0.4.4.elf) | v0.4.4 | `5a8237630260...` | BFpilot is a lightweight PS5 payload that serves a browser-based file manager. |
 | [lapy_jb_daemon](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/Lapy_JB_Daemon/Source-Fixe/lapy_jb_daemon.elf) | Source-Fixe | `e8230ac4597b...` | Daemon pour le jailbreak de Lapy |
 | [PS5-File-Explorer](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/PS5-File-Explorer/file-explorer-v0.2.1/PS5-File-Explorer_vfile-explorer-v0.2.1.elf) | file-explorer-v0.2.1 | `6d4b905b4272...` | PS5 File Explorer http://your-ps5-ip:5905. |
-| [ps5-web-file-manager](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.8/ps5-web-file-manager_v1.8.elf) | v1.8 | `c1a688354f00...` | PS5 Web File Manager http://your-ps5-ip:8888. |
+| [ps5-web-file-manager](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.9/ps5-web-file-manager_v1.9.elf) | v1.9 | `711cb076e887...` | PS5 Web File Manager http://your-ps5-ip:8888. |
 
 ### 📂 PS5 Freeshop
 
