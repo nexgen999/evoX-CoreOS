@@ -9,6 +9,10 @@
         {
           "name": "Gofile",
           "url": "https://gofile.io/d/UTtIKdWF"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/LCyukkMyuB"
         }
       ],
       "version": "01.001.000",
@@ -179,7 +183,7 @@
       "sizeBytes": 147918673674
     },
     {
-      "titleId": "PPSA20396",
+      "titleId": "PPSA20397",
       "title": "Assassins Creed Shadows",
       "downloadLinks": [
         {
@@ -193,10 +197,10 @@
       ],
       "version": "1.019.076",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA20396_cbe9118db8a15f78ee32ce3678b1a651e14d09506a6b42a7e99cdfea6b242c1b/icon0.webp",
-      "description": "MASTER THE DEEPEST STEALTH MECHANISMS OF THE SERIES & FIGHT IN VISCERAL COMBAT “Shadows is some of the most fun I’ve had with a stealth game in a decade” —PC Gamer Play as Naoe, a quick-witted shinobi, and use light, sound, and shadows to evade detection. Infiltrate enemy strongholds with many parkour options including the new grappling hook, distract guards with shuriken or smoke bombs, and assassinate your targets with your Hidden Blade. As the samurai Yasuke, use silent bow takedowns or unleash devastating melee combos with your katana or naginata. DEEP-DIVE INTO THE CAPTIVATING WORLD OF ASSASSIN'S CREED SHADOWS “Assassin’s Creed Shadows creates one of the best versions of the open-world style.” —IGN Step into feudal Japan like never before! From majestic castle towns to serene shrines and sweeping countryside, Assassin’s Creed Shadows offers a breathtaking open world where dynamic seasons, shifting weather, and environmental destruction affect your tactical approach. DISCOVER THE MOST TECHNICALLY ADVANCED ASSASSIN’S CREED GAME YET “It leads to one of the most dynamic, fun, and best-looking open-world games I’ve played this generation.” —Kotaku Experience a true next-gen leap with Assassin’s Creed Shadows, powered by the updated Anvil engine. From the shimmer of lantern light on rain-slick rooftops to the rustle of cherry blossoms in the wind, every detail is crafted to immerse you deeper into feudal Japan. A GLOBAL HIT Whether you are a veteran Assassin’s Creed player or new to the franchise, feudal Japan awaits you! Join a community of millions of players and discover a title GameSpot describes as \"an absolute blast to play,\" Eurogamer.es as \"the best Assassin's Creed of the modern era\" and GamingTrend as “the new benchmark for the series.” PlayStation players also elected Assassin's Creed Shadows \"PlayStation Player's choice\" for March 2025. Internet connection, Ubisoft Account and PlayStation™Network account required to access online features.\nRegion: USA\nNotes: Audio 3D must be off for avoid the crash on Initial Settings.\nUpdated: 2026-09-15T15:45:52.113Z",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA20397_ab966e5f7d833e56a3490f2143f4355870270405c5d816879d251f06d4dd6eb6/icon0.webp",
+      "description": "MASTER THE DEEPEST STEALTH MECHANISMS OF THE SERIES & FIGHT IN VISCERAL COMBAT “Shadows is some of the most fun I’ve had with a stealth game in a decade” —PC Gamer Play as Naoe, a quick-witted shinobi, and use light, sound, and shadows to evade detection. Infiltrate enemy strongholds with many parkour options including the new grappling hook, distract guards with shuriken or smoke bombs, and assassinate your targets with your Hidden Blade. As the samurai Yasuke, use silent bow takedowns or unleash devastating melee combos with your katana or naginata. DEEP-DIVE INTO THE CAPTIVATING WORLD OF ASSASSIN'S CREED SHADOWS “Assassin’s Creed Shadows creates one of the best versions of the open-world style.” —IGN Step into feudal Japan like never before! From majestic castle towns to serene shrines and sweeping countryside, Assassin’s Creed Shadows offers a breathtaking open world where dynamic seasons, shifting weather, and environmental destruction affect your tactical approach. DISCOVER THE MOST TECHNICALLY ADVANCED ASSASSIN’S CREED GAME YET “It leads to one of the most dynamic, fun, and best-looking open-world games I’ve played this generation.” —Kotaku Experience a true next-gen leap with Assassin’s Creed Shadows, powered by the updated Anvil engine. From the shimmer of lantern light on rain-slick rooftops to the rustle of cherry blossoms in the wind, every detail is crafted to immerse you deeper into feudal Japan. A GLOBAL HIT Whether you are a veteran Assassin’s Creed player or new to the franchise, feudal Japan awaits you! Join a community of millions of players and discover a title GameSpot describes as \"an absolute blast to play,\" Eurogamer.es as \"the best Assassin's Creed of the modern era\" and GamingTrend as “the new benchmark for the series.” PlayStation players also elected Assassin's Creed Shadows \"PlayStation Player's choice\" for March 2025. Internet connection, Ubisoft Account and PlayStation™Network account required to access online features.\nRegion: EUR\nNotes: Audio 3D must be off for avoid the crash on Initial Settings.\nUpdated: 2026-09-15T15:45:52.113Z",
       "downloadSource": "https://pfs-library.vercel.app/api/packages",
-      "sizeBytes": 165141492531
+      "sizeBytes": 153319595049
     },
     {
       "titleId": "PPSA03274",
@@ -621,22 +625,6 @@
       "description": "JOIN ASTRO ON A SUPERSIZED SPACE ADVENTURE When the PS5® mothership is attacked by ASTRO’s long-standing galactic nemesis, scrambling its wires and scattering the crew throughout space, only ASTRO can make things right! Setting off on his biggest mission yet, he needs your help to rescue the stranded crew and rebuild the mothership. Make the most of ASTRO’s new power-ups, handcrafted to level up your immersion: from springy punches and rockets all the way to a giant sponge! Buckle up for some epic PlayStation® camaraderie, join forces with your favourite PlayStation icons and show the universe that small is mighty in this fresh new ASTRO adventure, exclusive to PS5 consoles! - Embark on a galactic quest and explore more than 50 planets in search of ASTRO’s lost crew. - Dash, swing, and rocket-punch your way through this journey, with all-new power-ups. - Feel the world come to life via your DualSense® wireless controller. - Team up with iconic PlayStation heroes to save the galaxy!\nRegion: EUR\nAPR: apr-emu-v0.4.2.1\nUpdated: 2026-09-12T10:42:08.978Z",
       "downloadSource": "https://pfs-library.vercel.app/api/packages",
       "sizeBytes": 73014444032
-    },
-    {
-      "titleId": "PPSA24884",
-      "title": "Startfield Premium Edition",
-      "downloadLinks": [
-        {
-          "name": "Viki",
-          "url": "https://vik1ngfile.site/f/UHF0hT9wCJ"
-        }
-      ],
-      "version": "01.000.002",
-      "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA24884_c9aa3d2a56d1b2ff4c3c91625af02204ae4e03b7c1725d0007c9f860fe6d2f8b/icon0.webp",
-      "description": "Starfield is the first new universe in over 25 years from Bethesda Game Studios, the award-winning creators of The Elder Scrolls V: Skyrim and Fallout 4. In this next generation role-playing game set amongst the stars, create any character you want and explore with unparalleled freedom as you embark on an epic journey to answer humanity’s greatest mystery. In the year 2330, humanity has ventured beyond our solar system, settling new planets, and living as a spacefaring people. You will join Constellation – the last group of space explorers seeking rare artifacts throughout the galaxy – and navigate the vast expanse of space in Bethesda Game Studios’ biggest and most ambitious game. TELL YOUR STORY In Starfield the most important story is the one you tell with your character. Start your journey by customizing your appearance and deciding your Background and Traits. Will you be an experienced explorer, a charming diplomat, a stealthy cyber runner, or something else entirely? The choice is yours. Decide who you will be and what you will become. EXPLORE OUTER SPACE Venture through the stars and explore more than 1000 planets. Navigate bustling cities, explore dangerous bases, and traverse wild landscapes. Meet and recruit a memorable cast of characters, join in the adventures of various factions, and embark on quests across the Settled Systems. A new story or experience is always waiting to be discovered. CAPTAIN THE SHIP OF YOUR DREAMS Pilot and command the ship of your dreams. Personalize the look of your ship, modify critical systems including weapons and shields, and assign crew members to provide unique bonuses. In deep space you will engage in high-stakes dogfights, encounter random missions, dock at star stations, and even board and commandeer enemy ships to add to your collection. DISCOVER, COLLECT, BUILD Explore planets and discover the fauna, flora, and resources needed to craft everything from medicine and food to equipment and weapons. Build outposts and hire a crew to passively extract materials and establish cargo links to transfer resources between them. Invest these raw materials into research projects to unlock unique crafting recipes. LOCK AND LOAD Space can be a dangerous place. A refined combat system gives you the tools to deal with any situation. Whether you prefer long-range rifles, laser weapons, or demolitions, each weapon type can be modified to complement your playstyle. Zero G environments add a chaotic spectacle to combat, while boost packs give players freedom to maneuver like never before.\nRegion: EUR\nAPR: apr-emu-v0.4.2.1\nUpdated: 2026-09-12T10:37:20.299Z",
-      "downloadSource": "https://pfs-library.vercel.app/api/packages",
-      "sizeBytes": 186831077376
     },
     {
       "titleId": "PPSA20396",

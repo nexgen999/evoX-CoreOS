@@ -119799,6 +119799,37 @@
       "downloadSource": "https://pkg.games/ps5/greyhill-incident/"
     },
     {
+      "titleId": "PPSA02633",
+      "title": "[exFAT] Street Fighter 6 Years 1-3 Fighters Edition",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.000.028 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoia1JqbUFxRmtwOTc3bytxV3ArZVZCRTIxeTFJTjdmYXdPRjJhMHpJQmN4SmluN1gyWlExZEZ1SjltalorNEp0M1NOanF5ZEh2RjlwUFYrenBhcXl0Y1M1Ui9DQklDWGozNmVVPSIsImkiOiJXK0VTRGJ4aS9JSm1ZYjZhIiwibiI6IkFraWEifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.000.028 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidVZBei83TVd0SmNVSXRNZDBRZGY4bFVNL01YSk9xK2FsUW8yTzZPUzBaVVI4TkorR0JHeHJ6MlI0VkM4L0dSUTl5N3VGRFN3T0RNZUJreFdvTzMzN3p6WFdnNnBvTU09IiwiaSI6IlZYYytSZEJYT2VTZGFKNXciLCJuIjoiVmlraSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.000.028 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTU5DNUVGRjJmcFNoNk8rUWRrbkV6VFluZFVSUmRBVnd1M0c3OFlnWnFXbVdaQzVRbHpHcVZkanRsNG1IcXlDOVNyUXViUUx1QjRqUFIrMEV3dVFtaUIrc2t3VUMiLCJpIjoiV2dpSjhLaU1vK29iSW9YciIsIm4iOiJEYXRhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.000.028 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiL01Xb0lET0doZG9SVXhpcml2MWlwbUUrN3NwSkRQMFRhWDBmR0J6SzloNU9mSGYxSENVZlJBWVg4MmxaNWVMbFQ3SGc2TzdtQ3JKSStXYXd5bm9iT040dGRUY014czQ9IiwiaSI6InBpL1RJYVlZMnM4SXNlK1EiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.000.028 Base - Vault (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidFNyRDg2aEppQ0RIMUVwZHF3WCtwT0w4ZUpobGFDUGFFY2lnTTZibXgyRGdRMzR4Nm9Xbm1tSWUzOTRSRmZ6bWJsd3BoSGR2a0gwZE9QTEVtMDNnMWIrQnlXSDlyQT09IiwiaSI6ImYrV2N5ZUtZS21XQ2MzaXYiLCJuIjoiVmF1bHQifQ=="
+        }
+      ],
+      "version": "01.000.028",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Street_Fighter_6_1_3_FE.jpg",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.000.028 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
+    },
+    {
       "titleId": "PPSA01907",
       "title": "[exFAT] Override 2 Super Mech League Ultraman Deluxe Edition",
       "downloadLinks": [
@@ -120310,37 +120341,6 @@
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/METAL_GEAR_SOLID_3_Snake_Eater_Master_Collection.avif",
       "description": "Region: USA\nRelease note: exFAT format — FW 03.002 — Standard (5.xx) + 4.xx BackPort\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
-    },
-    {
-      "titleId": "PPSA02633",
-      "title": "[exFAT] Street Fighter 6 Years 1-3 Fighters Edition",
-      "downloadLinks": [
-        {
-          "name": "EUR exFAT 01.000.028 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoia1JqbUFxRmtwOTc3bytxV3ArZVZCRTIxeTFJTjdmYXdPRjJhMHpJQmN4SmluN1gyWlExZEZ1SjltalorNEp0M1NOanF5ZEh2RjlwUFYrenBhcXl0Y1M1Ui9DQklDWGozNmVVPSIsImkiOiJXK0VTRGJ4aS9JSm1ZYjZhIiwibiI6IkFraWEifQ=="
-        },
-        {
-          "name": "EUR exFAT 01.000.028 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidVZBei83TVd0SmNVSXRNZDBRZGY4bFVNL01YSk9xK2FsUW8yTzZPUzBaVVI4TkorR0JHeHJ6MlI0VkM4L0dSUTl5N3VGRFN3T0RNZUJreFdvTzMzN3p6WFdnNnBvTU09IiwiaSI6IlZYYytSZEJYT2VTZGFKNXciLCJuIjoiVmlraSJ9"
-        },
-        {
-          "name": "EUR exFAT 01.000.028 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTU5DNUVGRjJmcFNoNk8rUWRrbkV6VFluZFVSUmRBVnd1M0c3OFlnWnFXbVdaQzVRbHpHcVZkanRsNG1IcXlDOVNyUXViUUx1QjRqUFIrMEV3dVFtaUIrc2t3VUMiLCJpIjoiV2dpSjhLaU1vK29iSW9YciIsIm4iOiJEYXRhIn0="
-        },
-        {
-          "name": "EUR exFAT 01.000.028 Base - FileK (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiL01Xb0lET0doZG9SVXhpcml2MWlwbUUrN3NwSkRQMFRhWDBmR0J6SzloNU9mSGYxSENVZlJBWVg4MmxaNWVMbFQ3SGc2TzdtQ3JKSStXYXd5bm9iT040dGRUY014czQ9IiwiaSI6InBpL1RJYVlZMnM4SXNlK1EiLCJuIjoiRmlsZUsifQ=="
-        },
-        {
-          "name": "EUR exFAT 01.000.028 Base - Vault (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidFNyRDg2aEppQ0RIMUVwZHF3WCtwT0w4ZUpobGFDUGFFY2lnTTZibXgyRGdRMzR4Nm9Xbm1tSWUzOTRSRmZ6bWJsd3BoSGR2a0gwZE9QTEVtMDNnMWIrQnlXSDlyQT09IiwiaSI6ImYrV2N5ZUtZS21XQ2MzaXYiLCJuIjoiVmF1bHQifQ=="
-        }
-      ],
-      "version": "01.000.028",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Street_Fighter_6_1_3_FE.jpg",
-      "description": "Region: EUR\nRelease note: exFAT format — FW 01.000.028 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
     },
     {
