@@ -12194,6 +12194,46 @@
           "url": "https://www.mediafire.com/file/ivpnptgm6dnzfxp/[DLPSGAME.COM]-PPSA07421.part2.rar/file"
         },
         {
+          "name": "USA 12.xx Base - Mediafire part 3",
+          "url": "https://www.mediafire.com/file/w2h1v3d9wli6tg3/[DLPSGAME.COM]-PPSA07421.part3.rar/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/XkrzokRkPzBO/file"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/q1sFYMy6Ec"
+        },
+        {
+          "name": "USA 12.xx Base - 1fichier part 3",
+          "url": "https://1fichier.com/?h59w2olf6axed8cfpczv"
+        },
+        {
+          "name": "USA 12.xx BackPort 4.xx - Akirabox",
+          "url": "https://akirabox.com/2WVGrdqJ93kx/file"
+        },
+        {
+          "name": "USA 12.xx BackPort 4.xx - Vikingfile",
+          "url": "https://vikingfile.com/f/p368sZBVyX"
+        },
+        {
+          "name": "USA 12.xx BackPort 4.xx - 1fichier",
+          "url": "https://1fichier.com/?xy93w78uvvtt5jpclrjm"
+        },
+        {
+          "name": "USA 12.xx BackPort 4.xx - Rootz",
+          "url": "https://rootz.so/d/zgMLI"
+        },
+        {
+          "name": "exFAT v01.302 Base - Akirabox",
+          "url": "https://akirabox.com/M2BGwPwgbmj4/file"
+        },
+        {
+          "name": "exFAT v01.302 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/6r2VPhZTqC"
+        },
+        {
           "name": "USA exFAT 01.302 Base - AKIA (exFAT)",
           "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoieWJhQi9NQVRZVmYrU3RLU2czNk81djFoTkpFTDNFdFpVMERwaVd5SUJvWDJFNitEdDhzR3hxWHNZUnVLNmpLeG5OTW1tOTMzQjl5Nm5OQXk2aE81d0tlNnk5L2NwWFJjdE1VPSIsImkiOiJRMEoyenh1MlBCREU2cmw1IiwibiI6IkFraWEifQ=="
         },
@@ -12216,7 +12256,7 @@
       ],
       "category": "game",
       "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/07/2-fdf-1.jpg",
-      "description": "Variant: USA 12.xx\nRegion: USA\nRelease note: Working 12.xx to 6.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.302\nRegion: USA\nRelease note: exFAT format — FW 01.302 — 4.xx BackPort\nContributor: pippo",
+      "description": "Variant: USA 12.xx\nRegion: USA\nRelease note: Working 12.xx to 6.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: exFAT v01.302\nRelease note: FateSamurai Remnant (v01.302) – BP 4.xx – PPSA07421 – exFAT\nContributor: Thanks to High-Speed007 for the Files, drakmor for ampr-emu and DecKerr97 for the BackPort.\n\nVariant: USA exFAT 01.302\nRegion: USA\nRelease note: exFAT format — FW 01.302 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/fatesamurai-remnant-ps5/"
     },
     {
@@ -119799,6 +119839,37 @@
       "downloadSource": "https://pkg.games/ps5/greyhill-incident/"
     },
     {
+      "titleId": "PPSA14251",
+      "title": "[exFAT] Mafia The Old Country Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.008 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSytwaThUbzVHMlVybnplTU5xU0t6ZXBtUTB3NGRwOWEwU1BRaTZqa0pOK0VwRU44VzV1RVlKY3R1RGRzby83T1M3WjdQa3ZzWE1FbTFla3cxcS9rbEpERllXbHZsdHJTS0hRPSIsImkiOiJ0TWcrbmtGNWhuN0pSZm9YIiwibiI6IkFraWEifQ=="
+        },
+        {
+          "name": "USA exFAT 01.008 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZ0ErSWtRZmtVTjBJZjk4TEcvLzJ3TFRFYzJJTzJjbVZxaUx4Z3BmS0hSRVdNaUxxK0E3dEovOGUrREU1b2pvT2JPcGVneVBnOWVDWnVjSWJpNzJ5bUFWZ3lxb2NJMGM9IiwiaSI6ImNPYUNRVW1seFdQK3J4MWsiLCJuIjoiVmlraSJ9"
+        },
+        {
+          "name": "USA exFAT 01.008 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMG5oNlllb09PbzV5ZkxEeFJyRXd2dU9WWUxIVmx0VEFhNGxpanZWaUFaWktEc1FndFJtRkY5Q3NzRFAwVVJDbDk5eWRlMDltK3NkcU1pQVFyMGd6Z0ZyZzBPUG0iLCJpIjoibGN4K3VvVVM0T0Q4VGxnaCIsIm4iOiJEYXRhIn0="
+        },
+        {
+          "name": "USA exFAT 01.008 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicm5YMDd2dTJqLzRuZ1lpWmxOY2FrL2lxTlZGRzlnaWdURWE2c3pIOGk3ZjVVQ29KakxwUXhQK0drbk42YmgrQ1VqRnBiaUNuNGV1MHMxQksxU0YwbGx4VG9sV0hHWk09IiwiaSI6IlkwRWZtdVNZY2hnaFJGRTAiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.008 Base - Vault (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiaUJ4Q1JUMVdZODRTT3RwdGVRMFpSNzQxaFJDd1d2bFVyc1k0U3U2emVFNUVhYy9LVzZROEwvVEN1aHJFbVdkNHRtTTk2V0dZdjVNTFZMdUpMQXB1dklBa2p3ZWRGUT09IiwiaSI6InhvNUJLSVFKdlJlaXJNc2EiLCJuIjoiVmF1bHQifQ=="
+        }
+      ],
+      "version": "01.008",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Mafia_The_Old_Country_Deluxe_Edition.png",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.008 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
+    },
+    {
       "titleId": "PPSA02633",
       "title": "[exFAT] Street Fighter 6 Years 1-3 Fighters Edition",
       "downloadLinks": [
@@ -122238,37 +122309,6 @@
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/MX_vs_ATV_Legends_UE.png",
       "description": "Region: USA\nRelease note: exFAT format — FW 04.024 — 4.xx BackPort\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
-    },
-    {
-      "titleId": "PPSA14251",
-      "title": "[exFAT] Mafia The Old Country Deluxe Edition",
-      "downloadLinks": [
-        {
-          "name": "USA exFAT 01.008 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSytwaThUbzVHMlVybnplTU5xU0t6ZXBtUTB3NGRwOWEwU1BRaTZqa0pOK0VwRU44VzV1RVlKY3R1RGRzby83T1M3WjdQa3ZzWE1FbTFla3cxcS9rbEpERllXbHZsdHJTS0hRPSIsImkiOiJ0TWcrbmtGNWhuN0pSZm9YIiwibiI6IkFraWEifQ=="
-        },
-        {
-          "name": "USA exFAT 01.008 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZ0ErSWtRZmtVTjBJZjk4TEcvLzJ3TFRFYzJJTzJjbVZxaUx4Z3BmS0hSRVdNaUxxK0E3dEovOGUrREU1b2pvT2JPcGVneVBnOWVDWnVjSWJpNzJ5bUFWZ3lxb2NJMGM9IiwiaSI6ImNPYUNRVW1seFdQK3J4MWsiLCJuIjoiVmlraSJ9"
-        },
-        {
-          "name": "USA exFAT 01.008 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMG5oNlllb09PbzV5ZkxEeFJyRXd2dU9WWUxIVmx0VEFhNGxpanZWaUFaWktEc1FndFJtRkY5Q3NzRFAwVVJDbDk5eWRlMDltK3NkcU1pQVFyMGd6Z0ZyZzBPUG0iLCJpIjoibGN4K3VvVVM0T0Q4VGxnaCIsIm4iOiJEYXRhIn0="
-        },
-        {
-          "name": "USA exFAT 01.008 Base - FileK (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicm5YMDd2dTJqLzRuZ1lpWmxOY2FrL2lxTlZGRzlnaWdURWE2c3pIOGk3ZjVVQ29KakxwUXhQK0drbk42YmgrQ1VqRnBiaUNuNGV1MHMxQksxU0YwbGx4VG9sV0hHWk09IiwiaSI6IlkwRWZtdVNZY2hnaFJGRTAiLCJuIjoiRmlsZUsifQ=="
-        },
-        {
-          "name": "USA exFAT 01.008 Base - Vault (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiaUJ4Q1JUMVdZODRTT3RwdGVRMFpSNzQxaFJDd1d2bFVyc1k0U3U2emVFNUVhYy9LVzZROEwvVEN1aHJFbVdkNHRtTTk2V0dZdjVNTFZMdUpMQXB1dklBa2p3ZWRGUT09IiwiaSI6InhvNUJLSVFKdlJlaXJNc2EiLCJuIjoiVmF1bHQifQ=="
-        }
-      ],
-      "version": "01.008",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Mafia_The_Old_Country_Deluxe_Edition.png",
-      "description": "Region: USA\nRelease note: exFAT format — FW 01.008 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
     },
     {
