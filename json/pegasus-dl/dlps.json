@@ -3,6 +3,94 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA13934",
+      "title": "Spirit of The Island",
+      "downloadLinks": [
+        {
+          "name": "EUR Base - Akirabox",
+          "url": "https://akirabox.com/l76mZr49nman/file"
+        },
+        {
+          "name": "EUR Base - Rootz",
+          "url": "https://www.rootz.so/d/1PMZyi"
+        },
+        {
+          "name": "EUR Base - Vikingfile",
+          "url": "https://vikingfile.com/f/BoS6tgHCLT"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/09/4-vfd.jpg",
+      "description": "Region: EUR\nContributor: @DLPS Team\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/spirit-of-the-island-ps5/"
+    },
+    {
+      "titleId": "PPSA06509",
+      "title": "Zorro The Chronicles",
+      "downloadLinks": [
+        {
+          "name": "USA 10.xx Base - Akirabox",
+          "url": "https://akirabox.com/rk9zKWx0Zz0l/file"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1TOQqG"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/PzTAKALQeF"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/09/3-csz.jpg",
+      "description": "Region: USA\nRelease note: Minimum firmware 10.xx\nContributor: @DLPS Team\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/zorro-the-chronicles-ps5/"
+    },
+    {
+      "titleId": "PPSA21349",
+      "title": "Hotel Barcelona",
+      "downloadLinks": [
+        {
+          "name": "EUR 10.xx Base - Akirabox",
+          "url": "https://akirabox.com/E1x3AWnZnGyk/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/Olto0"
+        },
+        {
+          "name": "EUR 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/PWR62lnDE4"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/09/2-fxs.jpg",
+      "description": "Region: EUR\nRelease note: Minimum firmware 10.xx\nContributor: @DLPS Team\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/hotel-barcelona-ps5/"
+    },
+    {
+      "titleId": "PPSA09091",
+      "title": "Fairy Fencer F Refrain Chord",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.com/0Kezk7LKgzD1/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/Kk2wS"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/R8fFyAgEVs"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/09/1-red.jpg",
+      "description": "Region: USA\nRelease note: Minimum firmware 4.xx\nContributor: @DLPS Team\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/fairy-fencer-f-refrain-chord-ps5/"
+    },
+    {
       "titleId": "PPSA03190",
       "title": "MultiVersus",
       "downloadLinks": [
@@ -119839,6 +119927,37 @@
       "downloadSource": "https://pkg.games/ps5/greyhill-incident/"
     },
     {
+      "titleId": "PPSA02572",
+      "title": "[exFAT] Alan Wake 2 Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.200.007 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRFJKRWhqaUVVcnBhdVlPZmtaK2I5WWpINFhic2t1N0NoNTlzaDM2YXlTVHVGNWdzaEQyVWM1Zm9NT1VFT2hqM0JuQXpQd25zMHZtbk83VENyQVR4QSsrYVhHSHdiK1lsUXQ0PSIsImkiOiJac3N3UXhHTlJ0MFExRWdkIiwibiI6IkFraWEifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.200.007 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMlp1cGJ2Qmw1d1YvWFZjYlBDWFdldXhGZ1hJeUtFNTNSK1pwWE01THFQV0RpY0xDelprYXpwVHMxU2NPNkpacnYyTkRxQXpzblNjN2JncXNKZ2hRUkMwQ2ljWXZIZjg9IiwiaSI6IldMS1Mzano3UHNMeGJZV0EiLCJuIjoiVmlraSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.200.007 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQy9tYnVyY044YVBBbms3UTBWdFMrUkkvTnRiemh3NDg1VFdtbkFnL0U2S0plQmZtTnVEWng5QjhvRmwzSnVFYnNDaUN2K0FkNm15T1ZMSFRXZ1BwTzQ1RFA1MEUiLCJpIjoidU5IcmloWlpvRlMyZmt1bCIsIm4iOiJEYXRhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.200.007 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYktTMko3ejNqT1l6YjdTWWVjVUpTYy9Ld1RBODV0clVWNEZncGtubVgvdE1hS1BDdGZ6eHg2Wk5SaHdCZ0tTU3pQcXkrMVhkM3RTOTRubGNkb0RmNENlRS9VOFpOWXM9IiwiaSI6IlVtWGN1b2FzY1VMaStIRFAiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.200.007 Base - Vault (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSmNZcXFXbkdjZ21Za0hDMm94NUk0dndkS0wxZ1grdzNQVU5sZERRckEzcW9DeHFKR2RuWU1SdzRBaVhjUjBPTnJUSUNudTl4Q1dPQ3lTbG1KU1RFczJwRHRIdjRuZz09IiwiaSI6InR4c1NPK0FHUWtMWkZrZnIiLCJuIjoiVmF1bHQifQ=="
+        }
+      ],
+      "version": "01.200.007",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Alan_Wake_2_Deluxe_Edition.avif",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.200.007 — DLCs Merged\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
+    },
+    {
       "titleId": "PPSA14251",
       "title": "[exFAT] Mafia The Old Country Deluxe Edition",
       "downloadLinks": [
@@ -123228,37 +123347,6 @@
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Like_A_Dragon_Pirate_Yakuza_in_Hawaii_Deluxe_Edition.avif",
       "description": "Region: JPN\nRelease note: exFAT format — FW 01.014 — 4.xx BackPort\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
-    },
-    {
-      "titleId": "PPSA02572",
-      "title": "[exFAT] Alan Wake 2 Deluxe Edition",
-      "downloadLinks": [
-        {
-          "name": "EUR exFAT 01.200.007 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRFJKRWhqaUVVcnBhdVlPZmtaK2I5WWpINFhic2t1N0NoNTlzaDM2YXlTVHVGNWdzaEQyVWM1Zm9NT1VFT2hqM0JuQXpQd25zMHZtbk83VENyQVR4QSsrYVhHSHdiK1lsUXQ0PSIsImkiOiJac3N3UXhHTlJ0MFExRWdkIiwibiI6IkFraWEifQ=="
-        },
-        {
-          "name": "EUR exFAT 01.200.007 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMlp1cGJ2Qmw1d1YvWFZjYlBDWFdldXhGZ1hJeUtFNTNSK1pwWE01THFQV0RpY0xDelprYXpwVHMxU2NPNkpacnYyTkRxQXpzblNjN2JncXNKZ2hRUkMwQ2ljWXZIZjg9IiwiaSI6IldMS1Mzano3UHNMeGJZV0EiLCJuIjoiVmlraSJ9"
-        },
-        {
-          "name": "EUR exFAT 01.200.007 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQy9tYnVyY044YVBBbms3UTBWdFMrUkkvTnRiemh3NDg1VFdtbkFnL0U2S0plQmZtTnVEWng5QjhvRmwzSnVFYnNDaUN2K0FkNm15T1ZMSFRXZ1BwTzQ1RFA1MEUiLCJpIjoidU5IcmloWlpvRlMyZmt1bCIsIm4iOiJEYXRhIn0="
-        },
-        {
-          "name": "EUR exFAT 01.200.007 Base - FileK (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiYktTMko3ejNqT1l6YjdTWWVjVUpTYy9Ld1RBODV0clVWNEZncGtubVgvdE1hS1BDdGZ6eHg2Wk5SaHdCZ0tTU3pQcXkrMVhkM3RTOTRubGNkb0RmNENlRS9VOFpOWXM9IiwiaSI6IlVtWGN1b2FzY1VMaStIRFAiLCJuIjoiRmlsZUsifQ=="
-        },
-        {
-          "name": "EUR exFAT 01.200.007 Base - Vault (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSmNZcXFXbkdjZ21Za0hDMm94NUk0dndkS0wxZ1grdzNQVU5sZERRckEzcW9DeHFKR2RuWU1SdzRBaVhjUjBPTnJUSUNudTl4Q1dPQ3lTbG1KU1RFczJwRHRIdjRuZz09IiwiaSI6InR4c1NPK0FHUWtMWkZrZnIiLCJuIjoiVmF1bHQifQ=="
-        }
-      ],
-      "version": "01.200.007",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Alan_Wake_2_Deluxe_Edition.avif",
-      "description": "Region: EUR\nRelease note: exFAT format — FW 01.200.007 — DLCs Merged\nContributor: pippo",
       "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
     },
     {
