@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 18/09/2026 à 10:25
+* **PAYLOADS**
+  * `pkgmgr` (v1.0.0) - *Nouveau*
+
 ## Build du 16/09/2026 à 10:41
 * **PAYLOADS**
   * `ps5-web-file-manager` (v1.9) - *Mise à jour (Précédent: v1.8)*

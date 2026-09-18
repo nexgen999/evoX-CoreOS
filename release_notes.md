@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.18-0243)
+### 🚀 Synthèse de la mise à jour (v2026.09.18-1025)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -56,6 +56,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen-en_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf`
+  * `pkgmgr_v1.0.0.elf`
   * `etaHEN_v2.5B.bin`
   * `PS5_Unified_Autoloader_v0.1.4-955249d.elf`
   * `pldmgr_v0.5.1.elf`

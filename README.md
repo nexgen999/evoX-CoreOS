@@ -183,6 +183,15 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | :--- | :--- | :--- | :--- |
 | [Common_FPS_PS5](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.1.0/Common_FPS_PS5_v1.1.0.elf) | v1.1.0 | `4f544fa00f7a...` | A lightweight, open-source real-time FPS counter for PlayStation 5. |
 
+### 📂 PS5 Pkg Tool
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/ps5_pkg_tool.json`
+
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+| [pkgmgr](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.0.0/pkgmgr_v1.0.0.elf) | v1.0.0 | `51d3f13a91d0...` | A clean and intuitive package manager for PlayStation 5 |
+
 ### 📂 PS5 Saves
 
 > **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/ps5_saves.json`
@@ -385,6 +394,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **idlesauce** : [ps5-self-pager](https://github.com/idlesauce/ps5-self-pager)
 - **itsPLK** : [PS5 Payload Manager](https://github.com/itsPLK/ps5-payload-manager)
 - **itsPLK** : [PS5 Unified Autoloader](https://github.com/itsPLK/ps5-unified-autoloader)
+- **itsPLK** : [ps5-pkg-manager](https://github.com/itsPLK/ps5-pkg-manager)
 - **itsPLK** : [ps5-webkit-autoloader](https://github.com/itsPLK/ps5-webkit-autoloader)
 - **juma-sayeh** : [PS5-File-Explorer](https://github.com/juma-sayeh/PS5-File-Explorer)
 - **juma-sayeh** : [PS5-Game-Compressor](https://github.com/juma-sayeh/PS5-Game-Compressor)

@@ -239,6 +239,12 @@
       <pubDate>v1.2.0</pubDate>
     </item>
     <item>
+      <title>[Payloads] pkgmgr</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.0.0/pkgmgr_v1.0.0.elf</link>
+      <description>A clean and intuitive package manager for PlayStation 5</description>
+      <pubDate>v1.0.0</pubDate>
+    </item>
+    <item>
       <title>[Payloads] etaHEN</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/etaHEN/2.5B/etaHEN_v2.5B.bin</link>
       <description>Le Homebrew Enabler (HEN) de référence pour la PS5 avec serveurs de triche, plugins et gestionnaire de mémoire intégrés.</description>
