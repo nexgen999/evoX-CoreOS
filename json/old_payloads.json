@@ -123,33 +123,33 @@
         },
         {
             "name": "PoorDS4-stop",
-            "filename": "PoorDS4-stop_v0.1.0-rc38.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc38/PoorDS4-stop_v0.1.0-rc38.elf",
-            "local_path": "payloads/ps5_utility/PoorDS4/v0.1.0-rc38/PoorDS4-stop_v0.1.0-rc38.elf",
+            "filename": "PoorDS4-stop_v0.1.0-rc44.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4-stop_v0.1.0-rc44.elf",
+            "local_path": "payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4-stop_v0.1.0-rc44.elf",
             "description": "PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.",
-            "version": "v0.1.0-rc38",
+            "version": "v0.1.0-rc44",
             "category": "PS5 Utility",
-            "checksum": "bf9f1dec35edcffe3744fbc69cb7d4601f6df3cef72fab36c38fd249e736107a"
-        },
-        {
-            "name": "PoorDS4rc38",
-            "filename": "PoorDS4rc38_v0.1.0-rc38.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc38/PoorDS4rc38_v0.1.0-rc38.elf",
-            "local_path": "payloads/ps5_utility/PoorDS4/v0.1.0-rc38/PoorDS4rc38_v0.1.0-rc38.elf",
-            "description": "PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.",
-            "version": "v0.1.0-rc38",
-            "category": "PS5 Utility",
-            "checksum": "62d21fe837ee53dd4291e45d99259d4557def05e2d4196ab54e020ba28b5399e"
+            "checksum": "ffdce4964f0d34a2b9be7cb65e6ad345d5beb582dcdf94d0214cde6bc79acd0d"
         },
         {
             "name": "PoorDS4-status",
-            "filename": "PoorDS4-status_v0.1.0-rc38.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc38/PoorDS4-status_v0.1.0-rc38.elf",
-            "local_path": "payloads/ps5_utility/PoorDS4/v0.1.0-rc38/PoorDS4-status_v0.1.0-rc38.elf",
+            "filename": "PoorDS4-status_v0.1.0-rc44.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4-status_v0.1.0-rc44.elf",
+            "local_path": "payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4-status_v0.1.0-rc44.elf",
             "description": "PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.",
-            "version": "v0.1.0-rc38",
+            "version": "v0.1.0-rc44",
             "category": "PS5 Utility",
-            "checksum": "c26a35a2c9ba9074ad33cf27a5afbd05536978518c546552df21d512b07a273d"
+            "checksum": "9195c512853538ec3ccf0207f68ed4898f386c6fb624c54d8fa959cef1a8b906"
+        },
+        {
+            "name": "PoorDS4rc44",
+            "filename": "PoorDS4rc44_v0.1.0-rc44.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4rc44_v0.1.0-rc44.elf",
+            "local_path": "payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4rc44_v0.1.0-rc44.elf",
+            "description": "PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.",
+            "version": "v0.1.0-rc44",
+            "category": "PS5 Utility",
+            "checksum": "a077fe7a1defbe6918538b834eaa502a6b4239d7feff58c8fa4ec06cd325d9a8"
         },
         {
             "name": "PS_Game_State_Lib",

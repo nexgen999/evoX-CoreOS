@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.18-1539)
+### 🚀 Synthèse de la mise à jour (v2026.09.18-2017)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -29,9 +29,9 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5-linux-loader_v2.5.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
   * `Ghostpad_v1.0.0.elf`
-  * `PoorDS4-stop_v0.1.0-rc38.elf`
-  * `PoorDS4rc38_v0.1.0-rc38.elf`
-  * `PoorDS4-status_v0.1.0-rc38.elf`
+  * `PoorDS4-stop_v0.1.0-rc44.elf`
+  * `PoorDS4-status_v0.1.0-rc44.elf`
+  * `PoorDS4rc44_v0.1.0-rc44.elf`
   * `PS_Game_State_Lib_v0.1.elf`
   * `PS-DiscordPresence_v0.01.elf`
   * `unrar-ps5_v1.4.0.elf`

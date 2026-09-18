@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 18/09/2026 à 20:17
+* **PAYLOADS**
+  * `PoorDS4-stop` (v0.1.0-rc44) - *Mise à jour (Précédent: v0.1.0-rc38)*
+  * `PoorDS4-status` (v0.1.0-rc44) - *Mise à jour (Précédent: v0.1.0-rc38)*
+  * `PoorDS4rc44` (v0.1.0-rc44) - *Nouveau*
+
 ## Build du 18/09/2026 à 15:39
 * **PAYLOADS**
   * `ps5upload` (v5.30.0) - *Mise à jour (Précédent: v5.28.0)*

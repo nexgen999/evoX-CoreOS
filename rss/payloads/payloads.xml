@@ -78,21 +78,21 @@
     </item>
     <item>
       <title>PoorDS4-stop</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc38/PoorDS4-stop_v0.1.0-rc38.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4-stop_v0.1.0-rc44.elf</link>
       <description>PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.</description>
-      <pubDate>v0.1.0-rc38</pubDate>
-    </item>
-    <item>
-      <title>PoorDS4rc38</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc38/PoorDS4rc38_v0.1.0-rc38.elf</link>
-      <description>PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.</description>
-      <pubDate>v0.1.0-rc38</pubDate>
+      <pubDate>v0.1.0-rc44</pubDate>
     </item>
     <item>
       <title>PoorDS4-status</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc38/PoorDS4-status_v0.1.0-rc38.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4-status_v0.1.0-rc44.elf</link>
       <description>PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.</description>
-      <pubDate>v0.1.0-rc38</pubDate>
+      <pubDate>v0.1.0-rc44</pubDate>
+    </item>
+    <item>
+      <title>PoorDS4rc44</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PoorDS4/v0.1.0-rc44/PoorDS4rc44_v0.1.0-rc44.elf</link>
+      <description>PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.</description>
+      <pubDate>v0.1.0-rc44</pubDate>
     </item>
     <item>
       <title>PS_Game_State_Lib</title>
