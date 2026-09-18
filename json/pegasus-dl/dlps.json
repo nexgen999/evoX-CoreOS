@@ -119927,6 +119927,37 @@
       "downloadSource": "https://pkg.games/ps5/greyhill-incident/"
     },
     {
+      "titleId": "PPSA23226",
+      "title": "[exFAT] Black Myth Wukong Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.021 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZ1VzLzV6SE1EWERCVkJSV21lSmxtZ1gxczRuSkRWYnlpUDV6WDZYdEROR2U4aVNMNERCeDU2bWhEc2NROGpDU0lRWW5XdkRWTi9nc0s5c1lvUXQ1TGVXNG95YjY0U0Y1d2hrPSIsImkiOiJsSENlaE5VNnA1ZWEvYWxRIiwibiI6IkFraWEifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.021 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiK2ZPdVpPbmp4eCtjUnl1WWdXdzRFQWJUNkZITS81UGtsbk56TmkyQ3ZacS9KaTF2ZzlNODFBY0RWdUo2NmFJRlo1WTFGelJiR2Z3T3ZqaTdaaUQ5Z2dwUFpwVnUzVDA9IiwiaSI6InlLZmJuMktmNnE3TWkvMFoiLCJuIjoiVmlraSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.021 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicWJtcUVqSTlqMTVqNEY1M0E0cGpRV2pDZWxnRnZzSW94ME5VaklXSXFESGJ0QmQyWVM0ZVZkeEZzVU5FR2NZYk5PS2pRZ245ZTgvaUZFbHg4dG96QkJMUllTb0MiLCJpIjoiUURqQVNFVmpKRWhmVVNGSiIsIm4iOiJEYXRhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.021 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidVBLL2ZSNXFvMVdINW81TzUxRFJaR1JuQTJ1anl6Uk42RlMzL2Vhc1NmSDZuSDJPV1JkTUF3TnpVMzZLRzNrOGo3TEFTUWZxS29XYTZvcU8vek1RdUxJVjBrbS9oems9IiwiaSI6IkUxUEZaNFIrZVBvV05DNUIiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.021 Base - Vault (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWndNRkl1SERZVENDdkhEOGpvMUorNUVZR0ZteWVyK2ozOWN6Vy92dTF4Q1VUT0t0UHk3UUhIV3h1WkUrcmg5TlpGWTJlRkNrNGZ2bFNpN1ZxUkVKRXVyNUtLOUV2QT09IiwiaSI6IjBlbkpGUkZXTEVNQVNoWTEiLCJuIjoiVmF1bHQifQ=="
+        }
+      ],
+      "version": "01.021",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Black_Myth_Wukong_Deluxe_Edition.png",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.021 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
+    },
+    {
       "titleId": "PPSA02572",
       "title": "[exFAT] Alan Wake 2 Deluxe Edition",
       "downloadLinks": [
@@ -123378,37 +123409,6 @@
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Unknown_9_Awakening_Deluxe_Edition.avif",
       "description": "Region: USA to EUR Languages\nRelease note: exFAT format — FW 01.003 — 4.xx BackPort\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
-    },
-    {
-      "titleId": "PPSA23226",
-      "title": "[exFAT] Black Myth Wukong Deluxe Edition",
-      "downloadLinks": [
-        {
-          "name": "EUR exFAT 01.021 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZ1VzLzV6SE1EWERCVkJSV21lSmxtZ1gxczRuSkRWYnlpUDV6WDZYdEROR2U4aVNMNERCeDU2bWhEc2NROGpDU0lRWW5XdkRWTi9nc0s5c1lvUXQ1TGVXNG95YjY0U0Y1d2hrPSIsImkiOiJsSENlaE5VNnA1ZWEvYWxRIiwibiI6IkFraWEifQ=="
-        },
-        {
-          "name": "EUR exFAT 01.021 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiK2ZPdVpPbmp4eCtjUnl1WWdXdzRFQWJUNkZITS81UGtsbk56TmkyQ3ZacS9KaTF2ZzlNODFBY0RWdUo2NmFJRlo1WTFGelJiR2Z3T3ZqaTdaaUQ5Z2dwUFpwVnUzVDA9IiwiaSI6InlLZmJuMktmNnE3TWkvMFoiLCJuIjoiVmlraSJ9"
-        },
-        {
-          "name": "EUR exFAT 01.021 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicWJtcUVqSTlqMTVqNEY1M0E0cGpRV2pDZWxnRnZzSW94ME5VaklXSXFESGJ0QmQyWVM0ZVZkeEZzVU5FR2NZYk5PS2pRZ245ZTgvaUZFbHg4dG96QkJMUllTb0MiLCJpIjoiUURqQVNFVmpKRWhmVVNGSiIsIm4iOiJEYXRhIn0="
-        },
-        {
-          "name": "EUR exFAT 01.021 Base - FileK (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidVBLL2ZSNXFvMVdINW81TzUxRFJaR1JuQTJ1anl6Uk42RlMzL2Vhc1NmSDZuSDJPV1JkTUF3TnpVMzZLRzNrOGo3TEFTUWZxS29XYTZvcU8vek1RdUxJVjBrbS9oems9IiwiaSI6IkUxUEZaNFIrZVBvV05DNUIiLCJuIjoiRmlsZUsifQ=="
-        },
-        {
-          "name": "EUR exFAT 01.021 Base - Vault (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWndNRkl1SERZVENDdkhEOGpvMUorNUVZR0ZteWVyK2ozOWN6Vy92dTF4Q1VUT0t0UHk3UUhIV3h1WkUrcmg5TlpGWTJlRkNrNGZ2bFNpN1ZxUkVKRXVyNUtLOUV2QT09IiwiaSI6IjBlbkpGUkZXTEVNQVNoWTEiLCJuIjoiVmF1bHQifQ=="
-        }
-      ],
-      "version": "01.021",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Black_Myth_Wukong_Deluxe_Edition.png",
-      "description": "Region: EUR\nRelease note: exFAT format — FW 01.021 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
     },
     {

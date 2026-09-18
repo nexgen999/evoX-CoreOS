@@ -3,6 +3,26 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA26344",
+      "title": "Ghost of Yotei: Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "Akirabox",
+          "url": "https://akirabox.to/qLQ36x4d7G19/file"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/80bVO3VDEn"
+        }
+      ],
+      "version": "01.512",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA26344_64b41e265a7c7f2ed67c0f7fe285ebbc7674c657a18fdfa46fac9c81073c4e37/icon0.webp",
+      "description": "Edition includes: • Ghost of Yōtei™ • The Snake Armor • Digital Deluxe Armor Dye • Digital Deluxe Horse & Saddle • Sword Kit • Traveler’s Maps (Early Unlock) • Charm Set aside the order of the Edo period. Become a different kind of ghost and witness a bold new story set against the stunning backdrop of northern Japan’s rugged landscapes. Taking place 300 years after the critically acclaimed Ghost of Tsushima, this standalone experience follows a haunted, lone mercenary named Atsu in the 1600s. Thirsty for revenge, she sets out to hunt down those who killed her family many years prior. Her quest across Ezo will take her to unexplored lands as she seeks out a gang of six outlaws. Along the way, she’ll encounter far more than she could have wagered for at the journey’s outset. Help her find unlikely allies, forge lasting bonds and build a path towards healing and redemption. - Feel the thrill of combat; the haptic feedback of the DualSense® wireless controller brings Atsu’s katana combat to your fingertips. - Master the bow and arrow or grappling hook, experience the excitement of battle, and explore various types of terrain – all accentuated by the DualSense wireless controller’s adaptive triggers. - Appreciate the power of the PlayStation®5 console with lightning-fast load times rapidly transporting you to the beautiful surroundings of northern Japan. - Explore lush, vibrant environments rendered with stunning visuals, as Atsu travels through snowy ridges, fields of wildflowers and rocky terrain – amongst others. - Tempest 3D AudioTech: Immerse yourself in 1600s Japan as 3D spatial audio creates unique soundscapes all around you.¹ ¹3D audio via built-in TV speakers or analog/USB stereo headphones. Setup required.\nRegion: USA\nNotes: DLC pkg is required for the game to work.\nUpdated: 2026-09-18T00:37:33.493Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 118111600640
+    },
+    {
       "titleId": "PPSA24884",
       "title": "Starfield",
       "downloadLinks": [
