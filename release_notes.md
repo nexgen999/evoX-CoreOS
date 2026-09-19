@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.18-2017)
+### 🚀 Synthèse de la mise à jour (v2026.09.19-0244)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -44,7 +44,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `Spectrum-Library_v1.4.5.elf`
   * `pegasus-dl_v1.9.0.elf`
   * `ps5shopappkg-dpi.elf`
-  * `garlic-savemgr_v1.13.elf`
+  * `garlic-savemgr_v1.13.1.elf`
   * `garlic-worker_v1.1.7.elf`
   * `savemnt-offset-dumper_v1.0.0.elf`
   * `PS5-Custom-Tool-Manager-_vCustom.elf`

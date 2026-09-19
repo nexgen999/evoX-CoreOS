@@ -168,9 +168,9 @@
     </item>
     <item>
       <title>garlic-savemgr</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.13/garlic-savemgr_v1.13.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.13.1/garlic-savemgr_v1.13.1.elf</link>
       <description>Save manager utility hosted on Forgejo.</description>
-      <pubDate>v1.13</pubDate>
+      <pubDate>v1.13.1</pubDate>
     </item>
     <item>
       <title>garlic-worker</title>

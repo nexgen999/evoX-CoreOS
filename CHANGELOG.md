@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 19/09/2026 à 02:44
+* **PAYLOADS**
+  * `garlic-savemgr` (v1.13.1) - *Mise à jour (Précédent: v1.13)*
+
 ## Build du 18/09/2026 à 20:17
 * **PAYLOADS**
   * `PoorDS4-stop` (v0.1.0-rc44) - *Mise à jour (Précédent: v0.1.0-rc38)*

@@ -46757,6 +46757,22 @@
         {
           "name": "EUR 12.xx Base - Buzzheavier part 2",
           "url": "https://buzzheavier.com/26ezg55444om"
+        },
+        {
+          "name": "EUR 12.xx BackPort 5.xx - Akirabox",
+          "url": "https://akirabox.com/k0embbxgnmVb/file"
+        },
+        {
+          "name": "EUR 12.xx BackPort 5.xx - Vikingfile",
+          "url": "https://vikingfile.com/f/OrL4xJyRWa"
+        },
+        {
+          "name": "EUR 12.xx BackPort 5.xx - 1fichier",
+          "url": "https://1fichier.com/?9pbli67j8fw9v7434rie"
+        },
+        {
+          "name": "EUR 12.xx BackPort 5.xx - Rootz",
+          "url": "https://rootz.so/d/P51RA"
         }
       ],
       "category": "game",
@@ -120323,6 +120339,79 @@
       "downloadSource": "https://pkg.games/ps5/greyhill-incident/"
     },
     {
+      "titleId": "PPSA02530",
+      "title": "[exFAT] PRAGMATA Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.200 Base - AKIA Std (exFAT)",
+          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiK3l3ZWlrTU14Tll2V3RZNEtwaDNxRWFreUo0NkkwQWpIeUt2TXEwcjN2Z08zb2dtazdwRm1GNFRicVEvcXJudmVudSsyRlZqIiwicyI6ImthM3JIS2ZFRmhENlJKbjJtZ0tBbkE9PSIsImkiOiJRdWc2eVk3ZFFucmFoVVFZIn0="
+        },
+        {
+          "name": "USA exFAT 01.200 Base - VIKI Std (exFAT)",
+          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoidkk4OExvWUdOUUt2UVFEakVsbjNJRHlUU0EyUngvR0RRTnBGV05zbVMwOENvLy9sVWxWbG1kZ2FNUHF0U3BTWERGSWEiLCJzIjoiRnQzY1dDSndTRTJnQm01WXE0T2FaQT09IiwiaSI6IkZ0MDVnZzUvekY0Mmk0ZzcifQ=="
+        },
+        {
+          "name": "USA exFAT 01.200 Base - DATA Std (exFAT)",
+          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoibVRMcHZzaG02NXc0b1NKUEY3MVJzZDlNZTk4b3BCQmxTRkp1cmYyMnpKVzU1WmRWVFdFMTNOTThCb0tqTldJK09BPT0iLCJzIjoiYmRBRjJRVm5uaWY0UWhjUCtqb0JLdz09IiwiaSI6ImhSdUN1eFRaWFJqT2tHcmkifQ=="
+        },
+        {
+          "name": "USA exFAT 01.200 BackPort backport - AKIA Backport (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicmNIM2JTTGdrRm9YUGsya3BuM3l0cnRKT1BpSjM2RU9lWUYvOGdVQWI1bVFpSHhNZzI0djFkZjdjR0N3ZXRGdEdaN2hSenJOajhpTit0TzZyZy9tMUpwMWpMZzJWNytvK3NBPSIsImkiOiJhRjhTRTA2SzJaVHBTaFpvIiwibiI6IkFraWEifQ=="
+        },
+        {
+          "name": "USA exFAT 01.200 BackPort backport - VIKI Backport (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiN3ByK3RaY2wySFNCMnZqNjQvZ2NhMlFXNERKSjZldkozZG1BVHM4eDZXc0RVK2N1RlhiZURGRnl2NFBHVWJVeDVvWmJ0dTZlN0lQNnEzOE1pM3lVQ29wVFZOcHFMdnM9IiwiaSI6IkVrWGxUeDFSOUt4dlMrK2oiLCJuIjoiVmlraSJ9"
+        },
+        {
+          "name": "USA exFAT 01.200 BackPort backport - DATA Backport (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiT2ViMndReEFIb0VwVFI1MGpydTNvK2xPdlI3WXhVVlJ6MTVZT3N2YVR4OTZBYzlZM09JSjhldlBnd3VQZEJuZHBSV0RzdjJzTjJJMzQzT1loQkdIUWY5R0NYMlEiLCJpIjoiZWEwQU9JSmtQMG1CeFJDdiIsIm4iOiJEYXRhIn0="
+        },
+        {
+          "name": "USA exFAT 01.200 BackPort backport - FileK Backport (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVTU1c1ZNMXZEV05PRnFwMmtVRHVQTEVsbDVNRnBWODJBRGxOdVFSc0NVQjI4Qjk5WXlQTFNzMFI4Vk1ETS9JUllsd0pPZjRlVHcvRlNHYnRub09UQ2NSK1lOLzdrNEk9IiwiaSI6IjZDNDZRLy85M2cyOFBoTnIiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.200 BackPort backport - Vault Backport (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoib3hPTXN3K3Rqd1VwUzRLU1o3S3hka3pjamFQd3JJaGIrMW9Vb0JKZk1tRC9JNWdQd3pKS2lsOTFaMDlyVFdCWmZwaG8yK3lJVlRVbnhKUHJIaDRvcjNaMEhxVTZzUT09IiwiaSI6Im9DVWZORW9VQ3Q0WU9CRWQiLCJuIjoiVmF1bHQifQ=="
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/PRAGMATA_DE.jpg",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.200 — Standard (5.xx) + 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
+    },
+    {
+      "titleId": "PPSA26344",
+      "title": "[exFAT] Ghost of Yotei Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.512 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRUlFYUxlaHYwUDNXajBaNGFRbGRnK0Nzby9KL0YxY2J2Y293dHJGY01TQWpGL1VZNXdBcUtCcXZFQ2daQU40aDVIYytlNE5uWVNhN0lVNTY5VjhVS1RMYTNjakhJZW55ak5nPSIsImkiOiJhWXpWWjVMVjJzTkVpczlCIiwibiI6IkFraWEifQ=="
+        },
+        {
+          "name": "USA exFAT 01.512 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWFQwSUVOa0lGZGJkclpHRjkvSmZqU2JWamFrYTZvOTFNYUo4N0M5ZGFDdWs3TlBTSzM5S2RCYlZaMGEzVytRQW1nQUVWV2hqMjlmRnJPOG55ZjBJM2NaRnM5MGU5MXc9IiwiaSI6IlA3azNBNlc0T3VvOTJDbGIiLCJuIjoiVmlraSJ9"
+        },
+        {
+          "name": "USA exFAT 01.512 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibFlsWEE1NHBqMjZjR0dVTzhoRjNzSldpL1BkLzR5bGs5alRXK0xqcGlxVkF4RFJlUTA3NUFST2NURGlFZUxKdkpBdmVEcjBzNllFQkhZaEp3aXVsWVI3R3gzSUYiLCJpIjoiOTViSEp5YWNMa2d4MVczOCIsIm4iOiJEYXRhIn0="
+        },
+        {
+          "name": "USA exFAT 01.512 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZ3VnVGYzTkNYbitZR2tDKy9ZYTgxWjgzVWxOQWhnRHBzOE1GaVdNcWM5aFdFczhSTS9TZElyczdxdmtNWWVpcjY0dzJXNkl0SGQvbmN0QS9xOGZmeVdTK0lPalpHNUk9IiwiaSI6IkRPNkdYM1plZFo5SGRROTEiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.512 Base - Vault (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSDZwQVpJbVUweG1taGhaN1ZOK1U2aGQ4QnFsNnZ0MjF6RlBtV0FFTm9tM1BGaGkyYWxQVXNVemdNYU4yZCsxOVN2NXh2V3piTy96WE1UZDJYT1Bjc0ZFRE5VTlJCdz09IiwiaSI6ImY5a2pHSW1RRWwyY080QisiLCJuIjoiVmF1bHQifQ=="
+        }
+      ],
+      "version": "01.512",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ghost_of_Yotei_Deluxe_Edition.png",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.512 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
+    },
+    {
       "titleId": "PPSA23226",
       "title": "[exFAT] Black Myth Wukong Deluxe Edition",
       "downloadLinks": [
@@ -120989,37 +121078,6 @@
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Kerbal_Space_Program_Enhanced_Edition.webp",
       "description": "Region: USA\nRelease note: exFAT format — FW 01.000.002 — 4.xx and beyond\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
-    },
-    {
-      "titleId": "PPSA26344",
-      "title": "[exFAT] Ghost of Yotei Deluxe Edition",
-      "downloadLinks": [
-        {
-          "name": "USA exFAT 01.512 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRUlFYUxlaHYwUDNXajBaNGFRbGRnK0Nzby9KL0YxY2J2Y293dHJGY01TQWpGL1VZNXdBcUtCcXZFQ2daQU40aDVIYytlNE5uWVNhN0lVNTY5VjhVS1RMYTNjakhJZW55ak5nPSIsImkiOiJhWXpWWjVMVjJzTkVpczlCIiwibiI6IkFraWEifQ=="
-        },
-        {
-          "name": "USA exFAT 01.512 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWFQwSUVOa0lGZGJkclpHRjkvSmZqU2JWamFrYTZvOTFNYUo4N0M5ZGFDdWs3TlBTSzM5S2RCYlZaMGEzVytRQW1nQUVWV2hqMjlmRnJPOG55ZjBJM2NaRnM5MGU5MXc9IiwiaSI6IlA3azNBNlc0T3VvOTJDbGIiLCJuIjoiVmlraSJ9"
-        },
-        {
-          "name": "USA exFAT 01.512 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibFlsWEE1NHBqMjZjR0dVTzhoRjNzSldpL1BkLzR5bGs5alRXK0xqcGlxVkF4RFJlUTA3NUFST2NURGlFZUxKdkpBdmVEcjBzNllFQkhZaEp3aXVsWVI3R3gzSUYiLCJpIjoiOTViSEp5YWNMa2d4MVczOCIsIm4iOiJEYXRhIn0="
-        },
-        {
-          "name": "USA exFAT 01.512 Base - FileK (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZ3VnVGYzTkNYbitZR2tDKy9ZYTgxWjgzVWxOQWhnRHBzOE1GaVdNcWM5aFdFczhSTS9TZElyczdxdmtNWWVpcjY0dzJXNkl0SGQvbmN0QS9xOGZmeVdTK0lPalpHNUk9IiwiaSI6IkRPNkdYM1plZFo5SGRROTEiLCJuIjoiRmlsZUsifQ=="
-        },
-        {
-          "name": "USA exFAT 01.512 Base - Vault (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSDZwQVpJbVUweG1taGhaN1ZOK1U2aGQ4QnFsNnZ0MjF6RlBtV0FFTm9tM1BGaGkyYWxQVXNVemdNYU4yZCsxOVN2NXh2V3piTy96WE1UZDJYT1Bjc0ZFRE5VTlJCdz09IiwiaSI6ImY5a2pHSW1RRWwyY080QisiLCJuIjoiVmF1bHQifQ=="
-        }
-      ],
-      "version": "01.512",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ghost_of_Yotei_Deluxe_Edition.png",
-      "description": "Region: USA\nRelease note: exFAT format — FW 01.512 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
     },
     {
@@ -123484,48 +123542,6 @@
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ape_Escape_P.avif",
       "description": "Region: EUR\nRelease note: exFAT format — FW 01.003 — 4.xx BackPort\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
-    },
-    {
-      "titleId": "PPSA02530",
-      "title": "[exFAT] PRAGMATA Deluxe Edition",
-      "downloadLinks": [
-        {
-          "name": "USA exFAT 01.200 Base - AKIA Std (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiK3l3ZWlrTU14Tll2V3RZNEtwaDNxRWFreUo0NkkwQWpIeUt2TXEwcjN2Z08zb2dtazdwRm1GNFRicVEvcXJudmVudSsyRlZqIiwicyI6ImthM3JIS2ZFRmhENlJKbjJtZ0tBbkE9PSIsImkiOiJRdWc2eVk3ZFFucmFoVVFZIn0="
-        },
-        {
-          "name": "USA exFAT 01.200 Base - VIKI Std (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoidkk4OExvWUdOUUt2UVFEakVsbjNJRHlUU0EyUngvR0RRTnBGV05zbVMwOENvLy9sVWxWbG1kZ2FNUHF0U3BTWERGSWEiLCJzIjoiRnQzY1dDSndTRTJnQm01WXE0T2FaQT09IiwiaSI6IkZ0MDVnZzUvekY0Mmk0ZzcifQ=="
-        },
-        {
-          "name": "USA exFAT 01.200 Base - DATA Std (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoibVRMcHZzaG02NXc0b1NKUEY3MVJzZDlNZTk4b3BCQmxTRkp1cmYyMnpKVzU1WmRWVFdFMTNOTThCb0tqTldJK09BPT0iLCJzIjoiYmRBRjJRVm5uaWY0UWhjUCtqb0JLdz09IiwiaSI6ImhSdUN1eFRaWFJqT2tHcmkifQ=="
-        },
-        {
-          "name": "USA exFAT 01.200 BackPort backport - AKIA Backport (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicmNIM2JTTGdrRm9YUGsya3BuM3l0cnRKT1BpSjM2RU9lWUYvOGdVQWI1bVFpSHhNZzI0djFkZjdjR0N3ZXRGdEdaN2hSenJOajhpTit0TzZyZy9tMUpwMWpMZzJWNytvK3NBPSIsImkiOiJhRjhTRTA2SzJaVHBTaFpvIiwibiI6IkFraWEifQ=="
-        },
-        {
-          "name": "USA exFAT 01.200 BackPort backport - VIKI Backport (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiN3ByK3RaY2wySFNCMnZqNjQvZ2NhMlFXNERKSjZldkozZG1BVHM4eDZXc0RVK2N1RlhiZURGRnl2NFBHVWJVeDVvWmJ0dTZlN0lQNnEzOE1pM3lVQ29wVFZOcHFMdnM9IiwiaSI6IkVrWGxUeDFSOUt4dlMrK2oiLCJuIjoiVmlraSJ9"
-        },
-        {
-          "name": "USA exFAT 01.200 BackPort backport - DATA Backport (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiT2ViMndReEFIb0VwVFI1MGpydTNvK2xPdlI3WXhVVlJ6MTVZT3N2YVR4OTZBYzlZM09JSjhldlBnd3VQZEJuZHBSV0RzdjJzTjJJMzQzT1loQkdIUWY5R0NYMlEiLCJpIjoiZWEwQU9JSmtQMG1CeFJDdiIsIm4iOiJEYXRhIn0="
-        },
-        {
-          "name": "USA exFAT 01.200 BackPort backport - FileK Backport (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVTU1c1ZNMXZEV05PRnFwMmtVRHVQTEVsbDVNRnBWODJBRGxOdVFSc0NVQjI4Qjk5WXlQTFNzMFI4Vk1ETS9JUllsd0pPZjRlVHcvRlNHYnRub09UQ2NSK1lOLzdrNEk9IiwiaSI6IjZDNDZRLy85M2cyOFBoTnIiLCJuIjoiRmlsZUsifQ=="
-        },
-        {
-          "name": "USA exFAT 01.200 BackPort backport - Vault Backport (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoib3hPTXN3K3Rqd1VwUzRLU1o3S3hka3pjamFQd3JJaGIrMW9Vb0JKZk1tRC9JNWdQd3pKS2lsOTFaMDlyVFdCWmZwaG8yK3lJVlRVbnhKUHJIaDRvcjNaMEhxVTZzUT09IiwiaSI6Im9DVWZORW9VQ3Q0WU9CRWQiLCJuIjoiVmF1bHQifQ=="
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/PRAGMATA_DE.jpg",
-      "description": "Region: USA\nRelease note: exFAT format — FW 01.200 — Standard (5.xx) + 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
     },
     {
