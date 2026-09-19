@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="2.0">
+  <head>
+    <title>PS5_Beta</title>
+  </head>
+  <body>
+    <outline text="kstuff_v1.12-dr-test8" title="kstuff_v1.12-dr-test8" type="rss" xmlUrl="https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/Kstuff-Darkmor/kstuff_v1.12-dr-test8.elf" author="Darkmor" description="Experimental Kstuff for FPKG"/>
+    <outline text="ShadowMountPlus" title="ShadowMountPlus" type="rss" xmlUrl="https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/ShadownMountPlusExpermiental/ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf" author="Darkmor" description="ShadowMountPlus experimental for FPKG"/>
+    <outline text="A53_PPR_Install" title="A53_PPR_Install" type="rss" xmlUrl="https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/a53_ppr/a53_ppr_install_fast_v15.09.elf" author="Darkmor" description="A53_PPR_Install experimental for FFPKG"/>
+  </body>
+</opml>
