@@ -80,11 +80,11 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| [a53_exploit-experimental](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-E/Source-Fixe/a53_exploit-experimental.elf) | Source-Fixe | `60a4feaee99d...` | A53 Experimental for Kstuff-EchoStrech |
-| [a53_ppr_install_fast](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-D/Source-Fixe/a53_ppr_install_fast_v15.09.elf) | Source-Fixe | `381b1c41256d...` | A53 Experimental for Kstuff-Darkmor |
-| [kstuff](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf) | Source-Fixe | `95610f2d14c4...` | Experimental Kstuff DarkMor |
-| [kstuff-echostrech](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff_EchoStrech_Experimental/Source-Fixe/kstuff-echostrech_v1.11expermiental.elf) | Source-Fixe | `87b88162434c...` | Experimental Kstuff EchoStrech |
-| [ShadowMountPlus](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/ShadowMountPlus/Source-Fixe/ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf) | Source-Fixe | `fe770756ba62...` | ShadowMountPlus experimental for FPKG |
+| [a53_exploit-experimental](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-E/Source-Fixe/a53_exploit-experimental.elf) | Source-Fixe | `2b560ba1ec97...` | A53 Experimental for Kstuff-EchoStrech |
+| [a53_ppr_install_fast](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-D/Source-Fixe/a53_ppr_install_fast_v15.09.elf) | Source-Fixe | `bac0c90636b9...` | A53 Experimental for Kstuff-Darkmor |
+| [kstuff](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf) | Source-Fixe | `9343779614b6...` | Experimental Kstuff DarkMor |
+| [kstuff-echostrech](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff_EchoStrech_Experimental/Source-Fixe/kstuff-echostrech_v1.11expermiental.elf) | Source-Fixe | `6788eb7ea1b6...` | Experimental Kstuff EchoStrech |
+| [ShadowMountPlus](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/ShadowMountPlus/Source-Fixe/ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf) | Source-Fixe | `49f8d0e2903c...` | ShadowMountPlus experimental for FPKG |
 
 ### 📂 PS5 Cheat
 
