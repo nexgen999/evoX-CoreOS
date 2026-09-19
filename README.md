@@ -73,6 +73,17 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | :--- | :--- | :--- | :--- |
 | [np-fake-signin](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.3/np-fake-signin_v1.3.elf) | v1.3 | `2ace1bb0be6d...` | Fake activate PS5 without PSN. |
 
+### 📂 PS5 Beta
+
+> **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/PS5_Beta.json`
+
+
+| Application | Version | Empreinte SHA-256 | Description |
+| :--- | :--- | :--- | :--- |
+| [a53_ppr_install_fast](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_PPR_Install/Source-Fixe/a53_ppr_install_fast_v15.09.elf) | Source-Fixe | `3bf98cfe0013...` | A53_PPR_Install experimental for FFPKG |
+| [kstuff](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_v1.12-dr-test8/Source-Fixe/kstuff_v1.12-dr-test8.elf) | Source-Fixe | `4c33fd1ecde6...` | Experimental Kstuff for FPKG |
+| [ShadowMountPlus](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/ShadowMountPlus/Source-Fixe/ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf) | Source-Fixe | `0020baf825bf...` | ShadowMountPlus experimental for FPKG |
+
 ### 📂 PS5 Cheat
 
 > **JSON Catégorie** : `https://nexgen999.github.io/evoX-CoreOS/json/payloads/PS5_Cheat.json`
@@ -345,6 +356,9 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **ArkSama** : [Lapy JB Daemon](https://raw.githubusercontent.com/ArkSama/PS5-Lapy-JB-Daemon/main/lapy_jb_daemon.elf)
 - **BestPig** : [BackPork](https://github.com/BestPig/BackPork)
 - **BrinooTk** : [castation](https://github.com/BrinooTk/castation)
+- **Darkmor** : [A53_PPR_Install](https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/a53_ppr/a53_ppr_install_fast_v15.09.elf)
+- **Darkmor** : [ShadowMountPlus](https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/ShadownMountPlusExpermiental/ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf)
+- **Darkmor** : [kstuff_v1.12-dr-test8](https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/Kstuff-Darkmor/kstuff_v1.12-dr-test8.elf)
 - **Drakmor** : [nanoDNS](https://github.com/drakmor/nanoDNS)
 - **EchoStretch** : [dump_installer](https://github.com/EchoStretch/dump_installer)
 - **EchoStretch** : [dump_runner](https://github.com/EchoStretch/dump_runner)

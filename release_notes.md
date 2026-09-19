@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.19-1512)
+### 🚀 Synthèse de la mise à jour (v2026.09.19-1546)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -17,6 +17,9 @@ Le store PlayStation 5 a été mis à jour avec succès.
 <summary><b>⚡ Pack PAYLOADS</b></summary>
 
 * **payloads**
+  * `kstuff_v1.12-dr-test8.elf`
+  * `ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf`
+  * `a53_ppr_install_fast_v15.09.elf`
   * `ps5debug-NG_v1.3.0.elf`
   * `ps5-self-pager_v1.2.elf`
   * `PS5-SELF-Decrypter_v0.5.2.elf`

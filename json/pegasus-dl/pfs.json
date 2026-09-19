@@ -3,6 +3,78 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA01341",
+      "title": "Demon's Souls",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/jOhQ1eQL2p"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/tare6xzvjG"
+        }
+      ],
+      "version": "01.005",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01341_6964f84d513b49d27571f322b137b434dc937c0d623579750997bdcf3e6df063/icon0.webp",
+      "description": "From PlayStation Studios and Bluepoint Games comes a remake of the PlayStation classic, Demon’s Souls. Entirely rebuilt from the ground up and masterfully enhanced, this remake introduces the horrors of a fog-laden, dark fantasy land to a whole new generation of gamers. Those who’ve faced its trials and tribulations before, can once again challenge the darkness in stunning visual quality and incredible performance. In his quest for power, the 12th King of Boletaria, King Allant channelled the ancient Soul Arts, awakening a demon from the dawn of time itself, The Old One. With the summoning of The Old One, a colorless fog swept across the land, unleashing nightmarish creatures that hungered for human souls. Those whose souls were stripped from them, lost their minds – left only with the desire to attack the sane that remained. Now, Boletaria is cut off from the outside world, and the knights who dare penetrate the deep fog to free the land from its plight, are never seen again. As a lone warrior who has braved the baneful fog, you must face the hardest of challenges to earn the title “Slayer of Demons” and send The Old One back to its slumber.\nRegion: USA\nUpdated: 2026-09-19T14:39:54.183Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 53687091200
+    },
+    {
+      "titleId": "PPSA01474",
+      "title": "Ratchet & Clank Rift Apart",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/Y6G5tSaQYB"
+        }
+      ],
+      "version": "1.005.003",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01474_5c34c55f5fb51688e04c6714c80b1153bbdcaa4660580fed4cbd8741bcd2164b/icon0.webp",
+      "description": "BLAST YOUR WAY THROUGH AN INTERDIMENSIONAL ADVENTURE Ratchet and Clank are back! Help them stop a robotic emperor intent on conquering cross-dimensional worlds, with their own universe next in the firing line. Witness the evolution of the dream team as they’re joined by Rivet – a Lombax resistance fighter from another dimension. - Blast your way home with an arsenal of outrageous weaponry. - Experience the shuffle of dimensional rifts and dynamic gameplay. - Explore never-before-seen planets and alternate dimension versions of old favorites. PS5™ FEATURES: - Feel in-game actions through the haptic feedback of the DualSense™ wireless controller. - Take full control of advanced weapon mechanics, made possible by adaptive triggers. - Planet-hop at hyper-speed via the near-instant loading of the PS5™ console’s SSD. - Immerse your ears with Tempest 3D AudioTech* as you work to save the universe. - Enhanced lighting and ray tracing render dazzling in-game worlds – displayed in crisp, dynamic 4K and HDR**. - Choose Performance Mode to enjoy targeted 60 frames per second gameplay***. Celebrate 20 years of Ratchet & Clank with five brand-new armor sets inspired by games of the past. Download the game update* at no extra cost and receive: - Holoflux armor - Quest armor - Marauder armor - Commando armor - Clank armor *Game update v.1.004 requires internet connection.\nRegion: EUR\nUpdated: 2026-09-19T14:38:15.760Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 42949672960
+    },
+    {
+      "titleId": "PPSA13197",
+      "title": "Stellar Blade™ Complete Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/c7p1VAN0C5"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/9F2GUfQGWR"
+        }
+      ],
+      "version": "01.014.001",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA13197_2a83d6c86c8abc8965037e02285b58558636883ba05b921d9fe53b56c19745cc/icon0.webp",
+      "description": "Ravaged by strange, powerful creatures, Earth has been abandoned, and what is left of the decimated human race has fled to a Colony in outer space. After travelling from the Colony, EVE arrives on the desolate remains of our planet with a clear-cut mission: to save humankind by reclaiming Earth from the Naytiba – the malevolent force that has devastated it. But as EVE tackles the Naytiba one-by-one, piecing together the mysteries of the past in the ruins of human civilization, she realizes that her mission is far from straightforward. In fact, almost nothing is as it seems… A thrilling slice of razor-sharp action Engage in blisteringly fast combat as you slash a path through the remnants of Earth in an all-new action adventure on PS5. Unleash graceful yet brutal attacking combos, unlock new moves and weapon upgrades, and face epic boss encounters that will challenge both brain and brawn in equal measure. An incredible visual experience Become immersed in a highly detailed post-apocalyptic world that blends beauty and horror to spectacular effect. Explore breathtaking science fiction-inspired environments, brought to life via the graphical power of PS5. A deep, unforgettable adventure Unravel a gripping human fate story, with mature themes, a thought-provoking narrative and emotionally-charged revelations from beginning to end. New content • Test your skill and strength against the fearsome warrior Mann, the leader of the Sentinels in Boss Challenge Mode. • Chinese voice over and lip-sync support. • 25 costumes, three pairs of glasses and six pairs of earrings to unlock in New Game Plus.\nRegion: EUR\nUpdated: 2026-09-19T14:36:10.833Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 38654705664
+    },
+    {
+      "titleId": "PPSA02015",
+      "title": "Death Stranding 2 On The Beach Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/peCnh4yKZp"
+        }
+      ],
+      "version": "01.013",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02015_d9bbc0973ca57b68f21b837e4773bca1c9845b51ad50d77607be2e487cd9f69f/icon0.webp",
+      "description": "Edition includes: DEATH STRANDING 2: ON THE BEACH full game for PS5®. 48h early access Machine Gun [MP] (Lv.1) early unlock Patch 70: Quokka Patch 71: Chiral Cat Patch 72: Why Me? Battle Skeleton: Gold (Lv.1)(Lv.2)(Lv.3) Boost Skeleton: Gold (Lv.1)(Lv.2)(Lv.3) Bokka Skeleton: Gold (Lv.1)(Lv.2)(Lv.3) Embark on an inspiring mission of human connection beyond the UCA. Sam—with companions by his side—sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected? Step by step, legendary game creator Hideo Kojima changes the world once again.\nRegion: USA\nUpdated: 2026-09-19T14:34:50.040Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 99857989632
+    },
+    {
       "titleId": "PPSA02225",
       "title": "Ghost of Tsushima Director's Cut",
       "downloadLinks": [
@@ -645,6 +717,10 @@
         {
           "name": "Viki",
           "url": "https://vik1ngfile.site/f/ArZnRwmZr0"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/OVxCfm06CO"
         }
       ],
       "version": "01.590",

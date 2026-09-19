@@ -2,6 +2,36 @@
     "name": "AIO Store Payloads",
     "payloads": [
         {
+            "name": "kstuff",
+            "filename": "kstuff_v1.12-dr-test8.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_v1.12-dr-test8/Source-Fixe/kstuff_v1.12-dr-test8.elf",
+            "local_path": "payloads/PS5_Beta/kstuff_v1.12-dr-test8/Source-Fixe/kstuff_v1.12-dr-test8.elf",
+            "description": "Experimental Kstuff for FPKG",
+            "version": "Source-Fixe",
+            "category": "PS5 Beta",
+            "checksum": "4c33fd1ecde6e54b273ff7480d80c66d756c8f48b97c5265e8a680a8802528e0"
+        },
+        {
+            "name": "ShadowMountPlus",
+            "filename": "ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/ShadowMountPlus/Source-Fixe/ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf",
+            "local_path": "payloads/PS5_Beta/ShadowMountPlus/Source-Fixe/ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf",
+            "description": "ShadowMountPlus experimental for FPKG",
+            "version": "Source-Fixe",
+            "category": "PS5 Beta",
+            "checksum": "0020baf825bf24390c5bd585701be12684138d89a63fb2db2f81bd6253c44f16"
+        },
+        {
+            "name": "a53_ppr_install_fast",
+            "filename": "a53_ppr_install_fast_v15.09.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_PPR_Install/Source-Fixe/a53_ppr_install_fast_v15.09.elf",
+            "local_path": "payloads/PS5_Beta/A53_PPR_Install/Source-Fixe/a53_ppr_install_fast_v15.09.elf",
+            "description": "A53_PPR_Install experimental for FFPKG",
+            "version": "Source-Fixe",
+            "category": "PS5 Beta",
+            "checksum": "3bf98cfe001328eb991e5a2b1435a0ad0e5b43c0581d21aae25d4c311dbd86dd"
+        },
+        {
             "name": "ps5debug-NG",
             "filename": "ps5debug-NG_v1.3.0.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5debug-NG/1.3.0/ps5debug-NG_v1.3.0.elf",
