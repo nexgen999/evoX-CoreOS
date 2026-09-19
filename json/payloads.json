@@ -4,12 +4,12 @@
     {
       "name": "kstuff",
       "filename": "kstuff_v1.12-dr-test8.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_v1.12-dr-test8/Source-Fixe/kstuff_v1.12-dr-test8.elf",
-      "local_path": "payloads/PS5_Beta/kstuff_v1.12-dr-test8/Source-Fixe/kstuff_v1.12-dr-test8.elf",
-      "description": "Experimental Kstuff for FPKG",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf",
+      "local_path": "payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf",
+      "description": "Experimental Kstuff DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "4c33fd1ecde6e54b273ff7480d80c66d756c8f48b97c5265e8a680a8802528e0"
+      "checksum": "95610f2d14c4a94aaca58b9e209e2e01f520f08e11fcdb71808b74d615559245"
     },
     {
       "name": "ShadowMountPlus",
@@ -19,17 +19,37 @@
       "description": "ShadowMountPlus experimental for FPKG",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "0020baf825bf24390c5bd585701be12684138d89a63fb2db2f81bd6253c44f16"
+      "checksum": "fe770756ba6286dd55e1f5f96d304a303132af1186e467a4f7429bb61fa57c72"
     },
     {
       "name": "a53_ppr_install_fast",
       "filename": "a53_ppr_install_fast_v15.09.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_PPR_Install/Source-Fixe/a53_ppr_install_fast_v15.09.elf",
-      "local_path": "payloads/PS5_Beta/A53_PPR_Install/Source-Fixe/a53_ppr_install_fast_v15.09.elf",
-      "description": "A53_PPR_Install experimental for FFPKG",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-D/Source-Fixe/a53_ppr_install_fast_v15.09.elf",
+      "local_path": "payloads/PS5_Beta/A53_Experimental_KS-D/Source-Fixe/a53_ppr_install_fast_v15.09.elf",
+      "description": "A53 Experimental for Kstuff-Darkmor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "3bf98cfe001328eb991e5a2b1435a0ad0e5b43c0581d21aae25d4c311dbd86dd"
+      "checksum": "381b1c41256d7a667efbe88b13c05f5a33a1e8f3591d3a9b8aa29ca65749b2b8"
+    },
+    {
+      "name": "kstuff-echostrech",
+      "filename": "kstuff-echostrech_v1.11expermiental.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff_EchoStrech_Experimental/Source-Fixe/kstuff-echostrech_v1.11expermiental.elf",
+      "local_path": "payloads/PS5_Beta/Kstuff_EchoStrech_Experimental/Source-Fixe/kstuff-echostrech_v1.11expermiental.elf",
+      "description": "Experimental Kstuff EchoStrech",
+      "version": "Source-Fixe",
+      "category": "PS5 Beta",
+      "checksum": "87b88162434cc0cd5f891c44391b6c6a45aeadff3e9d6e102e60dbb4fa851161"
+    },
+    {
+      "name": "a53_exploit-experimental",
+      "filename": "a53_exploit-experimental.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-E/Source-Fixe/a53_exploit-experimental.elf",
+      "local_path": "payloads/PS5_Beta/A53_Experimental_KS-E/Source-Fixe/a53_exploit-experimental.elf",
+      "description": "A53 Experimental for Kstuff-EchoStrech",
+      "version": "Source-Fixe",
+      "category": "PS5 Beta",
+      "checksum": "60a4feaee99dc16bd34c9818d90da2c92ffa7328356bd316bb843e6feda21a17"
     },
     {
       "name": "ps5debug-NG",

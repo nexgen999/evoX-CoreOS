@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 19/09/2026 à 17:20
+* **PAYLOADS**
+  * `ShadowMountPlus` (Source-Fixe) - *Mise à jour (Précédent: 1.6beta16)*
+  * `kstuff-echostrech` (Source-Fixe) - *Nouveau*
+  * `a53_exploit-experimental` (Source-Fixe) - *Nouveau*
+
 ## Build du 19/09/2026 à 15:46
 * **PAYLOADS**
   * `kstuff` (Source-Fixe) - *Nouveau*

@@ -6,8 +6,8 @@
     <description>Mises à jour automatiques pour la catégorie Payloads</description>
     <item>
       <title>kstuff</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_v1.12-dr-test8/Source-Fixe/kstuff_v1.12-dr-test8.elf</link>
-      <description>Experimental Kstuff for FPKG</description>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf</link>
+      <description>Experimental Kstuff DarkMor</description>
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
@@ -18,8 +18,20 @@
     </item>
     <item>
       <title>a53_ppr_install_fast</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_PPR_Install/Source-Fixe/a53_ppr_install_fast_v15.09.elf</link>
-      <description>A53_PPR_Install experimental for FFPKG</description>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-D/Source-Fixe/a53_ppr_install_fast_v15.09.elf</link>
+      <description>A53 Experimental for Kstuff-Darkmor</description>
+      <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
+      <title>kstuff-echostrech</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff_EchoStrech_Experimental/Source-Fixe/kstuff-echostrech_v1.11expermiental.elf</link>
+      <description>Experimental Kstuff EchoStrech</description>
+      <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
+      <title>a53_exploit-experimental</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-E/Source-Fixe/a53_exploit-experimental.elf</link>
+      <description>A53 Experimental for Kstuff-EchoStrech</description>
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>

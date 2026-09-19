@@ -18,7 +18,7 @@
       "version": "01.005",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01341_6964f84d513b49d27571f322b137b434dc937c0d623579750997bdcf3e6df063/icon0.webp",
-      "description": "From PlayStation Studios and Bluepoint Games comes a remake of the PlayStation classic, Demon’s Souls. Entirely rebuilt from the ground up and masterfully enhanced, this remake introduces the horrors of a fog-laden, dark fantasy land to a whole new generation of gamers. Those who’ve faced its trials and tribulations before, can once again challenge the darkness in stunning visual quality and incredible performance. In his quest for power, the 12th King of Boletaria, King Allant channelled the ancient Soul Arts, awakening a demon from the dawn of time itself, The Old One. With the summoning of The Old One, a colorless fog swept across the land, unleashing nightmarish creatures that hungered for human souls. Those whose souls were stripped from them, lost their minds – left only with the desire to attack the sane that remained. Now, Boletaria is cut off from the outside world, and the knights who dare penetrate the deep fog to free the land from its plight, are never seen again. As a lone warrior who has braved the baneful fog, you must face the hardest of challenges to earn the title “Slayer of Demons” and send The Old One back to its slumber.\nRegion: USA\nUpdated: 2026-09-19T14:39:54.183Z",
+      "description": "From PlayStation Studios and Bluepoint Games comes a remake of the PlayStation classic, Demon’s Souls. Entirely rebuilt from the ground up and masterfully enhanced, this remake introduces the horrors of a fog-laden, dark fantasy land to a whole new generation of gamers. Those who’ve faced its trials and tribulations before, can once again challenge the darkness in stunning visual quality and incredible performance. In his quest for power, the 12th King of Boletaria, King Allant channelled the ancient Soul Arts, awakening a demon from the dawn of time itself, The Old One. With the summoning of The Old One, a colorless fog swept across the land, unleashing nightmarish creatures that hungered for human souls. Those whose souls were stripped from them, lost their minds – left only with the desire to attack the sane that remained. Now, Boletaria is cut off from the outside world, and the knights who dare penetrate the deep fog to free the land from its plight, are never seen again. As a lone warrior who has braved the baneful fog, you must face the hardest of challenges to earn the title “Slayer of Demons” and send The Old One back to its slumber.\nRegion: EUR\nUpdated: 2026-09-19T14:39:54.183Z",
       "downloadSource": "https://pfs-library.vercel.app/api/packages",
       "sizeBytes": 53687091200
     },
@@ -1720,13 +1720,13 @@
       "downloadLinks": [
         {
           "name": "Viki",
-          "url": "https://vik1ngfile.site/f/rflvpLT1Dn"
+          "url": "https://vik1ngfile.site/f/eX9IBEdTEL"
         }
       ],
       "version": "01.010.002",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA04263_60bf04896bab0d0c3e5955d05cdeba399193ec24985fc2c4a29075fec849ec2c/icon0.webp",
-      "description": "When a young street hustler, a retired bank robber, and a terrifying psychopath find themselves entangled with some of the most frightening and deranged elements of the criminal underworld, the U.S. government, and the entertainment industry, they must pull off a series of dangerous heists to survive in a ruthless city in which they can trust nobody — least of all each other. Experience GTA Online, a dynamic and ever-evolving online universe for up to 30 players, where you can rise from street-level hustler to become a kingpin of your own criminal empire.\nRegion: EUR\nUpdated: 2026-09-13T14:33:08.647Z",
+      "description": "When a young street hustler, a retired bank robber, and a terrifying psychopath find themselves entangled with some of the most frightening and deranged elements of the criminal underworld, the U.S. government, and the entertainment industry, they must pull off a series of dangerous heists to survive in a ruthless city in which they can trust nobody — least of all each other. Experience GTA Online, a dynamic and ever-evolving online universe for up to 30 players, where you can rise from street-level hustler to become a kingpin of your own criminal empire.\nRegion: EUR\nNotes: Lock icon bug fixed\nUpdated: 2026-09-13T14:33:08.647Z",
       "downloadSource": "https://pfs-library.vercel.app/api/packages",
       "sizeBytes": 102982578340
     },
