@@ -1,5 +1,10 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 20/09/2026 à 02:55
+* **PAYLOADS**
+  * `ShadowMountPlus` (Source-Fixe) - *Mise à jour (Précédent: 1.6beta16)*
+  * `Spectrum-Library` (1.4.6) - *Mise à jour (Précédent: 1.4.5)*
+
 ## Build du 19/09/2026 à 19:55
 * **PAYLOADS**
   * `ShadowMountPlus` (Source-Fixe) - *Mise à jour (Précédent: 1.6beta16)*

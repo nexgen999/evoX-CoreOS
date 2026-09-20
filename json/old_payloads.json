@@ -9,7 +9,7 @@
             "description": "Experimental Kstuff DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "9343779614b6c7232f038a09b83c24f08db4fd83deef5c73fdb777cc6f826419"
+            "checksum": "94ec7a5854c608340ae67f49cfc54f38d98c6abc41efa7d1d85b72cd94a7dfd3"
         },
         {
             "name": "ShadowMountPlus",
@@ -19,7 +19,7 @@
             "description": "ShadowMountPlus experimental for FPKG",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "49f8d0e2903caa14c99daa974d32ff3f3551296a33aed719c2be0aa1046326f2"
+            "checksum": "7222a774045df87a910ba67ddde7ce9d526a3eb4de168d689119701fcc922541"
         },
         {
             "name": "a53_ppr_install_fast",
@@ -29,7 +29,7 @@
             "description": "A53 Experimental for Kstuff-Darkmor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "bac0c90636b92934de94a6515a5a96758693380e48e803aa3c6f40784a8be8ee"
+            "checksum": "4b5dc6f8a6ebd4cdeffb6ed0f95f57346a2b510568328af9cb41472dec305f6e"
         },
         {
             "name": "kstuff-echostrech",
@@ -39,7 +39,7 @@
             "description": "Experimental Kstuff EchoStrech",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "6788eb7ea1b6c93cdb97bd6a3af5bf702e86a36f2fbd5362e73aa3a70977b891"
+            "checksum": "d67da497809fd76d7e9751a01d7a89c14bbb0d51df1703fd71b0188f8be144b4"
         },
         {
             "name": "a53_exploit-experimental",
@@ -49,7 +49,7 @@
             "description": "A53 Experimental for Kstuff-EchoStrech",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "2b560ba1ec97843a52dc4240d8f4a5e1d52a98bb412e189c7a6a9e62fd379f87"
+            "checksum": "f612decae00bf80e3961f140b64f46e7fde459342672065c64b43c84af70e9f6"
         },
         {
             "name": "ps5debug-NG",
@@ -293,13 +293,13 @@
         },
         {
             "name": "Spectrum-Library",
-            "filename": "Spectrum-Library_v1.4.5.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/Spectrum-Library/1.4.5/Spectrum-Library_v1.4.5.elf",
-            "local_path": "payloads/ps5_freeshop/Spectrum-Library/1.4.5/Spectrum-Library_v1.4.5.elf",
+            "filename": "Spectrum-Library_v1.4.6.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/Spectrum-Library/1.4.6/Spectrum-Library_v1.4.6.elf",
+            "local_path": "payloads/ps5_freeshop/Spectrum-Library/1.4.6/Spectrum-Library_v1.4.6.elf",
             "description": "free store webadmin http://your-ps5-ip:7575.",
-            "version": "1.4.5",
+            "version": "1.4.6",
             "category": "PS5 Freeshop",
-            "checksum": "cd93973a89263fad0b13b39d77d7fbb401c7c7c641bc036965876c810ebf534e"
+            "checksum": "73dd3f3938867ac970207ae8e4093e2d0c5b005bcad1ff9ff2aeb5d34294a161"
         },
         {
             "name": "pegasus-dl",

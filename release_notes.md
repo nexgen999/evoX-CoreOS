@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.19-1955)
+### 🚀 Synthèse de la mise à jour (v2026.09.20-0255)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -46,7 +46,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `svtplay_v0.3.elf`
   * `PS-Play_v2.1.elf`
   * `ps5-fan-control_v0.3.elf`
-  * `Spectrum-Library_v1.4.5.elf`
+  * `Spectrum-Library_v1.4.6.elf`
   * `pegasus-dl_v1.9.0.elf`
   * `ps5shopappkg-dpi.elf`
   * `garlic-savemgr_v1.13.1.elf`

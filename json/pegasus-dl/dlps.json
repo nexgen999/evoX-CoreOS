@@ -3844,10 +3844,6 @@
           "url": "https://1fichier.com/?v6r1uhpqkngitkkt2dbk"
         },
         {
-          "name": "USA 6.xx Game (v01.049) (DLC) [APR-EMU] - Vikingfile part 7",
-          "url": "https://vikingfile.com/f/rd0XnekhT0"
-        },
-        {
           "name": "USA 6.xx BackPort 4.xx - Akirabox",
           "url": "https://akirabox.com/M2BGwPo1Rmj4/file"
         },
@@ -120395,6 +120391,29 @@
       "downloadSource": "https://pkg.games/ps5/greyhill-incident/"
     },
     {
+      "titleId": "PPSA01474",
+      "title": "[exFAT] Ratchet & Clank Rift Apart Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.005.003 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiaDlNUGRTSzNJbE1CYnRNbzVTYkl0TlJlbEdxREJBMXlHLzNSQ0dEb01aMkg4VU54OGpla1E0bm8rbE54RWIyUlEwM1lTbktLIiwicyI6IitlVTg4dEo0dktXbEdSajhSZjRUZEE9PSIsImkiOiJXWDJpZWtVM3RvVlZweHQrIn0="
+        },
+        {
+          "name": "EUR exFAT 01.005.003 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiT1RQRDNCVnkvUWloM0tlODNPRjF3djkzeDRmQk42b2FoNzVpckJVN24zTDVBUXRkT1kvSzBicWh6dFhpTHVrNE1vdEUiLCJzIjoiS252ZEx2Q1k4M08rMGt0TjhSa1lPZz09IiwiaSI6Ilo3SEVFMzJRSE9RZzYvU0wifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.005.003 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoia29mOHk4WWhyTEVraG9iajE2TS9RY2RNcVB5RjhRaVdYb2oyaDdTbUd5ald1bTFsODl4eXliUEl4cmwwYnZyeFlnPT0iLCJzIjoianJYY21Gcm9hR0xGYTVQOWdpdFdYdz09IiwiaSI6Inp2MGpVQ201ditNcXByNTYifQ=="
+        }
+      ],
+      "version": "01.005.003",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ratchet_and_Clank_Rift_Apart.avif",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.005.003\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
+    },
+    {
       "titleId": "PPSA02530",
       "title": "[exFAT] PRAGMATA Deluxe Edition",
       "downloadLinks": [
@@ -124054,29 +124073,6 @@
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Metro_Exodus_Complete_Edition.jpg",
       "description": "Region: USA\nRelease note: exFAT format — FW 01.001 — 2.xx and beyond\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
-    },
-    {
-      "titleId": "PPSA01474",
-      "title": "[exFAT] Ratchet & Clank Rift Apart",
-      "downloadLinks": [
-        {
-          "name": "EUR exFAT 01.005.003 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiaDlNUGRTSzNJbE1CYnRNbzVTYkl0TlJlbEdxREJBMXlHLzNSQ0dEb01aMkg4VU54OGpla1E0bm8rbE54RWIyUlEwM1lTbktLIiwicyI6IitlVTg4dEo0dktXbEdSajhSZjRUZEE9PSIsImkiOiJXWDJpZWtVM3RvVlZweHQrIn0="
-        },
-        {
-          "name": "EUR exFAT 01.005.003 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoiT1RQRDNCVnkvUWloM0tlODNPRjF3djkzeDRmQk42b2FoNzVpckJVN24zTDVBUXRkT1kvSzBicWh6dFhpTHVrNE1vdEUiLCJzIjoiS252ZEx2Q1k4M08rMGt0TjhSa1lPZz09IiwiaSI6Ilo3SEVFMzJRSE9RZzYvU0wifQ=="
-        },
-        {
-          "name": "EUR exFAT 01.005.003 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoia29mOHk4WWhyTEVraG9iajE2TS9RY2RNcVB5RjhRaVdYb2oyaDdTbUd5ald1bTFsODl4eXliUEl4cmwwYnZyeFlnPT0iLCJzIjoianJYY21Gcm9hR0xGYTVQOWdpdFdYdz09IiwiaSI6Inp2MGpVQ201ditNcXByNTYifQ=="
-        }
-      ],
-      "version": "01.005.003",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ratchet_and_Clank_Rift_Apart.avif",
-      "description": "Region: EUR\nRelease note: exFAT format — FW 01.005.003\nContributor: pippo",
       "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
     },
     {
