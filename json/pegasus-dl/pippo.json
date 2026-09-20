@@ -3,14 +3,146 @@
   "version": 1,
   "packages": [
     {
-      "id": 3946290,
+      "id": 3958788,
+      "catalogSlug": "",
+      "titleId": "PPSA27360",
+      "title": "EA SPORTS FC 26",
+      "version": "v01.000.018",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/FC26.jpg",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA27360, v01.000.018, USA, 4.xx BackPort\nSize: 182GB\nCredits: Files: DUPLEX; Backport: ManwonHp\nHow to play: Must be installed the DLC Unlock for play, mandatory. FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/2bJG80xL7GOB/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/ifyLSiAAxJ"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/qljofixnbel3"
+        },
+        {
+          "name": "Filek",
+          "url": "https://filekeeper.net/riz4kiwdtivg"
+        },
+        {
+          "name": "Vault",
+          "url": "https://datavaults.co/11lghmotlzha"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/ly1itpmh7thz"
+        },
+        {
+          "name": "DLC - Filek",
+          "url": "https://filekeeper.net/2asuv3n45p1y"
+        },
+        {
+          "name": "DLC - Vault",
+          "url": "https://datavaults.co/oeqfvu1iick3"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/dZxG5oB1Y3Vj/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/dLvfMLOeSG"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/ktciml3l1z4v"
+        },
+        {
+          "name": "Fpkg - Filek",
+          "url": "https://filekeeper.net/sufb6qi6w7j0"
+        },
+        {
+          "name": "Fpkg - Vault",
+          "url": "https://datavaults.co/em1ruqey3nn0"
+        }
+      ],
+      "sizeBytes": 195421011968
+    },
+    {
+      "id": 3958789,
+      "catalogSlug": "",
+      "titleId": "PPSA10595",
+      "title": "TEKKEN 8",
+      "version": "v03.000.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/TEKKEN_8.png",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA10595, v03.000.001, USA to EUR Langs, 4.xx BackPort\nSize: 180GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: High-Speed007\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "AkiraBox",
+          "url": "https://akirabox.com/jar3Xlrbg32d/file"
+        },
+        {
+          "name": "VikingFile",
+          "url": "https://vikingfile.com/f/wRYx6HQlVi"
+        },
+        {
+          "name": "DataNodes",
+          "url": "https://datanodes.to/40sllt1z0sx7"
+        },
+        {
+          "name": "Filek",
+          "url": "https://filekeeper.net/emwomycdmzbb"
+        },
+        {
+          "name": "Vault",
+          "url": "https://datavaults.co/78faw4pdlwbm"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/u8kktgjd1sry"
+        },
+        {
+          "name": "DLC - Filek",
+          "url": "https://filekeeper.net/njil33lz1cmy"
+        },
+        {
+          "name": "DLC - Vault",
+          "url": "https://datavaults.co/k2zkcia9ycws"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.com/0PdzyXygM3eA/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/RAQw9M1v4q"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/u6pf9relc6ca"
+        },
+        {
+          "name": "Fpkg - Filek",
+          "url": "https://filekeeper.net/25o6fgh0rwrs"
+        },
+        {
+          "name": "Fpkg - Vault",
+          "url": "https://datavaults.co/ua1jj7uif0zs"
+        }
+      ],
+      "sizeBytes": 193273528320
+    },
+    {
+      "id": 3958790,
       "catalogSlug": "",
       "titleId": "PPSA01474",
       "title": "Ratchet & Clank Rift Apart Deluxe Edition",
       "version": "v01.005.003",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ratchet_and_Clank_Rift_Apart.avif",
-      "description": "Builds: Fpkg\nTags: PPSA01474, v01.005.003, EUR, 4.xx BackPork\nSize: 77GB\nCredits: Files: DUPLEX; Backport: BestPig\nHow to play: FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "description": "Builds: Fpkg\nTags: PPSA01474, v01.005.003, EUR, 4.xx BackPork\nSize: 77GB\nCredits: Files: DUPLEX; Backport: BestPig\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
@@ -49,14 +181,14 @@
       "sizeBytes": 82678120448
     },
     {
-      "id": 3946291,
+      "id": 3958791,
       "catalogSlug": "",
       "titleId": "PPSA01285",
       "title": "Returnal",
       "version": "v03.005",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Returnal.avif",
-      "description": "Builds: Standard 7.xx, 4.xx BackPort, Fpkg Backport\nTags: PPSA01285, v03.005, EUR, Standard (7.xx) + 4.xx BackPork\nSize: 144GB\nCredits: Files: SiESPTA; Backport: BestPig\nHow to play: FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "description": "Builds: Standard 7.xx, 4.xx BackPort, Fpkg Backport\nTags: PPSA01285, v03.005, EUR, Standard (7.xx) + 4.xx BackPork\nSize: 144GB\nCredits: Files: SiESPTA; Backport: BestPig\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
@@ -107,14 +239,14 @@
       "sizeBytes": 154618822656
     },
     {
-      "id": 3946292,
+      "id": 3958792,
       "catalogSlug": "",
       "titleId": "PPSA17905",
       "title": "Horizon Forbidden West Complete Edition",
       "version": "v01.030",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/HFWCE.webp",
-      "description": "Builds: Standard 7.xx, 4.xx BackPort, Fpkg Backport\nTags: PPSA17905, v01.030, USA to EUR Langs, DLCs Merged, Standard (7.xx) + 4.xx BackPork\nSize: 191GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: b0mba1992\nHow to play: Burning Shores EUR DLC Included. FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "description": "Builds: Standard 7.xx, 4.xx BackPort, Fpkg Backport\nTags: PPSA17905, v01.030, USA to EUR Langs, DLCs Merged, Standard (7.xx) + 4.xx BackPork\nSize: 191GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: b0mba1992\nHow to play: Burning Shores EUR DLC Included. FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
@@ -165,14 +297,14 @@
       "sizeBytes": 205084688384
     },
     {
-      "id": 3946293,
+      "id": 3958793,
       "catalogSlug": "",
       "titleId": "PPSA02530",
       "title": "PRAGMATA Deluxe Edition",
       "version": "v01.200",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/PRAGMATA_DE.jpg",
-      "description": "Builds: Standard 5.xx, 4.xx BackPort, DLC, Fpkg Backport\nTags: PPSA02530, v01.200, USA, Standard (5.xx) + 4.xx BackPort\nSize: 85GB\nCredits: Files: SiESPTA & DUPLEX; Backport: BestPig & rocknard & ManwonHp; DLC: SiESPTA & DUPLEX\nHow to play: FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "description": "Builds: Standard 5.xx, 4.xx BackPort, DLC, Fpkg Backport\nTags: PPSA02530, v01.200, USA, Standard (5.xx) + 4.xx BackPort\nSize: 85GB\nCredits: Files: SiESPTA & DUPLEX; Backport: BestPig & rocknard & ManwonHp; DLC: SiESPTA & DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
@@ -247,14 +379,14 @@
       "sizeBytes": 91268055040
     },
     {
-      "id": 3946294,
+      "id": 3958794,
       "catalogSlug": "",
       "titleId": "PPSA26344",
       "title": "Ghost of Yotei Deluxe Edition",
       "version": "v01.512",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Ghost_of_Yotei_Deluxe_Edition.png",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA26344, v01.512, USA, 4.xx BackPort\nSize: 188GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DUPLEX\nHow to play: Loading Splash Screen Fix is already included. Pro Features Fix included. FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA26344, v01.512, USA, 4.xx BackPort\nSize: 188GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DUPLEX\nHow to play: Loading Splash Screen Fix is already included. Pro Features Fix included. FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
@@ -313,14 +445,14 @@
       "sizeBytes": 201863462912
     },
     {
-      "id": 3946295,
+      "id": 3958795,
       "catalogSlug": "",
       "titleId": "PPSA21564",
       "title": "ASTRO BOT",
       "version": "v01.018",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/ASTRO_BOT.avif",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA21564, v01.018, USA, 4.xx BackPort\nSize: 152GB\nCredits: Files: SiESPTA; Backport: ManwonHp; DLC: romhunter & Pippo\nHow to play: Progress will be no lost from v01.007 (No need anymore Garlic Saves Manager) + DLCs by romhunter edited to make it work also on FPKG, enjoy. FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA21564, v01.018, USA, 4.xx BackPort\nSize: 152GB\nCredits: Files: SiESPTA; Backport: ManwonHp; DLC: romhunter & Pippo\nHow to play: Progress will be no lost from v01.007 (No need anymore Garlic Saves Manager) + DLCs by romhunter edited to make it work also on FPKG, enjoy. FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
@@ -375,14 +507,14 @@
       "sizeBytes": 163208757248
     },
     {
-      "id": 3946296,
+      "id": 3958796,
       "catalogSlug": "",
       "titleId": "PPSA23226",
       "title": "Black Myth Wukong Deluxe Edition",
       "version": "v01.021",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Black_Myth_Wukong_Deluxe_Edition.png",
-      "description": "Builds: Fpkg\nTags: PPSA23226, v01.021, EUR, DLCs Merged, 4.xx BackPort\nSize: 168GB\nCredits: Files: SiESPTA; Backport: ManwonHp; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "description": "Builds: Fpkg\nTags: PPSA23226, v01.021, EUR, DLCs Merged, 4.xx BackPort\nSize: 168GB\nCredits: Files: SiESPTA; Backport: ManwonHp; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
@@ -429,14 +561,14 @@
       "sizeBytes": 180388626432
     },
     {
-      "id": 3946297,
+      "id": 3958797,
       "catalogSlug": "",
       "titleId": "PPSA02572",
       "title": "Alan Wake 2 Deluxe Edition",
       "version": "v01.200.007",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Alan_Wake_2_Deluxe_Edition.avif",
-      "description": "Builds: Fpkg Backport\nTags: PPSA02572, v01.200.007, EUR, DLCs Merged, 4.xx BackPork\nSize: 137GB\nCredits: Files: SiESPTA; Backport: BestPig; DLC: Pkykzhack\nHow to play: Only exFAT: Ignore Trophy problem popup at the beginning, saves work fine and can be loaded. FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "description": "Builds: Fpkg Backport\nTags: PPSA02572, v01.200.007, EUR, DLCs Merged, 4.xx BackPork\nSize: 137GB\nCredits: Files: SiESPTA; Backport: BestPig; DLC: Pkykzhack\nHow to play: Only exFAT: Ignore Trophy problem popup at the beginning, saves work fine and can be loaded. FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
@@ -483,14 +615,14 @@
       "sizeBytes": 147102629888
     },
     {
-      "id": 3946298,
+      "id": 3958798,
       "catalogSlug": "",
       "titleId": "PPSA14251",
       "title": "Mafia The Old Country Deluxe Edition",
       "version": "v01.008",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Mafia_The_Old_Country_Deluxe_Edition.png",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA14251, v01.008, USA, 4.xx BackPort\nSize: 70GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack\nHow to play: FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA14251, v01.008, USA, 4.xx BackPort\nSize: 70GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
@@ -549,14 +681,14 @@
       "sizeBytes": 75161927680
     },
     {
-      "id": 3946299,
+      "id": 3958799,
       "catalogSlug": "",
       "titleId": "PPSA20397",
       "title": "Assassins Creed Shadows",
       "version": "v01.019.076",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Assassins_Creed_Shadows.avif",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA20397, v01.019.076, EUR, 4.xx BackPort\nSize: 294GB\nCredits: Files: DUPLEX & VanBuuren; Backport: DecKerr97; DLC: DUPLEX & VanBuuren\nHow to play: Audio 3D must be OFF or will crash on initial Settings. FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "description": "Builds: DLC, Fpkg\nTags: PPSA20397, v01.019.076, EUR, 4.xx BackPort\nSize: 294GB\nCredits: Files: DUPLEX & VanBuuren; Backport: DecKerr97; DLC: DUPLEX & VanBuuren\nHow to play: Audio 3D must be OFF or will crash on initial Settings. FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
@@ -615,14 +747,14 @@
       "sizeBytes": 315680096256
     },
     {
-      "id": 3946300,
+      "id": 3958800,
       "catalogSlug": "",
       "titleId": "PPSA03016",
       "title": "Marvels Spider Man 2 Deluxe Edition",
       "version": "v01.004.003",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Marvels_Spider Man_2_Deluxe_Edition.avif",
-      "description": "Builds: Fpkg\nTags: PPSA03016, v01.004.003, USA to EUR Langs, DLCs Merged, 4.xx BackPork\nSize: 254GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: High-Speed007\nHow to play: FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "description": "Builds: Fpkg\nTags: PPSA03016, v01.004.003, USA to EUR Langs, DLCs Merged, 4.xx BackPork\nSize: 254GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: High-Speed007\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
@@ -669,14 +801,14 @@
       "sizeBytes": 272730423296
     },
     {
-      "id": 3946301,
+      "id": 3958801,
       "catalogSlug": "",
       "titleId": "PPSA34299",
       "title": "WWE 2K26",
       "version": "v01.006",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/WWE_2K26.avif",
-      "description": "Builds: Fpkg\nTags: PPSA34299, v01.006, USA, DLCs Merged, 4.xx BackPort\nSize: 286GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: High-Speed007\nHow to play: Ringside Pass DLCs require Internet Connection instead all other DLCs are unlocked, included Pre-Order. Commentary now is working with v01.006+. FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "description": "Builds: Fpkg\nTags: PPSA34299, v01.006, USA, DLCs Merged, 4.xx BackPort\nSize: 286GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: High-Speed007\nHow to play: Ringside Pass DLCs require Internet Connection instead all other DLCs are unlocked, included Pre-Order. Commentary now is working with v01.006+. FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
@@ -723,14 +855,14 @@
       "sizeBytes": 307090161664
     },
     {
-      "id": 3946302,
+      "id": 3958802,
       "catalogSlug": "",
       "titleId": "PPSA07570",
       "title": "Mortal Kombat 1",
       "version": "v01.010.001",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Mortal_Kombat_1.jpg",
-      "description": "Builds: Standard 9.xx, 4.xx BackPort, DLC, Fpkg Backport\nTags: PPSA07570, v01.010.001, USA, DLC Merged, Standard (9.xx) + 4.xx BackPork\nSize: 306GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: Pkykzhack\nHow to play: Khaos Reign DLC now is Merged. FPKG atm is only working up to 11.40, use exFAT (Standard & BackPort) if you are above.",
+      "description": "Builds: Standard 9.xx, 4.xx BackPort, DLC, Fpkg Backport\nTags: PPSA07570, v01.010.001, USA, DLC Merged, Standard (9.xx) + 4.xx BackPork\nSize: 306GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: Pkykzhack\nHow to play: Khaos Reign DLC now is Merged. FPKG atm is only working up to 11.60, use exFAT (Standard & BackPort) if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
@@ -793,14 +925,14 @@
       "sizeBytes": 328564998144
     },
     {
-      "id": 3946303,
+      "id": 3958803,
       "catalogSlug": "",
       "titleId": "PPSA02633",
       "title": "Street Fighter 6 Years 1-3 Fighters Edition",
       "version": "v01.000.028",
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Street_Fighter_6_1_3_FE.jpg",
-      "description": "Builds: Fpkg Backport\nTags: PPSA02633, v01.000.028, EUR, DLCs Merged, 4.xx BackPort\nSize: 200GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DecKerr97\nHow to play: FPKG atm is only working up to 11.40, use exFAT if you are above.",
+      "description": "Builds: Fpkg Backport\nTags: PPSA02633, v01.000.028, EUR, DLCs Merged, 4.xx BackPort\nSize: 200GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
@@ -851,7 +983,7 @@
       "sizeBytes": 214748364800
     },
     {
-      "id": 3946304,
+      "id": 3958804,
       "catalogSlug": "",
       "titleId": "PPSA03061",
       "title": "Void tRrLM Void Terrarium",
@@ -885,7 +1017,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946305,
+      "id": 3958805,
       "catalogSlug": "",
       "titleId": "PPSA01907",
       "title": "Override 2 Super Mech League Ultraman Deluxe Edition",
@@ -919,7 +1051,7 @@
       "sizeBytes": 3221225472
     },
     {
-      "id": 3946306,
+      "id": 3958806,
       "catalogSlug": "",
       "titleId": "PPSA02275",
       "title": "Street Outlaws 2 Winner Takes All",
@@ -953,7 +1085,7 @@
       "sizeBytes": 23622320128
     },
     {
-      "id": 3946307,
+      "id": 3958807,
       "catalogSlug": "",
       "titleId": "PPSA03274",
       "title": "Unbound Worlds Apart",
@@ -987,7 +1119,7 @@
       "sizeBytes": 5368709120
     },
     {
-      "id": 3946308,
+      "id": 3958808,
       "catalogSlug": "",
       "titleId": "PPSA04677",
       "title": "Five Nights at Freddys Security Breach",
@@ -1021,7 +1153,7 @@
       "sizeBytes": 60129542144
     },
     {
-      "id": 3946309,
+      "id": 3958809,
       "catalogSlug": "",
       "titleId": "PPSA01503",
       "title": "Bugsnax",
@@ -1055,7 +1187,7 @@
       "sizeBytes": 17179869184
     },
     {
-      "id": 3946310,
+      "id": 3958810,
       "catalogSlug": "",
       "titleId": "PPSA02117",
       "title": "Observer System Redux",
@@ -1089,7 +1221,7 @@
       "sizeBytes": 7516192768
     },
     {
-      "id": 3946311,
+      "id": 3958811,
       "catalogSlug": "",
       "titleId": "PPSA02868",
       "title": "Mortal Shell Enhanced Edition",
@@ -1123,7 +1255,7 @@
       "sizeBytes": 8589934592
     },
     {
-      "id": 3946312,
+      "id": 3958812,
       "catalogSlug": "",
       "titleId": "PPSA03306",
       "title": "Silt",
@@ -1157,7 +1289,7 @@
       "sizeBytes": 5368709120
     },
     {
-      "id": 3946313,
+      "id": 3958813,
       "catalogSlug": "",
       "titleId": "PPSA07286",
       "title": "Road of Death",
@@ -1191,7 +1323,7 @@
       "sizeBytes": 266338304
     },
     {
-      "id": 3946314,
+      "id": 3958814,
       "catalogSlug": "",
       "titleId": "PPSA19446",
       "title": "Boti Byteland Overclocked",
@@ -1225,7 +1357,7 @@
       "sizeBytes": 7516192768
     },
     {
-      "id": 3946315,
+      "id": 3958815,
       "catalogSlug": "",
       "titleId": "PPSA21607",
       "title": "The Smurfs Dreams Deluxe Edition",
@@ -1259,7 +1391,7 @@
       "sizeBytes": 9663676416
     },
     {
-      "id": 3946316,
+      "id": 3958816,
       "catalogSlug": "",
       "titleId": "PPSA03190",
       "title": "MultiVersus",
@@ -1293,7 +1425,7 @@
       "sizeBytes": 63350767616
     },
     {
-      "id": 3946317,
+      "id": 3958817,
       "catalogSlug": "",
       "titleId": "PPSA03309",
       "title": "Wreckfest Complete Edition",
@@ -1327,7 +1459,7 @@
       "sizeBytes": 61203283968
     },
     {
-      "id": 3946318,
+      "id": 3958818,
       "catalogSlug": "",
       "titleId": "PPSA22265",
       "title": "FANTASIAN Neo Dimension",
@@ -1381,7 +1513,7 @@
       "sizeBytes": 13958643712
     },
     {
-      "id": 3946319,
+      "id": 3958819,
       "catalogSlug": "",
       "titleId": "PPSA29707",
       "title": "Football Manager 26 Console Edition",
@@ -1415,7 +1547,7 @@
       "sizeBytes": 6442450944
     },
     {
-      "id": 3946320,
+      "id": 3958820,
       "catalogSlug": "",
       "titleId": "PPSA03589",
       "title": "WRC 10 Deluxe Edition",
@@ -1449,7 +1581,7 @@
       "sizeBytes": 70866960384
     },
     {
-      "id": 3946321,
+      "id": 3958821,
       "catalogSlug": "",
       "titleId": "PPSA28795",
       "title": "Snoopy and The Great Mystery Club Deluxe Edition",
@@ -1483,7 +1615,7 @@
       "sizeBytes": 8589934592
     },
     {
-      "id": 3946322,
+      "id": 3958822,
       "catalogSlug": "",
       "titleId": "PPSA05683",
       "title": "Tropico 6 El Prez Edition",
@@ -1517,7 +1649,7 @@
       "sizeBytes": 19327352832
     },
     {
-      "id": 3946323,
+      "id": 3958823,
       "catalogSlug": "",
       "titleId": "PPSA01900",
       "title": "Hunting Simulator 2",
@@ -1551,7 +1683,7 @@
       "sizeBytes": 15032385536
     },
     {
-      "id": 3946324,
+      "id": 3958824,
       "catalogSlug": "",
       "titleId": "PPSA04071",
       "title": "Bassmaster Fishing 2022",
@@ -1585,7 +1717,7 @@
       "sizeBytes": 64424509440
     },
     {
-      "id": 3946325,
+      "id": 3958825,
       "catalogSlug": "",
       "titleId": "PPSA05347",
       "title": "Record of Lodoss War Deedlit in Wonder Labyrinth",
@@ -1619,7 +1751,7 @@
       "sizeBytes": 406847488
     },
     {
-      "id": 3946326,
+      "id": 3958826,
       "catalogSlug": "",
       "titleId": "PPSA01911",
       "title": "Final Fantasy VII Remake Intergrade Deluxe Edition",
@@ -1665,7 +1797,7 @@
       "sizeBytes": 215822106624
     },
     {
-      "id": 3946327,
+      "id": 3958827,
       "catalogSlug": "",
       "titleId": "PPSA05786",
       "title": "Kid A Mnesia Exhibition",
@@ -1699,7 +1831,7 @@
       "sizeBytes": 11811160064
     },
     {
-      "id": 3946328,
+      "id": 3958828,
       "catalogSlug": "",
       "titleId": "PPSA03979",
       "title": "Beyond a Steel Sky",
@@ -1733,7 +1865,7 @@
       "sizeBytes": 11811160064
     },
     {
-      "id": 3946329,
+      "id": 3958829,
       "catalogSlug": "",
       "titleId": "PPSA04334",
       "title": "Fatal Frame Maiden of Black Water Deluxe Edition",
@@ -1767,7 +1899,7 @@
       "sizeBytes": 22548578304
     },
     {
-      "id": 3946330,
+      "id": 3958830,
       "catalogSlug": "",
       "titleId": "PPSA03973",
       "title": "Jumanji The Video Game",
@@ -1801,7 +1933,7 @@
       "sizeBytes": 2147483648
     },
     {
-      "id": 3946331,
+      "id": 3958831,
       "catalogSlug": "",
       "titleId": "PPSA19943",
       "title": "Big Helmet Heroes",
@@ -1835,7 +1967,7 @@
       "sizeBytes": 10737418240
     },
     {
-      "id": 3946332,
+      "id": 3958832,
       "catalogSlug": "",
       "titleId": "PPSA09845",
       "title": "Roadcraft",
@@ -1889,7 +2021,7 @@
       "sizeBytes": 59055800320
     },
     {
-      "id": 3946333,
+      "id": 3958833,
       "catalogSlug": "",
       "titleId": "PPSA10665",
       "title": "Final Fantasy XVI Complete Edition",
@@ -1923,7 +2055,7 @@
       "sizeBytes": 317827579904
     },
     {
-      "id": 3946334,
+      "id": 3958834,
       "catalogSlug": "",
       "titleId": "PPSA02343",
       "title": "It Takes Two",
@@ -1957,7 +2089,7 @@
       "sizeBytes": 44023414784
     },
     {
-      "id": 3946335,
+      "id": 3958835,
       "catalogSlug": "",
       "titleId": "PPSA02688",
       "title": "Infliction Extended Cut",
@@ -1991,7 +2123,7 @@
       "sizeBytes": 4294967296
     },
     {
-      "id": 3946336,
+      "id": 3958836,
       "catalogSlug": "",
       "titleId": "PPSA02680",
       "title": "Dungeons Dragons Dark Alliance Deluxe Edition",
@@ -2033,7 +2165,7 @@
       "sizeBytes": 57982058496
     },
     {
-      "id": 3946337,
+      "id": 3958837,
       "catalogSlug": "",
       "titleId": "PPSA04702",
       "title": "Away The Survival Series",
@@ -2067,7 +2199,7 @@
       "sizeBytes": 7516192768
     },
     {
-      "id": 3946338,
+      "id": 3958838,
       "catalogSlug": "",
       "titleId": "PPSA07326",
       "title": "Wonder Boy The Dragons Trap",
@@ -2101,7 +2233,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946339,
+      "id": 3958839,
       "catalogSlug": "",
       "titleId": "PPSA17697",
       "title": "Yatzi",
@@ -2135,7 +2267,7 @@
       "sizeBytes": 732954624
     },
     {
-      "id": 3946340,
+      "id": 3958840,
       "catalogSlug": "",
       "titleId": "PPSA05111",
       "title": "Night Trap 25th Anniversary Edition",
@@ -2169,7 +2301,7 @@
       "sizeBytes": 18253611008
     },
     {
-      "id": 3946341,
+      "id": 3958841,
       "catalogSlug": "",
       "titleId": "PPSA08766",
       "title": "Cocoon",
@@ -2203,7 +2335,7 @@
       "sizeBytes": 2147483648
     },
     {
-      "id": 3946342,
+      "id": 3958842,
       "catalogSlug": "",
       "titleId": "PPSA09682",
       "title": "Hotline Miami",
@@ -2237,7 +2369,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946343,
+      "id": 3958843,
       "catalogSlug": "",
       "titleId": "PPSA22996",
       "title": "AAA Dynamic Scenes All Scenes Edition",
@@ -2271,7 +2403,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946344,
+      "id": 3958844,
       "catalogSlug": "",
       "titleId": "PPSA19015",
       "title": "Arcade Game Zone",
@@ -2305,7 +2437,7 @@
       "sizeBytes": 758120448
     },
     {
-      "id": 3946345,
+      "id": 3958845,
       "catalogSlug": "",
       "titleId": "PPSA02449",
       "title": "Necromunda Hired Gun",
@@ -2339,7 +2471,7 @@
       "sizeBytes": 33285996544
     },
     {
-      "id": 3946346,
+      "id": 3958846,
       "catalogSlug": "",
       "titleId": "PPSA03803",
       "title": "Elex 2",
@@ -2373,7 +2505,7 @@
       "sizeBytes": 40802189312
     },
     {
-      "id": 3946347,
+      "id": 3958847,
       "catalogSlug": "",
       "titleId": "PPSA04697",
       "title": "Visage",
@@ -2407,7 +2539,7 @@
       "sizeBytes": 8589934592
     },
     {
-      "id": 3946348,
+      "id": 3958848,
       "catalogSlug": "",
       "titleId": "PPSA02058",
       "title": "Balan Wonderworld",
@@ -2441,7 +2573,7 @@
       "sizeBytes": 32212254720
     },
     {
-      "id": 3946349,
+      "id": 3958849,
       "catalogSlug": "",
       "titleId": "PPSA08330",
       "title": "God Of War Ragnarok",
@@ -2475,7 +2607,7 @@
       "sizeBytes": 193273528320
     },
     {
-      "id": 3946350,
+      "id": 3958850,
       "catalogSlug": "",
       "titleId": "PPSA06955",
       "title": "Granblue Fantasy Relink Special Edition",
@@ -2517,7 +2649,7 @@
       "sizeBytes": 96636764160
     },
     {
-      "id": 3946351,
+      "id": 3958851,
       "catalogSlug": "",
       "titleId": "PPSA04489",
       "title": "Teenage Mutant Ninja Turtles The Cowabunga Collection",
@@ -2551,7 +2683,7 @@
       "sizeBytes": 8589934592
     },
     {
-      "id": 3946352,
+      "id": 3958852,
       "catalogSlug": "",
       "titleId": "PPSA05626",
       "title": "Fobia St Dinfna Hotel",
@@ -2585,7 +2717,7 @@
       "sizeBytes": 7516192768
     },
     {
-      "id": 3946353,
+      "id": 3958853,
       "catalogSlug": "",
       "titleId": "PPSA06328",
       "title": "Arkanoid Eternal Battle Limited Edition",
@@ -2619,7 +2751,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946354,
+      "id": 3958854,
       "catalogSlug": "",
       "titleId": "PPSA04477",
       "title": "Dakar Desert Rally Deluxe Edition",
@@ -2653,7 +2785,7 @@
       "sizeBytes": 44023414784
     },
     {
-      "id": 3946355,
+      "id": 3958855,
       "catalogSlug": "",
       "titleId": "PPSA16163",
       "title": "The Casting of Frank Stone",
@@ -2687,7 +2819,7 @@
       "sizeBytes": 100931731456
     },
     {
-      "id": 3946356,
+      "id": 3958856,
       "catalogSlug": "",
       "titleId": "PPSA18176",
       "title": "Hello Kitty Island Adventure",
@@ -2721,7 +2853,7 @@
       "sizeBytes": 4294967296
     },
     {
-      "id": 3946357,
+      "id": 3958857,
       "catalogSlug": "",
       "titleId": "PPSA06408",
       "title": "Trifox",
@@ -2755,7 +2887,7 @@
       "sizeBytes": 5368709120
     },
     {
-      "id": 3946358,
+      "id": 3958858,
       "catalogSlug": "",
       "titleId": "PPSA02664",
       "title": "Alex Kidd in Miracle World DX",
@@ -2789,7 +2921,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946359,
+      "id": 3958859,
       "catalogSlug": "",
       "titleId": "PPSA02817",
       "title": "Curved Space",
@@ -2823,7 +2955,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946360,
+      "id": 3958860,
       "catalogSlug": "",
       "titleId": "PPSA03117",
       "title": "Crazy Chicken Shooter Bundle",
@@ -2857,7 +2989,7 @@
       "sizeBytes": 402653184
     },
     {
-      "id": 3946361,
+      "id": 3958861,
       "catalogSlug": "",
       "titleId": "PPSA03174",
       "title": "Astria Ascending",
@@ -2891,7 +3023,7 @@
       "sizeBytes": 22548578304
     },
     {
-      "id": 3946362,
+      "id": 3958862,
       "catalogSlug": "",
       "titleId": "PPSA05496",
       "title": "LEGO Builders Journey",
@@ -2925,7 +3057,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946363,
+      "id": 3958863,
       "catalogSlug": "",
       "titleId": "PPSA07430",
       "title": "LEGO Bricktales",
@@ -2959,7 +3091,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946364,
+      "id": 3958864,
       "catalogSlug": "",
       "titleId": "PPSA23732",
       "title": "LEGO Voyagers",
@@ -2993,7 +3125,7 @@
       "sizeBytes": 3221225472
     },
     {
-      "id": 3946365,
+      "id": 3958865,
       "catalogSlug": "",
       "titleId": "PPSA02800",
       "title": "3D Billiards Pool and Snooker Remastered",
@@ -3027,7 +3159,7 @@
       "sizeBytes": 2147483648
     },
     {
-      "id": 3946366,
+      "id": 3958866,
       "catalogSlug": "",
       "titleId": "PPSA09828",
       "title": "Jitsu Squad",
@@ -3061,7 +3193,7 @@
       "sizeBytes": 2147483648
     },
     {
-      "id": 3946367,
+      "id": 3958867,
       "catalogSlug": "",
       "titleId": "PPSA03535",
       "title": "Real Farm Premium Edition",
@@ -3095,7 +3227,7 @@
       "sizeBytes": 3221225472
     },
     {
-      "id": 3946368,
+      "id": 3958868,
       "catalogSlug": "",
       "titleId": "PPSA03076",
       "title": "Yonder The Cloud Catcher Chronicles",
@@ -3129,7 +3261,7 @@
       "sizeBytes": 25769803776
     },
     {
-      "id": 3946369,
+      "id": 3958869,
       "catalogSlug": "",
       "titleId": "PPSA05916",
       "title": "BloodRayne Revamped",
@@ -3163,7 +3295,7 @@
       "sizeBytes": 6442450944
     },
     {
-      "id": 3946370,
+      "id": 3958870,
       "catalogSlug": "",
       "titleId": "PPSA07645",
       "title": "Fallen Legion Rise to Glory",
@@ -3197,7 +3329,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946371,
+      "id": 3958871,
       "catalogSlug": "",
       "titleId": "PPSA13865",
       "title": "CUSTOM MECH WARS Ultimate Edition",
@@ -3231,7 +3363,7 @@
       "sizeBytes": 6442450944
     },
     {
-      "id": 3946372,
+      "id": 3958872,
       "catalogSlug": "",
       "titleId": "PPSA04618",
       "title": "F1 22 Championship Edition",
@@ -3265,7 +3397,7 @@
       "sizeBytes": 54760833024
     },
     {
-      "id": 3946373,
+      "id": 3958873,
       "catalogSlug": "",
       "titleId": "PPSA01913",
       "title": "The Persistence Enhanced Edition",
@@ -3299,7 +3431,7 @@
       "sizeBytes": 5368709120
     },
     {
-      "id": 3946374,
+      "id": 3958874,
       "catalogSlug": "",
       "titleId": "PPSA05975",
       "title": "BloodRayne Revamped 2",
@@ -3333,7 +3465,7 @@
       "sizeBytes": 13958643712
     },
     {
-      "id": 3946375,
+      "id": 3958875,
       "catalogSlug": "",
       "titleId": "PPSA14198",
       "title": "Tour de France 2023",
@@ -3367,7 +3499,7 @@
       "sizeBytes": 26843545600
     },
     {
-      "id": 3946376,
+      "id": 3958876,
       "catalogSlug": "",
       "titleId": "PPSA03150",
       "title": "WWE 2K22 nWo 4-Life Edition",
@@ -3401,7 +3533,7 @@
       "sizeBytes": 55834574848
     },
     {
-      "id": 3946377,
+      "id": 3958877,
       "catalogSlug": "",
       "titleId": "PPSA04703",
       "title": "Ever Forward",
@@ -3435,7 +3567,7 @@
       "sizeBytes": 3221225472
     },
     {
-      "id": 3946378,
+      "id": 3958878,
       "catalogSlug": "",
       "titleId": "PPSA02891",
       "title": "On The Road The Truck Simulator",
@@ -3469,7 +3601,7 @@
       "sizeBytes": 6442450944
     },
     {
-      "id": 3946379,
+      "id": 3958879,
       "catalogSlug": "",
       "titleId": "PPSA06147",
       "title": "Furi Modore Edition",
@@ -3503,7 +3635,7 @@
       "sizeBytes": 2147483648
     },
     {
-      "id": 3946380,
+      "id": 3958880,
       "catalogSlug": "",
       "titleId": "PPSA24781",
       "title": "Dreamcore",
@@ -3537,7 +3669,7 @@
       "sizeBytes": 11811160064
     },
     {
-      "id": 3946381,
+      "id": 3958881,
       "catalogSlug": "",
       "titleId": "PPSA03999",
       "title": "Tails of Iron",
@@ -3571,7 +3703,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946382,
+      "id": 3958882,
       "catalogSlug": "",
       "titleId": "PPSA07029",
       "title": "Personality and Psychology Premium",
@@ -3605,7 +3737,7 @@
       "sizeBytes": 861929472
     },
     {
-      "id": 3946383,
+      "id": 3958883,
       "catalogSlug": "",
       "titleId": "PPSA02650",
       "title": "Disciples Liberation",
@@ -3647,7 +3779,7 @@
       "sizeBytes": 8589934592
     },
     {
-      "id": 3946384,
+      "id": 3958884,
       "catalogSlug": "",
       "titleId": "PPSA04921",
       "title": "In Sound Mind",
@@ -3681,7 +3813,7 @@
       "sizeBytes": 17179869184
     },
     {
-      "id": 3946385,
+      "id": 3958885,
       "catalogSlug": "",
       "titleId": "PPSA14396",
       "title": "METAL GEAR SOLID 2 Sons of Liberty Master Collection",
@@ -3735,7 +3867,7 @@
       "sizeBytes": 11811160064
     },
     {
-      "id": 3946386,
+      "id": 3958886,
       "catalogSlug": "",
       "titleId": "PPSA14404",
       "title": "METAL GEAR SOLID 3 Snake Eater Master Collection",
@@ -3789,7 +3921,7 @@
       "sizeBytes": 16106127360
     },
     {
-      "id": 3946387,
+      "id": 3958887,
       "catalogSlug": "",
       "titleId": "PPSA29141",
       "title": "LEGO Party",
@@ -3823,7 +3955,7 @@
       "sizeBytes": 7516192768
     },
     {
-      "id": 3946388,
+      "id": 3958888,
       "catalogSlug": "",
       "titleId": "PPSA10737",
       "title": "Little Nightmares Enhanced Complete Edition",
@@ -3857,7 +3989,7 @@
       "sizeBytes": 10737418240
     },
     {
-      "id": 3946389,
+      "id": 3958889,
       "catalogSlug": "",
       "titleId": "PPSA02629",
       "title": "Trek To Yomi",
@@ -3891,7 +4023,7 @@
       "sizeBytes": 18253611008
     },
     {
-      "id": 3946390,
+      "id": 3958890,
       "catalogSlug": "",
       "titleId": "PPSA07058",
       "title": "Final Vendetta",
@@ -3925,7 +4057,7 @@
       "sizeBytes": 567279616
     },
     {
-      "id": 3946391,
+      "id": 3958891,
       "catalogSlug": "",
       "titleId": "PPSA03469",
       "title": "Blackwind",
@@ -3959,7 +4091,7 @@
       "sizeBytes": 2147483648
     },
     {
-      "id": 3946392,
+      "id": 3958892,
       "catalogSlug": "",
       "titleId": "PPSA02743",
       "title": "Cant Drive This",
@@ -3993,7 +4125,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946393,
+      "id": 3958893,
       "catalogSlug": "",
       "titleId": "PPSA14453",
       "title": "TIEBREAK Official game of the ATP and WTA Ace Edition",
@@ -4027,7 +4159,7 @@
       "sizeBytes": 213674622976
     },
     {
-      "id": 3946394,
+      "id": 3958894,
       "catalogSlug": "",
       "titleId": "PPSA25839",
       "title": "Garfield Kart 2 All You Can Drift",
@@ -4061,7 +4193,7 @@
       "sizeBytes": 10737418240
     },
     {
-      "id": 3946395,
+      "id": 3958895,
       "catalogSlug": "",
       "titleId": "PPSA22623",
       "title": "Zombie Cure Lab",
@@ -4095,7 +4227,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946396,
+      "id": 3958896,
       "catalogSlug": "",
       "titleId": "PPSA05018",
       "title": "Dont Touch This Button",
@@ -4129,7 +4261,7 @@
       "sizeBytes": 454033408
     },
     {
-      "id": 3946397,
+      "id": 3958897,
       "catalogSlug": "",
       "titleId": "PPSA24473",
       "title": "Undefeated",
@@ -4163,7 +4295,7 @@
       "sizeBytes": 6442450944
     },
     {
-      "id": 3946398,
+      "id": 3958898,
       "catalogSlug": "",
       "titleId": "PPSA03030",
       "title": "One Night Stand",
@@ -4197,7 +4329,7 @@
       "sizeBytes": 721420288
     },
     {
-      "id": 3946399,
+      "id": 3958899,
       "catalogSlug": "",
       "titleId": "PPSA03748",
       "title": "Kerbal Space Program Enhanced Complete Edition",
@@ -4231,7 +4363,7 @@
       "sizeBytes": 4294967296
     },
     {
-      "id": 3946400,
+      "id": 3958900,
       "catalogSlug": "",
       "titleId": "PPSA01325",
       "title": "Astros Playroom",
@@ -4265,7 +4397,7 @@
       "sizeBytes": 30064771072
     },
     {
-      "id": 3946401,
+      "id": 3958901,
       "catalogSlug": "",
       "titleId": "PPSA19406",
       "title": "Earth Defense Force World Brothers 2",
@@ -4307,7 +4439,7 @@
       "sizeBytes": 24696061952
     },
     {
-      "id": 3946402,
+      "id": 3958902,
       "catalogSlug": "",
       "titleId": "PPSA16256",
       "title": "Metal Gear Solid Master Collection Vol 1 Bonus Content",
@@ -4341,7 +4473,7 @@
       "sizeBytes": 367001600
     },
     {
-      "id": 3946403,
+      "id": 3958903,
       "catalogSlug": "",
       "titleId": "PPSA10249",
       "title": "VIEWFINDER",
@@ -4395,7 +4527,7 @@
       "sizeBytes": 15032385536
     },
     {
-      "id": 3946404,
+      "id": 3958904,
       "catalogSlug": "",
       "titleId": "PPSA09790",
       "title": "Dragon Ball Fighter Z",
@@ -4461,7 +4593,7 @@
       "sizeBytes": 46170898432
     },
     {
-      "id": 3946405,
+      "id": 3958905,
       "catalogSlug": "",
       "titleId": "PPSA20931",
       "title": "Electronics Puzzle Lab",
@@ -4495,7 +4627,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946406,
+      "id": 3958906,
       "catalogSlug": "",
       "titleId": "PPSA04029",
       "title": "Cyberpunk 2077 Ultimate Edition",
@@ -4529,7 +4661,7 @@
       "sizeBytes": 259845521408
     },
     {
-      "id": 3946407,
+      "id": 3958907,
       "catalogSlug": "",
       "titleId": "PPSA02393",
       "title": "Iron Harvest Complete Edition",
@@ -4563,7 +4695,7 @@
       "sizeBytes": 34359738368
     },
     {
-      "id": 3946408,
+      "id": 3958908,
       "catalogSlug": "",
       "titleId": "PPSA04795",
       "title": "KLONOA Phantasy Reverie Series Deluxe Edition",
@@ -4597,7 +4729,7 @@
       "sizeBytes": 9663676416
     },
     {
-      "id": 3946409,
+      "id": 3958909,
       "catalogSlug": "",
       "titleId": "PPSA07370",
       "title": "MADiSON",
@@ -4631,7 +4763,7 @@
       "sizeBytes": 7516192768
     },
     {
-      "id": 3946410,
+      "id": 3958910,
       "catalogSlug": "",
       "titleId": "PPSA02259",
       "title": "Oddworld Soulstorm",
@@ -4665,7 +4797,7 @@
       "sizeBytes": 25769803776
     },
     {
-      "id": 3946411,
+      "id": 3958911,
       "catalogSlug": "",
       "titleId": "PPSA30279",
       "title": "Taxi Chaos 2",
@@ -4719,7 +4851,7 @@
       "sizeBytes": 12884901888
     },
     {
-      "id": 3946412,
+      "id": 3958912,
       "catalogSlug": "",
       "titleId": "PPSA26893",
       "title": "SpongeBob SquarePants Titans of The Tide Ghostly Edition",
@@ -4773,7 +4905,7 @@
       "sizeBytes": 26843545600
     },
     {
-      "id": 3946413,
+      "id": 3958913,
       "catalogSlug": "",
       "titleId": "PPSA13899",
       "title": "Slave Zero X",
@@ -4807,7 +4939,7 @@
       "sizeBytes": 4294967296
     },
     {
-      "id": 3946414,
+      "id": 3958914,
       "catalogSlug": "",
       "titleId": "PPSA09252",
       "title": "Crown Wars The Black Prince",
@@ -4841,7 +4973,7 @@
       "sizeBytes": 16106127360
     },
     {
-      "id": 3946415,
+      "id": 3958915,
       "catalogSlug": "",
       "titleId": "PPSA22102",
       "title": "Squirrel With A Gun",
@@ -4875,7 +5007,7 @@
       "sizeBytes": 8589934592
     },
     {
-      "id": 3946416,
+      "id": 3958916,
       "catalogSlug": "",
       "titleId": "PPSA09232",
       "title": "Ghost Song",
@@ -4909,7 +5041,7 @@
       "sizeBytes": 2147483648
     },
     {
-      "id": 3946417,
+      "id": 3958917,
       "catalogSlug": "",
       "titleId": "PPSA16349",
       "title": "Rugby 25",
@@ -4943,7 +5075,7 @@
       "sizeBytes": 388694540288
     },
     {
-      "id": 3946418,
+      "id": 3958918,
       "catalogSlug": "",
       "titleId": "PPSA10873",
       "title": "Persona 3 Reload",
@@ -4989,7 +5121,7 @@
       "sizeBytes": 47244640256
     },
     {
-      "id": 3946419,
+      "id": 3958919,
       "catalogSlug": "",
       "titleId": "PPSA05727",
       "title": "LOL Surprise B.B.s BORN TO TRAVEL",
@@ -5023,7 +5155,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946420,
+      "id": 3958920,
       "catalogSlug": "",
       "titleId": "PPSA01528",
       "title": "Overcooked All You Can Eat",
@@ -5057,7 +5189,7 @@
       "sizeBytes": 21474836480
     },
     {
-      "id": 3946421,
+      "id": 3958921,
       "catalogSlug": "",
       "titleId": "PPSA11039",
       "title": "The Caligula Effect 2 Deluxe Edition",
@@ -5091,7 +5223,7 @@
       "sizeBytes": 12884901888
     },
     {
-      "id": 3946422,
+      "id": 3958922,
       "catalogSlug": "",
       "titleId": "PPSA03638",
       "title": "Horror Tales The Wine",
@@ -5125,7 +5257,7 @@
       "sizeBytes": 4294967296
     },
     {
-      "id": 3946423,
+      "id": 3958923,
       "catalogSlug": "",
       "titleId": "PPSA02929",
       "title": "Dreaming Sarah",
@@ -5159,7 +5291,7 @@
       "sizeBytes": 231735296
     },
     {
-      "id": 3946424,
+      "id": 3958924,
       "catalogSlug": "",
       "titleId": "PPSA09426",
       "title": "Bramble The Mountain King",
@@ -5193,7 +5325,7 @@
       "sizeBytes": 11811160064
     },
     {
-      "id": 3946425,
+      "id": 3958925,
       "catalogSlug": "",
       "titleId": "PPSA32236",
       "title": "Tokyo Xtreme Racer",
@@ -5247,7 +5379,7 @@
       "sizeBytes": 34359738368
     },
     {
-      "id": 3946426,
+      "id": 3958926,
       "catalogSlug": "",
       "titleId": "PPSA09075",
       "title": "Valthirian Arc Hero School Story 2",
@@ -5281,7 +5413,7 @@
       "sizeBytes": 4294967296
     },
     {
-      "id": 3946427,
+      "id": 3958927,
       "catalogSlug": "",
       "titleId": "PPSA06199",
       "title": "Road Maintenance Simulator",
@@ -5315,7 +5447,7 @@
       "sizeBytes": 4294967296
     },
     {
-      "id": 3946428,
+      "id": 3958928,
       "catalogSlug": "",
       "titleId": "PPSA02774",
       "title": "XIII",
@@ -5349,7 +5481,7 @@
       "sizeBytes": 15032385536
     },
     {
-      "id": 3946429,
+      "id": 3958929,
       "catalogSlug": "",
       "titleId": "PPSA17221",
       "title": "Minecraft",
@@ -5383,7 +5515,7 @@
       "sizeBytes": 2147483648
     },
     {
-      "id": 3946430,
+      "id": 3958930,
       "catalogSlug": "",
       "titleId": "PPSA05732",
       "title": "Way of The Hunter",
@@ -5417,7 +5549,7 @@
       "sizeBytes": 17179869184
     },
     {
-      "id": 3946431,
+      "id": 3958931,
       "catalogSlug": "",
       "titleId": "PPSA02787",
       "title": "Monster Boy and The Cursed Kingdom",
@@ -5451,7 +5583,7 @@
       "sizeBytes": 4294967296
     },
     {
-      "id": 3946432,
+      "id": 3958932,
       "catalogSlug": "",
       "titleId": "PPSA06565",
       "title": "Dusk Diver 2",
@@ -5485,7 +5617,7 @@
       "sizeBytes": 10737418240
     },
     {
-      "id": 3946433,
+      "id": 3958933,
       "catalogSlug": "",
       "titleId": "PPSA03618",
       "title": "The Chant",
@@ -5519,7 +5651,7 @@
       "sizeBytes": 53687091200
     },
     {
-      "id": 3946434,
+      "id": 3958934,
       "catalogSlug": "",
       "titleId": "PPSA22914",
       "title": "Witch Spring R",
@@ -5561,7 +5693,7 @@
       "sizeBytes": 15032385536
     },
     {
-      "id": 3946435,
+      "id": 3958935,
       "catalogSlug": "",
       "titleId": "PPSA01417",
       "title": "Marvels Spider Man Miles Morales",
@@ -5615,7 +5747,7 @@
       "sizeBytes": 94489280512
     },
     {
-      "id": 3946436,
+      "id": 3958936,
       "catalogSlug": "",
       "titleId": "PPSA07836",
       "title": "WILD HEARTS Karakuri Edition",
@@ -5669,7 +5801,7 @@
       "sizeBytes": 130996502528
     },
     {
-      "id": 3946437,
+      "id": 3958937,
       "catalogSlug": "",
       "titleId": "PPSA01467",
       "title": "Marvels Spider Man Remastered",
@@ -5715,7 +5847,7 @@
       "sizeBytes": 129922760704
     },
     {
-      "id": 3946438,
+      "id": 3958938,
       "catalogSlug": "",
       "titleId": "PPSA18089",
       "title": "Matchbox Driving Adventures",
@@ -5749,7 +5881,7 @@
       "sizeBytes": 5368709120
     },
     {
-      "id": 3946439,
+      "id": 3958939,
       "catalogSlug": "",
       "titleId": "PPSA15319",
       "title": "The Plucky Squire",
@@ -5803,7 +5935,7 @@
       "sizeBytes": 19327352832
     },
     {
-      "id": 3946440,
+      "id": 3958940,
       "catalogSlug": "",
       "titleId": "PPSA28311",
       "title": "Absolum",
@@ -5837,7 +5969,7 @@
       "sizeBytes": 3221225472
     },
     {
-      "id": 3946441,
+      "id": 3958941,
       "catalogSlug": "",
       "titleId": "PPSA08408",
       "title": "Blazing Strike",
@@ -5871,7 +6003,7 @@
       "sizeBytes": 6442450944
     },
     {
-      "id": 3946442,
+      "id": 3958942,
       "catalogSlug": "",
       "titleId": "PPSA24643",
       "title": "The Messenger",
@@ -5905,7 +6037,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946443,
+      "id": 3958943,
       "catalogSlug": "",
       "titleId": "PPSA23396",
       "title": "Rugrats Adventure in Gameland",
@@ -5939,7 +6071,7 @@
       "sizeBytes": 6442450944
     },
     {
-      "id": 3946444,
+      "id": 3958944,
       "catalogSlug": "",
       "titleId": "PPSA14464",
       "title": "Mayhem Brawler",
@@ -5973,7 +6105,7 @@
       "sizeBytes": 2147483648
     },
     {
-      "id": 3946445,
+      "id": 3958945,
       "catalogSlug": "",
       "titleId": "PPSA07191",
       "title": "Super Bomberman R 2",
@@ -6007,7 +6139,7 @@
       "sizeBytes": 20401094656
     },
     {
-      "id": 3946446,
+      "id": 3958946,
       "catalogSlug": "",
       "titleId": "PPSA09518",
       "title": "WUCHANG Fallen Feathers Deluxe Edition",
@@ -6041,7 +6173,7 @@
       "sizeBytes": 30064771072
     },
     {
-      "id": 3946447,
+      "id": 3958947,
       "catalogSlug": "",
       "titleId": "PPSA03831",
       "title": "Sonic Frontiers",
@@ -6095,7 +6227,7 @@
       "sizeBytes": 41875931136
     },
     {
-      "id": 3946448,
+      "id": 3958948,
       "catalogSlug": "",
       "titleId": "PPSA21165",
       "title": "Rune Factory Guardians of Azuma",
@@ -6129,7 +6261,7 @@
       "sizeBytes": 36507222016
     },
     {
-      "id": 3946449,
+      "id": 3958949,
       "catalogSlug": "",
       "titleId": "PPSA26917",
       "title": "Mandragora Whispers of the Witch Tree",
@@ -6163,7 +6295,7 @@
       "sizeBytes": 27917287424
     },
     {
-      "id": 3946450,
+      "id": 3958950,
       "catalogSlug": "",
       "titleId": "PPSA32239",
       "title": "Mega Man Star Force Legacy Collection",
@@ -6197,7 +6329,7 @@
       "sizeBytes": 15032385536
     },
     {
-      "id": 3946451,
+      "id": 3958951,
       "catalogSlug": "",
       "titleId": "PPSA15304",
       "title": "Metal Gear Solid Delta Snake Eater Deluxe Edition",
@@ -6231,7 +6363,7 @@
       "sizeBytes": 241591910400
     },
     {
-      "id": 3946452,
+      "id": 3958952,
       "catalogSlug": "",
       "titleId": "PPSA07587",
       "title": "Sea of Stars",
@@ -6265,7 +6397,7 @@
       "sizeBytes": 5368709120
     },
     {
-      "id": 3946453,
+      "id": 3958953,
       "catalogSlug": "",
       "titleId": "PPSA28465",
       "title": "Trails in The Sky 1st Chapter",
@@ -6299,7 +6431,7 @@
       "sizeBytes": 23622320128
     },
     {
-      "id": 3946454,
+      "id": 3958954,
       "catalogSlug": "",
       "titleId": "PPSA04433",
       "title": "Tourist Bus Simulator",
@@ -6341,7 +6473,7 @@
       "sizeBytes": 37580963840
     },
     {
-      "id": 3946455,
+      "id": 3958955,
       "catalogSlug": "",
       "titleId": "PPSA08560",
       "title": "Split Fiction",
@@ -6383,7 +6515,7 @@
       "sizeBytes": 162135015424
     },
     {
-      "id": 3946456,
+      "id": 3958956,
       "catalogSlug": "",
       "titleId": "PPSA14363",
       "title": "METAL GEAR SOLID Master Collection",
@@ -6437,7 +6569,7 @@
       "sizeBytes": 5368709120
     },
     {
-      "id": 3946457,
+      "id": 3958957,
       "catalogSlug": "",
       "titleId": "PPSA03952",
       "title": "Resident Evil 3",
@@ -6471,7 +6603,7 @@
       "sizeBytes": 35433480192
     },
     {
-      "id": 3946458,
+      "id": 3958958,
       "catalogSlug": "",
       "titleId": "PPSA04288",
       "title": "Resident Evil 2",
@@ -6509,7 +6641,7 @@
       "sizeBytes": 37580963840
     },
     {
-      "id": 3946459,
+      "id": 3958959,
       "catalogSlug": "",
       "titleId": "PPSA28835",
       "title": "Styx Blades of Greed",
@@ -6567,7 +6699,7 @@
       "sizeBytes": 35433480192
     },
     {
-      "id": 3946460,
+      "id": 3958960,
       "catalogSlug": "",
       "titleId": "PPSA26127",
       "title": "Madden NFL 26",
@@ -6621,7 +6753,7 @@
       "sizeBytes": 165356240896
     },
     {
-      "id": 3946461,
+      "id": 3958961,
       "catalogSlug": "",
       "titleId": "PPSA06711",
       "title": "War Mongrels",
@@ -6655,7 +6787,7 @@
       "sizeBytes": 28991029248
     },
     {
-      "id": 3946462,
+      "id": 3958962,
       "catalogSlug": "",
       "titleId": "PPSA09196",
       "title": "Last Days of Lazarus",
@@ -6689,7 +6821,7 @@
       "sizeBytes": 6442450944
     },
     {
-      "id": 3946463,
+      "id": 3958963,
       "catalogSlug": "",
       "titleId": "PPSA17372",
       "title": "Smalland Survive The Wilds",
@@ -6723,7 +6855,7 @@
       "sizeBytes": 19327352832
     },
     {
-      "id": 3946464,
+      "id": 3958964,
       "catalogSlug": "",
       "titleId": "PPSA08390",
       "title": "TAPE Unveil The Memories",
@@ -6757,7 +6889,7 @@
       "sizeBytes": 5368709120
     },
     {
-      "id": 3946465,
+      "id": 3958965,
       "catalogSlug": "",
       "titleId": "PPSA02801",
       "title": "New Joe and Mac Caveman Ninja",
@@ -6811,7 +6943,7 @@
       "sizeBytes": 1017118720
     },
     {
-      "id": 3946466,
+      "id": 3958966,
       "catalogSlug": "",
       "titleId": "PPSA28420",
       "title": "NBA 2K26",
@@ -6865,7 +6997,7 @@
       "sizeBytes": 404800667648
     },
     {
-      "id": 3946467,
+      "id": 3958967,
       "catalogSlug": "",
       "titleId": "PPSA17952",
       "title": "PGA Tour 2K25",
@@ -6899,7 +7031,7 @@
       "sizeBytes": 36507222016
     },
     {
-      "id": 3946468,
+      "id": 3958968,
       "catalogSlug": "",
       "titleId": "PPSA06367",
       "title": "The Lord of The Rings Gollum Precious Edition",
@@ -6933,7 +7065,7 @@
       "sizeBytes": 50465865728
     },
     {
-      "id": 3946469,
+      "id": 3958969,
       "catalogSlug": "",
       "titleId": "PPSA05060",
       "title": "RoboCop Rogue City",
@@ -6975,7 +7107,7 @@
       "sizeBytes": 82678120448
     },
     {
-      "id": 3946470,
+      "id": 3958970,
       "catalogSlug": "",
       "titleId": "PPSA17597",
       "title": "Sonic X Shadow Generations Deluxe Edition",
@@ -7029,7 +7161,7 @@
       "sizeBytes": 39728447488
     },
     {
-      "id": 3946471,
+      "id": 3958971,
       "catalogSlug": "",
       "titleId": "PPSA16745",
       "title": "Nickelodeon All Star Brawl 2",
@@ -7071,7 +7203,7 @@
       "sizeBytes": 12884901888
     },
     {
-      "id": 3946472,
+      "id": 3958972,
       "catalogSlug": "",
       "titleId": "PPSA01649",
       "title": "Call of Duty Modern Warfare 3",
@@ -7125,7 +7257,7 @@
       "sizeBytes": 274877906944
     },
     {
-      "id": 3946473,
+      "id": 3958973,
       "catalogSlug": "",
       "titleId": "PPSA19534",
       "title": "Battlefield 6",
@@ -7159,7 +7291,7 @@
       "sizeBytes": 251255586816
     },
     {
-      "id": 3946474,
+      "id": 3958974,
       "catalogSlug": "",
       "titleId": "PPSA26785",
       "title": "NHL 26",
@@ -7193,7 +7325,7 @@
       "sizeBytes": 216895848448
     },
     {
-      "id": 3946475,
+      "id": 3958975,
       "catalogSlug": "",
       "titleId": "PPSA23012",
       "title": "Call of Duty Modern Warfare 2",
@@ -7247,7 +7379,7 @@
       "sizeBytes": 209379655680
     },
     {
-      "id": 3946476,
+      "id": 3958976,
       "catalogSlug": "",
       "titleId": "PPSA06406",
       "title": "LEGO Brawls",
@@ -7281,7 +7413,7 @@
       "sizeBytes": 4294967296
     },
     {
-      "id": 3946477,
+      "id": 3958977,
       "catalogSlug": "",
       "titleId": "PPSA18629",
       "title": "Master Detective Archives RAIN CODE Plus",
@@ -7315,7 +7447,7 @@
       "sizeBytes": 73014444032
     },
     {
-      "id": 3946478,
+      "id": 3958978,
       "catalogSlug": "",
       "titleId": "PPSA03639",
       "title": "BLEACH Rebirth of Souls Ultimate Edition",
@@ -7349,7 +7481,7 @@
       "sizeBytes": 82678120448
     },
     {
-      "id": 3946479,
+      "id": 3958979,
       "catalogSlug": "",
       "titleId": "PPSA17350",
       "title": "Dragon Quest X Offline",
@@ -7383,7 +7515,7 @@
       "sizeBytes": 37580963840
     },
     {
-      "id": 3946480,
+      "id": 3958980,
       "catalogSlug": "",
       "titleId": "PPSA31333",
       "title": "Yakuza Kiwami 2",
@@ -7417,7 +7549,7 @@
       "sizeBytes": 38654705664
     },
     {
-      "id": 3946481,
+      "id": 3958981,
       "catalogSlug": "",
       "titleId": "PPSA31334",
       "title": "Yakuza Kiwami",
@@ -7451,7 +7583,7 @@
       "sizeBytes": 22548578304
     },
     {
-      "id": 3946482,
+      "id": 3958982,
       "catalogSlug": "",
       "titleId": "PPSA31327",
       "title": "Yakuza 0 Directors Cut",
@@ -7485,7 +7617,7 @@
       "sizeBytes": 54760833024
     },
     {
-      "id": 3946483,
+      "id": 3958983,
       "catalogSlug": "",
       "titleId": "PPSA05666",
       "title": "Horizon Call of The Mountain",
@@ -7519,7 +7651,7 @@
       "sizeBytes": 84825604096
     },
     {
-      "id": 3946484,
+      "id": 3958984,
       "catalogSlug": "",
       "titleId": "PPSA17169",
       "title": "Hi Fi RUSH Deluxe Edition",
@@ -7549,7 +7681,7 @@
       "sizeBytes": 38654705664
     },
     {
-      "id": 3946485,
+      "id": 3958985,
       "catalogSlug": "",
       "titleId": "PPSA05921",
       "title": "The Dark Pictures Anthology The Devil in Me",
@@ -7595,7 +7727,7 @@
       "sizeBytes": 66571993088
     },
     {
-      "id": 3946486,
+      "id": 3958986,
       "catalogSlug": "",
       "titleId": "PPSA03683",
       "title": "Gungrave GORE",
@@ -7637,7 +7769,7 @@
       "sizeBytes": 50465865728
     },
     {
-      "id": 3946487,
+      "id": 3958987,
       "catalogSlug": "",
       "titleId": "PPSA06584",
       "title": "Ikai",
@@ -7671,7 +7803,7 @@
       "sizeBytes": 8589934592
     },
     {
-      "id": 3946488,
+      "id": 3958988,
       "catalogSlug": "",
       "titleId": "PPSA05057",
       "title": "Clash Artifacts of Chaos",
@@ -7705,7 +7837,7 @@
       "sizeBytes": 19327352832
     },
     {
-      "id": 3946489,
+      "id": 3958989,
       "catalogSlug": "",
       "titleId": "PPSA10053",
       "title": "Banishers Ghosts of New Eden",
@@ -7739,7 +7871,7 @@
       "sizeBytes": 120259084288
     },
     {
-      "id": 3946490,
+      "id": 3958990,
       "catalogSlug": "",
       "titleId": "PPSA10822",
       "title": "God of Rock",
@@ -7773,7 +7905,7 @@
       "sizeBytes": 5368709120
     },
     {
-      "id": 3946491,
+      "id": 3958991,
       "catalogSlug": "",
       "titleId": "PPSA09384",
       "title": "The Caligula Effect Overdose Deluxe Edition",
@@ -7807,7 +7939,7 @@
       "sizeBytes": 21474836480
     },
     {
-      "id": 3946492,
+      "id": 3958992,
       "catalogSlug": "",
       "titleId": "PPSA27625",
       "title": "Fantasy Life i The Girl Who Steals Time Deluxe Edition",
@@ -7841,7 +7973,7 @@
       "sizeBytes": 22548578304
     },
     {
-      "id": 3946493,
+      "id": 3958993,
       "catalogSlug": "",
       "titleId": "PPSA04716",
       "title": "Anno 1800 Console Deluxe Edition",
@@ -7875,7 +8007,7 @@
       "sizeBytes": 46170898432
     },
     {
-      "id": 3946494,
+      "id": 3958994,
       "catalogSlug": "",
       "titleId": "PPSA06464",
       "title": "Cult Of The Lamb The One Who Waits Edition",
@@ -7909,7 +8041,7 @@
       "sizeBytes": 3221225472
     },
     {
-      "id": 3946495,
+      "id": 3958995,
       "catalogSlug": "",
       "titleId": "PPSA32457",
       "title": "Ys X Proud Nordics Ultimate Edition",
@@ -7943,7 +8075,7 @@
       "sizeBytes": 15032385536
     },
     {
-      "id": 3946496,
+      "id": 3958996,
       "catalogSlug": "",
       "titleId": "PPSA06981",
       "title": "Naruto X Boruto Ultimate Ninja Storm Connections Deluxe Edition",
@@ -7977,7 +8109,7 @@
       "sizeBytes": 46170898432
     },
     {
-      "id": 3946497,
+      "id": 3958997,
       "catalogSlug": "",
       "titleId": "PPSA26311",
       "title": "Blades of Fire Deluxe Edition",
@@ -8011,7 +8143,7 @@
       "sizeBytes": 52613349376
     },
     {
-      "id": 3946498,
+      "id": 3958998,
       "catalogSlug": "",
       "titleId": "PPSA10240",
       "title": "Stroke The Snake",
@@ -8045,7 +8177,7 @@
       "sizeBytes": 306184192
     },
     {
-      "id": 3946499,
+      "id": 3958999,
       "catalogSlug": "",
       "titleId": "PPSA32557",
       "title": "MotoGP 26",
@@ -8099,7 +8231,7 @@
       "sizeBytes": 49392123904
     },
     {
-      "id": 3946500,
+      "id": 3959000,
       "catalogSlug": "",
       "titleId": "PPSA02262",
       "title": "Dying Light 2 Stay Human Ultimate Edition",
@@ -8133,7 +8265,7 @@
       "sizeBytes": 77309411328
     },
     {
-      "id": 3946501,
+      "id": 3959001,
       "catalogSlug": "",
       "titleId": "PPSA27305",
       "title": "Goosebumps Terror in Little Creek",
@@ -8167,7 +8299,7 @@
       "sizeBytes": 3221225472
     },
     {
-      "id": 3946502,
+      "id": 3959002,
       "catalogSlug": "",
       "titleId": "PPSA04460",
       "title": "The Last Stand Aftermath",
@@ -8201,7 +8333,7 @@
       "sizeBytes": 4294967296
     },
     {
-      "id": 3946503,
+      "id": 3959003,
       "catalogSlug": "",
       "titleId": "PPSA22946",
       "title": "LEGO Harry Potter Collection",
@@ -8235,7 +8367,7 @@
       "sizeBytes": 12884901888
     },
     {
-      "id": 3946504,
+      "id": 3959004,
       "catalogSlug": "",
       "titleId": "PPSA27366",
       "title": "AI LIMIT",
@@ -8269,7 +8401,7 @@
       "sizeBytes": 17179869184
     },
     {
-      "id": 3946505,
+      "id": 3959005,
       "catalogSlug": "",
       "titleId": "PPSA01619",
       "title": "Mortal Kombat 11 Ultimate Edition",
@@ -8303,7 +8435,7 @@
       "sizeBytes": 124554051584
     },
     {
-      "id": 3946506,
+      "id": 3959006,
       "catalogSlug": "",
       "titleId": "PPSA09664",
       "title": "Dragons Dogma 2 Deluxe Edition",
@@ -8337,7 +8469,7 @@
       "sizeBytes": 146028888064
     },
     {
-      "id": 3946507,
+      "id": 3959007,
       "catalogSlug": "",
       "titleId": "PPSA06225",
       "title": "The Quarry Deluxe Edition",
@@ -8371,7 +8503,7 @@
       "sizeBytes": 82678120448
     },
     {
-      "id": 3946508,
+      "id": 3959008,
       "catalogSlug": "",
       "titleId": "PPSA07862",
       "title": "Monster Hunter Wilds Premium Edition",
@@ -8413,7 +8545,7 @@
       "sizeBytes": 121332826112
     },
     {
-      "id": 3946509,
+      "id": 3959009,
       "catalogSlug": "",
       "titleId": "PPSA14002",
       "title": "Baldurs Gate 3 Deluxe Edition",
@@ -8447,7 +8579,7 @@
       "sizeBytes": 165356240896
     },
     {
-      "id": 3946510,
+      "id": 3959010,
       "catalogSlug": "",
       "titleId": "PPSA14457",
       "title": "Born of Bread",
@@ -8481,7 +8613,7 @@
       "sizeBytes": 6442450944
     },
     {
-      "id": 3946511,
+      "id": 3959011,
       "catalogSlug": "",
       "titleId": "PPSA06359",
       "title": "Jumping Flash",
@@ -8515,7 +8647,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946512,
+      "id": 3959012,
       "catalogSlug": "",
       "titleId": "PPSA06699",
       "title": "Everybodys Golf 2",
@@ -8549,7 +8681,7 @@
       "sizeBytes": 787480576
     },
     {
-      "id": 3946513,
+      "id": 3959013,
       "catalogSlug": "",
       "titleId": "PPSA16566",
       "title": "Romancing SaGa 2 Revenge of the Seven",
@@ -8591,7 +8723,7 @@
       "sizeBytes": 34359738368
     },
     {
-      "id": 3946514,
+      "id": 3959014,
       "catalogSlug": "",
       "titleId": "PPSA22711",
       "title": "Ed 0 Zombie Uprising",
@@ -8625,7 +8757,7 @@
       "sizeBytes": 17179869184
     },
     {
-      "id": 3946515,
+      "id": 3959015,
       "catalogSlug": "",
       "titleId": "PPSA09285",
       "title": "Hot Wheels Unleashed 2 Turbocharged",
@@ -8659,7 +8791,7 @@
       "sizeBytes": 51539607552
     },
     {
-      "id": 3946516,
+      "id": 3959016,
       "catalogSlug": "",
       "titleId": "PPSA25256",
       "title": "Carmen Sandiego Deluxe Edition",
@@ -8693,7 +8825,7 @@
       "sizeBytes": 3221225472
     },
     {
-      "id": 3946517,
+      "id": 3959017,
       "catalogSlug": "",
       "titleId": "PPSA04426",
       "title": "PGA TOUR 2K23",
@@ -8727,7 +8859,7 @@
       "sizeBytes": 15032385536
     },
     {
-      "id": 3946518,
+      "id": 3959018,
       "catalogSlug": "",
       "titleId": "PPSA22696",
       "title": "WWE 2K25 The Bloodline Edition",
@@ -8761,7 +8893,7 @@
       "sizeBytes": 295279001600
     },
     {
-      "id": 3946519,
+      "id": 3959019,
       "catalogSlug": "",
       "titleId": "PPSA21914",
       "title": "Undisputed Championship Edition",
@@ -8795,7 +8927,7 @@
       "sizeBytes": 19327352832
     },
     {
-      "id": 3946520,
+      "id": 3959020,
       "catalogSlug": "",
       "titleId": "PPSA07576",
       "title": "No More Heroes 3",
@@ -8829,7 +8961,7 @@
       "sizeBytes": 49392123904
     },
     {
-      "id": 3946521,
+      "id": 3959021,
       "catalogSlug": "",
       "titleId": "PPSA07372",
       "title": "Disney Pixar Toy Story 2 Buzz Lightyear to the Rescue",
@@ -8863,7 +8995,7 @@
       "sizeBytes": 3221225472
     },
     {
-      "id": 3946522,
+      "id": 3959022,
       "catalogSlug": "",
       "titleId": "PPSA13927",
       "title": "Tintin Reporter Cigars of The Pharaoh",
@@ -8897,7 +9029,7 @@
       "sizeBytes": 33285996544
     },
     {
-      "id": 3946523,
+      "id": 3959023,
       "catalogSlug": "",
       "titleId": "PPSA09135",
       "title": "Monster Energy Supercross The Official Videogame 6",
@@ -8931,7 +9063,7 @@
       "sizeBytes": 56908316672
     },
     {
-      "id": 3946524,
+      "id": 3959024,
       "catalogSlug": "",
       "titleId": "PPSA24203",
       "title": "The House of The Dead 2 Remake",
@@ -8965,7 +9097,7 @@
       "sizeBytes": 8589934592
     },
     {
-      "id": 3946525,
+      "id": 3959025,
       "catalogSlug": "",
       "titleId": "PPSA14677",
       "title": "Harvest Days",
@@ -8999,7 +9131,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946526,
+      "id": 3959026,
       "catalogSlug": "",
       "titleId": "PPSA26501",
       "title": "Hot Wheels Lets Race Ultimate Speed",
@@ -9041,7 +9173,7 @@
       "sizeBytes": 9663676416
     },
     {
-      "id": 3946527,
+      "id": 3959027,
       "catalogSlug": "",
       "titleId": "PPSA14196",
       "title": "Sker Ritual",
@@ -9083,7 +9215,7 @@
       "sizeBytes": 21474836480
     },
     {
-      "id": 3946528,
+      "id": 3959028,
       "catalogSlug": "",
       "titleId": "PPSA28329",
       "title": "RoboCop Rogue City Unfinished Business Deluxe Edition",
@@ -9117,7 +9249,7 @@
       "sizeBytes": 75161927680
     },
     {
-      "id": 3946529,
+      "id": 3959029,
       "catalogSlug": "",
       "titleId": "PPSA06693",
       "title": "Remnant 2 Ultimate Edition",
@@ -9151,7 +9283,7 @@
       "sizeBytes": 190052302848
     },
     {
-      "id": 3946530,
+      "id": 3959030,
       "catalogSlug": "",
       "titleId": "PPSA22520",
       "title": "Animal Well",
@@ -9185,7 +9317,7 @@
       "sizeBytes": 224395264
     },
     {
-      "id": 3946531,
+      "id": 3959031,
       "catalogSlug": "",
       "titleId": "PPSA04132",
       "title": "Samurai Maiden Deluxe Edition",
@@ -9219,7 +9351,7 @@
       "sizeBytes": 10737418240
     },
     {
-      "id": 3946532,
+      "id": 3959032,
       "catalogSlug": "",
       "titleId": "PPSA11002",
       "title": "Post Trauma",
@@ -9253,7 +9385,7 @@
       "sizeBytes": 17179869184
     },
     {
-      "id": 3946533,
+      "id": 3959033,
       "catalogSlug": "",
       "titleId": "PPSA20298",
       "title": "Shadow Labyrinth",
@@ -9287,7 +9419,7 @@
       "sizeBytes": 3221225472
     },
     {
-      "id": 3946534,
+      "id": 3959034,
       "catalogSlug": "",
       "titleId": "PPSA17337",
       "title": "Space Adventure Cobra The Awakening Gold Edition",
@@ -9321,7 +9453,7 @@
       "sizeBytes": 3221225472
     },
     {
-      "id": 3946535,
+      "id": 3959035,
       "catalogSlug": "",
       "titleId": "PPSA16786",
       "title": "Neva",
@@ -9355,7 +9487,7 @@
       "sizeBytes": 21474836480
     },
     {
-      "id": 3946536,
+      "id": 3959036,
       "catalogSlug": "",
       "titleId": "PPSA08394",
       "title": "R Type Final 3 Evolved",
@@ -9397,7 +9529,7 @@
       "sizeBytes": 44023414784
     },
     {
-      "id": 3946537,
+      "id": 3959037,
       "catalogSlug": "",
       "titleId": "PPSA26528",
       "title": "Code Violet",
@@ -9451,7 +9583,7 @@
       "sizeBytes": 89120571392
     },
     {
-      "id": 3946538,
+      "id": 3959038,
       "catalogSlug": "",
       "titleId": "PPSA30223",
       "title": "Yakuza Kiwami 3 and Dark Ties Deluxe Edition",
@@ -9485,7 +9617,7 @@
       "sizeBytes": 57982058496
     },
     {
-      "id": 3946539,
+      "id": 3959039,
       "catalogSlug": "",
       "titleId": "PPSA26786",
       "title": "Indiana Jones and The Great Circle",
@@ -9519,7 +9651,7 @@
       "sizeBytes": 246960619520
     },
     {
-      "id": 3946540,
+      "id": 3959040,
       "catalogSlug": "",
       "titleId": "PPSA16033",
       "title": "The Alters",
@@ -9553,7 +9685,7 @@
       "sizeBytes": 122406567936
     },
     {
-      "id": 3946541,
+      "id": 3959041,
       "catalogSlug": "",
       "titleId": "PPSA14708",
       "title": "Commandos Origins",
@@ -9587,7 +9719,7 @@
       "sizeBytes": 30064771072
     },
     {
-      "id": 3946542,
+      "id": 3959042,
       "catalogSlug": "",
       "titleId": "PPSA06438",
       "title": "Lets Build A Zoo Ultimate Edition",
@@ -9621,7 +9753,7 @@
       "sizeBytes": 956301312
     },
     {
-      "id": 3946543,
+      "id": 3959043,
       "catalogSlug": "",
       "titleId": "PPSA26354",
       "title": "TRIANGLE STRATEGY",
@@ -9655,7 +9787,7 @@
       "sizeBytes": 13958643712
     },
     {
-      "id": 3946544,
+      "id": 3959044,
       "catalogSlug": "",
       "titleId": "PPSA08587",
       "title": "Dragon Ball Xenoverse 2",
@@ -9689,7 +9821,7 @@
       "sizeBytes": 26843545600
     },
     {
-      "id": 3946545,
+      "id": 3959045,
       "catalogSlug": "",
       "titleId": "PPSA03859",
       "title": "MechWarrior 5 Mercenaries",
@@ -9723,7 +9855,7 @@
       "sizeBytes": 84825604096
     },
     {
-      "id": 3946546,
+      "id": 3959046,
       "catalogSlug": "",
       "titleId": "PPSA10906",
       "title": "Atelier Marie Remake The Alchemist of Salburg",
@@ -9757,7 +9889,7 @@
       "sizeBytes": 18253611008
     },
     {
-      "id": 3946547,
+      "id": 3959047,
       "catalogSlug": "",
       "titleId": "PPSA07421",
       "title": "Fate Samurai Remnant",
@@ -9791,7 +9923,7 @@
       "sizeBytes": 50465865728
     },
     {
-      "id": 3946548,
+      "id": 3959048,
       "catalogSlug": "",
       "titleId": "PPSA13711",
       "title": "Dolphin Spirit Ocean Mission",
@@ -9825,7 +9957,7 @@
       "sizeBytes": 942669824
     },
     {
-      "id": 3946549,
+      "id": 3959049,
       "catalogSlug": "",
       "titleId": "PPSA17245",
       "title": "Teenage Mutant Ninja Turtles Mutants Unleashed Deluxe Edition",
@@ -9859,7 +9991,7 @@
       "sizeBytes": 26843545600
     },
     {
-      "id": 3946550,
+      "id": 3959050,
       "catalogSlug": "",
       "titleId": "PPSA14427",
       "title": "Crymachina Deluxe Edition",
@@ -9901,7 +10033,7 @@
       "sizeBytes": 8589934592
     },
     {
-      "id": 3946551,
+      "id": 3959051,
       "catalogSlug": "",
       "titleId": "PPSA17181",
       "title": "LUTO",
@@ -9935,7 +10067,7 @@
       "sizeBytes": 23622320128
     },
     {
-      "id": 3946552,
+      "id": 3959052,
       "catalogSlug": "",
       "titleId": "PPSA17219",
       "title": "Disney Illusion Island Starring Mickey and Friends",
@@ -9989,7 +10121,7 @@
       "sizeBytes": 10737418240
     },
     {
-      "id": 3946553,
+      "id": 3959053,
       "catalogSlug": "",
       "titleId": "PPSA07382",
       "title": "Flintlock The Siege of Dawn",
@@ -10043,7 +10175,7 @@
       "sizeBytes": 25769803776
     },
     {
-      "id": 3946554,
+      "id": 3959054,
       "catalogSlug": "",
       "titleId": "PPSA19644",
       "title": "Farming Simulator 25",
@@ -10077,7 +10209,7 @@
       "sizeBytes": 46170898432
     },
     {
-      "id": 3946555,
+      "id": 3959055,
       "catalogSlug": "",
       "titleId": "PPSA16306",
       "title": "WWE 2K24 Forty Years of WrestleMania Edition",
@@ -10111,7 +10243,7 @@
       "sizeBytes": 91268055040
     },
     {
-      "id": 3946556,
+      "id": 3959056,
       "catalogSlug": "",
       "titleId": "PPSA08427",
       "title": "Killing Floor 3",
@@ -10145,7 +10277,7 @@
       "sizeBytes": 47244640256
     },
     {
-      "id": 3946557,
+      "id": 3959057,
       "catalogSlug": "",
       "titleId": "PPSA24179",
       "title": "Predator Hunting Grounds",
@@ -10179,7 +10311,7 @@
       "sizeBytes": 51539607552
     },
     {
-      "id": 3946558,
+      "id": 3959058,
       "catalogSlug": "",
       "titleId": "PPSA15246",
       "title": "Teardown",
@@ -10213,7 +10345,7 @@
       "sizeBytes": 3221225472
     },
     {
-      "id": 3946559,
+      "id": 3959059,
       "catalogSlug": "",
       "titleId": "PPSA17163",
       "title": "Jets N Guns 2",
@@ -10247,7 +10379,7 @@
       "sizeBytes": 779091968
     },
     {
-      "id": 3946560,
+      "id": 3959060,
       "catalogSlug": "",
       "titleId": "PPSA18172",
       "title": "One Last Breath",
@@ -10281,7 +10413,7 @@
       "sizeBytes": 9663676416
     },
     {
-      "id": 3946561,
+      "id": 3959061,
       "catalogSlug": "",
       "titleId": "PPSA16160",
       "title": "Monster Jam Showdown",
@@ -10315,7 +10447,7 @@
       "sizeBytes": 26843545600
     },
     {
-      "id": 3946562,
+      "id": 3959062,
       "catalogSlug": "",
       "titleId": "PPSA29343",
       "title": "Beast of Reincarnation Deluxe Edition",
@@ -10349,49 +10481,7 @@
       "sizeBytes": 67645734912
     },
     {
-      "id": 3946563,
-      "catalogSlug": "",
-      "titleId": "PPSA10595",
-      "title": "TEKKEN 8",
-      "version": "v03.000.001",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/TEKKEN_8.png",
-      "description": "Builds: DLC\nTags: PPSA10595, v03.000.001, USA to EUR Langs, 4.xx BackPort\nSize: 180GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: High-Speed007",
-      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/jar3Xlrbg32d/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/wRYx6HQlVi"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/40sllt1z0sx7"
-        },
-        {
-          "name": "Filek",
-          "url": "https://filekeeper.net/emwomycdmzbb"
-        },
-        {
-          "name": "Vault",
-          "url": "https://datavaults.co/78faw4pdlwbm"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/u8kktgjd1sry"
-        },
-        {
-          "name": "DLC - Filek",
-          "url": "https://filekeeper.net/njil33lz1cmy"
-        }
-      ],
-      "sizeBytes": 193273528320
-    },
-    {
-      "id": 3946564,
+      "id": 3959063,
       "catalogSlug": "",
       "titleId": "PPSA18528",
       "title": "Mighty Morphin Power Rangers Ritas Rewind",
@@ -10425,7 +10515,7 @@
       "sizeBytes": 771751936
     },
     {
-      "id": 3946565,
+      "id": 3959064,
       "catalogSlug": "",
       "titleId": "PPSA14632",
       "title": "LEGO Horizon Adventures",
@@ -10459,7 +10549,7 @@
       "sizeBytes": 28991029248
     },
     {
-      "id": 3946566,
+      "id": 3959065,
       "catalogSlug": "",
       "titleId": "PPSA07923",
       "title": "Tetris Effect Connected",
@@ -10493,7 +10583,7 @@
       "sizeBytes": 5368709120
     },
     {
-      "id": 3946567,
+      "id": 3959066,
       "catalogSlug": "",
       "titleId": "PPSA07906",
       "title": "Still Wakes the Deep The Complete Collection",
@@ -10527,7 +10617,7 @@
       "sizeBytes": 21474836480
     },
     {
-      "id": 3946568,
+      "id": 3959067,
       "catalogSlug": "",
       "titleId": "PPSA04987",
       "title": "Powerwash Simulator Ultimate Satisfaction",
@@ -10561,7 +10651,7 @@
       "sizeBytes": 15032385536
     },
     {
-      "id": 3946569,
+      "id": 3959068,
       "catalogSlug": "",
       "titleId": "PPSA17217",
       "title": "Jurassic Park Classic Games Collection",
@@ -10595,7 +10685,7 @@
       "sizeBytes": 2147483648
     },
     {
-      "id": 3946570,
+      "id": 3959069,
       "catalogSlug": "",
       "titleId": "PPSA03555",
       "title": "WWI Isonzo Ultimate Edition",
@@ -10629,7 +10719,7 @@
       "sizeBytes": 22548578304
     },
     {
-      "id": 3946571,
+      "id": 3959070,
       "catalogSlug": "",
       "titleId": "PPSA04379",
       "title": "Construction Simulator Gold Edition",
@@ -10663,7 +10753,7 @@
       "sizeBytes": 13958643712
     },
     {
-      "id": 3946572,
+      "id": 3959071,
       "catalogSlug": "",
       "titleId": "PPSA24662",
       "title": "F1 25",
@@ -10697,7 +10787,7 @@
       "sizeBytes": 80530636800
     },
     {
-      "id": 3946573,
+      "id": 3959072,
       "catalogSlug": "",
       "titleId": "PPSA04057",
       "title": "Ghostbusters Spirits Unleashed Ecto Edition",
@@ -10731,7 +10821,7 @@
       "sizeBytes": 35433480192
     },
     {
-      "id": 3946574,
+      "id": 3959073,
       "catalogSlug": "",
       "titleId": "PPSA01390",
       "title": "Dragon Age The Veilguard",
@@ -10773,7 +10863,7 @@
       "sizeBytes": 180388626432
     },
     {
-      "id": 3946575,
+      "id": 3959074,
       "catalogSlug": "",
       "titleId": "PPSA01593",
       "title": "Hogwarts Legacy",
@@ -10819,7 +10909,7 @@
       "sizeBytes": 221190815744
     },
     {
-      "id": 3946576,
+      "id": 3959075,
       "catalogSlug": "",
       "titleId": "PPSA02213",
       "title": "The King of Fighters XV",
@@ -10861,7 +10951,7 @@
       "sizeBytes": 123480309760
     },
     {
-      "id": 3946577,
+      "id": 3959076,
       "catalogSlug": "",
       "titleId": "PPSA08448",
       "title": "Asterix and Obelix XXXL The Ram From Hibernia",
@@ -10895,7 +10985,7 @@
       "sizeBytes": 6442450944
     },
     {
-      "id": 3946578,
+      "id": 3959077,
       "catalogSlug": "",
       "titleId": "PPSA16746",
       "title": "Asterix and Obelix Slap Them All 2",
@@ -10929,7 +11019,7 @@
       "sizeBytes": 2147483648
     },
     {
-      "id": 3946579,
+      "id": 3959078,
       "catalogSlug": "",
       "titleId": "PPSA07498",
       "title": "Asterix and Obelix XXL 3 The Crystal Menhir",
@@ -10963,7 +11053,7 @@
       "sizeBytes": 4294967296
     },
     {
-      "id": 3946580,
+      "id": 3959079,
       "catalogSlug": "",
       "titleId": "PPSA08162",
       "title": "Asterix and Obelix XXL Romastered",
@@ -10997,7 +11087,7 @@
       "sizeBytes": 6442450944
     },
     {
-      "id": 3946581,
+      "id": 3959080,
       "catalogSlug": "",
       "titleId": "PPSA08164",
       "title": "Asterix and Obelix XXL 2",
@@ -11031,7 +11121,7 @@
       "sizeBytes": 2147483648
     },
     {
-      "id": 3946582,
+      "id": 3959081,
       "catalogSlug": "",
       "titleId": "PPSA15671",
       "title": "Everspace 2 Complete Edition",
@@ -11073,7 +11163,7 @@
       "sizeBytes": 83751862272
     },
     {
-      "id": 3946583,
+      "id": 3959082,
       "catalogSlug": "",
       "titleId": "PPSA07148",
       "title": "The Outer Worlds Spacers Choice Edition",
@@ -11111,7 +11201,7 @@
       "sizeBytes": 112742891520
     },
     {
-      "id": 3946584,
+      "id": 3959083,
       "catalogSlug": "",
       "titleId": "PPSA01687",
       "title": "Call of Duty Vanguard",
@@ -11145,7 +11235,7 @@
       "sizeBytes": 149250113536
     },
     {
-      "id": 3946585,
+      "id": 3959084,
       "catalogSlug": "",
       "titleId": "PPSA18571",
       "title": "Teenage Mutant Ninja Turtles Arcade Wrath of The Mutants",
@@ -11179,7 +11269,7 @@
       "sizeBytes": 8589934592
     },
     {
-      "id": 3946586,
+      "id": 3959085,
       "catalogSlug": "",
       "titleId": "PPSA19345",
       "title": "Funko Fusion Deluxe Edition",
@@ -11213,7 +11303,7 @@
       "sizeBytes": 122406567936
     },
     {
-      "id": 3946587,
+      "id": 3959086,
       "catalogSlug": "",
       "titleId": "PPSA01969",
       "title": "Death Stranding Directors Cut",
@@ -11247,7 +11337,7 @@
       "sizeBytes": 124554051584
     },
     {
-      "id": 3946588,
+      "id": 3959087,
       "catalogSlug": "",
       "titleId": "PPSA03098",
       "title": "Dead Island 2 Ultimate Edition",
@@ -11281,7 +11371,7 @@
       "sizeBytes": 170724950016
     },
     {
-      "id": 3946589,
+      "id": 3959088,
       "catalogSlug": "",
       "titleId": "PPSA25859",
       "title": "EA Sports College Football 26",
@@ -11315,7 +11405,7 @@
       "sizeBytes": 106300440576
     },
     {
-      "id": 3946590,
+      "id": 3959089,
       "catalogSlug": "",
       "titleId": "PPSA04933",
       "title": "Who Wants To Be A Millionaire New Edition",
@@ -11349,7 +11439,7 @@
       "sizeBytes": 2147483648
     },
     {
-      "id": 3946591,
+      "id": 3959090,
       "catalogSlug": "",
       "titleId": "PPSA05849",
       "title": "Redout 2 Deluxe Edition",
@@ -11383,7 +11473,7 @@
       "sizeBytes": 47244640256
     },
     {
-      "id": 3946592,
+      "id": 3959091,
       "catalogSlug": "",
       "titleId": "PPSA16810",
       "title": "ARK Survival Ascended",
@@ -11417,7 +11507,7 @@
       "sizeBytes": 414464344064
     },
     {
-      "id": 3946593,
+      "id": 3959092,
       "catalogSlug": "",
       "titleId": "PPSA03686",
       "title": "Art of Rally",
@@ -11463,7 +11553,7 @@
       "sizeBytes": 4294967296
     },
     {
-      "id": 3946594,
+      "id": 3959093,
       "catalogSlug": "",
       "titleId": "PPSA28061",
       "title": "Earthion",
@@ -11497,7 +11587,7 @@
       "sizeBytes": 186646528
     },
     {
-      "id": 3946595,
+      "id": 3959094,
       "catalogSlug": "",
       "titleId": "PPSA17313",
       "title": "Choo Choo Charles",
@@ -11531,7 +11621,7 @@
       "sizeBytes": 4294967296
     },
     {
-      "id": 3946596,
+      "id": 3959095,
       "catalogSlug": "",
       "titleId": "PPSA30138",
       "title": "Fast and Furious Arcade Edition",
@@ -11565,7 +11655,7 @@
       "sizeBytes": 6442450944
     },
     {
-      "id": 3946597,
+      "id": 3959096,
       "catalogSlug": "",
       "titleId": "PPSA06381",
       "title": "Crime Boss Rockay City The Complete Collection",
@@ -11599,7 +11689,7 @@
       "sizeBytes": 146028888064
     },
     {
-      "id": 3946598,
+      "id": 3959097,
       "catalogSlug": "",
       "titleId": "PPSA04452",
       "title": "Warhammer 40000 Space Marine 2 Gold Edition",
@@ -11653,7 +11743,7 @@
       "sizeBytes": 109521666048
     },
     {
-      "id": 3946599,
+      "id": 3959098,
       "catalogSlug": "",
       "titleId": "PPSA09823",
       "title": "Wreckreation",
@@ -11687,7 +11777,7 @@
       "sizeBytes": 68719476736
     },
     {
-      "id": 3946600,
+      "id": 3959099,
       "catalogSlug": "",
       "titleId": "PPSA24515",
       "title": "Alone in The Dark 2 1996",
@@ -11721,7 +11811,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946601,
+      "id": 3959100,
       "catalogSlug": "",
       "titleId": "PPSA02798",
       "title": "Panda Hero Remastered",
@@ -11755,7 +11845,7 @@
       "sizeBytes": 586153984
     },
     {
-      "id": 3946602,
+      "id": 3959101,
       "catalogSlug": "",
       "titleId": "PPSA03847",
       "title": "Assetto Corsa Competizione",
@@ -11789,7 +11879,7 @@
       "sizeBytes": 19327352832
     },
     {
-      "id": 3946603,
+      "id": 3959102,
       "catalogSlug": "",
       "titleId": "PPSA04020",
       "title": "Arcadegeddon",
@@ -11823,7 +11913,7 @@
       "sizeBytes": 17179869184
     },
     {
-      "id": 3946604,
+      "id": 3959103,
       "catalogSlug": "",
       "titleId": "PPSA21159",
       "title": "Silent Hill f",
@@ -11865,7 +11955,7 @@
       "sizeBytes": 67645734912
     },
     {
-      "id": 3946605,
+      "id": 3959104,
       "catalogSlug": "",
       "titleId": "PPSA03603",
       "title": "Marvels Midnight Suns Enhanced Edition",
@@ -11919,7 +12009,7 @@
       "sizeBytes": 84825604096
     },
     {
-      "id": 3946606,
+      "id": 3959105,
       "catalogSlug": "",
       "titleId": "PPSA23760",
       "title": "Nikoderiko The Magical World Directors Cut",
@@ -11973,7 +12063,7 @@
       "sizeBytes": 21474836480
     },
     {
-      "id": 3946607,
+      "id": 3959106,
       "catalogSlug": "",
       "titleId": "PPSA21022",
       "title": "63 Days",
@@ -12027,7 +12117,7 @@
       "sizeBytes": 19327352832
     },
     {
-      "id": 3946608,
+      "id": 3959107,
       "catalogSlug": "",
       "titleId": "PPSA20154",
       "title": "Revenge of The Savage Planet",
@@ -12069,7 +12159,7 @@
       "sizeBytes": 24696061952
     },
     {
-      "id": 3946609,
+      "id": 3959108,
       "catalogSlug": "",
       "titleId": "PPSA26356",
       "title": "BUBBLE BOBBLE Sugar Dungeons",
@@ -12103,7 +12193,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946610,
+      "id": 3959109,
       "catalogSlug": "",
       "titleId": "PPSA09165",
       "title": "Rez Infinite",
@@ -12137,7 +12227,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946611,
+      "id": 3959110,
       "catalogSlug": "",
       "titleId": "PPSA01552",
       "title": "DiRT 5",
@@ -12171,7 +12261,7 @@
       "sizeBytes": 104152956928
     },
     {
-      "id": 3946612,
+      "id": 3959111,
       "catalogSlug": "",
       "titleId": "PPSA29629",
       "title": "Marvel Cosmic Invasion",
@@ -12205,7 +12295,7 @@
       "sizeBytes": 852492288
     },
     {
-      "id": 3946613,
+      "id": 3959112,
       "catalogSlug": "",
       "titleId": "PPSA07211",
       "title": "Super Woden GP",
@@ -12239,7 +12329,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946614,
+      "id": 3959113,
       "catalogSlug": "",
       "titleId": "PPSA12363",
       "title": "Gamedec Definitive Edition",
@@ -12273,7 +12363,7 @@
       "sizeBytes": 15032385536
     },
     {
-      "id": 3946615,
+      "id": 3959114,
       "catalogSlug": "",
       "titleId": "PPSA07393",
       "title": "Gori Cuddly Carnage",
@@ -12327,7 +12417,7 @@
       "sizeBytes": 25769803776
     },
     {
-      "id": 3946616,
+      "id": 3959115,
       "catalogSlug": "",
       "titleId": "PPSA10112",
       "title": "SILENT HILL The Short Message",
@@ -12361,7 +12451,7 @@
       "sizeBytes": 19327352832
     },
     {
-      "id": 3946617,
+      "id": 3959116,
       "catalogSlug": "",
       "titleId": "PPSA21085",
       "title": "Selfloss",
@@ -12395,7 +12485,7 @@
       "sizeBytes": 3221225472
     },
     {
-      "id": 3946618,
+      "id": 3959117,
       "catalogSlug": "",
       "titleId": "PPSA20955",
       "title": "The Exit 9",
@@ -12429,7 +12519,7 @@
       "sizeBytes": 5368709120
     },
     {
-      "id": 3946619,
+      "id": 3959118,
       "catalogSlug": "",
       "titleId": "PPSA28099",
       "title": "Life is Strange Reunion",
@@ -12471,7 +12561,7 @@
       "sizeBytes": 47244640256
     },
     {
-      "id": 3946620,
+      "id": 3959119,
       "catalogSlug": "",
       "titleId": "PPSA16387",
       "title": "Hitman World of Assassination Deluxe Edition",
@@ -12505,7 +12595,7 @@
       "sizeBytes": 139586437120
     },
     {
-      "id": 3946621,
+      "id": 3959120,
       "catalogSlug": "",
       "titleId": "PPSA25319",
       "title": "MotoGP 25",
@@ -12539,7 +12629,7 @@
       "sizeBytes": 47244640256
     },
     {
-      "id": 3946622,
+      "id": 3959121,
       "catalogSlug": "",
       "titleId": "PPSA24884",
       "title": "Starfield",
@@ -12581,7 +12671,7 @@
       "sizeBytes": 233001975808
     },
     {
-      "id": 3946623,
+      "id": 3959122,
       "catalogSlug": "",
       "titleId": "PPSA30568",
       "title": "Invincible VS",
@@ -12615,7 +12705,7 @@
       "sizeBytes": 19327352832
     },
     {
-      "id": 3946624,
+      "id": 3959123,
       "catalogSlug": "",
       "titleId": "PPSA32393",
       "title": "Total Chaos",
@@ -12649,7 +12739,7 @@
       "sizeBytes": 13958643712
     },
     {
-      "id": 3946625,
+      "id": 3959124,
       "catalogSlug": "",
       "titleId": "PPSA27765",
       "title": "Agatha Christie Death on The Nile",
@@ -12683,7 +12773,7 @@
       "sizeBytes": 25769803776
     },
     {
-      "id": 3946626,
+      "id": 3959125,
       "catalogSlug": "",
       "titleId": "PPSA27640",
       "title": "Beneath",
@@ -12717,7 +12807,7 @@
       "sizeBytes": 27917287424
     },
     {
-      "id": 3946627,
+      "id": 3959126,
       "catalogSlug": "",
       "titleId": "PPSA04203",
       "title": "Sid Meiers Civilization VII Founders Edition",
@@ -12751,7 +12841,7 @@
       "sizeBytes": 24696061952
     },
     {
-      "id": 3946628,
+      "id": 3959127,
       "catalogSlug": "",
       "titleId": "PPSA20560",
       "title": "DOOM The Dark Ages",
@@ -12793,7 +12883,7 @@
       "sizeBytes": 175019917312
     },
     {
-      "id": 3946629,
+      "id": 3959128,
       "catalogSlug": "",
       "titleId": "PPSA21840",
       "title": "GreedFall The Dying World",
@@ -12835,7 +12925,7 @@
       "sizeBytes": 54760833024
     },
     {
-      "id": 3946630,
+      "id": 3959129,
       "catalogSlug": "",
       "titleId": "PPSA32802",
       "title": "Fatal Frame 2 Crimson Butterfly Remake Deluxe Edition",
@@ -12869,7 +12959,7 @@
       "sizeBytes": 33285996544
     },
     {
-      "id": 3946631,
+      "id": 3959130,
       "catalogSlug": "",
       "titleId": "PPSA20548",
       "title": "Eriksholm The Stolen Dream",
@@ -12903,7 +12993,7 @@
       "sizeBytes": 24696061952
     },
     {
-      "id": 3946632,
+      "id": 3959131,
       "catalogSlug": "",
       "titleId": "PPSA02110",
       "title": "No Mans Sky",
@@ -12937,7 +13027,7 @@
       "sizeBytes": 26843545600
     },
     {
-      "id": 3946633,
+      "id": 3959132,
       "catalogSlug": "",
       "titleId": "PPSA04734",
       "title": "MX vs ATV Legends 2025 Ultimate Edition",
@@ -12971,7 +13061,7 @@
       "sizeBytes": 123480309760
     },
     {
-      "id": 3946634,
+      "id": 3959133,
       "catalogSlug": "",
       "titleId": "PPSA21837",
       "title": "Lollipop Chainsaw RePoP",
@@ -13025,7 +13115,7 @@
       "sizeBytes": 38654705664
     },
     {
-      "id": 3946635,
+      "id": 3959134,
       "catalogSlug": "",
       "titleId": "PPSA28209",
       "title": "MindsEye",
@@ -13071,7 +13161,7 @@
       "sizeBytes": 94489280512
     },
     {
-      "id": 3946636,
+      "id": 3959135,
       "catalogSlug": "",
       "titleId": "PPSA28068",
       "title": "Mortal Kombat Legacy Kollection",
@@ -13105,7 +13195,7 @@
       "sizeBytes": 13958643712
     },
     {
-      "id": 3946637,
+      "id": 3959136,
       "catalogSlug": "",
       "titleId": "PPSA22420",
       "title": "Blacksad Under The Skin",
@@ -13159,7 +13249,7 @@
       "sizeBytes": 16106127360
     },
     {
-      "id": 3946638,
+      "id": 3959137,
       "catalogSlug": "",
       "titleId": "PPSA19990",
       "title": "Tales of Graces F Remastered",
@@ -13213,7 +13303,7 @@
       "sizeBytes": 12884901888
     },
     {
-      "id": 3946639,
+      "id": 3959138,
       "catalogSlug": "",
       "titleId": "PPSA20289",
       "title": "Kong Survivor Instinct",
@@ -13267,7 +13357,7 @@
       "sizeBytes": 19327352832
     },
     {
-      "id": 3946640,
+      "id": 3959139,
       "catalogSlug": "",
       "titleId": "PPSA34823",
       "title": "New Super Luckys Tale",
@@ -13301,7 +13391,7 @@
       "sizeBytes": 5368709120
     },
     {
-      "id": 3946641,
+      "id": 3959140,
       "catalogSlug": "",
       "titleId": "PPSA04109",
       "title": "Aeterna Noctis",
@@ -13335,7 +13425,7 @@
       "sizeBytes": 4294967296
     },
     {
-      "id": 3946642,
+      "id": 3959141,
       "catalogSlug": "",
       "titleId": "PPSA02967",
       "title": "Deep Rock Galactic",
@@ -13377,7 +13467,7 @@
       "sizeBytes": 5368709120
     },
     {
-      "id": 3946643,
+      "id": 3959142,
       "catalogSlug": "",
       "titleId": "PPSA02508",
       "title": "Evil Inside",
@@ -13411,7 +13501,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946644,
+      "id": 3959143,
       "catalogSlug": "",
       "titleId": "PPSA21704",
       "title": "Kingdom Come Deliverance 2 Royal Edition",
@@ -13465,7 +13555,7 @@
       "sizeBytes": 173946175488
     },
     {
-      "id": 3946645,
+      "id": 3959144,
       "catalogSlug": "",
       "titleId": "PPSA01575",
       "title": "Avatar Frontiers of Pandora Complete Edition",
@@ -13499,7 +13589,7 @@
       "sizeBytes": 342523641856
     },
     {
-      "id": 3946646,
+      "id": 3959145,
       "catalogSlug": "",
       "titleId": "PPSA03233",
       "title": "Stranger of Paradise Final Fantasy Origin Deluxe Edition",
@@ -13533,7 +13623,7 @@
       "sizeBytes": 96636764160
     },
     {
-      "id": 3946647,
+      "id": 3959146,
       "catalogSlug": "",
       "titleId": "PPSA15065",
       "title": "Cat Quest 3",
@@ -13567,7 +13657,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946648,
+      "id": 3959147,
       "catalogSlug": "",
       "titleId": "PPSA28002",
       "title": "Ninja Gaiden Ragebound",
@@ -13601,7 +13691,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946649,
+      "id": 3959148,
       "catalogSlug": "",
       "titleId": "PPSA19769",
       "title": "Two Point Museum",
@@ -13647,7 +13737,7 @@
       "sizeBytes": 5368709120
     },
     {
-      "id": 3946650,
+      "id": 3959149,
       "catalogSlug": "",
       "titleId": "PPSA03984",
       "title": "Forspoken",
@@ -13701,7 +13791,7 @@
       "sizeBytes": 227633266688
     },
     {
-      "id": 3946651,
+      "id": 3959150,
       "catalogSlug": "",
       "titleId": "PPSA12771",
       "title": "Horizon Chase 2",
@@ -13735,7 +13825,7 @@
       "sizeBytes": 12884901888
     },
     {
-      "id": 3946652,
+      "id": 3959151,
       "catalogSlug": "",
       "titleId": "PPSA13790",
       "title": "NASCAR Arcade Rush",
@@ -13769,7 +13859,7 @@
       "sizeBytes": 18253611008
     },
     {
-      "id": 3946653,
+      "id": 3959152,
       "catalogSlug": "",
       "titleId": "PPSA06409",
       "title": "Arcade Spirits The New Challengers",
@@ -13803,7 +13893,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946654,
+      "id": 3959153,
       "catalogSlug": "",
       "titleId": "PPSA10600",
       "title": "Ad Infinitum",
@@ -13837,7 +13927,7 @@
       "sizeBytes": 38654705664
     },
     {
-      "id": 3946655,
+      "id": 3959154,
       "catalogSlug": "",
       "titleId": "PPSA09614",
       "title": "Graven",
@@ -13871,7 +13961,7 @@
       "sizeBytes": 6442450944
     },
     {
-      "id": 3946656,
+      "id": 3959155,
       "catalogSlug": "",
       "titleId": "PPSA22999",
       "title": "Love is all around",
@@ -13905,7 +13995,7 @@
       "sizeBytes": 20401094656
     },
     {
-      "id": 3946657,
+      "id": 3959156,
       "catalogSlug": "",
       "titleId": "PPSA25381",
       "title": "ELDEN RING NIGHTREIGN Deluxe Edition",
@@ -13939,7 +14029,7 @@
       "sizeBytes": 59055800320
     },
     {
-      "id": 3946658,
+      "id": 3959157,
       "catalogSlug": "",
       "titleId": "PPSA01695",
       "title": "Back 4 Blood Ultimate Edition",
@@ -13973,7 +14063,7 @@
       "sizeBytes": 114890375168
     },
     {
-      "id": 3946659,
+      "id": 3959158,
       "catalogSlug": "",
       "titleId": "PPSA10695",
       "title": "Atomic Heart Premium Edition",
@@ -14007,7 +14097,7 @@
       "sizeBytes": 122406567936
     },
     {
-      "id": 3946660,
+      "id": 3959159,
       "catalogSlug": "",
       "titleId": "PPSA07411",
       "title": "Resident Evil 4 Gold Edition",
@@ -14053,7 +14143,7 @@
       "sizeBytes": 134217728000
     },
     {
-      "id": 3946661,
+      "id": 3959160,
       "catalogSlug": "",
       "titleId": "PPSA08102",
       "title": "Outer Wilds",
@@ -14087,7 +14177,7 @@
       "sizeBytes": 11811160064
     },
     {
-      "id": 3946662,
+      "id": 3959161,
       "catalogSlug": "",
       "titleId": "PPSA09569",
       "title": "Jagged Alliance 3",
@@ -14121,7 +14211,7 @@
       "sizeBytes": 17179869184
     },
     {
-      "id": 3946663,
+      "id": 3959162,
       "catalogSlug": "",
       "titleId": "PPSA17330",
       "title": "RollerCoaster Tycoon Adventures Deluxe",
@@ -14167,7 +14257,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946664,
+      "id": 3959163,
       "catalogSlug": "",
       "titleId": "PPSA25872",
       "title": "Terminator 2D NO FATE",
@@ -14201,7 +14291,7 @@
       "sizeBytes": 802160640
     },
     {
-      "id": 3946665,
+      "id": 3959164,
       "catalogSlug": "",
       "titleId": "PPSA15368",
       "title": "Contra Operation Galuga",
@@ -14235,7 +14325,7 @@
       "sizeBytes": 15032385536
     },
     {
-      "id": 3946666,
+      "id": 3959165,
       "catalogSlug": "",
       "titleId": "PPSA25646",
       "title": "Tetris Forever",
@@ -14269,7 +14359,7 @@
       "sizeBytes": 5368709120
     },
     {
-      "id": 3946667,
+      "id": 3959166,
       "catalogSlug": "",
       "titleId": "PPSA29714",
       "title": "BlazBlue Entropy Effect X Deluxe Edition",
@@ -14303,7 +14393,7 @@
       "sizeBytes": 16106127360
     },
     {
-      "id": 3946668,
+      "id": 3959167,
       "catalogSlug": "",
       "titleId": "PPSA01631",
       "title": "Marvels Avengers Definitive Edition",
@@ -14337,7 +14427,7 @@
       "sizeBytes": 386547056640
     },
     {
-      "id": 3946669,
+      "id": 3959168,
       "catalogSlug": "",
       "titleId": "PPSA17949",
       "title": "Plumbers Dont Wear Ties Definitive Edition",
@@ -14383,7 +14473,7 @@
       "sizeBytes": 8589934592
     },
     {
-      "id": 3946670,
+      "id": 3959169,
       "catalogSlug": "",
       "titleId": "PPSA09090",
       "title": "Lunar Lander Beyond",
@@ -14417,7 +14507,7 @@
       "sizeBytes": 7516192768
     },
     {
-      "id": 3946671,
+      "id": 3959170,
       "catalogSlug": "",
       "titleId": "PPSA28609",
       "title": "Bendy Lone Wolf",
@@ -14471,7 +14561,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946672,
+      "id": 3959171,
       "catalogSlug": "",
       "titleId": "PPSA14376",
       "title": "UFO Robot Grendizer The Feast of The Wolves Deluxe Edition",
@@ -14505,7 +14595,7 @@
       "sizeBytes": 6442450944
     },
     {
-      "id": 3946673,
+      "id": 3959172,
       "catalogSlug": "",
       "titleId": "PPSA19461",
       "title": "SHINOBI Art of Vengeance",
@@ -14547,7 +14637,7 @@
       "sizeBytes": 10737418240
     },
     {
-      "id": 3946674,
+      "id": 3959173,
       "catalogSlug": "",
       "titleId": "PPSA20450",
       "title": "KAGE Shadow of The Ninja",
@@ -14581,7 +14671,7 @@
       "sizeBytes": 2147483648
     },
     {
-      "id": 3946675,
+      "id": 3959174,
       "catalogSlug": "",
       "titleId": "PPSA08546",
       "title": "Flashback 2",
@@ -14615,7 +14705,7 @@
       "sizeBytes": 12884901888
     },
     {
-      "id": 3946676,
+      "id": 3959175,
       "catalogSlug": "",
       "titleId": "PPSA03644",
       "title": "t Campus",
@@ -14649,7 +14739,7 @@
       "sizeBytes": 3221225472
     },
     {
-      "id": 3946677,
+      "id": 3959176,
       "catalogSlug": "",
       "titleId": "PPSA21112",
       "title": "TEVI",
@@ -14683,7 +14773,7 @@
       "sizeBytes": 3221225472
     },
     {
-      "id": 3946678,
+      "id": 3959177,
       "catalogSlug": "",
       "titleId": "PPSA17630",
       "title": "F1 24",
@@ -14717,7 +14807,7 @@
       "sizeBytes": 60129542144
     },
     {
-      "id": 3946679,
+      "id": 3959178,
       "catalogSlug": "",
       "titleId": "PPSA17465",
       "title": "Barbie Project Friendship",
@@ -14751,7 +14841,7 @@
       "sizeBytes": 3221225472
     },
     {
-      "id": 3946680,
+      "id": 3959179,
       "catalogSlug": "",
       "titleId": "PPSA30140",
       "title": "Syberia Remastered",
@@ -14785,7 +14875,7 @@
       "sizeBytes": 21474836480
     },
     {
-      "id": 3946681,
+      "id": 3959180,
       "catalogSlug": "",
       "titleId": "PPSA27676",
       "title": "Painkiller",
@@ -14827,7 +14917,7 @@
       "sizeBytes": 46170898432
     },
     {
-      "id": 3946682,
+      "id": 3959181,
       "catalogSlug": "",
       "titleId": "PPSA31977",
       "title": "Darksiders Warmastered Edition",
@@ -14861,7 +14951,7 @@
       "sizeBytes": 28991029248
     },
     {
-      "id": 3946683,
+      "id": 3959182,
       "catalogSlug": "",
       "titleId": "PPSA06108",
       "title": "In Nightmare",
@@ -14895,7 +14985,7 @@
       "sizeBytes": 15032385536
     },
     {
-      "id": 3946684,
+      "id": 3959183,
       "catalogSlug": "",
       "titleId": "PPSA06927",
       "title": "Warhammer Age of Sigmar Realms of Ruin Deluxe Edition",
@@ -14949,7 +15039,7 @@
       "sizeBytes": 23622320128
     },
     {
-      "id": 3946685,
+      "id": 3959184,
       "catalogSlug": "",
       "titleId": "PPSA28855",
       "title": "Totally Reliable Delivery Service",
@@ -14983,7 +15073,7 @@
       "sizeBytes": 4294967296
     },
     {
-      "id": 3946686,
+      "id": 3959185,
       "catalogSlug": "",
       "titleId": "PPSA24381",
       "title": "The Thing Remastered",
@@ -15017,7 +15107,7 @@
       "sizeBytes": 4294967296
     },
     {
-      "id": 3946687,
+      "id": 3959186,
       "catalogSlug": "",
       "titleId": "PPSA24560",
       "title": "Turok 2 Seeds of Evil",
@@ -15051,7 +15141,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946688,
+      "id": 3959187,
       "catalogSlug": "",
       "titleId": "PPSA24558",
       "title": "Turok",
@@ -15085,7 +15175,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946689,
+      "id": 3959188,
       "catalogSlug": "",
       "titleId": "PPSA26097",
       "title": "Yooka Replaylee",
@@ -15119,7 +15209,7 @@
       "sizeBytes": 26843545600
     },
     {
-      "id": 3946690,
+      "id": 3959189,
       "catalogSlug": "",
       "titleId": "PPSA25286",
       "title": "Crimson Desert Deluxe Edition",
@@ -15177,7 +15267,7 @@
       "sizeBytes": 165356240896
     },
     {
-      "id": 3946691,
+      "id": 3959190,
       "catalogSlug": "",
       "titleId": "PPSA17231",
       "title": "SpellForce Conquest of Eo",
@@ -15211,7 +15301,7 @@
       "sizeBytes": 8589934592
     },
     {
-      "id": 3946692,
+      "id": 3959191,
       "catalogSlug": "",
       "titleId": "PPSA32785",
       "title": "Nioh 3 Deluxe Edition",
@@ -15245,7 +15335,7 @@
       "sizeBytes": 170724950016
     },
     {
-      "id": 3946693,
+      "id": 3959192,
       "catalogSlug": "",
       "titleId": "PPSA26358",
       "title": "Lost Soul Aside",
@@ -15287,7 +15377,7 @@
       "sizeBytes": 173946175488
     },
     {
-      "id": 3946694,
+      "id": 3959193,
       "catalogSlug": "",
       "titleId": "PPSA10528",
       "title": "Prince of Persia: The Lost Crown Complete Edition",
@@ -15349,7 +15439,7 @@
       "sizeBytes": 61203283968
     },
     {
-      "id": 3946695,
+      "id": 3959194,
       "catalogSlug": "",
       "titleId": "PPSA06888",
       "title": "Sonic Superstars",
@@ -15403,7 +15493,7 @@
       "sizeBytes": 10737418240
     },
     {
-      "id": 3946696,
+      "id": 3959195,
       "catalogSlug": "",
       "titleId": "PPSA30490",
       "title": "Asterix and Obelix Babylon Mission",
@@ -15457,7 +15547,7 @@
       "sizeBytes": 4294967296
     },
     {
-      "id": 3946697,
+      "id": 3959196,
       "catalogSlug": "",
       "titleId": "PPSA17732",
       "title": "The Precinct",
@@ -15491,7 +15581,7 @@
       "sizeBytes": 8589934592
     },
     {
-      "id": 3946698,
+      "id": 3959197,
       "catalogSlug": "",
       "titleId": "PPSA19359",
       "title": "FATAL FURY: City of the Wolves",
@@ -15549,7 +15639,7 @@
       "sizeBytes": 65498251264
     },
     {
-      "id": 3946699,
+      "id": 3959198,
       "catalogSlug": "",
       "titleId": "PPSA03286",
       "title": "Jurassic World Evolution 2 Premium Edition",
@@ -15583,7 +15673,7 @@
       "sizeBytes": 17179869184
     },
     {
-      "id": 3946700,
+      "id": 3959199,
       "catalogSlug": "",
       "titleId": "PPSA14501",
       "title": "Brothers A Tale of Two Sons Remake",
@@ -15637,7 +15727,7 @@
       "sizeBytes": 28991029248
     },
     {
-      "id": 3946701,
+      "id": 3959200,
       "catalogSlug": "",
       "titleId": "PPSA28542",
       "title": "Gex Trilogy",
@@ -15671,7 +15761,7 @@
       "sizeBytes": 3221225472
     },
     {
-      "id": 3946702,
+      "id": 3959201,
       "catalogSlug": "",
       "titleId": "PPSA01628",
       "title": "Call of Duty Black Ops Cold War",
@@ -15713,7 +15803,7 @@
       "sizeBytes": 652835028992
     },
     {
-      "id": 3946703,
+      "id": 3959202,
       "catalogSlug": "",
       "titleId": "PPSA04539",
       "title": "Rise of The Ronin",
@@ -15755,7 +15845,7 @@
       "sizeBytes": 235149459456
     },
     {
-      "id": 3946704,
+      "id": 3959203,
       "catalogSlug": "",
       "titleId": "PPSA06389",
       "title": "System Shock",
@@ -15789,7 +15879,7 @@
       "sizeBytes": 8589934592
     },
     {
-      "id": 3946705,
+      "id": 3959204,
       "catalogSlug": "",
       "titleId": "PPSA03712",
       "title": "Puzzle Bobble 3D Vacation Odyssey",
@@ -15823,7 +15913,7 @@
       "sizeBytes": 11811160064
     },
     {
-      "id": 3946706,
+      "id": 3959205,
       "catalogSlug": "",
       "titleId": "PPSA24157",
       "title": "My First Gran Turismo",
@@ -15857,7 +15947,7 @@
       "sizeBytes": 25769803776
     },
     {
-      "id": 3946707,
+      "id": 3959206,
       "catalogSlug": "",
       "titleId": "PPSA04814",
       "title": "Outcast A New Beginning",
@@ -15891,7 +15981,7 @@
       "sizeBytes": 53687091200
     },
     {
-      "id": 3946708,
+      "id": 3959207,
       "catalogSlug": "",
       "titleId": "PPSA06426",
       "title": "The Invincible",
@@ -15925,7 +16015,7 @@
       "sizeBytes": 26843545600
     },
     {
-      "id": 3946709,
+      "id": 3959208,
       "catalogSlug": "",
       "titleId": "PPSA16738",
       "title": "Transformer Galactic Trails",
@@ -15959,7 +16049,7 @@
       "sizeBytes": 12884901888
     },
     {
-      "id": 3946710,
+      "id": 3959209,
       "catalogSlug": "",
       "titleId": "PPSA14264",
       "title": "Transformers Earthspark Expedition",
@@ -15993,7 +16083,7 @@
       "sizeBytes": 15032385536
     },
     {
-      "id": 3946711,
+      "id": 3959210,
       "catalogSlug": "",
       "titleId": "PPSA05521",
       "title": "PAW Patrol Grand Prix",
@@ -16027,7 +16117,7 @@
       "sizeBytes": 2147483648
     },
     {
-      "id": 3946712,
+      "id": 3959211,
       "catalogSlug": "",
       "titleId": "PPSA09190",
       "title": "PAW Patrol World",
@@ -16061,7 +16151,7 @@
       "sizeBytes": 8589934592
     },
     {
-      "id": 3946713,
+      "id": 3959212,
       "catalogSlug": "",
       "titleId": "PPSA18037",
       "title": "Star Trek Resurgence",
@@ -16095,7 +16185,7 @@
       "sizeBytes": 16106127360
     },
     {
-      "id": 3946714,
+      "id": 3959213,
       "catalogSlug": "",
       "titleId": "PPSA13715",
       "title": "STAR OCEAN THE SECOND STORY R",
@@ -16129,49 +16219,7 @@
       "sizeBytes": 16106127360
     },
     {
-      "id": 3946715,
-      "catalogSlug": "",
-      "titleId": "PPSA27360",
-      "title": "EA SPORTS FC 26",
-      "version": "v01.000.018",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/FC26.jpg",
-      "description": "Builds: DLC\nTags: PPSA27360, v01.000.018, USA, 4.xx BackPort\nSize: 182GB\nCredits: Files: DUPLEX; Backport: ManwonHp\nHow to play: Must be installed the DLC Unlock for play, mandatory.",
-      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/2bJG80xL7GOB/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/ifyLSiAAxJ"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/qljofixnbel3"
-        },
-        {
-          "name": "Filek",
-          "url": "https://filekeeper.net/riz4kiwdtivg"
-        },
-        {
-          "name": "Vault",
-          "url": "https://datavaults.co/11lghmotlzha"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/ly1itpmh7thz"
-        },
-        {
-          "name": "DLC - Filek",
-          "url": "https://filekeeper.net/2asuv3n45p1y"
-        }
-      ],
-      "sizeBytes": 195421011968
-    },
-    {
-      "id": 3946716,
+      "id": 3959214,
       "catalogSlug": "",
       "titleId": "PPSA22380",
       "title": "Poppy Playtime Chapter 3",
@@ -16205,7 +16253,7 @@
       "sizeBytes": 33285996544
     },
     {
-      "id": 3946717,
+      "id": 3959215,
       "catalogSlug": "",
       "titleId": "PPSA07631",
       "title": "SAROS",
@@ -16247,7 +16295,7 @@
       "sizeBytes": 162135015424
     },
     {
-      "id": 3946718,
+      "id": 3959216,
       "catalogSlug": "",
       "titleId": "PPSA05991",
       "title": "Cygni All Guns Blazing",
@@ -16281,7 +16329,7 @@
       "sizeBytes": 53687091200
     },
     {
-      "id": 3946719,
+      "id": 3959217,
       "catalogSlug": "",
       "titleId": "PPSA11132",
       "title": "Ape Academy 2",
@@ -16315,7 +16363,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946720,
+      "id": 3959218,
       "catalogSlug": "",
       "titleId": "PPSA06320",
       "title": "Ape Escape",
@@ -16349,7 +16397,7 @@
       "sizeBytes": 2147483648
     },
     {
-      "id": 3946721,
+      "id": 3959219,
       "catalogSlug": "",
       "titleId": "PPSA11128",
       "title": "Ape Escape P",
@@ -16383,7 +16431,7 @@
       "sizeBytes": 998244352
     },
     {
-      "id": 3946722,
+      "id": 3959220,
       "catalogSlug": "",
       "titleId": "PPSA15209",
       "title": "SPY X ANYA Operation Memories Deluxe Edition",
@@ -16417,7 +16465,7 @@
       "sizeBytes": 11811160064
     },
     {
-      "id": 3946723,
+      "id": 3959221,
       "catalogSlug": "",
       "titleId": "PPSA09509",
       "title": "System of Souls",
@@ -16451,7 +16499,7 @@
       "sizeBytes": 2147483648
     },
     {
-      "id": 3946724,
+      "id": 3959222,
       "catalogSlug": "",
       "titleId": "PPSA19624",
       "title": "Bum Simulator",
@@ -16485,7 +16533,7 @@
       "sizeBytes": 8589934592
     },
     {
-      "id": 3946725,
+      "id": 3959223,
       "catalogSlug": "",
       "titleId": "PPSA03977",
       "title": "The Witcher 3 Wild Hunt Complete Edition",
@@ -16519,7 +16567,7 @@
       "sizeBytes": 126701535232
     },
     {
-      "id": 3946726,
+      "id": 3959224,
       "catalogSlug": "",
       "titleId": "PPSA20800",
       "title": "Metaphor ReFantazio",
@@ -16573,7 +16621,7 @@
       "sizeBytes": 76235669504
     },
     {
-      "id": 3946727,
+      "id": 3959225,
       "catalogSlug": "",
       "titleId": "PPSA03524",
       "title": "Grand Theft Auto San Andreas The Definitive Edition",
@@ -16607,7 +16655,7 @@
       "sizeBytes": 23622320128
     },
     {
-      "id": 3946728,
+      "id": 3959226,
       "catalogSlug": "",
       "titleId": "PPSA03530",
       "title": "Grand Theft Auto Vice City The Definitive Edition",
@@ -16641,7 +16689,7 @@
       "sizeBytes": 10737418240
     },
     {
-      "id": 3946729,
+      "id": 3959227,
       "catalogSlug": "",
       "titleId": "PPSA03527",
       "title": "Grand Theft Auto 3 The Definitive Edition",
@@ -16675,7 +16723,7 @@
       "sizeBytes": 5368709120
     },
     {
-      "id": 3946730,
+      "id": 3959228,
       "catalogSlug": "",
       "titleId": "PPSA06092",
       "title": "EA Sports WRC",
@@ -16709,7 +16757,7 @@
       "sizeBytes": 224412041216
     },
     {
-      "id": 3946731,
+      "id": 3959229,
       "catalogSlug": "",
       "titleId": "PPSA04184",
       "title": "EA SPORTS College Football 25",
@@ -16743,7 +16791,7 @@
       "sizeBytes": 63350767616
     },
     {
-      "id": 3946732,
+      "id": 3959230,
       "catalogSlug": "",
       "titleId": "PPSA02846",
       "title": "Spacebase Startopia Extended Edition",
@@ -16777,7 +16825,7 @@
       "sizeBytes": 11811160064
     },
     {
-      "id": 3946733,
+      "id": 3959231,
       "catalogSlug": "",
       "titleId": "PPSA09477",
       "title": "Quake 2",
@@ -16811,7 +16859,7 @@
       "sizeBytes": 2147483648
     },
     {
-      "id": 3946734,
+      "id": 3959232,
       "catalogSlug": "",
       "titleId": "PPSA01880",
       "title": "Quake",
@@ -16845,7 +16893,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946735,
+      "id": 3959233,
       "catalogSlug": "",
       "titleId": "PPSA09911",
       "title": "Ghostrunner 2",
@@ -16879,7 +16927,7 @@
       "sizeBytes": 30064771072
     },
     {
-      "id": 3946736,
+      "id": 3959234,
       "catalogSlug": "",
       "titleId": "PPSA01462",
       "title": "Borderlands 3",
@@ -16913,7 +16961,7 @@
       "sizeBytes": 107374182400
     },
     {
-      "id": 3946737,
+      "id": 3959235,
       "catalogSlug": "",
       "titleId": "PPSA15657",
       "title": "Disney Epic Mickey Rebrushed",
@@ -16955,7 +17003,7 @@
       "sizeBytes": 37580963840
     },
     {
-      "id": 3946738,
+      "id": 3959236,
       "catalogSlug": "",
       "titleId": "PPSA03210",
       "title": "Ghost of Tsushima Directors Cut",
@@ -16997,7 +17045,7 @@
       "sizeBytes": 119185342464
     },
     {
-      "id": 3946739,
+      "id": 3959237,
       "catalogSlug": "",
       "titleId": "PPSA06369",
       "title": "The Eternal Cylinder",
@@ -17031,7 +17079,7 @@
       "sizeBytes": 13958643712
     },
     {
-      "id": 3946740,
+      "id": 3959238,
       "catalogSlug": "",
       "titleId": "PPSA04263",
       "title": "Grand Theft Auto V",
@@ -17065,7 +17113,7 @@
       "sizeBytes": 103079215104
     },
     {
-      "id": 3946741,
+      "id": 3959239,
       "catalogSlug": "",
       "titleId": "PPSA06568",
       "title": "Sword Art Online Fractured Daydream",
@@ -17107,7 +17155,7 @@
       "sizeBytes": 80530636800
     },
     {
-      "id": 3946742,
+      "id": 3959240,
       "catalogSlug": "",
       "titleId": "PPSA10829",
       "title": "Mothmen 1966",
@@ -17141,7 +17189,7 @@
       "sizeBytes": 745537536
     },
     {
-      "id": 3946743,
+      "id": 3959241,
       "catalogSlug": "",
       "titleId": "PPSA13871",
       "title": "Neko Rescue Tale",
@@ -17187,7 +17235,7 @@
       "sizeBytes": 217055232
     },
     {
-      "id": 3946744,
+      "id": 3959242,
       "catalogSlug": "",
       "titleId": "PPSA09706",
       "title": "Persona 5 Tactica Deluxe Edition",
@@ -17241,7 +17289,7 @@
       "sizeBytes": 25769803776
     },
     {
-      "id": 3946745,
+      "id": 3959243,
       "catalogSlug": "",
       "titleId": "PPSA15929",
       "title": "Bud Spencer Terence Hill Slaps And Beans 2",
@@ -17275,7 +17323,7 @@
       "sizeBytes": 3221225472
     },
     {
-      "id": 3946746,
+      "id": 3959244,
       "catalogSlug": "",
       "titleId": "PPSA02494",
       "title": "Doraemon Story OF Seasons Friends of The Great Kingdom",
@@ -17309,7 +17357,7 @@
       "sizeBytes": 2147483648
     },
     {
-      "id": 3946747,
+      "id": 3959245,
       "catalogSlug": "",
       "titleId": "PPSA26873",
       "title": "Monster Hunter Stories 3 Twisted Reflection",
@@ -17343,7 +17391,7 @@
       "sizeBytes": 79456894976
     },
     {
-      "id": 3946748,
+      "id": 3959246,
       "catalogSlug": "",
       "titleId": "PPSA01443",
       "title": "Devil May Cry 5 Special Edition",
@@ -17385,7 +17433,7 @@
       "sizeBytes": 67645734912
     },
     {
-      "id": 3946749,
+      "id": 3959247,
       "catalogSlug": "",
       "titleId": "PPSA05518",
       "title": "Gigantosaurus Dino Kart",
@@ -17419,7 +17467,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946750,
+      "id": 3959248,
       "catalogSlug": "",
       "titleId": "PPSA01530",
       "title": "Puyo Puyo Tetris 2",
@@ -17453,7 +17501,7 @@
       "sizeBytes": 5368709120
     },
     {
-      "id": 3946751,
+      "id": 3959249,
       "catalogSlug": "",
       "titleId": "PPSA13553",
       "title": "Greyhill Incident",
@@ -17487,7 +17535,7 @@
       "sizeBytes": 5368709120
     },
     {
-      "id": 3946752,
+      "id": 3959250,
       "catalogSlug": "",
       "titleId": "PPSA15350",
       "title": "Trepang2",
@@ -17521,7 +17569,7 @@
       "sizeBytes": 27917287424
     },
     {
-      "id": 3946753,
+      "id": 3959251,
       "catalogSlug": "",
       "titleId": "PPSA10050",
       "title": "Saga of Sins",
@@ -17575,7 +17623,7 @@
       "sizeBytes": 9663676416
     },
     {
-      "id": 3946754,
+      "id": 3959252,
       "catalogSlug": "",
       "titleId": "PPSA02015",
       "title": "Death Stranding 2 On The Beach",
@@ -17609,7 +17657,7 @@
       "sizeBytes": 170724950016
     },
     {
-      "id": 3946755,
+      "id": 3959253,
       "catalogSlug": "",
       "titleId": "PPSA03416",
       "title": "Summer Sports Games 4K Edition",
@@ -17643,7 +17691,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946756,
+      "id": 3959254,
       "catalogSlug": "",
       "titleId": "PPSA07809",
       "title": "Crisis Core Final Fantasy VII Reunion",
@@ -17697,7 +17745,7 @@
       "sizeBytes": 36507222016
     },
     {
-      "id": 3946757,
+      "id": 3959255,
       "catalogSlug": "",
       "titleId": "PPSA03026",
       "title": "The Forgotten City",
@@ -17731,7 +17779,7 @@
       "sizeBytes": 26843545600
     },
     {
-      "id": 3946758,
+      "id": 3959256,
       "catalogSlug": "",
       "titleId": "PPSA09804",
       "title": "GRIS",
@@ -17777,7 +17825,7 @@
       "sizeBytes": 6442450944
     },
     {
-      "id": 3946759,
+      "id": 3959257,
       "catalogSlug": "",
       "titleId": "PPSA09149",
       "title": "The Crown of Wu",
@@ -17811,7 +17859,7 @@
       "sizeBytes": 21474836480
     },
     {
-      "id": 3946760,
+      "id": 3959258,
       "catalogSlug": "",
       "titleId": "PPSA03491",
       "title": "Super Sami Roll",
@@ -17845,7 +17893,7 @@
       "sizeBytes": 3221225472
     },
     {
-      "id": 3946761,
+      "id": 3959259,
       "catalogSlug": "",
       "titleId": "PPSA07117",
       "title": "Unpacking",
@@ -17879,7 +17927,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946762,
+      "id": 3959260,
       "catalogSlug": "",
       "titleId": "PPSA25153",
       "title": "Jurassic World Evolution 3",
@@ -17921,7 +17969,7 @@
       "sizeBytes": 22548578304
     },
     {
-      "id": 3946763,
+      "id": 3959261,
       "catalogSlug": "",
       "titleId": "PPSA05424",
       "title": "World War Z Aftermath",
@@ -17975,7 +18023,7 @@
       "sizeBytes": 39728447488
     },
     {
-      "id": 3946764,
+      "id": 3959262,
       "catalogSlug": "",
       "titleId": "PPSA02210",
       "title": "KeyWe",
@@ -18009,7 +18057,7 @@
       "sizeBytes": 2147483648
     },
     {
-      "id": 3946765,
+      "id": 3959263,
       "catalogSlug": "",
       "titleId": "PPSA29866",
       "title": "Tomba 2 The Evil Swine Return Special Edition",
@@ -18043,7 +18091,7 @@
       "sizeBytes": 5368709120
     },
     {
-      "id": 3946766,
+      "id": 3959264,
       "catalogSlug": "",
       "titleId": "PPSA21382",
       "title": "Tomba Special Edition",
@@ -18077,7 +18125,7 @@
       "sizeBytes": 4294967296
     },
     {
-      "id": 3946767,
+      "id": 3959265,
       "catalogSlug": "",
       "titleId": "PPSA30797",
       "title": "KAKU Ancient Seal",
@@ -18111,7 +18159,7 @@
       "sizeBytes": 27917287424
     },
     {
-      "id": 3946768,
+      "id": 3959266,
       "catalogSlug": "",
       "titleId": "PPSA08601",
       "title": "Atari 50 The Anniversary Celebration Expanded Edition",
@@ -18145,7 +18193,7 @@
       "sizeBytes": 18253611008
     },
     {
-      "id": 3946769,
+      "id": 3959267,
       "catalogSlug": "",
       "titleId": "PPSA02716",
       "title": "RiMS Racing",
@@ -18179,7 +18227,7 @@
       "sizeBytes": 17179869184
     },
     {
-      "id": 3946770,
+      "id": 3959268,
       "catalogSlug": "",
       "titleId": "PPSA21444",
       "title": "DOOM + DOOM II",
@@ -18213,7 +18261,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946771,
+      "id": 3959269,
       "catalogSlug": "",
       "titleId": "PPSA11541",
       "title": "STORY OF SEASONS A Wonderful Life",
@@ -18247,7 +18295,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946772,
+      "id": 3959270,
       "catalogSlug": "",
       "titleId": "PPSA15645",
       "title": "Castlevania Dominus Collection",
@@ -18281,7 +18329,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946773,
+      "id": 3959271,
       "catalogSlug": "",
       "titleId": "PPSA15493",
       "title": "Atomfall Complete Edition",
@@ -18315,7 +18363,7 @@
       "sizeBytes": 37580963840
     },
     {
-      "id": 3946774,
+      "id": 3959272,
       "catalogSlug": "",
       "titleId": "PPSA16265",
       "title": "Like A Dragon Gaiden The Man Who Erased His Name Deluxe Edition",
@@ -18349,7 +18397,7 @@
       "sizeBytes": 71940702208
     },
     {
-      "id": 3946775,
+      "id": 3959273,
       "catalogSlug": "",
       "titleId": "PPSA16019",
       "title": "Double Dragon Gaiden Rise of The Dragons",
@@ -18383,7 +18431,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946776,
+      "id": 3959274,
       "catalogSlug": "",
       "titleId": "PPSA04243",
       "title": "Breathedge",
@@ -18417,7 +18465,7 @@
       "sizeBytes": 8589934592
     },
     {
-      "id": 3946777,
+      "id": 3959275,
       "catalogSlug": "",
       "titleId": "PPSA09243",
       "title": "MLB The Show 23",
@@ -18451,7 +18499,7 @@
       "sizeBytes": 180388626432
     },
     {
-      "id": 3946778,
+      "id": 3959276,
       "catalogSlug": "",
       "titleId": "PPSA02813",
       "title": "Saints Row Gold Edition",
@@ -18485,7 +18533,7 @@
       "sizeBytes": 80530636800
     },
     {
-      "id": 3946779,
+      "id": 3959277,
       "catalogSlug": "",
       "titleId": "PPSA24478",
       "title": "Like A Dragon Pirate Yakuza in Hawaii Deluxe Edition",
@@ -18519,7 +18567,7 @@
       "sizeBytes": 65498251264
     },
     {
-      "id": 3946780,
+      "id": 3959278,
       "catalogSlug": "",
       "titleId": "PPSA03541",
       "title": "EA Sports UFC 5",
@@ -18573,7 +18621,7 @@
       "sizeBytes": 119185342464
     },
     {
-      "id": 3946781,
+      "id": 3959279,
       "catalogSlug": "",
       "titleId": "PPSA23806",
       "title": "Darksiders 2 Deathinitive Edition",
@@ -18607,7 +18655,7 @@
       "sizeBytes": 21474836480
     },
     {
-      "id": 3946782,
+      "id": 3959280,
       "catalogSlug": "",
       "titleId": "PPSA17841",
       "title": "Unknown 9 Awakening Deluxe Edition",
@@ -18641,7 +18689,7 @@
       "sizeBytes": 62277025792
     },
     {
-      "id": 3946783,
+      "id": 3959281,
       "catalogSlug": "",
       "titleId": "PPSA03744",
       "title": "Soul Hackers 2 Premium Edition",
@@ -18675,7 +18723,7 @@
       "sizeBytes": 40802189312
     },
     {
-      "id": 3946784,
+      "id": 3959282,
       "catalogSlug": "",
       "titleId": "PPSA02740",
       "title": "Judgment",
@@ -18709,7 +18757,7 @@
       "sizeBytes": 35433480192
     },
     {
-      "id": 3946785,
+      "id": 3959283,
       "catalogSlug": "",
       "titleId": "PPSA05684",
       "title": "Uncharted Legacy of Thieves Collection",
@@ -18743,7 +18791,7 @@
       "sizeBytes": 159987531776
     },
     {
-      "id": 3946786,
+      "id": 3959284,
       "catalogSlug": "",
       "titleId": "PPSA20723",
       "title": "REYNATIS Deluxe Edition",
@@ -18777,7 +18825,7 @@
       "sizeBytes": 13958643712
     },
     {
-      "id": 3946787,
+      "id": 3959285,
       "catalogSlug": "",
       "titleId": "PPSA13427",
       "title": "Horizon Zero Dawn Remastered",
@@ -18831,7 +18879,7 @@
       "sizeBytes": 144955146240
     },
     {
-      "id": 3946788,
+      "id": 3959286,
       "catalogSlug": "",
       "titleId": "PPSA06215",
       "title": "Outward Definitive Edition",
@@ -18865,7 +18913,7 @@
       "sizeBytes": 28991029248
     },
     {
-      "id": 3946789,
+      "id": 3959287,
       "catalogSlug": "",
       "titleId": "PPSA03355",
       "title": "Hades",
@@ -18899,7 +18947,7 @@
       "sizeBytes": 8589934592
     },
     {
-      "id": 3946790,
+      "id": 3959288,
       "catalogSlug": "",
       "titleId": "PPSA02849",
       "title": "Greak Memories of Azur",
@@ -18933,7 +18981,7 @@
       "sizeBytes": 3221225472
     },
     {
-      "id": 3946791,
+      "id": 3959289,
       "catalogSlug": "",
       "titleId": "PPSA02777",
       "title": "Syberia The World Before",
@@ -18967,7 +19015,7 @@
       "sizeBytes": 18253611008
     },
     {
-      "id": 3946792,
+      "id": 3959290,
       "catalogSlug": "",
       "titleId": "PPSA27624",
       "title": "Bendy and the Dark Revival",
@@ -19001,7 +19049,7 @@
       "sizeBytes": 8589934592
     },
     {
-      "id": 3946793,
+      "id": 3959291,
       "catalogSlug": "",
       "titleId": "PPSA19936",
       "title": "Turok 3 Shadow of Oblivion",
@@ -19035,7 +19083,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946794,
+      "id": 3959292,
       "catalogSlug": "",
       "titleId": "PPSA27616",
       "title": "Bendy and The Ink Machine",
@@ -19069,7 +19117,7 @@
       "sizeBytes": 3221225472
     },
     {
-      "id": 3946795,
+      "id": 3959293,
       "catalogSlug": "",
       "titleId": "PPSA09904",
       "title": "NAIAD",
@@ -19103,7 +19151,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946796,
+      "id": 3959294,
       "catalogSlug": "",
       "titleId": "PPSA05265",
       "title": "A Memoir Blue",
@@ -19157,7 +19205,7 @@
       "sizeBytes": 3221225472
     },
     {
-      "id": 3946797,
+      "id": 3959295,
       "catalogSlug": "",
       "titleId": "PPSA01668",
       "title": "Super Monkey Ball Banana Mania",
@@ -19211,7 +19259,7 @@
       "sizeBytes": 3221225472
     },
     {
-      "id": 3946798,
+      "id": 3959296,
       "catalogSlug": "",
       "titleId": "PPSA06433",
       "title": "Like a Dragon Infinite Wealth",
@@ -19245,7 +19293,7 @@
       "sizeBytes": 88046829568
     },
     {
-      "id": 3946799,
+      "id": 3959297,
       "catalogSlug": "",
       "titleId": "PPSA02453",
       "title": "Subnautica",
@@ -19279,7 +19327,7 @@
       "sizeBytes": 6442450944
     },
     {
-      "id": 3946800,
+      "id": 3959298,
       "catalogSlug": "",
       "titleId": "PPSA02484",
       "title": "Nioh Remastered The Complete Edition",
@@ -19313,7 +19361,7 @@
       "sizeBytes": 79456894976
     },
     {
-      "id": 3946801,
+      "id": 3959299,
       "catalogSlug": "",
       "titleId": "PPSA01981",
       "title": "DOOM Eternal",
@@ -19355,7 +19403,7 @@
       "sizeBytes": 89120571392
     },
     {
-      "id": 3946802,
+      "id": 3959300,
       "catalogSlug": "",
       "titleId": "PPSA09076",
       "title": "Dredge",
@@ -19409,7 +19457,7 @@
       "sizeBytes": 936378368
     },
     {
-      "id": 3946803,
+      "id": 3959301,
       "catalogSlug": "",
       "titleId": "PPSA06084",
       "title": "Superliminal",
@@ -19463,7 +19511,7 @@
       "sizeBytes": 15032385536
     },
     {
-      "id": 3946804,
+      "id": 3959302,
       "catalogSlug": "",
       "titleId": "PPSA02182",
       "title": "Suicide Squad Kill The Justice League",
@@ -19497,7 +19545,7 @@
       "sizeBytes": 236223201280
     },
     {
-      "id": 3946805,
+      "id": 3959303,
       "catalogSlug": "",
       "titleId": "PPSA01532",
       "title": "Assassins Creed Valhalla Complete Edition",
@@ -19531,7 +19579,7 @@
       "sizeBytes": 316753838080
     },
     {
-      "id": 3946806,
+      "id": 3959304,
       "catalogSlug": "",
       "titleId": "PPSA05721",
       "title": "Wytchwood",
@@ -19565,7 +19613,7 @@
       "sizeBytes": 2147483648
     },
     {
-      "id": 3946807,
+      "id": 3959305,
       "catalogSlug": "",
       "titleId": "PPSA24864",
       "title": "The Midnight Walk",
@@ -19599,7 +19647,7 @@
       "sizeBytes": 31138512896
     },
     {
-      "id": 3946808,
+      "id": 3959306,
       "catalogSlug": "",
       "titleId": "PPSA04181",
       "title": "HOA",
@@ -19633,7 +19681,7 @@
       "sizeBytes": 3221225472
     },
     {
-      "id": 3946809,
+      "id": 3959307,
       "catalogSlug": "",
       "titleId": "PPSA02721",
       "title": "Neptunia Reverse",
@@ -19667,7 +19715,7 @@
       "sizeBytes": 11811160064
     },
     {
-      "id": 3946810,
+      "id": 3959308,
       "catalogSlug": "",
       "titleId": "PPSA03157",
       "title": "EXODEMON",
@@ -19701,7 +19749,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946811,
+      "id": 3959309,
       "catalogSlug": "",
       "titleId": "PPSA04170",
       "title": "Evil Genius 2 World Domination",
@@ -19735,7 +19783,7 @@
       "sizeBytes": 16106127360
     },
     {
-      "id": 3946812,
+      "id": 3959310,
       "catalogSlug": "",
       "titleId": "PPSA01374",
       "title": "Riders Republic",
@@ -19769,7 +19817,7 @@
       "sizeBytes": 34359738368
     },
     {
-      "id": 3946813,
+      "id": 3959311,
       "catalogSlug": "",
       "titleId": "PPSA25258",
       "title": "Ninja Gaiden 4",
@@ -19823,7 +19871,7 @@
       "sizeBytes": 68719476736
     },
     {
-      "id": 3946814,
+      "id": 3959312,
       "catalogSlug": "",
       "titleId": "PPSA04220",
       "title": "JoJos Bizarre Adventure All Star Battle R",
@@ -19857,7 +19905,7 @@
       "sizeBytes": 5368709120
     },
     {
-      "id": 3946815,
+      "id": 3959313,
       "catalogSlug": "",
       "titleId": "PPSA02604",
       "title": "Bibi and Tina At The Horse Farm",
@@ -19891,7 +19939,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946816,
+      "id": 3959314,
       "catalogSlug": "",
       "titleId": "PPSA02121",
       "title": "Cris Tales",
@@ -19925,7 +19973,7 @@
       "sizeBytes": 6442450944
     },
     {
-      "id": 3946817,
+      "id": 3959315,
       "catalogSlug": "",
       "titleId": "PPSA02527",
       "title": "Kitaria Fables",
@@ -19959,7 +20007,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946818,
+      "id": 3959316,
       "catalogSlug": "",
       "titleId": "PPSA01693",
       "title": "Lost in Random",
@@ -19993,7 +20041,7 @@
       "sizeBytes": 7516192768
     },
     {
-      "id": 3946819,
+      "id": 3959317,
       "catalogSlug": "",
       "titleId": "PPSA04930",
       "title": "SnowRunner",
@@ -20027,7 +20075,7 @@
       "sizeBytes": 65498251264
     },
     {
-      "id": 3946820,
+      "id": 3959318,
       "catalogSlug": "",
       "titleId": "PPSA08576",
       "title": "Asterix and Obelix Slap Them All",
@@ -20081,7 +20129,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946821,
+      "id": 3959319,
       "catalogSlug": "",
       "titleId": "PPSA06774",
       "title": "Armored Core 6 Fires of Rubicon",
@@ -20115,7 +20163,7 @@
       "sizeBytes": 105226698752
     },
     {
-      "id": 3946822,
+      "id": 3959320,
       "catalogSlug": "",
       "titleId": "PPSA26576",
       "title": "Tour de France 2025",
@@ -20149,7 +20197,7 @@
       "sizeBytes": 50465865728
     },
     {
-      "id": 3946823,
+      "id": 3959321,
       "catalogSlug": "",
       "titleId": "PPSA07257",
       "title": "Gotham Knights",
@@ -20183,7 +20231,7 @@
       "sizeBytes": 85899345920
     },
     {
-      "id": 3946824,
+      "id": 3959322,
       "catalogSlug": "",
       "titleId": "PPSA01500",
       "title": "Watch Dogs Legion",
@@ -20217,7 +20265,7 @@
       "sizeBytes": 119185342464
     },
     {
-      "id": 3946825,
+      "id": 3959323,
       "catalogSlug": "",
       "titleId": "PPSA01886",
       "title": "Evergate",
@@ -20251,7 +20299,7 @@
       "sizeBytes": 3221225472
     },
     {
-      "id": 3946826,
+      "id": 3959324,
       "catalogSlug": "",
       "titleId": "PPSA05398",
       "title": "Destroy All Humans 2 Reprobed",
@@ -20285,7 +20333,7 @@
       "sizeBytes": 104152956928
     },
     {
-      "id": 3946827,
+      "id": 3959325,
       "catalogSlug": "",
       "titleId": "PPSA03775",
       "title": "Lost Judgment",
@@ -20319,7 +20367,7 @@
       "sizeBytes": 61203283968
     },
     {
-      "id": 3946828,
+      "id": 3959326,
       "catalogSlug": "",
       "titleId": "PPSA03865",
       "title": "GRID Legends",
@@ -20353,7 +20401,7 @@
       "sizeBytes": 41875931136
     },
     {
-      "id": 3946829,
+      "id": 3959327,
       "catalogSlug": "",
       "titleId": "PPSA05324",
       "title": "Sonic Origins Plus",
@@ -20387,7 +20435,7 @@
       "sizeBytes": 6442450944
     },
     {
-      "id": 3946830,
+      "id": 3959328,
       "catalogSlug": "",
       "titleId": "PPSA02211",
       "title": "Scarlet Nexus",
@@ -20421,7 +20469,7 @@
       "sizeBytes": 35433480192
     },
     {
-      "id": 3946831,
+      "id": 3959329,
       "catalogSlug": "",
       "titleId": "PPSA02384",
       "title": "Yakuza Like A Dragon",
@@ -20455,7 +20503,7 @@
       "sizeBytes": 53687091200
     },
     {
-      "id": 3946832,
+      "id": 3959330,
       "catalogSlug": "",
       "titleId": "PPSA01685",
       "title": "Sniper Elite 5",
@@ -20485,7 +20533,7 @@
       "sizeBytes": 114890375168
     },
     {
-      "id": 3946833,
+      "id": 3959331,
       "catalogSlug": "",
       "titleId": "PPSA17232",
       "title": "Sniper Elite Resistance",
@@ -20511,7 +20559,7 @@
       "sizeBytes": 64424509440
     },
     {
-      "id": 3946834,
+      "id": 3959332,
       "catalogSlug": "",
       "titleId": "PPSA07580",
       "title": "WRC Generations",
@@ -20537,7 +20585,7 @@
       "sizeBytes": 84825604096
     },
     {
-      "id": 3946835,
+      "id": 3959333,
       "catalogSlug": "",
       "titleId": "PPSA15302",
       "title": "NBA 2K24",
@@ -20563,7 +20611,7 @@
       "sizeBytes": 365072220160
     },
     {
-      "id": 3946836,
+      "id": 3959334,
       "catalogSlug": "",
       "titleId": "PPSA01870",
       "title": "Far Cry 6",
@@ -20589,7 +20637,7 @@
       "sizeBytes": 192199786496
     },
     {
-      "id": 3946837,
+      "id": 3959335,
       "catalogSlug": "",
       "titleId": "PPSA01507",
       "title": "Immortals Fenyx Rising",
@@ -20615,7 +20663,7 @@
       "sizeBytes": 61203283968
     },
     {
-      "id": 3946838,
+      "id": 3959336,
       "catalogSlug": "",
       "titleId": "PPSA01670",
       "title": "DEATHLOOP Deluxe Edition",
@@ -20653,7 +20701,7 @@
       "sizeBytes": 77309411328
     },
     {
-      "id": 3946839,
+      "id": 3959337,
       "catalogSlug": "",
       "titleId": "PPSA07783",
       "title": "Star Wars Jedi Survivor",
@@ -20679,7 +20727,7 @@
       "sizeBytes": 333933707264
     },
     {
-      "id": 3946840,
+      "id": 3959338,
       "catalogSlug": "",
       "titleId": "PPSA24701",
       "title": "Digimon Story Time Stranger",
@@ -20705,7 +20753,7 @@
       "sizeBytes": 61203283968
     },
     {
-      "id": 3946841,
+      "id": 3959339,
       "catalogSlug": "",
       "titleId": "PPSA02395",
       "title": "Metro Exodus Complete Edition",
@@ -20731,7 +20779,7 @@
       "sizeBytes": 82678120448
     },
     {
-      "id": 3946842,
+      "id": 3959340,
       "catalogSlug": "",
       "titleId": "PPSA07230",
       "title": "Assassins Creed Mirage",
@@ -20769,7 +20817,7 @@
       "sizeBytes": 122406567936
     },
     {
-      "id": 3946843,
+      "id": 3959341,
       "catalogSlug": "",
       "titleId": "PPSA13195",
       "title": "Stellar Blade",
@@ -20807,7 +20855,7 @@
       "sizeBytes": 96636764160
     },
     {
-      "id": 3946844,
+      "id": 3959342,
       "catalogSlug": "",
       "titleId": "PPSA21783",
       "title": "FINAL FANTASY TACTICS The Ivalice Chronicles",
@@ -20833,7 +20881,7 @@
       "sizeBytes": 17179869184
     },
     {
-      "id": 3946845,
+      "id": 3959343,
       "catalogSlug": "",
       "titleId": "PPSA03647",
       "title": "3D MiniGolf",
@@ -20859,7 +20907,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946846,
+      "id": 3959344,
       "catalogSlug": "",
       "titleId": "PPSA19244",
       "title": "The Oregon Trail",
@@ -20885,7 +20933,7 @@
       "sizeBytes": 4294967296
     },
     {
-      "id": 3946847,
+      "id": 3959345,
       "catalogSlug": "",
       "titleId": "PPSA03839",
       "title": "Tactics Ogre: Reborn",
@@ -20911,7 +20959,7 @@
       "sizeBytes": 8589934592
     },
     {
-      "id": 3946848,
+      "id": 3959346,
       "catalogSlug": "",
       "titleId": "PPSA08194",
       "title": "Asterigos Curse of The Stars",
@@ -20937,7 +20985,7 @@
       "sizeBytes": 10737418240
     },
     {
-      "id": 3946849,
+      "id": 3959347,
       "catalogSlug": "",
       "titleId": "PPSA02385",
       "title": "Farming Simulator 22",
@@ -20963,7 +21011,7 @@
       "sizeBytes": 25769803776
     },
     {
-      "id": 3946850,
+      "id": 3959348,
       "catalogSlug": "",
       "titleId": "PPSA05132",
       "title": "Sifu",
@@ -20989,7 +21037,7 @@
       "sizeBytes": 20401094656
     },
     {
-      "id": 3946851,
+      "id": 3959349,
       "catalogSlug": "",
       "titleId": "PPSA02457",
       "title": "Subnautica Below Zero",
@@ -21015,7 +21063,7 @@
       "sizeBytes": 7516192768
     },
     {
-      "id": 3946852,
+      "id": 3959350,
       "catalogSlug": "",
       "titleId": "PPSA18259",
       "title": "Dead Rising Deluxe Remaster",
@@ -21041,7 +21089,7 @@
       "sizeBytes": 118111600640
     },
     {
-      "id": 3946853,
+      "id": 3959351,
       "catalogSlug": "",
       "titleId": "PPSA02257",
       "title": "Guilty Gear Strive",
@@ -21075,7 +21123,7 @@
       "sizeBytes": 66571993088
     },
     {
-      "id": 3946854,
+      "id": 3959352,
       "catalogSlug": "",
       "titleId": "PPSA02981",
       "title": "GreedFall",
@@ -21109,7 +21157,7 @@
       "sizeBytes": 20401094656
     },
     {
-      "id": 3946855,
+      "id": 3959353,
       "catalogSlug": "",
       "titleId": "PPSA02745",
       "title": "Tales of Arise",
@@ -21143,7 +21191,7 @@
       "sizeBytes": 64424509440
     },
     {
-      "id": 3946856,
+      "id": 3959354,
       "catalogSlug": "",
       "titleId": "PPSA04312",
       "title": "The Dungeon of Naheulbeuk: the Amulet of Chaos",
@@ -21169,7 +21217,7 @@
       "sizeBytes": 7516192768
     },
     {
-      "id": 3946857,
+      "id": 3959355,
       "catalogSlug": "",
       "titleId": "PPSA21631",
       "title": "Poppy Playtime Chapter 2",
@@ -21195,7 +21243,7 @@
       "sizeBytes": 8589934592
     },
     {
-      "id": 3946858,
+      "id": 3959356,
       "catalogSlug": "",
       "titleId": "PPSA16096",
       "title": "Visions of Mana",
@@ -21241,7 +21289,7 @@
       "sizeBytes": 71940702208
     },
     {
-      "id": 3946859,
+      "id": 3959357,
       "catalogSlug": "",
       "titleId": "PPSA03131",
       "title": "Sniper Ghost Warrior Contracts 2",
@@ -21267,7 +21315,7 @@
       "sizeBytes": 15032385536
     },
     {
-      "id": 3946860,
+      "id": 3959358,
       "catalogSlug": "",
       "titleId": "PPSA02594",
       "title": "The Dark Pictures Anthology House of Ashes",
@@ -21293,7 +21341,7 @@
       "sizeBytes": 48318382080
     },
     {
-      "id": 3946861,
+      "id": 3959359,
       "catalogSlug": "",
       "titleId": "PPSA03753",
       "title": "The Riftbreaker",
@@ -21319,7 +21367,7 @@
       "sizeBytes": 9663676416
     },
     {
-      "id": 3946862,
+      "id": 3959360,
       "catalogSlug": "",
       "titleId": "PPSA05213",
       "title": "Thymesia",
@@ -21345,7 +21393,7 @@
       "sizeBytes": 11811160064
     },
     {
-      "id": 3946863,
+      "id": 3959361,
       "catalogSlug": "",
       "titleId": "PPSA08236",
       "title": "Immortals of Aveum",
@@ -21371,7 +21419,7 @@
       "sizeBytes": 109521666048
     },
     {
-      "id": 3946864,
+      "id": 3959362,
       "catalogSlug": "",
       "titleId": "PPSA18191",
       "title": "Hot Wheels Monster Trucks Stunt Mayhem",
@@ -21397,7 +21445,7 @@
       "sizeBytes": 8589934592
     },
     {
-      "id": 3946865,
+      "id": 3959363,
       "catalogSlug": "",
       "titleId": "PPSA18887",
       "title": "Five Nights at Freddy's Help Wanted 2",
@@ -21423,7 +21471,7 @@
       "sizeBytes": 28991029248
     },
     {
-      "id": 3946866,
+      "id": 3959364,
       "catalogSlug": "",
       "titleId": "PPSA13579",
       "title": "Blasphemous 2",
@@ -21457,7 +21505,7 @@
       "sizeBytes": 3221225472
     },
     {
-      "id": 3946867,
+      "id": 3959365,
       "catalogSlug": "",
       "titleId": "PPSA08312",
       "title": "Aliens Dark Descent",
@@ -21483,7 +21531,7 @@
       "sizeBytes": 56908316672
     },
     {
-      "id": 3946868,
+      "id": 3959366,
       "catalogSlug": "",
       "titleId": "PPSA14053",
       "title": "Afterimage",
@@ -21509,7 +21557,7 @@
       "sizeBytes": 6442450944
     },
     {
-      "id": 3946869,
+      "id": 3959367,
       "catalogSlug": "",
       "titleId": "PPSA10887",
       "title": "Weird West Definitive Edition",
@@ -21535,7 +21583,7 @@
       "sizeBytes": 6442450944
     },
     {
-      "id": 3946870,
+      "id": 3959368,
       "catalogSlug": "",
       "titleId": "PPSA19566",
       "title": "MotoGP 24",
@@ -21561,7 +21609,7 @@
       "sizeBytes": 41875931136
     },
     {
-      "id": 3946871,
+      "id": 3959369,
       "catalogSlug": "",
       "titleId": "PPSA16029",
       "title": "Redemption Reapers",
@@ -21587,7 +21635,7 @@
       "sizeBytes": 13958643712
     },
     {
-      "id": 3946872,
+      "id": 3959370,
       "catalogSlug": "",
       "titleId": "PPSA07850",
       "title": "Scorn",
@@ -21613,7 +21661,7 @@
       "sizeBytes": 28991029248
     },
     {
-      "id": 3946873,
+      "id": 3959371,
       "catalogSlug": "",
       "titleId": "PPSA06958",
       "title": "Sword Art Online Last Recollection",
@@ -21647,7 +21695,7 @@
       "sizeBytes": 33285996544
     },
     {
-      "id": 3946874,
+      "id": 3959372,
       "catalogSlug": "",
       "titleId": "PPSA06262",
       "title": "Star Ocean The Divine Force",
@@ -21673,7 +21721,7 @@
       "sizeBytes": 86973087744
     },
     {
-      "id": 3946875,
+      "id": 3959373,
       "catalogSlug": "",
       "titleId": "PPSA04583",
       "title": "41 Hours",
@@ -21699,7 +21747,7 @@
       "sizeBytes": 22548578304
     },
     {
-      "id": 3946876,
+      "id": 3959374,
       "catalogSlug": "",
       "titleId": "PPSA17858",
       "title": "Shadows of The Damned Hella Remastered",
@@ -21737,7 +21785,7 @@
       "sizeBytes": 4294967296
     },
     {
-      "id": 3946877,
+      "id": 3959375,
       "catalogSlug": "",
       "titleId": "PPSA08084",
       "title": "Dragon Ball Z: Kakarot",
@@ -21775,7 +21823,7 @@
       "sizeBytes": 84825604096
     },
     {
-      "id": 3946878,
+      "id": 3959376,
       "catalogSlug": "",
       "titleId": "PPSA01864",
       "title": "LEGO Star Wars The Skywalker Saga",
@@ -21801,7 +21849,7 @@
       "sizeBytes": 90194313216
     },
     {
-      "id": 3946879,
+      "id": 3959377,
       "catalogSlug": "",
       "titleId": "PPSA06399",
       "title": "PAC Man World Re PAC",
@@ -21827,7 +21875,7 @@
       "sizeBytes": 8589934592
     },
     {
-      "id": 3946880,
+      "id": 3959378,
       "catalogSlug": "",
       "titleId": "PPSA02712",
       "title": "Destruction AllStars",
@@ -21853,7 +21901,7 @@
       "sizeBytes": 103079215104
     },
     {
-      "id": 3946881,
+      "id": 3959379,
       "catalogSlug": "",
       "titleId": "PPSA02279",
       "title": "Nickelodeon All Star Brawl",
@@ -21879,7 +21927,7 @@
       "sizeBytes": 15032385536
     },
     {
-      "id": 3946882,
+      "id": 3959380,
       "catalogSlug": "",
       "titleId": "PPSA15211",
       "title": "DRAGON BALL: Sparking! ZERO",
@@ -21905,7 +21953,7 @@
       "sizeBytes": 67645734912
     },
     {
-      "id": 3946883,
+      "id": 3959381,
       "catalogSlug": "",
       "titleId": "PPSA04159",
       "title": "Goat Simulator 3",
@@ -21931,7 +21979,7 @@
       "sizeBytes": 15032385536
     },
     {
-      "id": 3946884,
+      "id": 3959382,
       "catalogSlug": "",
       "titleId": "PPSA28617",
       "title": "Spirit of The North 2",
@@ -21965,7 +22013,7 @@
       "sizeBytes": 44023414784
     },
     {
-      "id": 3946885,
+      "id": 3959383,
       "catalogSlug": "",
       "titleId": "PPSA26092",
       "title": "Screamer",
@@ -21999,7 +22047,7 @@
       "sizeBytes": 63350767616
     },
     {
-      "id": 3946886,
+      "id": 3959384,
       "catalogSlug": "",
       "titleId": "PPSA04319",
       "title": "Instant Sports Plus",
@@ -22025,7 +22073,7 @@
       "sizeBytes": 2147483648
     },
     {
-      "id": 3946887,
+      "id": 3959385,
       "catalogSlug": "",
       "titleId": "PPSA13844",
       "title": "Disgaea 7 Vows of The Virtueless",
@@ -22059,7 +22107,7 @@
       "sizeBytes": 35433480192
     },
     {
-      "id": 3946888,
+      "id": 3959386,
       "catalogSlug": "",
       "titleId": "PPSA22844",
       "title": "KARMA The Dark World",
@@ -22085,7 +22133,7 @@
       "sizeBytes": 41875931136
     },
     {
-      "id": 3946889,
+      "id": 3959387,
       "catalogSlug": "",
       "titleId": "PPSA09809",
       "title": "Octopath Traveler 2",
@@ -22111,7 +22159,7 @@
       "sizeBytes": 19327352832
     },
     {
-      "id": 3946890,
+      "id": 3959388,
       "catalogSlug": "",
       "titleId": "PPSA13742",
       "title": "Shame Legacy",
@@ -22137,7 +22185,7 @@
       "sizeBytes": 11811160064
     },
     {
-      "id": 3946891,
+      "id": 3959389,
       "catalogSlug": "",
       "titleId": "PPSA05326",
       "title": "Park Beyond",
@@ -22163,7 +22211,7 @@
       "sizeBytes": 31138512896
     },
     {
-      "id": 3946892,
+      "id": 3959390,
       "catalogSlug": "",
       "titleId": "PPSA20447",
       "title": "The First Berserker Khazan",
@@ -22201,7 +22249,7 @@
       "sizeBytes": 50465865728
     },
     {
-      "id": 3946893,
+      "id": 3959391,
       "catalogSlug": "",
       "titleId": "PPSA34038",
       "title": "Ghost Master Resurrection",
@@ -22235,7 +22283,7 @@
       "sizeBytes": 22548578304
     },
     {
-      "id": 3946894,
+      "id": 3959392,
       "catalogSlug": "",
       "titleId": "PPSA02526",
       "title": "Tormented Souls",
@@ -22261,7 +22309,7 @@
       "sizeBytes": 13958643712
     },
     {
-      "id": 3946895,
+      "id": 3959393,
       "catalogSlug": "",
       "titleId": "PPSA06217",
       "title": "Miasma Chronicles",
@@ -22287,7 +22335,7 @@
       "sizeBytes": 22548578304
     },
     {
-      "id": 3946896,
+      "id": 3959394,
       "catalogSlug": "",
       "titleId": "PPSA08260",
       "title": "Star Wars Outlaws Ultimate Edition",
@@ -22333,7 +22381,7 @@
       "sizeBytes": 147102629888
     },
     {
-      "id": 3946897,
+      "id": 3959395,
       "catalogSlug": "",
       "titleId": "PPSA16384",
       "title": "Directive 8020 Deluxe Edition",
@@ -22367,7 +22415,7 @@
       "sizeBytes": 59055800320
     },
     {
-      "id": 3946898,
+      "id": 3959396,
       "catalogSlug": "",
       "titleId": "PPSA16608",
       "title": "Frostpunk 2",
@@ -22393,7 +22441,7 @@
       "sizeBytes": 19327352832
     },
     {
-      "id": 3946899,
+      "id": 3959397,
       "catalogSlug": "",
       "titleId": "PPSA10414",
       "title": "Evotinction",
@@ -22419,7 +22467,7 @@
       "sizeBytes": 12884901888
     },
     {
-      "id": 3946900,
+      "id": 3959398,
       "catalogSlug": "",
       "titleId": "PPSA22299",
       "title": "Bleak Faith Forsaken",
@@ -22445,7 +22493,7 @@
       "sizeBytes": 13958643712
     },
     {
-      "id": 3946901,
+      "id": 3959399,
       "catalogSlug": "",
       "titleId": "PPSA22327",
       "title": "Forza Horizon 5",
@@ -22471,7 +22519,7 @@
       "sizeBytes": 285615325184
     },
     {
-      "id": 3946902,
+      "id": 3959400,
       "catalogSlug": "",
       "titleId": "PPSA19728",
       "title": "Star Wars Dark Forces Remaster",
@@ -22497,7 +22545,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3946903,
+      "id": 3959401,
       "catalogSlug": "",
       "titleId": "PPSA03937",
       "title": "Soulstice",
@@ -22523,7 +22571,7 @@
       "sizeBytes": 52613349376
     },
     {
-      "id": 3946904,
+      "id": 3959402,
       "catalogSlug": "",
       "titleId": "PPSA06228",
       "title": "Disgaea 6 Complete",
@@ -22549,7 +22597,7 @@
       "sizeBytes": 28991029248
     },
     {
-      "id": 3946905,
+      "id": 3959403,
       "catalogSlug": "",
       "titleId": "PPSA04650",
       "title": "The House of the Dead Remake",
@@ -22575,7 +22623,7 @@
       "sizeBytes": 5368709120
     },
     {
-      "id": 3946906,
+      "id": 3959404,
       "catalogSlug": "",
       "titleId": "PPSA29154",
       "title": "Daemon X Machina Titanic Scion",
@@ -22609,7 +22657,7 @@
       "sizeBytes": 49392123904
     },
     {
-      "id": 3946907,
+      "id": 3959405,
       "catalogSlug": "",
       "titleId": "PPSA07265",
       "title": "Layers of Fear",
@@ -22647,7 +22695,7 @@
       "sizeBytes": 33285996544
     },
     {
-      "id": 3946908,
+      "id": 3959406,
       "catalogSlug": "",
       "titleId": "PPSA21734",
       "title": "STALKER Shadow of Chornobyl Enhanced Edition",
@@ -22673,7 +22721,7 @@
       "sizeBytes": 9663676416
     },
     {
-      "id": 3946909,
+      "id": 3959407,
       "catalogSlug": "",
       "titleId": "PPSA21733",
       "title": "STALKER Clear Sky Enhanced Edition",
@@ -22699,7 +22747,7 @@
       "sizeBytes": 7516192768
     },
     {
-      "id": 3946910,
+      "id": 3959408,
       "catalogSlug": "",
       "titleId": "PPSA21732",
       "title": "STALKER Call of Prypiat Enhanced Edition",
@@ -22725,7 +22773,7 @@
       "sizeBytes": 7516192768
     },
     {
-      "id": 3946911,
+      "id": 3959409,
       "catalogSlug": "",
       "titleId": "PPSA17322",
       "title": "Tormented Souls 2",
@@ -22751,7 +22799,7 @@
       "sizeBytes": 39728447488
     },
     {
-      "id": 3946912,
+      "id": 3959410,
       "catalogSlug": "",
       "titleId": "PPSA01826",
       "title": "The Pathless",
@@ -22777,7 +22825,7 @@
       "sizeBytes": 6442450944
     },
     {
-      "id": 3946913,
+      "id": 3959411,
       "catalogSlug": "",
       "titleId": "PPSA01736",
       "title": "Planet Coaster Console Edition",
@@ -22803,7 +22851,7 @@
       "sizeBytes": 25769803776
     },
     {
-      "id": 3946914,
+      "id": 3959412,
       "catalogSlug": "",
       "titleId": "PPSA02006",
       "title": "Martha is Dead",
@@ -22829,7 +22877,7 @@
       "sizeBytes": 33285996544
     },
     {
-      "id": 3946915,
+      "id": 3959413,
       "catalogSlug": "",
       "titleId": "PPSA24096",
       "title": "Cronos The New Dawn",
@@ -22855,7 +22903,7 @@
       "sizeBytes": 36507222016
     },
     {
-      "id": 3946916,
+      "id": 3959414,
       "catalogSlug": "",
       "titleId": "PPSA17599",
       "title": "Clair Obscur: Expedition 33",
@@ -22901,7 +22949,7 @@
       "sizeBytes": 77309411328
     },
     {
-      "id": 3946917,
+      "id": 3959415,
       "catalogSlug": "",
       "titleId": "PPSA01494",
       "title": "Borderlands 4",
@@ -22935,7 +22983,7 @@
       "sizeBytes": 94489280512
     },
     {
-      "id": 3946918,
+      "id": 3959416,
       "catalogSlug": "",
       "titleId": "PPSA17942",
       "title": "Dragon Quest VII Reimagined",
@@ -22961,7 +23009,7 @@
       "sizeBytes": 20401094656
     },
     {
-      "id": 3946919,
+      "id": 3959417,
       "catalogSlug": "",
       "titleId": "PPSA20164",
       "title": "Slitterhead",
@@ -22999,7 +23047,7 @@
       "sizeBytes": 45097156608
     },
     {
-      "id": 3946920,
+      "id": 3959418,
       "catalogSlug": "",
       "titleId": "PPSA23908",
       "title": "CODE VEIN 2",
@@ -23025,7 +23073,7 @@
       "sizeBytes": 164282499072
     },
     {
-      "id": 3946921,
+      "id": 3959419,
       "catalogSlug": "",
       "titleId": "PPSA30094",
       "title": "High on Life 2",
@@ -23051,7 +23099,7 @@
       "sizeBytes": 107374182400
     },
     {
-      "id": 3946922,
+      "id": 3959420,
       "catalogSlug": "",
       "titleId": "PPSA19268",
       "title": "Juicy Realm",
@@ -23077,7 +23125,7 @@
       "sizeBytes": 461373440
     },
     {
-      "id": 3946923,
+      "id": 3959421,
       "catalogSlug": "",
       "titleId": "PPSA19563",
       "title": "Looney Tunes Wacky World of Sports",
@@ -23111,7 +23159,7 @@
       "sizeBytes": 9663676416
     },
     {
-      "id": 3946924,
+      "id": 3959422,
       "catalogSlug": "",
       "titleId": "PPSA14374",
       "title": "Fort Solis",
@@ -23137,7 +23185,7 @@
       "sizeBytes": 15032385536
     },
     {
-      "id": 3946925,
+      "id": 3959423,
       "catalogSlug": "",
       "titleId": "PPSA15716",
       "title": "Shin Megami Tensei V Vengeance",
@@ -23171,7 +23219,7 @@
       "sizeBytes": 44023414784
     },
     {
-      "id": 3946926,
+      "id": 3959424,
       "catalogSlug": "",
       "titleId": "PPSA06255",
       "title": "Biomutant",
@@ -23205,7 +23253,7 @@
       "sizeBytes": 20401094656
     },
     {
-      "id": 3946927,
+      "id": 3959425,
       "catalogSlug": "",
       "titleId": "PPSA06164",
       "title": "DNF Duel",
@@ -23231,7 +23279,7 @@
       "sizeBytes": 21474836480
     },
     {
-      "id": 3946928,
+      "id": 3959426,
       "catalogSlug": "",
       "titleId": "PPSA07817",
       "title": "Shadow Warrior 3 Definitive Edition",
@@ -23257,7 +23305,7 @@
       "sizeBytes": 39728447488
     },
     {
-      "id": 3946929,
+      "id": 3959427,
       "catalogSlug": "",
       "titleId": "PPSA05027",
       "title": "Gear Club Unlimited 2 Ultimate Edition",
@@ -23283,7 +23331,7 @@
       "sizeBytes": 25769803776
     },
     {
-      "id": 3946930,
+      "id": 3959428,
       "catalogSlug": "",
       "titleId": "PPSA28336",
       "title": "STALKER 2: Heart of Chornobyl",
@@ -23309,7 +23357,7 @@
       "sizeBytes": 159987531776
     },
     {
-      "id": 3946931,
+      "id": 3959429,
       "catalogSlug": "",
       "titleId": "PPSA25348",
       "title": "EDENS ZERO",
@@ -23347,7 +23395,7 @@
       "sizeBytes": 25769803776
     },
     {
-      "id": 3946932,
+      "id": 3959430,
       "catalogSlug": "",
       "titleId": "PPSA23372",
       "title": "Reanimal",
@@ -23381,7 +23429,7 @@
       "sizeBytes": 28991029248
     },
     {
-      "id": 3946933,
+      "id": 3959431,
       "catalogSlug": "",
       "titleId": "PPSA29986",
       "title": "Tides of Tomorrow",
@@ -23407,7 +23455,7 @@
       "sizeBytes": 32212254720
     },
     {
-      "id": 3946934,
+      "id": 3959432,
       "catalogSlug": "",
       "titleId": "PPSA15508",
       "title": "The Last of Us Part II Remastered",
@@ -23433,7 +23481,7 @@
       "sizeBytes": 166429982720
     },
     {
-      "id": 3946935,
+      "id": 3959433,
       "catalogSlug": "",
       "titleId": "PPSA18697",
       "title": "The Bearer & The Last Flame",
@@ -23459,7 +23507,7 @@
       "sizeBytes": 41875931136
     },
     {
-      "id": 3946936,
+      "id": 3959434,
       "catalogSlug": "",
       "titleId": "PPSA04479",
       "title": "Quantum Error",
@@ -23485,7 +23533,7 @@
       "sizeBytes": 261993005056
     },
     {
-      "id": 3946937,
+      "id": 3959435,
       "catalogSlug": "",
       "titleId": "PPSA24588",
       "title": "The Outer Worlds 2",
@@ -23519,7 +23567,7 @@
       "sizeBytes": 144955146240
     },
     {
-      "id": 3946938,
+      "id": 3959436,
       "catalogSlug": "",
       "titleId": "PPSA03396",
       "title": "The Last of Us Part I",
@@ -23545,7 +23593,7 @@
       "sizeBytes": 136365211648
     },
     {
-      "id": 3946939,
+      "id": 3959437,
       "catalogSlug": "",
       "titleId": "PPSA30528",
       "title": "Red Dead Redemption",
@@ -23571,7 +23619,7 @@
       "sizeBytes": 9663676416
     },
     {
-      "id": 3946940,
+      "id": 3959438,
       "catalogSlug": "",
       "titleId": "PPSA03641",
       "title": "Lords of The Fallen",
@@ -23605,7 +23653,7 @@
       "sizeBytes": 86973087744
     },
     {
-      "id": 3946941,
+      "id": 3959439,
       "catalogSlug": "",
       "titleId": "PPSA20052",
       "title": "Worms Armageddon: Anniversary Edition",
@@ -23639,7 +23687,7 @@
       "sizeBytes": 2147483648
     },
     {
-      "id": 3946942,
+      "id": 3959440,
       "catalogSlug": "",
       "titleId": "PPSA03500",
       "title": "New Tales From The Borderlands",
@@ -23665,7 +23713,7 @@
       "sizeBytes": 48318382080
     },
     {
-      "id": 3946943,
+      "id": 3959441,
       "catalogSlug": "",
       "titleId": "PPSA08597",
       "title": "Scars Above",
@@ -23691,7 +23739,7 @@
       "sizeBytes": 22548578304
     },
     {
-      "id": 3946944,
+      "id": 3959442,
       "catalogSlug": "",
       "titleId": "PPSA31246",
       "title": "Resident Evil Requiem Deluxe Edition",
@@ -23717,7 +23765,7 @@
       "sizeBytes": 132070244352
     },
     {
-      "id": 3946945,
+      "id": 3959443,
       "catalogSlug": "",
       "titleId": "PPSA15537",
       "title": "Skull Island Rise of Kong",
@@ -23751,7 +23799,7 @@
       "sizeBytes": 12884901888
     },
     {
-      "id": 3946946,
+      "id": 3959444,
       "catalogSlug": "",
       "titleId": "PPSA01924",
       "title": "Alan Wake Remastered",
@@ -23777,7 +23825,7 @@
       "sizeBytes": 39728447488
     },
     {
-      "id": 3946947,
+      "id": 3959445,
       "catalogSlug": "",
       "titleId": "PPSA02593",
       "title": "The Ascent",
@@ -23803,7 +23851,7 @@
       "sizeBytes": 17179869184
     },
     {
-      "id": 3946948,
+      "id": 3959446,
       "catalogSlug": "",
       "titleId": "PPSA19007",
       "title": "A Quiet Place The Road Ahead",
@@ -23841,7 +23889,7 @@
       "sizeBytes": 77309411328
     },
     {
-      "id": 3946949,
+      "id": 3959447,
       "catalogSlug": "",
       "titleId": "PPSA17139",
       "title": "Pneumata",
@@ -23879,7 +23927,7 @@
       "sizeBytes": 64424509440
     },
     {
-      "id": 3946950,
+      "id": 3959448,
       "catalogSlug": "",
       "titleId": "PPSA03718",
       "title": "The Medium",
@@ -23905,7 +23953,7 @@
       "sizeBytes": 25769803776
     },
     {
-      "id": 3946951,
+      "id": 3959449,
       "catalogSlug": "",
       "titleId": "PPSA11193",
       "title": "NHL 24",
@@ -23931,7 +23979,7 @@
       "sizeBytes": 170724950016
     },
     {
-      "id": 3946952,
+      "id": 3959450,
       "catalogSlug": "",
       "titleId": "PPSA02154",
       "title": "Little Nightmares 2",
@@ -23965,7 +24013,7 @@
       "sizeBytes": 9663676416
     },
     {
-      "id": 3946953,
+      "id": 3959451,
       "catalogSlug": "",
       "titleId": "PPSA02474",
       "title": "Terminator Resistance Enhanced",
@@ -23999,7 +24047,7 @@
       "sizeBytes": 26843545600
     },
     {
-      "id": 3946954,
+      "id": 3959452,
       "catalogSlug": "",
       "titleId": "PPSA02306",
       "title": "Spirit of The North Enhanced Edition",
@@ -24025,7 +24073,7 @@
       "sizeBytes": 3221225472
     },
     {
-      "id": 3946955,
+      "id": 3959453,
       "catalogSlug": "",
       "titleId": "PPSA08804",
       "title": "Sonic Racing CrossWorlds Deluxe Edition",
@@ -24059,7 +24107,7 @@
       "sizeBytes": 13958643712
     },
     {
-      "id": 3946956,
+      "id": 3959454,
       "catalogSlug": "",
       "titleId": "PPSA03351",
       "title": "The Callisto Protocol",
@@ -24093,7 +24141,7 @@
       "sizeBytes": 130996502528
     },
     {
-      "id": 3946957,
+      "id": 3959455,
       "catalogSlug": "",
       "titleId": "PPSA01748",
       "title": "Marvel's Guardians of the Galaxy",
@@ -24119,7 +24167,7 @@
       "sizeBytes": 68719476736
     },
     {
-      "id": 3946958,
+      "id": 3959456,
       "catalogSlug": "",
       "titleId": "PPSA28180",
       "title": "Days Gone Remastered",
@@ -24157,7 +24205,7 @@
       "sizeBytes": 71940702208
     },
     {
-      "id": 3946959,
+      "id": 3959457,
       "catalogSlug": "",
       "titleId": "PPSA01492",
       "title": "Tiny Tina's Wonderlands",
@@ -24183,7 +24231,7 @@
       "sizeBytes": 73014444032
     },
     {
-      "id": 3946960,
+      "id": 3959458,
       "catalogSlug": "",
       "titleId": "PPSA03393",
       "title": "Aliens Fireteam Elite",
@@ -24217,7 +24265,7 @@
       "sizeBytes": 35433480192
     },
     {
-      "id": 3946961,
+      "id": 3959459,
       "catalogSlug": "",
       "titleId": "PPSA05595",
       "title": "Kao The Kangaroo",
@@ -24251,7 +24299,7 @@
       "sizeBytes": 22548578304
     },
     {
-      "id": 3946962,
+      "id": 3959460,
       "catalogSlug": "",
       "titleId": "PPSA04341",
       "title": "Avatar The Last Airbender Quest for Balance",
@@ -24277,7 +24325,7 @@
       "sizeBytes": 21474836480
     },
     {
-      "id": 3946963,
+      "id": 3959461,
       "catalogSlug": "",
       "titleId": "PPSA13526",
       "title": "GYLT",
@@ -24303,7 +24351,7 @@
       "sizeBytes": 10737418240
     },
     {
-      "id": 3946964,
+      "id": 3959462,
       "catalogSlug": "",
       "titleId": "PPSA28601",
       "title": "Steel Seed Deluxe Edition",
@@ -24329,7 +24377,7 @@
       "sizeBytes": 27917287424
     },
     {
-      "id": 3946965,
+      "id": 3959463,
       "catalogSlug": "",
       "titleId": "PPSA02372",
       "title": "Evil West",
@@ -24363,7 +24411,7 @@
       "sizeBytes": 51539607552
     },
     {
-      "id": 3946966,
+      "id": 3959464,
       "catalogSlug": "",
       "titleId": "PPSA10621",
       "title": "Lies of P: Overture",
@@ -24401,7 +24449,7 @@
       "sizeBytes": 77309411328
     },
     {
-      "id": 3946967,
+      "id": 3959465,
       "catalogSlug": "",
       "titleId": "PPSA08105",
       "title": "WWE 2K23",
@@ -24427,7 +24475,7 @@
       "sizeBytes": 77309411328
     },
     {
-      "id": 3946968,
+      "id": 3959466,
       "catalogSlug": "",
       "titleId": "PPSA28628",
       "title": "VARLET",
@@ -24453,7 +24501,7 @@
       "sizeBytes": 9663676416
     },
     {
-      "id": 3946969,
+      "id": 3959467,
       "catalogSlug": "",
       "titleId": "PPSA19591",
       "title": "Darkest Dungeon II",
@@ -24487,7 +24535,7 @@
       "sizeBytes": 5368709120
     },
     {
-      "id": 3946970,
+      "id": 3959468,
       "catalogSlug": "",
       "titleId": "PPSA21268",
       "title": "Demon Slayer Kimetsu no Yaiba Sweep the Board",
@@ -24521,7 +24569,7 @@
       "sizeBytes": 12884901888
     },
     {
-      "id": 3946971,
+      "id": 3959469,
       "catalogSlug": "",
       "titleId": "PPSA09850",
       "title": "Overpass 2",
@@ -24555,7 +24603,7 @@
       "sizeBytes": 54760833024
     },
     {
-      "id": 3946972,
+      "id": 3959470,
       "catalogSlug": "",
       "titleId": "PPSA16214",
       "title": "Indika",
@@ -24581,7 +24629,7 @@
       "sizeBytes": 42949672960
     },
     {
-      "id": 3946973,
+      "id": 3959471,
       "catalogSlug": "",
       "titleId": "PPSA09483",
       "title": "Daymare 1994 Sandcastle",
@@ -24607,7 +24655,7 @@
       "sizeBytes": 40802189312
     },
     {
-      "id": 3946974,
+      "id": 3959472,
       "catalogSlug": "",
       "titleId": "PPSA09351",
       "title": "AEW Fight Forever",
@@ -24641,7 +24689,7 @@
       "sizeBytes": 60129542144
     },
     {
-      "id": 3946975,
+      "id": 3959473,
       "catalogSlug": "",
       "titleId": "PPSA15190",
       "title": "RIDE 5",
@@ -24667,7 +24715,7 @@
       "sizeBytes": 133143986176
     },
     {
-      "id": 3946976,
+      "id": 3959474,
       "catalogSlug": "",
       "titleId": "PPSA04995",
       "title": "One Piece Odyssey",
@@ -24701,7 +24749,7 @@
       "sizeBytes": 50465865728
     },
     {
-      "id": 3946977,
+      "id": 3959475,
       "catalogSlug": "",
       "titleId": "PPSA02199",
       "title": "Star Wars Jedi Fallen Order",
@@ -24735,7 +24783,7 @@
       "sizeBytes": 92341796864
     },
     {
-      "id": 3946978,
+      "id": 3959476,
       "catalogSlug": "",
       "titleId": "PPSA03747",
       "title": "The Elder Scrolls V Skyrim Special Edition",
@@ -24761,7 +24809,7 @@
       "sizeBytes": 53687091200
     },
     {
-      "id": 3946979,
+      "id": 3959477,
       "catalogSlug": "",
       "titleId": "PPSA08772",
       "title": "Wo Long Fallen Dynasty",
@@ -24795,7 +24843,7 @@
       "sizeBytes": 108447924224
     },
     {
-      "id": 3946980,
+      "id": 3959478,
       "catalogSlug": "",
       "titleId": "PPSA08709",
       "title": "Silent Hill 2",
@@ -24833,7 +24881,7 @@
       "sizeBytes": 96636764160
     },
     {
-      "id": 3946981,
+      "id": 3959479,
       "catalogSlug": "",
       "titleId": "PPSA04609",
       "title": "ELDEN RING Shadow of the Erdtree Edition",
@@ -24859,7 +24907,7 @@
       "sizeBytes": 208305913856
     },
     {
-      "id": 3946982,
+      "id": 3959480,
       "catalogSlug": "",
       "titleId": "PPSA04404",
       "title": "Resident Evil 7 Biohazard Gold Edition",
@@ -24885,7 +24933,7 @@
       "sizeBytes": 46170898432
     },
     {
-      "id": 3946983,
+      "id": 3959481,
       "catalogSlug": "",
       "titleId": "PPSA01342",
       "title": "Demon's Souls",
@@ -24923,7 +24971,7 @@
       "sizeBytes": 93415538688
     },
     {
-      "id": 3946984,
+      "id": 3959482,
       "catalogSlug": "",
       "titleId": "PPSA01556",
       "title": "Resident Evil Village Gold Edition",
@@ -24949,7 +24997,7 @@
       "sizeBytes": 76235669504
     },
     {
-      "id": 3946985,
+      "id": 3959483,
       "catalogSlug": "",
       "titleId": "PPSA09453",
       "title": "Infinity Strash DRAGON QUEST The Adventure of Dai",
@@ -24975,7 +25023,7 @@
       "sizeBytes": 11811160064
     },
     {
-      "id": 3946986,
+      "id": 3959484,
       "catalogSlug": "",
       "titleId": "PPSA05063",
       "title": "Steelrising",
@@ -25009,7 +25057,7 @@
       "sizeBytes": 27917287424
     },
     {
-      "id": 3946987,
+      "id": 3959485,
       "catalogSlug": "",
       "titleId": "PPSA16901",
       "title": "Tomb Raider I-III Remastered",
@@ -25047,7 +25095,7 @@
       "sizeBytes": 6442450944
     },
     {
-      "id": 3946988,
+      "id": 3959486,
       "catalogSlug": "",
       "titleId": "PPSA20435",
       "title": "Monster Energy Supercross 25",
@@ -25093,7 +25141,7 @@
       "sizeBytes": 44023414784
     },
     {
-      "id": 3946989,
+      "id": 3959487,
       "catalogSlug": "",
       "titleId": "PPSA13524",
       "title": "Morbid The Lords of Ire",
@@ -25131,7 +25179,7 @@
       "sizeBytes": 24696061952
     },
     {
-      "id": 3946990,
+      "id": 3959488,
       "catalogSlug": "",
       "titleId": "PPSA05163",
       "title": "SD GUNDAM BATTLE ALLIANCE",
@@ -25157,7 +25205,7 @@
       "sizeBytes": 74088185856
     },
     {
-      "id": 3946991,
+      "id": 3959489,
       "catalogSlug": "",
       "titleId": "PPSA03845",
       "title": "Dead Space",
@@ -25191,7 +25239,7 @@
       "sizeBytes": 55834574848
     },
     {
-      "id": 3946992,
+      "id": 3959490,
       "catalogSlug": "",
       "titleId": "PPSA15572",
       "title": "SOUTH PARK: SNOW DAY!",
@@ -25217,7 +25265,7 @@
       "sizeBytes": 40802189312
     },
     {
-      "id": 3946993,
+      "id": 3959491,
       "catalogSlug": "",
       "titleId": "PPSA15388",
       "title": "High on Life",
@@ -25243,7 +25291,7 @@
       "sizeBytes": 70866960384
     },
     {
-      "id": 3946994,
+      "id": 3959492,
       "catalogSlug": "",
       "titleId": "PPSA02227",
       "title": "EA Sports PGA Tour",
@@ -25269,7 +25317,7 @@
       "sizeBytes": 76235669504
     },
     {
-      "id": 3946995,
+      "id": 3959493,
       "catalogSlug": "",
       "titleId": "PPSA20114",
       "title": "Tour de France 2024",
@@ -25315,7 +25363,7 @@
       "sizeBytes": 27917287424
     },
     {
-      "id": 3946996,
+      "id": 3959494,
       "catalogSlug": "",
       "titleId": "PPSA03685",
       "title": "Ghostrunner",
@@ -25341,7 +25389,7 @@
       "sizeBytes": 15032385536
     },
     {
-      "id": 3946997,
+      "id": 3959495,
       "catalogSlug": "",
       "titleId": "PPSA08705",
       "title": "Beyond Good and Evil 20th Anniversary Edition",
@@ -25379,7 +25427,7 @@
       "sizeBytes": 20401094656
     },
     {
-      "id": 3946998,
+      "id": 3959496,
       "catalogSlug": "",
       "titleId": "PPSA01337",
       "title": "Ghostwire Tokyo",
@@ -25405,7 +25453,7 @@
       "sizeBytes": 50465865728
     },
     {
-      "id": 3946999,
+      "id": 3959497,
       "catalogSlug": "",
       "titleId": "PPSA01289",
       "title": "Sackboy A Big Adventure",
@@ -25439,7 +25487,7 @@
       "sizeBytes": 60129542144
     },
     {
-      "id": 3947000,
+      "id": 3959498,
       "catalogSlug": "",
       "titleId": "PPSA14455",
       "title": "Empire of the Ants",
@@ -25465,7 +25513,7 @@
       "sizeBytes": 60129542144
     },
     {
-      "id": 3947001,
+      "id": 3959499,
       "catalogSlug": "",
       "titleId": "PPSA16106",
       "title": "Life is Strange Double Exposure Ultimate Edition",
@@ -25491,7 +25539,7 @@
       "sizeBytes": 50465865728
     },
     {
-      "id": 3947002,
+      "id": 3959500,
       "catalogSlug": "",
       "titleId": "PPSA01949",
       "title": "Control Ultimate Edition",
@@ -25517,7 +25565,7 @@
       "sizeBytes": 49392123904
     },
     {
-      "id": 3947003,
+      "id": 3959501,
       "catalogSlug": "",
       "titleId": "PPSA10264",
       "title": "Jusant",
@@ -25543,7 +25591,7 @@
       "sizeBytes": 8589934592
     },
     {
-      "id": 3947004,
+      "id": 3959502,
       "catalogSlug": "",
       "titleId": "PPSA01862",
       "title": "Maneater",
@@ -25577,7 +25625,7 @@
       "sizeBytes": 22548578304
     },
     {
-      "id": 3947005,
+      "id": 3959503,
       "catalogSlug": "",
       "titleId": "PPSA02177",
       "title": "Tony Hawks Pro Skater 1 + 2",
@@ -25603,7 +25651,7 @@
       "sizeBytes": 45097156608
     },
     {
-      "id": 3947006,
+      "id": 3959504,
       "catalogSlug": "",
       "titleId": "PPSA02047",
       "title": "Life is Strange True Colors",
@@ -25629,7 +25677,7 @@
       "sizeBytes": 30064771072
     },
     {
-      "id": 3947007,
+      "id": 3959505,
       "catalogSlug": "",
       "titleId": "PPSA01746",
       "title": "Kena Bridge of Spirits",
@@ -25663,7 +25711,7 @@
       "sizeBytes": 35433480192
     },
     {
-      "id": 3947008,
+      "id": 3959506,
       "catalogSlug": "",
       "titleId": "PPSA02100",
       "title": "Stray",
@@ -25689,7 +25737,7 @@
       "sizeBytes": 13958643712
     },
     {
-      "id": 3947009,
+      "id": 3959507,
       "catalogSlug": "",
       "titleId": "PPSA08574",
       "title": "SAND LAND",
@@ -25723,7 +25771,7 @@
       "sizeBytes": 42949672960
     },
     {
-      "id": 3947010,
+      "id": 3959508,
       "catalogSlug": "",
       "titleId": "PPSA06454",
       "title": "Like A Dragon Ishin",
@@ -25757,7 +25805,7 @@
       "sizeBytes": 92341796864
     },
     {
-      "id": 3947011,
+      "id": 3959509,
       "catalogSlug": "",
       "titleId": "PPSA05366",
       "title": "A Plague Tale Requiem",
@@ -25791,7 +25839,7 @@
       "sizeBytes": 55834574848
     },
     {
-      "id": 3947012,
+      "id": 3959510,
       "catalogSlug": "",
       "titleId": "PPSA02387",
       "title": "A Plague Tale Innocence",
@@ -25825,7 +25873,7 @@
       "sizeBytes": 42949672960
     },
     {
-      "id": 3947013,
+      "id": 3959511,
       "catalogSlug": "",
       "titleId": "PPSA04048",
       "title": "LEGO 2K Drive",
@@ -25851,7 +25899,7 @@
       "sizeBytes": 21474836480
     },
     {
-      "id": 3947014,
+      "id": 3959512,
       "catalogSlug": "",
       "titleId": "PPSA13794",
       "title": "Phantom Breaker Battle Grounds Ultimate",
@@ -25877,7 +25925,7 @@
       "sizeBytes": 9663676416
     },
     {
-      "id": 3947015,
+      "id": 3959513,
       "catalogSlug": "",
       "titleId": "PPSA02433",
       "title": "Crash Bandicoot 4 Its About Time",
@@ -25911,7 +25959,7 @@
       "sizeBytes": 51539607552
     },
     {
-      "id": 3947016,
+      "id": 3959514,
       "catalogSlug": "",
       "titleId": "PPSA08135",
       "title": "Alone In The Dark",
@@ -25945,7 +25993,7 @@
       "sizeBytes": 56908316672
     },
     {
-      "id": 3947017,
+      "id": 3959515,
       "catalogSlug": "",
       "titleId": "PPSA06695",
       "title": "Syphon Filter 2",
@@ -25983,7 +26031,7 @@
       "sizeBytes": 8589934592
     },
     {
-      "id": 3947018,
+      "id": 3959516,
       "catalogSlug": "",
       "titleId": "PPSA18152",
       "title": "Legacy of Kain Soul Reaver 1 and 2 Remastered",
@@ -26013,7 +26061,7 @@
       "sizeBytes": 11811160064
     },
     {
-      "id": 3947019,
+      "id": 3959517,
       "catalogSlug": "",
       "titleId": "PPSA26679",
       "title": "NINJA GAIDEN 2 Black",
@@ -26051,7 +26099,7 @@
       "sizeBytes": 185757335552
     },
     {
-      "id": 3947020,
+      "id": 3959518,
       "catalogSlug": "",
       "titleId": "PPSA18010",
       "title": "Tony Hawks Pro Skater 3 + 4",
@@ -26077,7 +26125,7 @@
       "sizeBytes": 135291469824
     },
     {
-      "id": 3947021,
+      "id": 3959519,
       "catalogSlug": "",
       "titleId": "PPSA06899",
       "title": "TopSpin 2K25",
@@ -26111,7 +26159,7 @@
       "sizeBytes": 77309411328
     },
     {
-      "id": 3947022,
+      "id": 3959520,
       "catalogSlug": "",
       "titleId": "PPSA25428",
       "title": "Demon Slayer Kimetsu no Yaiba The Hinokami Chronicles 2",
@@ -26145,7 +26193,7 @@
       "sizeBytes": 56908316672
     },
     {
-      "id": 3947023,
+      "id": 3959521,
       "catalogSlug": "",
       "titleId": "PPSA22322",
       "title": "Dragon Quest I & II HD 2D Remake",
@@ -26179,7 +26227,7 @@
       "sizeBytes": 50465865728
     },
     {
-      "id": 3947024,
+      "id": 3959522,
       "catalogSlug": "",
       "titleId": "PPSA23000",
       "title": "Double Dragon Revive",
@@ -26213,7 +26261,7 @@
       "sizeBytes": 10737418240
     },
     {
-      "id": 3947025,
+      "id": 3959523,
       "catalogSlug": "",
       "titleId": "PPSA15421",
       "title": "Until Dawn",
@@ -26235,7 +26283,7 @@
       "sizeBytes": 109521666048
     },
     {
-      "id": 3947026,
+      "id": 3959524,
       "catalogSlug": "",
       "titleId": "PPSA03457",
       "title": "Demon Slayer Kimetsu no Yaiba The Hinokami Chronicles: Ultimate Edition",
@@ -26265,7 +26313,7 @@
       "sizeBytes": 51539607552
     },
     {
-      "id": 3947027,
+      "id": 3959525,
       "catalogSlug": "",
       "titleId": "PPSA15186",
       "title": "Vampire The Masquerade Bloodlines 2",
@@ -26295,7 +26343,7 @@
       "sizeBytes": 20401094656
     },
     {
-      "id": 3947028,
+      "id": 3959526,
       "catalogSlug": "",
       "titleId": "PPSA04906",
       "title": "Treasures of The Aegean",
@@ -26317,7 +26365,7 @@
       "sizeBytes": 5368709120
     },
     {
-      "id": 3947029,
+      "id": 3959527,
       "catalogSlug": "",
       "titleId": "PPSA09259",
       "title": "Hell Is Us",
@@ -26339,7 +26387,7 @@
       "sizeBytes": 48318382080
     },
     {
-      "id": 3947030,
+      "id": 3959528,
       "catalogSlug": "",
       "titleId": "PPSA05144",
       "title": "Little Nightmares 3: Deluxe Edition",
@@ -26373,7 +26421,7 @@
       "sizeBytes": 27917287424
     },
     {
-      "id": 3947031,
+      "id": 3959529,
       "catalogSlug": "",
       "titleId": "PPSA21203",
       "title": "The Elder Scrolls IV Oblivion Remastered",
@@ -26391,7 +26439,7 @@
       "sizeBytes": 215822106624
     },
     {
-      "id": 3947032,
+      "id": 3959530,
       "catalogSlug": "",
       "titleId": "PPSA05591",
       "title": "QUBE 10th Anniversary",
@@ -26409,7 +26457,7 @@
       "sizeBytes": 20401094656
     },
     {
-      "id": 3947033,
+      "id": 3959531,
       "catalogSlug": "",
       "titleId": "PPSA08511",
       "title": "Endling Extinction is Forever",
@@ -26427,7 +26475,7 @@
       "sizeBytes": 4294967296
     },
     {
-      "id": 3947034,
+      "id": 3959532,
       "catalogSlug": "",
       "titleId": "PPSA17525",
       "title": "Gears of War Reloaded",
@@ -26445,7 +26493,7 @@
       "sizeBytes": 142807662592
     },
     {
-      "id": 3947035,
+      "id": 3959533,
       "catalogSlug": "",
       "titleId": "PPSA01716",
       "title": "Need for Speed Unbound",
@@ -26463,7 +26511,7 @@
       "sizeBytes": 33285996544
     },
     {
-      "id": 3947036,
+      "id": 3959534,
       "catalogSlug": "",
       "titleId": "PPSA20049",
       "title": "EA Sports FC 25",
@@ -26481,7 +26529,7 @@
       "sizeBytes": 173946175488
     },
     {
-      "id": 3947037,
+      "id": 3959535,
       "catalogSlug": "",
       "titleId": "PPSA09016",
       "title": "Fallout 4",
@@ -26499,7 +26547,7 @@
       "sizeBytes": 83751862272
     },
     {
-      "id": 3947038,
+      "id": 3959536,
       "catalogSlug": "",
       "titleId": "PPSA20423",
       "title": "Another Crabs Treasure",
@@ -26517,7 +26565,7 @@
       "sizeBytes": 9663676416
     },
     {
-      "id": 3947039,
+      "id": 3959537,
       "catalogSlug": "",
       "titleId": "PPSA05986",
       "title": "Super Crazy Rhythm Castle",
@@ -26535,7 +26583,7 @@
       "sizeBytes": 4294967296
     },
     {
-      "id": 3947040,
+      "id": 3959538,
       "catalogSlug": "",
       "titleId": "PPSA03311",
       "title": "The Binding of Isaac Repentance",
@@ -26553,7 +26601,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3947041,
+      "id": 3959539,
       "catalogSlug": "",
       "titleId": "PPSA10796",
       "title": "Paleo Pines",
@@ -26571,7 +26619,7 @@
       "sizeBytes": 4294967296
     },
     {
-      "id": 3947042,
+      "id": 3959540,
       "catalogSlug": "",
       "titleId": "PPSA02687",
       "title": "Potion Permit",
@@ -26589,7 +26637,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3947043,
+      "id": 3959541,
       "catalogSlug": "",
       "titleId": "PPSA16709",
       "title": "Asterix and Obelix Heroes",
@@ -26607,7 +26655,7 @@
       "sizeBytes": 1073741824
     },
     {
-      "id": 3947044,
+      "id": 3959542,
       "catalogSlug": "",
       "titleId": "PPSA11264",
       "title": "Hellboy Web of Wyrd",
@@ -26625,7 +26673,7 @@
       "sizeBytes": 2147483648
     },
     {
-      "id": 3947045,
+      "id": 3959543,
       "catalogSlug": "",
       "titleId": "PPSA14050",
       "title": "Smurfs Kart",
@@ -26643,7 +26691,7 @@
       "sizeBytes": 2147483648
     },
     {
-      "id": 3947046,
+      "id": 3959544,
       "catalogSlug": "",
       "titleId": "PPSA12562",
       "title": "The Light Brigade",
@@ -26661,7 +26709,7 @@
       "sizeBytes": 8589934592
     },
     {
-      "id": 3947047,
+      "id": 3959545,
       "catalogSlug": "",
       "titleId": "PPSA16716",
       "title": "The Smurfs 2 The Prisoner of the Green Stone",
@@ -26679,7 +26727,7 @@
       "sizeBytes": 18253611008
     },
     {
-      "id": 3947048,
+      "id": 3959546,
       "catalogSlug": "",
       "titleId": "PPSA07429",
       "title": "LOST EPIC",

@@ -493,6 +493,42 @@
           "url": "https://vikingfile.com/f/km2cjGWZIR"
         },
         {
+          "name": "EUR Base - Akirabox part 4",
+          "url": "https://akirabox.com/QN9mEqk0ym6d/file"
+        },
+        {
+          "name": "EUR Base - Akirabox part 5",
+          "url": "https://akirabox.com/Z9dzBPpenmk1/file"
+        },
+        {
+          "name": "EUR Base - Akirabox part 6",
+          "url": "https://akirabox.com/RMKGJKAv2m1o/file"
+        },
+        {
+          "name": "EUR Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/2Il81w"
+        },
+        {
+          "name": "EUR Base - Rootz part 5",
+          "url": "https://www.rootz.so/d/1232TA"
+        },
+        {
+          "name": "EUR Base - Rootz part 6",
+          "url": "https://www.rootz.so/d/164tKi"
+        },
+        {
+          "name": "EUR Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/cgEsxFweGJ"
+        },
+        {
+          "name": "EUR Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/W6vGmrwKeM"
+        },
+        {
+          "name": "EUR Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/ZkCG1zRXNU"
+        },
+        {
           "name": "EUR exFAT 01.007 Base - AKIA (exFAT)",
           "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQkZQcEg3ZmllMXNqTkEvbHNQUEFZVDhnaW5HSURQS2Z2U2hpU2RXNFc1cFRpc0lqTS9HVHVjK2xjQUE3ZWlGQ0pLOFEwRWQ0MHVNVmc4ZGZtUXdjbyttajlZSk54b2VGbHVVPSIsImkiOiJMTndMOGxVbmFVMDlkdzEvIiwibiI6IkFraWEifQ=="
         },
@@ -527,12 +563,24 @@
           "url": "https://akirabox.com/N2p3DPbMk3Ma/file"
         },
         {
-          "name": "USA Base - Rootz",
+          "name": "USA Base - Rootz part 1",
           "url": "https://www.rootz.so/d/1rg14a"
         },
         {
           "name": "USA Base - Vikingfile",
           "url": "https://vikingfile.com/f/K79xo5Df7h"
+        },
+        {
+          "name": "USA Base - Akia",
+          "url": "https://akirabox.com/vgKGxXA94G8Q/file"
+        },
+        {
+          "name": "USA Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1GHULQ"
+        },
+        {
+          "name": "USA Base - Viki",
+          "url": "https://vikingfile.com/f/erXVcJv9jy"
         },
         {
           "name": "USA exFAT 01.000.002 Base - AKIA (exFAT)",
@@ -120407,6 +120455,37 @@
       "downloadSource": "https://pkg.games/ps5/greyhill-incident/"
     },
     {
+      "titleId": "PPSA10595",
+      "title": "[exFAT] TEKKEN 8",
+      "downloadLinks": [
+        {
+          "name": "USA to EUR Langs exFAT 03.000.001 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidTMra2FTRHhQLzBZT3BTZUppNmw2NzJTUitnaEszbnJnRGFkU2pwSHNsa2k5QkR4N2twVWRsWmVzcEd2dVI4WUtua3BpKzFGWkF4RmNRN2R2M0JmQUZIS0U3ZXllREtTUTFnPSIsImkiOiJCSXpDdEFmRHI0aXhacjhjIiwibiI6IkFraWEifQ=="
+        },
+        {
+          "name": "USA to EUR Langs exFAT 03.000.001 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMUc5K3JpNXI5ZXdxKzR1NkFtWEJ6cmVUTFowTVNiOXpoeWF0cmQ2YmlUSFIzbHVHb0c5WTZCOEp4Nmtzck9rRXJLc2ZIdGZzdFdpTXpBQm8wZlkrZncwS3FsS3JPN2s9IiwiaSI6IjNMZXVybHg0bE45cjJvRUYiLCJuIjoiVmlraSJ9"
+        },
+        {
+          "name": "USA to EUR Langs exFAT 03.000.001 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZGY3Y0RkUkY2RkpFTTZyZXUyT1VpbExsdU9ITEQ0VXc0WnE0R2IyVHZNeWt5WmViNDZHVzZCL2VwTmpva0pTNVBERDl0WEF3NWVwQXYxMUp1ZUpqWVF1elUyT2ciLCJpIjoiak5RTDBlZ1NwcTBjTE1uWSIsIm4iOiJEYXRhIn0="
+        },
+        {
+          "name": "USA to EUR Langs exFAT 03.000.001 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicFRDZkJSWlFvNSthSkxNbWFtaGFXZnB2cFQ1YWNQUHNjWVZIZDdaMDhSdTFHMHRzSG45aUJ1NGlTNFJlbnJBOEZpZ1NnMDFGdy8yeTUvVXFsM0hjVDhxMEZlS0RuSWc9IiwiaSI6IkVVUGlEOHV2a3hkWkhzNUEiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA to EUR Langs exFAT 03.000.001 Base - Vault (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRUZJejV5U29Xa29DM1ZQS0R1cjlzOVlpZ1hzZ0Uvc3ZzNlI4REhKUjhkZmtSRjI4d0NSdXNzYmZDeVlwWXNwUWc3QlB4QkRpYVJRWXk1TklCdDAybkNJVG5kTldOdz09IiwiaSI6ImdNWFR4Qy9seFN0RXdMVlMiLCJuIjoiVmF1bHQifQ=="
+        }
+      ],
+      "version": "03.000.001",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/TEKKEN_8.png",
+      "description": "Region: USA to EUR Langs\nRelease note: exFAT format — FW 03.000.001 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
+    },
+    {
       "titleId": "PPSA01474",
       "title": "[exFAT] Ratchet & Clank Rift Apart Deluxe Edition",
       "downloadLinks": [
@@ -122520,37 +122599,6 @@
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Beast_of_Reincarnation_Deluxe_Edition.avif",
       "description": "Region: USA\nRelease note: exFAT format — FW 01.000 — 4.xx BackPort\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
-    },
-    {
-      "titleId": "PPSA10595",
-      "title": "[exFAT] TEKKEN 8",
-      "downloadLinks": [
-        {
-          "name": "USA to EUR Langs exFAT 03.000.001 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidTMra2FTRHhQLzBZT3BTZUppNmw2NzJTUitnaEszbnJnRGFkU2pwSHNsa2k5QkR4N2twVWRsWmVzcEd2dVI4WUtua3BpKzFGWkF4RmNRN2R2M0JmQUZIS0U3ZXllREtTUTFnPSIsImkiOiJCSXpDdEFmRHI0aXhacjhjIiwibiI6IkFraWEifQ=="
-        },
-        {
-          "name": "USA to EUR Langs exFAT 03.000.001 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMUc5K3JpNXI5ZXdxKzR1NkFtWEJ6cmVUTFowTVNiOXpoeWF0cmQ2YmlUSFIzbHVHb0c5WTZCOEp4Nmtzck9rRXJLc2ZIdGZzdFdpTXpBQm8wZlkrZncwS3FsS3JPN2s9IiwiaSI6IjNMZXVybHg0bE45cjJvRUYiLCJuIjoiVmlraSJ9"
-        },
-        {
-          "name": "USA to EUR Langs exFAT 03.000.001 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZGY3Y0RkUkY2RkpFTTZyZXUyT1VpbExsdU9ITEQ0VXc0WnE0R2IyVHZNeWt5WmViNDZHVzZCL2VwTmpva0pTNVBERDl0WEF3NWVwQXYxMUp1ZUpqWVF1elUyT2ciLCJpIjoiak5RTDBlZ1NwcTBjTE1uWSIsIm4iOiJEYXRhIn0="
-        },
-        {
-          "name": "USA to EUR Langs exFAT 03.000.001 Base - FileK (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicFRDZkJSWlFvNSthSkxNbWFtaGFXZnB2cFQ1YWNQUHNjWVZIZDdaMDhSdTFHMHRzSG45aUJ1NGlTNFJlbnJBOEZpZ1NnMDFGdy8yeTUvVXFsM0hjVDhxMEZlS0RuSWc9IiwiaSI6IkVVUGlEOHV2a3hkWkhzNUEiLCJuIjoiRmlsZUsifQ=="
-        },
-        {
-          "name": "USA to EUR Langs exFAT 03.000.001 Base - Vault (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRUZJejV5U29Xa29DM1ZQS0R1cjlzOVlpZ1hzZ0Uvc3ZzNlI4REhKUjhkZmtSRjI4d0NSdXNzYmZDeVlwWXNwUWc3QlB4QkRpYVJRWXk1TklCdDAybkNJVG5kTldOdz09IiwiaSI6ImdNWFR4Qy9seFN0RXdMVlMiLCJuIjoiVmF1bHQifQ=="
-        }
-      ],
-      "version": "03.000.001",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/TEKKEN_8.png",
-      "description": "Region: USA to EUR Langs\nRelease note: exFAT format — FW 03.000.001 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
     },
     {
