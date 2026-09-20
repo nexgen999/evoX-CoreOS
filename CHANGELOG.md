@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 20/09/2026 à 20:10
+* **PAYLOADS**
+  * `ShadowMountPlus` (Source-Fixe) - *Mise à jour (Précédent: 1.6beta16)*
+  * `kstuff-lite_EchoStretch` (v1.11) - *Mise à jour (Précédent: v1.10)*
+  * `pkgmgr` (v1.1.0) - *Mise à jour (Précédent: v1.0.0)*
+  * `ps5upload` (v5.31.1) - *Mise à jour (Précédent: v5.30.0)*
+
 ## Build du 20/09/2026 à 15:17
 * **PAYLOADS**
   * `ShadowMountPlus` (Source-Fixe) - *Mise à jour (Précédent: 1.6beta16)*

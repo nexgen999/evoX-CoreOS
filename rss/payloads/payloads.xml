@@ -78,9 +78,9 @@
     </item>
     <item>
       <title>kstuff-lite_EchoStretch</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-lite_EchoStretch/v1.10/kstuff-lite_EchoStretch_v1.10.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-lite_EchoStretch/v1.11/kstuff-lite_EchoStretch_v1.11.elf</link>
       <description>Lightweight version of kstuff.</description>
-      <pubDate>v1.10</pubDate>
+      <pubDate>v1.11</pubDate>
     </item>
     <item>
       <title>kstuff-lite_drakmor</title>
@@ -270,9 +270,9 @@
     </item>
     <item>
       <title>pkgmgr</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.0.0/pkgmgr_v1.0.0.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.1.0/pkgmgr_v1.1.0.elf</link>
       <description>A clean and intuitive package manager for PlayStation 5</description>
-      <pubDate>v1.0.0</pubDate>
+      <pubDate>v1.1.0</pubDate>
     </item>
     <item>
       <title>etaHEN</title>
@@ -351,12 +351,6 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ps5-app-dumper/v1.11/ps5-app-dumper_v1.11.elf</link>
       <description>PS5 App Dumper payload.</description>
       <pubDate>v1.11</pubDate>
-    </item>
-    <item>
-      <title>ShadowMountPlus</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.6beta16/ShadowMountPlus_v1.6beta16.elf</link>
-      <description>ShadowMountPlus payload for game mounting.</description>
-      <pubDate>1.6beta16</pubDate>
     </item>
     <item>
       <title>BackPork</title>
@@ -444,9 +438,9 @@
     </item>
     <item>
       <title>ps5upload</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.30.0/ps5upload_v5.30.0.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.31.1/ps5upload_v5.31.1.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v5.30.0</pubDate>
+      <pubDate>v5.31.1</pubDate>
     </item>
     <item>
       <title>airpsx</title>
