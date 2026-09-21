@@ -5,5 +5,6 @@
   </head>
   <body>
     <outline text="Common-FPS-for-PS5" title="Common-FPS-for-PS5" type="rss" xmlUrl="https://github.com/porhe911/Common-FPS-for-PS5" author="porhe911" description="A lightweight, open-source real-time FPS counter for PlayStation 5."/>
+    <outline text="ps5-new-overlay" title="ps5-new-overlay" type="rss" xmlUrl="https://github.com/smoxa/ps5-new-overlay" author="smoxa" description="A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+)."/>
   </body>
 </opml>
