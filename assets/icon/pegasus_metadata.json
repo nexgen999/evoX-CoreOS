@@ -63,5 +63,10 @@
         "titleId": "FAKE00000",
         "title": "Homebrew Launcher",
         "icon": "homebrew-launcher.png"
+    },
+    "PS5Library.pkg": {
+        "titleId": "PPSA99051",
+        "title": "PS5Library",
+        "icon": "PS5Library.png"
     }
 }
