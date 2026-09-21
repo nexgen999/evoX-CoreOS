@@ -9,7 +9,7 @@
             "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "8f4e9a303aa2d7c50359230e5a58cffd1b562605d0587c95d56c89e8bcf076fd"
+            "checksum": "1b155038927eb69a8022720c50745f48f405d70c7582f0f62c0e5c4c0063a31e"
         },
         {
             "name": "A53-kstuff-SMP",
@@ -19,7 +19,7 @@
             "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "209ba08de094fc3866ffbfbdead12f8259b826b2aeab6706d62c84842a83ed31"
+            "checksum": "f8f57577ce31b0662f30498afd82f5999d646179da14739e2ba6b81d0fe82a6a"
         },
         {
             "name": "kstuff",
@@ -29,7 +29,7 @@
             "description": "Experimental Kstuff DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "5aaee93606437a634fce6758866240c9c5a3dbb4602a1ed263d6e34779ff2d92"
+            "checksum": "3473627b6c0afe31a4d0998daba79df1473dd5a282596e1f276cde434f71386a"
         },
         {
             "name": "ShadowMountPlus",
@@ -39,7 +39,7 @@
             "description": "ShadowMountPlus experimental for FPKG",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "2bdae226a1e9d59f436b790df5304bde58924d1acaf76b8511de68f182efaab9"
+            "checksum": "0ce0f22fd13da30a4fa9f800d1d7f20935bf2d32e80540653fc027a1eee1fa9b"
         },
         {
             "name": "a53_ppr_install_fast",
@@ -49,7 +49,7 @@
             "description": "A53 Experimental for Kstuff-Darkmor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "4fc30c772c3200e74a44feef5f920188839589103e1831587f83f1f20e8359ba"
+            "checksum": "1ef3f2aff4c26a7c40aa5364227e523dcad3702c13db028316c7856b2db45a8f"
         },
         {
             "name": "kstuff-echostrech",
@@ -59,7 +59,7 @@
             "description": "Experimental Kstuff EchoStrech",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "e0aaa0df1e77438ceb58ec01219494c8b6c536c6a02993739c927dcb39cbd810"
+            "checksum": "5fb28b9eb9065cce4fbc072e888cf1a5ed83de228bcc8d13c06999fd973cf96d"
         },
         {
             "name": "a53_exploit-experimental",
@@ -69,7 +69,7 @@
             "description": "A53 Experimental for Kstuff-EchoStrech",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "80fa6ee67ba2b46de7b58d4aff37df6c7c3606091268efb27a50841349112734"
+            "checksum": "9508fe450b5ddb8c8889ed7c3dda1fbf1eb680ddbb481c22f92167e345c9aa95"
         },
         {
             "name": "ps5debug-NG",
@@ -583,11 +583,11 @@
         },
         {
             "name": "ps5-new-overlay",
-            "filename": "ps5-new-overlay_v1.0.14.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.14/ps5-new-overlay_v1.0.14.elf",
-            "local_path": "payloads/PS5_Overlay/ps5-new-overlay/v1.0.14/ps5-new-overlay_v1.0.14.elf",
+            "filename": "ps5-new-overlay_v1.0.15.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5-new-overlay_v1.0.15.elf",
+            "local_path": "payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5-new-overlay_v1.0.15.elf",
             "description": "A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+).",
-            "version": "v1.0.14",
+            "version": "v1.0.15",
             "category": "PS5 Overlay",
             "checksum": "54d23675bf44f17599a9e08397cf0c62b0e10cfbffdc2fe1673e5bcc9de8a2b7"
         },
