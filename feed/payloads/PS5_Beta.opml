@@ -4,6 +4,8 @@
     <title>PS5_Beta</title>
   </head>
   <body>
+    <outline text="A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental" title="A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental" type="rss" xmlUrl="https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/SoNic-AIO/A53-Kstuff-ShadowMountPlus-3in1.elf" author="SoNic-AIO" description="Experimental AIO by SoNic credit to EchoStrech DarkMor"/>
+    <outline text="A53-kstuff-SMP_SoNic-AIO_Experimental" title="A53-kstuff-SMP_SoNic-AIO_Experimental" type="rss" xmlUrl="https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/SoNic-AIO/A53-kstuff-SMP.elf" author="SoNic-AIO" description="Experimental AIO by SoNic credit to EchoStrech DarkMor"/>
     <outline text="kstuff_Darkmor_Experimental" title="kstuff_Darkmor_Experimental" type="rss" xmlUrl="https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/Kstuff-Darkmor/kstuff_v1.12-dr-test8.elf" author="Darkmor" description="Experimental Kstuff DarkMor"/>
     <outline text="ShadowMountPlus" title="ShadowMountPlus" type="rss" xmlUrl="https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/ShadownMountPlusExpermiental/ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf" author="Darkmor" description="ShadowMountPlus experimental for FPKG"/>
     <outline text="A53 Experimental KS-D" title="A53 Experimental KS-D" type="rss" xmlUrl="https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/a53_ppr/a53_ppr_install_fast_v15.09.elf" author="Darkmor" description="A53 Experimental for Kstuff-Darkmor"/>
