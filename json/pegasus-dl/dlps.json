@@ -559,7 +559,7 @@
       "title": "Snoopy and The Great Mystery Club Deluxe Edition",
       "downloadLinks": [
         {
-          "name": "USA Base - Akirabox",
+          "name": "USA Base - Akirabox part 1",
           "url": "https://akirabox.com/N2p3DPbMk3Ma/file"
         },
         {
@@ -567,11 +567,11 @@
           "url": "https://www.rootz.so/d/1rg14a"
         },
         {
-          "name": "USA Base - Vikingfile",
+          "name": "USA Base - Vikingfile part 1",
           "url": "https://vikingfile.com/f/K79xo5Df7h"
         },
         {
-          "name": "USA Base - Akia",
+          "name": "USA Base - Akirabox part 2",
           "url": "https://akirabox.com/vgKGxXA94G8Q/file"
         },
         {
@@ -579,7 +579,7 @@
           "url": "https://www.rootz.so/d/1GHULQ"
         },
         {
-          "name": "USA Base - Viki",
+          "name": "USA Base - Vikingfile part 2",
           "url": "https://vikingfile.com/f/erXVcJv9jy"
         },
         {
@@ -72547,13 +72547,25 @@
           "url": "https://rootz.so/d/1Fj9xg"
         },
         {
-          "name": "USA exFAT 01.029 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/link-lock-pippo/#eyJ2IjoiMC4wLjEiLCJlIjoibFJDemtiQkN4VTJBSVlXNGwzblAyNjZNQzYybDBHZmFiSDNVZlZWQlV6K1ZCMjVvdUdJdytVYU10UjY4eEFyWlRWck85dDVwIiwicyI6ImkwU2NuN3dsWkhDVUFWRytEalRWemc9PSIsImkiOiJmTkJTZ1E3OXhqTHFFNWRaIn0="
+          "name": "USA exFAT 01.031 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiK2NGSGtqajJ3V3pwaCtEeDhrM0tHU0I5WFYxOG5nU3Q5V1ZWVVZIQ29oN3B6NHlyUWw0a3Jza2FwQXhOSGlDOURON0VrcWpxNUNkR0R2bkd5TUYybUxGWlNwaWN5WUFzSEdrPSIsImkiOiJTSFpWbWJPZmI1VytRS3FNIiwibiI6IkFraWEifQ=="
+        },
+        {
+          "name": "USA exFAT 01.031 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiY0VnSmx6Q2NiVzdoYlM5dks3N0RXcUJuRDBDY0FQdzVNV3hubGRaTEo3N2NaWkhNN3RrSFBIQlJwYmhGVmJUcVJNV1lNUFhMdUMvcmxCUzczbjFxY0N2VTlHanJzdG89IiwiaSI6IldzMUZwcGpHc2txRHp3RCsiLCJuIjoiVmlraSJ9"
+        },
+        {
+          "name": "USA exFAT 01.031 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZUVSQUVnY1VBdVg1V2RCSzlHVTNiNWlvcmZrOUovZHRWOTlGY29FQjV6SHN2Z2NmY1lvUDF4VjZ2SGxhRmhJKzhPcVJkSnBCY3dKTlpDelczaHVqd3p1ODl1dkoiLCJpIjoidXJ2VitBbWlSRC9qY2svayIsIm4iOiJEYXRhIn0="
+        },
+        {
+          "name": "USA exFAT 01.031 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZVM2K1l4VWxlMkFhVU4rZ2s2RlJLZDdEL0w1enhoeEFVV3hlUFdtcFFxcTg0V1djckl1VytZM2VNWFhucVJ3MFNGVU0zd0ZaeExHVnBmUTZtK25STXhlWGZvTG91K3M9IiwiaSI6Ik5PN1ZRVE1oRkJnamNzRXoiLCJuIjoiRmlsZUsifQ=="
         }
       ],
       "category": "game",
       "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/02/1.jpg",
-      "description": "Variant: 5.xx\nRelease note: PP SA 01716 – USA Works on 5.xx and higher\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.029\nRegion: USA\nRelease note: exFAT format — FW 01.029 — 4.xx BackPort\nContributor: pippo",
+      "description": "Variant: 5.xx\nRelease note: PP SA 01716 – USA Works on 5.xx and higher\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.031\nRegion: USA\nRelease note: exFAT format — FW 01.031 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/need-for-speed-unbound-ps5/"
     },
     {

@@ -9,7 +9,7 @@
       "description": "Experimental Kstuff DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "465d46151794667bb2336ab6398058551ce15b62a1fc7c7251f47c8907806e38"
+      "checksum": "c2588c97ee9073fe3e75012ce6cfa7f864aec7483a55693804350af152b694eb"
     },
     {
       "name": "ShadowMountPlus",
@@ -19,7 +19,7 @@
       "description": "ShadowMountPlus experimental for FPKG",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "9e03676f67bc3fb47cd4bd82b4928238b4843a6f3f3b89d8149f8ea8c5089ad5"
+      "checksum": "2b022ebef0dd86a9da24bb74ec19b650abb6e379b3915cc1b0734a8de639e2c1"
     },
     {
       "name": "a53_ppr_install_fast",
@@ -29,7 +29,7 @@
       "description": "A53 Experimental for Kstuff-Darkmor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "65e018d4b3b8042fe802715e76fb008ffe0f80f3aaeb946440cfc5b81ef32b84"
+      "checksum": "e1e1cf14f164072debdfc3a394579c073af7eb7ce99dc5b5b280b9ee9bcbcab5"
     },
     {
       "name": "kstuff-echostrech",
@@ -39,7 +39,7 @@
       "description": "Experimental Kstuff EchoStrech",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "0f8ca28b8f53ba96a344a2bcee39ab2c3494ea2ee697a7822c7a291a4d9a33aa"
+      "checksum": "387468507403f7e67329feb60222e1870f768db8a96c254c1c7d09c80f8c0b1f"
     },
     {
       "name": "a53_exploit-experimental",
@@ -49,7 +49,7 @@
       "description": "A53 Experimental for Kstuff-EchoStrech",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "d68ce497a8a76ae3863007ad82c316b2e4d4635a0d9d6f591e0c6f783086257e"
+      "checksum": "e2e88132268f19c58a46b2ac44af9c36dd8b69864792229531b2863d84beb10a"
     },
     {
       "name": "ps5debug-NG",
@@ -129,7 +129,7 @@
       "description": "Lightweight version of kstuff.",
       "version": "v1.11",
       "category": "PS5 Kstuff",
-      "checksum": "ea14edbfe18ddc04f10dc09c4b1bf0c26e95b34a115a797722d6eda6298769c7"
+      "checksum": "62d9bb6f16531e1c10fd522cb918431eaa3319dcd37405af5cc0b2240d7b2ee5"
     },
     {
       "name": "kstuff-lite_drakmor",
@@ -713,23 +713,23 @@
     },
     {
       "name": "ftpsrv_drakmor",
-      "filename": "ftpsrv_drakmor_v1.15-ng-stable.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ftpsrv_drakmor/1.15-ng-stable/ftpsrv_drakmor_v1.15-ng-stable.elf",
-      "local_path": "payloads/ps5_server/ftpsrv_drakmor/1.15-ng-stable/ftpsrv_drakmor_v1.15-ng-stable.elf",
+      "filename": "ftpsrv_drakmor_v1.16-ng-stable.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ftpsrv_drakmor/1.16-ng-stable/ftpsrv_drakmor_v1.16-ng-stable.elf",
+      "local_path": "payloads/ps5_server/ftpsrv_drakmor/1.16-ng-stable/ftpsrv_drakmor_v1.16-ng-stable.elf",
       "description": "Drakmor's variant of the FTP server. Port: 21",
-      "version": "1.15-ng-stable",
+      "version": "1.16-ng-stable",
       "category": "PS5 Server",
-      "checksum": "913a443af847b6861ec11748e2640f62d1fc1027076f576aa0ddccab8507311f"
+      "checksum": "f19ae469b25453a7a4af4529527521d31f143100f18a2c6839666e7121c8bd32"
     },
     {
       "name": "ps5upload",
-      "filename": "ps5upload_v5.31.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.31.1/ps5upload_v5.31.1.elf",
-      "local_path": "payloads/ps5_server/ps5upload/v5.31.1/ps5upload_v5.31.1.elf",
+      "filename": "ps5upload_v5.31.3.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.31.3/ps5upload_v5.31.3.elf",
+      "local_path": "payloads/ps5_server/ps5upload/v5.31.3/ps5upload_v5.31.3.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v5.31.1",
+      "version": "v5.31.3",
       "category": "PS5 Server",
-      "checksum": "c366ebdec72c53154938d3dc319ca9ee6b1bbceee52344755e88774c3d3b0956"
+      "checksum": "b1d02286a0b3dd10dc57275e8477513dca08ffb0697ad6543cd6a8bc7d771c25"
     },
     {
       "name": "airpsx",

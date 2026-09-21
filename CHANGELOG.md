@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 21/09/2026 à 02:51
+* **PAYLOADS**
+  * `ftpsrv_drakmor` (1.16-ng-stable) - *Mise à jour (Précédent: 1.15-ng-stable)*
+  * `ps5upload` (v5.31.3) - *Mise à jour (Précédent: v5.31.1)*
+* **FFPFSC**
+  * `ProsperoTV (PPSA99003.ffpfsc)` (01.000.005) - *Mise à jour (Précédent: 01.000.002)*
+
 ## Build du 20/09/2026 à 20:10
 * **PAYLOADS**
   * `ShadowMountPlus` (Source-Fixe) - *Mise à jour (Précédent: 1.6beta16)*

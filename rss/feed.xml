@@ -432,15 +432,15 @@
     </item>
     <item>
       <title>[Payloads] ftpsrv_drakmor</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ftpsrv_drakmor/1.15-ng-stable/ftpsrv_drakmor_v1.15-ng-stable.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ftpsrv_drakmor/1.16-ng-stable/ftpsrv_drakmor_v1.16-ng-stable.elf</link>
       <description>Drakmor's variant of the FTP server. Port: 21</description>
-      <pubDate>1.15-ng-stable</pubDate>
+      <pubDate>1.16-ng-stable</pubDate>
     </item>
     <item>
       <title>[Payloads] ps5upload</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.31.1/ps5upload_v5.31.1.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.31.3/ps5upload_v5.31.3.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v5.31.1</pubDate>
+      <pubDate>v5.31.3</pubDate>
     </item>
     <item>
       <title>[Payloads] airpsx</title>
@@ -528,9 +528,9 @@
     </item>
     <item>
       <title>[Fichiers FFPFSC] ProsperoTV (PPSA99003.ffpfsc)</title>
-      <link>https://github.com/blackbearreloaded/ProsperoTV/releases/download/01.000.002/PPSA99003.ffpfsc</link>
+      <link>https://github.com/blackbearreloaded/ProsperoTV/releases/download/01.000.005/PPSA99003.ffpfsc</link>
       <description>PS5 IPTV</description>
-      <pubDate>01.000.002</pubDate>
+      <pubDate>01.000.005</pubDate>
     </item>
     <item>
       <title>[Applications] castation (castation-0.4.0.zip)</title>

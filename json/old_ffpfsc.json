@@ -24,10 +24,10 @@
         {
             "name": "ProsperoTV (PPSA99003.ffpfsc)",
             "filename": "PPSA99003.ffpfsc",
-            "url": "https://github.com/blackbearreloaded/ProsperoTV/releases/download/01.000.002/PPSA99003.ffpfsc",
+            "url": "https://github.com/blackbearreloaded/ProsperoTV/releases/download/01.000.005/PPSA99003.ffpfsc",
             "local_path": "archives/temp_ffpfsc/PPSA99003.ffpfsc",
             "description": "PS5 IPTV",
-            "version": "01.000.002",
+            "version": "01.000.005",
             "author": "blackbearreloaded",
             "category": "FFPFSC"
         }

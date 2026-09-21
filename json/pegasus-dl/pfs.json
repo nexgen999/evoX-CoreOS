@@ -3,6 +3,58 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA21914",
+      "title": "Undisputed Championship Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/KpJhA8HUeU"
+        }
+      ],
+      "version": "02.005",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA21914_ce011b67a15af01f56bebf18a0fc88cea46376b59db2b1509da3008a92052ce4/icon0.webp",
+      "description": "Champions are not born; they are forged. Rule the ring with Undisputed: The Championship Edition, featuring your new cover star Terence “Bud” Crawford. The Championship Edition includes a packed roster of over 100 fighters, more than 25 venues and extra apparel. With 4 mega DLC’s - The WBC Pack; The Iron & Steel Pack; The Mexican Monster Pack and brand-new The Senator Pack the Championship Edition is a true celebration of boxing. The WBC Pack includes: Jaime Munguia, Regis Prograis, Jesse ‘Bam’ Rodriguez, Dmitry Bivol, Caleb Plant and Julio Cesar Chavez, along with alternate right attire for each. This also includes The Era Pack, featuring younger versions of Tyson Fury ’09, Canelo Alverez ’11 and Muhammad Ali ’64. This pack also includes alternate ring attire for Claressa Shields, Canelo Alvarez, Oleksandr Usyk, Katie Taylor, Tyson Fury and Amir Khan. The Iron & Steel Pack includes: Wladimir Klitschko, Vitali Klitschko, Jai Opetaia, Román ‘Chocolatito’ González, Juan Francisco Estrada, Shannon ‘The Cannon’ Briggs, and Eric ‘Butterbean’ Esch, along with alternate right attire for each. This pack also includes The Mexican Monster Pack includes: David Benavidez, Andy Ruiz, Charles Martin, Robert Helenius, Fernando Vargas Sr., Hector Camacho and Sugar Ray Leonard ’87, along with alternate ring attire for each. The Senator Pack includes: Manny Pacquiao, Sergey Kovalev, Egidijus Kavaliauskas, Evgeny Gradovich, Edgar Berlanga, Ricardo Mayorga and Vinny Paz, along with alternate ring attire for each.\nRegion: EUR\nUpdated: 2026-09-21T02:36:04.321Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 17867063951
+    },
+    {
+      "titleId": "PPSA08331",
+      "title": "God Of War Ragnarok",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/HzXyLOLE79"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/68f43uHK3W"
+        }
+      ],
+      "version": "06.005",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA08331_b3a7dbc83875bd054546a6c31028b00cfbc70661e5e06ab665e920e609594f7f/icon0.webp",
+      "description": "From Santa Monica Studio comes the sequel to the critically acclaimed God of War (2018). Join Kratos and Atreus on a mythic journey for answers before Ragnarök arrives. Together, father and son must put everything on the line as they journey to each of the Nine Realms. Throughout stunning mythological landscapes, they’ll face fearsome enemies – from Norse gods to wild beasts – as they prepare for the showdown of their lives. Armed with his trusty weapons of war – including the Leviathan Axe and the Blades of Chaos – Kratos’ deadly skills will be tested like never before as he fights to protect his family. A host of new abilities for him and Atreus also await, leaving room for fluid, expressive and customizable combat in this epic and unflinching tale. All the while, Asgardian forces assemble… - Feel your journey through the Norse realms, made possible by immersive haptic feedback and adaptive trigger functionality. - Bask in the beautiful worlds you travel through, brought to life by stunning art direction and arresting attention to detail. - Take advantage of multidirectional 3D Audio; hear enemies approaching from any direction.¹ ¹ 3D Audio with stereo headphones (analog or USB).\nRegion: EUR\nUpdated: 2026-09-21T01:43:42.393Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 108866683535
+    },
+    {
+      "titleId": "PPSA03098",
+      "title": "Dead Island 2 Ultimate Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/40tGVoWcAm"
+        }
+      ],
+      "version": "01.000.011",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03098_7a9ee1528442fe554911fc1db9d5ab658737c2a0136dbbc3e7ac2951e52e19d7/icon0.webp",
+      "description": "The much-loved zombie saga is back with a unique formula of horror, dark humor and over the top zombie-slaying, spanning an epic pulp adventure. Dead Island 2 is a thrilling First-Person Action RPG, stylish, vibrant and flooded with zombie infection. Explore iconic, gore-drenched Los Angeles. Meet larger-than-life characters. Slay countless foes in exquisitely bloody detail. And evolve to become the ultimate Zombie Slayer. New Ways to Slay - Join the Bobcats, in a new co-op horde mode! And continue your adventure in New Game+, featuring new zombies, abilities, weapons and more. The Ultimate Edition features the PS4 and PS5 versions of the game, both epic story expansions plus special weapons and stylish gear to unleash a new level of carnage. The Ultimate Edition includes: - Haus and SoLA expansions - Memories of Banoi Pack - Golden Weapons Pack - Pulp Weapons Pack - Red’s Demise Katana - 6 Premium Character Packs - Kingdom Come: Deliverance II Pack Players using PS5 and PS4 Pro consoles can host and join co-op sessions. PS4 players can join co-op sessions, but due to technical limitations they can host sessions for only one joining player. For customers in Germany - Once zombies are defeated, players can no longer deal damage to or further dismember zombie corpses. USK players can play co-op sessions with international players through friend invites and joining friends. For public matchmaking, USK players can only play with other USK players.\nRegion: USA\nUpdated: 2026-09-21T01:20:40.949Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 66840428544
+    },
+    {
       "titleId": "PPSA01556",
       "title": "Resident Evil Village Gold Edition",
       "downloadLinks": [
@@ -553,7 +605,7 @@
       ],
       "version": "01.070",
       "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0302/8jomNsyMYDoJnzFkBrr9Rit2.jpg",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01532_1a95db17f8fea3796263253b3ebf5c021a725f8e9c397721889f6d12a420be95/icon0.webp",
       "description": "This product entitles you to download both the digital PS4® version and the digital PS5® version of this game. The Complete Edition includes: - The base game - Dawn of Ragnarök major expansion - Season Pass: 2 expansions (Wrath of the Druids, The Siege of Paris) and 1 quest (Legend of Beowulf) - Berserker Pack: gear, settlement, longship packs, and a set of runes Play as a Viking warrior in this action-adventure game set in England’s Dark Ages. Explore a dynamic open world, raid your enemies, and grow your settlement to earn your place among the gods in Valhalla... BUILD YOUR OWN VIKING LEGEND Become Eivor, a mighty Viking raider, and lead your clan. Advanced RPG mechanics allow you to influence the world around you. With every choice you make, from political alliances and combat strategy, to dialogue and gear progression, carve your path to glory! EXPLORE A DARK AGE WORLD Sail from Norway’s icy coasts to England’s lush kingdoms. Roam a vast open world, hunt legendary beasts, and lay bare the secrets of a fractured land. EXPERIENCE VISCERAL COMBAT Unleash the ruthless fighting style of a Viking warrior and dual wield axes, swords, or even shields against fierce, relentless foes. Choose your tactics and dismember opponents in close-quarters combat, riddle them with arrows, or assassinate them with your Hidden Blade. GROW YOUR SETTLEMENT Construct and upgrade buildings that allow for deep customization, including a barracks, a smithy, a tattoo parlor, and more. Recruit new members to your clan and personalize your Viking experience. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4® game disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.\nRegion: EUR\nUpdated: 2026-09-19T14:28:13.088Z",
       "downloadSource": "https://pfs-library.vercel.app/api/packages",
       "sizeBytes": 152890098319
@@ -569,7 +621,7 @@
       ],
       "version": "01.004",
       "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2116/c7SeX9ELz4PR3L3m8DQnu2lM.png",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01685_e6fd1c32bbcf67562d195744d7f19531f55f535b87d706f49188cfc33a56bfe4/icon0.webp",
       "description": "The latest instalment in the award-winning series, Sniper Elite 5 offers unparalleled sniping, tactical third-person combat and an enhanced kill cam. Fight your way across the most immersive maps yet, with many real-world locations captured in stunning detail, and an improved traversal system that lets you explore more of them than ever before. France, 1944 – As part of a covert US Rangers operation to weaken the Atlantikwall fortifications along the coast of Brittany, elite marksman Karl Fairburne makes contact with the French Resistance. Soon they uncover a secret Nazi project that threatens to end the war before the Allies can even invade Europe: Operation Kraken. EXPANSIVE CAMPAIGN Many real-world locations have been captured using photogrammetry to recreate a living, immersive environment, and multiple infiltration and extraction points and kill list targets provide a whole new perspective on each mission. Take on the Nazi plot solo or work with a partner, with improved co-op mechanics allowing you to share ammo and items, give orders and heal each other. ADVANCED GUNPLAY PHYSICS AND TRAVERSAL Use ziplines, slide down slopes and shimmy along ledges to reach the perfect vantage point, or to sneak past a sharp-eyed lookout. Factor in rifle stock and barrel options along with gravity, wind and heart rate while you line up your sights on the target. HIGH CALIBRE CUSTOMISATION Use workbenches to customise and upgrade virtually every aspect of your weapon – change scopes, stocks, barrels, magazines and more. Rifles, secondaries and pistols all have a huge variety of options. On top of that you can select the ammo to suit your target, from armour-piercing right down to non-lethal. INVASION MODE – CAMPAIGN DROP IN PvP AND CO-OP Invade another player’s Campaign as an Axis sniper and engage in a deadly game of cat and mouse, providing a new dimension to the challenge as you stalk your prey. Alternatively, as Karl you can call for assistance and have a second sniper drop in to help you out of a tricky situation. TENSE ADVERSIAL MULTIPLAYER Customise your character and loadout and earn XP, medals and ribbons as you take on intensely competitive 16 player battles that will really test your sharpshooting skills. If co-op’s more your style, you can team up with up to 3 other players against waves of enemies in Survival mode. ENHANCED KILL CAM More realistic and grisly than ever, the trademark X-ray kill cam returns, showing you the true destructive power of each shot. Bones deflect bullets unpredictably, ripping a new path through enemy bodies. SMGs and pistols can also trigger kill cams, including multiple shots in dramatic slow motion.\nRegion: USA\nUpdated: 2026-09-19T14:24:23.517Z",
       "downloadSource": "https://pfs-library.vercel.app/api/packages",
       "sizeBytes": 92180735590
@@ -585,7 +637,7 @@
       ],
       "version": "01.008.001",
       "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/3021/QeJWAaLcYNOpCv7yCVZZEOY5.jpg",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01467_65184b2f79850da84b1e0f7112b2d4eda08c413a4b48227586cff0aa58beab01/icon0.webp",
       "description": "This unmissable bundle includes Marvel’s Spider-Man Remastered – the complete award-winning game, including all three DLC chapters in the Marvel’s Spider-Man: The City That Never Sleeps adventure – remastered and enhanced for the PS5™ system.\nRegion: USA\nAPR: apr-emu-v0.4.2.1\nNotes: If no Speech in-game change your console language into English, French etc..\nUpdated: 2026-09-19T14:18:18.205Z",
       "downloadSource": "https://pfs-library.vercel.app/api/packages",
       "sizeBytes": 96636764160
@@ -617,7 +669,7 @@
       ],
       "version": "01.905",
       "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1908/5c3f6eb25719d364f490736453e9dc420ed6b92761b8248b.png",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01325_75f608c91b50e59c9cee3da41850356dbbdbaa6092ae80fd16cd0054fcf29355/icon0.webp",
       "description": "From the team behind the original THE PLAYROOM and the critically acclaimed ASTRO BOT Rescue Mission, comes a brand new platformer preloaded on your PS5™ console. Take control of ASTRO and feel the world through your DualSense™ Wireless Controller: every step you take, every jump you make, and every enemy you defeat are felt in a whole new way thanks to the immersive haptic feedback technology. On your way, use new power ups that show the potential of the dynamic adaptive triggers, motion sensor, touchpad and integrated speaker working together to deliver a totally new gameplay experience. Take time to enjoy the many hidden references to PlayStation® history and collect timeless artifacts to display in your beloved PlayStation Labo!\nRegion: EUR\nUpdated: 2026-09-18T15:33:11.383Z",
       "downloadSource": "https://pfs-library.vercel.app/api/packages",
       "sizeBytes": 12133282611
@@ -1069,11 +1121,15 @@
         {
           "name": "Viki",
           "url": "https://vik1ngfile.site/f/7RnyyiLRYU"
+        },
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vikingfile.com/f/ro1GewMpa3"
         }
       ],
       "version": "01.008.001",
       "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/3021/QeJWAaLcYNOpCv7yCVZZEOY5.jpg",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01467_65184b2f79850da84b1e0f7112b2d4eda08c413a4b48227586cff0aa58beab01/icon0.webp",
       "description": "This unmissable bundle includes Marvel’s Spider-Man Remastered – the complete award-winning game, including all three DLC chapters in the Marvel’s Spider-Man: The City That Never Sleeps adventure – remastered and enhanced for the PS5™ system.\nRegion: USA\nNotes: If no Speech in-game change your console language into English, French etc..\nUpdated: 2026-09-17T11:09:41.275Z",
       "downloadSource": "https://pfs-library.vercel.app/api/packages",
       "sizeBytes": 71908489953
@@ -1813,6 +1869,10 @@
         {
           "name": "Data",
           "url": "https://datanodes.to/ftbgwrowjlhc/All_6DLCs_DUPLEX.rar"
+        },
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vikingfile.com/f/3HXAVFI9N7"
         }
       ],
       "version": "1.019.076",
@@ -2797,7 +2857,7 @@
       ],
       "version": "01.905",
       "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1908/5c3f6eb25719d364f490736453e9dc420ed6b92761b8248b.png",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01325_75f608c91b50e59c9cee3da41850356dbbdbaa6092ae80fd16cd0054fcf29355/icon0.webp",
       "description": "From the team behind the original THE PLAYROOM and the critically acclaimed ASTRO BOT Rescue Mission, comes a brand new platformer preloaded on your PS5™ console. Take control of ASTRO and feel the world through your DualSense™ Wireless Controller: every step you take, every jump you make, and every enemy you defeat are felt in a whole new way thanks to the immersive haptic feedback technology. On your way, use new power ups that show the potential of the dynamic adaptive triggers, motion sensor, touchpad and integrated speaker working together to deliver a totally new gameplay experience. Take time to enjoy the many hidden references to PlayStation® history and collect timeless artifacts to display in your beloved PlayStation Labo!\nRegion: EUR\nFirmware: 4.xx\nAPR: apr-emu-v0.3.6.6 (latest: apr-emu-v0.4.2.1)\nCredits: DK Ricasa\nUpdated: 2026-08-31T14:01:54.819Z",
       "downloadSource": "https://pfs-library.vercel.app/api/packages",
       "sizeBytes": 13207024435
@@ -8800,7 +8860,7 @@
       ],
       "version": "01.008.001",
       "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/3021/QeJWAaLcYNOpCv7yCVZZEOY5.jpg",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01467_65184b2f79850da84b1e0f7112b2d4eda08c413a4b48227586cff0aa58beab01/icon0.webp",
       "description": "This unmissable bundle includes Marvel’s Spider-Man Remastered – the complete award-winning game, including all three DLC chapters in the Marvel’s Spider-Man: The City That Never Sleeps adventure – remastered and enhanced for the PS5™ system.\nRegion: USA\nFirmware: 5.xx\nAPR: apr-emu-v0.2.7.6 (latest: apr-emu-v0.4.2.1)\nNotes: If no Speech in-game change your console language into English, French etc..\nCredits: T4MAGO\nUpdated: 2026-07-05T15:22:55.259Z",
       "downloadSource": "https://pfs-library.vercel.app/api/packages",
       "sizeBytes": 75709536010
@@ -8912,7 +8972,7 @@
       ],
       "version": "01.070",
       "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/0302/8jomNsyMYDoJnzFkBrr9Rit2.jpg",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01532_1a95db17f8fea3796263253b3ebf5c021a725f8e9c397721889f6d12a420be95/icon0.webp",
       "description": "This product entitles you to download both the digital PS4® version and the digital PS5® version of this game. The Complete Edition includes: - The base game - Dawn of Ragnarök major expansion - Season Pass: 2 expansions (Wrath of the Druids, The Siege of Paris) and 1 quest (Legend of Beowulf) - Berserker Pack: gear, settlement, longship packs, and a set of runes Play as a Viking warrior in this action-adventure game set in England’s Dark Ages. Explore a dynamic open world, raid your enemies, and grow your settlement to earn your place among the gods in Valhalla... BUILD YOUR OWN VIKING LEGEND Become Eivor, a mighty Viking raider, and lead your clan. Advanced RPG mechanics allow you to influence the world around you. With every choice you make, from political alliances and combat strategy, to dialogue and gear progression, carve your path to glory! EXPLORE A DARK AGE WORLD Sail from Norway’s icy coasts to England’s lush kingdoms. Roam a vast open world, hunt legendary beasts, and lay bare the secrets of a fractured land. EXPERIENCE VISCERAL COMBAT Unleash the ruthless fighting style of a Viking warrior and dual wield axes, swords, or even shields against fierce, relentless foes. Choose your tactics and dismember opponents in close-quarters combat, riddle them with arrows, or assassinate them with your Hidden Blade. GROW YOUR SETTLEMENT Construct and upgrade buildings that allow for deep customization, including a barracks, a smithy, a tattoo parlor, and more. Recruit new members to your clan and personalize your Viking experience. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4® game disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.\nRegion: EUR\nFirmware: 4.xx +\nAPR: apr-emu-v0.2.7.6 (latest: apr-emu-v0.4.2.1)\nUpdated: 2026-07-02T22:35:50.566Z",
       "downloadSource": "https://pfs-library.vercel.app/api/packages",
       "sizeBytes": 175019917312
