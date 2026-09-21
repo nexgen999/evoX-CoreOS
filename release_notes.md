@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.21-1650)
+### 🚀 Synthèse de la mise à jour (v2026.09.21-1658)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -110,6 +110,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PS5PKG_InternetBrowser-Game_Menu_v1.00.pkg`
   * `PS5PKG_InternetBrowser-Media_Menu_v1.00.pkg`
   * `PS5-SHOP-APPKG.pkg`
+  * `PS5Library.pkg`
   * `PS5PKG_Itemzflow_Game_Manager_v1.14.pkg`
   * `PS5PKG_PS5-Xplorer_v1.05.pkg`
   * `PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg`

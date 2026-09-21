@@ -72,6 +72,16 @@
             "category": "PKG"
         },
         {
+            "name": "PS5Library",
+            "filename": "PS5Library.pkg",
+            "url": "https://github.com/rdiol12/PS5Library/releases/download/v0.2.10/PS5Library.pkg",
+            "local_path": "archives/temp_pkg/PS5Library.pkg",
+            "description": "PS5Library need ps5library-agent.elf.",
+            "version": "v1.0.0",
+            "author": "rdiol12",
+            "category": "PKG"
+        },
+        {
             "name": "Itemzflow_Game_Manager",
             "filename": "PS5PKG_Itemzflow_Game_Manager_v1.14.pkg",
             "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Itemzflow_Game_Manager_v1.14.pkg",

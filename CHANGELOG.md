@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 21/09/2026 à 16:58
+* **PKG**
+  * `PS5Library` (v1.0.0) - *Nouveau*
+
 ## Build du 21/09/2026 à 16:50
 * **PAYLOADS**
   * `ps5-ezremote-server` (1.10) - *Nouveau*
