@@ -80,13 +80,13 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| [A53-Kstuff-ShadowMountPlus-3in1](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf) | Source-Fixe | `5cbc8357ec92...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
-| [A53-kstuff-SMP](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf) | Source-Fixe | `99b0850be091...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
-| [a53_exploit-experimental](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-E/Source-Fixe/a53_exploit-experimental.elf) | Source-Fixe | `23e1e7a6bbe0...` | A53 Experimental for Kstuff-EchoStrech |
-| [a53_ppr_install_fast](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-D/Source-Fixe/a53_ppr_install_fast_v15.09.elf) | Source-Fixe | `04ecb5832aef...` | A53 Experimental for Kstuff-Darkmor |
-| [kstuff](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf) | Source-Fixe | `0580b5d730ca...` | Experimental Kstuff DarkMor |
-| [kstuff-echostrech](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff_EchoStrech_Experimental/Source-Fixe/kstuff-echostrech_v1.11expermiental.elf) | Source-Fixe | `8e751ceb5ecc...` | Experimental Kstuff EchoStrech |
-| [ShadowMountPlus](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/ShadowMountPlus/Source-Fixe/ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf) | Source-Fixe | `c3624f9e143f...` | ShadowMountPlus experimental for FPKG |
+| [A53-Kstuff-ShadowMountPlus-3in1](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf) | Source-Fixe | `298aec7a705d...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
+| [A53-kstuff-SMP](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf) | Source-Fixe | `5b65ca5bb569...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
+| [a53_exploit-experimental](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-E/Source-Fixe/a53_exploit-experimental.elf) | Source-Fixe | `40b970c9916b...` | A53 Experimental for Kstuff-EchoStrech |
+| [a53_ppr_install_fast](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-D/Source-Fixe/a53_ppr_install_fast_v15.09.elf) | Source-Fixe | `14e984192ce0...` | A53 Experimental for Kstuff-Darkmor |
+| [kstuff](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf) | Source-Fixe | `d4aa505052cb...` | Experimental Kstuff DarkMor |
+| [kstuff-echostrech](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff_EchoStrech_Experimental/Source-Fixe/kstuff-echostrech_v1.11expermiental.elf) | Source-Fixe | `5e9ecf293ba0...` | Experimental Kstuff EchoStrech |
+| [ShadowMountPlus](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/ShadowMountPlus/Source-Fixe/ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf) | Source-Fixe | `ba45e00b2f8e...` | ShadowMountPlus experimental for FPKG |
 
 ### 📂 PS5 Cheat
 

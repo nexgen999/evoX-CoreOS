@@ -101,8 +101,9 @@
             "version": "v1.0.0",
             "author": "rdiol12",
             "category": "PKG",
-            "titleId": "CUSA00000",
-            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg"
+            "titleId": "PPSA99051",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/PS5Library.png",
+            "title": "PS5Library"
         },
         {
             "name": "Itemzflow_Game_Manager",
