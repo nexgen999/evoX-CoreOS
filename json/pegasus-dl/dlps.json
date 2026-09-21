@@ -3,6 +3,40 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA25217",
+      "title": "Super Robot Wars Y",
+      "downloadLinks": [
+        {
+          "name": "ASIA 9.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/k0embby1JmVb/file"
+        },
+        {
+          "name": "ASIA 9.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/Pbe3PaBVJzlX/file"
+        },
+        {
+          "name": "ASIA 9.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1uEeYq"
+        },
+        {
+          "name": "ASIA 9.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/laGjA"
+        },
+        {
+          "name": "ASIA 9.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/1X8fHvCQSP"
+        },
+        {
+          "name": "ASIA 9.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/ozpTj8IBbC"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/09/1-rde-1.jpg",
+      "description": "Region: ASIA\nRelease note: Works on 9.xx and higher\nContributor: @DLPS Team\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/super-robot-wars-y-ps5/"
+    },
+    {
       "titleId": "PPSA13934",
       "title": "Spirit of The Island",
       "downloadLinks": [
@@ -173,33 +207,33 @@
       "title": "The Smurfs Dreams",
       "downloadLinks": [
         {
-          "name": "EUR Base - Akirabox",
+          "name": "EUR Base - Akirabox part 1",
           "url": "https://akirabox.com/9AqGQZnKvmMn/file"
         },
         {
-          "name": "EUR Base - Rootz",
+          "name": "EUR Base - Rootz part 1",
           "url": "https://www.rootz.so/d/KEWmG"
         },
         {
-          "name": "EUR Base - Vikingfile",
+          "name": "EUR Base - Vikingfile part 1",
           "url": "https://vikingfile.com/f/Ga4cqQQOyh"
         },
         {
-          "name": "EUR 9.xx Base - Akirabox",
+          "name": "EUR Base - Akirabox part 2",
           "url": "https://akirabox.com/Z9dzBPpyxmk1/file"
         },
         {
-          "name": "EUR 9.xx Base - Rootz",
+          "name": "EUR Base - Rootz part 2",
           "url": "https://www.rootz.so/d/5UDA0"
         },
         {
-          "name": "EUR 9.xx Base - Vikingfile",
+          "name": "EUR Base - Vikingfile part 2",
           "url": "https://vikingfile.com/f/i2hjrfHrr8"
         }
       ],
       "category": "game",
       "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/09/4-bcd.jpg",
-      "description": "Variant: EUR\nRegion: EUR\nRelease note: DLCs Merged.\nContributor: Thanks to Dunaevnick for the Files, DecKerr97 for the BackPort and drakmor for dlc-emu.\nPassword: DLPSGAME.COM\n\nVariant: EUR 9.xx\nRegion: EUR\nRelease note: Works on 9.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Region: EUR\nRelease note: DLCs Merged.\nContributor: Thanks to Dunaevnick for the Files, DecKerr97 for the BackPort and drakmor for dlc-emu.\nPassword: DLPSGAME.COM",
       "downloadSource": "https://dlpsgame.com/the-smurfs-dreams-ps5/"
     },
     {
@@ -3746,6 +3780,10 @@
           "url": "https://vikingfile.com/f/l1l96pArtK"
         },
         {
+          "name": "EUR 6.xx Game (v01.049)(DLC) [APR-EMU] - Vikingfile part 7",
+          "url": "https://vikingfile.com/f/z4EuUqziL1"
+        },
+        {
           "name": "EUR 6.xx BackPort 4.xx - Akirabox",
           "url": "https://akirabox.com/RMKGJK8y4m1o/file"
         },
@@ -3886,6 +3924,10 @@
         {
           "name": "USA 6.xx Game (v01.049) (DLC) [APR-EMU] - 1fichier part 7",
           "url": "https://1fichier.com/?v6r1uhpqkngitkkt2dbk"
+        },
+        {
+          "name": "USA 6.xx Game (v01.049) (DLC) [APR-EMU] - Vikingfile part 7",
+          "url": "https://vikingfile.com/f/rd0XnekhT0"
         },
         {
           "name": "USA 6.xx BackPort 4.xx - Akirabox",

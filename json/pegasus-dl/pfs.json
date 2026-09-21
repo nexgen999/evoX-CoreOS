@@ -3,6 +3,182 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA21704",
+      "title": "Kingdom Come Deliverance 2 Royal Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/DIjEtL8L91"
+        }
+      ],
+      "version": "01.052",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA21704_3668d56fb3c4449df65c8d6fc026ab1147214ad7e395a81d61c95641e973771f/icon0.webp",
+      "description": "Live a life medieval with the unforgettable RPG experience of Kingdom Come: Deliverance II. Immerse yourself in a thrilling adventure - through the eyes of Henry - as you embark on a quest of epic proportions. The Royal Edition includes the base game, all the exciting story DLC and additional expansion sets to make your Middle Ages journey truly unforgettable. Kingdom Come: Deliverance II Royal Edition contains: -Gallant Huntsman’s Kit -Shields of Seasons Passing -The Lion’s Crest - Brushes with Death - Legacy of the Forge - Mysteria Ecclesiae\nRegion: EUR\nNotes: DLCs won't work if the account you are launching the game from was never online before. You would need to run the payload np-fake-signin-ps5 before then.\nUpdated: 2026-09-21T08:57:38.393Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 144955146240
+    },
+    {
+      "titleId": "PPSA06323",
+      "title": "Syphon Filter",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/PxbzVXcuFd"
+        }
+      ],
+      "version": "01.003",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06323_52b4357abc3f448c391bf547b88a06fae3640210d48d1b23fa27c21279aa39fb/icon0.webp",
+      "description": "Experience Syphon Filter™ originally released on the PlayStation® console, enhanced with up-rendering, rewind, quick save, and custom video filters. Gabe Logan: guerrilla warfare expert, master marksman, and a man on a personal crusade to bring down an international terrorist ring and eliminate a deadly virus… Syphon Filter exploded onto PlayStation® back in 1999 – now you can experience Logan’s classic first adventure all over again. Use stealth, reconnaissance, and extreme combat to trace the path of the Syphon Filter virus back to where it all began, and complete your mission by any means necessary… This title has been converted from the PlayStation® version to the PlayStation®4 and PlayStation®5 consoles and provides newly added features. Consequently, there may be times where the title plays differently from the PlayStation® version, or where some features may cause the title to not function properly. This version does not support the PlayStation® console’s peripherals, therefore some functionality may not be available.\nRegion: EUR\nUpdated: 2026-09-21T07:44:19.790Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 2448131359
+    },
+    {
+      "titleId": "PPSA28420",
+      "title": "Suicide Squad Kill The Justice League",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/RebhDFoeIm"
+        }
+      ],
+      "version": "01.024",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28420_e8013dea79d62e0328521a809680268c84c8d7afd410bb341b29dc1fd1baebcf/icon0.webp",
+      "description": "From Rocksteady Studios, the creators of the Batman: Arkham series, Suicide Squad: Kill the Justice League is a genre-defying third-person action shooter where the ultimate band of misfits must do the impossible to save the world: Kill the Justice League. Join the newly “recruited” members of Amanda Waller’s infamous Task Force X (aka the Suicide Squad), Harley Quinn, Deadshot, Captain Boomerang and King Shark, as they set out on an impossible mission to Kill the Justice League. Drop into an expansive and dynamic open-world Metropolis ravaged by Brainiac’s invasion and terrorized by the heroes who once protected it. Each Squad member brings their own traversal mechanics to help them navigate a sprawling and battle-torn Metropolis, combining free-roaming exploration and combat verticality for an unforgettable experience. Players are free to experiment with a variety of different play styles to unleash maximum damage on their enemies. Whether in single player or online with up to three of your friends, players can take on this suicide mission their own way. Post-launch, players can expect a continuously evolving Metropolis with free new playable villains, environments, weapons, in-game events, and more, all included with purchase of the base game.\nRegion: USA\nUpdated: 2026-09-21T07:20:06.794Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 109521666048
+    },
+    {
+      "titleId": "PPSA08709",
+      "title": "SILENT HILL 2",
+      "downloadLinks": [
+        {
+          "name": "Akirabox",
+          "url": "https://akirabox.com/vgKGxXyW8G8Q/file"
+        },
+        {
+          "name": "Akirabox",
+          "url": "https://akirabox.com/EL73g7yga39B/file"
+        },
+        {
+          "name": "Akirabox",
+          "url": "https://akirabox.com/EL73g7yg839B/file"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/xwwvXkaZtz"
+        }
+      ],
+      "version": "0.1.006",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA08709_0b983cefc4d1dcf91cc6c1bf17cc792c8d2b04153392dfebcf084aba0dd7c06f/icon0.webp",
+      "description": "Having received a letter from his deceased wife, James heads to where they shared so many memories, in the hope of seeing her one more time: Silent Hill. There, by the lake, he finds a woman eerily similar to her... \"My name...is Maria,\" the woman smiles. Her face, her voice... She's just like her. Experience a master-class in psychological survival horror―lauded as the best in the series―on the latest hardware with chilling visuals and visceral sounds. High-end Graphics and Sound With ray tracing and other cutting-edge technical enhancements, the world of SILENT HILL and its unsettling ambiance is even realer than before. And with the inclusion of new, immersive soundscapes, you'll feel like you're standing in the thick of it. Larger Environments Explore locations and buildings that were once inaccessible, or are newly added in the remake. Enjoy the same acclaimed story, even while you experience the town of Silent Hill with fresh eyes across an expanded map. Over-the-shoulder Camera The remake moves from the original's fixed-camera viewpoints to an over-the-shoulder perspective, putting you closer to what James sees, for a more thrilling, more immersive experience as you explore the town and come face-to-face with monsters. Evolved Combat Gameplay Familiar weapons like the steel pipe and handgun make their return, but now with an updated combat system. Avoid attacks with carefully timed dodges, aim down sights, and more, making monster encounters more engaging and nerve-wracking then ever.\nRegion: EUR\nUpdated: 2026-09-21T06:54:30.023Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 50465865728
+    },
+    {
+      "titleId": "PPSA17599",
+      "title": "Clair Obscur: Expedition 33",
+      "downloadLinks": [
+        {
+          "name": "Akirabox",
+          "url": "https://akirabox.to/0KezkAoe2mD1/file"
+        },
+        {
+          "name": "Akirabox",
+          "url": "https://akirabox.com/N2p3DPo093Ma/file"
+        },
+        {
+          "name": "Akirabox",
+          "url": "https://akirabox.com/0rpmvpygBzRg/file"
+        },
+        {
+          "name": "Akirabox",
+          "url": "https://akirabox.com/Zvqzl7yKa3aD/file"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/MuAnwSeK0F"
+        }
+      ],
+      "version": "1.500.300",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA17599_e3be70f16d315010fd148ced8fc42510ab5d1d63bb1a34a259c96bf309b0b05d/icon0.webp",
+      "description": "“Year by year, She erases us.” Once a year, the Paintress wakes and paints upon her monolith. Paints her cursed number. And everyone past that age turns to smoke and fades away. Year by year, that number ticks down and more of us are erased. Tomorrow she’ll wake and paint “33.” And tomorrow we depart on our final mission - Destroy the Paintress, so she can never paint death again. We are Expedition 33. Clair Obscur: Expedition 33 is a ground-breaking turn-based RPG with unique real-time mechanics, making battles more immersive and addictive than ever. Explore a fantasy world inspired by Belle Époque France in which you battle devastating enemies. Reactive Turn-based Combat In this evolution of JRPGs, real-time actions enhance the heart of turn-based combat. Craft unique builds for your Expeditioners that fit your playstyle via gear, stats, skills, and character synergies. Open an active dimension in combat - dodge, parry, and counter in real time, chain combos by mastering attack rhythms, and target enemy weak points using a free aim system. “Tomorrow Comes” With only one year left to live, join Gustave, Maelle, and their fellow Expeditioners as they embark upon a desperate quest to break the Paintress’ cycle of death. Follow the trail of previous expeditions and discover their fate. Get to know the members of Expedition 33 as they learn to work together against impossible odds. A Hauntingly Beautiful World Explore an enchanting realm populated by surreal adversaries. Wander through breathtaking landscapes, from the Island of Visages to the Forgotten Battlefield, discovering secrets and hidden quests along the way. Find allies of fortune in creatures of legend. Recruit special companions to access new travel methods and discover secret areas in the World Map. Experience the debut game from Sandfall Interactive, fully realized in Unreal Engine 5 with stunning graphics and a heartbreaking soundtrack.\nRegion: EUR\nUpdated: 2026-09-21T06:52:18.188Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 44023414784
+    },
+    {
+      "titleId": "PPSA01500",
+      "title": "Watch Dogs Legion",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/r8nLSTSt6b"
+        }
+      ],
+      "version": "1.190",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01500_475faa2bcefb260e2b475c9776caec813263c37b3eaf2947e1e904be88271d27/icon0.webp",
+      "description": "Play for free from 25/03 to 28/03!* Your progression is saved if you decide to buy the game. To access the Free Trial Weekend, you need to manually switch to the PS4 page by selecting the three dot icon, then \"PS4 | Full | Watch Dogs: Legion\". *Limitations apply Requires internet connection. Build a resistance from virtually anyone you see as you hack, infiltrate, and fight to take back a near-future London that is facing its downfall. Welcome to the Resistance. Recruit and play as anyone in the city. Everyone you see has a unique backstory, personality, and skill set. Hack armed drones, deploy spider-bots, and take down enemies using an Augmented Reality Cloak. Explore a massive urban open world featuring London’s many iconic landmarks and fun side activities. Take the resistance one step further and fight with your friends in new missions in Online mode. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.\nRegion: EUR\nUpdated: 2026-09-21T05:32:49.908Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 83751862272
+    },
+    {
+      "titleId": "PPSA03541",
+      "title": "UFC 5",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/E09KAtWDBm"
+        }
+      ],
+      "version": "01.031",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03541_2c3ce3f665cc4b0d430aa1f075b47321eaae242d330e2dc1a44cf7c387e0d3a8/icon0.webp",
+      "description": "EA SPORTS™ UFC® 5 is as real as it gets. Powered by Frostbite™ engine’s advanced rendering capabilities, your favorite fighters now have unparalleled character likenesses to complement next-level environment fidelity that’ll make their walk to the Octagon feel like a PPV main event. The all-new authentic damage system brings the intensity and strategy of a fight to life, as cuts and strikes absorbed can affect mobility, defense, stamina, and more. Take too much damage, and the doctor will check to see if you’re able to continue. For lovers of the ground game, the new Transition-Based Submissions make grappling feel more fluid and realistic than ever before. And if you like to admire your handiwork, new Cinematic K.O. Replays capture your fight-ending finishes in all their punishing glory. Plus, a completely revamped live service schedule builds exciting challenges around all PPV fight weeks. Bring the next evolution of the fight game home with UFC 5. This game includes optional in-game purchases of virtual currency that can be used to acquire virtual in-game items.\nRegion: EUR\nUpdated: 2026-09-21T04:48:44.659Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 52570399703
+    },
+    {
+      "titleId": "PPSA01289",
+      "title": "Sackboy: A Big Adventure",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/Qt2B9LCowN"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/ubiTVBs2s8"
+        }
+      ],
+      "version": "01.024",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01289_958a42f6275bec306ffb381fbf89e0594a217f873dbc373766ff8be2cd90e13a/icon0.webp",
+      "description": "Face thrilling, unpredictable challenges as you explore distinctive hand-crafted lands through deeply immersive and expressive controls. Go solo in an epic race against time stuffed with danger and peril — or create teams of two to four adventurers for fun-packed party play as you work together to overcome nefarious tasks however you can imagine. Can you save Craftworld from the dastardly Vex and his nightmarish Topsy Turver device... and become the Knitted Knight of legend? • PERILOUS PLATFORMING EXPERIENCE Explore here, there and everywhere as you utilize Sackboy's cool, diverse moveset to face a huge variety of thrilling challenges, fierce enemies and startling surprises. • COLLABORATIVE, CHAOTIC AND JOYFUL MULTIPLAYER Take on side-splitting challenges in local and online party play. Parties can play through the whole game — including unmissable co-op-only levels. • RE-STUFFED. RE-STITCHED. RE-ZIPPED. Sackboy returns to the big time, stuffed with fresh moves and game-changing gadgets in an awe-inspiring and downright fun 3D adventure in this new but familiar world. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™-game-disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.\nRegion: USA\nUpdated: 2026-09-21T04:34:09.153Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 32212254720
+    },
+    {
+      "titleId": "PPSA02100",
+      "title": "Stray",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/X9rzoKdGfI"
+        }
+      ],
+      "version": "1.005.000",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02100_e15a6add8ecf1e715cd8ab7b4d06c0ca93146e8a5f94c77d928797e7e363e139/icon0.webp",
+      "description": "Lost, alone and separated from family, a stray cat must untangle an ancient mystery to escape a long-forgotten city. Stray is a third-person cat adventure game set amidst the detailed, neon-lit alleys of a decaying cybercity and the murky environments of its seedy underbelly. Roam surroundings high and low, defend against unforeseen threats and solve the mysteries of this unwelcoming place inhabited by curious droids and dangerous creatures. See the world through the eyes of a cat and interact with the environment in playful ways. Be stealthy, nimble, silly, and sometimes as annoying as possible with the strange inhabitants of this mysterious world. Along the way, the cat befriends a small flying drone, known only as B-12. With the help of this newfound companion, the duo must find a way out. Stray is developed by BlueTwelve Studio, a small team from the south of France mostly made up of cats and a handful of humans.\nRegion: USA\nUpdated: 2026-09-21T03:23:24.109Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 7516192768
+    },
+    {
       "titleId": "PPSA21914",
       "title": "Undisputed Championship Edition",
       "downloadLinks": [
@@ -601,6 +777,10 @@
         {
           "name": "Viki",
           "url": "https://vik1ngfile.site/f/RmwjrzNNnK"
+        },
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vikingfile.com/f/e9MaS2vYHX"
         }
       ],
       "version": "01.070",

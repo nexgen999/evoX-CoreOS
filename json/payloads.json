@@ -9,7 +9,7 @@
       "description": "Experimental Kstuff DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "c2588c97ee9073fe3e75012ce6cfa7f864aec7483a55693804350af152b694eb"
+      "checksum": "abfd78f65c0f7b5deb9a79a2a26bddee41bc84ba4de3b57f0a40666370fdf413"
     },
     {
       "name": "ShadowMountPlus",
@@ -19,7 +19,7 @@
       "description": "ShadowMountPlus experimental for FPKG",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "2b022ebef0dd86a9da24bb74ec19b650abb6e379b3915cc1b0734a8de639e2c1"
+      "checksum": "29807a54eb8647ad125d32e337a294cb2bb4d740991f29a91fb1bcc8eb8ca5d0"
     },
     {
       "name": "a53_ppr_install_fast",
@@ -29,7 +29,7 @@
       "description": "A53 Experimental for Kstuff-Darkmor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "e1e1cf14f164072debdfc3a394579c073af7eb7ce99dc5b5b280b9ee9bcbcab5"
+      "checksum": "8622574f57f47e24df68bdd646575fc9a769c0ac04435cb65bdb56727bb51f08"
     },
     {
       "name": "kstuff-echostrech",
@@ -39,7 +39,7 @@
       "description": "Experimental Kstuff EchoStrech",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "387468507403f7e67329feb60222e1870f768db8a96c254c1c7d09c80f8c0b1f"
+      "checksum": "cf53635d84dbad0c6af763b6cdd73f70ce9d193d1852e4d0742f48f19f52745d"
     },
     {
       "name": "a53_exploit-experimental",
@@ -49,7 +49,7 @@
       "description": "A53 Experimental for Kstuff-EchoStrech",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "e2e88132268f19c58a46b2ac44af9c36dd8b69864792229531b2863d84beb10a"
+      "checksum": "8f532344ac59783613d5614bdb165c78da7b42eec8b1385c20ab5d9055280a58"
     },
     {
       "name": "ps5debug-NG",
@@ -723,13 +723,13 @@
     },
     {
       "name": "ps5upload",
-      "filename": "ps5upload_v5.31.3.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.31.3/ps5upload_v5.31.3.elf",
-      "local_path": "payloads/ps5_server/ps5upload/v5.31.3/ps5upload_v5.31.3.elf",
+      "filename": "ps5upload_v5.31.4.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.31.4/ps5upload_v5.31.4.elf",
+      "local_path": "payloads/ps5_server/ps5upload/v5.31.4/ps5upload_v5.31.4.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v5.31.3",
+      "version": "v5.31.4",
       "category": "PS5 Server",
-      "checksum": "b1d02286a0b3dd10dc57275e8477513dca08ffb0697ad6543cd6a8bc7d771c25"
+      "checksum": "420bdd4d9328ab1068f32ef1a19f96387586ddd2a308744f81957d04d8a41d3b"
     },
     {
       "name": "airpsx",

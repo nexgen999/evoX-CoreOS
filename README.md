@@ -80,11 +80,11 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| [a53_exploit-experimental](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-E/Source-Fixe/a53_exploit-experimental.elf) | Source-Fixe | `e2e88132268f...` | A53 Experimental for Kstuff-EchoStrech |
-| [a53_ppr_install_fast](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-D/Source-Fixe/a53_ppr_install_fast_v15.09.elf) | Source-Fixe | `e1e1cf14f164...` | A53 Experimental for Kstuff-Darkmor |
-| [kstuff](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf) | Source-Fixe | `c2588c97ee90...` | Experimental Kstuff DarkMor |
-| [kstuff-echostrech](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff_EchoStrech_Experimental/Source-Fixe/kstuff-echostrech_v1.11expermiental.elf) | Source-Fixe | `387468507403...` | Experimental Kstuff EchoStrech |
-| [ShadowMountPlus](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/ShadowMountPlus/Source-Fixe/ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf) | Source-Fixe | `2b022ebef0dd...` | ShadowMountPlus experimental for FPKG |
+| [a53_exploit-experimental](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-E/Source-Fixe/a53_exploit-experimental.elf) | Source-Fixe | `8f532344ac59...` | A53 Experimental for Kstuff-EchoStrech |
+| [a53_ppr_install_fast](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-D/Source-Fixe/a53_ppr_install_fast_v15.09.elf) | Source-Fixe | `8622574f57f4...` | A53 Experimental for Kstuff-Darkmor |
+| [kstuff](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf) | Source-Fixe | `abfd78f65c0f...` | Experimental Kstuff DarkMor |
+| [kstuff-echostrech](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff_EchoStrech_Experimental/Source-Fixe/kstuff-echostrech_v1.11expermiental.elf) | Source-Fixe | `cf53635d84db...` | Experimental Kstuff EchoStrech |
+| [ShadowMountPlus](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/ShadowMountPlus/Source-Fixe/ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf) | Source-Fixe | `29807a54eb86...` | ShadowMountPlus experimental for FPKG |
 
 ### 📂 PS5 Cheat
 
@@ -242,7 +242,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [ftpsrv_ps5-payload](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ftpsrv_ps5-payload/v0.21.1/ftpsrv_ps5-payload_v0.21.1.elf) | v0.21.1 | `0ccfe0097081...` | FTP server background daemon. Port: 21 |
 | [gdbsrv](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/gdbsrv/v0.9/gdbsrv_v0.9.elf) | v0.9 | `fc91ea233cdb...` | GDB Debugger server payload. Port: 1234 |
 | [klogsrv](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/klogsrv/v0.9/klogsrv_v0.9.elf) | v0.9 | `e828ec144231...` | Kernel log server daemon. Port: 3232 |
-| [ps5upload](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.31.3/ps5upload_v5.31.3.elf) | v5.31.3 | `b1d02286a0b3...` | PS5 Upload server / tool. Port: 9025 |
+| [ps5upload](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.31.4/ps5upload_v5.31.4.elf) | v5.31.4 | `420bdd4d9328...` | PS5 Upload server / tool. Port: 9025 |
 | [websrv](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf) | v0.34 | `54730c867c6e...` | HTTP Web server payload. Port: 8080 |
 | [zftpd](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zftpd_v1.5.0.bin) | v1.5.0 | `f430dc1fdeae...` | FTP server payload for PS5. Port: 21 |
 | [zftpd](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zftpd_v1.5.0.elf) | v1.5.0 | `bc21772ceafd...` | FTP server payload for PS5. Port: 21 |
