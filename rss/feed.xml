@@ -455,6 +455,12 @@
       <pubDate>1.16-ng-stable</pubDate>
     </item>
     <item>
+      <title>[Payloads] ps5-ezremote-server</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.10/ps5-ezremote-server_v1.10.elf</link>
+      <description>Easy remote server component. Port: 8080</description>
+      <pubDate>1.10</pubDate>
+    </item>
+    <item>
       <title>[Payloads] ps5upload</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.31.4/ps5upload_v5.31.4.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>

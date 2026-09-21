@@ -82,6 +82,16 @@
       "checksum": "f19ae469b25453a7a4af4529527521d31f143100f18a2c6839666e7121c8bd32"
     },
     {
+      "name": "ps5-ezremote-server",
+      "filename": "ps5-ezremote-server_v1.10.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.10/ps5-ezremote-server_v1.10.elf",
+      "local_path": "payloads/ps5_server/ps5-ezremote-server/1.10/ps5-ezremote-server_v1.10.elf",
+      "description": "Easy remote server component. Port: 8080",
+      "version": "1.10",
+      "category": "PS5 Server",
+      "checksum": "fa69eb0b49894356b84ce996de863d53884e5506a8fbcc0d079759a23b8905f3"
+    },
+    {
       "name": "ps5upload",
       "filename": "ps5upload_v5.31.4.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.31.4/ps5upload_v5.31.4.elf",

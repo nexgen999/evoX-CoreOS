@@ -43,6 +43,7 @@
       <outline text="Spectrum-Library" title="Spectrum-Library" type="rss" xmlUrl="https://github.com/Phoenixx1202/Spectrum-Library" description="free store webadmin http://your-ps5-ip:7575."/>
       <outline text="pegasus-dl" title="pegasus-dl" type="rss" xmlUrl="https://github.com/pegasus-ps5/pegasus-dl" description="free store webadmin http://your-ps5-ip:6970."/>
       <outline text="ps5shopappkg-dpi" title="ps5shopappkg-dpi" type="rss" xmlUrl="https://github.com/ps5xploit/ps5shopappkg/releases/download/ps5shopappkg/ps5shopappkg-dpi.elf" description="You need PS5-SHOP-APPKG.pkg DPI port 9040."/>
+      <outline text="PS5Library" title="PS5Library" type="rss" xmlUrl="https://github.com/rdiol12/PS5Library" description="You need PS5Library.pkg."/>
       <outline text="garlic-savemgr" title="garlic-savemgr" type="rss" xmlUrl="https://git.etawen.dev/earthonion/garlic-savemgr" description="Save manager utility hosted on Forgejo."/>
       <outline text="garlic-worker" title="garlic-worker" type="rss" xmlUrl="https://git.etawen.dev/earthonion/garlic-worker" description="Garlic worker payload component."/>
       <outline text="Playstation-5-Save-Mounter" title="Playstation-5-Save-Mounter" type="rss" xmlUrl="https://github.com/n0llptr/Playstation-5-Save-Mounter" description="PS5 Save Mounter application."/>
@@ -101,6 +102,7 @@
       <outline text="InternetBrowser-Game_Menu" title="InternetBrowser-Game_Menu" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_InternetBrowser-Game_Menu_v1.00.pkg" description="InternetBrowser-Game_Menu."/>
       <outline text="InternetBrowser-Media_Menu" title="InternetBrowser-Media_Menu" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_InternetBrowser-Media_Menu_v1.00.pkg" description="InternetBrowser-Media_Menu."/>
       <outline text="PS5-SHOP-APPKG" title="PS5-SHOP-APPKG" type="rss" xmlUrl="https://github.com/ps5xploit/ps5shopappkg/releases/download/ps5shopappkg/PS5-SHOP-APPKG.pkg" description="PS5-SHOP-APPKG need etahen or ps5shopappkg-dpi ."/>
+      <outline text="PS5Library" title="PS5Library" type="rss" xmlUrl="https://github.com/rdiol12/PS5Library" description="PS5Library need ps5library-agent.elf."/>
       <outline text="Itemzflow_Game_Manager" title="Itemzflow_Game_Manager" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_Itemzflow_Game_Manager_v1.14.pkg" description="Itemzflow_Game_Manager."/>
       <outline text="PS5-Xplorer" title="PS5-Xplorer" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5-Xplorer_v1.05.pkg" description="PS5-Xplorer."/>
       <outline text="PS5Webit-Nexgen999_Installer" title="PS5Webit-Nexgen999_Installer" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg" description="PS5Webit-Nexgen999_Installer."/>

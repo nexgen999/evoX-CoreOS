@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.21-1631)
+### 🚀 Synthèse de la mise à jour (v2026.09.21-1650)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -92,6 +92,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `gdbsrv_v0.9.elf`
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
+  * `ps5-ezremote-server_v1.10.elf`
   * `ps5upload_v5.31.4.elf`
   * `airpsx_v0.19.elf`
   * `np-fake-signin_v1.3.elf`

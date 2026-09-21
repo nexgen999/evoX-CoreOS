@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 21/09/2026 à 16:50
+* **PAYLOADS**
+  * `ps5-ezremote-server` (1.10) - *Nouveau*
+
 ## Build du 21/09/2026 à 16:31
 * **PAYLOADS**
   * `A53-Kstuff-ShadowMountPlus-3in1` (Source-Fixe) - *Nouveau*
