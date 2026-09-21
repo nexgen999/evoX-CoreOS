@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.21-1145)
+### 🚀 Synthèse de la mise à jour (v2026.09.21-1631)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -17,6 +17,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
 <summary><b>⚡ Pack PAYLOADS</b></summary>
 
 * **payloads**
+  * `A53-Kstuff-ShadowMountPlus-3in1.elf`
+  * `A53-kstuff-SMP.elf`
   * `kstuff_v1.12-dr-test8.elf`
   * `ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf`
   * `a53_ppr_install_fast_v15.09.elf`
@@ -73,6 +75,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `nanoDNS_v0.4.elf`
   * `Chukei_DNS_v0.9.0.elf`
   * `Common_FPS_PS5_v1.1.0.elf`
+  * `ps5-new-overlay_v1.0.14.elf`
   * `PS5-Game-Compressor_v1.0.4.elf`
   * `ps5-app-dumper_v1.11.elf`
   * `BackPork_v0.1.elf`

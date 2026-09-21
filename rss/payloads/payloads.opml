@@ -4,6 +4,8 @@
     <title>PS5 Store Feeds - Payloads</title>
   </head>
   <body>
+    <outline text="A53-Kstuff-ShadowMountPlus-3in1" title="A53-Kstuff-ShadowMountPlus-3in1" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf" description="Experimental AIO by SoNic credit to EchoStrech DarkMor"/>
+    <outline text="A53-kstuff-SMP" title="A53-kstuff-SMP" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf" description="Experimental AIO by SoNic credit to EchoStrech DarkMor"/>
     <outline text="kstuff" title="kstuff" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf" description="Experimental Kstuff DarkMor"/>
     <outline text="ShadowMountPlus" title="ShadowMountPlus" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/ShadowMountPlus/Source-Fixe/ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf" description="ShadowMountPlus experimental for FPKG"/>
     <outline text="a53_ppr_install_fast" title="a53_ppr_install_fast" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-D/Source-Fixe/a53_ppr_install_fast_v15.09.elf" description="A53 Experimental for Kstuff-Darkmor"/>
@@ -60,6 +62,7 @@
     <outline text="nanoDNS" title="nanoDNS" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_dns/nanoDNS/0.4/nanoDNS_v0.4.elf" description="Un serveur DNS ultra-léger et rapide idéal pour rediriger les requêtes de la console vers votre hôte local d'exploits."/>
     <outline text="Chukei_DNS" title="Chukei_DNS" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_dns/Chukei_DNS/0.9.0/Chukei_DNS_v0.9.0.elf" description="Serveur DNS de redirection d'envergure conçu spécifiquement pour bloquer les mises à jour de Sony et rediriger le guide de l'utilisateur."/>
     <outline text="Common_FPS_PS5" title="Common_FPS_PS5" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.1.0/Common_FPS_PS5_v1.1.0.elf" description="A lightweight, open-source real-time FPS counter for PlayStation 5."/>
+    <outline text="ps5-new-overlay" title="ps5-new-overlay" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.14/ps5-new-overlay_v1.0.14.elf" description="A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+)."/>
     <outline text="PS5-Game-Compressor" title="PS5-Game-Compressor" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor/v1.0.4/PS5-Game-Compressor_v1.0.4.elf" description="Tool to compress PS5 games."/>
     <outline text="ps5-app-dumper" title="ps5-app-dumper" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ps5-app-dumper/v1.11/ps5-app-dumper_v1.11.elf" description="PS5 App Dumper payload."/>
     <outline text="BackPork" title="BackPork" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/BackPork/0.1/BackPork_v0.1.elf" description="BackPork PS5 tool."/>

@@ -5,6 +5,18 @@
     <link>https://nexgen999.github.io/evoX-CoreOS</link>
     <description>Mises à jour automatiques pour la catégorie Payloads</description>
     <item>
+      <title>A53-Kstuff-ShadowMountPlus-3in1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf</link>
+      <description>Experimental AIO by SoNic credit to EchoStrech DarkMor</description>
+      <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
+      <title>A53-kstuff-SMP</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf</link>
+      <description>Experimental AIO by SoNic credit to EchoStrech DarkMor</description>
+      <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
       <title>kstuff</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf</link>
       <description>Experimental Kstuff DarkMor</description>
@@ -339,6 +351,12 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.1.0/Common_FPS_PS5_v1.1.0.elf</link>
       <description>A lightweight, open-source real-time FPS counter for PlayStation 5.</description>
       <pubDate>v1.1.0</pubDate>
+    </item>
+    <item>
+      <title>ps5-new-overlay</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.14/ps5-new-overlay_v1.0.14.elf</link>
+      <description>A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+).</description>
+      <pubDate>v1.0.14</pubDate>
     </item>
     <item>
       <title>PS5-Game-Compressor</title>

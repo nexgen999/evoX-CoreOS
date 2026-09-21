@@ -10,6 +10,16 @@
       "version": "v1.1.0",
       "category": "PS5 Overlay",
       "checksum": "4f544fa00f7a430e64c4c8d0ed42d0463d2370c81dabd9141599c27c4f3f99d6"
+    },
+    {
+      "name": "ps5-new-overlay",
+      "filename": "ps5-new-overlay_v1.0.14.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.14/ps5-new-overlay_v1.0.14.elf",
+      "local_path": "payloads/PS5_Overlay/ps5-new-overlay/v1.0.14/ps5-new-overlay_v1.0.14.elf",
+      "description": "A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+).",
+      "version": "v1.0.14",
+      "category": "PS5 Overlay",
+      "checksum": "54d23675bf44f17599a9e08397cf0c62b0e10cfbffdc2fe1673e5bcc9de8a2b7"
     }
   ]
 }

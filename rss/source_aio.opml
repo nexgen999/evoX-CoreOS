@@ -5,6 +5,8 @@
   </head>
   <body>
     <outline text="Payloads" title="Payloads">
+      <outline text="A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental" title="A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental" type="rss" xmlUrl="https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/SoNic-AIO/A53-Kstuff-ShadowMountPlus-3in1.elf" description="Experimental AIO by SoNic credit to EchoStrech DarkMor"/>
+      <outline text="A53-kstuff-SMP_SoNic-AIO_Experimental" title="A53-kstuff-SMP_SoNic-AIO_Experimental" type="rss" xmlUrl="https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/SoNic-AIO/A53-kstuff-SMP.elf" description="Experimental AIO by SoNic credit to EchoStrech DarkMor"/>
       <outline text="kstuff_Darkmor_Experimental" title="kstuff_Darkmor_Experimental" type="rss" xmlUrl="https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/Kstuff-Darkmor/kstuff_v1.12-dr-test8.elf" description="Experimental Kstuff DarkMor"/>
       <outline text="ShadowMountPlus" title="ShadowMountPlus" type="rss" xmlUrl="https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/ShadownMountPlusExpermiental/ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf" description="ShadowMountPlus experimental for FPKG"/>
       <outline text="A53 Experimental KS-D" title="A53 Experimental KS-D" type="rss" xmlUrl="https://github.com/nexgen999/PS5-Super-PLDMGR-Auto-Updater/blob/main/Internal/payloads/beta/a53_ppr/a53_ppr_install_fast_v15.09.elf" description="A53 Experimental for Kstuff-Darkmor"/>
@@ -64,6 +66,7 @@
       <outline text="nanoDNS" title="nanoDNS" type="rss" xmlUrl="https://github.com/drakmor/nanoDNS" description="Un serveur DNS ultra-léger et rapide idéal pour rediriger les requêtes de la console vers votre hôte local d'exploits."/>
       <outline text="Chukei DNS" title="Chukei DNS" type="rss" xmlUrl="https://github.com/Al-Azif/chukei-dns" description="Serveur DNS de redirection d'envergure conçu spécifiquement pour bloquer les mises à jour de Sony et rediriger le guide de l'utilisateur."/>
       <outline text="Common-FPS-for-PS5" title="Common-FPS-for-PS5" type="rss" xmlUrl="https://github.com/porhe911/Common-FPS-for-PS5" description="A lightweight, open-source real-time FPS counter for PlayStation 5."/>
+      <outline text="ps5-new-overlay" title="ps5-new-overlay" type="rss" xmlUrl="https://github.com/smoxa/ps5-new-overlay" description="A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+)."/>
       <outline text="PS5-Game-Compressor" title="PS5-Game-Compressor" type="rss" xmlUrl="https://github.com/juma-sayeh/PS5-Game-Compressor" description="Tool to compress PS5 games."/>
       <outline text="ps5-app-dumper" title="ps5-app-dumper" type="rss" xmlUrl="https://github.com/EchoStretch/ps5-app-dumper" description="PS5 App Dumper payload."/>
       <outline text="dump_installer" title="dump_installer" type="rss" xmlUrl="https://github.com/EchoStretch/dump_installer" description="Dump Installer utility."/>

@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 21/09/2026 à 16:31
+* **PAYLOADS**
+  * `A53-Kstuff-ShadowMountPlus-3in1` (Source-Fixe) - *Nouveau*
+  * `A53-kstuff-SMP` (Source-Fixe) - *Nouveau*
+  * `ps5-new-overlay` (v1.0.14) - *Nouveau*
+
 ## Build du 21/09/2026 à 11:45
 * **PAYLOADS**
   * `ps5upload` (v5.31.4) - *Mise à jour (Précédent: v5.31.3)*
