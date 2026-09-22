@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.22-1607)
+### 🚀 Synthèse de la mise à jour (v2026.09.22-2047)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -28,7 +28,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5-self-pager_v1.2.elf`
   * `PS5-SELF-Decrypter_v0.5.2.elf`
   * `ps5-remoteplay-get-pin_v0.1.1.elf`
-  * `MemDBG_vnightly-20260904-g29a46df.elf`
+  * `MemDBG_vnightly-20260922-g6e493c9.elf`
   * `ps5-hwinfo_v0.1.elf`
   * `kstuff_EchoStretch_v1.6.7.elf`
   * `kstuff-lite_EchoStretch_v1.11.elf`
@@ -63,7 +63,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen-en_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf`
-  * `pkgmgr_v1.2.2.elf`
+  * `pkg-manager_v1.2.3.elf`
   * `etaHEN_v2.5B.bin`
   * `PS5_Unified_Autoloader_v0.1.4-955249d.elf`
   * `pldmgr_v0.5.1.elf`

@@ -1,5 +1,10 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 22/09/2026 à 20:47
+* **PAYLOADS**
+  * `MemDBG` (nightly-20260922-g6e493c9) - *Mise à jour (Précédent: nightly-20260904-g29a46df)*
+  * `pkg-manager` (v1.2.3) - *Nouveau*
+
 ## Build du 22/09/2026 à 10:47
 * **PAYLOADS**
   * `pkgmgr` (v1.2.2) - *Mise à jour (Précédent: v1.2.1)*

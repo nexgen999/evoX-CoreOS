@@ -9,7 +9,7 @@
             "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "95fcf9c21eee3a3891f98d8a1e165ee6d3ed4ecc5996242ed4b4fec6c97cd2fd"
+            "checksum": "853e32c65fc2b78d1c59bc4b4ca7c425cb99ebfb46586a01bcf903359ce62561"
         },
         {
             "name": "A53-kstuff-SMP",
@@ -19,7 +19,7 @@
             "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "c07d370c7ef2987546458d28628a158655ee962bc4d12b212f639cecd96b880b"
+            "checksum": "c4fbae5bc6372d0efa80883f960cbb009b82f1fd8c5ea99e22c08aa8205beacd"
         },
         {
             "name": "kstuff",
@@ -29,7 +29,7 @@
             "description": "Experimental Kstuff DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "937f6c379eb0b9922e928128fadd8e05b82451a7ee0477f6e21e1f9a2332dd74"
+            "checksum": "d5db6a00c3ff1a4f1a1b3bc2f8f12f517bfd55156c1525a125d416f3ec61de4b"
         },
         {
             "name": "ShadowMountPlus",
@@ -39,7 +39,7 @@
             "description": "ShadowMountPlus experimental for FPKG",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "4e666358f69c38b2e66cc32b295acf6ad3c5f873f2fd0c8b2cc3542e410d9c9c"
+            "checksum": "c07cb1974c2f32f5a07bf833b135ed7b557484795d3da391efe6c83e89ad96e9"
         },
         {
             "name": "a53_ppr_install_fast",
@@ -49,7 +49,7 @@
             "description": "A53 Experimental for Kstuff-Darkmor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "e2d69c51fb53bdec41014567d13dda84a441e8a7b839f352bbad0095cf60061c"
+            "checksum": "184fdf03f9ab1c069a734ad458008116f8ec371ee85af8ca6734c6ed8dc9278f"
         },
         {
             "name": "kstuff-echostrech",
@@ -59,7 +59,7 @@
             "description": "Experimental Kstuff EchoStrech",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "d8b917b5eabe1bbc3c724b8926aea42b34e18f94380bfc4da94eef8ddd8ccc87"
+            "checksum": "484a6aa056290bed747fcaef9b12759cd1d8316375d35ff01adc7aabb2ddc43b"
         },
         {
             "name": "a53_exploit-experimental",
@@ -69,7 +69,7 @@
             "description": "A53 Experimental for Kstuff-EchoStrech",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "203e35822c183c360c308df46e413d04792a67cb67d296f71851d5f400095176"
+            "checksum": "d26b80976fcf67e2efb0e33186316c1e021bb09b9e53660671b9b5c2e7d8a99c"
         },
         {
             "name": "ps5debug-NG",
@@ -113,13 +113,13 @@
         },
         {
             "name": "MemDBG",
-            "filename": "MemDBG_vnightly-20260904-g29a46df.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/MemDBG/nightly-20260904-g29a46df/MemDBG_vnightly-20260904-g29a46df.elf",
-            "local_path": "payloads/ps5_sdk_debug/MemDBG/nightly-20260904-g29a46df/MemDBG_vnightly-20260904-g29a46df.elf",
+            "filename": "MemDBG_vnightly-20260922-g6e493c9.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/MemDBG/nightly-20260922-g6e493c9/MemDBG_vnightly-20260922-g6e493c9.elf",
+            "local_path": "payloads/ps5_sdk_debug/MemDBG/nightly-20260922-g6e493c9/MemDBG_vnightly-20260922-g6e493c9.elf",
             "description": "Memory debugging and inspection suite.",
-            "version": "nightly-20260904-g29a46df",
+            "version": "nightly-20260922-g6e493c9",
             "category": "PS5 Sdk Debug",
-            "checksum": "2835b34516ecfdfcd04a0333a19a6ff026f48f7cd3fd2d7f877aeb929083336b"
+            "checksum": "39cc937de1ad814ba1ede69ff7ab0abddabaeb7b61d48f798f4534eaba399077"
         },
         {
             "name": "ps5-hwinfo",
@@ -462,14 +462,14 @@
             "checksum": "3ccc45938dcc1bb6ee766195106c928049fd632993828bcf73b5368fdebfc496"
         },
         {
-            "name": "pkgmgr",
-            "filename": "pkgmgr_v1.2.2.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.2.2/pkgmgr_v1.2.2.elf",
-            "local_path": "payloads/ps5_pkg_tool/ps5-pkg-manager/v1.2.2/pkgmgr_v1.2.2.elf",
+            "name": "pkg-manager",
+            "filename": "pkg-manager_v1.2.3.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.2.3/pkg-manager_v1.2.3.elf",
+            "local_path": "payloads/ps5_pkg_tool/ps5-pkg-manager/v1.2.3/pkg-manager_v1.2.3.elf",
             "description": "A clean and intuitive package manager for PlayStation 5",
-            "version": "v1.2.2",
+            "version": "v1.2.3",
             "category": "PS5 Pkg Tool",
-            "checksum": "67b649699a67eb68f5a6cfbfb34295b9419b88c70aba6e002af71f6c1c285624"
+            "checksum": "b14f0a54c826e5e4bb0b96c38113aa61ea41b0742663242104645add0d85ee19"
         },
         {
             "name": "etaHEN",
@@ -559,7 +559,7 @@
             "description": "Un serveur DNS ultra-léger et rapide idéal pour rediriger les requêtes de la console vers votre hôte local d'exploits.",
             "version": "0.4",
             "category": "PS5 Dns",
-            "checksum": "18a93655c59ad32e371e14c86f32d14fbd1fbc47a0e907f3e0b6667efb3ad964"
+            "checksum": "aa7e9d94e32ef866e40844146330028329f8a8a529244e2ecc319ff9d8b0f5f9"
         },
         {
             "name": "Chukei_DNS",

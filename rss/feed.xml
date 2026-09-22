@@ -72,9 +72,9 @@
     </item>
     <item>
       <title>[Payloads] MemDBG</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/MemDBG/nightly-20260904-g29a46df/MemDBG_vnightly-20260904-g29a46df.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/MemDBG/nightly-20260922-g6e493c9/MemDBG_vnightly-20260922-g6e493c9.elf</link>
       <description>Memory debugging and inspection suite.</description>
-      <pubDate>nightly-20260904-g29a46df</pubDate>
+      <pubDate>nightly-20260922-g6e493c9</pubDate>
     </item>
     <item>
       <title>[Payloads] ps5-hwinfo</title>
@@ -281,10 +281,10 @@
       <pubDate>v1.2.0</pubDate>
     </item>
     <item>
-      <title>[Payloads] pkgmgr</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.2.2/pkgmgr_v1.2.2.elf</link>
+      <title>[Payloads] pkg-manager</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.2.3/pkg-manager_v1.2.3.elf</link>
       <description>A clean and intuitive package manager for PlayStation 5</description>
-      <pubDate>v1.2.2</pubDate>
+      <pubDate>v1.2.3</pubDate>
     </item>
     <item>
       <title>[Payloads] etaHEN</title>
