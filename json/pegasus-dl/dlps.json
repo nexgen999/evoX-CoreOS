@@ -11776,6 +11776,29 @@
       "downloadSource": "https://dlpsgame.com/call-of-duty-black-ops-cold-war-ps5/"
     },
     {
+      "titleId": "PPSA02050",
+      "title": "Call of Duty Black Ops Cold War (DLC)",
+      "downloadLinks": [
+        {
+          "name": "EUR 2.xx Game (v01.040) (DLC) - Rootz",
+          "url": "https://www.rootz.so/d/B9RD6"
+        },
+        {
+          "name": "EUR 2.xx Game (v01.040) (DLC) - 1File",
+          "url": "https://1fichier.com/?xtdnjb1bg4v5taknuy5t"
+        },
+        {
+          "name": "EUR 2.xx Game (v01.040) (DLC) - Mirror",
+          "url": "https://1fichier.com/?v59v5hsv6l4jx6kwg7mq"
+        }
+      ],
+      "version": "DLC",
+      "category": "dlc",
+      "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/07/1-fvc-1.jpg",
+      "description": "Region: EUR\nRelease note: Works on 2.xx and higher\nContributor: @Dunaevnick and @DLPS Team\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/call-of-duty-black-ops-cold-war-ps5/"
+    },
+    {
       "titleId": "PPSA01687",
       "title": "Call of Duty Vanguard",
       "downloadLinks": [

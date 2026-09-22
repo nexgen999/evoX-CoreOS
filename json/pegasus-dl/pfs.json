@@ -3,6 +3,266 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA15508",
+      "title": "The Last of Us Part II Remastered",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/RZbEaCKOZd"
+        },
+        {
+          "name": "Akirabox",
+          "url": "https://akirabox.com/0rpmvpyD7zRg/file"
+        },
+        {
+          "name": "Akirabox",
+          "url": "https://akirabox.com/M2BGwPyvOmj4/file"
+        },
+        {
+          "name": "Akirabox",
+          "url": "https://akirabox.com/QN9mEq05wm6d/file"
+        },
+        {
+          "name": "Akirabox",
+          "url": "https://akirabox.com/vgKGxXyEQG8Q/file"
+        },
+        {
+          "name": "Akirabox",
+          "url": "https://akirabox.com/2WVGrdy7B3kx/file"
+        }
+      ],
+      "version": "02.001.010",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA15508_6774a2dd01056c2280ca529a0c79dd2a1d782a243a4fed8b18d803f3622cfd85/icon0.webp",
+      "description": "Edition includes: The Last of Us™ Part II Remastered full game for the PS5® console Experience the winner of over 300 Game of the Year awards now with an array of technical enhancements that make The Last of Us Part II Remastered the definitive way to play Ellie and Abby’s critically acclaimed story. Native PS5 enhancements Built for the PS5 console, The Last of Us Part II Remastered enhances the original PS4 game in ways not possible before, including: • A host of graphical improvements bring the beautiful-yet-dangerous world to life. • Visual performance now outputs at 4K in Fidelity Mode. • Improved loading times more quickly let you jump into action. • Full DualSense™ wireless controller integration. Patch v.2.0.0 Update* • In the first major update since No Return launched, unlock new characters Bill and Marlene, take on four new maps, and earn new Trophies. • In addition to the above, use your earned points to redeem a brand new item, Jordan A. Mun’s Jacket from Intergalactic: The Heretic Prophet™** as a skin for Ellie. No Return – A Roguelike Survival Mode Experience The Last of Us Part II’s deep combat via an entirely new mode! Survive as long as you can in each run, as you choose your path through a series of randomized encounters. Play as a host of different unlockable characters, some never-before playable in The Last of Us franchise, each with unique gameplay traits. The variety of challenges feature different foes and memorable locations from throughout Part II, all culminating in tense boss battles. New ways to play Delve deeper into this beloved adventure and learn how the original game was created. • Lost Levels lets you explore early-development versions of three new levels not seen in the original. • Enjoy hours of new developer commentary to hear insights into Part II’s development as you experience the game. • Live up to your musical potential with Guitar Free Play, which includes new unlockable instruments, or take on the new Speedrun Mode*** and post your best times. • Descriptive Audio**** and Speech to Vibrations have also been added to Part II's suite of accessibility features. • The Last of Us Part II Remastered also features brand new unlockable character and weapon skins for players to use for both Ellie and Abby. *Internet connection and an account for PlayStation™Network required. **Intergalactic: The Heretic Prophet is in development for the PS5 console. ***Game progression required to unlock. ****Only available for audio supported languages\nRegion: EUR\nUpdated: 2026-09-22T07:20:14.581Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 105258911007
+    },
+    {
+      "titleId": "PPSA03396",
+      "title": "The Last of Us Part I",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/aj79iRWwv0"
+        },
+        {
+          "name": "Akirabox",
+          "url": "https://akirabox.com/qLQ36qJkdm19/file"
+        },
+        {
+          "name": "Akirabox",
+          "url": "https://akirabox.com/Zvqzl7yJO3aD/file"
+        },
+        {
+          "name": "Akirabox",
+          "url": "https://akirabox.com/gXeGOAxDJ3Aa/file"
+        },
+        {
+          "name": "Akirabox",
+          "url": "https://akirabox.com/BnkmWvk1aGR0/file"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/IPzIPouuRt"
+        }
+      ],
+      "version": "02.000",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03396_757b62553266362f4260588a26ed231386e9b229aad9a61fe8340194ad95ffbf/icon0.webp",
+      "description": "Edition includes: - Complete The Last of Us™ single-player story (PS5™). - Celebrated prequel chapter, Left Behind, which explores the events that changed the lives of Ellie and her best friend Riley forever. Experience the emotional storytelling and unforgettable characters in The Last of Us, winner of over 200 Game of the Year awards, now rebuilt from the ground up for the PlayStation®5 console. In a ravaged civilization, where infected and hardened survivors run rampant, Joel, a weary protagonist, is hired to smuggle 14-year-old Ellie out of a military quarantine zone. However, what starts as a small job soon transforms into a brutal cross-country journey. - Completely rebuilt using Naughty Dog’s latest PS5 engine technology with advanced visual fidelity, fully integrated DualSense™ wireless controller features and more. - A total overhaul of the original experience, faithfully reproduced but incorporating modernized gameplay mechanics, improved controls and expanded accessibility options. - Feel immersed in improved environmental storytelling, effects, facial animations and enhanced exploration and combat.\nRegion: USA\nNotes: for 4.xx - install base game then backport pkg\nUpdated: 2026-09-22T07:18:07.824Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 76343043686
+    },
+    {
+      "titleId": "PPSA01969",
+      "title": "Death Stranding Directors Cut",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/dKKQFVFKnt"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/c6MNENkQJ0"
+        },
+        {
+          "name": "Akirabox",
+          "url": "https://akirabox.com/QN9mEq0ORm6d/file"
+        },
+        {
+          "name": "Akirabox",
+          "url": "https://akirabox.com/M2BGwPyMXmj4/file"
+        },
+        {
+          "name": "Akirabox",
+          "url": "https://akirabox.com/2WVGrdylM3kx/file"
+        },
+        {
+          "name": "Akirabox",
+          "url": "https://akirabox.com/ex5z25rbB3Kq/file"
+        }
+      ],
+      "version": "01.005.000",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01969_44a112b87f094c2db74b7632441f091e4cbf0114798ae4e2817fe5ba0613392a/icon0.webp",
+      "description": "From legendary game creator Hideo Kojima comes a genre-defying experience, now expanded and remastered in this definitive Director’s Cut. - Remastered for the PlayStation®5 console – enjoy advanced combat and a new competitive ranking system.* - Expanded content – use additional weapons and vehicles, take on new enemies and explore new locations with extra missions and minigames. - New discoveries – experience an extended storyline in an expanded area. - Social Strand System – stay connected with players around the globe.* PS5™ features: - Experience environment effects with the DualSense™ wireless controller’s haptic feedback. - Get closer to the world of DEATH STRANDING with bespoke adaptive trigger resistance. - Hear sound effects come to life in 3D Audio with stereo headphones (analogue or USB). - Get into the action quickly with the PS5 console’s ultra-fast SSD and near-instant load times. - Choose from two picture modes – Performance Mode with scaled 4K and up to 60FPS or Fidelity Mode in native 4K – both with HDR support, so you can enjoy stunningly clear graphics and advanced texture streaming.** *Internet and account for PlayStation™Network required. **4K and HDR require a 4K & HDR compatible TV or display.\nRegion: USA\nNotes: for 4.xx - Install base game then backport pkg\nUpdated: 2026-09-22T05:59:13.697Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 68719476736
+    },
+    {
+      "titleId": "PPSA02176",
+      "title": "Tony Hawk's Pro Skater 1 + 2",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/slz9EU8CMz"
+        }
+      ],
+      "version": "01.004",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02176_37d7d1fc94f14fac0a05b31f75b5c6e92b28db14e63c123059e4055cac972839/icon0.webp",
+      "description": "Buy Tony Hawk's™ Pro Skater™ 1 + 2 digital version for PS4™ from PlayStation™Store to get Tony Hawk's™ Pro Skater™ 1 + 2 - Cross-Gen Deluxe Bundle digital version for PS5™ for only $10*.\nRegion: USA\nUpdated: 2026-09-22T05:55:41.426Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 25125558682
+    },
+    {
+      "titleId": "PPSA01288",
+      "title": "Sackboy: A Big Adventure",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/ynI60nMqMj"
+        }
+      ],
+      "version": "1.014",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01288_c0ba86c933ab54468afb91e8c0337cde6c56dc911318d8eeb0f6cf198b5999f7/icon0.webp",
+      "description": "Face thrilling, unpredictable challenges as you explore distinctive hand-crafted lands through deeply immersive and expressive controls. Go solo in an epic race against time stuffed with danger and peril — or create teams of two to four adventurers for fun-packed party play as you work together to overcome nefarious tasks however you can imagine. Can you save Craftworld from the dastardly Vex and his nightmarish Topsy Turver device... and become the Knitted Knight of legend? • PERILOUS PLATFORMING EXPERIENCE Explore here, there and everywhere as you utilize Sackboy's cool, diverse moveset to face a huge variety of thrilling challenges, fierce enemies and startling surprises. • COLLABORATIVE, CHAOTIC AND JOYFUL MULTIPLAYER Take on side-splitting challenges in local and online party play. Parties can play through the whole game — including unmissable co-op-only levels. • RE-STUFFED. RE-STITCHED. RE-ZIPPED. Sackboy returns to the big time, stuffed with fresh moves and game-changing gadgets in an awe-inspiring and downright fun 3D adventure in this new but familiar world. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™-game-disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.\nRegion: EUR\nUpdated: 2026-09-22T05:53:46.840Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 33629593928
+    },
+    {
+      "titleId": "PPSA02387",
+      "title": "A Plague Tale: Innocence",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/zGcQCGn84F"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/ZR4pu6xw7P"
+        }
+      ],
+      "version": "1.000",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02387_3427a5e562fa09efdaa0feef04d6af7ae6821a08be872d2cb5a327d07a560f9a/icon0.webp",
+      "description": "Follow the critically acclaimed tale of young Amicia and her little brother Hugo, in a heartrending journey through the darkest hours of history. Hunted by Inquisition soldiers and surrounded by unstoppable swarms of rats, Amicia and Hugo will come to know and trust each other. As they struggle to survive against overwhelming odds, they will fight to find purpose in this brutal, unforgiving world. Enjoy 4K resolution, 60FPS, highly improved visuals and fast loading on PlayStation®5.\nRegion: EUR\nUpdated: 2026-09-22T05:51:26.508Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 35970351104
+    },
+    {
+      "titleId": "PPSA03973",
+      "title": "JUMANJI: The Video Game",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/hD7kb4ceLw"
+        }
+      ],
+      "version": "1.000.001",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03973_446c4d9f042badfe1b7fdb5dc4b0c19a7fbb3523769a4e91a7f12b9d2dd0e56e/icon0.webp",
+      "description": "Unite in adventure and laughter in the action-packed game of Jumanji, the ultimate challenge for those who seek to leave their world behind. Play online, split-screen or with AI teammates, and combine the unique abilities of Dr. Bravestone, Ruby, Mouse and Prof. Oberon to defeat your foes and save the day!\nRegion: EUR\nUpdated: 2026-09-22T05:50:03.239Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 2147483648
+    },
+    {
+      "titleId": "PPSA28311",
+      "title": "Absolum",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/vk04ELZN6B"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/OOHPb3higZ"
+        }
+      ],
+      "version": "01.002",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28311_02029569d9e378ddefd0846f39398e8f4926bfa9a9d99b07a3c4a166eaa18dce/icon0.webp",
+      "description": "Crafted with passion by the dream team that redefined side-scrolling beat 'em ups, Absolum mixes top-of-the-class combat action with modern roguelite elements, bringing all the vibes of the fantasy arcade hits of the past into an immersive adventure set in the original world of Talamh. AN EPIC ADVENTURE IN AN ORIGINAL FANTASY WORLD Talamh has been shattered by a magical cataclysm caused by ambitious wizards, leaving magic mistrusted by the common folk. Sun King Azra took advantage of this panic, enslaving wizards through his Crimson Order and placing loyal princes to rule over the conquered realms. As Azra’s forces claim more and more lands, the high enchantress Uchawi and a small group of rebels rise from the shadows, wielding forbidden magic to challenge his oppressive regime and defy his absolute magic power. FROM THE DESTRUCTION, NEW HEROES RISE Meet the outcast heroes of Talamh, each with their unique fighting style. From the shadows of Yeldrim, Galandra emerges as an unstoppable force of nature. Her colossal sword strikes with deadly precision, combined with chilling, destructive necromantic powers. Her calm demeanor is a thin veil, barely concealing the furious anger brewing inside her. Karl is the last free dwarf of Talamh. Armed with an ancestral blunderbuss and his bare fists, he’s a master of close-range brawls and explosive tactics. What he lacks in reach at mid-range, he makes up for with raw strength and quick thinking, making him a stalwart ally in the revolt against Azra's oppression. During their ordeals, two mysterious heroes will join them on a quest to overthrow the Sun King: Brome, a wizard prodigy on a mission to preserve the future generations of his people, and the enigmatic Cider, a nimble skirmisher in search of answers among the scattered fragments of their own soul. THE ROGUE ‘EM UP ORIGINAL BY DOTEMU Absolum combines Dotemu and Guard Crush’s mastery in beat ‘em up gameplay with Supamonks' best-in-class art and animation. With its fast-paced action and endless replayability, Absolum will challenge you with multiple paths to explore and unpredictable encounters for a new experience each time you play. A NEW THRILLING GAMEPLAY TO MASTER Take down Azra’s elite guard with a mix of rapid combo chains and spellcasting powers, unleashing moves that feel as raw as they are strategic. Use magical counters and rare items to turn the tide in your favor and experience a combat system that demands skill and timing, pushing you to craft new strategies at every run to wreak havoc among the enemy ranks. THE BEAT ‘EM UP GENRE AT ITS VERY BEST Lead the uprising against Azra's regime as a lone hero, or team up with a friend on your couch or online. Combine your elemental powers and synchronize your attacks into incredible chained combos! The world of Talamh is an intricate tapestry brimming with secrets, stories, and betrayals. From the majestic mines of Grandery to the lush forests of Jaroba, every step of your odyssey will be accompanied by a magnificent soundtrack by composer Gareth Coker (Ori, Halo Infinite, Prince of Persia), with collaborations from Yuka Kitamura (Dark Souls, Elden Ring), Mick Gordon (Doom Eternal, Atomic Heart), and more!\nRegion: EUR\nNotes: For 4.xx - Install base game then backport pkg\nUpdated: 2026-09-22T05:48:12.301Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 3221225472
+    },
+    {
+      "titleId": "PPSA01924",
+      "title": "Alan Wake Remastered",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/s2vefaaGyJ"
+        }
+      ],
+      "version": "01.005",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01924_12df767d86d3234b481a5d55701d423c167c7dc51e30bfe417c649695a0693b0/icon0.webp",
+      "description": "In this award-winning cinematic action-thriller, troubled author Alan Wake embarks on a desperate search for his missing wife, Alice. Following her mysterious disappearance from the Pacific Northwest town of Bright Falls, he discovers pages of a horror story he has supposedly written, but he has no memory of. Wake is soon forced to question his sanity, as page by page, the story comes true before his eyes: a hostile presence of supernatural darkness is taking over everyone it finds, turning them against him. He has no choice but to confront the forces of darkness armed only with his flashlight, a handgun and what remains of his shredded mind. His nightmarish journey to find answers to the mind-bending mystery he faces will lead him into the terrifying depths of the night. Alan Wake Remastered offers the complete experience, with the main game and its two story expansions - The Signal and The Writer - in stunning new 4K visuals. The tense, episodic story is packed with unexpected twists, heart-stopping cliff hangers, and intense bursts of combat where it takes more than bullets to banish the darkness. The game’s cutscenes, quirky cast of characters, and the majestic Pacific Northwest vistas have been enhanced for an experience that delivers as much on its visual impact as its unnerving atmosphere. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.\nRegion: USA\nUpdated: 2026-09-22T05:44:04.313Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 29678224015
+    },
+    {
+      "titleId": "PPSA25381",
+      "title": "Elden Ring Nightreign",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/Rnl828ZvJG"
+        }
+      ],
+      "version": "01.000.000",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA25381_6b769bc980ce326d14cb240d92fe312e2c9f48c3928a44e7a5a07701e141aecf/icon0.webp",
+      "description": "This product entitles you to download both the digital PS4™ version and the digital PS5™ version of this game. The Deluxe Edition Includes: • ELDEN RING NIGHTREIGN • ELDEN RING NIGHTREIGN The Forsaken Hollows - 2 additional Nightfarers - 2 Day Three Bosses - Additional Shifting Earth - And more! • Digital Artbook & Mini Soundtrack ELDEN RING NIGHTREIGN is a standalone adventure within the ELDEN RING universe, crafted to offer players a new gaming experience by reimagining the game’s core design. RISE TOGETHER Join forces with other players to take on the creeping night and the dangers within featuring 3-player co-op. BECOME A HERO Take command of uniquely skilled heroes, each possessing their own abilities and distinct flair. While individually formidable, their skills create powerful synergies when they unite as a team. TAKE ON THE NIGHT Overcome a relentless environmental threat that sweeps through a land that changes between each game session and defeat the magnificent boss of that night! *There is also a Standard Edition product available. Please be careful not to purchase the same content twice. *ELDEN RING NIGHTREIGN The Forsaken Hollows will be available in December 2025. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.\nRegion: EUR\nUpdated: 2026-09-22T05:41:29.562Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 20325932728
+    },
+    {
+      "titleId": "PPSA01417",
+      "title": "Marvel's Spider-Man Miles Morales",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/70NNAclaUS"
+        }
+      ],
+      "version": "1.013.002",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01417_885d6a2f45ac2b33a8ff2cb3595daaf5374f8afddf9ff336a685e5519a025c11/icon0.webp",
+      "description": "This product entitles you to download both the digital PS4™ version and the digital PS5™ version of this game. In the latest adventure in the Marvel’s Spider-Man universe, teenager Miles Morales is adjusting to his new home while following in the footsteps of his mentor, Peter Parker, as a new Spider-Man. But when a fierce power struggle threatens to destroy his new home, the aspiring hero realizes that with great power, there must also come great responsibility. To save all of Marvel’s New York, Miles must take up the mantle of Spider-Man and own it. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.\nRegion: EUR\nUpdated: 2026-09-22T05:28:38.342Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 52076478464
+    },
+    {
+      "titleId": "PPSA28542",
+      "title": "Gex Trilogy",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/F9Cz6islUi"
+        }
+      ],
+      "version": "1.10",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28542_72d2a7cf7c553a9dc84ccc6f263bbe0b0e68b46af2aaf3d85054ba2764931075/icon0.webp",
+      "description": "Exploding into the modern era like a pro wrestler from the top rope—it’s Gex! The fast-talking gecko who doesn’t want to sell you insurance! That’s right, the greatest gaming hero of the 1990s has returned for the 2020s through the raw, unbridled power of the Carbon Engine. Gex Trilogy reproduces all three original games in exacting detail, precisely the way you remember them. Assuming you’ve gone senile and remember them having high-definition native 16:9 widescreen visuals and fully analog controls. Which they didn’t. No, this is the Gex series the way it was meant to be played. The Man didn’t think you were ready back then. He kept this version locked away. But the moment has finally arrived. Down with The Man! Up with Gex! Gex Trilogy is Gex, the next-gen version. The Gex’t-gen version. The Gexiest version of all. And just like the tightest red carpet attire on Oscar night, the Gex Trilogy is totally stuffed… with tons of bonus features, including a music player featuring every track from each game (even the tunes that are kind of annoying), a massive museum filled with key art, a collection of classic TV commercials for the media-addled idiots in the audience, and an all-new interview with the voice of Gex. That’s Gould, Jerry, Gould! (Dana Gould, to be precise.)\nRegion: USA\nUpdated: 2026-09-22T03:04:43.513Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 3221225472
+    },
+    {
       "titleId": "PPSA10621",
       "title": "Lies of P: Overture",
       "downloadLinks": [
@@ -177,6 +437,10 @@
         {
           "name": "Viki",
           "url": "https://vikingfile.com/f/xwwvXkaZtz"
+        },
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vikingfile.com/f/zYywCH7Y7W"
         }
       ],
       "version": "0.1.006",
@@ -1553,6 +1817,10 @@
         {
           "name": "Data",
           "url": "https://datavaults.co/7xnpd4q0iuaw"
+        },
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vikingfile.com/f/jVV8xdsA73"
         }
       ],
       "version": "1.50",
@@ -2434,7 +2702,7 @@
       "version": "01.015.001",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01411_d6a71c63818045f0c1c69aaa1a1f8fadb2d19ee3829dabadb5d0832514d66c6b/icon0.webp",
-      "description": "This product entitles you to download both the digital PS4™ version and the digital PS5™ version of this game. In the latest adventure in the Marvel’s Spider-Man universe, teenager Miles Morales is adjusting to his new home while following in the footsteps of his mentor, Peter Parker, as a new Spider-Man. But when a fierce power struggle threatens to destroy his new home, the aspiring hero realizes that with great power, there must also come great responsibility. To save all of Marvel’s New York, Miles must take up the mantle of Spider-Man and own it. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.\nRegion: EUR\nUpdated: 2026-09-14T08:18:29.454Z",
+      "description": "This product entitles you to download both the digital PS4™ version and the digital PS5™ version of this game. In the latest adventure in the Marvel’s Spider-Man universe, teenager Miles Morales is adjusting to his new home while following in the footsteps of his mentor, Peter Parker, as a new Spider-Man. But when a fierce power struggle threatens to destroy his new home, the aspiring hero realizes that with great power, there must also come great responsibility. To save all of Marvel’s New York, Miles must take up the mantle of Spider-Man and own it. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.\nRegion: USA\nUpdated: 2026-09-14T08:18:29.454Z",
       "downloadSource": "https://pfs-library.vercel.app/api/packages",
       "sizeBytes": 56371445760
     },
@@ -7458,22 +7726,22 @@
       "title": "Uncharted Legacy of Thieves Collection",
       "downloadLinks": [
         {
-          "name": "Archive - 10.xx +",
+          "name": "Archive",
           "url": "https://archive.org/details/PPSA05389_Uncharted"
         },
         {
-          "name": "Viki - 4.xx",
+          "name": "Viki",
           "url": "https://vikingfile.com/f/bQIv5TqZm5"
         },
         {
-          "name": "Archive - 4.xx",
+          "name": "Archive",
           "url": "https://archive.org/details/UnchartedLOTC_4xx"
         }
       ],
       "version": "01.002",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA05684_f118b62785c2f878401378367a792b3d710d273393d87f48582e3840b906a609/icon0.webp",
-      "description": "Players who purchased UNCHARTED 4: A Thief’s End, UNCHARTED: The Lost Legacy, or UNCHARTED 4: A Thief’s End & UNCHARTED: The Lost Legacy Digital Bundle have the option to pay $10 USD to upgrade to UNCHARTED: Legacy of Thieves Collection. The upgrade will be available starting at launch on 28 January 2022. Leave your mark on the map in UNCHARTED: Legacy of Thieves Collection. In an experience delivered by award winning developer Naughty Dog, UNCHARTED: Legacy of Thieves Collection includes the two critically acclaimed, single player adventures: UNCHARTED 4: A Thief’s End and UNCHARTED: The Lost Legacy. Discover lost history with the charismatic yet complex thieves, Nathan Drake and Chloe Frazer, as they travel the world with a sense of wonder, pursuing extraordinary adventures and lost lore – remastered in stunning detail for the PS5™ console with improved visuals and frame rate. Unmissable PlayStation®5 console features: • DualSense™ wireless controller features: Feel the action unfold with the DualSense™ wireless controller's haptic feedback through punches, vaults, and vehicular traversal. Experience the tension in rope swings via dynamic adaptive triggers. • Fast loading: Jump back into the adventure quickly with the PS5™ console’s ultra-high speed SSD and near-instant load times. • 3D Audio: Hear the world of UNCHARTED™: Legacy of Thieves Collection come to life around you with 3D Audio.¹ • Fidelity mode: Play in a super sharp native 4K resolution with a 30fps target frame rate.² • Performance mode: Play with a smooth 60fps target frame rate. o 4K TV players will experience a 4K resolution upscaled from a 1440p base resolution. o 1080p HD TV players will experience a 1080p resolution super sampled from a 1440p base with improved anti-aliasing. • Performance+ mode: Play with a high impact 120fps target frame rate³ and a 1080p resolution. Owners of PS4 disc copies must insert them into the PS5 every time they want to download or play the PS5 digital versions. PS4 game disc owners who buy the PS5 Digital Edition disc-free console will not be able to get the PS5 version for the discounted price. PlayStation®Plus members who claimed UNCHARTED 4: A Thief’s End via their PlayStation Plus subscription are not eligible for the $10 digital PS5 upgrade. ¹ 3D Audio via built-in TV speakers (setup and update to the latest system software required) or analogue/USB stereo headphones. ² Requires a 4K compatible TV or display. ³ Requires a compatible 120hz display.\nRegion: EUR\nFirmware: 10.xx, 4.xx\nCredits: DK Ricasa\nUpdated: 2026-07-21T13:01:35.379Z",
+      "description": "Players who purchased UNCHARTED 4: A Thief’s End, UNCHARTED: The Lost Legacy, or UNCHARTED 4: A Thief’s End & UNCHARTED: The Lost Legacy Digital Bundle have the option to pay $10 USD to upgrade to UNCHARTED: Legacy of Thieves Collection. The upgrade will be available starting at launch on 28 January 2022. Leave your mark on the map in UNCHARTED: Legacy of Thieves Collection. In an experience delivered by award winning developer Naughty Dog, UNCHARTED: Legacy of Thieves Collection includes the two critically acclaimed, single player adventures: UNCHARTED 4: A Thief’s End and UNCHARTED: The Lost Legacy. Discover lost history with the charismatic yet complex thieves, Nathan Drake and Chloe Frazer, as they travel the world with a sense of wonder, pursuing extraordinary adventures and lost lore – remastered in stunning detail for the PS5™ console with improved visuals and frame rate. Unmissable PlayStation®5 console features: • DualSense™ wireless controller features: Feel the action unfold with the DualSense™ wireless controller's haptic feedback through punches, vaults, and vehicular traversal. Experience the tension in rope swings via dynamic adaptive triggers. • Fast loading: Jump back into the adventure quickly with the PS5™ console’s ultra-high speed SSD and near-instant load times. • 3D Audio: Hear the world of UNCHARTED™: Legacy of Thieves Collection come to life around you with 3D Audio.¹ • Fidelity mode: Play in a super sharp native 4K resolution with a 30fps target frame rate.² • Performance mode: Play with a smooth 60fps target frame rate. o 4K TV players will experience a 4K resolution upscaled from a 1440p base resolution. o 1080p HD TV players will experience a 1080p resolution super sampled from a 1440p base with improved anti-aliasing. • Performance+ mode: Play with a high impact 120fps target frame rate³ and a 1080p resolution. Owners of PS4 disc copies must insert them into the PS5 every time they want to download or play the PS5 digital versions. PS4 game disc owners who buy the PS5 Digital Edition disc-free console will not be able to get the PS5 version for the discounted price. PlayStation®Plus members who claimed UNCHARTED 4: A Thief’s End via their PlayStation Plus subscription are not eligible for the $10 digital PS5 upgrade. ¹ 3D Audio via built-in TV speakers (setup and update to the latest system software required) or analogue/USB stereo headphones. ² Requires a 4K compatible TV or display. ³ Requires a compatible 120hz display.\nRegion: EUR\nCredits: DK Ricasa\nUpdated: 2026-07-21T13:01:35.379Z",
       "downloadSource": "https://pfs-library.vercel.app/api/packages",
       "sizeBytes": 93200790323
     },

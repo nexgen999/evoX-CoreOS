@@ -9,7 +9,7 @@
             "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "1c639e64220d43f7a028374efea1cf840a82bc6f11f08275fbfb01d639e34649"
+            "checksum": "c643997599cb4c92b72ed8a039e0a076483bb1a87169804ecc27b549519dbc09"
         },
         {
             "name": "A53-kstuff-SMP",
@@ -19,7 +19,7 @@
             "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "dace63fa8a5438874432f42ade281c75b2273154f1a7366a2d0845d21b94da7a"
+            "checksum": "e405dfcf4ada1c57c1e3c8fd633aa78a72156b1236bb8d29d450b0c601bf6cea"
         },
         {
             "name": "kstuff",
@@ -29,7 +29,7 @@
             "description": "Experimental Kstuff DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "54651bc241ef643be1c9d4cf092c0d3ec42b252c79ee8733580c111e1d095c53"
+            "checksum": "be81c103da86bf74e6f2ca6a088afd9da834a826b73adbfa05ae1bffdb86cb91"
         },
         {
             "name": "ShadowMountPlus",
@@ -39,7 +39,7 @@
             "description": "ShadowMountPlus experimental for FPKG",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "1591da0d9a2bfcb90731e51e6ad020d2267fa364746a992a64ba5497710eb164"
+            "checksum": "70d44ec4d4109d24aaf990b9d34a3d0c94bd080a8e445a674271f0476e1f04a5"
         },
         {
             "name": "a53_ppr_install_fast",
@@ -49,7 +49,7 @@
             "description": "A53 Experimental for Kstuff-Darkmor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "2dc0a5bc55af1210097a21752301c80fded0744fab187b39719ee511baa41364"
+            "checksum": "e731463ee575729a7b87e096344e905ea1a0925b65104981c98a17276cb8fb09"
         },
         {
             "name": "kstuff-echostrech",
@@ -59,7 +59,7 @@
             "description": "Experimental Kstuff EchoStrech",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "ac4c96dea4df2fbd9044a4c3bb0079246f898e907f98d4d4b1d515b64eb41651"
+            "checksum": "2381ab50c0fab55f1b16c699d84b30785242aa95cc5dad3aa0c296ec15afdcee"
         },
         {
             "name": "a53_exploit-experimental",
@@ -69,7 +69,7 @@
             "description": "A53 Experimental for Kstuff-EchoStrech",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "c109979211d84d3f1dbe831948ba70264c340c31b44f5189bd4ce4833ba99367"
+            "checksum": "b030b2105bf4758c34a0edb8c6297d7aed2042730ec80fea157656e26935dd5c"
         },
         {
             "name": "ps5debug-NG",
@@ -463,13 +463,13 @@
         },
         {
             "name": "pkgmgr",
-            "filename": "pkgmgr_v1.2.1.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.2.1/pkgmgr_v1.2.1.elf",
-            "local_path": "payloads/ps5_pkg_tool/ps5-pkg-manager/v1.2.1/pkgmgr_v1.2.1.elf",
+            "filename": "pkgmgr_v1.2.2.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.2.2/pkgmgr_v1.2.2.elf",
+            "local_path": "payloads/ps5_pkg_tool/ps5-pkg-manager/v1.2.2/pkgmgr_v1.2.2.elf",
             "description": "A clean and intuitive package manager for PlayStation 5",
-            "version": "v1.2.1",
+            "version": "v1.2.2",
             "category": "PS5 Pkg Tool",
-            "checksum": "dff50e27f954e78838e97bcddbb5914bd348572a3caa3b2f9a0880e25a0f5fbc"
+            "checksum": "67b649699a67eb68f5a6cfbfb34295b9419b88c70aba6e002af71f6c1c285624"
         },
         {
             "name": "etaHEN",
@@ -763,13 +763,13 @@
         },
         {
             "name": "ps5upload",
-            "filename": "ps5upload_v5.31.4.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.31.4/ps5upload_v5.31.4.elf",
-            "local_path": "payloads/ps5_server/ps5upload/v5.31.4/ps5upload_v5.31.4.elf",
+            "filename": "ps5upload_v5.33.1.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.33.1/ps5upload_v5.33.1.elf",
+            "local_path": "payloads/ps5_server/ps5upload/v5.33.1/ps5upload_v5.33.1.elf",
             "description": "PS5 Upload server / tool. Port: 9025",
-            "version": "v5.31.4",
+            "version": "v5.33.1",
             "category": "PS5 Server",
-            "checksum": "420bdd4d9328ab1068f32ef1a19f96387586ddd2a308744f81957d04d8a41d3b"
+            "checksum": "75b364880bedaaac1499779d5a459008ca838eb13d30252169f9b134dd32ed63"
         },
         {
             "name": "airpsx",

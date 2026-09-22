@@ -1,5 +1,10 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 22/09/2026 à 10:47
+* **PAYLOADS**
+  * `pkgmgr` (v1.2.2) - *Mise à jour (Précédent: v1.2.1)*
+  * `ps5upload` (v5.33.1) - *Mise à jour (Précédent: v5.31.4)*
+
 ## Build du 22/09/2026 à 02:53
 * **PAYLOADS**
   * `pkgmgr` (v1.2.1) - *Mise à jour (Précédent: v1.1.0)*
