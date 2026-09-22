@@ -3,6 +3,30 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA10621",
+      "title": "Lies of P: Overture",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/6LsijUvqOh"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/29q3f1NAMA"
+        },
+        {
+          "name": "Mediafire",
+          "url": "https://www.mediafire.com/file/zpdftxz1olvdb1a/[DLPSGAME.COM]+-+ALL+DLC+-+[PPSA10621].rar/file"
+        }
+      ],
+      "version": "1.012.000",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA10621_1d05b3fffd0597125a1ecd2657de2fcc321c9b7b1c3e0713ff959ec76ae0ab64/icon0.webp",
+      "description": "Lies of P: Overture is a dramatic prequel to the acclaimed soulslike action RPG, Lies of P. It transports you to the city of Krat in its final days of haunting, late-19th-century Belle Époque beauty. On the brink of the Puppet Frenzy massacre, you follow a legendary Stalker—a mysterious guide—through untold stories and chilling secrets. As Geppetto’s deadly puppet, you’ll journey through Krat and its surroundings, uncover hidden backstories, and face epic battles that shape the past and future of Lies of P. “Geppetto’s puppet… We need your help.” Return to the City of Krat. Discover Its Unexplored Horror and Splendor. Venture into a past Krat when its Belle Époque elegance faces impending ruin. Explore majestic, never-before-seen locations, from extravagant landmarks on its outskirts to opulent mansions and eerie, haunted ruins. Confront formidable new enemies and uncover secrets hidden within the city’s decaying grandeur. Travel Back in Time. Meet the Legendary Stalker. Before the awakening lies the truth. Join Lea, the Legendary Stalker, on her relentless path of vengeance. A veil is lifted to reveal a hidden chapter of Krat's dark past. Discover untold stories behind both new and familiar characters as you explore the gripping drama and mysteries that shape this rich and haunting world. Forge New Weapons. Master New Combat Styles. Cunning enemies lurk within unfamiliar labyrinths and treacherous terrain, waiting to end your story. Ruthless, punishing, and even majestic, these adversaries will test your mettle. Only the most resourceful, doughty, and daring will prevail. As you delve deeper into its expanded world you'll unlock powerful new armaments, including a brand-new arsenal of weapon combinations and Legion Arms, giving you unprecedented freedom to forge a combat style uniquely yours. Overcome Treacherous Odds. Face intense, high-stakes encounters through Krat’s labyrinths and various surroundings. Confront powerful new bosses and enemies as you fight to uncover the mysteries of a world teetering on the edge of collapse.\nRegion: EUR\nNotes: For 4.xx+ backport Install base game -> dlc -> backport\nUpdated: 2026-09-22T00:17:21.362Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 55898999357
+    },
+    {
       "titleId": "PPSA15421",
       "title": "Until Dawn",
       "downloadLinks": [
@@ -1706,7 +1730,7 @@
       "version": "1.036.178",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28180_52d0eb9d50748574d0312b57df691dee90bdbf95a4b147c7b6945585fe392a4e/icon0.webp",
-      "description": "Edition includes: Days Gone Remastered Ride into a desperate, dog-eat-dog world in the definitive Days Gone experience, remastered for the PlayStation®5 console. Fight to survive an environment ravaged by a deadly pandemic as former outlaw biker, Deacon St. John. Risk the threats of the Broken Road on the back of your trusty Drifter bike as you face terrifying hordes of relentless feral Freakers – as well as dangerous gangs of humans. Unpredictable weather and different times of day and night can cause incredible danger and shocking surprises… and everything wants you dead. - Appreciate enhanced graphical fidelity, increased foliage draw distance, plus improved shadow and lighting quality – with the potential for smooth, seamless performance made possible by a variable refresh rate, for TVs or displays that support VRR.1 - Select your preferred playing experience, between Quality mode for increased resolution or Performance mode for improved framerates. - Feel every moment of survival through the DualSense® wireless controller’s haptic feedback and adaptive triggers. From the rumble of your bike’s engine, to traversing the Broken Road… 1 Compatible TV or display required.\nRegion: EUR\nUpdated: 2026-09-16T17:14:43.361Z",
+      "description": "Edition includes: Days Gone Remastered Ride into a desperate, dog-eat-dog world in the definitive Days Gone experience, remastered for the PlayStation®5 console. Fight to survive an environment ravaged by a deadly pandemic as former outlaw biker, Deacon St. John. Risk the threats of the Broken Road on the back of your trusty Drifter bike as you face terrifying hordes of relentless feral Freakers – as well as dangerous gangs of humans. Unpredictable weather and different times of day and night can cause incredible danger and shocking surprises… and everything wants you dead. - Appreciate enhanced graphical fidelity, increased foliage draw distance, plus improved shadow and lighting quality – with the potential for smooth, seamless performance made possible by a variable refresh rate, for TVs or displays that support VRR.1 - Select your preferred playing experience, between Quality mode for increased resolution or Performance mode for improved framerates. - Feel every moment of survival through the DualSense® wireless controller’s haptic feedback and adaptive triggers. From the rumble of your bike’s engine, to traversing the Broken Road… 1 Compatible TV or display required.\nRegion: USA\nUpdated: 2026-09-16T17:14:43.361Z",
       "downloadSource": "https://pfs-library.vercel.app/api/packages",
       "sizeBytes": 49714246451
     },

@@ -3,13 +3,13 @@
   "payloads": [
     {
       "name": "pkgmgr",
-      "filename": "pkgmgr_v1.1.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.1.0/pkgmgr_v1.1.0.elf",
-      "local_path": "payloads/ps5_pkg_tool/ps5-pkg-manager/v1.1.0/pkgmgr_v1.1.0.elf",
+      "filename": "pkgmgr_v1.2.1.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.2.1/pkgmgr_v1.2.1.elf",
+      "local_path": "payloads/ps5_pkg_tool/ps5-pkg-manager/v1.2.1/pkgmgr_v1.2.1.elf",
       "description": "A clean and intuitive package manager for PlayStation 5",
-      "version": "v1.1.0",
+      "version": "v1.2.1",
       "category": "PS5 Pkg Tool",
-      "checksum": "3df00c908411741216b3a5741b297cd3e771ce3b492cdf0f2f4edb7cc60b403b"
+      "checksum": "dff50e27f954e78838e97bcddbb5914bd348572a3caa3b2f9a0880e25a0f5fbc"
     }
   ]
 }

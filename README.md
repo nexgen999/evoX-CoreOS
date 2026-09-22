@@ -80,13 +80,13 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| [A53-Kstuff-ShadowMountPlus-3in1](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf) | Source-Fixe | `1b155038927e...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
-| [A53-kstuff-SMP](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf) | Source-Fixe | `f8f57577ce31...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
-| [a53_exploit-experimental](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-E/Source-Fixe/a53_exploit-experimental.elf) | Source-Fixe | `9508fe450b5d...` | A53 Experimental for Kstuff-EchoStrech |
-| [a53_ppr_install_fast](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-D/Source-Fixe/a53_ppr_install_fast_v15.09.elf) | Source-Fixe | `1ef3f2aff4c2...` | A53 Experimental for Kstuff-Darkmor |
-| [kstuff](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf) | Source-Fixe | `3473627b6c0a...` | Experimental Kstuff DarkMor |
-| [kstuff-echostrech](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff_EchoStrech_Experimental/Source-Fixe/kstuff-echostrech_v1.11expermiental.elf) | Source-Fixe | `5fb28b9eb906...` | Experimental Kstuff EchoStrech |
-| [ShadowMountPlus](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/ShadowMountPlus/Source-Fixe/ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf) | Source-Fixe | `0ce0f22fd13d...` | ShadowMountPlus experimental for FPKG |
+| [A53-Kstuff-ShadowMountPlus-3in1](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf) | Source-Fixe | `1c639e64220d...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
+| [A53-kstuff-SMP](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf) | Source-Fixe | `dace63fa8a54...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
+| [a53_exploit-experimental](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-E/Source-Fixe/a53_exploit-experimental.elf) | Source-Fixe | `c109979211d8...` | A53 Experimental for Kstuff-EchoStrech |
+| [a53_ppr_install_fast](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-D/Source-Fixe/a53_ppr_install_fast_v15.09.elf) | Source-Fixe | `2dc0a5bc55af...` | A53 Experimental for Kstuff-Darkmor |
+| [kstuff](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf) | Source-Fixe | `54651bc241ef...` | Experimental Kstuff DarkMor |
+| [kstuff-echostrech](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff_EchoStrech_Experimental/Source-Fixe/kstuff-echostrech_v1.11expermiental.elf) | Source-Fixe | `ac4c96dea4df...` | Experimental Kstuff EchoStrech |
+| [ShadowMountPlus](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/ShadowMountPlus/Source-Fixe/ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf) | Source-Fixe | `1591da0d9a2b...` | ShadowMountPlus experimental for FPKG |
 
 ### 📂 PS5 Cheat
 
@@ -205,7 +205,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| [pkgmgr](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.1.0/pkgmgr_v1.1.0.elf) | v1.1.0 | `3df00c908411...` | A clean and intuitive package manager for PlayStation 5 |
+| [pkgmgr](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.2.1/pkgmgr_v1.2.1.elf) | v1.2.1 | `dff50e27f954...` | A clean and intuitive package manager for PlayStation 5 |
 
 ### 📂 PS5 Saves
 

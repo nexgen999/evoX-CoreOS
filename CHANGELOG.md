@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 22/09/2026 à 02:53
+* **PAYLOADS**
+  * `pkgmgr` (v1.2.1) - *Mise à jour (Précédent: v1.1.0)*
+
 ## Build du 21/09/2026 à 21:34
 * **PAYLOADS**
   * `ps5-new-overlay` (v1.0.15) - *Mise à jour (Précédent: v1.0.14)*
