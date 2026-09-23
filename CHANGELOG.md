@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 23/09/2026 à 15:57
+* **PAYLOADS**
+  * `ELF_Arsenal` (v1.6.23) - *Mise à jour (Précédent: v1.6.22)*
+
 ## Build du 23/09/2026 à 10:37
 * **PAYLOADS**
   * `ps5debug-NG` (1.3.2) - *Mise à jour (Précédent: 1.3.0)*

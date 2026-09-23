@@ -9,7 +9,7 @@
             "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "d9c6dbb4d66c9d6c177442b078d672eabfca8e6c7ec7e2efb1cd60850aadc1d5"
+            "checksum": "d29b7247d3473bd459d4a3c9702f9880a5d7874f4cb123eba241157f9f78748c"
         },
         {
             "name": "A53-kstuff-SMP",
@@ -19,7 +19,7 @@
             "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "1272c3fea3af288497c3bd1e7e50ef85011b53ff79e3da71196fca7d2d6532c7"
+            "checksum": "7eff053cd289861f27a2116b9aa7b114b2c91cc03533cf5dd2ec846941d10b1f"
         },
         {
             "name": "kstuff",
@@ -29,7 +29,7 @@
             "description": "Experimental Kstuff DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "08bd02acd8107bd5687de3761d517def0e908b4296934fd7450ccd5c5fcf6c76"
+            "checksum": "daf85efab8b2b02572bde0bd45b6f9c82c5d58f85cebfbb708ea07495a332e16"
         },
         {
             "name": "ShadowMountPlus",
@@ -39,7 +39,7 @@
             "description": "ShadowMountPlus experimental for FPKG",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "524bb3123e306df1019a43648b626dfeb2e1cb96bb2c356b40fbccba31cdf850"
+            "checksum": "020ca4d0fb7e91e470920f532a5e6c43477e9a44bc7450b37ae89e4beb632f26"
         },
         {
             "name": "a53_ppr_install_fast",
@@ -49,7 +49,7 @@
             "description": "A53 Experimental for Kstuff-Darkmor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "566b530cd05e7702998007d6f3f11fe450eb3209ac4189228a4ba309a412cc03"
+            "checksum": "b3b65d12a746e982efacbe13f17e3241131e9eb62a7af3212b5b1915aaa36045"
         },
         {
             "name": "kstuff-echostrech",
@@ -59,7 +59,7 @@
             "description": "Experimental Kstuff EchoStrech",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "a5a6b634142632dac7e7a9ade62614de8083a3554478c76c1194ce606cbc26bf"
+            "checksum": "6cf81f7c4e8a3c60c16e39d312eaa53338df092d888bbae8eb11424e21b0b475"
         },
         {
             "name": "a53_exploit-experimental",
@@ -69,7 +69,7 @@
             "description": "A53 Experimental for Kstuff-EchoStrech",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "4718f04fb24137c7c73d1af5823ef2aec9b97814e84f4b93ded63e9da1c6afa2"
+            "checksum": "2ce07c269fd04dea547c3754b0da027958b32b79fbc30436f668fae257dd76e1"
         },
         {
             "name": "ps5debug-NG",
@@ -503,13 +503,13 @@
         },
         {
             "name": "ELF_Arsenal",
-            "filename": "ELF_Arsenal_v1.6.22.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ELF_Arsenal/v1.6.22/ELF_Arsenal_v1.6.22.elf",
-            "local_path": "payloads/ps5_hen_loader/ELF_Arsenal/v1.6.22/ELF_Arsenal_v1.6.22.elf",
+            "filename": "ELF_Arsenal_v1.6.23.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf",
+            "local_path": "payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf",
             "description": "Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées.",
-            "version": "v1.6.22",
+            "version": "v1.6.23",
             "category": "PS5 HEN Loader",
-            "checksum": "ee8f47e4d6a5fd85cef113341aa1eb74d68e373a58fcb1fb5a9274acd2b83bd2"
+            "checksum": "20cdb0979ce627aff8e684a4506e18390a72492d5e3aa15ecef0bfe1bca08bb5"
         },
         {
             "name": "Kura",
