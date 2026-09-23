@@ -80,13 +80,13 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| [A53-Kstuff-ShadowMountPlus-3in1](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf) | Source-Fixe | `155bcb66ff16...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
-| [A53-kstuff-SMP](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf) | Source-Fixe | `fc48851b79ba...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
-| [a53_exploit-experimental](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-E/Source-Fixe/a53_exploit-experimental.elf) | Source-Fixe | `a28651605fa4...` | A53 Experimental for Kstuff-EchoStrech |
-| [a53_ppr_install_fast](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-D/Source-Fixe/a53_ppr_install_fast_v15.09.elf) | Source-Fixe | `7fac2ec43ad7...` | A53 Experimental for Kstuff-Darkmor |
-| [kstuff](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf) | Source-Fixe | `16dfd13cc1d4...` | Experimental Kstuff DarkMor |
-| [kstuff-echostrech](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff_EchoStrech_Experimental/Source-Fixe/kstuff-echostrech_v1.11expermiental.elf) | Source-Fixe | `c5fead376c21...` | Experimental Kstuff EchoStrech |
-| [ShadowMountPlus](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/ShadowMountPlus/Source-Fixe/ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf) | Source-Fixe | `4a9be94d962d...` | ShadowMountPlus experimental for FPKG |
+| [A53-Kstuff-ShadowMountPlus-3in1](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf) | Source-Fixe | `d9c6dbb4d66c...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
+| [A53-kstuff-SMP](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf) | Source-Fixe | `1272c3fea3af...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
+| [a53_exploit-experimental](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-E/Source-Fixe/a53_exploit-experimental.elf) | Source-Fixe | `4718f04fb241...` | A53 Experimental for Kstuff-EchoStrech |
+| [a53_ppr_install_fast](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-D/Source-Fixe/a53_ppr_install_fast_v15.09.elf) | Source-Fixe | `566b530cd05e...` | A53 Experimental for Kstuff-Darkmor |
+| [kstuff](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf) | Source-Fixe | `08bd02acd810...` | Experimental Kstuff DarkMor |
+| [kstuff-echostrech](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff_EchoStrech_Experimental/Source-Fixe/kstuff-echostrech_v1.11expermiental.elf) | Source-Fixe | `a5a6b6341426...` | Experimental Kstuff EchoStrech |
+| [ShadowMountPlus](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/ShadowMountPlus/Source-Fixe/ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf) | Source-Fixe | `524bb3123e30...` | ShadowMountPlus experimental for FPKG |
 
 ### 📂 PS5 Cheat
 
@@ -230,7 +230,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [ps5-remoteplay-get-pin](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-remoteplay-get-pin/v0.1.1/ps5-remoteplay-get-pin_v0.1.1.elf) | v0.1.1 | `1d611c1856dd...` | Utility to get Remote Play PIN. |
 | [PS5-SELF-Decrypter](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/PS5-SELF-Decrypter_v0.5.2.elf) | v0.5.2 | `190b350759b4...` | SELF decrypter tool for PS5 binaries. |
 | [ps5-self-pager](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager_v1.2.elf) | v1.2 | `73d94fea5de9...` | SELF pager payload tool. |
-| [ps5debug-NG](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5debug-NG/1.3.0/ps5debug-NG_v1.3.0.elf) | 1.3.0 | `8f75fb90b45d...` | Next generation debugger payload for PS5. |
+| [ps5debug-NG](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5debug-NG/1.3.2/ps5debug-NG_v1.3.2.elf) | 1.3.2 | `949b0e6e0fe3...` | Next generation debugger payload for PS5. |
 
 ### 📂 PS5 Server
 
@@ -246,7 +246,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [gdbsrv](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/gdbsrv/v0.9/gdbsrv_v0.9.elf) | v0.9 | `fc91ea233cdb...` | GDB Debugger server payload. Port: 1234 |
 | [klogsrv](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/klogsrv/v0.9/klogsrv_v0.9.elf) | v0.9 | `e828ec144231...` | Kernel log server daemon. Port: 3232 |
 | [ps5-ezremote-server](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.10/ps5-ezremote-server_v1.10.elf) | 1.10 | `fa69eb0b4989...` | Easy remote server component. Port: 8080 |
-| [ps5upload](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.33.1/ps5upload_v5.33.1.elf) | v5.33.1 | `75b364880bed...` | PS5 Upload server / tool. Port: 9025 |
+| [ps5upload](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.33.2/ps5upload_v5.33.2.elf) | v5.33.2 | `808b7acc5173...` | PS5 Upload server / tool. Port: 9025 |
 | [websrv](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf) | v0.34 | `54730c867c6e...` | HTTP Web server payload. Port: 8080 |
 | [zftpd](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zftpd_v1.5.0.bin) | v1.5.0 | `f430dc1fdeae...` | FTP server payload for PS5. Port: 21 |
 | [zftpd](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zftpd_v1.5.0.elf) | v1.5.0 | `bc21772ceafd...` | FTP server payload for PS5. Port: 21 |

@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.23-0253)
+### 🚀 Synthèse de la mise à jour (v2026.09.23-1037)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -24,7 +24,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `a53_ppr_install_fast_v15.09.elf`
   * `kstuff-echostrech_v1.11expermiental.elf`
   * `a53_exploit-experimental.elf`
-  * `ps5debug-NG_v1.3.0.elf`
+  * `ps5debug-NG_v1.3.2.elf`
   * `ps5-self-pager_v1.2.elf`
   * `PS5-SELF-Decrypter_v0.5.2.elf`
   * `ps5-remoteplay-get-pin_v0.1.1.elf`
@@ -93,7 +93,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
   * `ps5-ezremote-server_v1.10.elf`
-  * `ps5upload_v5.33.1.elf`
+  * `ps5upload_v5.33.2.elf`
   * `airpsx_v0.19.elf`
   * `np-fake-signin_v1.3.elf`
 

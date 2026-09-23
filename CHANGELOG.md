@@ -1,5 +1,10 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 23/09/2026 à 10:37
+* **PAYLOADS**
+  * `ps5debug-NG` (1.3.2) - *Mise à jour (Précédent: 1.3.0)*
+  * `ps5upload` (v5.33.2) - *Mise à jour (Précédent: v5.33.1)*
+
 ## Build du 22/09/2026 à 20:47
 * **PAYLOADS**
   * `MemDBG` (nightly-20260922-g6e493c9) - *Mise à jour (Précédent: nightly-20260904-g29a46df)*

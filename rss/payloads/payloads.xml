@@ -48,9 +48,9 @@
     </item>
     <item>
       <title>ps5debug-NG</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5debug-NG/1.3.0/ps5debug-NG_v1.3.0.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5debug-NG/1.3.2/ps5debug-NG_v1.3.2.elf</link>
       <description>Next generation debugger payload for PS5.</description>
-      <pubDate>1.3.0</pubDate>
+      <pubDate>1.3.2</pubDate>
     </item>
     <item>
       <title>ps5-self-pager</title>
@@ -462,9 +462,9 @@
     </item>
     <item>
       <title>ps5upload</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.33.1/ps5upload_v5.33.1.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.33.2/ps5upload_v5.33.2.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v5.33.1</pubDate>
+      <pubDate>v5.33.2</pubDate>
     </item>
     <item>
       <title>airpsx</title>
