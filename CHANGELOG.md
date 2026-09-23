@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 23/09/2026 à 20:59
+* **PAYLOADS**
+  * `pkg-manager` (v1.2.4) - *Mise à jour (Précédent: v1.2.3)*
+
 ## Build du 23/09/2026 à 15:57
 * **PAYLOADS**
   * `ELF_Arsenal` (v1.6.23) - *Mise à jour (Précédent: v1.6.22)*

@@ -9,7 +9,7 @@
       "description": "Un serveur DNS ultra-léger et rapide idéal pour rediriger les requêtes de la console vers votre hôte local d'exploits.",
       "version": "0.4",
       "category": "PS5 Dns",
-      "checksum": "aa7e9d94e32ef866e40844146330028329f8a8a529244e2ecc319ff9d8b0f5f9"
+      "checksum": "fcfb7d47c3b295560ea1603dc015f7c4950353ef0faca16428bd425680ef1fc5"
     },
     {
       "name": "Chukei_DNS",
@@ -19,7 +19,7 @@
       "description": "Serveur DNS de redirection d'envergure conçu spécifiquement pour bloquer les mises à jour de Sony et rediriger le guide de l'utilisateur.",
       "version": "0.9.0",
       "category": "PS5 Dns",
-      "checksum": "0cf13e1ed87b57ffa4fdcfca5d9afe1572be29b4f632677cedf17657a972d750"
+      "checksum": "d69081b4a68adcab517c699d8535b17830af41de635d891de4c516b43015610f"
     }
   ]
 }

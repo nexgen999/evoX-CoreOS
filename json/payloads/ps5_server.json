@@ -9,7 +9,7 @@
       "description": "FTP server payload for PS5. Port: 21",
       "version": "v1.5.0",
       "category": "PS5 Server",
-      "checksum": "f430dc1fdeaea425c9e8248708b4b8f4d11b662d2a3f74ac7e85cf7d785d82c3"
+      "checksum": "9340aa91f8f1eeb619473d716e0b6ab7af1c6fbb3ad815648520872ad6c86ccf"
     },
     {
       "name": "zftpd",
@@ -19,7 +19,7 @@
       "description": "FTP server payload for PS5. Port: 21",
       "version": "v1.5.0",
       "category": "PS5 Server",
-      "checksum": "bc21772ceafde44d81fce968a04e585509da3c70f8e48d5a6980e28b5bad17fb"
+      "checksum": "6cf6a738112fc339619ebe772690fa611f60ecdb20164a0e3f49e137277bc42b"
     },
     {
       "name": "elfldr",
@@ -39,7 +39,7 @@
       "description": "FTP server background daemon. Port: 21",
       "version": "v0.21.1",
       "category": "PS5 Server",
-      "checksum": "0ccfe0097081be0514aabef34390a0f6776226e8b3eefbb047964584e0cfe3a9"
+      "checksum": "7d4b31c83eae4e056580482a3a074e1db25922efc74ac1e439473b45d71a5938"
     },
     {
       "name": "websrv",
@@ -59,7 +59,7 @@
       "description": "GDB Debugger server payload. Port: 1234",
       "version": "v0.9",
       "category": "PS5 Server",
-      "checksum": "fc91ea233cdbb47acd8087b93d557d9f8a663d0f47cb75908a05a024d07e7efb"
+      "checksum": "80952d75f423768b95385f0944e5a5c2f417dcc10c22c1bb6516a923ad8894e5"
     },
     {
       "name": "klogsrv",
