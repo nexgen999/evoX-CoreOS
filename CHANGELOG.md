@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 24/09/2026 à 10:59
+* **PAYLOADS**
+  * `ShadowMountPlus` (1.7beta2) - *Mise à jour (Précédent: Source-Fixe)*
+
 ## Build du 24/09/2026 à 02:44
 * **PAYLOADS**
   * `ps5-ezremote-server` (1.11) - *Mise à jour (Précédent: 1.10)*

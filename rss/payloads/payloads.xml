@@ -467,6 +467,12 @@
       <pubDate>v1.11</pubDate>
     </item>
     <item>
+      <title>ShadowMountPlus</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta2/ShadowMountPlus_v1.7beta2.elf</link>
+      <description>ShadowMountPlus payload for game mounting.</description>
+      <pubDate>1.7beta2</pubDate>
+    </item>
+    <item>
       <title>BackPork</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/BackPork/0.1/BackPork_v0.1.elf</link>
       <description>BackPork PS5 tool.</description>
