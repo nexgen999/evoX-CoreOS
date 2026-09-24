@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 24/09/2026 à 02:44
+* **PAYLOADS**
+  * `ps5-ezremote-server` (1.11) - *Mise à jour (Précédent: 1.10)*
+
 ## Build du 23/09/2026 à 20:59
 * **PAYLOADS**
   * `pkg-manager` (v1.2.4) - *Mise à jour (Précédent: v1.2.3)*

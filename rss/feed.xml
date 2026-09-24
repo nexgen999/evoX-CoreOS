@@ -180,9 +180,9 @@
     </item>
     <item>
       <title>[Payloads] ps5-ezremote-server</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.10/ps5-ezremote-server_v1.10.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.11/ps5-ezremote-server_v1.11.elf</link>
       <description>Easy remote server component. Port: 8080</description>
-      <pubDate>1.10</pubDate>
+      <pubDate>1.11</pubDate>
     </item>
     <item>
       <title>[Payloads] ps5upload</title>

@@ -120644,6 +120644,37 @@
       "downloadSource": "https://pkg.games/ps5/greyhill-incident/"
     },
     {
+      "titleId": "PPSA01631",
+      "title": "[exFAT] Marvels Avengers Definitive Edition",
+      "downloadLinks": [
+        {
+          "name": "USA to EUR Langs exFAT 01.055 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWjFYYzlvRVE1Z1NESDBpQUd4QzJMNFFXckc4cjZENzgrYUlMVEpBQXVhb2RUa0VoOTFQNE0walcxaURRaGN0aHcvVzNFalAyc0NmbXpVRDl2VkRabmxaenptMnQ5S2xKY2RNPSIsImkiOiI1RnVKTGIxVEN0NDFpVEJHIiwibiI6IkFraWEifQ=="
+        },
+        {
+          "name": "USA to EUR Langs exFAT 01.055 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiOVQ4dXNQNzIxeFoxbUUwRUNXOGdjNTZxUE5jQkVkK1h2ckZxNUhCbDdpNThVYlZBdjRMTDJkems2dTRWbjdXUGgveFl6bUdRWTJzOVpocFh4UmUyb2ljL0JYTUkwUms9IiwiaSI6IlFUWWg1WUx4blU3NWF5MzYiLCJuIjoiVmlraSJ9"
+        },
+        {
+          "name": "USA to EUR Langs exFAT 01.055 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicHE4WGQ2UmttQUh0ZkUzZUprbkFLY3RhUTBLSU1BSmFKMS9jM3hrS0d6dzJnUXNxbnhuM0xXUUxsNm00aG1RaGRnMmhFdzF6SEVBbzRDcXpiTlJFWnpLRWkrTEsiLCJpIjoic3hYdEErcFBlaHpoOVdzVCIsIm4iOiJEYXRhIn0="
+        },
+        {
+          "name": "USA to EUR Langs exFAT 01.055 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicHlPblJscitqTElMQi96d2g3aXZmcythUk0xamUzajFVUHRqSXdCN2ZLU1Bobm1PaFVNM3p1NHR5eFFXRGdOcHdoTS9TR3VaLzRkdE9FM1FHbHdGc1FjS3FHQjZzZ289IiwiaSI6IktZWGQvL0ZFdkxHZ1pqSnUiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA to EUR Langs exFAT 01.055 Base - Vault (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoib3pCdzdGcG02bTNqQVV4Q2FnZGlKSjByLzUvenMzMFVKWjN6ZkxEbUdWV2ErUlJsM0R1VjdnTGw4TGFZdzJSbFZheEdkdXRCL2x0MFVsd1M5aDlZZ0xxZVo3TU9DQT09IiwiaSI6Ijd4Tk5lMkVDSEdzNzNSWlIiLCJuIjoiVmF1bHQifQ=="
+        }
+      ],
+      "version": "01.055",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Marvels_Avengers_Definitive_Edition.avif",
+      "description": "Region: USA to EUR Langs\nRelease note: exFAT format — FW 01.055 — 2.xx and beyond\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
+    },
+    {
       "titleId": "PPSA31246",
       "title": "[exFAT] Resident Evil Requiem Deluxe Edition",
       "downloadLinks": [
@@ -123507,37 +123538,6 @@
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/BlazBlue_Entropy_Effect_X_DE.jpg",
       "description": "Region: USA\nRelease note: exFAT format — FW 02.013 — 4.xx BackPort\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
-    },
-    {
-      "titleId": "PPSA01631",
-      "title": "[exFAT] Marvels Avengers Definitive Edition",
-      "downloadLinks": [
-        {
-          "name": "USA to EUR Langs exFAT 01.055 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWjFYYzlvRVE1Z1NESDBpQUd4QzJMNFFXckc4cjZENzgrYUlMVEpBQXVhb2RUa0VoOTFQNE0walcxaURRaGN0aHcvVzNFalAyc0NmbXpVRDl2VkRabmxaenptMnQ5S2xKY2RNPSIsImkiOiI1RnVKTGIxVEN0NDFpVEJHIiwibiI6IkFraWEifQ=="
-        },
-        {
-          "name": "USA to EUR Langs exFAT 01.055 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiOVQ4dXNQNzIxeFoxbUUwRUNXOGdjNTZxUE5jQkVkK1h2ckZxNUhCbDdpNThVYlZBdjRMTDJkems2dTRWbjdXUGgveFl6bUdRWTJzOVpocFh4UmUyb2ljL0JYTUkwUms9IiwiaSI6IlFUWWg1WUx4blU3NWF5MzYiLCJuIjoiVmlraSJ9"
-        },
-        {
-          "name": "USA to EUR Langs exFAT 01.055 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicHE4WGQ2UmttQUh0ZkUzZUprbkFLY3RhUTBLSU1BSmFKMS9jM3hrS0d6dzJnUXNxbnhuM0xXUUxsNm00aG1RaGRnMmhFdzF6SEVBbzRDcXpiTlJFWnpLRWkrTEsiLCJpIjoic3hYdEErcFBlaHpoOVdzVCIsIm4iOiJEYXRhIn0="
-        },
-        {
-          "name": "USA to EUR Langs exFAT 01.055 Base - FileK (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicHlPblJscitqTElMQi96d2g3aXZmcythUk0xamUzajFVUHRqSXdCN2ZLU1Bobm1PaFVNM3p1NHR5eFFXRGdOcHdoTS9TR3VaLzRkdE9FM1FHbHdGc1FjS3FHQjZzZ289IiwiaSI6IktZWGQvL0ZFdkxHZ1pqSnUiLCJuIjoiRmlsZUsifQ=="
-        },
-        {
-          "name": "USA to EUR Langs exFAT 01.055 Base - Vault (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoib3pCdzdGcG02bTNqQVV4Q2FnZGlKSjByLzUvenMzMFVKWjN6ZkxEbUdWV2ErUlJsM0R1VjdnTGw4TGFZdzJSbFZheEdkdXRCL2x0MFVsd1M5aDlZZ0xxZVo3TU9DQT09IiwiaSI6Ijd4Tk5lMkVDSEdzNzNSWlIiLCJuIjoiVmF1bHQifQ=="
-        }
-      ],
-      "version": "01.055",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Marvels_Avengers_Definitive_Edition.avif",
-      "description": "Region: USA to EUR Langs\nRelease note: exFAT format — FW 01.055 — 2.xx and beyond\nContributor: pippo",
       "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
     },
     {

@@ -99,7 +99,7 @@
       "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "0560dfe943808bb378ca36641727ffea20a6fa84aa559e126b8ad9c091cb93ba"
+      "checksum": "f53102cecf5f963a7390af78fdebdf89a6c6bea780ff490efc612d6e9f5611fd"
     },
     {
       "name": "A53-kstuff-SMP",
@@ -109,7 +109,7 @@
       "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "6145a8bf8556d3ff0fac902a39b37af0cab0e7c94579dd4517d65e6dec19ba64"
+      "checksum": "7efdffc7afeefe778da7328f85d308284a80e89a9f6a2d29926f727fa2a17dad"
     },
     {
       "name": "kstuff",
@@ -119,7 +119,7 @@
       "description": "Experimental Kstuff DarkMor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "571b1e8abde3552bb9bf14f380bbedb097d85e53019c5c84520dce5b58aa5e90"
+      "checksum": "a9aa7dea2b32085aceaa400565598015a041594479ecb727a6abb047ef377276"
     },
     {
       "name": "ShadowMountPlus",
@@ -129,7 +129,7 @@
       "description": "ShadowMountPlus experimental for FPKG",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "6828c71c14addcad438959be1f77c9030817aebb946b8ed7d4547b72a163fe94"
+      "checksum": "b780db1713de6bce59809fd1341fea71c2eae0f2eec879bb45f0ccb85a422f0e"
     },
     {
       "name": "a53_ppr_install_fast",
@@ -139,7 +139,7 @@
       "description": "A53 Experimental for Kstuff-Darkmor",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "a30f7b98f440a81c86e59ef5c49a009bf9f4a61a4a35397c4f4fb918d85f0f49"
+      "checksum": "8459c6e286d1041813632443d89fe6cfa09014e269c0cf7c919a691146a0df30"
     },
     {
       "name": "kstuff-echostrech",
@@ -149,7 +149,7 @@
       "description": "Experimental Kstuff EchoStrech",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "b2217d4a07433a4598792f7062bac0467c95dbe663e8e570db142590cf0df589"
+      "checksum": "5d54bb4c8054bfb89564dd5e3b3a6619e8c700b60369c664b96c4ee072e089eb"
     },
     {
       "name": "a53_exploit-experimental",
@@ -159,7 +159,7 @@
       "description": "A53 Experimental for Kstuff-EchoStrech",
       "version": "Source-Fixe",
       "category": "PS5 Beta",
-      "checksum": "ff802fabbb3bf73c513deda1120db7695432302e9f068d9e8f6f53cf97349082"
+      "checksum": "80cb76a2c8cbac3b3c765b5135f880b89273ddd568c5a2a00b3127afca184101"
     },
     {
       "name": "webkit-autoloader-installer",
@@ -293,13 +293,13 @@
     },
     {
       "name": "ps5-ezremote-server",
-      "filename": "ps5-ezremote-server_v1.10.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.10/ps5-ezremote-server_v1.10.elf",
-      "local_path": "payloads/ps5_server/ps5-ezremote-server/1.10/ps5-ezremote-server_v1.10.elf",
+      "filename": "ps5-ezremote-server_v1.11.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.11/ps5-ezremote-server_v1.11.elf",
+      "local_path": "payloads/ps5_server/ps5-ezremote-server/1.11/ps5-ezremote-server_v1.11.elf",
       "description": "Easy remote server component. Port: 8080",
-      "version": "1.10",
+      "version": "1.11",
       "category": "PS5 Server",
-      "checksum": "fa69eb0b49894356b84ce996de863d53884e5506a8fbcc0d079759a23b8905f3"
+      "checksum": "0f36b7ea3c3380303e2c74ec8d31a2c53d822cc4f4fd05cb5931d6b4f8b33c03"
     },
     {
       "name": "ps5upload",
@@ -719,7 +719,7 @@
       "description": "Lightweight version of kstuff.",
       "version": "v1.11",
       "category": "PS5 Kstuff",
-      "checksum": "858880a8adbedaabfaced025384f4f6f908cfe44f1a049070ad8df911c22b972"
+      "checksum": "ab9a6cb4d3b1daf139d4d646e402b1cf569071acd64599c936d7a3a6164dc779"
     },
     {
       "name": "kstuff-lite_drakmor",
