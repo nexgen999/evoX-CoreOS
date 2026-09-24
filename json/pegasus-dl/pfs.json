@@ -3,6 +3,25 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA09016",
+      "title": "Fallout 4",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/6xVdJncIlS"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/gb54GTAudX"
+        }
+      ],
+      "version": "01.002",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA09016_e2e83a9e59ad82beb1a7b658aeca3c6fd129a35f8822218025e6b1544e480eb4/icon0.webp",
+      "description": "From Bethesda Game Studios, the award-winning creators of Starfield and The Elder Scrolls V: Skyrim, comes Fallout 4. A landmark in open-world RPG design and winner of over 200 ‘Best Of’ honors, including the DICE and BAFTA Game of the Year. You are the sole survivor of Vault 111, emerging into a world reduced to ash by nuclear war. Every moment is a battle for survival, every decision shapes the future. Rebuild, reshape, and reclaim the Wasteland—your way. Welcome home. Freedom and Liberty Do whatever you want in a massive open world filled with hundreds of locations, characters, and quests. Join factions, forge alliances or go it alone. The choices are yours, and every one of them matters. You’re S.P.E.C.I.A.L. Create your own unique character with the S.P.E.C.I.A.L. system. Choose from hundreds of Perks and develop your own playstyle, whether you’re a smooth-talking diplomat, stealthy sniper, or walking tank in Power Armor. Collect and Build Scavenge, craft, and customize like never before. Build thousands of items—armor, weapons, food, and more—and even construct and manage entire settlements across the Commonwealth. Immersive First- or Third-Person Combat Use the dynamic Vault-Tec Assisted Targeting System (V.A.T.S.) to slow down time in combat and target enemies with cinematic precision—or take the fight into your own hands with real-time gunplay. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4® game disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.\nRegion: USA\nNotes: To run the DLCs install the PKGs from the Fallout 4 DLCs rar\nUpdated: 2026-09-24T13:38:27.698Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages"
+    },
+    {
       "titleId": "PPSA02198",
       "title": "Star Wars Jedi Fallen Order",
       "downloadLinks": [
