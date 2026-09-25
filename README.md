@@ -80,13 +80,13 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| [A53-Kstuff-ShadowMountPlus-3in1](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf) | Source-Fixe | `cd067f60c16f...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
-| [A53-kstuff-SMP](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf) | Source-Fixe | `e6a9a51bbbef...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
-| [a53_exploit-experimental](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-E/Source-Fixe/a53_exploit-experimental.elf) | Source-Fixe | `5a2e289aca76...` | A53 Experimental for Kstuff-EchoStrech |
-| [a53_ppr_install_fast](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-D/Source-Fixe/a53_ppr_install_fast_v15.09.elf) | Source-Fixe | `4a2d1300c132...` | A53 Experimental for Kstuff-Darkmor |
-| [kstuff](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf) | Source-Fixe | `a8bce0dcae26...` | Experimental Kstuff DarkMor |
-| [kstuff-echostrech](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff_EchoStrech_Experimental/Source-Fixe/kstuff-echostrech_v1.11expermiental.elf) | Source-Fixe | `f3e7fa7f93b9...` | Experimental Kstuff EchoStrech |
-| [ShadowMountPlus](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/ShadowMountPlus/Source-Fixe/ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf) | Source-Fixe | `1c28084bd613...` | ShadowMountPlus experimental for FPKG |
+| [A53-Kstuff-ShadowMountPlus-3in1](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental/Source-Fixe/A53-Kstuff-ShadowMountPlus-3in1.elf) | Source-Fixe | `fd21948ff616...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
+| [A53-kstuff-SMP](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53-kstuff-SMP_SoNic-AIO_Experimental/Source-Fixe/A53-kstuff-SMP.elf) | Source-Fixe | `129c9a9809d3...` | Experimental AIO by SoNic credit to EchoStrech DarkMor |
+| [a53_exploit-experimental](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-E/Source-Fixe/a53_exploit-experimental.elf) | Source-Fixe | `9d6c6588d2d7...` | A53 Experimental for Kstuff-EchoStrech |
+| [a53_ppr_install_fast](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_Experimental_KS-D/Source-Fixe/a53_ppr_install_fast_v15.09.elf) | Source-Fixe | `51c0a48085a4...` | A53 Experimental for Kstuff-Darkmor |
+| [kstuff](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Darkmor_Experimental/Source-Fixe/kstuff_v1.12-dr-test8.elf) | Source-Fixe | `e318213f5e1b...` | Experimental Kstuff DarkMor |
+| [kstuff-echostrech](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/Kstuff_EchoStrech_Experimental/Source-Fixe/kstuff-echostrech_v1.11expermiental.elf) | Source-Fixe | `a1966ad19e05...` | Experimental Kstuff EchoStrech |
+| [ShadowMountPlus](https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/ShadowMountPlus/Source-Fixe/ShadowMountPlus_v1.7alpha13fix1-13-g072c17.elf) | Source-Fixe | `2341b37b5ae7...` | ShadowMountPlus experimental for FPKG |
 
 ### 📂 PS5 Cheat
 
@@ -247,7 +247,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | [gdbsrv](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/gdbsrv/v0.9/gdbsrv_v0.9.elf) | v0.9 | `80952d75f423...` | GDB Debugger server payload. Port: 1234 |
 | [klogsrv](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/klogsrv/v0.9/klogsrv_v0.9.elf) | v0.9 | `e828ec144231...` | Kernel log server daemon. Port: 3232 |
 | [ps5-ezremote-server](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.11/ps5-ezremote-server_v1.11.elf) | 1.11 | `0f36b7ea3c33...` | Easy remote server component. Port: 8080 |
-| [ps5upload](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.33.2/ps5upload_v5.33.2.elf) | v5.33.2 | `808b7acc5173...` | PS5 Upload server / tool. Port: 9025 |
+| [ps5upload](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.34.0/ps5upload_v5.34.0.elf) | v5.34.0 | `fbe6fb2c3068...` | PS5 Upload server / tool. Port: 9025 |
 | [websrv](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf) | v0.34 | `54730c867c6e...` | HTTP Web server payload. Port: 8080 |
 | [zftpd](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zftpd_v1.5.0.bin) | v1.5.0 | `9340aa91f8f1...` | FTP server payload for PS5. Port: 21 |
 | [zftpd](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.5.0/zftpd_v1.5.0.elf) | v1.5.0 | `6cf6a738112f...` | FTP server payload for PS5. Port: 21 |
@@ -327,7 +327,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | :--- | :--- | :--- | :--- |
 | [ProsperoLight (PPSA99002.ffpfsc)](https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.060/PPSA99002.ffpfsc) | 01.000.060 | `N/A` | PS5 Moonlight |
 | [ProsperoRadio (PPSA99001.ffpfsc)](https://github.com/blackbearreloaded/ProsperoRadio/releases/download/01.000.005/PPSA99001.ffpfsc) | 01.000.005 | `N/A` | PS5 Radio Player |
-| [ProsperoTV (PPSA99003.ffpfsc)](https://github.com/blackbearreloaded/ProsperoTV/releases/download/01.000.005/PPSA99003.ffpfsc) | 01.000.005 | `N/A` | PS5 IPTV |
+| [ProsperoTV (PPSA99003.ffpfsc)](https://github.com/blackbearreloaded/ProsperoTV/releases/download/01.000.015/PPSA99003.ffpfsc) | 01.000.015 | `N/A` | PS5 IPTV |
 
 ---
 

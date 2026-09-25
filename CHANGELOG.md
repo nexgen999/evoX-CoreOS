@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 25/09/2026 à 21:01
+* **PAYLOADS**
+  * `ShadowMountPlus` (Source-Fixe) - *Mise à jour (Précédent: 1.7beta2)*
+  * `ps5upload` (v5.34.0) - *Mise à jour (Précédent: v5.33.2)*
+* **FFPFSC**
+  * `ProsperoTV (PPSA99003.ffpfsc)` (01.000.015) - *Mise à jour (Précédent: 01.000.005)*
+
 ## Build du 25/09/2026 à 16:20
 * **PAYLOADS**
   * `ShadowMountPlus` (Source-Fixe) - *Mise à jour (Précédent: 1.7beta2)*

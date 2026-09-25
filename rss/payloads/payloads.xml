@@ -186,9 +186,9 @@
     </item>
     <item>
       <title>ps5upload</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.33.2/ps5upload_v5.33.2.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v5.34.0/ps5upload_v5.34.0.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v5.33.2</pubDate>
+      <pubDate>v5.34.0</pubDate>
     </item>
     <item>
       <title>airpsx</title>
