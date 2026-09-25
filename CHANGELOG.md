@@ -1,5 +1,10 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 25/09/2026 à 10:58
+* **PAYLOADS**
+  * `ShadowMountPlus` (Source-Fixe) - *Mise à jour (Précédent: 1.7beta2)*
+  * `pkg-manager` (v1.3.0) - *Mise à jour (Précédent: v1.2.4)*
+
 ## Build du 25/09/2026 à 03:00
 * **PAYLOADS**
   * `ShadowMountPlus` (Source-Fixe) - *Mise à jour (Précédent: 1.7beta2)*

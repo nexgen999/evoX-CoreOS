@@ -3,6 +3,121 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA16951",
+      "title": "Tales of Xillia Remastered",
+      "downloadLinks": [
+        {
+          "name": "HK Base - Akirabox part 1",
+          "url": "https://akirabox.com/Y2xm0o6qqGRO/file"
+        },
+        {
+          "name": "HK Base - Akirabox part 2",
+          "url": "https://akirabox.com/qPez44EBqzOY/file"
+        },
+        {
+          "name": "HK Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1YxsnY"
+        },
+        {
+          "name": "HK Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1Uw208"
+        },
+        {
+          "name": "HK Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/fTvpXsYgR2"
+        },
+        {
+          "name": "HK Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/h0p5Q4QaId"
+        },
+        {
+          "name": "HK Base - 1fichier part 1",
+          "url": "https://1fichier.com/?32y5f6ungy1ddbsbifju"
+        },
+        {
+          "name": "HK Base - 1fichier part 2",
+          "url": "https://1fichier.com/?886gonerl5cnz4lxkri5"
+        },
+        {
+          "name": "ASIA to EUR Langs exFAT 01.000.003 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoieEg4QkdoNk4xSkVqR2FTWVAvai95SW50S2t0cnlSRnNlRFREUXFjZ3pmMUUrdXB5U1c2dThXUjhucEJkUDBVZE1HSWQvRW8vY1UxZHVZMUM5RUcwTVRKTTdEcnJyTGhGV1lzPSIsImkiOiJtMERoeU1jSDFXQ2V3ekpGIiwibiI6IkFraWEifQ=="
+        },
+        {
+          "name": "ASIA to EUR Langs exFAT 01.000.003 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSmJUQko0djhML2srT0YwWXh2YURoZW9SSUVjTjFHR1hzMVZHL01rSTdkTkRDczExNyt6bDRKVURYUUlCdVk2VURpNVBLYWNNSzFtZFMrdENETnh1UzhHczc4OFBxb2c9IiwiaSI6Im1abC82NDlyRTFHUU00RUEiLCJuIjoiVmlraSJ9"
+        },
+        {
+          "name": "ASIA to EUR Langs exFAT 01.000.003 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoicGl0ekRxYUZ2WWJVcG9zencxdFMxOHJub1hkUFVEaXFZZDZtU2JCbnhVOTB4N0FtbjlmTHBvTENDWis4bFp6Rk8xWHZCMEhzTC92VzZkZzBtaVErY2xCZDB1eEMiLCJpIjoieWE5bXZHbFpCNlAxZjQxaCIsIm4iOiJEYXRhIn0="
+        },
+        {
+          "name": "ASIA to EUR Langs exFAT 01.000.003 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiY0EyNmp5UlB1UEtJdE1welNuSlNYYmoraVVWdi9jczJaVlFjaDBSNmtjMlNkWjVtMFpWbEh2aGJBaXlxN2F1ZlBxc0F1MmV5ZUFRT1FRMmdreDEvWlRLYkVCdTk4em89IiwiaSI6IkpGdWpvbGxBdzhhQ3ZKZzciLCJuIjoiRmlsZUsifQ=="
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/09/2-bfc-1.jpg",
+      "description": "Variant: HK\nRegion: HK\nRelease note: Dumped by 月凌风 & Backport by Deckerr97\n\nVariant: ASIA to EUR Langs exFAT 01.000.003\nRegion: ASIA to EUR Langs\nRelease note: exFAT format — FW 01.000.003 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/tales-of-xillia-remastered-ps5/"
+    },
+    {
+      "titleId": "PPSA22652",
+      "title": "No Sleep For Kaname Date From AI THE SOMNIUM FILES",
+      "downloadLinks": [
+        {
+          "name": "JPN Base - Akirabox",
+          "url": "https://akirabox.com/1RgzR9XBZ3bp/file"
+        },
+        {
+          "name": "JPN Base - Rootz",
+          "url": "https://www.rootz.so/d/IFnEm"
+        },
+        {
+          "name": "JPN Base - Vikingfile",
+          "url": "https://vikingfile.com/f/YOiLwBuOt3"
+        },
+        {
+          "name": "JPN Base - 1fichier",
+          "url": "https://1fichier.com/?6wm8mkmq2gk5fqwrktkb"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/09/1-vdr.jpg",
+      "description": "Region: JPN\nRelease note: Dumped by 月凌风 & 来栖晓 & Backport by Deckerr97",
+      "downloadSource": "https://dlpsgame.com/no-sleep-for-kaname-date-from-ai-the-somnium-files-ps5/"
+    },
+    {
+      "titleId": "PPSA24662",
+      "title": "No Sleep For Kaname Date From AI THE SOMNIUM FILES",
+      "downloadLinks": [
+        {
+          "name": "JPN exFAT 01.002 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoibE93SzN6Rm93b2puaGxFS1BIT3FuaVBzMG9OZWVLWVlhT3gwaG1hcXlNQmJoZmc5MnlLSXgvWlkvSGtQd2JCV09MU0RpREJyWFIyZFVVdzZSUzdWTGpiV3JIeGFVV0pGaHlFPSIsImkiOiJZZEpFUTZKbWRTUE0rR3JqIiwibiI6IkFraWEifQ=="
+        },
+        {
+          "name": "JPN exFAT 01.002 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiKytBK3JKbnlXSTRIODRRK2xpUmRZRG5DQy9vMG94SXRlemlMZUlWQ25nZHhCKzZiZWI0Q2YxcUFtZkswM3J4VllRUXNLdW1uMUZQV2xZUEpneDRGQ1I1aCtSbnZGMTQ9IiwiaSI6InpXbDJNYWovTGhlOHNKcGIiLCJuIjoiVmlraSJ9"
+        },
+        {
+          "name": "JPN exFAT 01.002 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVlV2bzdNdUZFM1piYlNsSU4yRDQyZCtsQXZiYXhENm5hem9JaEJvUUt0Z3h0TDIvTkdPaWxuVVQ4V09DN3pIbFNKSVIzcWRQTkw3a0V0WTYxZkxra2Joa1hEaGciLCJpIjoid21od0N0YW1FandXemR6YiIsIm4iOiJEYXRhIn0="
+        },
+        {
+          "name": "JPN exFAT 01.002 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZStIUWErU252VHJDN0JhMElwekN4VGVFMWFxYUpNMTVGZU85RTZPVFduNmxmandHNVJyV2ZiUVBVWk5NckdQS1RRdHNzVXNIQlhtRWJXWThadTFTOGgzSEUwWCtKZnM9IiwiaSI6InJrYzBaUnhtNnAzUW9WSEYiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "JPN exFAT 01.002 Base - Vault (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZWc0cjFicGthcCtKcGlyYjhBQ0V2SE5qeFJVdW56dmFSZmsvSG9Ec3RtdlcrNEZhdmhzS0Y0dmNZSDJ0TFA0SWZpN3NxNGQxSk8xc2pIbUc3VE1qSk1jRjI1Lzh6dz09IiwiaSI6IlhpZnB0WlIyczdmNC9YWTkiLCJuIjoiVmF1bHQifQ=="
+        }
+      ],
+      "version": "01.002",
+      "category": "game",
+      "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/09/1-vdr.jpg",
+      "description": "Region: JPN\nRelease note: exFAT format — FW 01.002 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/no-sleep-for-kaname-date-from-ai-the-somnium-files-ps5/"
+    },
+    {
       "titleId": "PPSA25217",
       "title": "Super Robot Wars Y",
       "downloadLinks": [

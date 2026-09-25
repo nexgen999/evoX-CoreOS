@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.09.25-0300)
+### 🚀 Synthèse de la mise à jour (v2026.09.25-1058)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -65,7 +65,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ProsperoPlayer_v1.0.elf`
   * `svtplay_v0.3.elf`
   * `PS-Play_v2.1.elf`
-  * `pkg-manager_v1.2.4.elf`
+  * `pkg-manager_v1.3.0.elf`
   * `etaHEN_v2.5B.bin`
   * `PS5_Unified_Autoloader_v0.1.4-955249d.elf`
   * `pldmgr_v0.5.1.elf`
