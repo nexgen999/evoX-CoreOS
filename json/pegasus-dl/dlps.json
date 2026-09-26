@@ -8339,13 +8339,13 @@
           "url": "https://gofile.io/d/H9nIlR"
         },
         {
-          "name": "USA 12.xx Base - 1fichier",
+          "name": "USA 12.xx Base - 1File",
           "url": "https://1fichier.com/?08tqqcimut7ygogim0oo"
         }
       ],
       "category": "game",
       "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/07/2-hgh-1.jpg",
-      "description": "Variant: USA 12.xx\nRegion: USA\nRelease note: Working 12.xx to 10.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: USA 12.xx\nRegion: USA\nRelease note: Working 12.xx to 10.xx\nContributor: @Physical Forever\nPassword: DLPSGAME.COM",
+      "description": "Region: USA\nRelease note: Working 12.xx to 10.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM",
       "downloadSource": "https://dlpsgame.com/pac-man-world-2-re-pac-ps5/"
     },
     {
@@ -120759,6 +120759,37 @@
       "downloadSource": "https://pkg.games/ps5/greyhill-incident/"
     },
     {
+      "titleId": "PPSA10665",
+      "title": "[exFAT] Final Fantasy XVI Complete Edition",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.003.004 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUEI1aHZnUTBQa21idkY3eElHT3hQMTVRMDdvMC9VN0tJTDc1MUtQUm9lbDBkUTgvWU0yNmpMb3AxLzFIaWhQdVhzY2xkSENTUjkwSzVFV2RoRndYb0xvME1SK0F3eWJFYkpZPSIsImkiOiI2NmhvUGRJTitOYUUwSFNQIiwibiI6IkFraWEifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.003.004 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTXVxWCtDZkVNeGYwWkczWU9UQWwwY3JJOWFhSzE4K2M1cjVnWjVHdDBoS3kzMnhZd0dOM0NMTGV4MGM2aXZYNndvY296ZS9xb2ZJa1c0UDB5UzB1T2ZoZzh5Q1psYmM9IiwiaSI6IjdIRVJTak9JeU1tS1FLRXoiLCJuIjoiVmlraSJ9"
+        },
+        {
+          "name": "EUR exFAT 01.003.004 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQVRBL3NLei91TmJ1K1EzU2hrSWpOU1NYdzFMQ2trVFZuenREZy9zSFIxeHBvSWorczgzS2NrR3A4Y3N3ZTU3aUVnZTg1dFV4bmdsYWtVSi9XVnFlR0J4Q2kyUDYiLCJpIjoiY0QzeER5QkpZV1JNYzNIdSIsIm4iOiJEYXRhIn0="
+        },
+        {
+          "name": "EUR exFAT 01.003.004 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMCthYkc0bHpuRTMrdUdkNytLcXhGVWZpZElOUFNUd3k4Zzd2MDJuTUx4aDRzaU5iTlNZSm4rR2VXM0kyOTZraGdCUS9NVnQyRWdlU0lEZVduRFBUT0dSOHRieHczcG89IiwiaSI6IkpkSWJNb3dwMVRxT05leWciLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "EUR exFAT 01.003.004 Base - Vault (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiaCtPZmQ4ZU5aQks3dmdSa1BjOG9vZ2J4TmdqU0piSVkrUmdxSVVmTVNJdzUrcEZkeWg3djZyQnFiVmpJVlpHQVRWZUZ4eUYrU2dLdE05bkdkWFl6dTZrWUtJanpmQT09IiwiaSI6InMzSzQxMFVUd0Q4YnVxaFkiLCJuIjoiVmF1bHQifQ=="
+        }
+      ],
+      "version": "01.003.004",
+      "category": "game",
+      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Final_Fantasy_XVI_CE.avif",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.003.004 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
+    },
+    {
       "titleId": "PPSA01631",
       "title": "[exFAT] Marvels Avengers Definitive Edition",
       "downloadLinks": [
@@ -121212,37 +121243,6 @@
       "category": "game",
       "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Fatal_Frame_Maiden_of_Black_Water_DE.avif",
       "description": "Region: USA\nRelease note: exFAT format — FW 01.000.004 — 3.xx and beyond\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
-    },
-    {
-      "titleId": "PPSA10665",
-      "title": "[exFAT] Final Fantasy XVI Complete Edition",
-      "downloadLinks": [
-        {
-          "name": "EUR exFAT 01.003.004 Base - AKIA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiUEI1aHZnUTBQa21idkY3eElHT3hQMTVRMDdvMC9VN0tJTDc1MUtQUm9lbDBkUTgvWU0yNmpMb3AxLzFIaWhQdVhzY2xkSENTUjkwSzVFV2RoRndYb0xvME1SK0F3eWJFYkpZPSIsImkiOiI2NmhvUGRJTitOYUUwSFNQIiwibiI6IkFraWEifQ=="
-        },
-        {
-          "name": "EUR exFAT 01.003.004 Base - VIKI (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTXVxWCtDZkVNeGYwWkczWU9UQWwwY3JJOWFhSzE4K2M1cjVnWjVHdDBoS3kzMnhZd0dOM0NMTGV4MGM2aXZYNndvY296ZS9xb2ZJa1c0UDB5UzB1T2ZoZzh5Q1psYmM9IiwiaSI6IjdIRVJTak9JeU1tS1FLRXoiLCJuIjoiVmlraSJ9"
-        },
-        {
-          "name": "EUR exFAT 01.003.004 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQVRBL3NLei91TmJ1K1EzU2hrSWpOU1NYdzFMQ2trVFZuenREZy9zSFIxeHBvSWorczgzS2NrR3A4Y3N3ZTU3aUVnZTg1dFV4bmdsYWtVSi9XVnFlR0J4Q2kyUDYiLCJpIjoiY0QzeER5QkpZV1JNYzNIdSIsIm4iOiJEYXRhIn0="
-        },
-        {
-          "name": "EUR exFAT 01.003.004 Base - FileK (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiMCthYkc0bHpuRTMrdUdkNytLcXhGVWZpZElOUFNUd3k4Zzd2MDJuTUx4aDRzaU5iTlNZSm4rR2VXM0kyOTZraGdCUS9NVnQyRWdlU0lEZVduRFBUT0dSOHRieHczcG89IiwiaSI6IkpkSWJNb3dwMVRxT05leWciLCJuIjoiRmlsZUsifQ=="
-        },
-        {
-          "name": "EUR exFAT 01.003.004 Base - Vault (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiaCtPZmQ4ZU5aQks3dmdSa1BjOG9vZ2J4TmdqU0piSVkrUmdxSVVmTVNJdzUrcEZkeWg3djZyQnFiVmpJVlpHQVRWZUZ4eUYrU2dLdE05bkdkWFl6dTZrWUtJanpmQT09IiwiaSI6InMzSzQxMFVUd0Q4YnVxaFkiLCJuIjoiVmF1bHQifQ=="
-        }
-      ],
-      "version": "01.003.004",
-      "category": "game",
-      "posterUrl": "https://pub-ce6b40c14d144a128552570bcf6bb628.r2.dev/exFAT/Final_Fantasy_XVI_CE.avif",
-      "description": "Region: EUR\nRelease note: exFAT format — FW 01.003.004 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json"
     },
     {

@@ -3,6 +3,22 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA05060",
+      "title": "RoboCop Rogue City",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/fP4prq86vL"
+        }
+      ],
+      "version": "01.006",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA05060_9f16e7be6ada6999f8c5d82fda92462ea52c3ac63cebff6085c89e79f67ee3d1/icon0.webp",
+      "description": "Become the legendary part man, part machine, all cop hero and bring justice to the dangerous, crime-ridden streets of Old Detroit. Uphold the law by any means necessary: With your powerful Auto-9 or one of the other 20 weapons available, eradicate criminals throughout this explosive first-person adventure. Your cyborg strength and cybernetic abilities can be upgraded as you progress, to make you an even more formidable law enforcement officer. It's up to you to decide how to fulfil your prime directives: Explore open areas and complete your objectives according to your own sense of justice. Finding evidence, interrogating suspects and maintaining public order are just some of your daily tasks as a police officer. But don't take decisions lightly: your choices can determine the fate of citizens and the result of your mission. An original story set in the world of RoboCop: The city of Old Detroit has been hit by a crime wave, with a new enemy threatening the peace and order. Your investigation leads you right into the heart of a shadowy conspiracy in an original story that takes place between RoboCop 2 and 3, with striking locations to explore and familiar faces to meet. Peter Weller, the original RoboCop actor, is even back on duty to voice the cybercop. Get ready to… PROTECT THE INNOCENT AND UPHOLD THE LAW\nRegion: USA\nUpdated: 2026-09-26T07:19:53.438Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 39728447488
+    },
+    {
       "titleId": "PPSA32802",
       "title": "Fatal Frame 2 Crimson Butterfly Remake Deluxe Edition",
       "downloadLinks": [
