@@ -3,6 +3,38 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA02530",
+      "title": "PRAGMATA Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/1w1uP8UN6J"
+        }
+      ],
+      "version": "1.200",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02530_510726de2d2770eb9a1b4bac6a7deef47d3feb29bcedf6d8ca250a34f2f8a42a/icon0.webp",
+      "description": "*The items in this set can be purchased individually. Please be careful not to purchase the same item twice. The Deluxe Edition is a bundle that includes the main game and the Shelter Variety Pack. Shelter Variety Pack Contents: ・Hugh Outfit - Heavy Lifter ・Hugh Outfit - Lunar Cat ・Diana Outfit - Mecha Builder ・Diana Outfit - Fluffy ・Weapon Skin - Grip Gun DS ・Shelter BGM - Memories Are You (Lo-fi Ver.) ・Shelter BGM - Dawn (EDM Ver.) ・Shelter BGM - Shelter (Jazz Ver.) ・Diana Gesture - Drowsy ・Diana Gesture - Pumped Up ・Diana Gesture - Stepping ・Data Library - Artwork \"Wherever you go, I'll be there.\" Pragmata is a unique, sci-fi action-adventure game from Capcom. Follow Hugh, a member of an ill-fated investigation team, and Diana, a young android, as they navigate a lunar facility taken over by rogue AI in search of a way to Earth. ONE TRAGIC ACCIDENT. AN UNLIKELY DUO. At a remote lunar research facility, humanity discovers a new ore—one that, when properly refined, can be used to create almost anything using 3D printers. When the facility suddenly falls silent, Hugh and his team are dispatched to investigate...but then disaster strikes. Hugh is saved by Diana, a lone android wandering the complex. The two of them must join forces to find a way off the moon while working their way through an AI-controlled facility bent on stopping them. Half-realized replicas of human civilization sprawl across the lunar surface, while inside, only scattered traces of the facility's vanished inhabitants remain. What buried truth awaits at the end of Hugh and Diana's journey? TAKE CONTROL OF TWO CHARACTERS—AT THE SAME TIME. Guide both Hugh as he moves, shoots, and jumps, and Diana, who hacks at the same time. Enjoy a fresh, new blend of gameplay in this truly unique system that will push your brain to its limits.\nRegion: USA\nNotes: Install DLC in Duplex Folder\nUpdated: 2026-09-26T12:43:11.877Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 54760833024
+    },
+    {
+      "titleId": "PPSA15493",
+      "title": "Atomfall",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/8Uz0Uy2BOO"
+        }
+      ],
+      "version": "01.023.000",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA15493_057c49d1d4c49362b441b535222a186310dba449b128ebd960072924a6024643/icon0.webp",
+      "description": "A survival-action game inspired by real-life events, Atomfall is set five years after the Windscale nuclear disaster in Northern England. Explore the fictional quarantine zone, scavenge, craft, barter, fight and talk your way through a British countryside setting filled with bizarre characters, mysticism, cults, and rogue government agencies. From Rebellion, the studio behind Sniper Elite and Zombie Army, Atomfall will challenge you to solve the dark mystery of what really happened. Player Driven Mystery: Unravel a tapestry of interwoven narratives through exploration, conversation, investigation, and combat, where every choice you make has consequences. Explore this Green and Unpleasant Land: The picturesque British countryside, with rolling green hills, lush valleys, and rural villages belie the dangers that await you. Search, Scavage, Survive: You’ll need to scavenge for supplies, craft weapons and items, and fight desperately to make it out alive! Desperate Combat: With weapons and ammunition scarce, each frenetic engagement will see you blend marksmanship with vicious hand-to-hand combat. Manage your heart rate to hold a steady aim and ensure you have the energy you need to reach for your cricket bat and land the killer blow. Green and Unpleasant Land: The picturesque British countryside, with rolling green hills, lush valleys, and rural villages belie the dangers that await you. Navigate cult-controlled ruins, natural caves, nuclear bunkers and more as you explore this dense, foreboding world. Reimagining Windscale: A fictional reimagining of a real-world event, Atomfall draws from science fiction, folk horror, and Cold War influences to create a world that is eerily familiar yet completely alien.\nRegion: USA\nUpdated: 2026-09-26T12:41:45.347Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 59055800320
+    },
+    {
       "titleId": "PPSA05060",
       "title": "RoboCop Rogue City",
       "downloadLinks": [
@@ -17,22 +49,6 @@
       "description": "Become the legendary part man, part machine, all cop hero and bring justice to the dangerous, crime-ridden streets of Old Detroit. Uphold the law by any means necessary: With your powerful Auto-9 or one of the other 20 weapons available, eradicate criminals throughout this explosive first-person adventure. Your cyborg strength and cybernetic abilities can be upgraded as you progress, to make you an even more formidable law enforcement officer. It's up to you to decide how to fulfil your prime directives: Explore open areas and complete your objectives according to your own sense of justice. Finding evidence, interrogating suspects and maintaining public order are just some of your daily tasks as a police officer. But don't take decisions lightly: your choices can determine the fate of citizens and the result of your mission. An original story set in the world of RoboCop: The city of Old Detroit has been hit by a crime wave, with a new enemy threatening the peace and order. Your investigation leads you right into the heart of a shadowy conspiracy in an original story that takes place between RoboCop 2 and 3, with striking locations to explore and familiar faces to meet. Peter Weller, the original RoboCop actor, is even back on duty to voice the cybercop. Get ready to… PROTECT THE INNOCENT AND UPHOLD THE LAW\nRegion: USA\nUpdated: 2026-09-26T07:19:53.438Z",
       "downloadSource": "https://pfs-library.vercel.app/api/packages",
       "sizeBytes": 39728447488
-    },
-    {
-      "titleId": "PPSA32802",
-      "title": "Fatal Frame 2 Crimson Butterfly Remake Deluxe Edition",
-      "downloadLinks": [
-        {
-          "name": "Viki",
-          "url": "https://vikingfile.com/f/1Sf8QVdDQF"
-        }
-      ],
-      "version": "01.002.002",
-      "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA32802_50cab41ced5df94ebf91c5a89b830257c85f4c2c96f3db0890a903031e8aad20/icon0.webp",
-      "description": "Together, always. FATAL FRAME II: Crimson Butterfly Beautifully Remade The graphics, sound, and controls have all been rebuilt from the ground up. Character textures, including skin and clothing, have been refined to the highest detail, and Minakami Village has been meticulously recreated with a focus on light and shadow, bringing its dark and ominous atmosphere to life with stunning realism. With 3D sound, you can feel the presence of spirits more vividly and closely. Immerse yourself in the chilling experience of exploring a haunted village. Side stories and new areas have been added, offering players a deeper and more immersive experience in the world of FATAL FRAME II: Crimson Butterfly. FATAL FRAME II: Crimson Butterfly REMAKE Digital Deluxe Edition Contents FATAL FRAME II: Crimson Butterfly REMAKE Full Game Digital Art Book Digital Soundtrack - These contents cannot be downloaded as separate files (PDF, MP3, etc.). - Some of the materials featured in the content are closely tied to important story elements. Please keep that in mind before viewing the content. Digital Deluxe Edition Bonuses - Accessories Lace Gloves (White) Lace Gloves (Black) - Costumes Japanese Gothic Dress (Left Wing) Japanese Gothic Dress (Right Wing) - Other Deluxe Charm Notes: - The effects assigned to Digital Deluxe charms may also be obtainable through normal gameplay progression. The standard edition of FATAL FRAME II: Crimson Butterfly REMAKE is also available. Please be careful to avoid duplicate purchases. This item includes the same content as the FATAL FRAME II: Crimson Butterfly REMAKE Digital Deluxe Upgrade. Please be careful to avoid making a redundant purchase. For more information, visit the official website: https://www.koeitecmoamerica.com/fatalframe/crimson-re/us/ FATAL FRAME II: Crimson Butterfly REMAKE Supported Languages: Japanese, English, French, Italian, German, Spanish, Korean, Arabic Digital Artbook and Digital Soundtrack Supported Languages: Japanese, English, French, Italian, German, Spanish, Traditional Chinese, Simplified Chinese, Korean, Arabic\nRegion: JPN\nUpdated: 2026-09-25T23:45:07.851Z",
-      "downloadSource": "https://pfs-library.vercel.app/api/packages",
-      "sizeBytes": 15612206121
     },
     {
       "titleId": "PPSA01687",

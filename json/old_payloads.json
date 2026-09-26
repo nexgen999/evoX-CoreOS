@@ -99,7 +99,7 @@
             "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "8212ceec4d32aa42d0b8de8395ab1741c807c58591628a28860354016c407a57"
+            "checksum": "2962fd67a617c42ad4cf73e3c3af9ec04d5c7442cd49deb6ae6f7ece3e5b0d83"
         },
         {
             "name": "A53-kstuff-SMP",
@@ -109,7 +109,7 @@
             "description": "Experimental AIO by SoNic credit to EchoStrech DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "553a3dd526ecd03e5503158ed3abd152d162af090f60281928de10721a7d472f"
+            "checksum": "d2f982b7696e7c3bb651a350a391375ea11f1b190ec822236ee640698f6cddd8"
         },
         {
             "name": "kstuff",
@@ -119,7 +119,7 @@
             "description": "Experimental Kstuff DarkMor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "6b4d3340e1d157e78718251dbb8da356e1e3c0c6725164056d4d673dff0da852"
+            "checksum": "b50ab888b172e10030944213efdd26f6844671ee71073a8c1da6bb813eff170e"
         },
         {
             "name": "ShadowMountPlus",
@@ -129,7 +129,7 @@
             "description": "ShadowMountPlus experimental for FPKG",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "ce0cecb00bc14efda8d9abf7f0f1d33e4f0e02dba37b97cc398c9090735b6ef1"
+            "checksum": "bc4834a99bfa0f31e9cbcf40844659f297a0f5a081aec7ee97f01d4f371f4913"
         },
         {
             "name": "a53_ppr_install_fast",
@@ -139,7 +139,7 @@
             "description": "A53 Experimental for Kstuff-Darkmor",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "9437248ba3b69e7e0c94d60c23833755bab9f762fe06a2016a86e0508dc06b2d"
+            "checksum": "3e2b0a8e7d4c8caace262097748d65929517fc8cc0f8a80aa744707afa5ee879"
         },
         {
             "name": "kstuff-echostrech",
@@ -149,7 +149,7 @@
             "description": "Experimental Kstuff EchoStrech",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "996bbc9d0a34b2aa84a4b72eda4b25266b996a2cffba3841d6e075ef771691f8"
+            "checksum": "d526a116333a305f87446ef3862a4a3e0ef1b332f731c247d2d2f9fa605fff86"
         },
         {
             "name": "a53_exploit-experimental",
@@ -159,7 +159,7 @@
             "description": "A53 Experimental for Kstuff-EchoStrech",
             "version": "Source-Fixe",
             "category": "PS5 Beta",
-            "checksum": "48589cdb002842bfc706e8e1cd9b74e8257ed6d81387de3ebce8c2f63dcf7d5e"
+            "checksum": "e65c85f66a02222947e1daf7f0df35b4a1da98027eaa1e8b94c4a0427c26d4e2"
         },
         {
             "name": "webkit-autoloader-installer",
@@ -483,13 +483,13 @@
         },
         {
             "name": "pkg-manager",
-            "filename": "pkg-manager_v1.3.0.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.3.0/pkg-manager_v1.3.0.elf",
-            "local_path": "payloads/ps5_pkg_tool/ps5-pkg-manager/v1.3.0/pkg-manager_v1.3.0.elf",
+            "filename": "pkg-manager_v1.4.0.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.4.0/pkg-manager_v1.4.0.elf",
+            "local_path": "payloads/ps5_pkg_tool/ps5-pkg-manager/v1.4.0/pkg-manager_v1.4.0.elf",
             "description": "A clean and intuitive package manager for PlayStation 5",
-            "version": "v1.3.0",
+            "version": "v1.4.0",
             "category": "PS5 Pkg Tool",
-            "checksum": "3566678158f73f1ebdf80a7cccec263a554c6fbad1563a0054c5e8fcc0f4eb47"
+            "checksum": "3950d1a5ba4429bf1872bf6898859ba70910d95af439225c548cac092582493f"
         },
         {
             "name": "etaHEN",

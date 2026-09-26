@@ -294,9 +294,9 @@
     </item>
     <item>
       <title>[Payloads] pkg-manager</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.3.0/pkg-manager_v1.3.0.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.4.0/pkg-manager_v1.4.0.elf</link>
       <description>A clean and intuitive package manager for PlayStation 5</description>
-      <pubDate>v1.3.0</pubDate>
+      <pubDate>v1.4.0</pubDate>
     </item>
     <item>
       <title>[Payloads] etaHEN</title>
