@@ -3,6 +3,58 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA32802",
+      "title": "Fatal Frame 2 Crimson Butterfly Remake Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/1Sf8QVdDQF"
+        }
+      ],
+      "version": "01.002.002",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA32802_50cab41ced5df94ebf91c5a89b830257c85f4c2c96f3db0890a903031e8aad20/icon0.webp",
+      "description": "Together, always. FATAL FRAME II: Crimson Butterfly Beautifully Remade The graphics, sound, and controls have all been rebuilt from the ground up. Character textures, including skin and clothing, have been refined to the highest detail, and Minakami Village has been meticulously recreated with a focus on light and shadow, bringing its dark and ominous atmosphere to life with stunning realism. With 3D sound, you can feel the presence of spirits more vividly and closely. Immerse yourself in the chilling experience of exploring a haunted village. Side stories and new areas have been added, offering players a deeper and more immersive experience in the world of FATAL FRAME II: Crimson Butterfly. FATAL FRAME II: Crimson Butterfly REMAKE Digital Deluxe Edition Contents FATAL FRAME II: Crimson Butterfly REMAKE Full Game Digital Art Book Digital Soundtrack - These contents cannot be downloaded as separate files (PDF, MP3, etc.). - Some of the materials featured in the content are closely tied to important story elements. Please keep that in mind before viewing the content. Digital Deluxe Edition Bonuses - Accessories Lace Gloves (White) Lace Gloves (Black) - Costumes Japanese Gothic Dress (Left Wing) Japanese Gothic Dress (Right Wing) - Other Deluxe Charm Notes: - The effects assigned to Digital Deluxe charms may also be obtainable through normal gameplay progression. The standard edition of FATAL FRAME II: Crimson Butterfly REMAKE is also available. Please be careful to avoid duplicate purchases. This item includes the same content as the FATAL FRAME II: Crimson Butterfly REMAKE Digital Deluxe Upgrade. Please be careful to avoid making a redundant purchase. For more information, visit the official website: https://www.koeitecmoamerica.com/fatalframe/crimson-re/us/ FATAL FRAME II: Crimson Butterfly REMAKE Supported Languages: Japanese, English, French, Italian, German, Spanish, Korean, Arabic Digital Artbook and Digital Soundtrack Supported Languages: Japanese, English, French, Italian, German, Spanish, Traditional Chinese, Simplified Chinese, Korean, Arabic\nRegion: JPN\nUpdated: 2026-09-25T23:45:07.851Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 15612206121
+    },
+    {
+      "titleId": "PPSA01687",
+      "title": "Call of Duty Vanguard",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/aROArA1RkU"
+        }
+      ],
+      "version": "01.027",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01687_fcf623c2bb42060a68ecf1ca74b51341c30acd7cc5c8df2c45037f38742336eb/icon0.webp",
+      "description": "Buy this digital PS5™ version of Call of Duty®: Vanguard from the PlayStation™Store and download the PS4™ version at no extra cost. Cross-Gen Bundle includes: - Call of Duty®: Vanguard -- Includes PS4™ and PS5™ versions of the game - 5 hours of weapons 2XP - Digital Exclusive - Frontline Weapons Pack Rise on every front: Dogfight over the Pacific, airdrop over France, defend Stalingrad with a sniper’s precision and blast through advancing forces in North Africa. The Call of Duty® franchise returns with Call of Duty®: Vanguard, developed by Sledgehammer Games, where players will be immersed in visceral WWII combat on an unprecedented global scale. Call of Duty®: Vanguard includes a deeply engaging single player Campaign, a massive Multiplayer offering featuring over 20 maps including 16 built for core Multiplayer and an exciting new Zombies experience developed by Treyarch. Call of Duty®: Vanguard features cross-progression and cross-generation play, in addition to Multiplayer maps, modes and more.\nRegion: USA\nUpdated: 2026-09-25T23:29:20.185Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 77309411328
+    },
+    {
+      "titleId": "PPSA23012",
+      "title": "Call of Duty Modern Warfare 2",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/vFSDVT92nA"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/UmzVpKE3A1"
+        }
+      ],
+      "version": "01.001",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA23012_18c8f00a26c22a9f57c09a2c87e7c1bf38dd0fb2a814333af331d8abfcbfe581/icon0.webp",
+      "description": "Includes: - Cross Gen Bundle of Call of Duty®: Modern Warfare® II -- Includes PS4™ and PS5™ versions of the game Call of Duty®: Modern Warfare® II drops players into an unprecedented global conflict that features the return of the iconic Operators of Task Force 141. From small-scale, high-stakes infiltration tactical ops to highly classified missions, players will deploy alongside friends in a truly immersive experience. Modern Warfare® II includes a globe-trotting single-player campaign, immersive Multiplayer combat, and a narrative-driven, co-op Special Ops experience.\nRegion: USA\nUpdated: 2026-09-25T23:26:41.803Z",
+      "downloadSource": "https://pfs-library.vercel.app/api/packages",
+      "sizeBytes": 111669149696
+    },
+    {
       "titleId": "PPSA05813",
       "title": "The Quarry",
       "downloadLinks": [
