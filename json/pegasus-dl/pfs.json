@@ -3,6 +3,38 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA21703",
+      "title": "Vampire Survivors",
+      "downloadLinks": [
+        {
+          "name": "Download",
+          "url": "https://gofile.io/d/mStPLRSp"
+        }
+      ],
+      "version": "01.016.107",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA21703_6a4e3bcbc28c0291971e11fb2a738c7bd7ebe5279e0a0f64c6dee0e6d00cfc9b/icon0.webp",
+      "description": "Vampire Survivors is a fast-paced roguelite survival game where you battle enormous waves of enemies and try to survive for as long as possible. Your character attacks automatically, allowing you to focus on movement, positioning, collecting experience, and choosing powerful upgrades. As you level up, you can unlock new weapons, evolve existing abilities, discover characters, and build increasingly powerful combinations. Each run becomes more chaotic as the enemy hordes grow, with powerful bosses and special challenges appearing along the way.\nRegion: EUR\nFirmware: 9.xx+, 10.xx+, 11.xx+, 12.xx+, 13.xx+\nUpdated: 2026-10-07T20:52:06.448Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 1073741824
+    },
+    {
+      "titleId": "PPSA28824",
+      "title": "Valheim",
+      "downloadLinks": [
+        {
+          "name": "Download",
+          "url": "https://gofile.io/d/RQqVhbvS"
+        }
+      ],
+      "version": "1.000.015",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1907/8ab5523289d5a56fd58daf51637fab4eb130e2d32a38dab1.png?w=260",
+      "description": "Valheim is a survival and exploration game set in a mysterious world inspired by Norse mythology. You play as a Viking warrior sent to a vast purgatory, where you must survive harsh environments, gather resources, build settlements, craft powerful equipment, and defeat legendary creatures. Explore dense forests, mountains, swamps, plains, oceans, and other dangerous regions, each containing unique resources, enemies, and challenges. Build anything from a small shelter to an enormous Viking fortress, then construct boats to explore the surrounding seas. Combat features a variety of weapons, shields, bows, and magical abilities, with powerful bosses guarding each major region. You can play alone or cooperate with other players, working together to gather resources, build bases, explore the world, and take on Valheim's most dangerous enemies.\nRegion: EUR\nFirmware: 13.xx+\nUpdated: 2026-10-07T20:02:51.257Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 6249177416
+    },
+    {
       "titleId": "PPSA03671",
       "title": "Wolverine",
       "downloadLinks": [
@@ -13,10 +45,10 @@
       ],
       "version": "01.00.005",
       "category": "game",
-      "description": "Region: USA\nFirmware: 4.xx+\nUpdated: 2026-10-07T00:26:49.895Z",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03671_a27ab989e8e759c2df77cf29aa935fe18369ce087726a4a8e0086d8542080fca/icon0.webp",
+      "description": "Marvel’s Wolverine is a third-person action-adventure game set in the Marvel Universe, focused on Logan, better known as Wolverine. The game follows Wolverine as he confronts dangerous enemies while dealing with his violent past and powerful regenerative abilities. Players can use Wolverine’s iconic adamantium claws in fast-paced melee combat, combining brutal attacks, dodges, counters, and special abilities. His enhanced senses allow him to track enemies and investigate his surroundings, while his healing factor lets him recover from injuries during combat. The game is designed specifically for PlayStation 5, featuring detailed environments, cinematic presentation, fast loading, and immersive DualSense controller features. It offers a darker and more mature take on Wolverine, with an emphasis on intense combat, exploration, and storytelling.\nRegion: USA\nFirmware: 4.xx+\nUpdated: 2026-10-07T00:26:49.895Z",
       "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
-      "sizeBytes": 148176371712,
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03671_a27ab989e8e759c2df77cf29aa935fe18369ce087726a4a8e0086d8542080fca/icon0.webp"
+      "sizeBytes": 148176371712
     },
     {
       "titleId": "PPSA29035",
@@ -29,10 +61,10 @@
       ],
       "version": "2.10",
       "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA29035_541a8ff55b8a67542a4f74d267e401615503110adb2b1a9f599fc74c4c8190c5/icon0.webp",
       "description": "Genre: First-person boomer shooter / horror FPS Setting: Dark Lovecraftian world inspired by the works of H. P. Lovecraft Gameplay: Fast-paced first-person combat against grotesque monsters and supernatural enemies Weapons: Large selection of firearms and other powerful weapons Combat: Aggressive run-and-gun gameplay with dodging, movement, weapon switching, and resource management Enemies: Various horrifying creatures with different attacks, abilities, and behaviours Progression: Upgrade weapons and character abilities as you progress Sanity System: Madness plays an important role in gameplay and can affect the player's abilities Visual Style: Comic-book-inspired graphics combined with dark horror environments Levels: Explore corrupted locations filled with secrets, enemies, puzzles, and collectibles Atmosphere: Heavy Lovecraftian horror, disturbing environments, blood, monsters, and psychological themes Focus: Fast combat, exploration, weapon upgrades, supernatural horror, and surviving increasingly dangerous encounters\nRegion: EUR\nFirmware: 10.xx+, 11.xx+, 12.xx+, 13.xx+\nUpdated: 2026-10-04T21:53:30.227Z",
       "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
-      "sizeBytes": 8912057139,
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA29035_541a8ff55b8a67542a4f74d267e401615503110adb2b1a9f599fc74c4c8190c5/icon0.webp"
+      "sizeBytes": 8912057139
     },
     {
       "titleId": "PPSA15595",

@@ -162,13 +162,13 @@
       "category": "Applications"
     },
     {
-      "name": "Xashps5-V1.0-Ppsa99999",
-      "filename": "XashPS5-v1.0-PPSA99999.zip",
-      "url": "https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.0/XashPS5-v1.0-PPSA99999.zip",
-      "local_path": "apps/xash3d-ps5/v1.0/XashPS5-v1.0-PPSA99999.zip",
+      "name": "Ppsa19111",
+      "filename": "PPSA19111.zip",
+      "url": "https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.2/PPSA19111.zip",
+      "local_path": "apps/xash3d-ps5/v1.2/PPSA19111.zip",
       "description": "Half-Life (Xash3D FWGS) native homebrew port for PS5",
-      "version": "v1.0",
-      "checksum": "c054d3207676c695a94994d507e9c9a500fd657696cd1ada83b86d34fbfbdc32",
+      "version": "v1.2",
+      "checksum": "2d7ad259a86ece821978ebe69a0955b43a8c225066a58d3392f14d26efc893c6",
       "category": "Applications"
     },
     {

@@ -3,6 +3,148 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA36257",
+      "title": "Luna Abyss",
+      "downloadLinks": [
+        {
+          "name": "JPN 11.xx Base - Akirabox",
+          "url": "https://akirabox.com/0PdzyX42k3eA/file"
+        },
+        {
+          "name": "JPN 11.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/2J98LY"
+        },
+        {
+          "name": "JPN 11.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/fbHxxQeQn6"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA36257_3bce2db8d3a63f0659740c6356ad9961388d75b4f545f2c17271145a60d79d1e/icon0.webp",
+      "description": "Region: JPN\nRelease note: Works on 11.xx and higher\nContributor: @DUPLEX\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/luna-abyss-ps5/"
+    },
+    {
+      "titleId": "PPSA30839",
+      "title": "MXGP 26 The Official Game",
+      "downloadLinks": [
+        {
+          "name": "EUR 12.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/Y2xm0o2MpGRO/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/E9Qz9X2Eb3OL/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/2EbPo8"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/11vB2m"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/n2EcD5ikxe"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/c6t8Bc7TkQ"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA30839_1ce21006c2550f809171073e9a77d70c67c7c205ca5fac2160c1c3e516b71358/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 12.xx and higher\nContributor: @DUPLEX\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/mxgp-26-the-official-game-ps5/"
+    },
+    {
+      "titleId": "PPSA20946",
+      "title": "The Relic First Guardian",
+      "downloadLinks": [
+        {
+          "name": "EUR 11.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/RMKGJKPAVm1o/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/b5OzdVDOlmB8/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/Z9dzBPrpEmk1/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/obj3j7xgrzDx/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1oHPLE"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1kFYTg"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/jesIy"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/fd1RQ"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA20946_2a56123277e9da1d8bed3e68670843117fa8c62bec6b34149711d72bfa7b3f35/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 11.xx and higher\nContributor: @DUPLEX\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/the-relic-first-guardian-ps5/"
+    },
+    {
+      "titleId": "PPSA26223",
+      "title": "The Mound Omen of Cthulhu",
+      "downloadLinks": [
+        {
+          "name": "EUR 12.xx Base - Akirabox",
+          "url": "https://akirabox.com/ex5z25WKB3Kq/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/LTlBo"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/JRp0dz8UgC"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/0713/534efd914eb9f889e13e6090781eb26bf6ad76f208aca86b.png?w=260",
+      "description": "Region: EUR\nRelease note: Works on 12.xx and higher\nContributor: @DUPLEX\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/the-mound-omen-of-cthulhu-ps5/"
+    },
+    {
+      "titleId": "PPSA09258",
+      "title": "Welcome to ParadiZe",
+      "downloadLinks": [
+        {
+          "name": "USA 7.xx Base - Akirabox",
+          "url": "https://akirabox.com/Pbe3PaKWWzlX/file"
+        },
+        {
+          "name": "USA 7.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/TnOkq"
+        },
+        {
+          "name": "USA 7.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/TCN5uCwzKD"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA09258_37fd7cc0536485cdbfaf07882a2730f45bf40aca24e76d4b7b81db7f8569b288/icon0.webp",
+      "description": "Region: USA\nRelease note: Works on 7.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/welcome-to-paradize-ps5/"
+    },
+    {
       "titleId": "PPSA09030",
       "title": "Phasmophobia",
       "downloadLinks": [
@@ -105,6 +247,620 @@
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA25972_172a540a1a6fbf747c262d6aa3bd480d13d70fe4439068a9705771b85c4ce73b/icon0.webp",
       "description": "Region: EUR\nRelease note: Working 13.xx to 10.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM",
       "downloadSource": "https://dlpsgame.com/carx-street-ps5/"
+    },
+    {
+      "titleId": "PPSA01649",
+      "title": "Call of Duty Modern Warfare 3",
+      "downloadLinks": [
+        {
+          "name": "USA 12.xx Base - Gofile",
+          "url": "https://gofile.io/d/DdU09h"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/CjX0a"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1PPllw"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/8hgDA"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/1TRcdU"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/rk9zKWYrXz0l/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/l76mZr6Rpman/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/dkD3YwlVOGLQ/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/2bJG8bKpq3OB/file"
+        },
+        {
+          "name": "USA 12.xx Base - 1fichier part 1",
+          "url": "https://1fichier.com/?e8txn9zm4l6yaaiu2ntl"
+        },
+        {
+          "name": "USA 12.xx Base - 1fichier part 2",
+          "url": "https://1fichier.com/?n3n6rsd9nbufb3dotjvz"
+        },
+        {
+          "name": "USA 12.xx Base - 1fichier part 3",
+          "url": "https://1fichier.com/?6n7jtppc7nf4b1n6duqz"
+        },
+        {
+          "name": "USA 12.xx Base - 1fichier part 4",
+          "url": "https://1fichier.com/?pyikld5j1fcvneupq947"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 5",
+          "url": "https://rootz.so/d/1LNuuO"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 5",
+          "url": "https://akirabox.com/LK0G1bqeem91/file"
+        },
+        {
+          "name": "USA 12.xx Base - 1fichier part 5",
+          "url": "https://1fichier.com/?knkgreuzk22e7b6ryqsw"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 6",
+          "url": "https://akirabox.com/0PdzyX4x63eA/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 7",
+          "url": "https://akirabox.com/9AqGQZArnmMn/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 8",
+          "url": "https://akirabox.com/0JgG752983oY/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 9",
+          "url": "https://akirabox.com/QN9mEqlL4m6d/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 10",
+          "url": "https://akirabox.com/0rpmvpKwAzRg/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 11",
+          "url": "https://akirabox.com/M2BGwPAZkmj4/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 12",
+          "url": "https://akirabox.com/2WVGrdkPq3kx/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 13",
+          "url": "https://akirabox.com/rk9zKWbLQz0l/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 14",
+          "url": "https://akirabox.com/qPez442j9zOY/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 15",
+          "url": "https://akirabox.com/E1x3AWwLvGyk/file"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/I3rjSHbdCi"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/660ewIYBPG"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/UeBzD7lfBB"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/6oxhKmrqD1"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/fzluQvDYk5"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/gx3skG31OB"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 7",
+          "url": "https://vikingfile.com/f/gUyMXV4GkN"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 8",
+          "url": "https://vikingfile.com/f/72WMIP5ZZQ"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 9",
+          "url": "https://vikingfile.com/f/PfHq6AmrJQ"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 10",
+          "url": "https://vikingfile.com/f/HQyKkY79j2"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 6",
+          "url": "https://www.rootz.so/d/1xy8g4"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 7",
+          "url": "https://www.rootz.so/d/dECFk"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 8",
+          "url": "https://www.rootz.so/d/1twHoW"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 9",
+          "url": "https://www.rootz.so/d/185vG4"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 10",
+          "url": "https://www.rootz.so/d/1444Se"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 11",
+          "url": "https://www.rootz.so/d/22VrDU"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 12",
+          "url": "https://www.rootz.so/d/1oXLBA"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 13",
+          "url": "https://www.rootz.so/d/1kVUJc"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 14",
+          "url": "https://www.rootz.so/d/br6Tw"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 15",
+          "url": "https://www.rootz.so/d/juo8u"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/p03EINkCHP"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/KAXtp7Z3N9"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/wTBZ2fp7Nu"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/J3wu82nUMm"
+        },
+        {
+          "name": "USA 12.xx All DLC - Gofile",
+          "url": "https://gofile.io/d/Y7LFVy"
+        },
+        {
+          "name": "USA 12.xx All DLC - Rootz part 1",
+          "url": "https://www.rootz.so/d/1Dq4vI"
+        },
+        {
+          "name": "USA 12.xx All DLC - Rootz part 2",
+          "url": "https://www.rootz.so/d/JQ8xs"
+        },
+        {
+          "name": "USA 12.xx All DLC - Rootz part 3",
+          "url": "https://www.rootz.so/d/RTqgy"
+        },
+        {
+          "name": "USA 12.xx All DLC - Rootz part 4",
+          "url": "https://www.rootz.so/d/1W6Nf6"
+        },
+        {
+          "name": "USA 12.xx All DLC - Rootz part 5",
+          "url": "https://www.rootz.so/d/1Hrvmq"
+        },
+        {
+          "name": "USA 12.xx All DLC - Rootz part 6",
+          "url": "https://www.rootz.so/d/19qE4"
+        },
+        {
+          "name": "USA 12.xx All DLC - Rootz part 7",
+          "url": "https://www.rootz.so/d/5Bh1U"
+        },
+        {
+          "name": "USA 12.xx All DLC - Rootz part 8",
+          "url": "https://www.rootz.so/d/NRzpQ"
+        },
+        {
+          "name": "USA 12.xx All DLC - Rootz part 9",
+          "url": "https://www.rootz.so/d/1S4Wrg"
+        },
+        {
+          "name": "USA 12.xx All DLC - Akirabox part 1",
+          "url": "https://akirabox.com/ex5z25lBD3Kq/file"
+        },
+        {
+          "name": "USA 12.xx All DLC - Akirabox part 2",
+          "url": "https://akirabox.com/Zvqzl7oAa3aD/file"
+        },
+        {
+          "name": "USA 12.xx All DLC - Akirabox part 3",
+          "url": "https://akirabox.com/BnkmWvwEQGR0/file"
+        },
+        {
+          "name": "USA 12.xx All DLC - Akirabox part 4",
+          "url": "https://akirabox.com/jar3XlVZg32d/file"
+        },
+        {
+          "name": "USA 12.xx All DLC - Akirabox part 5",
+          "url": "https://akirabox.com/dkD3YwlgJGLQ/file"
+        },
+        {
+          "name": "USA 12.xx All DLC - Akirabox part 6",
+          "url": "https://akirabox.com/7d5GLZ1eL3xR/file"
+        },
+        {
+          "name": "USA 12.xx All DLC - Akirabox part 7",
+          "url": "https://akirabox.com/9AqGQZxlJmMn/file"
+        },
+        {
+          "name": "USA 12.xx All DLC - Akirabox part 8",
+          "url": "https://akirabox.com/jJD3VDWp5Ga5/file"
+        },
+        {
+          "name": "USA 12.xx All DLC - Akirabox part 9",
+          "url": "https://akirabox.com/M2BGwPkWOmj4/file"
+        },
+        {
+          "name": "USA 12.xx All DLC - 1fichier part 1",
+          "url": "https://1fichier.com/?csrjvss9mll7uad3f4hf"
+        },
+        {
+          "name": "USA 12.xx All DLC - 1fichier part 2",
+          "url": "https://1fichier.com/?l6eqw89kww7tliytdo6g"
+        },
+        {
+          "name": "USA 12.xx All DLC - 1fichier part 3",
+          "url": "https://1fichier.com/?upwy2vwfshn8n8xoamjh"
+        },
+        {
+          "name": "USA 12.xx All DLC - 1fichier part 4",
+          "url": "https://1fichier.com/?tg61ir4tz290o2p5l5jh"
+        },
+        {
+          "name": "USA 12.xx All DLC - 1fichier part 5",
+          "url": "https://1fichier.com/?9enxq2rrtjke60wgnppt"
+        },
+        {
+          "name": "USA 12.xx All DLC - 1fichier part 6",
+          "url": "https://1fichier.com/?er236eq9rc29wrp4h5wc"
+        },
+        {
+          "name": "USA 12.xx All DLC - 1fichier part 7",
+          "url": "https://1fichier.com/?zz8v1h66rh4b837i33ms"
+        },
+        {
+          "name": "USA 12.xx All DLC - 1fichier part 8",
+          "url": "https://1fichier.com/?25pk77kk8shhddgvolco"
+        },
+        {
+          "name": "USA 12.xx All DLC - 1fichier part 9",
+          "url": "https://1fichier.com/?ogo5o9a06sojx6fjjgaw"
+        },
+        {
+          "name": "USA 12.xx All DLC - Rootz part 10",
+          "url": "https://rootz.so/d/2EQl60"
+        },
+        {
+          "name": "USA 12.xx All DLC - Akirabox part 10",
+          "url": "https://akirabox.com/M2BGwPkqRmj4/file"
+        },
+        {
+          "name": "USA 12.xx All DLC - 1fichier part 10",
+          "url": "https://1fichier.com/?13eosvipb2bd22w6e3nq"
+        },
+        {
+          "name": "USA 12.xx All DLC - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/91Rhyfhihu"
+        },
+        {
+          "name": "USA 12.xx All DLC - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/l6SKjgOr9l"
+        },
+        {
+          "name": "USA 12.xx All DLC - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/LC1uhIviyf"
+        },
+        {
+          "name": "USA 12.xx All DLC - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/0iJuir33j7"
+        },
+        {
+          "name": "USA 12.xx All DLC - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/jCYet9klC9"
+        },
+        {
+          "name": "USA 12.xx All DLC - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/ku6YLXmGXV"
+        },
+        {
+          "name": "USA 12.xx All DLC - Vikingfile part 7",
+          "url": "https://vikingfile.com/f/q6KroViOWH"
+        },
+        {
+          "name": "USA 12.xx All DLC - Vikingfile part 8",
+          "url": "https://vikingfile.com/f/tei4kQ8ZCj"
+        },
+        {
+          "name": "USA 12.xx All DLC - Vikingfile part 9",
+          "url": "https://vikingfile.com/f/bPKhWodZ6j"
+        },
+        {
+          "name": "USA 12.xx BackPort 4.xx - Akirabox",
+          "url": "https://akirabox.com/vgKGxX718G8Q/file"
+        },
+        {
+          "name": "USA 12.xx BackPort 4.xx - Vikingfile",
+          "url": "https://vikingfile.com/f/8QbNKr8d8p"
+        },
+        {
+          "name": "USA 12.xx BackPort 4.xx - Rootz",
+          "url": "https://rootz.so/d/RCB28"
+        },
+        {
+          "name": "USA 12.xx BackPort 4.xx - 1fichier",
+          "url": "https://1fichier.com/?jlut06wm4aulpnn8h7os"
+        },
+        {
+          "name": "USA 12.xx BackPort 4.xx - Mediafire",
+          "url": "https://www.mediafire.com/file/7fpik8ymk0zfszd/[DLPSGAME.COM]-FW+4xx+PPSA01649+(01.055.000)+backport+files.zip/file"
+        },
+        {
+          "name": "USA 12.xx DLC Campaign - Akirabox part 1",
+          "url": "https://akirabox.com/M2BGwPALpmj4/file"
+        },
+        {
+          "name": "USA 12.xx DLC Campaign - Akirabox part 2",
+          "url": "https://akirabox.com/vgKGxXe78G8Q/file"
+        },
+        {
+          "name": "USA 12.xx DLC Campaign - Akirabox part 3",
+          "url": "https://akirabox.com/EL73g7wka39B/file"
+        },
+        {
+          "name": "USA 12.xx DLC Campaign - Akirabox part 4",
+          "url": "https://akirabox.com/2WVGrdkWg3kx/file"
+        },
+        {
+          "name": "USA 12.xx DLC Campaign - Akirabox part 5",
+          "url": "https://akirabox.com/Z9dzBPrB5mk1/file"
+        },
+        {
+          "name": "USA 12.xx DLC Campaign - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/cwTC5l8l1P"
+        },
+        {
+          "name": "USA 12.xx DLC Campaign - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/xlRc54pPxB"
+        },
+        {
+          "name": "USA 12.xx DLC Campaign - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/Z6nTtTZ4y7"
+        },
+        {
+          "name": "USA 12.xx DLC Campaign - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/9AW7KDBA7B"
+        },
+        {
+          "name": "USA 12.xx DLC Campaign - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/O211BwFNmV"
+        },
+        {
+          "name": "USA 12.xx DLC Campaign - Rootz part 1",
+          "url": "https://www.rootz.so/d/1L2hsW"
+        },
+        {
+          "name": "USA 12.xx DLC Campaign - Rootz part 2",
+          "url": "https://www.rootz.so/d/8MTBI"
+        },
+        {
+          "name": "USA 12.xx DLC Campaign - Rootz part 3",
+          "url": "https://www.rootz.so/d/COK2q"
+        },
+        {
+          "name": "USA 12.xx DLC Campaign - Rootz part 4",
+          "url": "https://www.rootz.so/d/1H0r0y"
+        },
+        {
+          "name": "USA 12.xx DLC Campaign - Rootz part 5",
+          "url": "https://www.rootz.so/d/1ZH9ou"
+        },
+        {
+          "name": "USA 12.xx DLC Multiplayer - Akirabox part 1",
+          "url": "https://akirabox.com/gXeGOAZqP3Aa/file"
+        },
+        {
+          "name": "USA 12.xx DLC Multiplayer - Akirabox part 2",
+          "url": "https://akirabox.com/qLQ36q2EYm19/file"
+        },
+        {
+          "name": "USA 12.xx DLC Multiplayer - Akirabox part 3",
+          "url": "https://akirabox.com/N2p3DPxWx3Ma/file"
+        },
+        {
+          "name": "USA 12.xx DLC Multiplayer - Akirabox part 4",
+          "url": "https://akirabox.com/vgKGxXeKnG8Q/file"
+        },
+        {
+          "name": "USA 12.xx DLC Multiplayer - Akirabox part 5",
+          "url": "https://akirabox.com/RMKGJKPN8m1o/file"
+        },
+        {
+          "name": "USA 12.xx DLC Multiplayer - Akirabox part 6",
+          "url": "https://akirabox.com/Z9dzBPrqqmk1/file"
+        },
+        {
+          "name": "USA 12.xx DLC Multiplayer - Akirabox part 7",
+          "url": "https://akirabox.com/Y2xm0o206GRO/file"
+        },
+        {
+          "name": "USA 12.xx DLC Multiplayer - Akirabox part 8",
+          "url": "https://akirabox.com/LK0G1b20Nm91/file"
+        },
+        {
+          "name": "USA 12.xx DLC Multiplayer - Akirabox part 9",
+          "url": "https://akirabox.com/E9Qz9X25J3OL/file"
+        },
+        {
+          "name": "USA 12.xx DLC Multiplayer - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/30nzeWRIuB"
+        },
+        {
+          "name": "USA 12.xx DLC Multiplayer - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/dzuj4SKP37"
+        },
+        {
+          "name": "USA 12.xx DLC Multiplayer - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/Kp8xvNZj1R"
+        },
+        {
+          "name": "USA 12.xx DLC Multiplayer - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/sp1OU0Zvsa"
+        },
+        {
+          "name": "USA 12.xx DLC Multiplayer - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/aa8nrQINcf"
+        },
+        {
+          "name": "USA 12.xx DLC Multiplayer - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/hWkIGGArJ1"
+        },
+        {
+          "name": "USA 12.xx DLC Multiplayer - Vikingfile part 7",
+          "url": "https://vikingfile.com/f/LobzVlaRfr"
+        },
+        {
+          "name": "USA 12.xx DLC Multiplayer - Vikingfile part 8",
+          "url": "https://vikingfile.com/f/yyq8BdcsZt"
+        },
+        {
+          "name": "USA 12.xx DLC Multiplayer - Vikingfile part 9",
+          "url": "https://vikingfile.com/f/62d2kuse69"
+        },
+        {
+          "name": "USA 12.xx DLC Multiplayer - Rootz part 1",
+          "url": "https://www.rootz.so/d/1J9kQq"
+        },
+        {
+          "name": "USA 12.xx DLC Multiplayer - Rootz part 2",
+          "url": "https://www.rootz.so/d/2Renw"
+        },
+        {
+          "name": "USA 12.xx DLC Multiplayer - Rootz part 3",
+          "url": "https://www.rootz.so/d/1F7tZI"
+        },
+        {
+          "name": "USA 12.xx DLC Multiplayer - Rootz part 4",
+          "url": "https://www.rootz.so/d/AVMX2"
+        },
+        {
+          "name": "USA 12.xx DLC Multiplayer - Rootz part 5",
+          "url": "https://www.rootz.so/d/EXDOa"
+        },
+        {
+          "name": "USA 12.xx DLC Multiplayer - Rootz part 6",
+          "url": "https://www.rootz.so/d/1RDS5o"
+        },
+        {
+          "name": "USA 12.xx DLC Multiplayer - Rootz part 7",
+          "url": "https://www.rootz.so/d/17a3aC"
+        },
+        {
+          "name": "USA 12.xx DLC Multiplayer - Rootz part 8",
+          "url": "https://www.rootz.so/d/2GERPs"
+        },
+        {
+          "name": "USA 12.xx DLC Multiplayer - Rootz part 9",
+          "url": "https://www.rootz.so/d/1BbuRk"
+        },
+        {
+          "name": "exFAT v01.055 Base - Akirabox part 1",
+          "url": "https://akirabox.to/gXeGOAbqA3Aa/file"
+        },
+        {
+          "name": "exFAT v01.055 Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/U48ns21DSO"
+        },
+        {
+          "name": "exFAT v01.055 Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/SWQjvCe7ZS"
+        },
+        {
+          "name": "exFAT v01.055 Base - Akirabox part 2",
+          "url": "https://akirabox.com/jJD3VDWWaGa5/file"
+        },
+        {
+          "name": "USA exFAT 01.055 Base - AKIA Std (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSERYK2JveThYSjY0RC9xSlhuQVpoQm5ydlBZS0Rzc3Fxd3k1aSs3VXgwYlFxRXEvTlk2K2hwMVR6Ny91aHk4SXZodkFEN3JtdzlVdjJkeGNFVGpDNC9hYjVpU0ZsNVFobkRjPSIsImkiOiJpd2ZpdFJFSmwrbU1jN0pjIiwibiI6IkFraWEifQ=="
+        },
+        {
+          "name": "USA exFAT 01.055 Base - VIKI Std (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidXdDQ2JKRW5nWDU1Z1hDb0ZIaWZtSk1DMDRkbGRQUGlkNG9sT201OUxiUVBzRndRQmxqeUwxNGs3cXNZdlByOERtQzRST05vK3pXREpWVnMzQVZKUVJLZHJtbGVMakE9IiwiaSI6ImhVTVpaNTcreHYvOW9BTFEiLCJuIjoiVmlraSJ9"
+        },
+        {
+          "name": "USA exFAT 01.055 Base - DATA Std (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSjFNQzNRa0hIQzBxc1VJWGUveFhKZUtWWFNMQWd5bDRBL3gxRWV5Mk93Mjc2Q1ljRHJ1SXN2UjM0K3htMThRZ2VxWGdDQkdTTVNGVTIzUFJQODluVW93OVZhRGMiLCJpIjoiRHBmclc0aGczckVnd3VRVyIsIm4iOiJEYXRhIn0="
+        },
+        {
+          "name": "USA exFAT 01.055 Base - FileK Std (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZmdrNitHWjdTTnE2YWZOTk0xSEVaZ0Fha21LZHRDdUZKVkJWR2tQSElHZW4wbmxNaGZRcTFMMENZY3lJUDhNM29JWEFCSEoya2d2ejJ3ZnNZVW5LaTNwWFdnR0NWSk09IiwiaSI6InByS1ZZMi9oVVR1QzVleksiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.055 Base - Vault Std (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQlJoVjJOdS9tT2Rra21DaVlqS3ViZFdIang3RlptNjhnUDBpNGduY1FsZjE4SzNwN3dPT054KzFoQWk5NGc1Vjk4WThudmZIaE9nUkZmY3g0ZDR1dnpqMWV2S294dz09IiwiaSI6ImZvOVpyRTM1M3lDM0l6Mk4iLCJuIjoiVmF1bHQifQ=="
+        },
+        {
+          "name": "USA exFAT 01.055 BackPort backport - AKIA Backport (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNnBFcWNuSzZ1ajNUR21uSVRQdVB5Mnh1OThFZ2ppRjBBNjRXWWJRNGVjdEFXajlBTENrYWhkMEVieW5YWDNnOWVTWnBXZld6OGdqcXo1OHplU2EyZm5ZdzNnLzJRQmphTnc9PSIsImkiOiI4RTFwZVQvc0tqUmJnWHJwIiwibiI6IkFraWEifQ=="
+        },
+        {
+          "name": "USA exFAT 01.055 BackPort backport - VIKI Backport (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTEZDa0VUUFZ3RDJaSTh6WG84RzdmL25FNVpRbzFqN0FZTGFCMU5tKzRtODEySjVHMUZCellUSHZ5SklBeUg0MVFvMUpBQVA1YUZBeGN1cGtveTZ0ZmZ4TmcvOURPZjQ9IiwiaSI6ImkwUERmbGNkbFJhQm5jci8iLCJuIjoiVmlraSJ9"
+        },
+        {
+          "name": "USA exFAT 01.055 BackPort backport - DATA Backport (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWHhqYThHb0FJMndxWjczZk9pSmlSNUdLQUk1ZDZhanJKdUxtaW0ycnRib21FL0RnZFpYN040VUFRYUV2alFla05lcUtVYUpPTkhDcjFLb3FvV254RWo4Y1pqSVkiLCJpIjoiMEw1NkRzNjdYTW1OZFBLMiIsIm4iOiJEYXRhIn0="
+        },
+        {
+          "name": "USA exFAT 01.055 BackPort backport - FileK Backport (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVms5ckdtZGI1WTYydThIZlZ0dU5NYmVPK1g0M0RSSzB0VlZSRTBpN0xKNXNQSFhDSUdyaUVaTHprWWR0SHBucm5sYms3a01Wb1NjeW1iY1UyQmtNaUNjNkhyejVYNmc9IiwiaSI6IjMxRHdZZTZvSEVVenJqYzIiLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.055 BackPort backport - Vault Backport (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZUNCaisrVmUycUhMaGs2Z2ZzSkdyRlZxUDVGMTZ3QXhXQkVYcmwzRG9KSVMwVmsxb3dhN1I4WFV3Q2ZZd21rekVka0pqSlJmVTE0d2w2R2RTcktLTGcyeHJ6R2RyQT09IiwiaSI6Img5N25ySFRqWldwSzZPQjYiLCJuIjoiVmF1bHQifQ=="
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01649_a934fe53a0c9dfba2157e49bb7683c089340dd101c60383ac80564d644f66ced/icon0.webp",
+      "description": "Variant: USA 12.xx\nRegion: USA\nRelease note: Working 12.xx to 9.xx All DLC size after Extract — 172 GB After extract ALL DLC move folders DLC to folder game Campaign – Multiplayer both work There is issue with campaign not launch MW3\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: exFAT v01.055\nRelease note: Call of Duty Modern Warfare 3 (v01.055)(All DLCs) – BP 4.xx – PPSA01649 – exFAT There is issue with campaign not launch MW3. How to fix first make sure turn off internet in network setting in PS5 then launch game and choose offline mode and go to campaign MW3. You need keep press X few time to launch Campaign that will fix error issue.\nContributor: Thanks to High-Speed007 for the Files with DLCs, drakmor for ampr-emu and DecKerr97 for the BackPort.\n\nVariant: USA exFAT 01.055\nRegion: USA\nRelease note: exFAT format — FW 01.055 — Standard (9.xx) + 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/call-of-duty-modern-warfare-3-ps5/"
     },
     {
       "titleId": "PPSA16645",
@@ -2401,12 +3157,16 @@
           "url": "https://vikingfile.com/f/I8GXQw3yaM"
         },
         {
-          "name": "USA exFAT 01.00.004 Base - FileK (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiV2JzdWFFL2VqZFo4N2o1L3lOZy90V3RkSmdOY1dZNlBxTCtjTlRzSG1NVGxOVnorbFlWZGI0K1FzbWZjUjVYNFNEUGdYdVR6ZXgwV0dWdi91R0w2N1gvck5BQVFYTDA9IiwiaSI6Im9qTWR5djVpYVdjbzRZQmsiLCJuIjoiRmlsZUsifQ=="
+          "name": "USA exFAT 01.00.004 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQlNOWEMxc1NiNGlRSlJmQ0tvOHB4MFR0Uk0yVmkvUXptT29TaC90TFcxb3Q3VWNpM21ISkhKbGVLd0lTdmt4dHJiSUdHL1RNdXhOYlFPczJvV0ROMzVnVnk1MCtxOFVzM1FrVXdzb1dldz09IiwiaSI6IngwV3hhOGV4UDZMR1loTHciLCJuIjoiRGF0YSJ9"
         },
         {
-          "name": "USA exFAT 01.00.004 Base - DATA (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSDRKK2UxZk0vMWZsdC9HZHdTdVErMlRvbFlSQ1NVOERGalA0L0dqenpJWTZ4WnMyKzdya0tJSGkyREJZa0lRQUpCbVBrdjBOTjB3aXI3Y0I0NWczelJoaGlyTU0iLCJpIjoiYmNyZmJIcEhSUkduTGtxVSIsIm4iOiJEYXRhIn0="
+          "name": "USA exFAT 01.00.004 Base - AKIA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiRkpad3R2V01vUEVjWktXS0hxa3FWc3dCZ3N2a0t2S3h6c1JHVVMzVks1cDQ4aXRyZDZZeU5iSWprSklmMDB5aURqWUZhVW9IUVNjMWhkRGhDcWVpSVZELzVEMXRCMHZFNEp4ZEZUZEkiLCJpIjoiKzc3TElDRWRhSzJNc1lDTCIsIm4iOiJBa2lhIn0="
+        },
+        {
+          "name": "USA exFAT 01.00.004 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidUxQRDYrYWI0aSs5NDJ4RmpDSUNsb0ZCcW1FYVd3K21paTl4VVVQWGxIaXhxMGh6eEprclNtd0NUdExjcEZPQnZtNTZRalhFcUNKMHdqT0I2ZWRqc293bENvYkJqMG9weDdLR2xpYTBpbGc9IiwiaSI6Ii9hVlFabXhMUkhrZlZ2MUYiLCJuIjoiVmlraSJ9"
         }
       ],
       "category": "game",
@@ -10949,340 +11709,6 @@
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2608/91af799a7e12eadc81089336bd47b25eb893a3e7d27079bd.png?w=260",
       "description": "Variant: EUR 12.xx\nRegion: EUR\nRelease note: Working 12.xx to 11.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: exFAT v01.007\nRelease note: Taxi Chaos 2 (v01.007) – BP 4.xx – PPSA30279 – exFAT\nContributor: Thanks to High-Speed007 for the Files and DecKerr97 for the BackPort.\n\nVariant: EUR exFAT 01.007\nRegion: EUR\nRelease note: exFAT format — FW 01.007 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/taxi-chaos-2-ps5/"
-    },
-    {
-      "titleId": "PPSA01649",
-      "title": "Call of Duty Modern Warfare 3",
-      "downloadLinks": [
-        {
-          "name": "USA 12.xx Base - Gofile",
-          "url": "https://gofile.io/d/DdU09h"
-        },
-        {
-          "name": "USA 12.xx Base - Rootz part 1",
-          "url": "https://www.rootz.so/d/CjX0a"
-        },
-        {
-          "name": "USA 12.xx Base - Rootz part 2",
-          "url": "https://www.rootz.so/d/1PPllw"
-        },
-        {
-          "name": "USA 12.xx Base - Rootz part 3",
-          "url": "https://www.rootz.so/d/8hgDA"
-        },
-        {
-          "name": "USA 12.xx Base - Rootz part 4",
-          "url": "https://www.rootz.so/d/1TRcdU"
-        },
-        {
-          "name": "USA 12.xx Base - Akirabox part 1",
-          "url": "https://akirabox.com/rk9zKWYrXz0l/file"
-        },
-        {
-          "name": "USA 12.xx Base - Akirabox part 2",
-          "url": "https://akirabox.com/l76mZr6Rpman/file"
-        },
-        {
-          "name": "USA 12.xx Base - Akirabox part 3",
-          "url": "https://akirabox.com/dkD3YwlVOGLQ/file"
-        },
-        {
-          "name": "USA 12.xx Base - Akirabox part 4",
-          "url": "https://akirabox.com/2bJG8bKpq3OB/file"
-        },
-        {
-          "name": "USA 12.xx Base - 1fichier part 1",
-          "url": "https://1fichier.com/?e8txn9zm4l6yaaiu2ntl"
-        },
-        {
-          "name": "USA 12.xx Base - 1fichier part 2",
-          "url": "https://1fichier.com/?n3n6rsd9nbufb3dotjvz"
-        },
-        {
-          "name": "USA 12.xx Base - 1fichier part 3",
-          "url": "https://1fichier.com/?6n7jtppc7nf4b1n6duqz"
-        },
-        {
-          "name": "USA 12.xx Base - 1fichier part 4",
-          "url": "https://1fichier.com/?pyikld5j1fcvneupq947"
-        },
-        {
-          "name": "USA 12.xx Base - Rootz part 5",
-          "url": "https://rootz.so/d/1LNuuO"
-        },
-        {
-          "name": "USA 12.xx Base - Akirabox part 5",
-          "url": "https://akirabox.com/LK0G1bqeem91/file"
-        },
-        {
-          "name": "USA 12.xx Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/p03EINkCHP"
-        },
-        {
-          "name": "USA 12.xx Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/KAXtp7Z3N9"
-        },
-        {
-          "name": "USA 12.xx Base - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/wTBZ2fp7Nu"
-        },
-        {
-          "name": "USA 12.xx Base - Vikingfile part 4",
-          "url": "https://vikingfile.com/f/J3wu82nUMm"
-        },
-        {
-          "name": "USA 12.xx Base - Vikingfile part 5",
-          "url": "https://vikingfile.com/f/ICe4BCP1XI"
-        },
-        {
-          "name": "USA 12.xx Base - 1fichier part 5",
-          "url": "https://1fichier.com/?knkgreuzk22e7b6ryqsw"
-        },
-        {
-          "name": "USA 12.xx All DLC - Gofile",
-          "url": "https://gofile.io/d/Y7LFVy"
-        },
-        {
-          "name": "USA 12.xx All DLC - Rootz part 1",
-          "url": "https://www.rootz.so/d/1Dq4vI"
-        },
-        {
-          "name": "USA 12.xx All DLC - Rootz part 2",
-          "url": "https://www.rootz.so/d/JQ8xs"
-        },
-        {
-          "name": "USA 12.xx All DLC - Rootz part 3",
-          "url": "https://www.rootz.so/d/RTqgy"
-        },
-        {
-          "name": "USA 12.xx All DLC - Rootz part 4",
-          "url": "https://www.rootz.so/d/1W6Nf6"
-        },
-        {
-          "name": "USA 12.xx All DLC - Rootz part 5",
-          "url": "https://www.rootz.so/d/1Hrvmq"
-        },
-        {
-          "name": "USA 12.xx All DLC - Rootz part 6",
-          "url": "https://www.rootz.so/d/19qE4"
-        },
-        {
-          "name": "USA 12.xx All DLC - Rootz part 7",
-          "url": "https://www.rootz.so/d/5Bh1U"
-        },
-        {
-          "name": "USA 12.xx All DLC - Rootz part 8",
-          "url": "https://www.rootz.so/d/NRzpQ"
-        },
-        {
-          "name": "USA 12.xx All DLC - Rootz part 9",
-          "url": "https://www.rootz.so/d/1S4Wrg"
-        },
-        {
-          "name": "USA 12.xx All DLC - Akirabox part 1",
-          "url": "https://akirabox.com/ex5z25lBD3Kq/file"
-        },
-        {
-          "name": "USA 12.xx All DLC - Akirabox part 2",
-          "url": "https://akirabox.com/Zvqzl7oAa3aD/file"
-        },
-        {
-          "name": "USA 12.xx All DLC - Akirabox part 3",
-          "url": "https://akirabox.com/BnkmWvwEQGR0/file"
-        },
-        {
-          "name": "USA 12.xx All DLC - Akirabox part 4",
-          "url": "https://akirabox.com/jar3XlVZg32d/file"
-        },
-        {
-          "name": "USA 12.xx All DLC - Akirabox part 5",
-          "url": "https://akirabox.com/dkD3YwlgJGLQ/file"
-        },
-        {
-          "name": "USA 12.xx All DLC - Akirabox part 6",
-          "url": "https://akirabox.com/7d5GLZ1eL3xR/file"
-        },
-        {
-          "name": "USA 12.xx All DLC - Akirabox part 7",
-          "url": "https://akirabox.com/9AqGQZxlJmMn/file"
-        },
-        {
-          "name": "USA 12.xx All DLC - Akirabox part 8",
-          "url": "https://akirabox.com/jJD3VDWp5Ga5/file"
-        },
-        {
-          "name": "USA 12.xx All DLC - Akirabox part 9",
-          "url": "https://akirabox.com/M2BGwPkWOmj4/file"
-        },
-        {
-          "name": "USA 12.xx All DLC - 1fichier part 1",
-          "url": "https://1fichier.com/?csrjvss9mll7uad3f4hf"
-        },
-        {
-          "name": "USA 12.xx All DLC - 1fichier part 2",
-          "url": "https://1fichier.com/?l6eqw89kww7tliytdo6g"
-        },
-        {
-          "name": "USA 12.xx All DLC - 1fichier part 3",
-          "url": "https://1fichier.com/?upwy2vwfshn8n8xoamjh"
-        },
-        {
-          "name": "USA 12.xx All DLC - 1fichier part 4",
-          "url": "https://1fichier.com/?tg61ir4tz290o2p5l5jh"
-        },
-        {
-          "name": "USA 12.xx All DLC - 1fichier part 5",
-          "url": "https://1fichier.com/?9enxq2rrtjke60wgnppt"
-        },
-        {
-          "name": "USA 12.xx All DLC - 1fichier part 6",
-          "url": "https://1fichier.com/?er236eq9rc29wrp4h5wc"
-        },
-        {
-          "name": "USA 12.xx All DLC - 1fichier part 7",
-          "url": "https://1fichier.com/?zz8v1h66rh4b837i33ms"
-        },
-        {
-          "name": "USA 12.xx All DLC - 1fichier part 8",
-          "url": "https://1fichier.com/?25pk77kk8shhddgvolco"
-        },
-        {
-          "name": "USA 12.xx All DLC - 1fichier part 9",
-          "url": "https://1fichier.com/?ogo5o9a06sojx6fjjgaw"
-        },
-        {
-          "name": "USA 12.xx All DLC - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/91Rhyfhihu"
-        },
-        {
-          "name": "USA 12.xx All DLC - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/l6SKjgOr9l"
-        },
-        {
-          "name": "USA 12.xx All DLC - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/LC1uhIviyf"
-        },
-        {
-          "name": "USA 12.xx All DLC - Vikingfile part 4",
-          "url": "https://vikingfile.com/f/0iJuir33j7"
-        },
-        {
-          "name": "USA 12.xx All DLC - Vikingfile part 5",
-          "url": "https://vikingfile.com/f/jCYet9klC9"
-        },
-        {
-          "name": "USA 12.xx All DLC - Vikingfile part 6",
-          "url": "https://vikingfile.com/f/ku6YLXmGXV"
-        },
-        {
-          "name": "USA 12.xx All DLC - Vikingfile part 7",
-          "url": "https://vikingfile.com/f/q6KroViOWH"
-        },
-        {
-          "name": "USA 12.xx All DLC - Vikingfile part 8",
-          "url": "https://vikingfile.com/f/tei4kQ8ZCj"
-        },
-        {
-          "name": "USA 12.xx All DLC - Vikingfile part 9",
-          "url": "https://vikingfile.com/f/bPKhWodZ6j"
-        },
-        {
-          "name": "USA 12.xx All DLC - Vikingfile part 10",
-          "url": "https://vikingfile.com/f/m8Wkxqr6nJ"
-        },
-        {
-          "name": "USA 12.xx All DLC - Rootz part 10",
-          "url": "https://rootz.so/d/2EQl60"
-        },
-        {
-          "name": "USA 12.xx All DLC - Akirabox part 10",
-          "url": "https://akirabox.com/M2BGwPkqRmj4/file"
-        },
-        {
-          "name": "USA 12.xx All DLC - 1fichier part 10",
-          "url": "https://1fichier.com/?13eosvipb2bd22w6e3nq"
-        },
-        {
-          "name": "USA 12.xx BackPort 4.xx - Akirabox",
-          "url": "https://akirabox.com/vgKGxX718G8Q/file"
-        },
-        {
-          "name": "USA 12.xx BackPort 4.xx - Vikingfile",
-          "url": "https://vikingfile.com/f/8QbNKr8d8p"
-        },
-        {
-          "name": "USA 12.xx BackPort 4.xx - Rootz",
-          "url": "https://rootz.so/d/RCB28"
-        },
-        {
-          "name": "USA 12.xx BackPort 4.xx - 1fichier",
-          "url": "https://1fichier.com/?jlut06wm4aulpnn8h7os"
-        },
-        {
-          "name": "USA 12.xx BackPort 4.xx - Mediafire",
-          "url": "https://www.mediafire.com/file/7fpik8ymk0zfszd/[DLPSGAME.COM]-FW+4xx+PPSA01649+(01.055.000)+backport+files.zip/file"
-        },
-        {
-          "name": "exFAT v01.055 Base - Akirabox part 1",
-          "url": "https://akirabox.to/gXeGOAbqA3Aa/file"
-        },
-        {
-          "name": "exFAT v01.055 Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/U48ns21DSO"
-        },
-        {
-          "name": "exFAT v01.055 Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/SWQjvCe7ZS"
-        },
-        {
-          "name": "exFAT v01.055 Base - Akirabox part 2",
-          "url": "https://akirabox.com/jJD3VDWWaGa5/file"
-        },
-        {
-          "name": "USA exFAT 01.055 Base - AKIA Std (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSERYK2JveThYSjY0RC9xSlhuQVpoQm5ydlBZS0Rzc3Fxd3k1aSs3VXgwYlFxRXEvTlk2K2hwMVR6Ny91aHk4SXZodkFEN3JtdzlVdjJkeGNFVGpDNC9hYjVpU0ZsNVFobkRjPSIsImkiOiJpd2ZpdFJFSmwrbU1jN0pjIiwibiI6IkFraWEifQ=="
-        },
-        {
-          "name": "USA exFAT 01.055 Base - VIKI Std (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidXdDQ2JKRW5nWDU1Z1hDb0ZIaWZtSk1DMDRkbGRQUGlkNG9sT201OUxiUVBzRndRQmxqeUwxNGs3cXNZdlByOERtQzRST05vK3pXREpWVnMzQVZKUVJLZHJtbGVMakE9IiwiaSI6ImhVTVpaNTcreHYvOW9BTFEiLCJuIjoiVmlraSJ9"
-        },
-        {
-          "name": "USA exFAT 01.055 Base - DATA Std (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiSjFNQzNRa0hIQzBxc1VJWGUveFhKZUtWWFNMQWd5bDRBL3gxRWV5Mk93Mjc2Q1ljRHJ1SXN2UjM0K3htMThRZ2VxWGdDQkdTTVNGVTIzUFJQODluVW93OVZhRGMiLCJpIjoiRHBmclc0aGczckVnd3VRVyIsIm4iOiJEYXRhIn0="
-        },
-        {
-          "name": "USA exFAT 01.055 Base - FileK Std (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZmdrNitHWjdTTnE2YWZOTk0xSEVaZ0Fha21LZHRDdUZKVkJWR2tQSElHZW4wbmxNaGZRcTFMMENZY3lJUDhNM29JWEFCSEoya2d2ejJ3ZnNZVW5LaTNwWFdnR0NWSk09IiwiaSI6InByS1ZZMi9oVVR1QzVleksiLCJuIjoiRmlsZUsifQ=="
-        },
-        {
-          "name": "USA exFAT 01.055 Base - Vault Std (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiQlJoVjJOdS9tT2Rra21DaVlqS3ViZFdIang3RlptNjhnUDBpNGduY1FsZjE4SzNwN3dPT054KzFoQWk5NGc1Vjk4WThudmZIaE9nUkZmY3g0ZDR1dnpqMWV2S294dz09IiwiaSI6ImZvOVpyRTM1M3lDM0l6Mk4iLCJuIjoiVmF1bHQifQ=="
-        },
-        {
-          "name": "USA exFAT 01.055 BackPort backport - AKIA Backport (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiNnBFcWNuSzZ1ajNUR21uSVRQdVB5Mnh1OThFZ2ppRjBBNjRXWWJRNGVjdEFXajlBTENrYWhkMEVieW5YWDNnOWVTWnBXZld6OGdqcXo1OHplU2EyZm5ZdzNnLzJRQmphTnc9PSIsImkiOiI4RTFwZVQvc0tqUmJnWHJwIiwibiI6IkFraWEifQ=="
-        },
-        {
-          "name": "USA exFAT 01.055 BackPort backport - VIKI Backport (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiTEZDa0VUUFZ3RDJaSTh6WG84RzdmL25FNVpRbzFqN0FZTGFCMU5tKzRtODEySjVHMUZCellUSHZ5SklBeUg0MVFvMUpBQVA1YUZBeGN1cGtveTZ0ZmZ4TmcvOURPZjQ9IiwiaSI6ImkwUERmbGNkbFJhQm5jci8iLCJuIjoiVmlraSJ9"
-        },
-        {
-          "name": "USA exFAT 01.055 BackPort backport - DATA Backport (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiWHhqYThHb0FJMndxWjczZk9pSmlSNUdLQUk1ZDZhanJKdUxtaW0ycnRib21FL0RnZFpYN040VUFRYUV2alFla05lcUtVYUpPTkhDcjFLb3FvV254RWo4Y1pqSVkiLCJpIjoiMEw1NkRzNjdYTW1OZFBLMiIsIm4iOiJEYXRhIn0="
-        },
-        {
-          "name": "USA exFAT 01.055 BackPort backport - FileK Backport (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiVms5ckdtZGI1WTYydThIZlZ0dU5NYmVPK1g0M0RSSzB0VlZSRTBpN0xKNXNQSFhDSUdyaUVaTHprWWR0SHBucm5sYms3a01Wb1NjeW1iY1UyQmtNaUNjNkhyejVYNmc9IiwiaSI6IjMxRHdZZTZvSEVVenJqYzIiLCJuIjoiRmlsZUsifQ=="
-        },
-        {
-          "name": "USA exFAT 01.055 BackPort backport - Vault Backport (exFAT)",
-          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoiZUNCaisrVmUycUhMaGs2Z2ZzSkdyRlZxUDVGMTZ3QXhXQkVYcmwzRG9KSVMwVmsxb3dhN1I4WFV3Q2ZZd21rekVka0pqSlJmVTE0d2w2R2RTcktLTGcyeHJ6R2RyQT09IiwiaSI6Img5N25ySFRqWldwSzZPQjYiLCJuIjoiVmF1bHQifQ=="
-        }
-      ],
-      "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01649_a934fe53a0c9dfba2157e49bb7683c089340dd101c60383ac80564d644f66ced/icon0.webp",
-      "description": "Variant: USA 12.xx\nRegion: USA\nRelease note: Working 12.xx to 9.xx All DLC size after Extract — 172 GB After extract ALL DLC move folders DLC to folder game Campaign – Multiplayer both work There is issue with campaign not launch MW3\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: exFAT v01.055\nRelease note: Call of Duty Modern Warfare 3 (v01.055)(All DLCs) – BP 4.xx – PPSA01649 – exFAT There is issue with campaign not launch MW3. How to fix first make sure turn off internet in network setting in PS5 then launch game and choose offline mode and go to campaign MW3. You need keep press X few time to launch Campaign that will fix error issue.\nContributor: Thanks to High-Speed007 for the Files with DLCs, drakmor for ampr-emu and DecKerr97 for the BackPort.\n\nVariant: USA exFAT 01.055\nRegion: USA\nRelease note: exFAT format — FW 01.055 — Standard (9.xx) + 4.xx BackPort\nContributor: pippo",
-      "downloadSource": "https://dlpsgame.com/call-of-duty-modern-warfare-3-ps5/"
     },
     {
       "titleId": "PPSA06653",

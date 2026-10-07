@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.07-1243)
+### 🚀 Synthèse de la mise à jour (v2026.10.07-2245)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -51,7 +51,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
   * `ps5-ezremote-server_v1.11.elf`
-  * `ps5upload_v6.2.3.elf`
+  * `ps5upload_v6.3.1.elf`
   * `airpsx_v0.19.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
   * `PS_Game_State_Lib_v0.1.elf`
@@ -194,7 +194,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `helper.elf`
   * `PPSA97358.zip`
   * `Porpoise-2.5.zip`
-  * `XashPS5-v1.0-PPSA99999.zip`
+  * `PPSA19111.zip`
   * `PPSA99666.zip`
   * `PPSA99808.zip`
   * `prospero-win-v0.1.1.zip`

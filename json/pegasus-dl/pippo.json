@@ -3,7 +3,55 @@
   "version": 1,
   "packages": [
     {
-      "id": 4997345,
+      "titleId": "PPSA34015",
+      "title": "EA SPORTS FC 27",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/9uc6rs7S#DataNodes"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/9uc6rs7S#AkiraBox"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://link-vault.org/c/9uc6rs7S#FileDitch"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/9uc6rs7S#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/dPsYccSx#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/dPsYccSx#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/dPsYccSx#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filek",
+          "url": "https://link-vault.org/c/dPsYccSx#FileKeeper"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://link-vault.org/c/dPsYccSx#FileDitch"
+        }
+      ],
+      "version": "v01.00.004",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA34015_6a434915290a6abec6c41584108a610be84d7c2f675678dd06732e4343f8cba6/icon0.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA34015, v01.00.004, USA, 4.xx BackPort\nSize: 193GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Unlocker already included (dlc-emu). Only FPKG: Some langs like Spanish, Polish etc need to be unlocked by press R3 button and yes on FC 27 Audio Settings.. By pressing Yes, will simulate the package download and then will be unlocked. Base FPKG & Dump are 12.xx, separated BackPort PKG for 4.xx+ included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 207232172032
+    },
+    {
+      "id": 5026049,
       "catalogSlug": "",
       "titleId": "PPSA99902",
       "title": "Sonic Unleashed Recompiled Unofficial Port",
@@ -1235,54 +1283,6 @@
       "description": "Builds: Standard 5.xx, 4.xx BackPort, DLC, Fpkg\nTags: PPSA16833, v01.010, USA, Standard (5.xx) + 4.xx BackPort\nSize: 110GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above. BP 4 Ver only on 4.xx FW. Base FPKG is 12.xx, separated BackPort PKG for 4.xx Only and 5.xx included.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 118111600640
-    },
-    {
-      "titleId": "PPSA34015",
-      "title": "EA SPORTS FC 27",
-      "downloadLinks": [
-        {
-          "name": "Filek",
-          "url": "https://filekeeper.net/glozdk10jccy"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/y0iz47bnc6zj"
-        },
-        {
-          "name": "DLC - DataNodes",
-          "url": "https://datanodes.to/3ot4e1c7j7yj"
-        },
-        {
-          "name": "DLC - Vault",
-          "url": "https://datavaults.co/wnmv5oywzi71"
-        },
-        {
-          "name": "Fpkg - AkiraBox",
-          "url": "https://akirabox.com/0Kezk750ezD1/file"
-        },
-        {
-          "name": "Fpkg - VikingFile",
-          "url": "https://vikingfile.com/f/8jPXJtnAJF"
-        },
-        {
-          "name": "Fpkg - DataNodes",
-          "url": "https://datanodes.to/4fxn8ktz7dym"
-        },
-        {
-          "name": "Fpkg - Filek",
-          "url": "https://filekeeper.net/nrbo4q7wj434"
-        },
-        {
-          "name": "Fpkg - Filed",
-          "url": "https://fileditchfiles.st/balpha24/a0c94e5ade82468a6a7d/PPSA34015-Compressed.7z"
-        }
-      ],
-      "version": "v01.00.004",
-      "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA34015_6a434915290a6abec6c41584108a610be84d7c2f675678dd06732e4343f8cba6/icon0.webp",
-      "description": "Builds: DLC, Fpkg\nTags: PPSA34015, v01.00.004, USA, 4.xx BackPort\nSize: 175GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above. DLCs (Unlocker) is mandatory in order to play with exFAT, FPKG doesnt need instead.",
-      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
-      "sizeBytes": 187904819200
     },
     {
       "titleId": "PPSA28183",
@@ -10617,7 +10617,7 @@
       "sizeBytes": 34359738368
     },
     {
-      "id": 4997614,
+      "id": 5026317,
       "catalogSlug": "",
       "titleId": "PPSA22711",
       "title": "Ed 0 Zombie Uprising",
@@ -14183,7 +14183,7 @@
       "sizeBytes": 47244640256
     },
     {
-      "id": 4997717,
+      "id": 5026420,
       "catalogSlug": "",
       "titleId": "PPSA16387",
       "title": "Hitman World of Assassination Deluxe Edition",

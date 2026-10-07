@@ -191,10 +191,10 @@
       <pubDate>1.11</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V6.2.3</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.2.3/ps5upload_v6.2.3.elf</link>
+      <title>[Payloads] Ps5Upload V6.3.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.3.1/ps5upload_v6.3.1.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v6.2.3</pubDate>
+      <pubDate>v6.3.1</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -264,9 +264,9 @@
     </item>
     <item>
       <title>[Payloads] Orbit Store</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v0.8.0/orbit_store.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v0.9.0/orbit_store.elf</link>
       <description>A modern, no-BS download manager for PS5.</description>
-      <pubDate>v0.8.0</pubDate>
+      <pubDate>v0.9.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-Phstore Vphstore</title>
@@ -923,10 +923,10 @@
       <pubDate>v2.5</pubDate>
     </item>
     <item>
-      <title>[Applications] Xashps5-V1.0-Ppsa99999</title>
-      <link>https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.0/XashPS5-v1.0-PPSA99999.zip</link>
+      <title>[Applications] Ppsa19111</title>
+      <link>https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.2/PPSA19111.zip</link>
       <description>Half-Life (Xash3D FWGS) native homebrew port for PS5</description>
-      <pubDate>v1.0</pubDate>
+      <pubDate>v1.2</pubDate>
     </item>
     <item>
       <title>[Applications] Ppsa99666</title>
