@@ -7,6 +7,7 @@
     <outline text="snes9xPS5" title="snes9xPS5" type="rss" xmlUrl="https://github.com/MisterTemaki/snes9xPS5" author="MisterTemaki" description="snes9x emulator"/>
     <outline text="genplusgxPS5" title="genplusgxPS5" type="rss" xmlUrl="https://github.com/MisterTemaki/genplusgxPS5" author="MisterTemaki" description="Port of Genesis-Plus-GX for PS55"/>
     <outline text="ps5-romm" title="ps5-romm" type="rss" xmlUrl="https://github.com/s0liton/ps5-romm" author="s0liton" description="ps5-romm for ps5"/>
+    <outline text="fbneo-ps5" title="fbneo-ps5" type="rss" xmlUrl="https://github.com/MisterTemaki/fbneo-ps5" author="MisterTemaki" description="FBNeo for ps5"/>
     <outline text="PHU-Sandbox.Exit" title="PHU-Sandbox.Exit" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/PHU-Sandbox.Exit_v1.0.elf" author="s0liton" description="addon for Markus-PHU Emupack"/>
   </body>
 </opml>
