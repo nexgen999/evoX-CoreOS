@@ -32,6 +32,16 @@
       "checksum": "210b85775b551ca1267a5a84998e3cc9c498f764fcb7bbdd66a98d1c4c5a420d"
     },
     {
+      "name": "Fbneo-Ps5 V1.4",
+      "filename": "fbneo-ps5_v1.4.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v1.4/fbneo-ps5_v1.4.elf",
+      "local_path": "payloads/ps5_emulator/fbneo-ps5/v1.4/fbneo-ps5_v1.4.elf",
+      "description": "FBNeo for ps5",
+      "version": "v1.4",
+      "category": "PS5 Emulator",
+      "checksum": "80a8f5565c7fd8d5a6e9dc25f953a39c2ba5257205d9a4d82f8000fe90a180e1"
+    },
+    {
       "name": "Phu-Sandbox.Exit V1.0",
       "filename": "PHU-Sandbox.Exit_v1.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PHU-Sandbox.Exit/Source-Fixe/PHU-Sandbox.Exit_v1.0.elf",

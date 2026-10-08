@@ -3,6 +3,58 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA28416",
+      "title": "STAR WARS Galactic Racer Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "DLC - Vault",
+          "url": "https://link-vault.org/c/n2nX4VAJ#DataVaults"
+        },
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/n2nX4VAJ#DataNodes"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/CjUQMI8R#DataNodes"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/CjUQMI8R#AkiraBox"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://link-vault.org/c/CjUQMI8R#FileDitch"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/CjUQMI8R#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/Tm-uOr5X#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/Tm-uOr5X#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/Tm-uOr5X#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://link-vault.org/c/Tm-uOr5X#FileDitch"
+        }
+      ],
+      "version": "v01.003.001",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1713/58ef6a7a23ea91e8b89e02f00792bde4c839daa63b90da0e.png?w=260",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA28416, v01.003.001, USA, 4.xx BackPort\nSize: 68GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 13.xx, separated BackPort PKG for 4.xx Only & 5.xx+ included with fixes.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 73014444032
+    },
+    {
       "titleId": "PPSA18054",
       "title": "Star Wars Zero Company Deluxe Edition",
       "downloadLinks": [
@@ -93,7 +145,7 @@
       ],
       "version": "v02.002.002",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA26578_ce58face576be60dcb7f64c6dda6e4310127f40098a736c6f5d1dfd498dd6dbd/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0206/ec04116f30616ee2ef7e91c70c96bb7773b9d95a54e4d2b9.png?w=260",
       "description": "Builds: Dump, Fpkg\nTags: PPSA26578, v02.002.002, USA, 4.xx BackPort\nSize: 18GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 11.xx, separated BackPort PKG for 4.xx Only & 5.xx+ included with fixes.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 19327352832
@@ -197,7 +249,7 @@
       ],
       "version": "v01.008",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA34501_4a6b213232f020b9f39ca156be89c78fd220814b226da45d5d112d8d94048d72/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/2618/ee7d4a20243804f08a3c4a4eb1b4346dbe29dbce0fb59751.png?w=260",
       "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA34501, v01.008, USA, 4.xx BackPort\nSize: 25GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 12.xx, separated BackPort PKG for 4.xx+ included.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 26843545600
@@ -245,13 +297,13 @@
       ],
       "version": "v01.000.004",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA34015_6a434915290a6abec6c41584108a610be84d7c2f675678dd06732e4343f8cba6/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2322/78e0ba12f88a79c454b6b17d1638f2ae0b2943f1dbc98a17.png?w=260",
       "description": "Builds: Dump, Fpkg\nTags: PPSA34015, v01.000.004, USA, 4.xx BackPort\nSize: 193GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Unlocker already included (dlc-emu). Only FPKG: Some langs like Spanish, Polish etc need to be unlocked by press R3 button and yes on FC 27 Audio Settings.. By pressing Yes, will simulate the package download and then will be unlocked. Base FPKG & Dump are 12.xx, separated BackPort PKG for 4.xx+ included.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 207232172032
     },
     {
-      "id": 5077864,
+      "id": 5092297,
       "catalogSlug": "",
       "titleId": "PPSA99902",
       "title": "Sonic Unleashed Recompiled Unofficial Port",
@@ -419,7 +471,7 @@
       ],
       "version": "v01.001.005",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03671_a27ab989e8e759c2df77cf29aa935fe18369ce087726a4a8e0086d8542080fca/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/0721/e54995d925972b21f0092d0f27a4884f2c883c439514dede.png?w=260",
       "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA03671, v01.001.005, USA, 4.xx BackPort\nSize: 183GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Fubc\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 13.xx, separated BackPort PKG for 4.xx with Pro Fix included. DLCs available after the prologue, after the first suit and unlock the gear tab.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 196494753792
@@ -591,7 +643,7 @@
       ],
       "version": "v01.110.461",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA21480_838e514dc78a2a797b3e8d21d921cdb91e90a25f1f7042d26a90182f9b232077/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0508/fea1c4c6ec899c23fb483eae2f5c417b0de92cd173ce2ab7.png?w=260",
       "description": "Builds: Dump, Fpkg\nTags: PPSA21480, v01.110.461, USA, 4.xx BackPort\nSize: 7GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 11.xx, separated BackPort for 4.xx+ included.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 7516192768
@@ -643,7 +695,7 @@
       ],
       "version": "v01.100",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02809_8729eea92b07ea06d57959f14b4a04d64829261705e45a0a62ff3a01c7ff128f/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202207/0412/LTyDaxvddNUNmxoilU7CE37M.png?w=260",
       "description": "Builds: Dump, Fpkg\nTags: PPSA02809, v01.100, EUR, 4.xx and beyond\nSize: 19GB\nCredits: Files: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 20401094656
@@ -695,7 +747,7 @@
       ],
       "version": "v01.005",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28000_9d586427627b83f4596b9b71c48e94483b9c095e4230baf9d78592569d29c144/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1814/fd8c64ffef89f338da778a59a8e23fd4eb8e793bd6d94a2f.png?w=260",
       "description": "Builds: Dump, Fpkg\nTags: PPSA28000, v01.005, EUR, 4.xx BackPort\nSize: 48GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 12.xx, separated BackPort for 4.xx+ included.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 51539607552
@@ -915,7 +967,7 @@
       ],
       "version": "v02.610",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA16603_5bb80fba8c4a5bfdcec4eb2988d2dbf6c137fe0eac2893d405de37c61432550a/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0208/2485698ec210f6c6ffc8873a823aeedefcc77be090fc5b72.png?w=260",
       "description": "Builds: Dump, Fpkg\nTags: PPSA16603, v02.610, EUR, 4.xx BackPort\nSize: 99GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 6.xx, separated BackPort for 4.xx+ included.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 106300440576
@@ -967,7 +1019,7 @@
       ],
       "version": "v06.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03073_4b02b2940b2b358285f5bbe0f7cd33c8f4d3884caaff8c155babc681778daea0/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1804/51aba58072e55f50d98061563deb9610226e0f18ba149787.png?w=260",
       "description": "Builds: Dump, Fpkg\nTags: PPSA03073, v06.000, EUR, 3.xx and beyond\nSize: 119GB\nCredits: Files: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 127775277056
@@ -1019,7 +1071,7 @@
       ],
       "version": "v01.000.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA14383_9f926ba544da5d2bb4d33212e4c99cee0e7a64279a13ecfd8e038fb297331455/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/0418/14bb7762f77cb65fb92a4e273732880c3a0c90fa2b3feeeb.png?w=260",
       "description": "Builds: Dump, Fpkg\nTags: PPSA14383, v01.000.001, USA, 4.xx BackPort\nSize: 24GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 9.xx, separated BackPort for 4.xx+ included.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 25769803776
@@ -1079,7 +1131,7 @@
       ],
       "version": "v01.008",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06142_6ad870be81b28434f6e8725f105bf89a58527b5a44a56f981dea479c35a49508/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/0217/2761cb4315be4cdb8354521f9b4efa639830642585aa5394.png?w=260",
       "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA06142, v01.008, EUR, 4.xx BackPort\nSize: 18GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 6.xx, separated BackPort for 4.xx+ included.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 19327352832
@@ -1227,7 +1279,7 @@
       ],
       "version": "v01.003",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA35169_97bbd2a9e578510245811247eb6da8c3491aa3e548791ab4e9f57c9efe90278d/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0504/8e1de7d334b94f3650a78a993fdba09045387ed20c7768f9.png?w=260",
       "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA35169, v01.003, USA, 4.xx BackPort\nSize: 39GB\nCredits: Files: DecKerr97 & Too Eightiesmod; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 12.xx, separated BackPort for 4.xx+ included.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 41875931136
@@ -1323,7 +1375,7 @@
       ],
       "version": "v01.160",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA29413_260c36f28e0f0c954ad53c1118c18b10c6660ffa144de3cabfceefbaa76d3f2d/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0810/iCrnQDLqgGBSnHkTFbOzQX2Q.png?w=260",
       "description": "Builds: Dump, Fpkg\nTags: PPSA29413, v01.160, USA, 4.xx BackPort\nSize: 1GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 11.xx, separated BackPort for 4.xx+ included.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 1073741824
@@ -1423,7 +1475,7 @@
       ],
       "version": "v01.018",
       "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0215/f98041a10ccc22d45fc2f6eded09eec50abd106d01547a5d.png?w=260",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0213/2a446965c0e8537af78302782417b0353a73ff1b19ebfeb4.png?w=260",
       "description": "Builds: DLC, Fpkg\nTags: PPSA11386, v01.018, EUR, 4.xx BackPort\nSize: 81GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above. Base FPKG is 13.xx, separated BackPort PKG for 4.xx with Pro Fix included.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 86973087744
@@ -1479,7 +1531,7 @@
       ],
       "version": "v01.010",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA16833_1010611e5083bf9c0738ba6f1cbf56a3622368a0a6211b94c6a7fbd50f6a3b6e/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1316/3302f35b66691aa405aee31624c0c95fe73081be8e0c75bb.png?w=260",
       "description": "Builds: Standard 5.xx, 4.xx BackPort, DLC, Fpkg\nTags: PPSA16833, v01.010, USA, Standard (5.xx) + 4.xx BackPort\nSize: 110GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above. BP 4 Ver only on 4.xx FW. Base FPKG is 12.xx, separated BackPort PKG for 4.xx Only and 5.xx included.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 118111600640
@@ -1523,7 +1575,7 @@
       ],
       "version": "v01.006.038",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28183_1c6bfa7627489bbb191b6dc143f1cd58e8a802db1534968519f040b9ab1b256c/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202603/1215/0962bc91a4952e6433367fcfec38b7e0655c6bd29b431712.png?w=260",
       "description": "Builds: DLC, Fpkg\nTags: PPSA28183, v01.006.038, EUR, 4.xx BackPort\nSize: 122GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 130996502528
@@ -1567,7 +1619,7 @@
       ],
       "version": "v01.001.008",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA18605_5bb41b247f6d0c974095594fb97f1574e24dcd4ceefeb090171579d835561906/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/0914/ccad4abd77d40d3b3c7d77b8e4c9024fae86df781334ed93.png?w=260",
       "description": "Builds: DLC, Fpkg\nTags: PPSA18605, v01.001.008, USA, 4.xx BackPort\nSize: 72GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 77309411328
@@ -1671,7 +1723,7 @@
       ],
       "version": "v01.013",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02015_d9bbc0973ca57b68f21b837e4773bca1c9845b51ad50d77607be2e487cd9f69f/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2115/ae183c63bbeb38d05ecce96aa7f693b4a3769a1835020b63.png?w=260",
       "description": "Builds: Fpkg\nTags: PPSA02015, v01.013, USA, 4.xx BackPork\nSize: 159GB\nCredits: Files: High-Speed007; Backport: Kira & BestPig\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 170724950016
@@ -1723,7 +1775,7 @@
       ],
       "version": "v01.005",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01969_44a112b87f094c2db74b7632441f091e4cbf0114798ae4e2817fe5ba0613392a/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202009/2921/40aD0BqRUHyHdXdC6nwtwON5.png?w=260",
       "description": "Builds: Fpkg\nTags: PPSA01969, v01.005, USA, DLCs Merged, 4.xx BackPort\nSize: 116GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: Pkykzhack\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 124554051584
@@ -1767,7 +1819,7 @@
       ],
       "version": "v01.007",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01341_6964f84d513b49d27571f322b137b434dc937c0d623579750997bdcf3e6df063/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202011/1717/GemRaOZaCMhGxQ9dRhnQQyT5.png?w=260",
       "description": "Builds: DLC, Fpkg\nTags: PPSA01341, v01.007, EUR, 4.xx BackPort\nSize: 96GB\nCredits: Files: Pandatwig; Backport: DecKerr97; DLC: Pkykzhack\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 103079215104
@@ -1819,7 +1871,7 @@
       ],
       "version": "v02.001.010",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA15508_6774a2dd01056c2280ca529a0c79dd2a1d782a243a4fed8b18d803f3622cfd85/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/w48z6bzefZPrRcJHc7L8SO66.png?w=260",
       "description": "Builds: DLC, Fpkg\nTags: PPSA15508, v02.001.010, EUR, 4.xx BackPork\nSize: 155GB\nCredits: Files: SiESPTA; Backport: BestPig & DecKerr97; DLC: Pippo & Pkykzhack\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 166429982720
@@ -1871,7 +1923,7 @@
       ],
       "version": "v02.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03396_757b62553266362f4260588a26ed231386e9b229aad9a61fe8340194ad95ffbf/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/eEczyEMDd2BLa3dtkGJVE9Id.png?w=260",
       "description": "Builds: DLC, Fpkg\nTags: PPSA03396, v02.000, USA to EUR Langs, 4.xx BackPork\nSize: 127GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: Pippo & Pkykzhack\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 136365211648
@@ -1923,7 +1975,7 @@
       ],
       "version": "v01.013",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA07783_2fad2829f4a18fb4734372c0d89b587ae38170fd89c9c419bdb345e2da51da51/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2222/l8QTN7ThQK3lRBHhB3nX1s7h.png?w=260",
       "description": "Builds: DLC, Fpkg\nTags: PPSA07783, v01.013, USA to EUR Langs, 4.xx BackPork\nSize: 311GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: Pippo & DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 333933707264
@@ -2015,7 +2067,7 @@
       ],
       "version": "v01.014.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA13195_f13c7d8067d7eaa6ed9b91dbf63f8aa2f7d9526a16da7603d5bac9e843751d2e/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2211/40e7cfd126a11fe5118310ebce6d9b3a23e7cabaca717217.png?w=260",
       "description": "Builds: Standard 9.xx, 4.xx BackPort, Fpkg Backport\nTags: PPSA13195, v01.014.001, JPN, DLCs Merged, Standard (9.xx) + 4.xx BackPork\nSize: 90GB\nCredits: Files: SiESPta; Backport: BestPig; DLC: Pippo & DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 96636764160
@@ -2111,7 +2163,7 @@
       ],
       "version": "v01.003.004",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA10665_b9fbc0e37ca60e56c7fb66c4007b27938478e64025b467407ef879d149dcae15/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/3007/lgFVhRm5BfoX02pRUt3lSmLV.png?w=260",
       "description": "Builds: Fpkg\nTags: PPSA10665, v01.003.004, EUR, DLCs Merged, 4.xx BackPort\nSize: 296GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 317827579904
@@ -2155,7 +2207,7 @@
       ],
       "version": "v01.685.672",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA22327_332d734000ebc69c9865c225d9b2c056e0525ce029686815b8904d049d27fa26/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2717/42b3ee6b1b2094212231b0b0a82824f687fc5c4dc9bde31c.png?w=260",
       "description": "Builds: Fpkg\nTags: PPSA22327, v01.685.672, USA, DLCs Merged, 4.xx BackPork\nSize: 266GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: High-Speed007\nHow to play: • Ignore if you already have account with fake sign in - Download offact by ps5-payload-dev and active the account (better if is a new one) then download np-fake-signin by earthonion, send the .elf to your PS5 and before restart the console on your connection add this DNS 127.0.0.1 or turn off the connection. FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 285615325184
@@ -2207,7 +2259,7 @@
       ],
       "version": "v01.000.003",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA16951_674d5cd754e2ddd417cfb731a98c630aeaaef0beadb3ccf1366ec5e73b7ad3aa/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/1317/0235984c0fead7618efed690943d90b6ad942d46229bf9d3.png?w=260",
       "description": "Builds: Dump, Fpkg\nTags: PPSA16951, v01.000.003, ASIA to EUR Langs, 4.xx BackPort\nSize: 18GB\nCredits: Files: Yue Lingfeng; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 19327352832
@@ -2531,7 +2583,7 @@
       ],
       "version": "v01.200",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA31246_4a51768cd8e2b0a499fb513a854f56bb4d6f233add400f73354ad8fccc4a0d47/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1205/79661d7a2bdb9784749b4e57e1456ca89f7ac7bed8615aee.png?w=260",
       "description": "Builds: Fpkg\nTags: PPSA31246, v01.200, EUR, DLCs Merged, 4.xx BackPork\nSize: 123GB\nCredits: Files: DUPLEX; Backport: BestPig; DLC: High-Speed007\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 132070244352
@@ -2603,7 +2655,7 @@
       ],
       "version": "v01.017",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28420_e8013dea79d62e0328521a809680268c84c8d7afd410bb341b29dc1fd1baebcf/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/2509/ec1eec85d9130210701491db769cb9874cc09f6512ebca20.png?w=260",
       "description": "Builds: Standard 7.xx, 4.xx BackPort, Fpkg Backport\nTags: PPSA28420, v01.017, EUR, Standard (7.xx) + 4.xx BackPort\nSize: 377GB\nCredits: Files: SiESPTA; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 404800667648
@@ -2655,7 +2707,7 @@
       ],
       "version": "v06.006",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA08330_8251a11b47c7fba734914a25481b1f738ad0de8bfc69c6a71f4540828589bf15/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2016/b69c06fb108299866057126b0d3a0530bdf96a39d2ce1cb9.png?w=260",
       "description": "Builds: Fpkg\nTags: PPSA08330, v06.006, EUR, DLCs Merged, 4.xx BackPort\nSize: 180GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 193273528320
@@ -2831,7 +2883,7 @@
       ],
       "version": "v01.031",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01716_f9314973256cc2f152552f3a5098748b57859cd17820b9d1701855bc1ce07e23/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0913/3CmlwTUjrvYOei0WDNdBsYPp.png?w=260",
       "description": "Builds: DLC, Fpkg\nTags: PPSA01716, v01.031, USA, 4.xx BackPort\nSize: 31GB\nCredits: Files: dunaevnick; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 33285996544
@@ -2895,7 +2947,7 @@
       ],
       "version": "v01.000.018",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA27360_d11b5e89e9733352c37978c8e0c40e5f6838c87060ad84168bc2b9ddbacda027/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0314/5217c783f0198d437a0e0e97848d0a3a61c4af84262fd5f2.png?w=260",
       "description": "Builds: DLC, Fpkg\nTags: PPSA27360, v01.000.018, USA, 4.xx BackPort\nSize: 182GB\nCredits: Files: DUPLEX; Backport: ManwonHp\nHow to play: Must be installed the DLC Unlock for play, mandatory. FPKG atm is only working up to 11.60, use exFAT if you are above. Only FPKG: Some langs like Spanish, Polish etc need to be unlocked by press Square button and yes on FC 26 Audio Settings.. By pressing Yes, will simulate the package download and then will be unlocked.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 195421011968
@@ -3115,7 +3167,7 @@
       ],
       "version": "v01.030",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA17905_c72b96acb23b525856b138e191206f108ed85f4a4b825d1b1b945e5e8349a746/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2915/kifM3lnke5lExwRd96mIDojQ.png?w=260",
       "description": "Builds: Standard 7.xx, 4.xx BackPort, Fpkg Backport\nTags: PPSA17905, v01.030, USA to EUR Langs, DLCs Merged, Standard (7.xx) + 4.xx BackPork\nSize: 191GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: b0mba1992\nHow to play: Burning Shores EUR DLC Included. FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 205084688384
@@ -3195,7 +3247,7 @@
       ],
       "version": "v01.200",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02530_510726de2d2770eb9a1b4bac6a7deef47d3feb29bcedf6d8ca250a34f2f8a42a/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2605/3d57b6ae9b22a4982f0272ef1c716ebbfee59b7ea1fe60af.png?w=260",
       "description": "Builds: Standard 5.xx, 4.xx BackPort, DLC, Fpkg Backport\nTags: PPSA02530, v01.200, USA, Standard (5.xx) + 4.xx BackPort\nSize: 85GB\nCredits: Files: SiESPTA & DUPLEX; Backport: BestPig & rocknard & ManwonHp; DLC: SiESPTA & DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 91268055040
@@ -3259,7 +3311,7 @@
       ],
       "version": "v01.512",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA26344_64b41e265a7c7f2ed67c0f7fe285ebbc7674c657a18fdfa46fac9c81073c4e37/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2116/050bb77f895515e0b0e906b0b9d75b6174b37eece097b462.png?w=260",
       "description": "Builds: DLC, Fpkg\nTags: PPSA26344, v01.512, USA, 4.xx BackPort\nSize: 188GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DUPLEX\nHow to play: Loading Splash Screen Fix is already included. Pro Features Fix included. FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 201863462912
@@ -3363,7 +3415,7 @@
       ],
       "version": "v01.200.007",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02572_25d7e68bc899aa7555fcb8efc5129831a75001aa7c56790bfb74e9d3099b971c/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2420/c3daf3037feb797d9e71b81618e3b5ff3ff1f9609db5a4a2.png?w=260",
       "description": "Builds: Fpkg Backport\nTags: PPSA02572, v01.200.007, EUR, DLCs Merged, 4.xx BackPork\nSize: 137GB\nCredits: Files: SiESPTA; Backport: BestPig; DLC: Pkykzhack\nHow to play: Only exFAT: Ignore Trophy problem popup at the beginning, saves work fine and can be loaded. FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 147102629888
@@ -3427,7 +3479,7 @@
       ],
       "version": "v01.008",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA14251_4d87dc8355baccd31e232d414774db308c9b6344b7e88e8ea253ee7f58c92325/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2416/06f677b905f8794395b855a0de3e9fcb42b567e78c50aaed.png?w=260",
       "description": "Builds: DLC, Fpkg\nTags: PPSA14251, v01.008, USA, 4.xx BackPort\nSize: 70GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 75161927680
@@ -3491,7 +3543,7 @@
       ],
       "version": "v01.019.076",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA20397_ab966e5f7d833e56a3490f2143f4355870270405c5d816879d251f06d4dd6eb6/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2422/3b21599d6dea076afc4e1e4a80fcca3fc5c19c57a196e619.png?w=260",
       "description": "Builds: DLC, Fpkg\nTags: PPSA20397, v01.019.076, EUR, 4.xx BackPort\nSize: 294GB\nCredits: Files: DUPLEX & VanBuuren; Backport: DecKerr97; DLC: DUPLEX & VanBuuren\nHow to play: Audio 3D must be OFF or will crash on initial Settings. FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 315680096256
@@ -3719,7 +3771,7 @@
       ],
       "version": "v01.000.028",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02633_91f19ff1c8d09e165b92445c90c3a4a624f3dc7eb19530e2ff3e606a566a7876/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1407/XFU0aPBvtm3W2od1ZvhByAOv.png?w=260",
       "description": "Builds: Fpkg Backport\nTags: PPSA02633, v01.000.028, EUR, DLCs Merged, 4.xx BackPort\nSize: 200GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 214748364800
@@ -3751,7 +3803,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03061_0861b7587c07f5d616c5cfb49c460b71dc2f1c740bf835150359031c38ec6c36/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202103/2319/g3F1T7uHqK7YUZu6AxIpkSkg.png?w=260",
       "description": "Tags: PPSA03061, v01.000, USA, 2.xx and beyond\nSize: 1GB\nCredits: Files: BedroZen & SPX",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 1073741824
@@ -3879,7 +3931,7 @@
       ],
       "version": "v01.005",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA04677_65b7304bb5281fa90c3ef266484a8176a98611df5f9bc105fde10d241fda7f09/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202112/0804/2UTMvRFqn4SdaoxhtQnxchcn.png?w=260",
       "description": "Tags: PPSA04677, v01.005, EUR, 2.xx and beyond\nSize: 56GB\nCredits: Files: DUPLEX & Dorukhan\nHow to play: Stuttering problem has been fixed.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 60129542144
@@ -4007,7 +4059,7 @@
       ],
       "version": "v01.003",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03306_929affc5113d212bc4a34ab6cffe7f3b9efc8c1ddd7340a2c6d724649e3987ac/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202204/2509/Jn3Oh2umqx3DHVgkEDumwA1W.png?w=260",
       "description": "Tags: PPSA03306, v01.003, EUR, 4.xx and beyond\nSize: 5GB\nCredits: Files: dunaevnick",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 5368709120
@@ -4071,7 +4123,7 @@
       ],
       "version": "v01.004",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA19446_95aef92e5ddbd2d76c6999adf1290283042016579f9c14887f9a71b2abadbb4a/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202409/0411/d3b057b3122b6c300cbe5fc63935c6bf2c5b569ceba955f6.png?w=260",
       "description": "Tags: PPSA19446, v01.004, EUR, 4.xx BackPort\nSize: 7GB\nCredits: Files: dunaevnick; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 7516192768
@@ -4167,7 +4219,7 @@
       ],
       "version": "v01.022",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03309_6d3ab487a348a4a39e0b7756648842f021964e3f99560164515c1ebdf9eb4388/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1411/SkZZUr3taWJ7pb0LGpm7OaMf.png?w=260",
       "description": "Tags: PPSA03309, v01.022, EUR, DLCs Merged, 4.xx BackPort\nSize: 57GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 61203283968
@@ -4315,7 +4367,7 @@
       ],
       "version": "v01.000.002",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28795_ce8716591b14c72aad11526a153c569d620e46843ad8db97c8f54fc92daeecdc/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/3015/b87b863deb4800cd68a5c927d6aa94c8cbda8b40ef56a51b.png?w=260",
       "description": "Tags: PPSA28795, v01.000.002, USA, DLCs Merged, 4.xx BackPort\nSize: 8GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 8589934592
@@ -4347,7 +4399,7 @@
       ],
       "version": "v16.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA05683_ceea6781713c6df644ba7713ecf69730e3f78427fe4c690200516050c070ccdf/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0614/49Eh0M6FzAQGhl9hlDzftGcH.png?w=260",
       "description": "Tags: PPSA05683, v16.001, USA, DLCs Merged, 3.xx and beyond\nSize: 18GB\nCredits: Files: BedroZen & Dorukhan & SuperPSX; DLC: Pippo",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 19327352832
@@ -4379,7 +4431,7 @@
       ],
       "version": "v01.002",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01900_e19dca66971aed09457c0b0e15476481ad449d892de481b3afced3987c3f2f2a/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1015/w9c5S2rsIEx9oOCRUvQwF5mW.png?w=260",
       "description": "Tags: PPSA01900, v01.002, EUR, DLCs Merged, 2.xx and beyond\nSize: 14GB\nCredits: Files: BedroZen & Dorukhan & SuperPSX; DLC: Pippo\nHow to play: Rangers Life has been unlocked.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 15032385536
@@ -4443,7 +4495,7 @@
       ],
       "version": "v01.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA05347_8004d6f7db1fad41f1a3b506f36dfd1633227d55747f6f8d4ff7fd70ae86bce2/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2908/14TpY95J6Q09zvv4StFdsQAK.png?w=260",
       "description": "Tags: PPSA05347, v01.001, USA, 3.xx and beyond\nSize: 388MB\nCredits: Files: BedroZen",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 406847488
@@ -4615,7 +4667,7 @@
       ],
       "version": "v01.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03973_446c4d9f042badfe1b7fdb5dc4b0c19a7fbb3523769a4e91a7f12b9d2dd0e56e/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/2410/kbZRxsh3G0Zjtp9pyq228QFH.png?w=260",
       "description": "Tags: PPSA03973, v01.001, EUR, 2.xx and beyond\nSize: 2GB\nCredits: Files: DUPLEX & SuperPSX",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 2147483648
@@ -4647,7 +4699,7 @@
       ],
       "version": "v01.000.400",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA19943_6db0abcc1dbac3fe8cf402a75d9a5b5e863151aadc71b764a9ebc727c932941e/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2912/2fa8dd3ca585d5175fc0e3b9d0b25838abd9023eeb3e25c2.png?w=260",
       "description": "Tags: PPSA19943, v01.000.400, EUR, 4.xx BackPort\nSize: 10GB\nCredits: Files: DecKerr97 & dunaevnick; Backport: DecKerr97 & dunaevnick",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 10737418240
@@ -4867,7 +4919,7 @@
       ],
       "version": "v01.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA07326_d30a682fb33c47de99e3d2d7ca0435be85882ffad1ab597cb22fd7eba1b1d514/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA06649_00/1/i_0642e2f85397ef72243a315d8846a7c380a389c5414601ca6ab840c6641c43a7/i/icon0.png?w=260",
       "description": "Tags: PPSA07326, v01.001, USA, 4.xx BackPort\nSize: 1GB\nCredits: Files: Amiibohound; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 1073741824
@@ -4963,7 +5015,7 @@
       ],
       "version": "v01.004",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA08766_35142e50f66886bbf8bf34dda0a27ef39e7cc198eb6ca82306db2a11c1c9766f/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0320/edce2d3e20cb874ad82bbf54f00c9e2a3adf7f5bf77665ca.png?w=260",
       "description": "Tags: PPSA08766, v01.004, EUR, 4.xx BackPort\nSize: 2GB\nCredits: Files: DUPLEX & VanBuuren; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 2147483648
@@ -5091,7 +5143,7 @@
       ],
       "version": "v01.009",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02449_eed681ff4fccb34df372872bd760c59d60e170b20cd04a5efac5cf1606778f4d/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2510/2u5hSE5sDmZzJfFOOiHvEaMD.png?w=260",
       "description": "Tags: PPSA02449, v01.009, EUR, DLCs Merged, 2.xx and beyond\nSize: 31GB\nCredits: Files: DUPLEX & SuperPSX & Dorukhan; DLC: Pippo",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 33285996544
@@ -5475,7 +5527,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02817_2b66813c172c5de51bd3be92e5a163f076cf8f6d908bf4049bc2938709f2a634/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202105/2422/kXjFnqkb0krofcjusyLyMn07.png?w=260",
       "description": "Tags: PPSA02817, v01.000, USA, 2.xx and beyond\nSize: 1GB\nCredits: Files: High-Speed007",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 1073741824
@@ -5507,7 +5559,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03117_7fdaa6fb7e034488746bb101a66a0466351bbd862e3c6fad711d8ec237eeb0dd/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/2609/z2FtbvTqZrc3pcfeP1vnnqPo.png?w=260",
       "description": "Tags: PPSA03117, v01.000, USA, 2.xx and beyond\nSize: 384MB\nCredits: Files: High-Speed007",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 402653184
@@ -5539,7 +5591,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03174_093db7cb57dd0f81b4064f8ff93c5782107a200d80cdeec33606ddd936f8ac12/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/2014/Wcx47tADShmGoKQmikOY2k9i.png?w=260",
       "description": "Tags: PPSA03174, v01.000, USA, 3.xx and beyond\nSize: 21GB\nCredits: Files: High-Speed007",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 22548578304
@@ -5795,7 +5847,7 @@
       ],
       "version": "v01.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA05916_734f18aeb57bd79099113fd62aadb4812474f01173e2a05b20f11d0d160d2d49/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2619/Cgrw2Scn2ODT7QOHWV1ny5RY.png?w=260",
       "description": "Tags: PPSA05916, v01.001, EUR, 3.xx and beyond\nSize: 6GB\nCredits: Files: Tsuramatsu & amRAM1312",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 6442450944
@@ -5955,7 +6007,7 @@
       ],
       "version": "v01.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA05975_64b1fe8855022c71c1cdb97605e8ed17a9c5a79eec3648728dbc0c7dc2e94ec8/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2619/oX3frtM5hBINfWAuVyCTikxt.png?w=260",
       "description": "Tags: PPSA05975, v01.001, EUR, 3.xx and beyond\nSize: 13GB\nCredits: Files: Tsuramatsu & amRAM1312",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 13958643712
@@ -6051,7 +6103,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA04703_1b791212115bafabd4e10db3a3493e1604c3dc0dc0389bfca2a3fc6d02637794/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202111/0222/xUFP0XAsFRMtiLtSrPjy0y7D.png?w=260",
       "description": "Tags: PPSA04703, v01.000, USA, 3.xx and beyond\nSize: 3GB\nCredits: Files: High-Speed007",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 3221225472
@@ -6083,7 +6135,7 @@
       ],
       "version": "v01.000.009",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02891_5208d7a9aaaa715bc539b7cff99be0f726e7d02bb26d2e504aa3451341cd5279/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/1209/76507fad829e34afea99457ce7c37f3edeccbe09877f0485.png?w=260",
       "description": "Tags: PPSA02891, v01.000.009, USA, 4.xx BackPort\nSize: 6GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 6442450944
@@ -6115,7 +6167,7 @@
       ],
       "version": "v01.007.225",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06147_192eda53ba90ead0a2fec8f4525b63cabe31371bcd770cd463b8c61f4c39b8b7/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2916/PYBd6ybdJLLcDJsd6F9dElnW.png?w=260",
       "description": "Tags: PPSA06147, v01.007.225, USA, DLCs Merged, 4.xx and beyond\nSize: 2GB\nCredits: Files: High-Speed007; DLC: Pippo",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 2147483648
@@ -6179,7 +6231,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03999_2caf34aa07103d016ce8f72fe500c391955caf883dede874878b0cbdb817976a/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0511/7c79677f1f6f295fb1040a974d811c0740c9b4b84f32ccbb.png?w=260",
       "description": "Tags: PPSA03999, v01.000, USA, 2.xx and beyond\nSize: 1GB\nCredits: Files: High-Speed007",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 1073741824
@@ -6211,7 +6263,7 @@
       ],
       "version": "v01.003",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA07029_0a7c82b45694c0b3ca7c5659202cececdf0ae888fb95b5696c94a8c677f87929/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/0810/AdlPmn8vpNDwbdzAn2dRq3Mh.png?w=260",
       "description": "Tags: PPSA07029, v01.003, USA, 4.xx and beyond\nSize: 822MB\nCredits: Files: High-Speed007",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 861929472
@@ -6451,7 +6503,7 @@
       ],
       "version": "v01.004",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA10737_769961fba87bc305fd82fa9d144b69a2f983b6ca2aef08f0e638946a5a7fb58a/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA05952_00/4/i_180e40677dc525aece20a7825a4af48464ec3fe0feffcc0f6d23d708af4975fa/i/icon0.png?w=260",
       "description": "Tags: PPSA10737, v01.004, EUR, DLCs Merged, 4.xx BackPort\nSize: 10GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 10737418240
@@ -6611,7 +6663,7 @@
       ],
       "version": "v01.000.046",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA14453_0715ff7fba84d4be4d14bfd0e2c425cc701e68553e04627e35c62de40e47ba42/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1913/20a4ade62103d7f48594914602e155324821c309d63274d9.png?w=260",
       "description": "Tags: PPSA14453, v01.000.046, EUR, DLCs Merged, 4.xx BackPort\nSize: 199GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 213674622976
@@ -6707,7 +6759,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA05018_e50891e72e0f7508b565a02d549e55ed624c94af02d0d9188e984e8b16e263ef/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/0218/rcpzUnvEiCJ64XxVCumhQoNH.png?w=260",
       "description": "Tags: PPSA05018, v01.000, USA, 3.xx and beyond\nSize: 433MB\nCredits: Files: Amiibohound",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 454033408
@@ -6803,7 +6855,7 @@
       ],
       "version": "v01.000.002",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03748_8b564cf64e504630805a31ce03757acbfb1757fcaf6fa63d1b62bebae40d0834/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA11258_00/1/i_4ff7f52afc428c128b4a4886eb16c7ef3ba266c2e15cfea4111edba41f121784/i/icon0.png?w=260",
       "description": "Tags: PPSA03748, v01.000.002, USA, DLCs Merged, 4.xx and beyond\nSize: 4GB\nCredits: Files: Amiibohound; DLC: Pippo",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 4294967296
@@ -6875,7 +6927,7 @@
       ],
       "version": "v01.005",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA19406_03d8c885954c2ea8562171b75ad13e964f2c5e1d4e82524381fd7f16214366c2/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0803/e9b205a3007e3dab6c7e35d9a18a580393450c7abf15d048.png?w=260",
       "description": "Builds: DLC\nTags: PPSA19406, v01.005, ASIA, 4.xx BackPort\nSize: 23GB\nCredits: Files: SiESPTA; Backport: DecKerr97; DLC: Pkykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 24696061952
@@ -6959,7 +7011,7 @@
       ],
       "version": "v01.003",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA10249_facad95363182f1306b7105d4e0be8dc8a528db6716b3cbc8d9e7d7372f20ba8/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1711/19e6a1c5304b7a4fa3c03eaa726cad6c336b124359cf590a.png?w=260",
       "description": "Builds: Standard 7.xx, 4.xx BackPort\nTags: PPSA10249, v01.003, USA, Standard (7.xx) + 4.xx BackPort\nSize: 14GB\nCredits: Files: Amiibohound; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 15032385536
@@ -7023,7 +7075,7 @@
       ],
       "version": "v01.010",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA09790_61b7293018a492881bb888754a635a3f9379543afdeec9f306fd1d5bbd5ce93d/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08992_00/2/i_f13f6b1fd57e69ddecc9fe236a32c2ebcbf9464e896d66ad62ed3dfadc6f5054/i/icon0.png?w=260",
       "description": "Builds: Standard 8.xx, 4.xx BackPort, DLC\nTags: PPSA09790, v01.010, USA to EUR Langs, Standard (8.xx) + 4.xx BackPort\nSize: 43GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: romhunter",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 46170898432
@@ -7087,7 +7139,7 @@
       ],
       "version": "v02.120",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA04029_65853adcba56761d5345ee3e86fc2fb075a27e7a538453803fca7b9479bd6450/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/1517/UyPJCxbE3EoeLtUxjoFBnsD4.png?w=260",
       "description": "Tags: PPSA04029, v02.120, EUR, DLCs Merged, 4.xx and beyond\nSize: 242GB\nCredits: Files: DUPLEX; DLC: DUPLEX",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 259845521408
@@ -7183,7 +7235,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA07370_35067f3617175c7cfa550ad7b138f0320d0c357193154f580f0ef193fd7b1c12/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/0516/f7oW1UcdrCvZZ3Vfb1DZySY8.png?w=260",
       "description": "Tags: PPSA07370, v01.000, EUR, 4.xx and beyond\nSize: 7GB\nCredits: Files: SiESPta",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 7516192768
@@ -7215,7 +7267,7 @@
       ],
       "version": "v01.160",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02259_1514c440219cf6fc30f1bda1684c45bb6d2dc0e13d93965e08b499629bef8702/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2211/n2Xw7WMwFZcQEqjSHzxOGwYc.png?w=260",
       "description": "Tags: PPSA02259, v01.160, EUR, 1.xx and beyond\nSize: 24GB\nCredits: Files: DUPLEX",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 25769803776
@@ -7415,7 +7467,7 @@
       ],
       "version": "v01.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA22102_dde25871cc356cbca6548fb7aae1f9840ddb1c127a9be710c3123aa0a61f3a69/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1521/34cde2ac9bcecdbc02167fd024ab2dd6c220c419984a5350.png?w=260",
       "description": "Tags: PPSA22102, v01.001, USA, 4.xx BackPort\nSize: 8GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 8589934592
@@ -7651,7 +7703,7 @@
       ],
       "version": "v02.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03638_f439d138bf8fecd13fee58ce5d34a733ac33609b4d00c23cb569a43309f02412/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202107/2806/1Y84qr07QXhNUMCoQjG4Bc9O.png?w=260",
       "description": "Tags: PPSA03638, v02.000, EUR, 2.xx and beyond\nSize: 4GB\nCredits: Files: DUPLEX",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 4294967296
@@ -7715,7 +7767,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA09426_9fe8234506b040ecc0e3070058e5b40b569b8d5bbc06afc62e4eeac2d6e531da/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2814/0UJhKmBamV5MzeIfAZQSYK4H.png?w=260",
       "description": "Tags: PPSA09426, v01.000, EUR, 4.xx BackPort\nSize: 11GB\nCredits: Files: DUPLEX; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 11811160064
@@ -7767,7 +7819,7 @@
       ],
       "version": "v01.003.003",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA32236_b780a26baa095fe267ca3279d8692d61e8e1cdc670a039dfa4c4084423829b46/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2405/f68470f70ea45ab399e08556e2b654592154dbb2c70e43e1.png?w=260",
       "description": "Builds: Standard 5.xx, 4.xx BackPort\nTags: PPSA32236, v01.003.003, JPN, Standard (5.xx) + 4.xx BackPork\nSize: 32GB\nCredits: Files: High-Speed007; Backport: BestPig & Fubc\nHow to play: BP 4 Ver only on 4.xx FW, Standard Ver for 5.xx to 12.xx instead.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 34359738368
@@ -8167,7 +8219,7 @@
       ],
       "version": "v01.033",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA07836_1395230c37726200125b188cb3a460d1b64f064796d78687aaffa7575bc56db3/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2615/fb9fe7JhjCL5vOsWY3wpSOm8.png?w=260",
       "description": "Builds: Standard 7.xx, 4.xx BackPort\nTags: PPSA07836, v01.033, EUR / USA, DLCs Merged, Standard (7.xx) + 4.xx BackPort\nSize: 122GB\nCredits: Files: Psykzhack & DUPLEX; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 130996502528
@@ -8211,7 +8263,7 @@
       ],
       "version": "v01.008.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01467_65184b2f79850da84b1e0f7112b2d4eda08c413a4b48227586cff0aa58beab01/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0402/C784xeOFo2wViCf4m5bxgoeH.png?w=260",
       "description": "Builds: Standard 5.xx, 4.xx BackPort\nTags: PPSA01467, v01.008.001, USA to EUR Langs, Standard (5.xx) + 4.xx BackPort\nSize: 121GB\nCredits: Files: High-Speed007; Backport: DecKerr97\nHow to play: If no Speech in-game change your console language into English, French etc.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 129922760704
@@ -8243,7 +8295,7 @@
       ],
       "version": "v01.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA18089_b388e9ebe6ee7b69b481f988c0b27979f20311fcd7c7ff3b4a2ce53c41cba9cb/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0809/c5eb07731ac0850e1eacba783fa764bad84aa0d7de3de4b7.png?w=260",
       "description": "Tags: PPSA18089, v01.001, USA, 4.xx BackPort\nSize: 5GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 5368709120
@@ -8295,7 +8347,7 @@
       ],
       "version": "v02.002",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA15319_40da4ed45ccf0ba5481c60c0ccc9d6c1e63ec515802ee038ee73d104e114d778/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2420/db8a423fc8f3b49e64a7a5e4e3437f3dae079935de39e1d6.png?w=260",
       "description": "Builds: 7.xx BackPort, 4.xx BackPort\nTags: PPSA15319, v02.002, USA, 7.xx BackPort + 4.xx BackPort\nSize: 18GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 19327352832
@@ -8327,7 +8379,7 @@
       ],
       "version": "v01.002",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28311_02029569d9e378ddefd0846f39398e8f4926bfa9a9d99b07a3c4a166eaa18dce/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2508/51a11526b69c9b069c11d42d750b340c4b9e9f17bd303205.png?w=260",
       "description": "Tags: PPSA28311, v01.002, EUR, 4.xx BackPort\nSize: 3GB\nCredits: Files: DUPLEX; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 3221225472
@@ -8359,7 +8411,7 @@
       ],
       "version": "v01.100",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA08408_4ce818fbd0922df5fdbf113f556fbf591494d0ad01c73dbf20a5ccf31963afe6/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1723/42227ad64a25ecafe2e498dd1c282ebb48ed24d8d75b466a.png?w=260",
       "description": "Tags: PPSA08408, v01.100, USA, 4.xx BackPort\nSize: 6GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 6442450944
@@ -8487,7 +8539,7 @@
       ],
       "version": "v01.003.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA07191_63ef702c23224deba876dc41dc5034b783c1435d9b554957a46136203cdc5895/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202303/2214/619cb9f567dd1ae02d269349a32b4ffca9783bad750bfe37.png?w=260",
       "description": "Tags: PPSA07191, v01.003.001, EUR, 4.xx BackPork\nSize: 19GB\nCredits: Files: DUPLEX & VanBuuren; Backport: BestPig",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 20401094656
@@ -8699,7 +8751,7 @@
       ],
       "version": "v01.002.004",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA15304_01ba1d67b32a802f97ebc570e2c00d8efb6f4c1abe3f96cc9896ee092744da03/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0513/d35b305652ee922a72b4020bd5d6ef36675cf526dd4945d1.png?w=260",
       "description": "Tags: PPSA15304, v01.002.004, USA, DLCs Merged, 4.xx BackPort\nSize: 225GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pippo",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 241591910400
@@ -8763,7 +8815,7 @@
       ],
       "version": "v01.006",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28465_8b26c6c3114f3bd90129a0d01b774457d545e001be993d40e05c151f5523d558/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2002/3bad04769c5906e5ef98e0766ef5657ed486d52560fa285d.png?w=260",
       "description": "Tags: PPSA28465, v01.006, USA, 4.xx BackPort\nSize: 22GB\nCredits: Files: DLPS Team; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 23622320128
@@ -8803,7 +8855,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA04433_c3bc2989db83bd0b665713639773ec07c6bc241f18f91c54351744981c3e47b9/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202111/0909/BCSiHbUcNnMpqK1kWhRhMvr6.png?w=260",
       "description": "Builds: DLC\nTags: PPSA04433, v01.000, USA, 4.xx and beyond\nSize: 35GB\nCredits: Files: DUPLEX; DLC: DUPLEX",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 37580963840
@@ -8843,7 +8895,7 @@
       ],
       "version": "v01.005",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA08560_b89269fdec7be8053a34a870ff9237d42e3f405950c852eb967eb98934546907/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2918/90ad70c1ef581f93454184750cba9e0ca37bc7e30a4d1f55.png?w=260",
       "description": "Builds: DLC\nTags: PPSA08560, v01.005, USA, 4.xx BackPort\nSize: 151GB\nCredits: Files: DUPLEX & SiESPTA; Backport: Kira; DLC: DUPLEX\nHow to play: Installing DLCs (Unlocker) is mandatory.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 162135015424
@@ -8927,7 +8979,7 @@
       ],
       "version": "v01.004",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03952_6ff25459efd9aa15b118077fa287a3ed8b52beb0b86a95ae28c7b341339c9d49/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0206/WmriZBRlSeXWEEDLJOWW7MdW.png?w=260",
       "description": "Tags: PPSA03952, v01.004, USA, DLCs Merged, 3.xx and beyond\nSize: 33GB\nCredits: Files: High-Speed007",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 35433480192
@@ -8963,7 +9015,7 @@
       ],
       "version": "v01.003",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA04288_92d7b498ec253ebe7bb860408f61a2c34c574f5b51167560ba7a280cde6dbf8d/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0204/uDFoGvnMTTCLVmTwjj0njGWC.png?w=260",
       "description": "Tags: PPSA04288, v01.003, USA, DLCs Merged, 3.xx and beyond\nSize: 35GB\nCredits: Files: High-Speed007",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 37580963840
@@ -9019,7 +9071,7 @@
       ],
       "version": "v01.003",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28835_3635fc1c61b637d761a7b63a91922ee9bd299ba92a2f0d12edb52b7b83438dc4/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202509/0808/a9bccabff2827e97d5797a2760b5f8a9013ffd62ed4eaf84.png?w=260",
       "description": "Builds: Standard, 5.xx BackPort, DLC\nTags: PPSA28835, v01.003, EUR, 5.xx BackPork + 4.xx BackPort\nSize: 33GB\nCredits: Files: DUPLEX & SiESPta; Backport: BestPig & Fubc & DecKerr97; DLC: DUPLEX & SiESPta\nHow to play: BP 4.xx Ver is only for 4.xx meanwhile BP 5.xx Ver is for 5.xx to 12.xx+.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 35433480192
@@ -9355,7 +9407,7 @@
       ],
       "version": "v01.006",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA05060_9f16e7be6ada6999f8c5d82fda92462ea52c3ac63cebff6085c89e79f67ee3d1/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2712/YQbnDNnMNAkVx5CFdOvNyaXH.png?w=260",
       "description": "Builds: DLC\nTags: PPSA05060, v01.006, USA, 4.xx BackPort\nSize: 77GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 82678120448
@@ -9407,7 +9459,7 @@
       ],
       "version": "v01.012",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA17597_a7d5699118c85998c163ec49565b0141e9c4a96946f3f6dce552a66afcc154aa/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2308/1efd5c197776d8dd5d5c79261559cd5947b0d52fc23e1174.png?w=260",
       "description": "Builds: Standard 9.xx, 4.xx BackPort\nTags: PPSA17597, v01.012, USA, DLCs Merged, Standard (9.xx) + 4.xx BackPort\nSize: 37GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 39728447488
@@ -9499,7 +9551,7 @@
       ],
       "version": "v01.055",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01649_a934fe53a0c9dfba2157e49bb7683c089340dd101c60383ac80564d644f66ced/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2815/e7c940f1c3b9c2725e08b10979926ed6b71482f6f42a65ba.png?w=260",
       "description": "Builds: Standard 9.xx, 4.xx BackPort\nTags: PPSA01649, v01.055, USA, DLCs Merged, Standard (9.xx) + 4.xx BackPort\nSize: 256GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: High-Speed007\nHow to play: There is issue with campaign not launch. How to fix first: make sure turn off internet in network settings then launch game and choose offline mode and go to campaign MW3. You need keep press X few times to launch Campaign.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 274877906944
@@ -9615,7 +9667,7 @@
       ],
       "version": "v01.000.009",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06406_9619816715fbe3ce517f751eb67a4fb0bee9854468c0909162f65496ee9c9a4a/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1904/aFCzEAyHg74OkFWyF0VNCFGA.png?w=260",
       "description": "Tags: PPSA06406, v01.000.009, EUR, 4.xx BackPort\nSize: 4GB\nCredits: Files: DecKerr97; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 4294967296
@@ -9679,7 +9731,7 @@
       ],
       "version": "v01.040.003",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03639_c4ea1c7428c51c2901fa79479771001935cb4db99d1f2c310dac479edc253205/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2200/c5d00df8504d3b50f485fecfc9ff87b2e4137ac8a9031de0.png?w=260",
       "description": "Tags: PPSA03639, v01.040.003, USA to EUR Langs, DLCs Merged, 4.xx BackPort\nSize: 77GB\nCredits: Files: DLPS Team; Backport: DecKerr97; DLC: Pippo",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 82678120448
@@ -9743,7 +9795,7 @@
       ],
       "version": "v01.014",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA31333_67cd9d457f12d7bff409f8f05d81f45aa0c890b77d9d4be58098345860cc1336/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1905/bf0f377e2aa4f4f349b29e98a0dd87ba1d95fb7fa698c9f3.png?w=260",
       "description": "Tags: PPSA31333, v01.014, JPN, 4.xx BackPort\nSize: 36GB\nCredits: Files: DUPLEX; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 38654705664
@@ -9775,7 +9827,7 @@
       ],
       "version": "v01.012",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA31334_2176d17c18c630c1c7f491659b63130ce78979d21fd85bcb44dfaef07f0f1fb4/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/0800/b180750941d664ac7410bf79b65f4acecbae2ebe02f95807.png?w=260",
       "description": "Tags: PPSA31334, v01.012, JPN, 4.xx BackPort\nSize: 21GB\nCredits: Files: DUPLEX; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 22548578304
@@ -9867,7 +9919,7 @@
       ],
       "version": "v01.004",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA17169_d3f0a2ab131ee2ae5c97da30957bdc8eef2b92b9b2c09e1e7aa95c0926bcecea/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0615/6c0f8d23c70f7a4c925958886f53181ba43ca5145d471209.png?w=260",
       "description": "Tags: PPSA17169, v01.004, EUR, DLCs Merged, 4.xx BackPort\nSize: 36GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 38654705664
@@ -9951,7 +10003,7 @@
       ],
       "version": "v01.010",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03683_3f17b8a94b9287727cb43ec89da0a4e963e4c09a415d5f4f82965859ec9ce9bc/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2412/gM0ch5FMupUfDeVJKwrQ6stX.png?w=260",
       "description": "Builds: DLC\nTags: PPSA03683, v01.010, USA, 4.xx BackPort\nSize: 47GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 50465865728
@@ -10047,7 +10099,7 @@
       ],
       "version": "v01.006",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA10053_dd67feb4c2df3b063cf16da8ce97d2fc8adb020b3878fc3bd8d5dabf848a583b/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0615/c8a66a099314ba3d504d226c570e100cd7c6eaf8e936fbdf.png?w=260",
       "description": "Tags: PPSA10053, v01.006, EUR, DLCs Merged, 4.xx BackPort\nSize: 112GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 120259084288
@@ -10143,7 +10195,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA27625_32588b4bb25d0ee037383bc852e095d768f0337d8986630c8cfd048ff88fd8ea/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1607/efbaeb93a2aa9ea6313b02addf939b982c034e21a400930f.png?w=260",
       "description": "Tags: PPSA27625, v01.000, JPN, DLCs Merged, 4.xx BackPort\nSize: 21GB\nCredits: Files: DLPS Team; Backport: DecKerr97; DLC: Pippo",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 22548578304
@@ -10207,7 +10259,7 @@
       ],
       "version": "v01.034",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06464_0b721cad65dc1e55f4cdd221b20309b93baddd76c29c81c44ab590486441e1c7/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/1518/ea3296f59652aea59db01dd6668c93f1dd23102f84d18807.png?w=260",
       "description": "Tags: PPSA06464, v01.034, USA, DLCs Merged, 4.xx BackPort\nSize: 3GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 3221225472
@@ -10335,7 +10387,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA10240_7a3794cb85a84a45b25506dba62cb56ffbdfa60be060153711af37f0c28976d3/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1512/GViTkEzaz9aF9xfgrl7REZHB.png?w=260",
       "description": "Tags: PPSA10240, v01.000, EUR, 4.xx BackPort\nSize: 292MB\nCredits: Files: DLPS Team; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 306184192
@@ -10387,7 +10439,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA32557_cb5b3b12f6cea0cfc11c8adc0bbcf7f087092df43d20e5418bbd6b0133a5d598/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/2015/bb1ac61cfe78e0f00e4ee4b3112050f93d6978a150c59cda.png?w=260",
       "description": "Builds: Standard 5.xx, 4.xx BackPort\nTags: PPSA32557, v01.000, EUR, Standard (5.xx) + 4.xx BackPort\nSize: 46GB\nCredits: Files: DLPS Team; Backport: DecKerr97\nHow to play: Standard Ver only for 5.xx and Higher.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 49392123904
@@ -10515,7 +10567,7 @@
       ],
       "version": "v01.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA22946_6013aca0c489d4f79d678d6b2b89fc5e4eaf55bef2079b5b41a87b083438ac57/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2817/3ed20bb3b43ca71d45872ed6a5c2c3ca52ff9123814cafd1.png?w=260",
       "description": "Tags: PPSA22946, v01.001, EUR, 4.xx BackPort\nSize: 12GB\nCredits: Files: DLPS Team; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 12884901888
@@ -10579,7 +10631,7 @@
       ],
       "version": "v01.000.006",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01619_3baae32a4e8e2ede33f81e30ca10b1a039c9452e18ca1927521f3d72ab5bbc53/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/0123/bF1qmEL5RM6aMfL0oLcxRe8B.png?w=260",
       "description": "Tags: PPSA01619, v01.000.006, EUR, DLCs Merged, 4.xx and beyond\nSize: 116GB\nCredits: Files: DUPLEX & Dorukhan; DLC: romhunter",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 124554051584
@@ -10739,7 +10791,7 @@
       ],
       "version": "v01.004",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06359_10992050b4cd24f66017283b87de8d99a9ef8e026759dfbb59817003f76c5cda/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202204/2915/4IvqoEhIsQp8ji1fcB8Vjr7m.png?w=260",
       "description": "Tags: PPSA06359, v01.004, EUR, 4.xx BackPort\nSize: 1GB\nCredits: Files: Uchiha Dare Nial & High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 1073741824
@@ -10817,7 +10869,7 @@
       "sizeBytes": 34359738368
     },
     {
-      "id": 5078132,
+      "id": 5092565,
       "catalogSlug": "",
       "titleId": "PPSA22711",
       "title": "Ed 0 Zombie Uprising",
@@ -10973,7 +11025,7 @@
       ],
       "version": "v01.029",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA22696_44790012f959ebbc80821fc3dc08fdd983957ea56dbace4a7deea1ced041ebcc/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1623/068123d291265a61f85713615aa2f255077fbf164186908e.png?w=260",
       "description": "Tags: PPSA22696, v01.029, EUR, DLCs Merged, 4.xx BackPort\nSize: 275GB\nCredits: Files: DecKerr97; Backport: DecKerr97; DLC: Pippo & DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 295279001600
@@ -11037,7 +11089,7 @@
       ],
       "version": "v01.004",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA07576_b2638893c641b3495e490b5f05b207763447b39503f7c2a2ebf789461690c65f/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0214/9p6Tih8h7fmBGUaVfULJNTrr.png?w=260",
       "description": "Tags: PPSA07576, v01.004, USA, 4.xx BackPort\nSize: 46GB\nCredits: Files: High-Speed007",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 49392123904
@@ -11069,7 +11121,7 @@
       ],
       "version": "v01.002",
       "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/0416/YpPh5Nt0hfFsgJGsIW7oOcPn.png?w=260",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA07372_7b1ea06c7087428a3f991c06f44ebc0e8d37c38f7999d437d9a698c17f7964a7/icon0.webp",
       "description": "Tags: PPSA07372, v01.002, EUR, 4.xx BackPort\nSize: 3GB\nCredits: Files: Uchiha Dare Nial & High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 3221225472
@@ -11197,7 +11249,7 @@
       ],
       "version": "v01.002.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA14677_e33d664ffdc9053418cba645c6ee383ee1da7fd97a2ffcf06a73deab06bf807f/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/2012/55a9a4c60aa14e0e43f073d07b4bb0cdaba82c13f21cfa22.png?w=260",
       "description": "Tags: PPSA14677, v01.002.001, USA, 4.xx BackPort\nSize: 1GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 1073741824
@@ -11341,7 +11393,7 @@
       ],
       "version": "v01.039",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06693_553fc6571634d71f3992245df5327d38bc5cb3e07c4d73c4c6a44155514a342a/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/1420/449bd276cdf2e237c35d7e76bedc1da2a532adcb65cedf69.png?w=260",
       "description": "Tags: PPSA06693, v01.039, USA, DLCs Merged, 4.xx BackPort\nSize: 177GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pippo\nHow to play: Survival Pack with all Expansions (The Awakened King, The Forgotten Kingdom and The Dark Horizon) are included.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 190052302848
@@ -11469,7 +11521,7 @@
       ],
       "version": "v01.100",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA20298_8ec27cf35e5d697a5df38eac8051beea48919fc4414bc2600651c8442fa34f97/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202412/1203/788680f2348870a8932b7beaeec5e9bbe0592c505b3a12d2.png?w=260",
       "description": "Tags: PPSA20298, v01.100, USA, 4.xx BackPort\nSize: 3GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 3221225472
@@ -11817,7 +11869,7 @@
       ],
       "version": "v01.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA26354_9136fb36b38ad2d705962f9a06645f573236db7c1cb8acfa98943ded5255c811/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2602/8260e89860fad9c18e7de9a8a5fb6c00e40f7bff3b28135b.png?w=260",
       "description": "Tags: PPSA26354, v01.001, ASIA, 4.xx BackPort\nSize: 13GB\nCredits: Files: DLPS Team; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 13958643712
@@ -12049,7 +12101,7 @@
       ],
       "version": "v01.008",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA14427_006f80b97db71335a8e7df9e0e8efdea5cb61f5cd54d3e47b50e25e8bb6ae022/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0800/49ab7c3948bf8f92f22df7a7087ac6f040153727c05431f8.png?w=260",
       "description": "Builds: DLC\nTags: PPSA14427, v01.008, USA, 4.xx BackPort\nSize: 8GB\nCredits: Files: DLPS Team; Backport: DecKerr97; DLC: Scene\nHow to play: Game Modified for make the DLCs JPN work on USA.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 8589934592
@@ -12281,7 +12333,7 @@
       ],
       "version": "v02.011",
       "category": "game",
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2015/9a6733c815205500da2c76bbd546c6b7cd8b4bb738dab7a0.png?w=260",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1119/ca8934d21edfac80b65edac214af655e31d74bd8e04842f4.png?w=260",
       "description": "Tags: PPSA08427, v02.011, USA, 4.xx BackPort\nSize: 44GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 47244640256
@@ -12345,7 +12397,7 @@
       ],
       "version": "v01.070.100",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA15246_5815e47286468ad4ec6e0ff49e90460f44b7fca229833ffda9fe3ca35442f0b3/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1509/a634acd2429a3848de5de286d078f340b37543b8b86a647b.png?w=260",
       "description": "Tags: PPSA15246, v01.070.100, USA, 4.xx BackPort\nSize: 3GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 3221225472
@@ -12377,7 +12429,7 @@
       ],
       "version": "v01.002",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA17163_e3b9995083b8e550ae2f82fc5793b19504ae52ac69c83e82ab129a8fa36e617a/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1915/3754b39302d3c193dc4240b896b040d41dbf7cdec897987a.png?w=260",
       "description": "Tags: PPSA17163, v01.002, USA, 4.xx BackPort\nSize: 743MB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 779091968
@@ -12409,7 +12461,7 @@
       ],
       "version": "v02.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA18172_878ccee9d30ba82b6513699a8f54fa5715bc79df5071ba3f6c82f9b4faad36a2/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/1816/0bf1d11e45503eee1b77e2c1e7a9d16592cfcb1b979ce43c.png?w=260",
       "description": "Tags: PPSA18172, v02.000, USA, 4.xx BackPort\nSize: 9GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 9663676416
@@ -12441,7 +12493,7 @@
       ],
       "version": "v01.012",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA16160_ee0b47c380afeac53a82b07981924cce08129dde7cd4a33452ab585b37fd97f8/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1614/8521f40590c1c69e44226f1de1ba1f94b32593fb95fabfc4.png?w=260",
       "description": "Tags: PPSA16160, v01.012, USA, 4.xx BackPort\nSize: 25GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 26843545600
@@ -12633,7 +12685,7 @@
       ],
       "version": "v01.018",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA04987_478c08d91dd884a1b30343c4d0e09abb457e0d6e7b82625002cf291ec531cbf6/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202301/1117/mOtdY7LHEsMrtMp0VvTyXeiE.png?w=260",
       "description": "Tags: PPSA04987, v01.018, USA, DLCs Merged, 4.xx BackPort\nSize: 14GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: High-Speed007",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 15032385536
@@ -12761,7 +12813,7 @@
       ],
       "version": "v01.028",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA04057_2518ef52bfa14df0f3c78638e8e37126e8fb3c1cf2fb207df69eab003e705c2a/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1023/a96db21b1937e9b8d1db108e8e2aebfcec259db727e75e6d.png?w=260",
       "description": "Tags: PPSA04057, v01.028, USA, 4.xx BackPort\nSize: 33GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 35433480192
@@ -12801,7 +12853,7 @@
       ],
       "version": "v01.006",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01390_6c03417650d756cfdedfaf46d3eb8fc2c536e26112e7c2a7f31c5e9888edc862/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/2620/9c38e4effa67e909cbd3190f680268fc56aa071601b9d292.png?w=260",
       "description": "Builds: DLC\nTags: PPSA01390, v01.006, USA, 4.xx BackPort\nSize: 168GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 180388626432
@@ -12885,7 +12937,7 @@
       ],
       "version": "v02.004.002",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02213_a51675cea7b2c3f6850601426410f08952ccbf02cb145df05dfe084380ec58b4/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/2808/vVXksFeLeVoUTUgqPM9FlcVv.png?w=260",
       "description": "Builds: DLC\nTags: PPSA02213, v02.004.002, USA, 4.xx and beyond\nSize: 115GB\nCredits: Files: High-Speed007; DLC: romhunter",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 123480309760
@@ -12917,7 +12969,7 @@
       ],
       "version": "v01.002",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA08448_c1cb64ba73762c07467f65f51504b08dc06485d36bb421167e303618af9b5806/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1609/DXxoC6B1z1tTgaKQyY9Ysn2M.png?w=260",
       "description": "Tags: PPSA08448, v01.002, EUR, 4.xx BackPort\nSize: 6GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 6442450944
@@ -13249,7 +13301,7 @@
       ],
       "version": "v01.000.011",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03098_7a9ee1528442fe554911fc1db9d5ab658737c2a0136dbbc3e7ac2951e52e19d7/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1012/V6WJkRhfNIQ3ePfAmrLSfGng.png?w=260",
       "description": "Tags: PPSA03098, v01.000.011, USA, DLCs Merged, 4.xx BackPort\nSize: 159GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pippo\nHow to play: All DLCs, included SoLA & Haus Expansions.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 170724950016
@@ -13345,7 +13397,7 @@
       ],
       "version": "v01.107",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA05849_82f116f2b33994ee85b299646964cd76f84b4abee161f566d0ed9991256312ae/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/0610/Ugt51kNqXSusZrg0Xv4Ilzr2.png?w=260",
       "description": "Tags: PPSA05849, v01.107, USA, DLCs Merged, 4.xx and beyond\nSize: 44GB\nCredits: Files: High-Speed007; DLC: Pippo",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 47244640256
@@ -13421,7 +13473,7 @@
       ],
       "version": "v01.007",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03686_5fedb5796256d97939741634fc4a193aff0bdec368adf706bc217a74b226a502/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202109/0216/I8jw0xqeSyl93fbiY4MN7SW4.png?w=260",
       "description": "Builds: DLC\nTags: PPSA03686, v01.007, USA, 4.xx BackPort\nSize: 4GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: DUPLEX",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 4294967296
@@ -13801,7 +13853,7 @@
       ],
       "version": "v01.003",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA21159_1cb9cead5aa382bb926582e1447f622a39dccf87f1db71a564d35cbce98f6fa8/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0704/e81b1e0b80b2001d8a5070c5c465cbc7246e02d1da39fe76.png?w=260",
       "description": "Builds: DLC\nTags: PPSA21159, v01.003, JPN, 4.xx BackPort\nSize: 63GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 67645734912
@@ -13853,7 +13905,7 @@
       ],
       "version": "v01.013",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03603_06ffa87ff5d6bee2409a1139c295d4b7cfc387dc2c966b8edc0b8de8d95143be/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/2700/HNT7Av8LkRN6M3OiFe0DRq8T.png?w=260",
       "description": "Builds: Standard 7.xx, 4.xx BackPort\nTags: PPSA03603, v01.013, EUR, Standard (7.xx) + 4.xx BackPort\nSize: 79GB\nCredits: Files: Psykzhack; DLC: Psykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 84825604096
@@ -13957,7 +14009,7 @@
       ],
       "version": "v01.090",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA21022_2a14ceeb3de5513255b61065c0b6ce471732b39567ea1a2810e60d6022a021dd/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1616/addb88845bc62636b9450d78ce89b3910a614ddd63c4dc99.png?w=260",
       "description": "Builds: Standard 9.xx, 4.xx BackPort\nTags: PPSA21022, v01.090, EUR, Standard (9.xx) + 4.xx BackPort\nSize: 18GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 19327352832
@@ -13997,7 +14049,7 @@
       ],
       "version": "v01.030",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA20154_269368499d0402fa35c43d9667342a135475da2d4490f6cd3d48d23494da5cba/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/3101/bd4bbd8703232dfcd689938201fac0214afc2ea77dcbcf32.png?w=260",
       "description": "Builds: DLC\nTags: PPSA20154, v01.030, USA, 4.xx BackPort\nSize: 23GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 24696061952
@@ -14029,7 +14081,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA26356_27b736914b05e161e64055182648b61375420f6b6f63581a5d497de48275c394/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0508/4c7308e7eb0eb4c96f0426c5af9bfe2de005900e0b3bbbf7.png?w=260",
       "description": "Tags: PPSA26356, v01.000, JPN, 4.xx BackPort\nSize: 1GB\nCredits: Files: Amiibohound & SiESPta; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 1073741824
@@ -14125,7 +14177,7 @@
       ],
       "version": "v02.002",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA29629_4b6e2adeddd9912d97fec97e0edc3a04df2c5784f85960cd4ff8b518d7c8ab0e/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2212/542f13adf581e38321a86470764dbc0ac1b157ed80e1f8b5.png?w=260",
       "description": "Tags: PPSA29629, v02.002, EUR, 4.xx BackPort\nSize: 813MB\nCredits: Files: DLPS Team; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 852492288
@@ -14241,7 +14293,7 @@
       ],
       "version": "v01.009",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA07393_9d536920419023064c0981f84d3e38732b2160b63869dc32b407d8f7a212bcc8/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2615/3424b1b387ab0ebdfe46944ac071ac66c6c14223f9ffeca9.png?w=260",
       "description": "Builds: Standard 6.xx, 4.xx BackPort, DLC\nTags: PPSA07393, v01.009, USA, Standard (6.xx) + 4.xx BackPort\nSize: 24GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 25769803776
@@ -14383,7 +14435,7 @@
       "sizeBytes": 47244640256
     },
     {
-      "id": 5078235,
+      "id": 5092668,
       "catalogSlug": "",
       "titleId": "PPSA16387",
       "title": "Hitman World of Assassination Deluxe Edition",
@@ -14515,7 +14567,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA30568_55ed3ab1d5face9a5ad52a9ef4ef379480b9f25b3b0bc9e20c50bb1cab051287/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0223/1914db8ba62ff41798d0a89159d4028d927fe5b1e492dc67.png?w=260",
       "description": "Tags: PPSA30568, v01.000, USA, 4.xx BackPork\nSize: 18GB\nCredits: Files: High-Speed007; Backport: BestPig & DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 19327352832
@@ -14611,7 +14663,7 @@
       ],
       "version": "v01.006",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA27640_49e90fdec8dcc5850dfc50c1fb469ef75909d0963aa001018eff165bd30ea8c8/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2816/a1e9ff13add0e93f82d03cbef9aedf96e748a020df18f2c7.png?w=260",
       "description": "Tags: PPSA27640, v01.006, EUR, 4.xx BackPort\nSize: 26GB\nCredits: Files: DUPLEX; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 27917287424
@@ -14683,7 +14735,7 @@
       ],
       "version": "v01.011",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA20560_fa8ac880a132895b495094946ab5ab7404d724ce652dc69281072d72a526fc37/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/346673e154a94c7d1dba15de4040b8f148dd3aafda800100.png?w=260",
       "description": "Builds: DLC\nTags: PPSA20560, v01.011, USA, 4.xx BackPort\nSize: 163GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: DUPLEX\nHow to play: DLC Revelations need higher patch (13+).",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 175019917312
@@ -14723,7 +14775,7 @@
       ],
       "version": "v01.004",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA21840_fa26096e67801588d5c2ab67f4f6cb4de03956940555c3a0e977ccda36aa9009/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2111/423b5e226e4f36172abcc6a3d2c732d56d16e3c26364ddbd.png?w=260",
       "description": "Builds: DLC\nTags: PPSA21840, v01.004, EUR, 4.xx BackPort\nSize: 51GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: Pkykzhack\nHow to play: Textures missing fixed.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 54760833024
@@ -14819,7 +14871,7 @@
       ],
       "version": "v06.024",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02110_46fc37bd1ac720cf043cb8c73de0e5986bcd860b5a49bdef09c2b5be809f3dc7/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1015/351e97bc1a0a8c44f6a428d70313f9a3a83d8f71300e0314.png?w=260",
       "description": "Tags: PPSA02110, v06.024, USA to EUR Langs, 4.xx BackPort\nSize: 25GB\nCredits: Files: High-Speed007; Backport: DecKerr97 & BestPig",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 26843545600
@@ -14851,7 +14903,7 @@
       ],
       "version": "v04.024",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA04734_4d12b32369725126f531365bac6efb5973781a210c7b2953dff2cf674e5f5820/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202109/0617/aoB4tTKfHrP1Z6dMlirYfTek.png?w=260",
       "description": "Tags: PPSA04734, v04.024, USA, DLCs Merged, 4.xx BackPort\nSize: 115GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pippo\nHow to play: All DLCs until 2025 are unlocked, 2026 DLCs need higher patch (13+).",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 123480309760
@@ -14979,7 +15031,7 @@
       ],
       "version": "v01.007",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28068_e53862ac3e853a4b294aeb993a105bf77bfbc021b2ec1557ae66988a971e09c3/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0417/5ab2b91ba26e152b7e6e5010a1ad7bd234dd75c8aa62d64c.png?w=260",
       "description": "Tags: PPSA28068, v01.007, USA, 4.xx BackPort\nSize: 13GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 13958643712
@@ -15135,7 +15187,7 @@
       ],
       "version": "v01.004",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA20289_1d8b7892e9bcd3baa0571612ce088ac85e89300eaa76a2ba71e2272759866209/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1009/1414c7b2d33b52190609aff799c6ee7f0bd738faedc4bb0b.png?w=260",
       "description": "Builds: Standard 9.xx, 4.xx BackPort\nTags: PPSA20289, v01.004, EUR, Standard (9.xx) + 4.xx BackPork\nSize: 18GB\nCredits: Files: SiESPTA; Backport: BestPig",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 19327352832
@@ -15271,7 +15323,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02508_70c1f31e37e419a55b9581fb60fe97de6d3601c79f22e59af9867f5a94935c57/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202103/0312/tAxdl1kaQISylMXLwsS6yfRJ.png?w=260",
       "description": "Tags: PPSA02508, v01.000, USA, 2.xx and beyond\nSize: 1GB\nCredits: Files: High-Speed007",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 1073741824
@@ -15355,7 +15407,7 @@
       ],
       "version": "v01.020",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01575_a3d8d40f23a01ebb0e4a99731ea013bc443f2c1a5b29e12c48f2d5d345376756/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/0113/38ad0cc5b92af440d46ccebf5d1f271213d656684fce3385.png?w=260",
       "description": "Tags: PPSA01575, v01.020, EUR, DLCs Merged, 4.xx BackPort\nSize: 319GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX\nHow to play: Need account with offact + np-fake-signin for unlock DLCs.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 342523641856
@@ -15451,7 +15503,7 @@
       ],
       "version": "v01.006",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28002_33abd95b9bbbcf01129a27fabb274bc606d7de7a11eed7f737058dd6baa06079/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1616/b1a631440844715c22c91b314777a0ecacfe24f2a5e1ade3.png?w=260",
       "description": "Tags: PPSA28002, v01.006, USA, 4.xx BackPort\nSize: 1GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 1073741824
@@ -15495,7 +15547,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA19769_6e3d7f9652f10eff60d69eff5c64b6f6321296c22b3ef5bbf61125d2ef11d94f/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/3014/0494ed5040dbb383906f4bab12de9411722c247d769c1f05.png?w=260",
       "description": "Builds: Standard 9.xx, 4.xx BackPort\nTags: PPSA19769, v01.000, EUR, Standard (9.xx) + 4.xx BackPork\nSize: 5GB\nCredits: Files: SiESPTA; Backport: BestPig",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 5368709120
@@ -15579,7 +15631,7 @@
       ],
       "version": "v01.007",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA12771_e73acced2a546cb23de5de62d4d1d4cd26e6c44da52ed1f3b90b7d2edabaa941/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202401/3017/47571cf1399026a8a61ed1a6810a4e28131b0761885fc2dd.png?w=260",
       "description": "Tags: PPSA12771, v01.007, USA, 4.xx BackPort\nSize: 12GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 12884901888
@@ -15771,7 +15823,7 @@
       ],
       "version": "v01.003.002",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA25381_6b769bc980ce326d14cb240d92fe312e2c9f48c3928a44e7a5a07701e141aecf/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202412/1301/308f8421ff74f3b061b231defc364d3f01e1710ea6fe6876.png?w=260",
       "description": "Tags: PPSA25381, v01.003.002, EUR, DLCs Merged, 4.xx BackPort\nSize: 55GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: High-Speed007",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 59055800320
@@ -15803,7 +15855,7 @@
       ],
       "version": "v01.011",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01695_0b82c06358af7cf3445cbe03343240d36929ec1bcfc8f20421c6bdc328331cd5/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1900/sSZEg1DFAUrfWsA7ltLwpCdu.png?w=260",
       "description": "Tags: PPSA01695, v01.011, USA, DLCs Merged, 3.xx and beyond\nSize: 107GB\nCredits: Files: High-Speed007; DLC: High-Speed007",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 114890375168
@@ -15879,7 +15931,7 @@
       ],
       "version": "v01.590",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA07411_d171f759dbbcca39bc73f7abffa0d3d9ee6672b0a6f381d62526903da21e2786/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2509/85p2Dwh5iDhUzRKe40QeNYh3.png?w=260",
       "description": "Builds: Standard 7.xx, 4.xx BackPort\nTags: PPSA07411, v01.590, USA, DLCs Merged, Standard (7.xx) + 4.xx BackPort\nSize: 125GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 134217728000
@@ -15911,7 +15963,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA08102_4f2ca149f247d543b1aadaf87276c177dfc477f83b8e57fc01f27fecc0be916c/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1623/Zofebh60Ue7Zt5sC10UAtU3D.png?w=260",
       "description": "Tags: PPSA08102, v01.000, EUR, 4.xx BackPork\nSize: 11GB\nCredits: Files: DUPLEX & SiEPSTA; Backport: BestPig",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 11811160064
@@ -16115,7 +16167,7 @@
       ],
       "version": "v02.013",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA29714_6942344f38655e895e2c5388635bc05b8dc047945120d2ca20732b37cc066516/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/2710/c00db97ec086f19a44694dad1ce202c4d09d816c2f9dc80f.png?w=260",
       "description": "Tags: PPSA29714, v02.013, USA, DLCs Merged, 4.xx BackPort\nSize: 15GB\nCredits: Files: DUPLEX & SiESPTA; Backport: DecKerr97; DLC: Pkykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 16106127360
@@ -16191,7 +16243,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA09090_8b3fa18b035c07d05a4b95dd622aed43e01660e32d78e83c39575c1f123a5561/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3019/69713ab212ee1925d0feee7a71d8e532e770c77b4ff6046b.png?w=260",
       "description": "Tags: PPSA09090, v01.000, EUR, 4.xx BackPork\nSize: 7GB\nCredits: Files: SiESPTA; Backport: BestPig",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 7516192768
@@ -16475,7 +16527,7 @@
       ],
       "version": "v01.021",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA17630_2a065db805439636d8d8eb82b904cefa7d2e3477a8ada399f396ba7aa6a94036/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/3115/d1d84b26c5c2db9cae8157c281163ec9831b8a3162b66aa1.png?w=260",
       "description": "Tags: PPSA17630, v01.021, USA, 4.xx BackPort\nSize: 56GB\nCredits: Files: SiESPTA; Backport: DecKerr97\nHow to play: Crash Fixed when starting a Grand Prix on 4.xx thx to DecKerr97.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 60129542144
@@ -16507,7 +16559,7 @@
       ],
       "version": "v01.002",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA17465_177d56de32f3096115e69006f8d59af3e8507d71fa9212cb63453cfc698a1530/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/1708/7d0be3f20c1b22e57f600530c370199d0ec78f5cff10c89a.png?w=260",
       "description": "Tags: PPSA17465, v01.002, EUR, 4.xx BackPork\nSize: 3GB\nCredits: Files: SiESPTA; Backport: BestPig",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 3221225472
@@ -16759,7 +16811,7 @@
       ],
       "version": "v02.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA24381_b163085f994fc0232fffaada87c564c605b545565be8276973c3d736c135f3dc/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1912/22f542fd505cc31e40f00a31e31891530c355cbd252e9556.png?w=260",
       "description": "Tags: PPSA24381, v02.000, USA, 4.xx BackPort\nSize: 4GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 4294967296
@@ -16791,7 +16843,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA24560_ffa2798c0574f178de296d06246b2ff34f9360f2ca39ef05ccf65abd0455a1a4/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1121/YtsMVtRKnYs2tSKvEUiDjrx5.png?w=260",
       "description": "Tags: PPSA24560, v01.000, USA, 4.xx BackPort\nSize: 1GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 1073741824
@@ -16855,7 +16907,7 @@
       ],
       "version": "v02.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA26097_497b3d5801e913e2aab541610086333bd84791c2f409c8458de01ce846df996e/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1212/8fc285a94345f7eef49aa26692fb873e450d7ff72760fed8.png?w=260",
       "description": "Tags: PPSA26097, v02.000, EUR, 4.xx BackPort\nSize: 25GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 26843545600
@@ -16943,7 +16995,7 @@
       ],
       "version": "v01.004.300",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA17231_125a961fb93b2165345c0b44164a497d49c81fadf2b6e51001d91854f0189d78/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202309/0806/51548e17e1d26d03744c6e7e00ce5c969783bdea641e287e.png?w=260",
       "description": "Tags: PPSA17231, v01.004.300, EUR, DLCs Merged, 4.xx BackPort\nSize: 8GB\nCredits: Files: SiESPTA; Backport: DecKerr97; DLC: Pippo",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 8589934592
@@ -16975,7 +17027,7 @@
       ],
       "version": "v01.040.020",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA32785_c8fcb4b905499d1c952d86b13aca0602067cd744477c3ee5bd3a28e35a7eac29/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202509/0401/835b207c01d1b02c29229e73fba0da13b914148c8b8bd4ed.png?w=260",
       "description": "Builds: Dump\nTags: PPSA32785, v01.040.020, USA, DLCs Merged, 5.xx BackPort\nSize: 159GB\nCredits: Files: SiESPTA & DUPLEX; Backport: ManwonHp; DLC: Pkykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 170724950016
@@ -17127,7 +17179,7 @@
       ],
       "version": "v01.001.008",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06888_0410002e1d95514e4b8ea45125ecb80cba3d35ab32fcd156cda5775fa37c25f7/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2416/9fb7d209dbb62357ddd5c305f6019a97238fc1bd1b540560.png?w=260",
       "description": "Builds: Standard 7.xx, 4.xx BackPort\nTags: PPSA06888, v01.001.008, USA, Standard (7.xx) + 4.xx BackPort\nSize: 10GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 10737418240
@@ -17179,7 +17231,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA30490_680790b1238de595d59d1793883451d6c8d59d9f306db2300e79d8baf037ded4/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2814/83642456b00cadc38b9ff11f56061954de6e5abb4ed1012e.png?w=260",
       "description": "Builds: 7.xx BackPort, 4.xx BackPort\nTags: PPSA30490, v01.000, EUR, 7.xx BackPork + 4.xx BackPort\nSize: 4GB\nCredits: Files: DUPLEX & SiESPTA; Backport: BestPig & DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 4294967296
@@ -17455,7 +17507,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06389_b0a3254ef13cf18566bcc48992bf7489c9b98a0962d2bf75f3cf63173f6a3a07/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/0514/0e06c77172e9da2e3546c9ed4007a20fdc892cb31225145a.png?w=260",
       "description": "Tags: PPSA06389, v01.000, USA, 4.xx BackPort\nSize: 8GB\nCredits: Files: Lucran & SiESPta; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 8589934592
@@ -17487,7 +17539,7 @@
       ],
       "version": "v01.006",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03712_cf8d823053c3a900aa156a6d3b010b17982fcacf3662ec4364676d527abecc0a/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202110/0119/ZYIe7ucgjxWpO6y5lm0z73GY.png?w=260",
       "description": "Tags: PPSA03712, v01.006, USA, 2.xx and beyond\nSize: 11GB\nCredits: Files: Amiibohound",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 11811160064
@@ -17519,7 +17571,7 @@
       ],
       "version": "v01.010",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA24157_9d8c3fb42031a709072eecd288ffb357d1a49bd630a55d46dc0ca7edfbc45857/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2507/f3e188254bee44e60aca10a86ce9184293fa24ba169e9249.png?w=260",
       "description": "Tags: PPSA24157, v01.010, EUR, 4.xx BackPort\nSize: 24GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 25769803776
@@ -17583,7 +17635,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06426_77513feefbf836f79937f7a2f1e6850f5aa984727f9a503b9f8ffb40fff85554/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2713/ae43dd232ad127bd49fc04140ee0642f8345398ee0164766.png?w=260",
       "description": "Tags: PPSA06426, v01.000, EUR, 4.xx BackPort\nSize: 25GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 26843545600
@@ -17615,7 +17667,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA16738_f590d54a4ed04f3cf7945b6895e800669ecb285ad150b494aaa34e05df8ff859/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0308/1a85d1becb83e616a5959b6c9cbe08b3e11d518b428bf217.png?w=260",
       "description": "Tags: PPSA16738, v01.000, USA, 4.xx BackPort\nSize: 12GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 12884901888
@@ -17911,7 +17963,7 @@
       ],
       "version": "v01.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA11132_99780019efeedb6d004d515dbc5e2d3530b63a0426be9f26d1ddc7480f283b85/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/1622/335aff5eb969b575489ea6c84edb136ede9adb008c4fc3a0.png?w=260",
       "description": "Tags: PPSA11132, v01.001, EUR, 4.xx BackPort\nSize: 1GB\nCredits: Files: Uchiha Dare Nial & High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 1073741824
@@ -17943,7 +17995,7 @@
       ],
       "version": "v01.004",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06320_d4d40febb657d9ef34f354df25143132f441526ca0d8ed6e8fc1812bfaeccca1/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/0219/BZnOHjFOdOpiLDnKFn3ZtImL.png?w=260",
       "description": "Tags: PPSA06320, v01.004, EUR, 4.xx BackPort\nSize: 2GB\nCredits: Files: Uchiha Dare Nial & High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 2147483648
@@ -18071,7 +18123,7 @@
       ],
       "version": "v01.000.004",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA19624_66fd019eec463272ffbd4b7050596a10c46e3502cb10ac7fdd0e8d1d722dd7c7/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1310/f9dad731c9e170693651b9445befa4fc7f4d373e8823a93d.png?w=260",
       "description": "Tags: PPSA19624, v01.000.004, USA, 4.xx BackPort\nSize: 8GB\nCredits: Files: Amiibohound; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 8589934592
@@ -18219,7 +18271,7 @@
       ],
       "version": "v01.007",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03530_59ede1861653254ae5e2c8b60dfa19d72be52db4ceaf14e686975ebdd431026b/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2814/rJUoz79dvG3GCWSe9pFewZtz.png?w=260",
       "description": "Tags: PPSA03530, v01.007, USA, 3.xx and beyond\nSize: 10GB\nCredits: Files: High-Speed007",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 10737418240
@@ -18283,7 +18335,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06092_42c6db54fa0d90b0ed95ee697c59dbcecebcefed4f93d7cc43873d5a67dddea7/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/2017/8a82705c49371fd0d03d4323d3e2b55b27581b407a551cb8.png?w=260",
       "description": "Tags: PPSA06092, v01.000, EUR, 4.xx BackPort\nSize: 209GB\nCredits: Files: DUPLEX & Jose Carrion; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 224412041216
@@ -18347,7 +18399,7 @@
       ],
       "version": "v01.004.002",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02846_b882dab8034b0f5de629582bfbb80f16bab5237c660f3525adfc08e722fd4ad5/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1912/WWI5h7S5t6QqEEiYJUwRLBmY.png?w=260",
       "description": "Tags: PPSA02846, v01.004.002, USA, DLCs Merged, 2.xx and beyond\nSize: 11GB\nCredits: Files: UNLiMiTED; DLC: UNLiMiTED",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 11811160064
@@ -18379,7 +18431,7 @@
       ],
       "version": "v01.003",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA09477_58c6a23750294c5ef0f3da1c48a213a946dacafc848b85e96c28e2a7e3b1f24d/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2604/95c92525c498303f2224796e82325aa86740cb9de35c96b0.png?w=260",
       "description": "Tags: PPSA09477, v01.003, USA, 4.xx BackPort\nSize: 2GB\nCredits: Files: Amiibohound; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 2147483648
@@ -18659,7 +18711,7 @@
       ],
       "version": "v01.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06568_0e6fd698a23d1b05e6fd9fcf46f5b8eecf3f67b5603862e7c45466e4fa18beb1/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1622/dfa83fc7e62c194d453ab864499bd64b81429aafd17f9958.png?w=260",
       "description": "Builds: DLC\nTags: PPSA06568, v01.001, EUR, 4.xx BackPort\nSize: 75GB\nCredits: Files: SiESPTA; Backport: DecKerr97; DLC: Pkykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 80530636800
@@ -18691,7 +18743,7 @@
       ],
       "version": "v01.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA10829_14592971686c7f38af759ca62eae2dca37208b94bab8a21da571fe853ab51c8b/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2002/CZ2tyV7P0D5olCW4oVxQwtlK.png?w=260",
       "description": "Tags: PPSA10829, v01.001, USA, 4.xx BackPort\nSize: 711MB\nCredits: Files: Amiibohound; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 745537536
@@ -18787,7 +18839,7 @@
       ],
       "version": "v01.000.300",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA09706_0b49816c99089fe3021a3434badc8bb1b991887dcfcec9fe2117794b3c7f6a2b/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2417/c633c1b79cab71e09a81e4857e8cc07c8e5691a65c6acb5a.png?w=260",
       "description": "Builds: Standard 6.xx, 4.xx BackPort\nTags: PPSA09706, v01.000.300, JPN to EUR Languages, DLCs Merged, Standard (6.xx) + 4.xx BackPort\nSize: 24GB\nCredits: Files: SiESPTA; Backport: DecKerr97; DLC: SiESPTA",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 25769803776
@@ -18851,7 +18903,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02494_1b9cc1c2ea273eab099a3b0ef3023d83ae9549d8765e3fba10d9064d26e0c26f/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0123/htHf1UQeJlWlDr0bljYKDq8j.png?w=260",
       "description": "Tags: PPSA02494, v01.000, JPN to EUR Languages, 5.xx and beyond\nSize: 2GB\nCredits: Files: SiESPTA",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 2147483648
@@ -18883,7 +18935,7 @@
       ],
       "version": "v01.002",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA26873_77108bfd3e2d6fb7acc105b3a4b1eaf5f2eac4d6640892de5a7a89e13d9ef5be/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1005/d3bddde70d5167a8df11eb231c2ec045f7b8dcb89559ad6c.png?w=260",
       "description": "Tags: PPSA26873, v01.002, JPN, 5.xx BackPort\nSize: 74GB\nCredits: Files: DUPLEX & SiESPTA; Backport: ManwonHp",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 79456894976
@@ -19051,7 +19103,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA15350_3b24dc04fec65182a3b25284450d3faa1c7ae4f1a13c4694bd43f4cfef864277/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202306/2113/3a0427ae62b1aed111189da8094da6d20b5db579a89fde33.png?w=260",
       "description": "Tags: PPSA15350, v01.000, USA, 4.xx BackPort\nSize: 26GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 27917287424
@@ -19359,7 +19411,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA07117_a501dea8583d1de2ac3858d541046b80d9f65cd2d855333b4c63752236925e53/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202204/0118/A3KKgFFUTjKoxSc4ssAs61nF.png?w=260",
       "description": "Tags: PPSA07117, v01.000, USA, 4.xx BackPort\nSize: 1GB\nCredits: Files: Amiibohound; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 1073741824
@@ -19399,7 +19451,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA25153_fd6e7b1631e5a619451032e2e28f4b8c530dfe942e2703d45d52107a17331bfd/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202505/1614/3e1e6852d829135c3d9c3fd72612a9a9295a35c21fdb4052.png?w=260",
       "description": "Builds: 7.xx BackPort, DLC\nTags: PPSA25153, v01.000, EUR, 7.xx BackPort\nSize: 21GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: romhunter",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 22548578304
@@ -19451,7 +19503,7 @@
       ],
       "version": "v01.037",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA05424_56bf9d7ff5cb08aabf8be68be27c3f869b769ba8daf2843b91796c5ad8c0a24d/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/2615/uRu5yeMX0RzVjwGEhIFVJgfv.png?w=260",
       "description": "Builds: Standard 5.xx, 4.xx BackPort\nTags: PPSA05424, v01.037, USA, DLCs Merged, Standard (5.xx) + 4.xx BackPort\nSize: 37GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pippo\nHow to play: Need Trophy Unlocker (if use etaHEN - Check the FAQ) or kstuff lite 1.07+ for avoid the loading infinite.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 39728447488
@@ -19515,7 +19567,7 @@
       ],
       "version": "v01.005",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA30797_64e1e8d8bfc2cd25d5c39e424817557aae29ee4e80f11b763da6851d0839248a/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/1013/d3aafc8e41ade870397342522c1acfc4a8f4bf319052e815.png?w=260",
       "description": "Builds: 7.xx BackPort\nTags: PPSA30797, v01.005, EUR, 7.xx BackPort\nSize: 26GB\nCredits: Files: DUPLEX & SiESPTA; Backport: DecKerr97\nHow to play: kstuff can be paused after 120sec or the game will crash. Game can take sometime for loading depending on your SSD/NVMe.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 27917287424
@@ -19547,7 +19599,7 @@
       ],
       "version": "v01.009",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA08601_a7d3b48d24c28bf9b9d3f91abacc19b658848666ddb65650d5474eb2a911d19b/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2422/USama85yI65BcNV9EmYEYl6R.png?w=260",
       "description": "Tags: PPSA08601, v01.009, USA, DLCs Merged, 4.xx BackPort\nSize: 17GB\nCredits: Files: SiESPTA; Backport: DecKerr97; DLC: Pkykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 18253611008
@@ -19707,7 +19759,7 @@
       ],
       "version": "v01.023",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA15493_057c49d1d4c49362b441b535222a186310dba449b128ebd960072924a6024643/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/0709/b2ee4642335bdc52702636666f5dd4af74a50ea71987f7c9.png?w=260",
       "description": "Tags: PPSA15493, v01.023, USA, DLCs Merged, 4.xx BackPork\nSize: 35GB\nCredits: Files: SiESPTA; Backport: BestPig; DLC: Pkykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 37580963840
@@ -19739,7 +19791,7 @@
       ],
       "version": "v01.022",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA16265_f7bed93d38824778d0b40645a223127badba494e18517a3b1da29760e7e52852/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1808/1e3cee649ba174d5b2d2b4dfbf868acbd3e475c650aecabb.png?w=260",
       "description": "Tags: PPSA16265, v01.022, JPN, DLCs Merged, 4.xx BackPort\nSize: 67GB\nCredits: Files: SiESPTA; Backport: ManwonHp; DLC: Pkykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 71940702208
@@ -19835,7 +19887,7 @@
       ],
       "version": "v01.021",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA09243_22a3914db450984034fa4646bc3e0240687edbb373853fe2d35afd4768683a6b/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2100/ksGvOUolBKzauHyiPalnLUKN.png?w=260",
       "description": "Tags: PPSA09243, v01.021, USA, 4.xx BackPort\nSize: 168GB\nCredits: Files: UNLiMiTED; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 180388626432
@@ -19867,7 +19919,7 @@
       ],
       "version": "v01.017",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02813_1377653438ccdc21a97f1c2c07c9f184cbe5a9cc9b1d994d5172ebe6402c85db/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/0608/PQLu1uL387j8p4FZjpuFconi.png?w=260",
       "description": "Tags: PPSA02813, v01.017, EUR, DLCs Merged, 4.xx and beyond\nSize: 75GB\nCredits: Files: DUPLEX; DLC: DUPLEX\nHow to play: Loading infinite when starting a new game is now fixed.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 80530636800
@@ -20079,7 +20131,7 @@
       ],
       "version": "v01.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02740_7507ec0ff71a94447f66b2717d2e676054fbaea9864af67150db3a9e67265d37/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA13197_00/2/i_55c8341c4ec119ffb3e30db9c40a0d6f164491493e0d14079382ca533a3bb4e7/i/icon0_01.png?w=260",
       "description": "Tags: PPSA02740, v01.001, EUR, 2.xx and beyond\nSize: 33GB\nCredits: Files: High-Speed007 & UchihaDareNial",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 35433480192
@@ -20111,7 +20163,7 @@
       ],
       "version": "v01.002",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA05684_f118b62785c2f878401378367a792b3d710d273393d87f48582e3840b906a609/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2000/gTUWTlvPHzxFJ2JAxtDyI2eS.png?w=260",
       "description": "Tags: PPSA05684, v01.002, EUR, 4.xx BackPort\nSize: 149GB\nCredits: Files: SAMAR-KSA; Backport: SAMAR-KSA\nHow to play: DUPLEX have some issue related with saves (dead loop) and is also 5.xx +, tested SAMAR-KSA one and it work fine, thx for all feedback, enjoy.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 159987531776
@@ -20143,7 +20195,7 @@
       ],
       "version": "v01.010",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA20723_fdffc793f1638895f9d5168a678b07199f40f7a83555ad0d086fd2429d98a9bf/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2319/ce4c8ca13f165a9f9768fe079d27d1198fb545be23072b06.png?w=260",
       "description": "Tags: PPSA20723, v01.010, EUR, DLCs Merged, 8.xx and beyond\nSize: 13GB\nCredits: Files: SiESPTA; DLC: Pippo",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 13958643712
@@ -20175,7 +20227,7 @@
       ],
       "version": "v01.007",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06215_d12e46877d4037f54f83b7c9259c22ad5719a882fd5eba99cf7738f7c05854e1/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202204/2613/HFOUQfILDi1zwup0ac6wXDH3.png?w=260",
       "description": "Tags: PPSA06215, v01.007, JPN, 7.xx and beyond\nSize: 27GB\nCredits: Files: SiESPTA\nHow to play: Turn off the connection or you will have loading infinite at the main menu.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 28991029248
@@ -20271,7 +20323,7 @@
       ],
       "version": "v01.003",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02777_a8d3678b776a6c4073e14f326fa17379cd28f60ff8e77d718c03d5446379badd/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2115/H4VoqAkqQ4wMgqlIYdN2WLTD.png?w=260",
       "description": "Tags: PPSA02777, v01.003, USA, 4.xx BackPort\nSize: 17GB\nCredits: Files: DUPLEX; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 18253611008
@@ -20303,7 +20355,7 @@
       ],
       "version": "v01.000.003",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA27624_0dc6f1fff57b8e5d9080695b87b9ac3dee5be2bb536ef80a0d2d9cf7abcd5b25/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202503/0521/62233a63940bb8a850a4c00cc48d9119689bfaaefd016dd9.png?w=260",
       "description": "Builds: 7.xx BackPort\nTags: PPSA27624, v01.000.003, EUR, 7.xx BackPort\nSize: 8GB\nCredits: Files: DUPLEX; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 8589934592
@@ -20535,7 +20587,7 @@
       ],
       "version": "v01.020",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06433_bb95403eae50914d5757a13a9fd49ae288334c88d29b0ab4357bd60e6305671c/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2906/6f49857e453aaebe72a7b32f07d2ae999be69fac5bbda1ea.png?w=260",
       "description": "Tags: PPSA06433, v01.020, JPN, DLCs Merged, 7.xx and beyond\nSize: 82GB\nCredits: Files: SiESPTA; DLC: Pkykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 88046829568
@@ -20639,7 +20691,7 @@
       ],
       "version": "v01.011",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01981_9e39f9faaa7b3bf4fc46f8d3fc6db957fec50ebe11e3600358612bebbb9f701f/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0114/ERNPc4gFqeRDG1tYQIfOKQtM.png?w=260",
       "description": "Builds: DLC\nTags: PPSA01981, v01.011, USA to EUR Languages, 3.xx and beyond\nSize: 83GB\nCredits: Files: High-Speed007; DLC: High-Speed007\nHow to play: Need install all DLCs for make the Campaign work.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 89120571392
@@ -20691,7 +20743,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA09076_03a57629c103bb92eb2d0d17572212996b6a2663b54f441aa98b84159a5ed170/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202301/1712/N67SrtQhAeoOQbSqku6vdpDM.png?w=260",
       "description": "Builds: Standard 5.xx, 4.xx BackPort\nTags: PPSA09076, v01.000, EUR, Standard (5.xx) + 4.xx BackPort\nSize: 893MB\nCredits: Files: SiESPTA; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 936378368
@@ -20775,7 +20827,7 @@
       ],
       "version": "v01.024",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02182_8ea9967a30bca11c9234a9c8f4ede34a68d32bed1cd104821c0b897d8c026826/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1017/927b473e6de3d838b418fddb52f9efb13f19cf4ee8c8dfed.png?w=260",
       "description": "Tags: PPSA02182, v01.024, USA, 4.xx BackPort\nSize: 220GB\nCredits: Files: High-Speed007; Backport: ps3120",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 236223201280
@@ -20807,7 +20859,7 @@
       ],
       "version": "v01.070",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01532_1a95db17f8fea3796263253b3ebf5c021a725f8e9c397721889f6d12a420be95/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1520/EDtkdijFRwbmGKk1G9lrDoEF.png?w=260",
       "description": "Tags: PPSA01532, v01.070, EUR, DLCs Merged, 4.xx and beyond\nSize: 295GB\nCredits: Files: Alterr87; DLC: Alterr87",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 316753838080
@@ -20871,7 +20923,7 @@
       ],
       "version": "v01.005",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA24864_853f27aad0beaa6cedb593e55cb8f2c617ccde8e5005cba1b24bd8161c49acf3/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1110/b0815b75af7073ee06d73f71eef4d84f8b1c64b07a34cb53.png?w=260",
       "description": "Tags: PPSA24864, v01.005, EUR + Italian Mod, 4.xx BackPort\nSize: 29GB\nCredits: Files: DUPLEX & SiESPta; Backport: DecKerr97\nHow to play: Italian Mod replace Spanish (Mexico).",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 31138512896
@@ -20999,7 +21051,7 @@
       ],
       "version": "v01.002",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA04170_6d895eb2209ce4129a0fc68ed8b5af6cb5b36e577114249f93ad84eed3f38561/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202108/0910/FvhmDiwwsoVPgdSqTNM75Pvd.png?w=260",
       "description": "Tags: PPSA04170, v01.002, USA, 4.xx and beyond\nSize: 15GB\nCredits: Files: Amiibohound",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 16106127360
@@ -21147,7 +21199,7 @@
       ],
       "version": "v01.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02604_c238724a4260fc0488d08e33da32ada68f590ebbcac412dd736b4498d4fa4443/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202104/2914/3fwLei8hCb7gLFBdy0SNNpOb.png?w=260",
       "description": "Tags: PPSA02604, v01.001, USA, 2.xx and beyond\nSize: 1GB\nCredits: Files: Amiibohound",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 1073741824
@@ -21211,7 +21263,7 @@
       ],
       "version": "v01.005",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02527_8ad01a6a1b528699f8dfcb5eba14665da653b87f3e8fe32d9c95c94877d7797f/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202108/1912/y52EKGSbGRjnh87ObkBc5Grv.png?w=260",
       "description": "Tags: PPSA02527, v01.005, USA, 4.xx and beyond\nSize: 1GB\nCredits: Files: Amiibohound",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 1073741824
@@ -21243,7 +21295,7 @@
       ],
       "version": "v01.000.100",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01693_14a1145b4303b9f62e80cd752d5d5ac28d6775969ac769a68db6b941b2168e1a/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202106/1111/BvP4mWVaNFPQDTSEeK6EQZn5.png?w=260",
       "description": "Tags: PPSA01693, v01.000.100, USA, 3.xx and beyond\nSize: 7GB\nCredits: Files: Amiibohound",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 7516192768
@@ -21423,7 +21475,7 @@
       ],
       "version": "v05.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA07257_738c8d49d0cc1981a0d3b16b0f9309edaf17df46702a3eb2e0cd73bacef4c456/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202110/1318/zdQ4x5FDFxD4bLZfhatvPbUc.png?w=260",
       "description": "Tags: PPSA07257, v05.000, EUR, DLCs Merged, 4.xx BackPort\nSize: 80GB\nCredits: Files: Psykzhack; Backport: DecKerr97; DLC: Psykzhack\nHow to play: Need Trophy Unlocker (if use etaHEN - Check the FAQ) or kstuff lite 1.07+ for avoid the loading infinite.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 85899345920
@@ -21487,7 +21539,7 @@
       ],
       "version": "v01.003",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01886_ec73a73e8ea0059eae680ea6c0461e55544bd9dcc92bbea52cba2b85c1b51285/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1802/jW2oRSOZBdxs9qTQMZzlfch5.png?w=260",
       "description": "Tags: PPSA01886, v01.003, USA, 3.xx and beyond\nSize: 3GB\nCredits: Files: PHU & SiESPTA",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 3221225472
@@ -21583,7 +21635,7 @@
       ],
       "version": "v06.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03865_8f263b38c6f4f57dc98cfec187c5f09c0eaa597607ad88f2d38680b615f96a04/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/1309/1IzLC1VrBs7hYtisCOHMKq5J.png?w=260",
       "description": "Tags: PPSA03865, v06.001, USA, 4.xx and beyond\nSize: 39GB\nCredits: Files: High-Speed007",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 41875931136
@@ -21679,7 +21731,7 @@
       ],
       "version": "v01.003",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02384_ab0f11f0ac3dad17a9af0f0c1f62e28a3b26646d9d2cd62b53e102ef14f35031/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA16745_00/1/i_7b2f4e6eb77ae1f364b1c3be21ea7326c6baaa7c12cd5351fddaf756a0029a47/i/icon0_01.png?w=260",
       "description": "Tags: PPSA02384, v01.003, EUR, 2.xx and beyond\nSize: 50GB\nCredits: Files: SiESPTA",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 53687091200
@@ -21863,7 +21915,7 @@
       ],
       "version": "v01.405",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01670_bedbd0c14ec7c69d8a07301f47ed82dcda7f77045c6ad1e96731c4ebc7e6de8a/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202007/1617/Fv4asO4zbdqL83hiL9COTlWZ.png?w=260",
       "description": "Builds: Standard 5.xx, 4.xx BackPort\nTags: PPSA01670, v01.405, EUR, Standard (5.xx) + 4.xx BackPort\nSize: 72GB\nCredits: Files: DUPLEX & SiESPTA; Backport: Kira; DLC: DUPLEX & SiESPTA\nHow to play: 4.xx BackPort must be use only on FW 4, if you are on 5.xx+ use the Standard one.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 77309411328
@@ -21995,7 +22047,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03647_736bea750fc7c4a6e325ebd3f96d5cf711ead8f241b1b3ea8b0cf3d600ca5de9/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2510/155625b419e5417964b75133e2e85a4321559e787a5a702e.png?w=260",
       "description": "Tags: PPSA03647, v01.000, USA, 2.xx and beyond\nSize: 1GB\nCredits: Files: Pkykzhack & amiibohound",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 1073741824
@@ -22115,7 +22167,7 @@
       ],
       "version": "v01.024",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA05132_5c31f13c3e5fa3f8209c3b6cb7b1123af43510b662983b72921f6ddcc7fcd0ea/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202201/1616/THJbARAq2YiRVUv5abCQ8GYQ.png?w=260",
       "description": "Tags: PPSA05132, v01.024, USA, 3.xx and beyond\nSize: 19GB\nCredits: Files: C4our20",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 20401094656
@@ -22139,7 +22191,7 @@
       ],
       "version": "v01.022.125",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02457_df2689c47627051a4932c4417cb74a8ce1d3372f9806627ceed539caa8f6b6ec/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202103/1000/ajXEVMJhzxXuOezVXR6bFOkK.png?w=260",
       "description": "Tags: PPSA02457, v01.022.125, EUR, 4.xx and beyond\nSize: 7GB\nCredits: Files: SiESPTA & boredslappy",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 7516192768
@@ -22163,7 +22215,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA18259_7abe4723cfadf63afe9dd044cda16795ed29a0c93e8b9e573b8d7b4de5bfc5bf/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0701/83c9162c472c03b32bdf5701e17108ec849b63a5d3ae6e40.png?w=260",
       "description": "Tags: PPSA18259, v01.000, EUR, DLCs Merged, 4.xx BackPork\nSize: 110GB\nCredits: Files: High-Speed007 & DUPLEX; Backport: BestPig",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 118111600640
@@ -22307,7 +22359,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA21631_e830bb2cf3c61e729c14bf30b59dc121fdc896189737c816106bc236f589690e/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2820/7981c9f8f122ac08d5febb8b883578b895300f8248f8cb1a.png?w=260",
       "description": "Tags: PPSA21631, v01.000, EUR, 4.xx BackPort\nSize: 8GB\nCredits: Files: SiESPTA; Backport: Kira",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 8589934592
@@ -22423,7 +22475,7 @@
       ],
       "version": "v01.020",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03753_c29576c491968f82f5470a459a7a579f839fdd3f5c6db0d6edfc55a56af52738/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202104/0114/xvUwYjctSRFXETMYPdfkwDUc.png?w=260",
       "description": "Tags: PPSA03753, v01.020, USA, DLCs Merged, 4.xx BackPort\nSize: 9GB\nCredits: Files: Jose Carrion; Backport: Jose Carrion; DLC: Pkykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 9663676416
@@ -22447,7 +22499,7 @@
       ],
       "version": "v01.004",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA05213_9d33f8792eb5563e0a63b00fda1cc5dc6616e5ffe86f51e5133128f3d23fab64/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2122/HUO8vn81JIk1cfsLSKQ0mf7C.png?w=260",
       "description": "Tags: PPSA05213, v01.004, EUR, 4.xx and beyond\nSize: 11GB\nCredits: Files: SiESPTA & Azirek",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 11811160064
@@ -22495,7 +22547,7 @@
       ],
       "version": "v01.100",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA18191_4fd6a78ae4131a54a7d9a77fa6f3f66a220c4e16a8c6a20cf1183b0acab2981c/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2015/5b3ee51ed26886b8df784bc19ecf41ec5ce73f2cc2c5e20c.png?w=260",
       "description": "Tags: PPSA18191, v01.100, USA, 4.xx BackPort\nSize: 8GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 8589934592
@@ -22623,7 +22675,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA10887_bebe7ba54282cdedd2f318d4fee6377852b6977b5a339aba25c4b5f6afc1cbb7/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/0517/0e63f17ba1f80d4f5d7d7628bbc0d1e018c74edd9f00739b.png?w=260",
       "description": "Tags: PPSA10887, v01.000, EUR, 4.xx BackPort\nSize: 6GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 6442450944
@@ -22727,7 +22779,7 @@
       ],
       "version": "v01.021",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06958_f49f268e6055d683e1be62da66ece08192c8919268613b711c1c612f119dbd5a/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0606/LcJQRl73VBrwvkb2gVWXCysA.png?w=260",
       "description": "Builds: DLC\nTags: PPSA06958, v01.021, EUR, 4.xx BackPort\nSize: 31GB\nCredits: Files: DUPLEX & Jose Carrion; Backport: DecKerr97; DLC: Pkykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 33285996544
@@ -22811,7 +22863,7 @@
       ],
       "version": "v01.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA17858_24dfb1f56a0735b399c0c949955bd58b35f1bd17a9a722ffd00b9f49ea80cf03/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/1208/a0990cd5a43c8962ed77ca5c92ed215870b90fa9d09e118f.png?w=260",
       "description": "Builds: Standard 9.xx, 4.xx BackPort\nTags: PPSA17858, v01.001, USA, Standard (9.xx) + 4.xx BackPort\nSize: 4GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 4294967296
@@ -22871,7 +22923,7 @@
       ],
       "version": "v01.010",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01864_8b186cc42571254f3aa4eb18a86b36f560d6de921d08ba6e50903a055390421f/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png?w=260",
       "description": "Tags: PPSA01864, v01.010, USA to EUR Languages, DLCs Merged, 4.xx and beyond\nSize: 84GB\nCredits: Files: High-Speed007; DLC: Psykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 90194313216
@@ -22895,7 +22947,7 @@
       ],
       "version": "v01.002",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06399_b16a44ccd003a27e0e5af086314b2b8c0bc9e91c02ed96160e8c9705487e8e01/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0216/hpkUC1X1rRkLZMSFxmF6sMGS.png?w=260",
       "description": "Tags: PPSA06399, v01.002, USA, DLCs Merged, 4.xx and beyond\nSize: 8GB\nCredits: Files: SiESPTA; DLC: Psykzhack & scbae80",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 8589934592
@@ -22919,7 +22971,7 @@
       ],
       "version": "v03.002.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02712_f727e86f21d7e9a16b7a6f0bcaf929703c355b397c6803c82edec1ccb6dc08b6/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0418/d2l5anfkYCPcdtYL8lhqhfOX.png?w=260",
       "description": "Tags: PPSA02712, v03.002.001, USA to EUR Languages, DLCs Merged, 2.xx BackPort\nSize: 96GB\nCredits: Files: High-Speed007; Backport: TRIFECTA; DLC: Pippo",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 103079215104
@@ -22991,7 +23043,7 @@
       ],
       "version": "v01.002.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA04159_944a923e8bfe73e0568481d40e346739862b0e99c1b2e4e9afe5998b018e642a/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202204/0413/FSpxZI2qYcriljLKCTnyAvcQ.png?w=260",
       "description": "Tags: PPSA04159, v01.002.001, USA, DLCs Merged, 9.xx and beyond\nSize: 14GB\nCredits: Files: High-Speed007; DLC: Pippo",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 15032385536
@@ -23055,7 +23107,7 @@
       ],
       "version": "v01.002",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA26092_4ca3a76dbfcc364968ff697c6cfb0cd1724000f59a582cc1a0edf03ca0082ab3/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1715/f51e6b875423548e4557d79d5f00d40df9473a302e97108f.png?w=260",
       "description": "Builds: DLC\nTags: PPSA26092, v01.002, EUR, 5.xx BackPork\nSize: 59GB\nCredits: Files: DUPLEX & SiESPta; Backport: BestPig; DLC: DUPLEX & SiESPta",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 63350767616
@@ -23243,7 +23295,7 @@
       ],
       "version": "v01.021.003",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA20447_67e9c618174a058b8cb74a03fb2f562dcfd9e801b333425eff4c302843d07e4b/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/2604/78cf326a8cceaed3f4a807fe9e3f811abdfb5df96fe0cd06.png?w=260",
       "description": "Builds: Standard 9.xx, 4.xx BackPort\nTags: PPSA20447, v01.021.003, USA, Standard (9.xx) + 4.xx BackPork\nSize: 47GB\nCredits: Files: SiESPTA; Backport: BestPig",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 50465865728
@@ -23447,7 +23499,7 @@
       ],
       "version": "v01.009",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA10414_c605d62b7ad3d169cc4d3e8109a63135dd7d80902d2533a5a66c85c21312e351/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2612/2yZIt4JDU6JaSxoTJPZfmNWV.png?w=260",
       "description": "Tags: PPSA10414, v01.009, EUR, 4.xx BackPort\nSize: 12GB\nCredits: Files: DUPLEX & SiESPta; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 12884901888
@@ -23471,7 +23523,7 @@
       ],
       "version": "v01.010",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA22299_b20254d37eb2ef8979f44e5fba27e7c9ec5cc3c602f589ba187a6e69423a5074/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/0816/b05bf91674e7f71ce87c2a34c1c27bc5f57014171f58f008.png?w=260",
       "description": "Tags: PPSA22299, v01.010, EUR, 4.xx BackPort\nSize: 13GB\nCredits: Files: DUPLEX & SiESPta; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 13958643712
@@ -23495,7 +23547,7 @@
       ],
       "version": "v02.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA19728_da129d69a3e46f62235116ad0b38f2f734b29b98e189db3ee5d11a86d3b3ba6d/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0821/826f7fb18f84e4cd65dc5b8aebabae0c2719487beb3c1cc4.png?w=260",
       "description": "Builds: Standard 8.xx\nTags: PPSA19728, v02.000, USA, Standard (8.xx) + 4.xx BackPort\nSize: 1GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 1073741824
@@ -23543,7 +23595,7 @@
       ],
       "version": "v01.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06228_e499b3be1bbaffb825f5a15235c8de448863223302ee69a6cf7f759de60490d9/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/2101/D0JuAAItS774kjcVpfjz4SC8.png?w=260",
       "description": "Tags: PPSA06228, v01.001, EUR, DLCs Merged, 3.xx and beyond\nSize: 27GB\nCredits: Files: DUPLEX & VanBuuren",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 28991029248
@@ -23683,7 +23735,7 @@
       ],
       "version": "v01.009",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA21733_dd11425568e305c80d58922e138efc7d275a1ba0b0d6c803702db24244c29e02/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/2211/6ec37b3a13c8ee3b89dc3eaf37b20f5c188880895e5261f0.png?w=260",
       "description": "Tags: PPSA21733, v01.009, EUR, 4.xx BackPork\nSize: 7GB\nCredits: Files: High-Speed007; Backport: BestPig",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 7516192768
@@ -23755,7 +23807,7 @@
       ],
       "version": "v02.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01826_dad1a27f2bb22a4f5c6c2ec436e9b64c4f6a5b989d16bd858607ee3c0afb8dd9/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202007/1500/PzzL4lymRdZuLEerjeL58HG8.png?w=260",
       "description": "Tags: PPSA01826, v02.000, EUR, 1.xx and beyond\nSize: 6GB\nCredits: Files: DUPLEX & C4our20",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 6442450944
@@ -23903,7 +23955,7 @@
       ],
       "version": "v01.050",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01494_62d03a1743db4d01ae9102c82b19b7208f0a09e54183b410227d6c4ea75c84bf/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2900/c256181959227eb346613262ed37b456aad37996829e36ca.png?w=260",
       "description": "Builds: DLC\nTags: PPSA01494, v01.050, USA, 4.xx BackPork\nSize: 88GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: Psykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 94489280512
@@ -23927,7 +23979,7 @@
       ],
       "version": "v01.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA17942_08bb7c2e3025976d17704a006ebd9da9d49f377b87171d14c577cd24b0b80f2b/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2811/b2e2d208028f8ab569e95d58f3903a9e7147ea8708b6d9c3.png?w=260",
       "description": "Tags: PPSA17942, v01.001, EUR, 4.xx BackPork\nSize: 19GB\nCredits: Files: DUPLEX & SiESPta; Backport: BestPig",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 20401094656
@@ -23987,7 +24039,7 @@
       ],
       "version": "v01.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA23908_81271b2c60595fe9c7acdea078f700b2f9f9babb186c8dec946740a8b994cea0/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2820/8b05429bbbc560bda063f7190ada881888db6e6aa8ed0b30.png?w=260",
       "description": "Tags: PPSA23908, v01.001, EUR, 4.xx BackPork\nSize: 153GB\nCredits: Files: DUPLEX & SiESPta; Backport: BestPig",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 164282499072
@@ -24091,7 +24143,7 @@
       ],
       "version": "v01.002",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA14374_24f45275c15b7758fc8a8dacdb64e6e8ad1a43713428bbb475b70b5c80e6054a/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/0212/7462c81d4d6a1e1908778ae83404f715fc92d51ae1273573.png?w=260",
       "description": "Tags: PPSA14374, v01.002, USA, 4.xx BackPort\nSize: 14GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 15032385536
@@ -24251,7 +24303,7 @@
       ],
       "version": "v01.009",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28336_62d795a5e162e36d25a76f56fec346862e63889069d2bc5e4260ff9cd365d1fc/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0416/de7e107b83a2a6024ea287ee615643edf20429d1104b85cf.png?w=260",
       "description": "Tags: PPSA28336, v01.009, USA, 4.xx BackPork\nSize: 149GB\nCredits: Files: High-Speed007; Backport: BestPig",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 159987531776
@@ -24319,7 +24371,7 @@
       ],
       "version": "v01.000.006",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA23372_1fc5fa3381b8b14157f37c4e61914dbb8fb08f2ab368701f844734eddbba55cc/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2010/3574955c64a46d1405b273ce98314c3e29b699be4ad12812.png?w=260",
       "description": "Builds: DLC\nTags: PPSA23372, v01.000.006, EUR, 4.xx BackPork\nSize: 27GB\nCredits: Files: DUPLEX; Backport: BestPig; DLC: DUPLEX",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 28991029248
@@ -24511,7 +24563,7 @@
       ],
       "version": "v01.000.003",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA20052_19a1d27fc89b1f5c8570ad12aef7d0c4497d5a27619c1eae776cba165c8bea50/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0312/7332b03da43ba775a707dec4e0b28166ea11f580f52b1f76.png?w=260",
       "description": "Builds: Standard 9.xx, 4.xx BackPort\nTags: PPSA20052, v01.000.003, USA, Standard (9.xx) + 4.xx BackPort\nSize: 2GB\nCredits: Files: DUPLEX; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 2147483648
@@ -24675,7 +24727,7 @@
       ],
       "version": "v01.006",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA19007_7601ed3e04539624e40a104403ea147e68ba93fbee3d3923f26e412445ae1d8b/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1308/d679096b4b823b91c36857007219e0f95867f970776164ae.png?w=260",
       "description": "Builds: Standard 8.xx, 4.xx BackPort\nTags: PPSA19007, v01.006, EUR, Standard (8.xx) + 4.xx BackPort\nSize: 72GB\nCredits: Files: SiESPTA; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 77309411328
@@ -24823,7 +24875,7 @@
       ],
       "version": "v01.000.500",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02474_e3e471dbfb023f2ed9ef896028461172c3f5b269bd3d20cfd16604066c980c33/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/0814/l4L73TU9UomgxrcZRwJV8af8.png?w=260",
       "description": "Builds: DLC\nTags: PPSA02474, v01.000.500, USA, 1.xx and beyond\nSize: 25GB\nCredits: Files: Highspeed33; DLC: Pkykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 26843545600
@@ -24879,7 +24931,7 @@
       ],
       "version": "v01.012",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA08804_d238b6716a9798a6a58e72f5d6ebf584aa9250918023cfedef7303ca1f254fa3/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2906/2181337c431c136ad96dd04323fef4689e00e6559ae3a295.png?w=260",
       "description": "Builds: DLC\nTags: PPSA08804, v01.012, JPN, 4.xx BackPork\nSize: 13GB\nCredits: Files: DUPLEX; Backport: BestPig; DLC: DUPLEX",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 13958643712
@@ -25127,7 +25179,7 @@
       ],
       "version": "v01.005",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02372_cab3733995ac7767cde44a6681fb0d8829c45007b09f33c70c086ffe608249a9/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202112/1000/V9R0ldWdLSgS6A4d8qplbAgi.png?w=260",
       "description": "Builds: DLC\nTags: PPSA02372, v01.005, USA, 4.xx BackPort\nSize: 48GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 51539607552
@@ -25211,7 +25263,7 @@
       ],
       "version": "v01.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28628_e5ab27053e10224238ef69a51c7c3cc06ca1095c6a9bbabdea338bbc5c7ac62c/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1607/d7f77387b81da82f56f14d7d3947fb8751dd3ec21855b5f8.png?w=260",
       "description": "Tags: PPSA28628, v01.001, ASIA, 4.xx BackPork\nSize: 9GB\nCredits: Files: SiESPTA; Backport: BestPig",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 9663676416
@@ -25331,7 +25383,7 @@
       ],
       "version": "v01.003",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA16214_a4d044d494502a24b4e1addeb1fd83cc45b7a7b7b8986bec58a6b26777cf760e/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1114/2ab11b93f3b922d21a0c77af4baf962952e4e4d4ac775641.png?w=260",
       "description": "Tags: PPSA16214, v01.003, EUR + Italian Mod, 4.xx BackPort\nSize: 40GB\nCredits: Files: SiESPTA; Backport: DecKerr97\nHow to play: Italian Mod replace German Text.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 42949672960
@@ -25355,7 +25407,7 @@
       ],
       "version": "v02.004",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA09483_21364ca6c833d51ebb06505cf2545339a0c49dc065d96ca6d799fceb27245b91/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2905/7d6304b405fe7ef516919e8b6d72a4e393b154f529513de5.png?w=260",
       "description": "Tags: PPSA09483, v02.004, USA, 4.xx BackPort\nSize: 38GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 40802189312
@@ -25387,7 +25439,7 @@
       ],
       "version": "v01.010",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA09351_ca29bc0858afb6605d8d2846adbaec18eee933963e57788deb0ccae45f78f9a5/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2112/paSf87YTdxnSjGy7e9KyXcTq.png?w=260",
       "description": "Builds: DLC\nTags: PPSA09351, v01.010, USA, 4.xx BackPort\nSize: 56GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: Pkykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 60129542144
@@ -25475,7 +25527,7 @@
       ],
       "version": "v01.006",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02199_02517fd50da8c507c538b2dcaa190102c896f0040b8a5d23084b43655e79a09f/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202012/1013/DKYIpVhskEQ4jbzr1PVxsO0Z.png?w=260",
       "description": "Builds: DLC\nTags: PPSA02199, v01.006, EUR, 2.xx BackPort\nSize: 86GB\nCredits: Files: Jose Carrion & CyB1K; DLC: Pkykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 92341796864
@@ -25499,7 +25551,7 @@
       ],
       "version": "v01.001.010",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03747_2182fa2c3071e4f16941428ac1786d5c959dc6ae795fa199fc0a118d9a4e0faa/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2818/FuG72QFUf4aRYbSBAMNH2xwm.png?w=260",
       "description": "Tags: PPSA03747, v01.001.010, EUR, 3.xx BackPort\nSize: 50GB\nCredits: Files: High-Speed007 & sazanoff94",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 53687091200
@@ -25567,7 +25619,7 @@
       ],
       "version": "v01.006.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA08709_0b983cefc4d1dcf91cc6c1bf17cc792c8d2b04153392dfebcf084aba0dd7c06f/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2000/IgwsFz9BiBrFvyV7pIWpoVgd.png?w=260",
       "description": "Builds: Standard 9.xx, 4.xx BackPort\nTags: PPSA08709, v01.006.000, EUR, Standard (9.xx) + 4.xx BackPork\nSize: 90GB\nCredits: Files: SiESPTA; Backport: BestPig",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 96636764160
@@ -25591,7 +25643,7 @@
       ],
       "version": "v01.017",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA04609_955a456fde9da185b7b637b8ae043147c562f8adcaec394d4e6b70d58f3c7fd5/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202107/0902/fS3Hhaq06TqLrbjMVplA8MaY.png?w=260",
       "description": "Tags: PPSA04609, v01.017, EUR, 3.xx and beyond\nSize: 194GB\nCredits: Files: SiESPTA",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 208305913856
@@ -25615,7 +25667,7 @@
       ],
       "version": "v01.004",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA04404_dc8d000261e112ba919fafb63c1e1f94a1fbce21ad5b7a87a9935ace0ad27544/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0207/V6IViuKogBMRtajqjnYrcj0e.png?w=260",
       "description": "Tags: PPSA04404, v01.004, USA, DLCs Merged, 4.xx and beyond\nSize: 43GB\nCredits: Files: High-Speed007",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 46170898432
@@ -25639,7 +25691,7 @@
       ],
       "version": "v01.210",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01556_e20f69c4bd6ce0adcc8ff3e4c3d6b90a0d1f136ac0f8f3c4d03cfbf897860a48/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202101/0812/FkzwjnJknkrFlozkTdeQBMub.png?w=260",
       "description": "Tags: PPSA01556, v01.210, USA, DLCs Merged, 4.xx BackPork\nSize: 71GB\nCredits: Files: High-Speed007; Backport: BestPig",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 76235669504
@@ -25663,7 +25715,7 @@
       ],
       "version": "v01.002",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA09453_a90442c056b34148ea1931e3f497c99d9183327c243cb30c4668aeef7c5e4a93/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1711/3f33d803124d61c8499300a62143ce52a6a9b721395657a8.png?w=260",
       "description": "Tags: PPSA09453, v01.002, JPN, 4.xx BackPort\nSize: 11GB\nCredits: Files: SiESPTA; Backport: bbaderlink",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 11811160064
@@ -25731,7 +25783,7 @@
       ],
       "version": "v01.000.007",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA16901_fe01e9a742148f441f8e98044f41e043438d7efe2e796b93897495ab68276cf2/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202402/0221/b10e4dff0c3c4ba38ef9a331671b156c70bdfadc32a8f5cf.png?w=260",
       "description": "Builds: Standard 9.xx, 4.xx BackPort\nTags: PPSA16901, v01.000.007, EUR, Standard (9.xx) + 4.xx BackPork\nSize: 6GB\nCredits: Files: UNLiMiTED; Backport: BestPig",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 6442450944
@@ -25867,7 +25919,7 @@
       ],
       "version": "v01.000.006",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03845_e58e85def435c0aaeec43dadbdfe08cf59fbedca915c4824c1fd0459c5c93305/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2113/ZqpcW1r97RADDwHsYz2q2VaK.png?w=260",
       "description": "Builds: DLC\nTags: PPSA03845, v01.000.006, USA, 4.xx BackPort\nSize: 52GB\nCredits: Files: High-Speed007; Backport: bbaderlink; DLC: Pkykzhack\nHow to play: If save didn’t load close the game then try again and finally game will load save files after couple of try.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 55834574848
@@ -25983,7 +26035,7 @@
       ],
       "version": "v01.008",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA20114_5cf97637e316f576c9148d9b4c770b316eadcc075aae9fd866490d2a55601b8e/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202403/1415/d19b967c77b4fedc5f4051a9347b51be5b8e83c31eb243ef.png?w=260",
       "description": "Builds: Standard 9.xx, 4.xx BackPort, DLC\nTags: PPSA20114, v01.008, EUR, 4K Patch, Standard (9.xx) + 4.xx BackPort\nSize: 26GB\nCredits: Files: DUPLEX & SiESPta; Backport: DecKerr97; DLC: DUPLEX\nHow to play: Only BackPort have 4K Patch.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 27917287424
@@ -26067,7 +26119,7 @@
       ],
       "version": "v01.009",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01337_82eb283ab14e353dd5e7c9852c23f6623ff3f3a4c1a79e33a0efe684b1c6047d/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202202/1522/n6qx9GWCjkivDuCDsHhBwzhF.png?w=260",
       "description": "Tags: PPSA01337, v01.009, USA to EUR Languages, 4.xx and beyond\nSize: 47GB\nCredits: Files: High-Speed007",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 50465865728
@@ -26171,7 +26223,7 @@
       ],
       "version": "v01.004",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01949_2defd388b504fe2b0b18c33a23df3232fdbc0e79df65bb92870adc7fc23a5f94/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202102/0111/feFiOE59b8t3dKE25z85OJLV.png?w=260",
       "description": "Tags: PPSA01949, v01.004, Pro Features, USA, 4.xx BackPork\nSize: 46GB\nCredits: Files: High-Speed007; Backport: BestPig",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 49392123904
@@ -26307,7 +26359,7 @@
       ],
       "version": "v02.008",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01746_19cd5576cc62e5ff8a016a19e3a7a1c9f3d7b592ef552013be986a9d7fbbb5f4/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2307/kQzDCY5RCrSXCeeFjPGUzkGI.png?w=260",
       "description": "Builds: DLC\nTags: PPSA01746, v02.008, USA, 4.xx BackPort\nSize: 33GB\nCredits: Files: High-Speed007; Backport: bbaderlink; DLC: Pkykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 35433480192
@@ -26459,7 +26511,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02387_3427a5e562fa09efdaa0feef04d6af7ae6821a08be872d2cb5a327d07a560f9a/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA10812_00/3/i_a4d09cfb51b390c3d5f3ea77531bc847294e59386ed520f6edeb6ef377a3b4d7/i/icon0.png?w=260",
       "description": "Builds: DLC\nTags: PPSA02387, v01.000, EUR, Chapter Fix, 2.xx and beyond\nSize: 40GB\nCredits: Files: DUPLEX & Dorukhan & SPX; DLC: Pkykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 42949672960
@@ -26507,7 +26559,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA13794_968e95abf05393e57ed9d50fd7c636b72ee61b65170acc068a297bb4d91b28b4/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202411/1615/5d52bb3928c4d0e5671e391d84171ff5218631473b10819d.png?w=260",
       "description": "Tags: PPSA13794, v01.000, EUR, 9.xx and beyond\nSize: 9GB\nCredits: Files: SiESPTA",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 9663676416
@@ -26539,7 +26591,7 @@
       ],
       "version": "v01.000.002",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02433_c5846b09e85551f18001f3eea4ebb928b55adc90eff3ecf3425389a65fc27dc5/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/rnd/202010/1602/TYk0GalUXvrSG0J6aAyfd1h6.png?w=260",
       "description": "Builds: DLC\nTags: PPSA02433, v01.000.002, EUR, 2.xx and beyond\nSize: 48GB\nCredits: Files: High-Speed007 & TheRadziu; DLC: Pkykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 51539607552
@@ -26695,7 +26747,7 @@
       ],
       "version": "v01.003",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA18010_05601a6914231c1e0103fb6cad2c66a6be64dd64e68e856323d7c82c73317481/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202502/2100/90881f77d349bee47f6629b340a2b722925975e587c26bd4.png?w=260",
       "description": "Tags: PPSA18010, v01.003, USA, 4.xx BackPork\nSize: 126GB\nCredits: Files: High-Speed007; Backport: BestPig",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 135291469824
@@ -26759,7 +26811,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA25428_f8eb1904ceaaa5493e4174ba703859688accf9118fcba618e12730df3fb45569/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/1707/5838807383baec8d94aaad989ca3f7c654e1efc2a1da66c2.png?w=260",
       "description": "Builds: DLC\nTags: PPSA25428, v01.000, ASIA, 4.xx BackPork\nSize: 53GB\nCredits: Files: SiESPta; Backport: BestPig; DLC: Psykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 56908316672
@@ -26791,7 +26843,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA22322_5f774ec4f806aa57b0370fa231b01a32469cbd5ac80bdb96b24b34c4e5d74442/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0809/9d705bcd82904829b51204becb66ba72259ed62353eb99c5.png?w=260",
       "description": "Builds: DLC\nTags: PPSA22322, v01.000, ASIA, 4.xx BackPork\nSize: 47GB\nCredits: Files: SiESPta; Backport: BestPig; DLC: Psykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 50465865728
@@ -26823,7 +26875,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA23000_734d66862d6a277ddcf4fbf15db5c8e864555a688498568d78be1c631b332ae9/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0111/9e88a794181445e441f6c9f1c0d6e8cc64748f66ab144f45.png?w=260",
       "description": "Builds: DLC\nTags: PPSA23000, v01.000, USA, 4.xx BackPork\nSize: 10GB\nCredits: Files: High-Speed007; Backport: BestPig; DLC: Psykzhack",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 10737418240
@@ -26843,7 +26895,7 @@
       ],
       "version": "v01.005",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA15421_330e4fb5745c1594b2406c53f7f1fea61fff951ac98c3927fb465143a98f5517/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2910/d48262b72a5a2daa3ca3aed6c8f42c44f3fdaf2902265a13.png?w=260",
       "description": "Tags: PPSA15421, v01.005, EUR, 4.xx BackPort\nSize: 102GB\nCredits: Files: High-Speed007; Backport: Kira",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 109521666048
@@ -26871,7 +26923,7 @@
       ],
       "version": "v1.08.03",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03457_df8858e92960f9564cdde731cb85aefa5b53922cafe8af8299204ad19b4ca858/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202106/1704/JzL1NLQvok7Pghe9W5PP2XNV.png?w=260",
       "description": "Builds: DLC\nTags: PPSA03457, v1.08.03, ASIA to EUR Languages, 3.xx and beyond\nSize: 48GB\nCredits: Files: SiESPTA; DLC: SiESPTA",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 51539607552
@@ -27007,7 +27059,7 @@
       ],
       "version": "v01.008.001",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA17525_d8ec6915bbdd859ce1a5203791b253fc62f965c78a93c068609a43f187d18687/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2818/6222f35e03490b9ab85092005f6c4843af9f18fba47bdab9.png?w=260",
       "description": "Tags: PPSA17525, v01.008.001, USA, 4.xx BackPork\nSize: 133GB\nCredits: Files: High-Speed007; Backport: BestPig",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 142807662592
@@ -27023,7 +27075,7 @@
       ],
       "version": "v01.007",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA20049_ad16fb9dca9a0d050f95111c9b611c0096aa6a8c89b8951afeafd3eba7c6ec49/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2712/1e1c42b14d92280e17bda697b8c4ae13ff9f91bdb10fca89.png?w=260",
       "description": "Tags: PPSA20049, v01.007, USA, All DLCs Audio, 4.xx BackPork\nSize: 162GB\nCredits: Files: High-Speed007; Backport: BestPig",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 173946175488
@@ -27215,7 +27267,7 @@
       ],
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA07429_942e8b2b75492934c774a8e8e4de59c731ae538aa338207a1abed001cf9ad452/icon0.webp",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1308/GF0dcfGfPwikRaxDkTgWHeyR.png?w=260",
       "description": "Tags: PPSA07429, v01.000, EUR, 5.xx and beyond\nSize: 3GB\nCredits: Files: SiESPTA; Backport: BestPig",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 3221225472

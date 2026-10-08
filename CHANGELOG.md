@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 08/10/2026 à 22:57
+* **PAYLOADS**
+  * `Ps5Upload V6.5.1` (v6.5.1) - *Nouveau*
+  * `Orbit Store` (v1.0.0) - *Mise à jour (Précédent: v0.9.1)*
+  * `Pkg-Manager V1.5.0` (v1.5.0) - *Nouveau*
+  * `Fbneo-Ps5 V1.4` (v1.4) - *Nouveau*
+
 ## Build du 08/10/2026 à 17:01
 * **PAYLOADS**
   * `Webkit-Autoloader-Installer V0.6.1` (v0.6.1) - *Nouveau*

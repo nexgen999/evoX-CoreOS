@@ -75,6 +75,7 @@
       <outline text="snes9xPS5" title="snes9xPS5" type="rss" xmlUrl="https://github.com/MisterTemaki/snes9xPS5" description="snes9x emulator"/>
       <outline text="genplusgxPS5" title="genplusgxPS5" type="rss" xmlUrl="https://github.com/MisterTemaki/genplusgxPS5" description="Port of Genesis-Plus-GX for PS55"/>
       <outline text="ps5-romm" title="ps5-romm" type="rss" xmlUrl="https://github.com/s0liton/ps5-romm" description="ps5-romm for ps5"/>
+      <outline text="fbneo-ps5" title="fbneo-ps5" type="rss" xmlUrl="https://github.com/MisterTemaki/fbneo-ps5" description="FBNeo for ps5"/>
       <outline text="PHU-Sandbox.Exit" title="PHU-Sandbox.Exit" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/PHU-Sandbox.Exit_v1.0.elf" description="addon for Markus-PHU Emupack"/>
       <outline text="ps5-fan-control" title="ps5-fan-control" type="rss" xmlUrl="https://github.com/owendswang/ps5-fan-control" description="Small PS5 daemon payload ELF that sets the system fan temperature."/>
       <outline text="fan_target" title="fan_target" type="rss" xmlUrl="https://github.com/drakmor/fan_target" description="fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console's automatic fan control enabled."/>

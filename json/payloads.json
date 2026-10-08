@@ -312,14 +312,14 @@
       "checksum": "0f36b7ea3c3380303e2c74ec8d31a2c53d822cc4f4fd05cb5931d6b4f8b33c03"
     },
     {
-      "name": "Ps5Upload V6.4.0",
-      "filename": "ps5upload_v6.4.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.4.0/ps5upload_v6.4.0.elf",
-      "local_path": "payloads/ps5_server/ps5upload/v6.4.0/ps5upload_v6.4.0.elf",
+      "name": "Ps5Upload V6.5.1",
+      "filename": "ps5upload_v6.5.1.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.5.1/ps5upload_v6.5.1.elf",
+      "local_path": "payloads/ps5_server/ps5upload/v6.5.1/ps5upload_v6.5.1.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v6.4.0",
+      "version": "v6.5.1",
       "category": "PS5 Server",
-      "checksum": "b0392932ae957821fbaccee44d761a9320655995ccfa80c9ffdcc5cec2497f70"
+      "checksum": "c1f924b6ccddde28a132f56aab4b30628bd79cbb98be6e9566d9768fbac93c3a"
     },
     {
       "name": "Airpsx V0.19",
@@ -434,12 +434,12 @@
     {
       "name": "Orbit Store",
       "filename": "orbit_store.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v0.9.1/orbit_store.elf",
-      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v0.9.1/orbit_store.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.0.0/orbit_store.elf",
+      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.0.0/orbit_store.elf",
       "description": "A modern, no-BS download manager for PS5.",
-      "version": "v0.9.1",
+      "version": "v1.0.0",
       "category": "PS5 Freeshop",
-      "checksum": "a7ff23dfc0ed5cd7d5c4b05c7e0c0a4e1ea2ee2c91742e00d754122917f8f318"
+      "checksum": "8ac8d13e3855e29456205992cebe9fa1604dae0509a6ec20198076560f2a93a0"
     },
     {
       "name": "Ps5-Phstore Vphstore",
@@ -522,14 +522,14 @@
       "checksum": "a12758a431e94ff06430869a74dbae4e936503c5523fdfd5f5a2cafe3c89ebd2"
     },
     {
-      "name": "Pkg-Manager V1.4.1",
-      "filename": "pkg-manager_v1.4.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.4.1/pkg-manager_v1.4.1.elf",
-      "local_path": "payloads/ps5_pkg_tool/ps5-pkg-manager/v1.4.1/pkg-manager_v1.4.1.elf",
+      "name": "Pkg-Manager V1.5.0",
+      "filename": "pkg-manager_v1.5.0.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.5.0/pkg-manager_v1.5.0.elf",
+      "local_path": "payloads/ps5_pkg_tool/ps5-pkg-manager/v1.5.0/pkg-manager_v1.5.0.elf",
       "description": "A clean and intuitive package manager for PlayStation 5",
-      "version": "v1.4.1",
+      "version": "v1.5.0",
       "category": "PS5 Pkg Tool",
-      "checksum": "09adaff13b858bb3db519faaea673ee3fa67298081e608d32f6501ed6e9f706e"
+      "checksum": "fb29a0e3c058cd69e00320668db57704207b827b92b92e0cd23fb5fe7fe1429d"
     },
     {
       "name": "Pkg-Receiver V1.2.9",
@@ -709,7 +709,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "c0c8caa309d50c94cffa7d74221c4e0a5040185386346edf82587f165efbcbcb"
+      "checksum": "a4c6863e4a8e6a0f0c7dc3bd0fce02690c6e8ae0118a74443a316f2a304155fc"
     },
     {
       "name": "Np-Fake-Signin-Ps5",
@@ -760,6 +760,16 @@
       "version": "v1.0.2",
       "category": "PS5 Emulator",
       "checksum": "210b85775b551ca1267a5a84998e3cc9c498f764fcb7bbdd66a98d1c4c5a420d"
+    },
+    {
+      "name": "Fbneo-Ps5 V1.4",
+      "filename": "fbneo-ps5_v1.4.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v1.4/fbneo-ps5_v1.4.elf",
+      "local_path": "payloads/ps5_emulator/fbneo-ps5/v1.4/fbneo-ps5_v1.4.elf",
+      "description": "FBNeo for ps5",
+      "version": "v1.4",
+      "category": "PS5 Emulator",
+      "checksum": "80a8f5565c7fd8d5a6e9dc25f953a39c2ba5257205d9a4d82f8000fe90a180e1"
     },
     {
       "name": "Phu-Sandbox.Exit V1.0",

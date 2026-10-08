@@ -2,14 +2,14 @@
   "name": "PS5 Pkg Tool",
   "payloads": [
     {
-      "name": "Pkg-Manager V1.4.1",
-      "filename": "pkg-manager_v1.4.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.4.1/pkg-manager_v1.4.1.elf",
-      "local_path": "payloads/ps5_pkg_tool/ps5-pkg-manager/v1.4.1/pkg-manager_v1.4.1.elf",
+      "name": "Pkg-Manager V1.5.0",
+      "filename": "pkg-manager_v1.5.0.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.5.0/pkg-manager_v1.5.0.elf",
+      "local_path": "payloads/ps5_pkg_tool/ps5-pkg-manager/v1.5.0/pkg-manager_v1.5.0.elf",
       "description": "A clean and intuitive package manager for PlayStation 5",
-      "version": "v1.4.1",
+      "version": "v1.5.0",
       "category": "PS5 Pkg Tool",
-      "checksum": "09adaff13b858bb3db519faaea673ee3fa67298081e608d32f6501ed6e9f706e"
+      "checksum": "fb29a0e3c058cd69e00320668db57704207b827b92b92e0cd23fb5fe7fe1429d"
     },
     {
       "name": "Pkg-Receiver V1.2.9",
