@@ -210,17 +210,16 @@
             "title": "ProsperoLight"
         },
         {
-            "name": "Evoplayer-V0.10.0-Ppsa99039",
-            "filename": "EVOPlayer-v0.10.0-PPSA99039.ffpfsc",
-            "url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.10.0/EVOPlayer-v0.10.0-PPSA99039.ffpfsc",
-            "local_path": "ffpfsc/EVO-PLAYER-PS5/v0.10.0/EVOPlayer-v0.10.0-PPSA99039.ffpfsc",
+            "name": "Evoplayer-V0.11.0-Ppsa99039",
+            "filename": "EVOPlayer-v0.11.0-PPSA99039.ffpfsc",
+            "url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.11.0/EVOPlayer-v0.11.0-PPSA99039.ffpfsc",
+            "local_path": "ffpfsc/EVO-PLAYER-PS5/v0.11.0/EVOPlayer-v0.11.0-PPSA99039.ffpfsc",
             "description": "A media player for jailbroken PS5",
-            "version": "v0.10.0",
-            "checksum": "a2b14616a2662a5e8401aad9012ba1c0d3df68211e5b70039eedfb9a0845a0be",
+            "version": "v0.11.0",
+            "checksum": "4886c09389dade252c974147623c1a360fecee1cb0225d3b12060d7bbf01bb3a",
             "category": "FFPFSC",
-            "titleId": "PPSA99039",
-            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/icon/PPSA99039.png",
-            "title": "EVO Player"
+            "titleId": "CUSA00000",
+            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg"
         },
         {
             "name": "Prospero Radio",

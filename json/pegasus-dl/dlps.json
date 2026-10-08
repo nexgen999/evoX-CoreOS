@@ -3,6 +3,135 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA05110",
+      "title": "Persona 5 Royal",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/9AqGQZAENmMn/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/0JgG752RN3oY/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/APVmab7Kj3Xo/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/0PdzyX4w83eA/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/LJFnk"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1c1LMW"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/1XzUUy"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/PL6fI"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA05110_1ee09ff9126744922d61e7215422474860daf5a0f248b636f0670601af792ff1/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/persona-5-royal-ps5/"
+    },
+    {
+      "titleId": "PPSA05739",
+      "title": "Persona 5 Royal",
+      "downloadLinks": [
+        {
+          "name": "ASIA 5.50 Base - Akirabox part 1",
+          "url": "https://akirabox.com/9QWmpAP1r3EB/file"
+        },
+        {
+          "name": "ASIA 5.50 Base - Akirabox part 2",
+          "url": "https://akirabox.com/Pbe3PaKqQzlX/file"
+        },
+        {
+          "name": "ASIA 5.50 Base - Akirabox part 3",
+          "url": "https://akirabox.com/k0embb6pamVb/file"
+        },
+        {
+          "name": "ASIA 5.50 Base - Akirabox part 4",
+          "url": "https://akirabox.com/0Kezk7BebzD1/file"
+        },
+        {
+          "name": "ASIA 5.50 Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/22LLpQ"
+        },
+        {
+          "name": "ASIA 5.50 Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/xiorI"
+        },
+        {
+          "name": "ASIA 5.50 Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/tgxzk"
+        },
+        {
+          "name": "ASIA 5.50 Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/1yJUxs"
+        }
+      ],
+      "version": "5.50",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA05739_53e82e0bb22cd883c811c1741ece571fb201a0ca6721617efa568974a521d779/icon0.webp",
+      "description": "Region: ASIA\nRelease note: By@PSVIETHOA & MEOMATCANG & CHANBOMAYDI & CIPHER26 Works on 5.50 and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/persona-5-royal-ps5/"
+    },
+    {
+      "titleId": "PPSA08946",
+      "title": "GrimGrimoire OnceMore",
+      "downloadLinks": [
+        {
+          "name": "USA 5.xx Base - Akirabox",
+          "url": "https://akirabox.com/0rpmvpK0wzRg/file"
+        },
+        {
+          "name": "USA 5.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1W6X3I"
+        },
+        {
+          "name": "USA 5.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/61THiSsuRa"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202302/1520/a10f8e3d0f1c68926ebeab716f8cffcebb2a3f706517f8ad.png?w=260",
+      "description": "Region: USA\nRelease note: Works on 5.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/grimgrimoire-oncemore-ps5/"
+    },
+    {
+      "titleId": "PPSA13995",
+      "title": "Jeanne dArc",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.com/QN9mEqlMLm6d/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/RU012"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/TyexMoYl4l"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA13995_ee4dfafd996e2c0ca40bac354f7c77aaaaf965e81770fa2e100f486549c4c01b/icon0.webp",
+      "description": "Region: USA\nRelease note: Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/jeanne-darc-ps5/"
+    },
+    {
       "titleId": "PPSA36257",
       "title": "Luna Abyss",
       "downloadLinks": [
@@ -93,6 +222,22 @@
         {
           "name": "EUR 11.xx Base - Rootz part 4",
           "url": "https://www.rootz.so/d/fd1RQ"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/5BtapU6X3A"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/hgbrQdNjoZ"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/XhqEhAzVRk"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/l7ejoSO36y"
         }
       ],
       "category": "game",
@@ -5960,6 +6105,28 @@
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/3102/8ff786c1eabe992daa21976e07b7dd94d77f6a0a18fc3e1e.png?w=260",
       "description": "Region: HK\nRelease note: Works on 10.xx and higher\nContributor: @DLPS Team\nPassword: DLPSGAME.COM",
       "downloadSource": "https://dlpsgame.com/atelier-ryza-2-lost-legends-and-the-secret-fairy-dx-ps5/"
+    },
+    {
+      "titleId": "PPSA01280",
+      "title": "Share Factory Studio",
+      "downloadLinks": [
+        {
+          "name": "Release 1 Base - Akirabox",
+          "url": "https://akirabox.com/ex5z25egb3Kq/file"
+        },
+        {
+          "name": "Release 1 Base - Rootz",
+          "url": "https://www.rootz.so/d/1r3lg"
+        },
+        {
+          "name": "Release 1 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/wMVlu2Vhos"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01280_91dc66badc273569d6765d542fd29a9911308c45c60086099bd1c4daf6619374/icon0.webp",
+      "description": "Release note: Dump & backport by Deckerr97 Special thanks to BestPig & Nazky\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/share-factory-studio-ps5/"
     },
     {
       "titleId": "PPSA23732",

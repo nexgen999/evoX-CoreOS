@@ -42,7 +42,8 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 ## 📦 Packs Latest à Télécharger (AIO)
 
-- **PS5 APPS AIO** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_apps_aio_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_apps_aio_latest.zip)
+- **PS5 APPS AIO PART1** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_apps_aio_part1_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_apps_aio_part1_latest.zip)
+- **PS5 APPS AIO PART2** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_apps_aio_part2_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_apps_aio_part2_latest.zip)
 - **PS5 FFPFSC AIO** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ffpfsc_aio_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ffpfsc_aio_latest.zip)
 - **PS5 PAYLOADS AIO** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_payloads_aio_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_payloads_aio_latest.zip)
 - **PS5 PKG AIO PART1** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_pkg_aio_part1_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_pkg_aio_part1_latest.zip)
@@ -50,6 +51,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 - **PS5 ULTIMATE PACK PART1** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part1_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part1_latest.zip)
 - **PS5 ULTIMATE PACK PART2** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part2_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part2_latest.zip)
 - **PS5 ULTIMATE PACK PART3** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part3_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part3_latest.zip)
+- **PS5 ULTIMATE PACK PART4** : [https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part4_latest.zip](https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part4_latest.zip)
 
 ---
 ## ⚡ Payloads (.elf / .bin) Disponibles par Catégorie
@@ -65,7 +67,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Host-Psm-Poop2Jb-V1.2.0-Instala-Onionhen-En V1.2.0 | [v1.2.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-onionhen-en_v1.2.0.elf) | `90f1ec197e66...` | Host-PSM pooP2JB. |
 | Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr V1.2.0 | [v1.2.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0.elf) | `b81609da1db0...` | Host-PSM pooP2JB. |
 | Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr-En V1.2.0 | [v1.2.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf) | `3ccc45938dcc...` | Host-PSM pooP2JB. |
-| Webkit-Autoloader-Installer V0.5.2 | [v0.5.2](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.5.2/webkit-autoloader-installer_v0.5.2.elf) | `f990e48e8330...` | Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00. |
+| Webkit-Autoloader-Installer V0.6.1 | [v0.6.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.6.1/webkit-autoloader-installer_v0.6.1.elf) | `f662c75a502e...` | Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00. |
 
 ### 📂 PS5 Activation
 
@@ -127,11 +129,10 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Genplusgxps5 V1.2 | [v1.2](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.2/genplusgxPS5_v1.2.elf) | `b1c3e0f2fb46...` | Port of Genesis-Plus-GX for PS55 |
+| Genplusgxps5 V1.3 | [v1.3](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.3/genplusgxPS5_v1.3.elf) | `a4d1b06f19e4...` | Port of Genesis-Plus-GX for PS55 |
 | Phu-Sandbox.Exit V1.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PHU-Sandbox.Exit/Source-Fixe/PHU-Sandbox.Exit_v1.0.elf) | `228462a0f7fc...` | addon for Markus-PHU Emupack |
 | Ps5-Romm V1.0.2 | [v1.0.2](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.0.2/ps5-romm_v1.0.2.elf) | `210b85775b55...` | ps5-romm for ps5 |
-| Ps5X360 V0.5.7-Fix.1 | [v0.5.7-fix.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.5.7-fix.1/PS5X360_v0.5.7-fix.1.elf) | `5da64c23263e...` | x360 emu for ps5, you need PPSA97358.zip |
-| Snes9Xps5 V2.0 | [v2.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.0/snes9xPS5_v2.0.elf) | `fa7d317ef132...` | snes9x emulator |
+| Snes9Xps5 V2.1 | [v2.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.1/snes9xPS5_v2.1.elf) | `5200c9e9e1bd...` | snes9x emulator |
 
 ### 📂 PS5 Fan
 
@@ -168,10 +169,10 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Orbit Store | [v0.9.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v0.9.0/orbit_store.elf) | `aeef769d8150...` | A modern, no-BS download manager for PS5. |
+| Orbit Store | [v0.9.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v0.9.1/orbit_store.elf) | `a7ff23dfc0ed...` | A modern, no-BS download manager for PS5. |
 | Pegasus-Dl V1.10.1 | [v1.10.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.10.1/pegasus-dl_v1.10.1.elf) | `b24fdc62fc6c...` | free store webadmin http://your-ps5-ip:6970. |
 | Ps5-Phstore Vphstore | [PHStore](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5-PHStore/PHStore/PS5-PHStore_vPHStore.elf) | `64d5c4605a06...` | Free PH Store client for PS5. |
-| Ps5Library-Agent-0.2.55 | [v0.2.55](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.55/ps5library-agent-0.2.55.elf) | `1efb53f018dc...` | You need PS5Library.pkg. |
+| Ps5Library-Agent-0.2.70 | [v0.2.70](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.70/ps5library-agent-0.2.70.elf) | `978c77ce7cd7...` | You need PS5Library.pkg. |
 | Ps5Shopappkg-Dpi | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/ps5shopappkg-dpi/Source-Fixe/ps5shopappkg-dpi.elf) | `c4672cfa9094...` | You need PS5-SHOP-APPKG.pkg DPI port 9040. |
 
 ### 📂 PS5 Game Dump
@@ -244,7 +245,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `7f6cc2363d16...` | Connect your Bluetooth controllers to your PS5 console. |
+| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `c0c8caa309d5...` | Connect your Bluetooth controllers to your PS5 console. |
 | Fgg-Xsense V1.1 | [1.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
 | Ghost-Toothapi | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | `744277a72a26...` | ghost-toothAPI. |
 | Omnipad-Ps5 V1.0.4-Hotfix1 | [v1.0.4-hotfix1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf) | `00677d6cfac7...` | Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60). |
@@ -400,7 +401,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Evoplayer-V0.10.0-Ppsa99039 | [v0.10.0](https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.10.0/EVOPlayer-v0.10.0-PPSA99039.ffpfsc) | `a2b14616a266...` | A media player for jailbroken PS5 |
+| Evoplayer-V0.11.0-Ppsa99039 | [v0.11.0](https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.11.0/EVOPlayer-v0.11.0-PPSA99039.ffpfsc) | `4886c09389da...` | A media player for jailbroken PS5 |
 | Ppsa99002 | [01.000.060](https://github.com/blackbearreloaded/ProsperoLight/releases/download/01.000.060/PPSA99002.ffpfsc) | `6e92e8f862cf...` | PS5 Moonlight |
 | Prospero Radio | [02.000.055](https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/02.000.055/PROSPERO_RADIO.ffpfsc) | `7fc1350a7768...` | An internet radio for PS5 with a real radio face — rendered with Vulkan. |
 
@@ -418,6 +419,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Castation-0.4.0 | [v0.4.0](https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip) | `6b17a8feaf3a...` | Dreamcast flycast emu for ps5 |
 | Flycast-Ps5-2026.10.06 | [v2026.10.06-run14](https://github.com/rpf16rj/flycast-ps5-libretro-core/releases/download/v2026.10.06-run14/flycast-ps5-2026.10.06.zip) | `c53a603af916...` | flycast-ps5-libretro-core |
 | Helper | [Alpha-2](https://github.com/ZiZc3/XPSemu/releases/download/Alpha-2/helper.elf) | `29c271432859...` | Xbox emulator (Xemu) port for the PS5 |
+| Kinect-Phone | [v0.5.8-fix1](https://github.com/BrinooTk/PS5X360/releases/download/v0.5.8-fix1/Kinect-Phone.zip) | `687b86430efc...` | x360 emu for ps5, you need xpsemu_tools.elf |
 | Markus Phu-Emupack Dreamcast.Ps5 | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack_Dreamcast.PS5.rar) | `65e1ab652c46...` | Markus_PHU-EmuPack_Dreamcast.PS5 |
 | Markus Phu-Emupack Ps1-Tool.Ps5 | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack_PS1-Tool.PS5.rar) | `f2abb56e05c0...` | EmuPack_PS1-Tool.PS5 |
 | Markus Phu-Emupack-Neogeo.Ps5 | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-NeoGeo.PS5.rar) | `dff3c2733ff0...` | EmuPack-NeoGeo.PS5 |
@@ -428,14 +430,15 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Markus Phu-Emupack-Ultra64.Ps5 | [Source-Fixe](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-Ultra64.PS5.rar) | `0d259ccbe37f...` | EmuPack-Ultra64.PS5 |
 | Phu-Sandbox.Exit V1.0 | [v3.0](https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/PHU-Sandbox.Exit_v1.0.elf) | `228462a0f7fc...` | EmuPack_Mame.PS5 |
 | Porpoise-2.5 | [v2.5](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v2.5/Porpoise-2.5.zip) | `a6de0af1d2b4...` | GameCube and Wii Dolphin emu for ps5 |
-| Ppsa19111 | [v1.2](https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.2/PPSA19111.zip) | `2d7ad259a86e...` | Half-Life (Xash3D FWGS) native homebrew port for PS5 |
-| Ppsa50011 | [v0.5.7-fix.1](https://github.com/BrinooTk/PS5X360/releases/download/v0.5.7-fix.1/PPSA50011.zip) | `33d012a6baa0...` | x360 emu for ps5, you need xpsemu_tools.elf |
+| Ppsa19111 | [v1.3](https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.3/PPSA19111.zip) | `1bb8f143016c...` | Half-Life (Xash3D FWGS) native homebrew port for PS5 |
+| Ppsa50011 | [v0.5.8-fix1](https://github.com/BrinooTk/PS5X360/releases/download/v0.5.8-fix1/PPSA50011.zip) | `0cb09bf19ce9...` | x360 emu for ps5, you need xpsemu_tools.elf |
 | Ppsa97358 | [Alpha-2](https://github.com/ZiZc3/XPSemu/releases/download/Alpha-2/PPSA97358.zip) | `66260113cd78...` | Xbox emulator (Xemu) port for the PS5 |
 | Ppsa99300 | [alpha](https://github.com/tsuramatsu1/Vita3K-PS5/releases/download/alpha/PPSA99300.zip) | `bee5db90dd10...` | Vita3K for PS5 |
 | Ppsa99666 | [v1.1.1](https://github.com/lowbit/ps5-doom/releases/download/v1.1.1/PPSA99666.zip) | `4d8e5b785b61...` | Native DOOM for PS5 |
 | Ppsa99808 | [v0.1.2](https://github.com/RafaelNGP/pico8-ps5/releases/download/v0.1.2/PPSA99808.zip) | `d76e2bd55ea3...` | PICO-8 for PS5 |
 | Prospero-Win-V0.1.1 | [v0.1.1](https://github.com/mpereiraesaa/prospero-win/releases/download/v0.1.1/prospero-win-v0.1.1.zip) | `fdfa016cd609...` | Wine for PS5 |
-| Ps5X360-Autolog-V1.0.9-Preview | [v0.5.7-fix.1](https://github.com/BrinooTk/PS5X360/releases/download/v0.5.7-fix.1/PS5X360-AutoLog-v1.0.9-preview.elf) | `5da64c23263e...` | x360 emu for ps5, you need xpsemu_tools.elf |
+| Ps5X360-Autolog-V1.0.9-Preview | [v0.5.8-fix1](https://github.com/BrinooTk/PS5X360/releases/download/v0.5.8-fix1/PS5X360-AutoLog-v1.0.9-preview.elf) | `5da64c23263e...` | x360 emu for ps5, you need xpsemu_tools.elf |
+| Ps5X360-Source-0.5.8-Fix1 | [v0.5.8-fix1](https://github.com/BrinooTk/PS5X360/releases/download/v0.5.8-fix1/PS5X360-source-0.5.8-fix1.zip) | `b4557a9221db...` | x360 emu for ps5, you need xpsemu_tools.elf |
 
 ### 📂 Applications
 

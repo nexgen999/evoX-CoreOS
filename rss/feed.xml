@@ -107,10 +107,10 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Payloads] Webkit-Autoloader-Installer V0.5.2</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.5.2/webkit-autoloader-installer_v0.5.2.elf</link>
+      <title>[Payloads] Webkit-Autoloader-Installer V0.6.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.6.1/webkit-autoloader-installer_v0.6.1.elf</link>
       <description>Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00.</description>
-      <pubDate>v0.5.2</pubDate>
+      <pubDate>v0.6.1</pubDate>
     </item>
     <item>
       <title>[Payloads] Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr-En V1.2.0</title>
@@ -257,16 +257,16 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Library-Agent-0.2.55</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.55/ps5library-agent-0.2.55.elf</link>
+      <title>[Payloads] Ps5Library-Agent-0.2.70</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.70/ps5library-agent-0.2.70.elf</link>
       <description>You need PS5Library.pkg.</description>
-      <pubDate>v0.2.55</pubDate>
+      <pubDate>v0.2.70</pubDate>
     </item>
     <item>
       <title>[Payloads] Orbit Store</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v0.9.0/orbit_store.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v0.9.1/orbit_store.elf</link>
       <description>A modern, no-BS download manager for PS5.</description>
-      <pubDate>v0.9.0</pubDate>
+      <pubDate>v0.9.1</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-Phstore Vphstore</title>
@@ -443,22 +443,16 @@
       <pubDate>v2.5</pubDate>
     </item>
     <item>
-      <title>[Payloads] Snes9Xps5 V2.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.0/snes9xPS5_v2.0.elf</link>
+      <title>[Payloads] Snes9Xps5 V2.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.1/snes9xPS5_v2.1.elf</link>
       <description>snes9x emulator</description>
-      <pubDate>v2.0</pubDate>
+      <pubDate>v2.1</pubDate>
     </item>
     <item>
-      <title>[Payloads] Genplusgxps5 V1.2</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.2/genplusgxPS5_v1.2.elf</link>
+      <title>[Payloads] Genplusgxps5 V1.3</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.3/genplusgxPS5_v1.3.elf</link>
       <description>Port of Genesis-Plus-GX for PS55</description>
-      <pubDate>v1.2</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Ps5X360 V0.5.7</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>PS5X360</pubDate>
+      <pubDate>v1.3</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-Romm V1.0.2</title>
@@ -713,10 +707,22 @@
       <pubDate>ps5-web-file-manager</pubDate>
     </item>
     <item>
+      <title>[Payloads] Ps5Library-Agent-0.2.55</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>PS5Library</pubDate>
+    </item>
+    <item>
       <title>[Payloads] Spectrum-Library V1.4.8</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>Spectrum-Library</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Ps5X360 V0.5.7</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>PS5X360</pubDate>
     </item>
     <item>
       <title>[Packages PKG] Ps5Pkg Avatar-Changer V1.00</title>
@@ -815,10 +821,10 @@
       <pubDate>01.000.060</pubDate>
     </item>
     <item>
-      <title>[Fichiers FFPFSC] Evoplayer-V0.10.0-Ppsa99039</title>
-      <link>https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.10.0/EVOPlayer-v0.10.0-PPSA99039.ffpfsc</link>
+      <title>[Fichiers FFPFSC] Evoplayer-V0.11.0-Ppsa99039</title>
+      <link>https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.11.0/EVOPlayer-v0.11.0-PPSA99039.ffpfsc</link>
       <description>A media player for jailbroken PS5</description>
-      <pubDate>v0.10.0</pubDate>
+      <pubDate>v0.11.0</pubDate>
     </item>
     <item>
       <title>[Fichiers FFPFSC] Prospero Radio</title>
@@ -887,16 +893,28 @@
       <pubDate>v2026.10.06-run14</pubDate>
     </item>
     <item>
-      <title>[Applications] Ppsa50011</title>
-      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.7-fix.1/PPSA50011.zip</link>
+      <title>[Applications] Kinect-Phone</title>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.8-fix1/Kinect-Phone.zip</link>
       <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
-      <pubDate>v0.5.7-fix.1</pubDate>
+      <pubDate>v0.5.8-fix1</pubDate>
+    </item>
+    <item>
+      <title>[Applications] Ppsa50011</title>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.8-fix1/PPSA50011.zip</link>
+      <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
+      <pubDate>v0.5.8-fix1</pubDate>
     </item>
     <item>
       <title>[Applications] Ps5X360-Autolog-V1.0.9-Preview</title>
-      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.7-fix.1/PS5X360-AutoLog-v1.0.9-preview.elf</link>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.8-fix1/PS5X360-AutoLog-v1.0.9-preview.elf</link>
       <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
-      <pubDate>v0.5.7-fix.1</pubDate>
+      <pubDate>v0.5.8-fix1</pubDate>
+    </item>
+    <item>
+      <title>[Applications] Ps5X360-Source-0.5.8-Fix1</title>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.8-fix1/PS5X360-source-0.5.8-fix1.zip</link>
+      <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
+      <pubDate>v0.5.8-fix1</pubDate>
     </item>
     <item>
       <title>[Applications] Helper</title>
@@ -918,9 +936,9 @@
     </item>
     <item>
       <title>[Applications] Ppsa19111</title>
-      <link>https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.2/PPSA19111.zip</link>
+      <link>https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.3/PPSA19111.zip</link>
       <description>Half-Life (Xash3D FWGS) native homebrew port for PS5</description>
-      <pubDate>v1.2</pubDate>
+      <pubDate>v1.3</pubDate>
     </item>
     <item>
       <title>[Applications] Ppsa99666</title>

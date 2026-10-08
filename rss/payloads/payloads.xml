@@ -107,10 +107,10 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>Webkit-Autoloader-Installer V0.5.2</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.5.2/webkit-autoloader-installer_v0.5.2.elf</link>
+      <title>Webkit-Autoloader-Installer V0.6.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.6.1/webkit-autoloader-installer_v0.6.1.elf</link>
       <description>Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00.</description>
-      <pubDate>v0.5.2</pubDate>
+      <pubDate>v0.6.1</pubDate>
     </item>
     <item>
       <title>Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr-En V1.2.0</title>
@@ -257,16 +257,16 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>Ps5Library-Agent-0.2.55</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.55/ps5library-agent-0.2.55.elf</link>
+      <title>Ps5Library-Agent-0.2.70</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.70/ps5library-agent-0.2.70.elf</link>
       <description>You need PS5Library.pkg.</description>
-      <pubDate>v0.2.55</pubDate>
+      <pubDate>v0.2.70</pubDate>
     </item>
     <item>
       <title>Orbit Store</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v0.9.0/orbit_store.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v0.9.1/orbit_store.elf</link>
       <description>A modern, no-BS download manager for PS5.</description>
-      <pubDate>v0.9.0</pubDate>
+      <pubDate>v0.9.1</pubDate>
     </item>
     <item>
       <title>Ps5-Phstore Vphstore</title>
@@ -443,22 +443,16 @@
       <pubDate>v2.5</pubDate>
     </item>
     <item>
-      <title>Snes9Xps5 V2.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.0/snes9xPS5_v2.0.elf</link>
+      <title>Snes9Xps5 V2.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.1/snes9xPS5_v2.1.elf</link>
       <description>snes9x emulator</description>
-      <pubDate>v2.0</pubDate>
+      <pubDate>v2.1</pubDate>
     </item>
     <item>
-      <title>Genplusgxps5 V1.2</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.2/genplusgxPS5_v1.2.elf</link>
+      <title>Genplusgxps5 V1.3</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.3/genplusgxPS5_v1.3.elf</link>
       <description>Port of Genesis-Plus-GX for PS55</description>
-      <pubDate>v1.2</pubDate>
-    </item>
-    <item>
-      <title>Ps5X360 V0.5.7</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>PS5X360</pubDate>
+      <pubDate>v1.3</pubDate>
     </item>
     <item>
       <title>Ps5-Romm V1.0.2</title>
@@ -713,10 +707,22 @@
       <pubDate>ps5-web-file-manager</pubDate>
     </item>
     <item>
+      <title>Ps5Library-Agent-0.2.55</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>PS5Library</pubDate>
+    </item>
+    <item>
       <title>Spectrum-Library V1.4.8</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>Spectrum-Library</pubDate>
+    </item>
+    <item>
+      <title>Ps5X360 V0.5.7</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>PS5X360</pubDate>
     </item>
   </channel>
 </rss>

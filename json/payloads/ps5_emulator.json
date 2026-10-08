@@ -2,34 +2,24 @@
   "name": "PS5 Emulator",
   "payloads": [
     {
-      "name": "Snes9Xps5 V2.0",
-      "filename": "snes9xPS5_v2.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.0/snes9xPS5_v2.0.elf",
-      "local_path": "payloads/ps5_emulator/snes9xPS5/v2.0/snes9xPS5_v2.0.elf",
+      "name": "Snes9Xps5 V2.1",
+      "filename": "snes9xPS5_v2.1.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.1/snes9xPS5_v2.1.elf",
+      "local_path": "payloads/ps5_emulator/snes9xPS5/v2.1/snes9xPS5_v2.1.elf",
       "description": "snes9x emulator",
-      "version": "v2.0",
+      "version": "v2.1",
       "category": "PS5 Emulator",
-      "checksum": "fa7d317ef132fdbcb085376ab4ee6bcf539a0edb23b8df7a34c236f2dc6f1ae6"
+      "checksum": "5200c9e9e1bd858b2586de9e2d7ee0c1b8f1dfe9cfaffef8823db501ef38329e"
     },
     {
-      "name": "Genplusgxps5 V1.2",
-      "filename": "genplusgxPS5_v1.2.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.2/genplusgxPS5_v1.2.elf",
-      "local_path": "payloads/ps5_emulator/genplusgxPS5/v1.2/genplusgxPS5_v1.2.elf",
+      "name": "Genplusgxps5 V1.3",
+      "filename": "genplusgxPS5_v1.3.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.3/genplusgxPS5_v1.3.elf",
+      "local_path": "payloads/ps5_emulator/genplusgxPS5/v1.3/genplusgxPS5_v1.3.elf",
       "description": "Port of Genesis-Plus-GX for PS55",
-      "version": "v1.2",
+      "version": "v1.3",
       "category": "PS5 Emulator",
-      "checksum": "b1c3e0f2fb46099c7f6e79a59b9dcdc1f8daefd0b54d462d9e3053486d34cbf6"
-    },
-    {
-      "name": "Ps5X360 V0.5.7-Fix.1",
-      "filename": "PS5X360_v0.5.7-fix.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PS5X360/v0.5.7-fix.1/PS5X360_v0.5.7-fix.1.elf",
-      "local_path": "payloads/ps5_emulator/PS5X360/v0.5.7-fix.1/PS5X360_v0.5.7-fix.1.elf",
-      "description": "x360 emu for ps5, you need PPSA97358.zip",
-      "version": "v0.5.7-fix.1",
-      "category": "PS5 Emulator",
-      "checksum": "5da64c23263e6868696aa0f8b1bfd0eb97581bae73124d08066b507652adfbfb"
+      "checksum": "a4d1b06f19e4bff7017e16d698143abb46a7171a3f3f9f569eb4add72dfb9192"
     },
     {
       "name": "Ps5-Romm V1.0.2",

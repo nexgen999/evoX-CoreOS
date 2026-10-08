@@ -1,9 +1,10 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.08-0428)
+### 🚀 Synthèse de la mise à jour (v2026.10.08-1701)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
 #### 📦 Archives AIO Disponibles (Dossier `archives/`) :
-- `PS5_apps_aio_latest.zip`
+- `PS5_apps_aio_part1_latest.zip`
+- `PS5_apps_aio_part2_latest.zip`
 - `PS5_ffpfsc_aio_latest.zip`
 - `PS5_payloads_aio_latest.zip`
 - `PS5_pkg_aio_part1_latest.zip`
@@ -11,6 +12,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
 - `PS5_ultimate_pack_part1_latest.zip`
 - `PS5_ultimate_pack_part2_latest.zip`
 - `PS5_ultimate_pack_part3_latest.zip`
+- `PS5_ultimate_pack_part4_latest.zip`
 
 #### 📂 Fichiers inclus / mis à jour :
 📜 [Consulter le journal complet des modifications (CHANGELOG.md)](CHANGELOG.md)
@@ -37,7 +39,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `kstuff-1.13-fpkg-dr-test5.elf`
   * `a53_ppr_install_1140_20.09.elf`
   * `a53_ppr_install_1160_20.09.elf`
-  * `webkit-autoloader-installer_v0.5.2.elf`
+  * `webkit-autoloader-installer_v0.6.1.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0.elf`
@@ -62,7 +64,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `FGG-Unpack_v0.1.elf`
   * `pegasus-dl_v1.10.1.elf`
   * `ps5shopappkg-dpi.elf`
-  * `ps5library-agent-0.2.55.elf`
+  * `ps5library-agent-0.2.70.elf`
   * `orbit_store.elf`
   * `PS5-PHStore_vPHStore.elf`
   * `actremotelink_agent_v2.0.elf`
@@ -93,9 +95,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `AnyPad-PS5_v0.6.0.elf`
   * `np-fake-signin-ps5.elf`
   * `ps5-linux-loader_v2.5.elf`
-  * `snes9xPS5_v2.0.elf`
-  * `genplusgxPS5_v1.2.elf`
-  * `PS5X360_v0.5.7.elf`
+  * `snes9xPS5_v2.1.elf`
+  * `genplusgxPS5_v1.3.elf`
   * `ps5-romm_v1.0.2.elf`
   * `PHU-Sandbox.Exit_v1.0.elf`
   * `ps5-fan-control_v0.3.elf`
@@ -138,7 +139,9 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PS5-Game-Compressor_fork_v1.1.1.elf`
   * `web-file-mgr_v1.9.elf`
   * `web-file-mgr-v1.9.elf`
+  * `ps5library-agent-0.2.55.elf`
   * `Spectrum-Library_v1.4.8.elf`
+  * `PS5X360_v0.5.7.elf`
 
 </details>
 
@@ -169,7 +172,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
 
 * **files**
   * `PPSA99002.ffpfsc`
-  * `EVOPlayer-v0.10.0-PPSA99039.ffpfsc`
+  * `EVOPlayer-v0.11.0-PPSA99039.ffpfsc`
   * `PROSPERO_RADIO.ffpfsc`
 
 </details>
@@ -188,8 +191,10 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99000.zip`
   * `SpectrumLibrary_1.0.4.zip`
   * `flycast-ps5-2026.10.06.zip`
+  * `Kinect-Phone.zip`
   * `PPSA50011.zip`
   * `PS5X360-AutoLog-v1.0.9-preview.elf`
+  * `PS5X360-source-0.5.8-fix1.zip`
   * `helper.elf`
   * `PPSA97358.zip`
   * `Porpoise-2.5.zip`

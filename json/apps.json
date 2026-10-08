@@ -102,23 +102,43 @@
       "category": "Applications"
     },
     {
+      "name": "Kinect-Phone",
+      "filename": "Kinect-Phone.zip",
+      "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.5.8-fix1/Kinect-Phone.zip",
+      "local_path": "apps/PS5X360/v0.5.8-fix1/Kinect-Phone.zip",
+      "description": "x360 emu for ps5, you need xpsemu_tools.elf",
+      "version": "v0.5.8-fix1",
+      "checksum": "687b86430efcfb9db9ba626455bb216c628b8b0ff0db20583a6838cc49a69701",
+      "category": "Applications"
+    },
+    {
       "name": "Ppsa50011",
       "filename": "PPSA50011.zip",
-      "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.5.7-fix.1/PPSA50011.zip",
-      "local_path": "apps/PS5X360/v0.5.7-fix.1/PPSA50011.zip",
+      "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.5.8-fix1/PPSA50011.zip",
+      "local_path": "apps/PS5X360/v0.5.8-fix1/PPSA50011.zip",
       "description": "x360 emu for ps5, you need xpsemu_tools.elf",
-      "version": "v0.5.7-fix.1",
-      "checksum": "33d012a6baa0b6d63f2a6b780e8e6133df1e92c9690110caa87ae28956d22899",
+      "version": "v0.5.8-fix1",
+      "checksum": "0cb09bf19ce9314408f1e8b9beb67bba3c4756406ad716dc03f7b6b3e636ba33",
       "category": "Applications"
     },
     {
       "name": "Ps5X360-Autolog-V1.0.9-Preview",
       "filename": "PS5X360-AutoLog-v1.0.9-preview.elf",
-      "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.5.7-fix.1/PS5X360-AutoLog-v1.0.9-preview.elf",
-      "local_path": "apps/PS5X360/v0.5.7-fix.1/PS5X360-AutoLog-v1.0.9-preview.elf",
+      "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.5.8-fix1/PS5X360-AutoLog-v1.0.9-preview.elf",
+      "local_path": "apps/PS5X360/v0.5.8-fix1/PS5X360-AutoLog-v1.0.9-preview.elf",
       "description": "x360 emu for ps5, you need xpsemu_tools.elf",
-      "version": "v0.5.7-fix.1",
+      "version": "v0.5.8-fix1",
       "checksum": "5da64c23263e6868696aa0f8b1bfd0eb97581bae73124d08066b507652adfbfb",
+      "category": "Applications"
+    },
+    {
+      "name": "Ps5X360-Source-0.5.8-Fix1",
+      "filename": "PS5X360-source-0.5.8-fix1.zip",
+      "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.5.8-fix1/PS5X360-source-0.5.8-fix1.zip",
+      "local_path": "apps/PS5X360/v0.5.8-fix1/PS5X360-source-0.5.8-fix1.zip",
+      "description": "x360 emu for ps5, you need xpsemu_tools.elf",
+      "version": "v0.5.8-fix1",
+      "checksum": "b4557a9221dbb3958a7b97538302d05e883d959eff87f4a3e07834de3ce0f39d",
       "category": "Applications"
     },
     {
@@ -154,11 +174,11 @@
     {
       "name": "Ppsa19111",
       "filename": "PPSA19111.zip",
-      "url": "https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.2/PPSA19111.zip",
-      "local_path": "apps/xash3d-ps5/v1.2/PPSA19111.zip",
+      "url": "https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.3/PPSA19111.zip",
+      "local_path": "apps/xash3d-ps5/v1.3/PPSA19111.zip",
       "description": "Half-Life (Xash3D FWGS) native homebrew port for PS5",
-      "version": "v1.2",
-      "checksum": "2d7ad259a86ece821978ebe69a0955b43a8c225066a58d3392f14d26efc893c6",
+      "version": "v1.3",
+      "checksum": "1bb8f143016c51d0fac8e1621e95c65aa6cf143ee7eeb03b4ab3febe5c294670",
       "category": "Applications"
     },
     {

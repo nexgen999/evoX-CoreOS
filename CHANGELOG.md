@@ -1,5 +1,22 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 08/10/2026 à 17:01
+* **PAYLOADS**
+  * `Webkit-Autoloader-Installer V0.6.1` (v0.6.1) - *Nouveau*
+  * `Ps5Library-Agent-0.2.70` (v0.2.70) - *Nouveau*
+  * `Orbit Store` (v0.9.1) - *Mise à jour (Précédent: v0.9.0)*
+  * `Snes9Xps5 V2.1` (v2.1) - *Nouveau*
+  * `Genplusgxps5 V1.3` (v1.3) - *Nouveau*
+  * `Ps5Library-Agent-0.2.55` (PS5Library) - *Mise à jour (Précédent: v0.2.55)*
+* **FFPFSC**
+  * `Evoplayer-V0.11.0-Ppsa99039` (v0.11.0) - *Nouveau*
+* **APPS**
+  * `Kinect-Phone` (v0.5.8-fix1) - *Nouveau*
+  * `Ppsa50011` (v0.5.8-fix1) - *Mise à jour (Précédent: v0.5.7-fix.1)*
+  * `Ps5X360-Autolog-V1.0.9-Preview` (v0.5.8-fix1) - *Mise à jour (Précédent: v0.5.7-fix.1)*
+  * `Ps5X360-Source-0.5.8-Fix1` (v0.5.8-fix1) - *Nouveau*
+  * `Ppsa19111` (v1.3) - *Mise à jour (Précédent: v1.2)*
+
 ## Build du 08/10/2026 à 04:28
 * **PAYLOADS**
   * `Ps5Upload V6.4.0` (v6.4.0) - *Nouveau*

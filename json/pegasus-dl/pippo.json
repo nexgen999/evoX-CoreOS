@@ -3,6 +3,206 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA18054",
+      "title": "Star Wars Zero Company Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/wJIb7DOn#DataNodes"
+        },
+        {
+          "name": "DLC - Vault",
+          "url": "https://link-vault.org/c/wJIb7DOn#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/xqokKMSA#DataNodes"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/xqokKMSA#AkiraBox"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://link-vault.org/c/xqokKMSA#FileDitch"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/xqokKMSA#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/9N329rkg#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/9N329rkg#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/9N329rkg#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://link-vault.org/c/9N329rkg#FileDitch"
+        }
+      ],
+      "version": "v01.000.003",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202608/2110/422562f57b88bf0efe97eb9dde23aef5ac80fc4a82d4398d.png?w=260",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA18054, v01.000.003, USA, 4.xx BackPort\nSize: 104GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 11.xx, separated BackPort PKG for 4.xx Only & 5.xx+ included with fixes.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 111669149696
+    },
+    {
+      "titleId": "PPSA26578",
+      "title": "MOUSE PI For Hire",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/ZFob6KU0#DataNodes"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/ZFob6KU0#AkiraBox"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://link-vault.org/c/ZFob6KU0#FileDitch"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/ZFob6KU0#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/mDqn9Bh1#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/mDqn9Bh1#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/mDqn9Bh1#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://link-vault.org/c/mDqn9Bh1#FileDitch"
+        }
+      ],
+      "version": "v02.002.002",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA26578_ce58face576be60dcb7f64c6dda6e4310127f40098a736c6f5d1dfd498dd6dbd/icon0.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA26578, v02.002.002, USA, 4.xx BackPort\nSize: 18GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 11.xx, separated BackPort PKG for 4.xx Only & 5.xx+ included with fixes.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 19327352832
+    },
+    {
+      "titleId": "PPSA34502",
+      "title": "Call of Duty Black Ops 2",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/MemdA63s#DataNodes"
+        },
+        {
+          "name": "DLC - Vault",
+          "url": "https://link-vault.org/c/MemdA63s#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/FbZVB_aQ#DataNodes"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/FbZVB_aQ#AkiraBox"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://link-vault.org/c/FbZVB_aQ#FileDitch"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/FbZVB_aQ#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/q6ZP3tgQ#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/q6ZP3tgQ#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/q6ZP3tgQ#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://link-vault.org/c/q6ZP3tgQ#FileDitch"
+        }
+      ],
+      "version": "v01.010",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/2619/c4ce7fe379aa05dd3f6ecc11e8fa38dfea03d4b4a8bad73a.png?w=260",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA34502, v01.010, USA, 4.xx BackPort\nSize: 31GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 12.xx, separated BackPort PKG for 4.xx+ included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 33285996544
+    },
+    {
+      "titleId": "PPSA34501",
+      "title": "Call of Duty Black Ops",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/C7nu4ktf#DataNodes"
+        },
+        {
+          "name": "DLC - Vault",
+          "url": "https://link-vault.org/c/C7nu4ktf#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/5lsoNhi5#DataNodes"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/5lsoNhi5#AkiraBox"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://link-vault.org/c/5lsoNhi5#FileDitch"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/5lsoNhi5#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/Fg5rQGVp#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/Fg5rQGVp#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/Fg5rQGVp#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://link-vault.org/c/Fg5rQGVp#FileDitch"
+        }
+      ],
+      "version": "v01.008",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA34501_4a6b213232f020b9f39ca156be89c78fd220814b226da45d5d112d8d94048d72/icon0.webp",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA34501, v01.008, USA, 4.xx BackPort\nSize: 25GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG & Dump are 12.xx, separated BackPort PKG for 4.xx+ included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 26843545600
+    },
+    {
       "titleId": "PPSA34015",
       "title": "EA SPORTS FC 27",
       "downloadLinks": [
@@ -43,15 +243,15 @@
           "url": "https://link-vault.org/c/dPsYccSx#FileDitch"
         }
       ],
-      "version": "v01.00.004",
+      "version": "v01.000.004",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA34015_6a434915290a6abec6c41584108a610be84d7c2f675678dd06732e4343f8cba6/icon0.webp",
-      "description": "Builds: Dump, Fpkg\nTags: PPSA34015, v01.00.004, USA, 4.xx BackPort\nSize: 193GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Unlocker already included (dlc-emu). Only FPKG: Some langs like Spanish, Polish etc need to be unlocked by press R3 button and yes on FC 27 Audio Settings.. By pressing Yes, will simulate the package download and then will be unlocked. Base FPKG & Dump are 12.xx, separated BackPort PKG for 4.xx+ included.",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA34015, v01.000.004, USA, 4.xx BackPort\nSize: 193GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Unlocker already included (dlc-emu). Only FPKG: Some langs like Spanish, Polish etc need to be unlocked by press R3 button and yes on FC 27 Audio Settings.. By pressing Yes, will simulate the package download and then will be unlocked. Base FPKG & Dump are 12.xx, separated BackPort PKG for 4.xx+ included.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 207232172032
     },
     {
-      "id": 5040434,
+      "id": 5077864,
       "catalogSlug": "",
       "titleId": "PPSA99902",
       "title": "Sonic Unleashed Recompiled Unofficial Port",
@@ -10617,7 +10817,7 @@
       "sizeBytes": 34359738368
     },
     {
-      "id": 5040702,
+      "id": 5078132,
       "catalogSlug": "",
       "titleId": "PPSA22711",
       "title": "Ed 0 Zombie Uprising",
@@ -14183,7 +14383,7 @@
       "sizeBytes": 47244640256
     },
     {
-      "id": 5040805,
+      "id": 5078235,
       "catalogSlug": "",
       "titleId": "PPSA16387",
       "title": "Hitman World of Assassination Deluxe Edition",

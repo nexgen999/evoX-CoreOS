@@ -65,16 +65,28 @@
       <pubDate>v2026.10.06-run14</pubDate>
     </item>
     <item>
-      <title>Ppsa50011</title>
-      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.7-fix.1/PPSA50011.zip</link>
+      <title>Kinect-Phone</title>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.8-fix1/Kinect-Phone.zip</link>
       <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
-      <pubDate>v0.5.7-fix.1</pubDate>
+      <pubDate>v0.5.8-fix1</pubDate>
+    </item>
+    <item>
+      <title>Ppsa50011</title>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.8-fix1/PPSA50011.zip</link>
+      <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
+      <pubDate>v0.5.8-fix1</pubDate>
     </item>
     <item>
       <title>Ps5X360-Autolog-V1.0.9-Preview</title>
-      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.7-fix.1/PS5X360-AutoLog-v1.0.9-preview.elf</link>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.8-fix1/PS5X360-AutoLog-v1.0.9-preview.elf</link>
       <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
-      <pubDate>v0.5.7-fix.1</pubDate>
+      <pubDate>v0.5.8-fix1</pubDate>
+    </item>
+    <item>
+      <title>Ps5X360-Source-0.5.8-Fix1</title>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.8-fix1/PS5X360-source-0.5.8-fix1.zip</link>
+      <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
+      <pubDate>v0.5.8-fix1</pubDate>
     </item>
     <item>
       <title>Helper</title>
@@ -96,9 +108,9 @@
     </item>
     <item>
       <title>Ppsa19111</title>
-      <link>https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.2/PPSA19111.zip</link>
+      <link>https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.3/PPSA19111.zip</link>
       <description>Half-Life (Xash3D FWGS) native homebrew port for PS5</description>
-      <pubDate>v1.2</pubDate>
+      <pubDate>v1.3</pubDate>
     </item>
     <item>
       <title>Ppsa99666</title>
