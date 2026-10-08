@@ -191,10 +191,10 @@
       <pubDate>1.11</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V6.3.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.3.1/ps5upload_v6.3.1.elf</link>
+      <title>[Payloads] Ps5Upload V6.4.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.4.0/ps5upload_v6.4.0.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v6.3.1</pubDate>
+      <pubDate>v6.4.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -849,12 +849,6 @@
       <link>https://github.com/EchoStretch/dump_runner/releases/download/v1.02/dump_runner.zip</link>
       <description>Dump runner howmebrew</description>
       <pubDate>v1.02</pubDate>
-    </item>
-    <item>
-      <title>[Applications] Kodi-Ps5-Ppsa99420-0.9</title>
-      <link>https://github.com/VivaLaVent/kodi-ps5/releases/download/0.9/kodi-ps5-PPSA99420-0.9.zip</link>
-      <description>kodi-ps5</description>
-      <pubDate>0.9</pubDate>
     </item>
     <item>
       <title>[Applications] Emulatorpack</title>

@@ -42,16 +42,6 @@
             "category": "Applications"
         },
         {
-            "name": "Kodi-Ps5-Ppsa99420-0.9",
-            "filename": "kodi-ps5-PPSA99420-0.9.zip",
-            "url": "https://github.com/VivaLaVent/kodi-ps5/releases/download/0.9/kodi-ps5-PPSA99420-0.9.zip",
-            "local_path": "apps/kodi-ps5/0.9/kodi-ps5-PPSA99420-0.9.zip",
-            "description": "kodi-ps5",
-            "version": "0.9",
-            "checksum": "2cd23e79295291ce065e1bc986fd055e6340267a9b946ed8f7e6018f3c33f016",
-            "category": "Applications"
-        },
-        {
             "name": "Emulatorpack",
             "filename": "EmulatorPack.zip",
             "url": "https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/EmulatorPack.zip",

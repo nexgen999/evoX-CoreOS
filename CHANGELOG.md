@@ -1,5 +1,9 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 08/10/2026 à 04:28
+* **PAYLOADS**
+  * `Ps5Upload V6.4.0` (v6.4.0) - *Nouveau*
+
 ## Build du 07/10/2026 à 22:45
 * **PAYLOADS**
   * `Ps5Upload V6.3.1` (v6.3.1) - *Nouveau*
