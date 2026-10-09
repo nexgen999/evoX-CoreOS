@@ -11,5 +11,6 @@
     <outline text="Prospero Multi Tools" title="Prospero Multi Tools" type="rss" xmlUrl="https://github.com/SvenGDK/Prospero-Multi-Tools" author="SvenGDK" description="Backup manager for PS5"/>
     <outline text="Prospero Explorer" title="Prospero Explorer" type="rss" xmlUrl="https://github.com/SvenGDK/Prospero-Explorer" author="SvenGDK" description="File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network"/>
     <outline text="ProsperoStore" title="ProsperoStore" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoStore" author="blackbearreloaded" description="homebrew store"/>
+    <outline text="EmuStore-PS5" title="EmuStore-PS5" type="rss" xmlUrl="https://github.com/romanocry/EmuStore-PS5" author="romanocry" description="hEmuStore-PS5"/>
   </body>
 </opml>
