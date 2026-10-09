@@ -2,14 +2,14 @@
   "name": "PS5 Emulator",
   "payloads": [
     {
-      "name": "Snes9Xps5 V2.1",
-      "filename": "snes9xPS5_v2.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.1/snes9xPS5_v2.1.elf",
-      "local_path": "payloads/ps5_emulator/snes9xPS5/v2.1/snes9xPS5_v2.1.elf",
+      "name": "Snes9Xps5 V2.2",
+      "filename": "snes9xPS5_v2.2.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.2/snes9xPS5_v2.2.elf",
+      "local_path": "payloads/ps5_emulator/snes9xPS5/v2.2/snes9xPS5_v2.2.elf",
       "description": "snes9x emulator",
-      "version": "v2.1",
+      "version": "v2.2",
       "category": "PS5 Emulator",
-      "checksum": "5200c9e9e1bd858b2586de9e2d7ee0c1b8f1dfe9cfaffef8823db501ef38329e"
+      "checksum": "ba2c14e9a91001a1ab338afb858c0016151dcf919a20e644387ce79c20210e94"
     },
     {
       "name": "Genplusgxps5 V1.3",

@@ -2,26 +2,6 @@
   "name": "AIO Store Payloads",
   "payloads": [
     {
-      "name": "Garlic-Savemgr V1.13.1",
-      "filename": "garlic-savemgr_v1.13.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.13.1/garlic-savemgr_v1.13.1.elf",
-      "local_path": "payloads/ps5_saves/garlic-savemgr/v1.13.1/garlic-savemgr_v1.13.1.elf",
-      "description": "Save manager utility hosted on Forgejo.",
-      "version": "v1.13.1",
-      "category": "PS5 Saves",
-      "checksum": "b0fc2fcdda977d2a1207d77148746859b7ea7f3cfcad02828a7a9b49651807f5"
-    },
-    {
-      "name": "Garlic-Worker V1.1.7",
-      "filename": "garlic-worker_v1.1.7.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.1.7/garlic-worker_v1.1.7.elf",
-      "local_path": "payloads/ps5_saves/garlic-worker/v1.1.7/garlic-worker_v1.1.7.elf",
-      "description": "Garlic worker payload component.",
-      "version": "v1.1.7",
-      "category": "PS5 Saves",
-      "checksum": "2643f35cdfe9969cf775220dc4a65bc4ff0d08750c39bfb714b74dbbf29cd396"
-    },
-    {
       "name": "Savemnt-Offset-Dumper V1.0.0",
       "filename": "savemnt-offset-dumper_v1.0.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf",
@@ -572,16 +552,6 @@
       "checksum": "62b3ba2a4937c2afc502f9a4e7242cca538610ebb4ae2800c7c6f72e7f268e7c"
     },
     {
-      "name": "Elf Arsenal V1.6.23",
-      "filename": "ELF_Arsenal_v1.6.23.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf",
-      "local_path": "payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf",
-      "description": "Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées.",
-      "version": "v1.6.23",
-      "category": "PS5 HEN Loader",
-      "checksum": "20cdb0979ce627aff8e684a4506e18390a72492d5e3aa15ecef0bfe1bca08bb5"
-    },
-    {
       "name": "Kura V1.6.50",
       "filename": "Kura_v1.6.50.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/Kura/v1.6.50/Kura_v1.6.50.elf",
@@ -709,17 +679,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "a4c6863e4a8e6a0f0c7dc3bd0fce02690c6e8ae0118a74443a316f2a304155fc"
-    },
-    {
-      "name": "Np-Fake-Signin-Ps5",
-      "filename": "np-fake-signin-ps5.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf",
-      "local_path": "payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf",
-      "description": "Fake activate PS5 without PSN.",
-      "version": "v1.4",
-      "category": "PS5 Activation",
-      "checksum": "9ec8562b3e3f6508071e280037e225371d8a6c297e74b8ae4d240e357ee38eca"
+      "checksum": "5017a5f6dd8fb600f8df7f5c6c21dfe3213a7f452f5a641c591dcc68857fabe7"
     },
     {
       "name": "Ps5-Linux-Loader V2.5",
@@ -732,14 +692,14 @@
       "checksum": "9fc48733077145d1d204a4c9cdb879baaab1e711a604dd73af0dd4a807d6bc49"
     },
     {
-      "name": "Snes9Xps5 V2.1",
-      "filename": "snes9xPS5_v2.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.1/snes9xPS5_v2.1.elf",
-      "local_path": "payloads/ps5_emulator/snes9xPS5/v2.1/snes9xPS5_v2.1.elf",
+      "name": "Snes9Xps5 V2.2",
+      "filename": "snes9xPS5_v2.2.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.2/snes9xPS5_v2.2.elf",
+      "local_path": "payloads/ps5_emulator/snes9xPS5/v2.2/snes9xPS5_v2.2.elf",
       "description": "snes9x emulator",
-      "version": "v2.1",
+      "version": "v2.2",
       "category": "PS5 Emulator",
-      "checksum": "5200c9e9e1bd858b2586de9e2d7ee0c1b8f1dfe9cfaffef8823db501ef38329e"
+      "checksum": "ba2c14e9a91001a1ab338afb858c0016151dcf919a20e644387ce79c20210e94"
     },
     {
       "name": "Genplusgxps5 V1.3",
@@ -1162,6 +1122,15 @@
       "checksum": "5fec05b8a3cb89bafbc97970d5d68d9f31e6fcde873b5523243890e50836592b"
     },
     {
+      "name": "Elf Arsenal V1.6.23",
+      "filename": "ELF_Arsenal_v1.6.23.elf",
+      "url": "",
+      "local_path": "payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf",
+      "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+      "version": "ELF_Arsenal",
+      "checksum": "20cdb0979ce627aff8e684a4506e18390a72492d5e3aa15ecef0bfe1bca08bb5"
+    },
+    {
       "name": "Web-File-Mgr V1.9",
       "filename": "web-file-mgr_v1.9.elf",
       "url": "",
@@ -1180,6 +1149,24 @@
       "checksum": "711cb076e887fcd55d973ade8b84bb6c22720be295bfde18e32761f6e0479a3e"
     },
     {
+      "name": "Garlic-Worker V1.1.7",
+      "filename": "garlic-worker_v1.1.7.elf",
+      "url": "",
+      "local_path": "payloads/ps5_saves/garlic-worker/v1.1.7/garlic-worker_v1.1.7.elf",
+      "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+      "version": "garlic-worker",
+      "checksum": "2643f35cdfe9969cf775220dc4a65bc4ff0d08750c39bfb714b74dbbf29cd396"
+    },
+    {
+      "name": "Garlic-Savemgr V1.13.1",
+      "filename": "garlic-savemgr_v1.13.1.elf",
+      "url": "",
+      "local_path": "payloads/ps5_saves/garlic-savemgr/v1.13.1/garlic-savemgr_v1.13.1.elf",
+      "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+      "version": "garlic-savemgr",
+      "checksum": "b0fc2fcdda977d2a1207d77148746859b7ea7f3cfcad02828a7a9b49651807f5"
+    },
+    {
       "name": "Ps5Library-Agent-0.2.55",
       "filename": "ps5library-agent-0.2.55.elf",
       "url": "",
@@ -1196,6 +1183,15 @@
       "description": "Récupéré depuis le stockage local (Interne / Fallback)",
       "version": "Spectrum-Library",
       "checksum": "5d1372d48f76167e3f9e24b335cf571ea6e4b3960e6b7202d2802b0f78c3a519"
+    },
+    {
+      "name": "Np-Fake-Signin-Ps5",
+      "filename": "np-fake-signin-ps5.elf",
+      "url": "",
+      "local_path": "payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf",
+      "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+      "version": "np-fake-signin",
+      "checksum": "9ec8562b3e3f6508071e280037e225371d8a6c297e74b8ae4d240e357ee38eca"
     },
     {
       "name": "Ps5X360 V0.5.7",

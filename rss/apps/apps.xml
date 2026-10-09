@@ -48,9 +48,9 @@
     </item>
     <item>
       <title>Ppsa99000</title>
-      <link>https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.040/PPSA99000.zip</link>
+      <link>https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.050/PPSA99000.zip</link>
       <description>homebrew store</description>
-      <pubDate>v1.000.040</pubDate>
+      <pubDate>v1.000.050</pubDate>
     </item>
     <item>
       <title>Spectrumlibrary 1.0.4</title>
@@ -66,27 +66,27 @@
     </item>
     <item>
       <title>Kinect-Phone</title>
-      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.8-fix1/Kinect-Phone.zip</link>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.9/Kinect-Phone.zip</link>
       <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
-      <pubDate>v0.5.8-fix1</pubDate>
+      <pubDate>v0.5.9</pubDate>
     </item>
     <item>
       <title>Ppsa50011</title>
-      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.8-fix1/PPSA50011.zip</link>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.9/PPSA50011.zip</link>
       <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
-      <pubDate>v0.5.8-fix1</pubDate>
+      <pubDate>v0.5.9</pubDate>
     </item>
     <item>
       <title>Ps5X360-Autolog-V1.0.9-Preview</title>
-      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.8-fix1/PS5X360-AutoLog-v1.0.9-preview.elf</link>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.9/PS5X360-AutoLog-v1.0.9-preview.elf</link>
       <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
-      <pubDate>v0.5.8-fix1</pubDate>
+      <pubDate>v0.5.9</pubDate>
     </item>
     <item>
-      <title>Ps5X360-Source-0.5.8-Fix1</title>
-      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.8-fix1/PS5X360-source-0.5.8-fix1.zip</link>
+      <title>Ps5X360-Source-0.5.9</title>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.9/PS5X360-source-0.5.9.zip</link>
       <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
-      <pubDate>v0.5.8-fix1</pubDate>
+      <pubDate>v0.5.9</pubDate>
     </item>
     <item>
       <title>Helper</title>
@@ -101,10 +101,10 @@
       <pubDate>Alpha-2</pubDate>
     </item>
     <item>
-      <title>Porpoise-2.5</title>
-      <link>https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v2.5/Porpoise-2.5.zip</link>
+      <title>Porpoise-2.7</title>
+      <link>https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v2.7/Porpoise-2.7.zip</link>
       <description>GameCube and Wii Dolphin emu for ps5</description>
-      <pubDate>v2.5</pubDate>
+      <pubDate>v2.7</pubDate>
     </item>
     <item>
       <title>Ppsa19111</title>

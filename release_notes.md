@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.08-2257)
+### 🚀 Synthèse de la mise à jour (v2026.10.09-0433)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -22,8 +22,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
 <summary><b>⚡ Pack PAYLOADS</b></summary>
 
 * **payloads**
-  * `garlic-savemgr_v1.13.1.elf`
-  * `garlic-worker_v1.1.7.elf`
   * `savemnt-offset-dumper_v1.0.0.elf`
   * `Common_FPS_PS5_v1.2.1.elf`
   * `ps5_overlay.elf`
@@ -79,7 +77,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `etaHEN_v2.5B.bin`
   * `PS5_Unified_Autoloader_v0.1.5-915a65e.elf`
   * `pldmgr_v0.5.2.elf`
-  * `ELF_Arsenal_v1.6.23.elf`
   * `Kura_v1.6.50.elf`
   * `PIZZA-HEN_v2.00.elf`
   * `onionHEN_v0.0.13.elf`
@@ -93,9 +90,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ghost-toothAPI.elf`
   * `pad2c_v0.2.1.elf`
   * `AnyPad-PS5_v0.6.0.elf`
-  * `np-fake-signin-ps5.elf`
   * `ps5-linux-loader_v2.5.elf`
-  * `snes9xPS5_v2.1.elf`
+  * `snes9xPS5_v2.2.elf`
   * `genplusgxPS5_v1.3.elf`
   * `ps5-romm_v1.0.2.elf`
   * `fbneo-ps5_v1.4.elf`
@@ -138,10 +134,14 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `BackPork_v0.1.elf`
   * `apr_emu_updater_v2.0.6.elf`
   * `PS5-Game-Compressor_fork_v1.1.1.elf`
+  * `ELF_Arsenal_v1.6.23.elf`
   * `web-file-mgr_v1.9.elf`
   * `web-file-mgr-v1.9.elf`
+  * `garlic-worker_v1.1.7.elf`
+  * `garlic-savemgr_v1.13.1.elf`
   * `ps5library-agent-0.2.55.elf`
   * `Spectrum-Library_v1.4.8.elf`
+  * `np-fake-signin-ps5.elf`
   * `PS5X360_v0.5.7.elf`
 
 </details>
@@ -195,10 +195,10 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `Kinect-Phone.zip`
   * `PPSA50011.zip`
   * `PS5X360-AutoLog-v1.0.9-preview.elf`
-  * `PS5X360-source-0.5.8-fix1.zip`
+  * `PS5X360-source-0.5.9.zip`
   * `helper.elf`
   * `PPSA97358.zip`
-  * `Porpoise-2.5.zip`
+  * `Porpoise-2.7.zip`
   * `PPSA19111.zip`
   * `PPSA99666.zip`
   * `PPSA99808.zip`

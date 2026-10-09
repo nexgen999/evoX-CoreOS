@@ -5,18 +5,6 @@
     <link>https://nexgen999.github.io/evoX-CoreOS</link>
     <description>Mises à jour automatiques pour la catégorie Payloads</description>
     <item>
-      <title>Garlic-Savemgr V1.13.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.13.1/garlic-savemgr_v1.13.1.elf</link>
-      <description>Save manager utility hosted on Forgejo.</description>
-      <pubDate>v1.13.1</pubDate>
-    </item>
-    <item>
-      <title>Garlic-Worker V1.1.7</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.1.7/garlic-worker_v1.1.7.elf</link>
-      <description>Garlic worker payload component.</description>
-      <pubDate>v1.1.7</pubDate>
-    </item>
-    <item>
       <title>Savemnt-Offset-Dumper V1.0.0</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf</link>
       <description>Offset dumper for save mounting utilities.</description>
@@ -347,12 +335,6 @@
       <pubDate>v0.5.2</pubDate>
     </item>
     <item>
-      <title>Elf Arsenal V1.6.23</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf</link>
-      <description>Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées.</description>
-      <pubDate>v1.6.23</pubDate>
-    </item>
-    <item>
       <title>Kura V1.6.50</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/Kura/v1.6.50/Kura_v1.6.50.elf</link>
       <description>Un loader de payloads moderne et épuré conçu pour optimiser l</description>
@@ -431,22 +413,16 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>Np-Fake-Signin-Ps5</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf</link>
-      <description>Fake activate PS5 without PSN.</description>
-      <pubDate>v1.4</pubDate>
-    </item>
-    <item>
       <title>Ps5-Linux-Loader V2.5</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_linux/ps5-linux-loader/v2.5/ps5-linux-loader_v2.5.elf</link>
       <description>Linux loader payload for the PS5.</description>
       <pubDate>v2.5</pubDate>
     </item>
     <item>
-      <title>Snes9Xps5 V2.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.1/snes9xPS5_v2.1.elf</link>
+      <title>Snes9Xps5 V2.2</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.2/snes9xPS5_v2.2.elf</link>
       <description>snes9x emulator</description>
-      <pubDate>v2.1</pubDate>
+      <pubDate>v2.2</pubDate>
     </item>
     <item>
       <title>Genplusgxps5 V1.3</title>
@@ -701,6 +677,12 @@
       <pubDate>v1.1.1</pubDate>
     </item>
     <item>
+      <title>Elf Arsenal V1.6.23</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ELF_Arsenal</pubDate>
+    </item>
+    <item>
       <title>Web-File-Mgr V1.9</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
@@ -713,6 +695,18 @@
       <pubDate>ps5-web-file-manager</pubDate>
     </item>
     <item>
+      <title>Garlic-Worker V1.1.7</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>garlic-worker</pubDate>
+    </item>
+    <item>
+      <title>Garlic-Savemgr V1.13.1</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>garlic-savemgr</pubDate>
+    </item>
+    <item>
       <title>Ps5Library-Agent-0.2.55</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
@@ -723,6 +717,12 @@
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>Spectrum-Library</pubDate>
+    </item>
+    <item>
+      <title>Np-Fake-Signin-Ps5</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>np-fake-signin</pubDate>
     </item>
     <item>
       <title>Ps5X360 V0.5.7</title>

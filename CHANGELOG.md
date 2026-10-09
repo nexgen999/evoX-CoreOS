@@ -1,5 +1,20 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 09/10/2026 à 04:33
+* **PAYLOADS**
+  * `Snes9Xps5 V2.2` (v2.2) - *Nouveau*
+  * `Elf Arsenal V1.6.23` (ELF_Arsenal) - *Mise à jour (Précédent: v1.6.23)*
+  * `Garlic-Worker V1.1.7` (garlic-worker) - *Mise à jour (Précédent: v1.1.7)*
+  * `Garlic-Savemgr V1.13.1` (garlic-savemgr) - *Mise à jour (Précédent: v1.13.1)*
+  * `Np-Fake-Signin-Ps5` (np-fake-signin) - *Mise à jour (Précédent: v1.4)*
+* **APPS**
+  * `Ppsa99000` (v1.000.050) - *Mise à jour (Précédent: v1.000.040)*
+  * `Kinect-Phone` (v0.5.9) - *Mise à jour (Précédent: v0.5.8-fix1)*
+  * `Ppsa50011` (v0.5.9) - *Mise à jour (Précédent: v0.5.8-fix1)*
+  * `Ps5X360-Autolog-V1.0.9-Preview` (v0.5.9) - *Mise à jour (Précédent: v0.5.8-fix1)*
+  * `Ps5X360-Source-0.5.9` (v0.5.9) - *Nouveau*
+  * `Porpoise-2.7` (v2.7) - *Nouveau*
+
 ## Build du 08/10/2026 à 22:57
 * **PAYLOADS**
   * `Ps5Upload V6.5.1` (v6.5.1) - *Nouveau*

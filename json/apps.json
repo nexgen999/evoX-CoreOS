@@ -74,11 +74,11 @@
     {
       "name": "Ppsa99000",
       "filename": "PPSA99000.zip",
-      "url": "https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.040/PPSA99000.zip",
-      "local_path": "apps/ProsperoStore/v1.000.040/PPSA99000.zip",
+      "url": "https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.050/PPSA99000.zip",
+      "local_path": "apps/ProsperoStore/v1.000.050/PPSA99000.zip",
       "description": "homebrew store",
-      "version": "v1.000.040",
-      "checksum": "f6b68550f49544b3ccde7aeaf397ac45348fbbe70a0ef26300827aa478975764",
+      "version": "v1.000.050",
+      "checksum": "acea9b0fac84c86ace96ee17c4d6f54522b681ba08d9dd72e6d9cd661e7cc500",
       "category": "Applications"
     },
     {
@@ -104,41 +104,41 @@
     {
       "name": "Kinect-Phone",
       "filename": "Kinect-Phone.zip",
-      "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.5.8-fix1/Kinect-Phone.zip",
-      "local_path": "apps/PS5X360/v0.5.8-fix1/Kinect-Phone.zip",
+      "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.5.9/Kinect-Phone.zip",
+      "local_path": "apps/PS5X360/v0.5.9/Kinect-Phone.zip",
       "description": "x360 emu for ps5, you need xpsemu_tools.elf",
-      "version": "v0.5.8-fix1",
-      "checksum": "687b86430efcfb9db9ba626455bb216c628b8b0ff0db20583a6838cc49a69701",
+      "version": "v0.5.9",
+      "checksum": "ca0d59ede35b918aa78f19b4f67fce9f28f54e0462f49c3a045c6d39f183f8b8",
       "category": "Applications"
     },
     {
       "name": "Ppsa50011",
       "filename": "PPSA50011.zip",
-      "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.5.8-fix1/PPSA50011.zip",
-      "local_path": "apps/PS5X360/v0.5.8-fix1/PPSA50011.zip",
+      "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.5.9/PPSA50011.zip",
+      "local_path": "apps/PS5X360/v0.5.9/PPSA50011.zip",
       "description": "x360 emu for ps5, you need xpsemu_tools.elf",
-      "version": "v0.5.8-fix1",
-      "checksum": "0cb09bf19ce9314408f1e8b9beb67bba3c4756406ad716dc03f7b6b3e636ba33",
+      "version": "v0.5.9",
+      "checksum": "2a3b93e5f94eb8d3db6d1aae3ddef0141f7ebf96246c88f4a507fade8faabd75",
       "category": "Applications"
     },
     {
       "name": "Ps5X360-Autolog-V1.0.9-Preview",
       "filename": "PS5X360-AutoLog-v1.0.9-preview.elf",
-      "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.5.8-fix1/PS5X360-AutoLog-v1.0.9-preview.elf",
-      "local_path": "apps/PS5X360/v0.5.8-fix1/PS5X360-AutoLog-v1.0.9-preview.elf",
+      "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.5.9/PS5X360-AutoLog-v1.0.9-preview.elf",
+      "local_path": "apps/PS5X360/v0.5.9/PS5X360-AutoLog-v1.0.9-preview.elf",
       "description": "x360 emu for ps5, you need xpsemu_tools.elf",
-      "version": "v0.5.8-fix1",
+      "version": "v0.5.9",
       "checksum": "5da64c23263e6868696aa0f8b1bfd0eb97581bae73124d08066b507652adfbfb",
       "category": "Applications"
     },
     {
-      "name": "Ps5X360-Source-0.5.8-Fix1",
-      "filename": "PS5X360-source-0.5.8-fix1.zip",
-      "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.5.8-fix1/PS5X360-source-0.5.8-fix1.zip",
-      "local_path": "apps/PS5X360/v0.5.8-fix1/PS5X360-source-0.5.8-fix1.zip",
+      "name": "Ps5X360-Source-0.5.9",
+      "filename": "PS5X360-source-0.5.9.zip",
+      "url": "https://github.com/BrinooTk/PS5X360/releases/download/v0.5.9/PS5X360-source-0.5.9.zip",
+      "local_path": "apps/PS5X360/v0.5.9/PS5X360-source-0.5.9.zip",
       "description": "x360 emu for ps5, you need xpsemu_tools.elf",
-      "version": "v0.5.8-fix1",
-      "checksum": "b4557a9221dbb3958a7b97538302d05e883d959eff87f4a3e07834de3ce0f39d",
+      "version": "v0.5.9",
+      "checksum": "7ce53803f13b6255011bf867631c3ac3e34ae09ba69823053e094be2be4270e3",
       "category": "Applications"
     },
     {
@@ -162,13 +162,13 @@
       "category": "Applications"
     },
     {
-      "name": "Porpoise-2.5",
-      "filename": "Porpoise-2.5.zip",
-      "url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v2.5/Porpoise-2.5.zip",
-      "local_path": "apps/Porpoise/v2.5/Porpoise-2.5.zip",
+      "name": "Porpoise-2.7",
+      "filename": "Porpoise-2.7.zip",
+      "url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v2.7/Porpoise-2.7.zip",
+      "local_path": "apps/Porpoise/v2.7/Porpoise-2.7.zip",
       "description": "GameCube and Wii Dolphin emu for ps5",
-      "version": "v2.5",
-      "checksum": "a6de0af1d2b427cad5f69a32203407115d91b71e8291f92acf2545a5850a7600",
+      "version": "v2.7",
+      "checksum": "dbb895934d84a2445dc36cbcabdc0c299359aa76ddb540c8b4791da5e400891c",
       "category": "Applications"
     },
     {
