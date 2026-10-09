@@ -12,24 +12,24 @@
       "checksum": "ba2c14e9a91001a1ab338afb858c0016151dcf919a20e644387ce79c20210e94"
     },
     {
-      "name": "Genplusgxps5 V1.3",
-      "filename": "genplusgxPS5_v1.3.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.3/genplusgxPS5_v1.3.elf",
-      "local_path": "payloads/ps5_emulator/genplusgxPS5/v1.3/genplusgxPS5_v1.3.elf",
+      "name": "Genplusgxps5 V1.5",
+      "filename": "genplusgxPS5_v1.5.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.5/genplusgxPS5_v1.5.elf",
+      "local_path": "payloads/ps5_emulator/genplusgxPS5/v1.5/genplusgxPS5_v1.5.elf",
       "description": "Port of Genesis-Plus-GX for PS55",
-      "version": "v1.3",
+      "version": "v1.5",
       "category": "PS5 Emulator",
-      "checksum": "a4d1b06f19e4bff7017e16d698143abb46a7171a3f3f9f569eb4add72dfb9192"
+      "checksum": "f66f4c8111e6d3ac55a1b5247c2b2aa20439b24024884fa31a86986e5906db23"
     },
     {
-      "name": "Ps5-Romm V1.0.2",
-      "filename": "ps5-romm_v1.0.2.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.0.2/ps5-romm_v1.0.2.elf",
-      "local_path": "payloads/ps5_emulator/ps5-romm/v1.0.2/ps5-romm_v1.0.2.elf",
+      "name": "Ps5-Romm V1.1.0",
+      "filename": "ps5-romm_v1.1.0.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.1.0/ps5-romm_v1.1.0.elf",
+      "local_path": "payloads/ps5_emulator/ps5-romm/v1.1.0/ps5-romm_v1.1.0.elf",
       "description": "ps5-romm for ps5",
-      "version": "v1.0.2",
+      "version": "v1.1.0",
       "category": "PS5 Emulator",
-      "checksum": "210b85775b551ca1267a5a84998e3cc9c498f764fcb7bbdd66a98d1c4c5a420d"
+      "checksum": "02b5884acb085fdd35d57370a8571a82d7ae8ff106726dcda0e51296095cab61"
     },
     {
       "name": "Fbneo-Ps5 V1.4",

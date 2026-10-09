@@ -32,6 +32,16 @@
       "checksum": "62b3ba2a4937c2afc502f9a4e7242cca538610ebb4ae2800c7c6f72e7f268e7c"
     },
     {
+      "name": "Elf Arsenal V1.6.23",
+      "filename": "ELF_Arsenal_v1.6.23.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf",
+      "local_path": "payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf",
+      "description": "Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées.",
+      "version": "v1.6.23",
+      "category": "PS5 HEN Loader",
+      "checksum": "20cdb0979ce627aff8e684a4506e18390a72492d5e3aa15ecef0bfe1bca08bb5"
+    },
+    {
       "name": "Kura V1.6.50",
       "filename": "Kura_v1.6.50.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/Kura/v1.6.50/Kura_v1.6.50.elf",

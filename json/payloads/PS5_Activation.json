@@ -1,4 +1,15 @@
 {
   "name": "PS5 Activation",
-  "payloads": []
+  "payloads": [
+    {
+      "name": "Np-Fake-Signin-Ps5",
+      "filename": "np-fake-signin-ps5.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf",
+      "local_path": "payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf",
+      "description": "Fake activate PS5 without PSN.",
+      "version": "v1.4",
+      "category": "PS5 Activation",
+      "checksum": "9ec8562b3e3f6508071e280037e225371d8a6c297e74b8ae4d240e357ee38eca"
+    }
+  ]
 }

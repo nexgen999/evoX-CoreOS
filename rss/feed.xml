@@ -5,6 +5,18 @@
     <link>https://nexgen999.github.io/evoX-CoreOS</link>
     <description>Flux RSS global de toutes les mises à jour du store PS5</description>
     <item>
+      <title>[Payloads] Garlic-Savemgr V1.13.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.13.1/garlic-savemgr_v1.13.1.elf</link>
+      <description>Save manager utility hosted on Forgejo.</description>
+      <pubDate>v1.13.1</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Garlic-Worker V1.1.7</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.1.7/garlic-worker_v1.1.7.elf</link>
+      <description>Garlic worker payload component.</description>
+      <pubDate>v1.1.7</pubDate>
+    </item>
+    <item>
       <title>[Payloads] Savemnt-Offset-Dumper V1.0.0</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf</link>
       <description>Offset dumper for save mounting utilities.</description>
@@ -179,10 +191,10 @@
       <pubDate>1.11</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V6.5.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.5.1/ps5upload_v6.5.1.elf</link>
+      <title>[Payloads] Ps5Upload V6.6.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.6.1/ps5upload_v6.6.1.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v6.5.1</pubDate>
+      <pubDate>v6.6.1</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -335,6 +347,12 @@
       <pubDate>v0.5.2</pubDate>
     </item>
     <item>
+      <title>[Payloads] Elf Arsenal V1.6.23</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf</link>
+      <description>Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées.</description>
+      <pubDate>v1.6.23</pubDate>
+    </item>
+    <item>
       <title>[Payloads] Kura V1.6.50</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/Kura/v1.6.50/Kura_v1.6.50.elf</link>
       <description>Un loader de payloads moderne et épuré conçu pour optimiser l</description>
@@ -413,6 +431,12 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
+      <title>[Payloads] Np-Fake-Signin-Ps5</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf</link>
+      <description>Fake activate PS5 without PSN.</description>
+      <pubDate>v1.4</pubDate>
+    </item>
+    <item>
       <title>[Payloads] Ps5-Linux-Loader V2.5</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_linux/ps5-linux-loader/v2.5/ps5-linux-loader_v2.5.elf</link>
       <description>Linux loader payload for the PS5.</description>
@@ -425,16 +449,16 @@
       <pubDate>v2.2</pubDate>
     </item>
     <item>
-      <title>[Payloads] Genplusgxps5 V1.3</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.3/genplusgxPS5_v1.3.elf</link>
+      <title>[Payloads] Genplusgxps5 V1.5</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.5/genplusgxPS5_v1.5.elf</link>
       <description>Port of Genesis-Plus-GX for PS55</description>
-      <pubDate>v1.3</pubDate>
+      <pubDate>v1.5</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5-Romm V1.0.2</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.0.2/ps5-romm_v1.0.2.elf</link>
+      <title>[Payloads] Ps5-Romm V1.1.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.1.0/ps5-romm_v1.1.0.elf</link>
       <description>ps5-romm for ps5</description>
-      <pubDate>v1.0.2</pubDate>
+      <pubDate>v1.1.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Fbneo-Ps5 V1.4</title>
@@ -677,12 +701,6 @@
       <pubDate>v1.1.1</pubDate>
     </item>
     <item>
-      <title>[Payloads] Elf Arsenal V1.6.23</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>ELF_Arsenal</pubDate>
-    </item>
-    <item>
       <title>[Payloads] Web-File-Mgr V1.9</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
@@ -695,18 +713,6 @@
       <pubDate>ps5-web-file-manager</pubDate>
     </item>
     <item>
-      <title>[Payloads] Garlic-Worker V1.1.7</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>garlic-worker</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Garlic-Savemgr V1.13.1</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>garlic-savemgr</pubDate>
-    </item>
-    <item>
       <title>[Payloads] Ps5Library-Agent-0.2.55</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
@@ -717,12 +723,6 @@
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>Spectrum-Library</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Np-Fake-Signin-Ps5</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>np-fake-signin</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5X360 V0.5.7</title>
@@ -827,10 +827,10 @@
       <pubDate>01.000.060</pubDate>
     </item>
     <item>
-      <title>[Fichiers FFPFSC] Evoplayer-V0.11.0-Ppsa99039</title>
-      <link>https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.11.0/EVOPlayer-v0.11.0-PPSA99039.ffpfsc</link>
+      <title>[Fichiers FFPFSC] Evoplayer-V0.12.0-Ppsa99039</title>
+      <link>https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.12.0/EVOPlayer-v0.12.0-PPSA99039.ffpfsc</link>
       <description>A media player for jailbroken PS5</description>
-      <pubDate>v0.11.0</pubDate>
+      <pubDate>v0.12.0</pubDate>
     </item>
     <item>
       <title>[Fichiers FFPFSC] Prospero Radio</title>
@@ -900,27 +900,27 @@
     </item>
     <item>
       <title>[Applications] Kinect-Phone</title>
-      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.9/Kinect-Phone.zip</link>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.9-fix1/Kinect-Phone.zip</link>
       <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
-      <pubDate>v0.5.9</pubDate>
+      <pubDate>v0.5.9-fix1</pubDate>
     </item>
     <item>
       <title>[Applications] Ppsa50011</title>
-      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.9/PPSA50011.zip</link>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.9-fix1/PPSA50011.zip</link>
       <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
-      <pubDate>v0.5.9</pubDate>
+      <pubDate>v0.5.9-fix1</pubDate>
     </item>
     <item>
       <title>[Applications] Ps5X360-Autolog-V1.0.9-Preview</title>
-      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.9/PS5X360-AutoLog-v1.0.9-preview.elf</link>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.9-fix1/PS5X360-AutoLog-v1.0.9-preview.elf</link>
       <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
-      <pubDate>v0.5.9</pubDate>
+      <pubDate>v0.5.9-fix1</pubDate>
     </item>
     <item>
-      <title>[Applications] Ps5X360-Source-0.5.9</title>
-      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.9/PS5X360-source-0.5.9.zip</link>
+      <title>[Applications] Ps5X360-Source-0.5.9-Fix1</title>
+      <link>https://github.com/BrinooTk/PS5X360/releases/download/v0.5.9-fix1/PS5X360-source-0.5.9-fix1.zip</link>
       <description>x360 emu for ps5, you need xpsemu_tools.elf</description>
-      <pubDate>v0.5.9</pubDate>
+      <pubDate>v0.5.9-fix1</pubDate>
     </item>
     <item>
       <title>[Applications] Helper</title>

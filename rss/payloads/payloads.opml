@@ -4,6 +4,8 @@
     <title>PS5 Store Feeds - Payloads</title>
   </head>
   <body>
+    <outline text="Garlic-Savemgr V1.13.1" title="Garlic-Savemgr V1.13.1" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.13.1/garlic-savemgr_v1.13.1.elf" description="Save manager utility hosted on Forgejo."/>
+    <outline text="Garlic-Worker V1.1.7" title="Garlic-Worker V1.1.7" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.1.7/garlic-worker_v1.1.7.elf" description="Garlic worker payload component."/>
     <outline text="Savemnt-Offset-Dumper V1.0.0" title="Savemnt-Offset-Dumper V1.0.0" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf" description="Offset dumper for save mounting utilities."/>
     <outline text="Common Fps Ps5 V1.2.1" title="Common Fps Ps5 V1.2.1" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.1/Common_FPS_PS5_v1.2.1.elf" description="A lightweight, open-source real-time FPS counter for PlayStation 5."/>
     <outline text="Ps5 Overlay" title="Ps5 Overlay" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.15/ps5_overlay.elf" description="A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+)."/>
@@ -33,7 +35,7 @@
     <outline text="Klogsrv V0.9" title="Klogsrv V0.9" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/klogsrv/v0.9/klogsrv_v0.9.elf" description="Kernel log server daemon. Port: 3232"/>
     <outline text="Ftpsrv Drakmor V1.16-Ng-Stable" title="Ftpsrv Drakmor V1.16-Ng-Stable" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ftpsrv_drakmor/1.16-ng-stable/ftpsrv_drakmor_v1.16-ng-stable.elf" description="Drakmor"/>
     <outline text="Ps5-Ezremote-Server V1.11" title="Ps5-Ezremote-Server V1.11" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.11/ps5-ezremote-server_v1.11.elf" description="Easy remote server component. Port: 8080"/>
-    <outline text="Ps5Upload V6.5.1" title="Ps5Upload V6.5.1" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.5.1/ps5upload_v6.5.1.elf" description="PS5 Upload server / tool. Port: 9025"/>
+    <outline text="Ps5Upload V6.6.1" title="Ps5Upload V6.6.1" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.6.1/ps5upload_v6.6.1.elf" description="PS5 Upload server / tool. Port: 9025"/>
     <outline text="Airpsx V0.19" title="Airpsx V0.19" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/airpsx/0.19/airpsx_v0.19.elf" description="AirPSX server tool for PS5 ecosystem."/>
     <outline text="Chronicloader-Ps5-Payload V0.1" title="Chronicloader-Ps5-Payload V0.1" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/ChronicLoader-PS5-Payload/0.1/ChronicLoader-PS5-Payload_v0.1.elf" description="ChronicLoader utility payload for PS5."/>
     <outline text="Ps Game State Lib V0.1" title="Ps Game State Lib V0.1" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/PS_Game_State_Lib/v0.1/PS_Game_State_Lib_v0.1.elf" description="Standalone PS5 game-state detection payload - webui ps5ip:9877 ."/>
@@ -59,6 +61,7 @@
     <outline text="Etahen V2.5B" title="Etahen V2.5B" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/etaHEN/2.5B/etaHEN_v2.5B.bin" description="Le Homebrew Enabler (HEN) de référence pour la PS5 avec serveurs de triche, plugins et gestionnaire de mémoire intégrés."/>
     <outline text="Ps5 Unified Autoloader V0.1.5-915A65E" title="Ps5 Unified Autoloader V0.1.5-915A65E" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.5-915a65e/PS5_Unified_Autoloader_v0.1.5-915a65e.elf" description="Chargeur universel de payloads permettant de lancer automatiquement vos outils favoris au démarrage de l"/>
     <outline text="Pldmgr V0.5.2" title="Pldmgr V0.5.2" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.5.2/pldmgr_v0.5.2.elf" description="Interface d"/>
+    <outline text="Elf Arsenal V1.6.23" title="Elf Arsenal V1.6.23" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf" description="Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées."/>
     <outline text="Kura V1.6.50" title="Kura V1.6.50" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/Kura/v1.6.50/Kura_v1.6.50.elf" description="Un loader de payloads moderne et épuré conçu pour optimiser l"/>
     <outline text="Pizza-Hen V2.00" title="Pizza-Hen V2.00" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PIZZA-HEN/v2.00/PIZZA-HEN_v2.00.elf" description="PIZZA HEN is an experimental all-in-one PS5 homebrew environment."/>
     <outline text="Onionhen V0.0.13" title="Onionhen V0.0.13" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/onionHEN/v0.0.13/onionHEN_v0.0.13.elf" description="An all-in-one HEN and Toolbox for PlayStation 5."/>
@@ -72,10 +75,11 @@
     <outline text="Ghost-Toothapi" title="Ghost-Toothapi" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf" description="ghost-toothAPI."/>
     <outline text="Pad2C V0.2.1" title="Pad2C V0.2.1" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v0.2.1/pad2c_v0.2.1.elf" description="Use the 8BitDo Ultimate 2C Wireless controller on a jailbroken PS5 as a second DualSense, through its 2.4G USB dongle - no Bluetooth."/>
     <outline text="Anypad-Ps5 V0.6.0" title="Anypad-Ps5 V0.6.0" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf" description="Connect your Bluetooth controllers to your PS5 console."/>
+    <outline text="Np-Fake-Signin-Ps5" title="Np-Fake-Signin-Ps5" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf" description="Fake activate PS5 without PSN."/>
     <outline text="Ps5-Linux-Loader V2.5" title="Ps5-Linux-Loader V2.5" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_linux/ps5-linux-loader/v2.5/ps5-linux-loader_v2.5.elf" description="Linux loader payload for the PS5."/>
     <outline text="Snes9Xps5 V2.2" title="Snes9Xps5 V2.2" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.2/snes9xPS5_v2.2.elf" description="snes9x emulator"/>
-    <outline text="Genplusgxps5 V1.3" title="Genplusgxps5 V1.3" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.3/genplusgxPS5_v1.3.elf" description="Port of Genesis-Plus-GX for PS55"/>
-    <outline text="Ps5-Romm V1.0.2" title="Ps5-Romm V1.0.2" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.0.2/ps5-romm_v1.0.2.elf" description="ps5-romm for ps5"/>
+    <outline text="Genplusgxps5 V1.5" title="Genplusgxps5 V1.5" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.5/genplusgxPS5_v1.5.elf" description="Port of Genesis-Plus-GX for PS55"/>
+    <outline text="Ps5-Romm V1.1.0" title="Ps5-Romm V1.1.0" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.1.0/ps5-romm_v1.1.0.elf" description="ps5-romm for ps5"/>
     <outline text="Fbneo-Ps5 V1.4" title="Fbneo-Ps5 V1.4" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v1.4/fbneo-ps5_v1.4.elf" description="FBNeo for ps5"/>
     <outline text="Phu-Sandbox.Exit V1.0" title="Phu-Sandbox.Exit V1.0" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PHU-Sandbox.Exit/Source-Fixe/PHU-Sandbox.Exit_v1.0.elf" description="addon for Markus-PHU Emupack"/>
     <outline text="Ps5-Fan-Control V0.3" title="Ps5-Fan-Control V0.3" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/ps5-fan-control/v0.3/ps5-fan-control_v0.3.elf" description="Small PS5 daemon payload ELF that sets the system fan temperature."/>
@@ -116,14 +120,10 @@
     <outline text="Backpork V0.1" title="Backpork V0.1" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/BackPork/0.1/BackPork_v0.1.elf" description="BackPork PS5 tool."/>
     <outline text="Apr Emu Updater V2.0.6" title="Apr Emu Updater V2.0.6" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/apr-emu-updater/v2.0.6/apr_emu_updater_v2.0.6.elf" description="APR Emu Updater must always be loaded."/>
     <outline text="Ps5-Game-Compressor Fork V1.1.1" title="Ps5-Game-Compressor Fork V1.1.1" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor_fork/v1.1.1/PS5-Game-Compressor_fork_v1.1.1.elf" description="Fork Tool to compress PS5 games."/>
-    <outline text="Elf Arsenal V1.6.23" title="Elf Arsenal V1.6.23" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Web-File-Mgr V1.9" title="Web-File-Mgr V1.9" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Web-File-Mgr-V1.9" title="Web-File-Mgr-V1.9" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
-    <outline text="Garlic-Worker V1.1.7" title="Garlic-Worker V1.1.7" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
-    <outline text="Garlic-Savemgr V1.13.1" title="Garlic-Savemgr V1.13.1" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Ps5Library-Agent-0.2.55" title="Ps5Library-Agent-0.2.55" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Spectrum-Library V1.4.8" title="Spectrum-Library V1.4.8" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
-    <outline text="Np-Fake-Signin-Ps5" title="Np-Fake-Signin-Ps5" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Ps5X360 V0.5.7" title="Ps5X360 V0.5.7" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
   </body>
 </opml>

@@ -3,6 +3,22 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA24588",
+      "title": "The Outer Worlds 2",
+      "downloadLinks": [
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vik1ngfile.site/f/GZBxTIvuJ5"
+        }
+      ],
+      "version": "01.100.001",
+      "category": "game",
+      "description": "Region: USA\nFirmware: 4.xx+\nUpdated: 2026-10-09T11:40:37.715Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 76149770158,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1609/a4fda8e001ee32a4f11cba7bac0c5bbeefc7cd47947ccff6.png?w=260"
+    },
+    {
       "titleId": "PPSA21703",
       "title": "Vampire Survivors",
       "downloadLinks": [
