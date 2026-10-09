@@ -185,6 +185,14 @@ REPO_RULES = {
             "extract_zip": False,
             "targets": []
         },
+        "blackbearreloaded/ProsperoStore": {
+            "release_channel": "pre-release",
+            "allowed_extensions": [".zip"],
+            "keep_original": True,
+            "strict_clean": True,
+            "extract_zip": False,
+            "targets": []
+        },
         
         # --- Dépôts idlesauce (Multi-ELF) ---
         "idlesauce/ps5-self-decrypter": {
