@@ -4,7 +4,7 @@
     <title>PS5 Store Feeds - Applications</title>
   </head>
   <body>
-    <outline text="Ppsa99004" title="Ppsa99004" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.000.000/PPSA99004.zip" description="Private, local generative AI for PlayStation 5 homebrew"/>
+    <outline text="Ppsa99004" title="Ppsa99004" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.001.000/PPSA99004.zip" description="Private, local generative AI for PlayStation 5 homebrew"/>
     <outline text="Castation-0.4.0" title="Castation-0.4.0" type="rss" xmlUrl="https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip" description="Dreamcast emulator based on Flycast PlayStation 5 homebrew"/>
     <outline text="Dump Installer" title="Dump Installer" type="rss" xmlUrl="https://github.com/EchoStretch/dump_installer/releases/download/1.07/dump_installer.zip" description="Dump installer howmebrew"/>
     <outline text="Dump Runner" title="Dump Runner" type="rss" xmlUrl="https://github.com/EchoStretch/dump_runner/releases/download/v1.02/dump_runner.zip" description="Dump runner howmebrew"/>
@@ -12,6 +12,7 @@
     <outline text="Prosperomultitools" title="Prosperomultitools" type="rss" xmlUrl="https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/ProsperoMultiTools.zip" description="Backup manager for PS5"/>
     <outline text="Prosperoexplorer-V1" title="Prosperoexplorer-V1" type="rss" xmlUrl="https://github.com/SvenGDK/Prospero-Explorer/releases/download/v1.0/ProsperoExplorer-v1.zip" description="File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network"/>
     <outline text="Ppsa99000" title="Ppsa99000" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.050/PPSA99000.zip" description="homebrew store"/>
+    <outline text="Emustore-Ps5-V0.4.0" title="Emustore-Ps5-V0.4.0" type="rss" xmlUrl="https://github.com/romanocry/EmuStore-PS5/releases/download/v0.4.0/EmuStore-PS5-v0.4.0.zip" description="hEmuStore-PS5"/>
     <outline text="Spectrumlibrary 1.0.4" title="Spectrumlibrary 1.0.4" type="rss" xmlUrl="https://github.com/Phoenixx1202/Spectrum-Library-PC/releases/download/1.0.4/SpectrumLibrary_1.0.4.zip" description="Spectrum-Library-PC"/>
     <outline text="Flycast-Ps5-2026.10.06" title="Flycast-Ps5-2026.10.06" type="rss" xmlUrl="https://github.com/rpf16rj/flycast-ps5-libretro-core/releases/download/v2026.10.06-run14/flycast-ps5-2026.10.06.zip" description="flycast-ps5-libretro-core"/>
     <outline text="Kinect-Phone" title="Kinect-Phone" type="rss" xmlUrl="https://github.com/BrinooTk/PS5X360/releases/download/v0.5.9-fix1/Kinect-Phone.zip" description="x360 emu for ps5, you need xpsemu_tools.elf"/>
@@ -35,5 +36,7 @@
     <outline text="Markus Phu-Emupack-Pc.Engine.Ps5" title="Markus Phu-Emupack-Pc.Engine.Ps5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-PC.Engine.PS5.rar" description="EmuPack-PC.Engine.PS5"/>
     <outline text="Phu-Sandbox.Exit V1.0" title="Phu-Sandbox.Exit V1.0" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/PHU-Sandbox.Exit_v1.0.elf" description="EmuPack_Mame.PS5"/>
     <outline text="Markus Phu-Emupack-Neogeo.Ps5" title="Markus Phu-Emupack-Neogeo.Ps5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-NeoGeo.PS5.rar" description="EmuPack-NeoGeo.PS5"/>
+    <outline text="Ppsa42674" title="Ppsa42674" type="rss" xmlUrl="https://github.com/dmzebro/PS5_RPCS3/releases/download/release/PPSA42674.zip" description="RPCS3 for PS5"/>
+    <outline text="Ppsa99131" title="Ppsa99131" type="rss" xmlUrl="https://github.com/tsuramatsu1/psp5/releases/download/v1.000.000/PPSA99131.zip" description="ppsspp for PS5"/>
   </body>
 </opml>

@@ -1,5 +1,16 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 09/10/2026 à 16:15
+* **PAYLOADS**
+  * `Ps5Upload V6.6.3` (v6.6.3) - *Nouveau*
+  * `Orbit Store` (v1.0.5) - *Mise à jour (Précédent: v1.0.0)*
+  * `Fbneo-Ps5 V1.7` (v1.7) - *Nouveau*
+* **APPS**
+  * `Ppsa99004` (01.001.000) - *Mise à jour (Précédent: 01.000.000)*
+  * `Emustore-Ps5-V0.4.0` (v0.4.0) - *Nouveau*
+  * `Ppsa42674` (release) - *Nouveau*
+  * `Ppsa99131` (v1.000.000) - *Nouveau*
+
 ## Build du 09/10/2026 à 12:36
 * **PAYLOADS**
   * `Garlic-Savemgr V1.13.1` (v1.13.1) - *Mise à jour (Précédent: garlic-savemgr)*

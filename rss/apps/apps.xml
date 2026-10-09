@@ -6,9 +6,9 @@
     <description>Mises à jour automatiques pour la catégorie Applications</description>
     <item>
       <title>Ppsa99004</title>
-      <link>https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.000.000/PPSA99004.zip</link>
+      <link>https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.001.000/PPSA99004.zip</link>
       <description>Private, local generative AI for PlayStation 5 homebrew</description>
-      <pubDate>01.000.000</pubDate>
+      <pubDate>01.001.000</pubDate>
     </item>
     <item>
       <title>Castation-0.4.0</title>
@@ -51,6 +51,12 @@
       <link>https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.050/PPSA99000.zip</link>
       <description>homebrew store</description>
       <pubDate>v1.000.050</pubDate>
+    </item>
+    <item>
+      <title>Emustore-Ps5-V0.4.0</title>
+      <link>https://github.com/romanocry/EmuStore-PS5/releases/download/v0.4.0/EmuStore-PS5-v0.4.0.zip</link>
+      <description>hEmuStore-PS5</description>
+      <pubDate>v0.4.0</pubDate>
     </item>
     <item>
       <title>Spectrumlibrary 1.0.4</title>
@@ -189,6 +195,18 @@
       <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-NeoGeo.PS5.rar</link>
       <description>EmuPack-NeoGeo.PS5</description>
       <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
+      <title>Ppsa42674</title>
+      <link>https://github.com/dmzebro/PS5_RPCS3/releases/download/release/PPSA42674.zip</link>
+      <description>RPCS3 for PS5</description>
+      <pubDate>release</pubDate>
+    </item>
+    <item>
+      <title>Ppsa99131</title>
+      <link>https://github.com/tsuramatsu1/psp5/releases/download/v1.000.000/PPSA99131.zip</link>
+      <description>ppsspp for PS5</description>
+      <pubDate>v1.000.000</pubDate>
     </item>
   </channel>
 </rss>

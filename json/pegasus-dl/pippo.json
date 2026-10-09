@@ -3,6 +3,182 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA02873",
+      "title": "Saints Row The Third Remastered",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/fxTJvJqd#DataNodes"
+        },
+        {
+          "name": "Dump - Filek",
+          "url": "https://link-vault.org/c/fxTJvJqd#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/fxTJvJqd#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/fxTJvJqd#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/2joGw8u-#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/2joGw8u-#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/2joGw8u-#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filek",
+          "url": "https://link-vault.org/c/2joGw8u-#FileKeeper"
+        }
+      ],
+      "version": "v01.005",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02873_ae282fa42dfbd79f856f9c500fe1dc74db1884f0aac4f6e1f6855b88d771d577/icon0.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA02873, v01.005, USA, 3.xx and beyond\nSize: 48GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 51539607552
+    },
+    {
+      "titleId": "PPSA31162",
+      "title": "Super Meat Boy 3D",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/Ra24jPh7#DataNodes"
+        },
+        {
+          "name": "Dump - Filek",
+          "url": "https://link-vault.org/c/Ra24jPh7#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/Ra24jPh7#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/Ra24jPh7#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/DQKs9i-p#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/DQKs9i-p#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/DQKs9i-p#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filek",
+          "url": "https://link-vault.org/c/DQKs9i-p#FileKeeper"
+        }
+      ],
+      "version": "v02.000.001",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1208/1e2df6e3d86120b31db3c30057b883f3607afd00aa0bd582.png?w=260",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA31162, v02.000.001, EUR, 4.xx BackPort + 5.xx BackPort\nSize: 4GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG &amp; Dump are 11.xx, separated BackPort PKG for 4.xx Only &amp; 5.xx+ included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 4294967296
+    },
+    {
+      "titleId": "PPSA16645",
+      "title": "7 Days To Die Console Edition",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/Xs02spgJ#DataNodes"
+        },
+        {
+          "name": "Dump - Filek",
+          "url": "https://link-vault.org/c/Xs02spgJ#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/Xs02spgJ#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/Xs02spgJ#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/ZIhIb-uz#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/ZIhIb-uz#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/ZIhIb-uz#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filek",
+          "url": "https://link-vault.org/c/ZIhIb-uz#FileKeeper"
+        }
+      ],
+      "version": "v01.320.001",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1216/9023747aeb28e119f8a8fe3272a67ae5f5e19ba0f658aacd.png?w=260",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA16645, v01.320.001, USA, 4.xx BackPort\nSize: 27GB\nCredits: Files: High-Speed007; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG &amp; Dump are 10.xx, separated BackPort PKG for 4.xx+ included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 28991029248
+    },
+    {
+      "titleId": "PPSA04867",
+      "title": "The Last Oricru",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/0YvCPzNv#DataNodes"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/0YvCPzNv#AkiraBox"
+        },
+        {
+          "name": "Dump - Filed",
+          "url": "https://link-vault.org/c/0YvCPzNv#FileDitch"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/0YvCPzNv#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/r8kLzley#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/r8kLzley#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/r8kLzley#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filed",
+          "url": "https://link-vault.org/c/r8kLzley#FileDitch"
+        }
+      ],
+      "version": "v01.005",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1612/vSoKjrZl8CHUN3AANFfrGTnu.png?w=260",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA04867, v01.005, USA, 4.xx and beyond\nSize: 40GB\nCredits: Files: High-Speed007\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 42949672960
+    },
+    {
       "titleId": "PPSA28416",
       "title": "STAR WARS Galactic Racer Deluxe Edition",
       "downloadLinks": [
@@ -298,12 +474,12 @@
       "version": "v01.000.004",
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2322/78e0ba12f88a79c454b6b17d1638f2ae0b2943f1dbc98a17.png?w=260",
-      "description": "Builds: Dump, Fpkg\nTags: PPSA34015, v01.000.004, USA, 4.xx BackPort\nSize: 193GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Unlocker already included (dlc-emu). Only FPKG: Some langs like Spanish, Polish etc need to be unlocked by press R3 button and yes on FC 27 Audio Settings.. By pressing Yes, will simulate the package download and then will be unlocked. Base FPKG &amp; Dump are 12.xx, separated BackPort PKG for 4.xx+ included.",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA34015, v01.000.004, USA, 4.xx BackPort\nSize: 193GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Unlocker already included (dlc-emu). Only FPKG: Some langs like Spanish, Polish etc need to be unlocked by press R3 button and yes on FC 27 Audio Settings.. By pressing Yes, will simulate the package download and then will be unlocked. Base FPKG &amp; Dump are 12.xx, separated BackPort PKG for 4.xx+ included. (Change console langs into English if switch langs doesnt work / crash)",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "sizeBytes": 207232172032
     },
     {
-      "id": 5136304,
+      "id": 5147928,
       "catalogSlug": "",
       "titleId": "PPSA99902",
       "title": "Sonic Unleashed Recompiled Unofficial Port",
@@ -10869,7 +11045,7 @@
       "sizeBytes": 34359738368
     },
     {
-      "id": 5136572,
+      "id": 5148196,
       "catalogSlug": "",
       "titleId": "PPSA22711",
       "title": "Ed 0 Zombie Uprising",
@@ -14435,7 +14611,7 @@
       "sizeBytes": 47244640256
     },
     {
-      "id": 5136675,
+      "id": 5148299,
       "catalogSlug": "",
       "titleId": "PPSA16387",
       "title": "Hitman World of Assassination Deluxe Edition",

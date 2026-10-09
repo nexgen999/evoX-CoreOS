@@ -312,14 +312,14 @@
       "checksum": "0f36b7ea3c3380303e2c74ec8d31a2c53d822cc4f4fd05cb5931d6b4f8b33c03"
     },
     {
-      "name": "Ps5Upload V6.6.1",
-      "filename": "ps5upload_v6.6.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.6.1/ps5upload_v6.6.1.elf",
-      "local_path": "payloads/ps5_server/ps5upload/v6.6.1/ps5upload_v6.6.1.elf",
+      "name": "Ps5Upload V6.6.3",
+      "filename": "ps5upload_v6.6.3.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.6.3/ps5upload_v6.6.3.elf",
+      "local_path": "payloads/ps5_server/ps5upload/v6.6.3/ps5upload_v6.6.3.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v6.6.1",
+      "version": "v6.6.3",
       "category": "PS5 Server",
-      "checksum": "bca34345897b4332334c3da7b61b851eca884d3c0db5dca275b3327ac623b17a"
+      "checksum": "0c03c7648eb99b4c63d662198b6cd71df58ee775522bcd20a3d4527b475802ed"
     },
     {
       "name": "Airpsx V0.19",
@@ -434,12 +434,12 @@
     {
       "name": "Orbit Store",
       "filename": "orbit_store.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.0.0/orbit_store.elf",
-      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.0.0/orbit_store.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.0.5/orbit_store.elf",
+      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.0.5/orbit_store.elf",
       "description": "A modern, no-BS download manager for PS5.",
-      "version": "v1.0.0",
+      "version": "v1.0.5",
       "category": "PS5 Freeshop",
-      "checksum": "8ac8d13e3855e29456205992cebe9fa1604dae0509a6ec20198076560f2a93a0"
+      "checksum": "7883cf64b62252594d58e5558ea29f8de7ed3ca1d9a3182c844f23513eaf7617"
     },
     {
       "name": "Ps5-Phstore Vphstore",
@@ -709,7 +709,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "87b21c6a3b23b1324b0e650d38810c285785d0800d9ba23569f78b6a54b773a9"
+      "checksum": "b72a8e256887164f2d185567e64d9c238e3c76746faafaf42203ead6786c9655"
     },
     {
       "name": "Np-Fake-Signin-Ps5",
@@ -762,14 +762,14 @@
       "checksum": "02b5884acb085fdd35d57370a8571a82d7ae8ff106726dcda0e51296095cab61"
     },
     {
-      "name": "Fbneo-Ps5 V1.4",
-      "filename": "fbneo-ps5_v1.4.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v1.4/fbneo-ps5_v1.4.elf",
-      "local_path": "payloads/ps5_emulator/fbneo-ps5/v1.4/fbneo-ps5_v1.4.elf",
+      "name": "Fbneo-Ps5 V1.7",
+      "filename": "fbneo-ps5_v1.7.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v1.7/fbneo-ps5_v1.7.elf",
+      "local_path": "payloads/ps5_emulator/fbneo-ps5/v1.7/fbneo-ps5_v1.7.elf",
       "description": "FBNeo for ps5",
-      "version": "v1.4",
+      "version": "v1.7",
       "category": "PS5 Emulator",
-      "checksum": "80a8f5565c7fd8d5a6e9dc25f953a39c2ba5257205d9a4d82f8000fe90a180e1"
+      "checksum": "9b85f6cbd9b77ba5eb5ffb01b8737a3818f8141903efa78e8de229c2b2e7daf5"
     },
     {
       "name": "Phu-Sandbox.Exit V1.0",

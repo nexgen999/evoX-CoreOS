@@ -3,6 +3,528 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA25642",
+      "title": "Clive Barkers Hellraiser Revival Deluxe Edition (DLC)",
+      "downloadLinks": [
+        {
+          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Akirabox part 1",
+          "url": "https://akirabox.com/Y2xm0ol4nGRO/file"
+        },
+        {
+          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Akirabox part 2",
+          "url": "https://akirabox.com/E9Qz9XZLK3OL/file"
+        },
+        {
+          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Akirabox part 3",
+          "url": "https://akirabox.com/LK0G1bdowm91/file"
+        },
+        {
+          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Akirabox part 4",
+          "url": "https://akirabox.com/XkrzoKnP2zBO/file"
+        },
+        {
+          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Rootz part 1",
+          "url": "https://www.rootz.so/d/12Lxqa"
+        },
+        {
+          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Rootz part 2",
+          "url": "https://www.rootz.so/d/16Noi8"
+        },
+        {
+          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Rootz part 3",
+          "url": "https://www.rootz.so/d/2J43TU"
+        },
+        {
+          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Rootz part 4",
+          "url": "https://www.rootz.so/d/1lHk0"
+        },
+        {
+          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/OFqU1yhSw5"
+        },
+        {
+          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/BNcfBDuBDi"
+        },
+        {
+          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/M77dnANBVr"
+        },
+        {
+          "name": "EUR 12.xx Game (v01.005.000) (DLC Deluxe Edition) - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/uFCE2Du0wY"
+        }
+      ],
+      "category": "dlc",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1809/519956b48e154b9614439f012e7a7bb05130ddbdabf600e7.png?w=260",
+      "description": "Region: EUR\nRelease note: Works on 12.xx and higher This release includes Deluxe Edition content and the following DLC: Here\nContributor: @DUPLEX\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/clive-barkers-hellraiser-revival-deluxe-edition-ps5/"
+    },
+    {
+      "titleId": "PPSA24249",
+      "title": "1348 Ex Voto",
+      "downloadLinks": [
+        {
+          "name": "EUR 11.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/ex5z25jd83Kq/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/jJD3VDBjOGa5/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/2KR9FI"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1BmlLU"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/oHRbIymQ3l"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/bqgMDc0imM"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA24249_16f6978ace1bb1247be8ebd750ee6f0ef9cb2c4f9b76cb0a25d9033cd5700ca2/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/1348-ex-voto-ps5/"
+    },
+    {
+      "titleId": "PPSA28603",
+      "title": "Crisol Theater of Idols",
+      "downloadLinks": [
+        {
+          "name": "USA 11.xx Base - Akirabox",
+          "url": "https://akirabox.com/N2p3DPXYk3Ma/file"
+        },
+        {
+          "name": "USA 11.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/2CNRWC"
+        },
+        {
+          "name": "USA 11.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/k9ZZ0CAHcA"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28603_e818c8493ec82cfd12454666aba02cd2a040f5aca1d115a3eb62800d2b0e9fd4/icon0.webp",
+      "description": "Region: USA\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/crisol-theater-of-idols-ps5/"
+    },
+    {
+      "titleId": "PPSA28503",
+      "title": "AILA",
+      "downloadLinks": [
+        {
+          "name": "USA 10.xx Base - Akirabox",
+          "url": "https://akirabox.com/QN9mEq51xm6d/file"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1wG288"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/4ipo7UFGJ3"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA28503_c5fa63c9b30c2d53233c1fc22eb7f504fe306e678cb910e1e5e61d17eedf287a/icon0.webp",
+      "description": "Region: USA\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/aila-ps5/"
+    },
+    {
+      "titleId": "PPSA19068",
+      "title": "Crow Country",
+      "downloadLinks": [
+        {
+          "name": "EUR 9.xx Base - Akirabox",
+          "url": "https://akirabox.com/Zvqzl75La3aD/file"
+        },
+        {
+          "name": "EUR 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1sEBGa"
+        },
+        {
+          "name": "EUR 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/ygWiwj9oUK"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA19068_fcaae64d6c8edbf274b0d32d1d472071c28a64bd98eded64b839025abfc75174/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/crow-country-ps5/"
+    },
+    {
+      "titleId": "PPSA29802",
+      "title": "Plants vs Zombies Replanted",
+      "downloadLinks": [
+        {
+          "name": "USA 13.xx Base - Akirabox",
+          "url": "https://akirabox.com/jJD3VDBJ5Ga5/file"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1i1aBk"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/TqPtqHG8RK"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA29802_8a2ba380c37d5be7546e0954a43884e0395b498f4e0ba58a5a1f9db446b57ce3/icon0.webp",
+      "description": "Region: USA\nRelease note: Working 13.xx to 10.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/plants-vs-zombies-replanted-ps5/"
+    },
+    {
+      "titleId": "PPSA30937",
+      "title": "Gunsmith Simulator",
+      "downloadLinks": [
+        {
+          "name": "EUR 13.xx Base - Akirabox",
+          "url": "https://akirabox.com/0JgG75Rpn3oY/file"
+        },
+        {
+          "name": "EUR 13.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/jZnMm"
+        },
+        {
+          "name": "EUR 13.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/i16pJixad3"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA30937_7502021e988ab27e9e12e013fa0c4e9268141bc387eb8b2e8bc2c61a27fb7df0/icon0.webp",
+      "description": "Region: EUR\nRelease note: Working 13.xx to 10.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/gunsmith-simulator-ps5/"
+    },
+    {
+      "titleId": "PPSA21185",
+      "title": "Motorcycle Mechanic Simulator",
+      "downloadLinks": [
+        {
+          "name": "USA 13.xx Base - Akirabox",
+          "url": "https://akirabox.com/M2BGwPvMRmj4/file"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/13yzWS"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/EyOaJMN81z"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202405/1620/0b0c536695895c3a010b874a83c1e1e4a8f568006fa6a410.png?w=260",
+      "description": "Region: USA\nRelease note: working 13.xx to 8.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/motorcycle-mechanic-simulator-2021-ps5/"
+    },
+    {
+      "titleId": "PPSA36581",
+      "title": "Police Car Simulator EVO",
+      "downloadLinks": [
+        {
+          "name": "EUR 13.xx Base - Akirabox",
+          "url": "https://akirabox.com/0PdzyXwKr3eA/file"
+        },
+        {
+          "name": "EUR 13.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/zx8eu"
+        },
+        {
+          "name": "EUR 13.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/ArhU5Ihq3k"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/2710/ff4daeee44d6932c5020f28d6d9317bc493c9ca3ce6b9391.png?w=260",
+      "description": "Region: EUR\nRelease note: Working 13.xx to 12.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/police-car-simulator-evo-ps5/"
+    },
+    {
+      "titleId": "PPSA08755",
+      "title": "Pinball FX",
+      "downloadLinks": [
+        {
+          "name": "USA 13.xx Base - Akirabox",
+          "url": "https://akirabox.com/LJlGn7NB4m15/file"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1yOvTs"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/D46JP4hwmu"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA08755_2585e927631eb2bb396a26100be6e88efb47d9ae9b4ba658fe25156a3ac4c2db/icon0.webp",
+      "description": "Region: USA\nRelease note: Working 13.xx to 6.xx\nContributor: @High-Speed007",
+      "downloadSource": "https://dlpsgame.com/pinball-fx-ps5/"
+    },
+    {
+      "titleId": "PPSA04867",
+      "title": "The Last Oricru Final Cut",
+      "downloadLinks": [
+        {
+          "name": "USA 13.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/XkrzoKnJQzBO/file"
+        },
+        {
+          "name": "USA 13.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/Y2xm0olp0GRO/file"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/dez3Y"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1qLDkm"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/BJBBCdL495"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/BqpWqGTBCa"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1612/vSoKjrZl8CHUN3AANFfrGTnu.png?w=260",
+      "description": "Region: USA\nRelease note: Working 13.xx to 4.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/the-last-oricru-final-cut-ps5/"
+    },
+    {
+      "titleId": "PPSA25843",
+      "title": "WARRIORS Abyss",
+      "downloadLinks": [
+        {
+          "name": "USA 13.xx Base - Akirabox",
+          "url": "https://akirabox.com/l76mZrpe7man/file"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/NXZbM"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/UGMK1StZKA"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA25843_dc179dfcd9eb73ffbe49c79088b337d25d2a1213982673f5bd37b68de3c5ae8f/icon0.webp",
+      "description": "Region: USA\nRelease note: Working 13.xx to 10.xx\nContributor: @High-Speed007",
+      "downloadSource": "https://dlpsgame.com/warriors-abyss-ps5/"
+    },
+    {
+      "titleId": "PPSA16263",
+      "title": "V Rising",
+      "downloadLinks": [
+        {
+          "name": "USA 13.xx Base - Akirabox",
+          "url": "https://akirabox.com/obj3j7Yw9zDx/file"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/lCp2e"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/xwOKzfcecA"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA16263_873d785d13879812e9c86c0f98f0b330c2b04602199deba808b9d6f1843efa06/icon0.webp",
+      "description": "Region: USA\nRelease note: Working 13.xx to 10.xx\nContributor: @High-Speed007",
+      "downloadSource": "https://dlpsgame.com/v-rising-ps5/"
+    },
+    {
+      "titleId": "PPSA02873",
+      "title": "Saints Row The Third Remastered",
+      "downloadLinks": [
+        {
+          "name": "USA 13.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/RMKGJKay1m1o/file"
+        },
+        {
+          "name": "USA 13.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/b5OzdV4xamB8/file"
+        },
+        {
+          "name": "USA 13.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/Z9dzBP8yMmk1/file"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1xt3js"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1trCsK"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/hAyB6"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/zGa86pRVHW"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/IjbKT37NO8"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/S5A0xoAjsI"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA02873_ae282fa42dfbd79f856f9c500fe1dc74db1884f0aac4f6e1f6855b88d771d577/icon0.webp",
+      "description": "Region: USA\nRelease note: Working 13.xx to 3.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/saints-row-the-third-remastered-ps5/"
+    },
+    {
+      "titleId": "PPSA30630",
+      "title": "MLB The Show 26",
+      "downloadLinks": [
+        {
+          "name": "USA 12.xx Base - Akirabox part 1",
+          "url": "https://akirabox.com/QN9mEq5WQm6d/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 2",
+          "url": "https://akirabox.com/0rpmvpDJyzRg/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 3",
+          "url": "https://akirabox.com/M2BGwPvdpmj4/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 4",
+          "url": "https://akirabox.com/0JgG75RrZ3oY/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 5",
+          "url": "https://akirabox.com/9AqGQZE9rmMn/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 6",
+          "url": "https://akirabox.com/0PdzyXw503eA/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 7",
+          "url": "https://akirabox.com/b5OzdV459mB8/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 8",
+          "url": "https://akirabox.com/RMKGJKa7Lm1o/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 9",
+          "url": "https://akirabox.com/gXeGOAD7P3Aa/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 10",
+          "url": "https://akirabox.com/qLQ36qkwYm19/file"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/zBL4y"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/13DBwW"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/2JvHVI"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/27piym"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 5",
+          "url": "https://www.rootz.so/d/Cp6qe"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 6",
+          "url": "https://www.rootz.so/d/1DPn1M"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 7",
+          "url": "https://www.rootz.so/d/jYG0"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 8",
+          "url": "https://www.rootz.so/d/8nFz6"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 9",
+          "url": "https://www.rootz.so/d/4lP7Y"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 10",
+          "url": "https://www.rootz.so/d/V5PaS"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/W7xXuE42zV"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/8wQzJktyHs"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/JSyYQ8NTif"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/2bBF2MWhGK"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/TED3cuXgJ2"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/4UyuAKl9zd"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 7",
+          "url": "https://vikingfile.com/f/eHXgJ096HZ"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 8",
+          "url": "https://vikingfile.com/f/dHv9u66Idz"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 9",
+          "url": "https://vikingfile.com/f/n7CknZM1ik"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 10",
+          "url": "https://vikingfile.com/f/nbpVHPEQTf"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA30630_f1ab1bdea7b8bd74c5db439da8ff3d9bf234eff706178e10e8902b9db2b3ede1/icon0.webp",
+      "description": "Region: USA\nRelease note: Works on 12.xx and higher\nContributor: @DUPLEX\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/mlb-the-show-26-ps5/"
+    },
+    {
       "titleId": "PPSA35889",
       "title": "NBA 2K27",
       "downloadLinks": [

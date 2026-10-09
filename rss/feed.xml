@@ -191,10 +191,10 @@
       <pubDate>1.11</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V6.6.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.6.1/ps5upload_v6.6.1.elf</link>
+      <title>[Payloads] Ps5Upload V6.6.3</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.6.3/ps5upload_v6.6.3.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v6.6.1</pubDate>
+      <pubDate>v6.6.3</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -264,9 +264,9 @@
     </item>
     <item>
       <title>[Payloads] Orbit Store</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.0.0/orbit_store.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.0.5/orbit_store.elf</link>
       <description>A modern, no-BS download manager for PS5.</description>
-      <pubDate>v1.0.0</pubDate>
+      <pubDate>v1.0.5</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-Phstore Vphstore</title>
@@ -461,10 +461,10 @@
       <pubDate>v1.1.0</pubDate>
     </item>
     <item>
-      <title>[Payloads] Fbneo-Ps5 V1.4</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v1.4/fbneo-ps5_v1.4.elf</link>
+      <title>[Payloads] Fbneo-Ps5 V1.7</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v1.7/fbneo-ps5_v1.7.elf</link>
       <description>FBNeo for ps5</description>
-      <pubDate>v1.4</pubDate>
+      <pubDate>v1.7</pubDate>
     </item>
     <item>
       <title>[Payloads] Phu-Sandbox.Exit V1.0</title>
@@ -840,9 +840,9 @@
     </item>
     <item>
       <title>[Applications] Ppsa99004</title>
-      <link>https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.000.000/PPSA99004.zip</link>
+      <link>https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.001.000/PPSA99004.zip</link>
       <description>Private, local generative AI for PlayStation 5 homebrew</description>
-      <pubDate>01.000.000</pubDate>
+      <pubDate>01.001.000</pubDate>
     </item>
     <item>
       <title>[Applications] Castation-0.4.0</title>
@@ -885,6 +885,12 @@
       <link>https://github.com/blackbearreloaded/ProsperoStore/releases/download/v1.000.050/PPSA99000.zip</link>
       <description>homebrew store</description>
       <pubDate>v1.000.050</pubDate>
+    </item>
+    <item>
+      <title>[Applications] Emustore-Ps5-V0.4.0</title>
+      <link>https://github.com/romanocry/EmuStore-PS5/releases/download/v0.4.0/EmuStore-PS5-v0.4.0.zip</link>
+      <description>hEmuStore-PS5</description>
+      <pubDate>v0.4.0</pubDate>
     </item>
     <item>
       <title>[Applications] Spectrumlibrary 1.0.4</title>
@@ -1023,6 +1029,18 @@
       <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-NeoGeo.PS5.rar</link>
       <description>EmuPack-NeoGeo.PS5</description>
       <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
+      <title>[Applications] Ppsa42674</title>
+      <link>https://github.com/dmzebro/PS5_RPCS3/releases/download/release/PPSA42674.zip</link>
+      <description>RPCS3 for PS5</description>
+      <pubDate>release</pubDate>
+    </item>
+    <item>
+      <title>[Applications] Ppsa99131</title>
+      <link>https://github.com/tsuramatsu1/psp5/releases/download/v1.000.000/PPSA99131.zip</link>
+      <description>ppsspp for PS5</description>
+      <pubDate>v1.000.000</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,11 +4,11 @@
         {
             "name": "Ppsa99004",
             "filename": "PPSA99004.zip",
-            "url": "https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.000.000/PPSA99004.zip",
-            "local_path": "apps/ProsperoAI/01.000.000/PPSA99004.zip",
+            "url": "https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.001.000/PPSA99004.zip",
+            "local_path": "apps/ProsperoAI/01.001.000/PPSA99004.zip",
             "description": "Private, local generative AI for PlayStation 5 homebrew",
-            "version": "01.000.000",
-            "checksum": "19c2bacebf6fb1587b32d458fb5af2fb472d9f3844085993b0f1a30669dc0c69",
+            "version": "01.001.000",
+            "checksum": "1c852a3a5463e00b5f35a17f87da11aa2d4d25b2964d5b9a83424c4fa0c24ad5",
             "category": "Applications"
         },
         {
@@ -79,6 +79,16 @@
             "description": "homebrew store",
             "version": "v1.000.050",
             "checksum": "acea9b0fac84c86ace96ee17c4d6f54522b681ba08d9dd72e6d9cd661e7cc500",
+            "category": "Applications"
+        },
+        {
+            "name": "Emustore-Ps5-V0.4.0",
+            "filename": "EmuStore-PS5-v0.4.0.zip",
+            "url": "https://github.com/romanocry/EmuStore-PS5/releases/download/v0.4.0/EmuStore-PS5-v0.4.0.zip",
+            "local_path": "apps/EmuStore-PS5/v0.4.0/EmuStore-PS5-v0.4.0.zip",
+            "description": "hEmuStore-PS5",
+            "version": "v0.4.0",
+            "checksum": "bae913c18212e5ab9a178f2e5f71b3c883b2cacbdd3fffba49882d40bc60117f",
             "category": "Applications"
         },
         {
@@ -309,6 +319,26 @@
             "description": "EmuPack-NeoGeo.PS5",
             "version": "Source-Fixe",
             "checksum": "dff3c2733ff02e4c1c30d024d904ada0e9dcdc724e76842c34284a7c3174871b",
+            "category": "Applications"
+        },
+        {
+            "name": "Ppsa42674",
+            "filename": "PPSA42674.zip",
+            "url": "https://github.com/dmzebro/PS5_RPCS3/releases/download/release/PPSA42674.zip",
+            "local_path": "apps/RPCS3/release/PPSA42674.zip",
+            "description": "RPCS3 for PS5",
+            "version": "release",
+            "checksum": "f83275f924c42a1fd0f18c3aa09dc3af04e6c703916fcd1fe9321e8e9d88d705",
+            "category": "Applications"
+        },
+        {
+            "name": "Ppsa99131",
+            "filename": "PPSA99131.zip",
+            "url": "https://github.com/tsuramatsu1/psp5/releases/download/v1.000.000/PPSA99131.zip",
+            "local_path": "apps/psp5/v1.000.000/PPSA99131.zip",
+            "description": "ppsspp for PS5",
+            "version": "v1.000.000",
+            "checksum": "ea950568598bc4f45af1891d01022b72759cebdc2cb8a0d97d665066023f2343",
             "category": "Applications"
         }
     ]

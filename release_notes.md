@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.09-1236)
+### 🚀 Synthèse de la mise à jour (v2026.10.09-1615)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -53,7 +53,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
   * `ps5-ezremote-server_v1.11.elf`
-  * `ps5upload_v6.6.1.elf`
+  * `ps5upload_v6.6.3.elf`
   * `airpsx_v0.19.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
   * `PS_Game_State_Lib_v0.1.elf`
@@ -98,7 +98,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `snes9xPS5_v2.2.elf`
   * `genplusgxPS5_v1.5.elf`
   * `ps5-romm_v1.1.0.elf`
-  * `fbneo-ps5_v1.4.elf`
+  * `fbneo-ps5_v1.7.elf`
   * `PHU-Sandbox.Exit_v1.0.elf`
   * `ps5-fan-control_v0.3.elf`
   * `fan_target_85c_v0.1.elf`
@@ -190,6 +190,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ProsperoMultiTools.zip`
   * `ProsperoExplorer-v1.zip`
   * `PPSA99000.zip`
+  * `EmuStore-PS5-v0.4.0.zip`
   * `SpectrumLibrary_1.0.4.zip`
   * `flycast-ps5-2026.10.06.zip`
   * `Kinect-Phone.zip`
@@ -213,6 +214,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `Markus_PHU-EmuPack-PC.Engine.PS5.rar`
   * `PHU-Sandbox.Exit_v1.0.elf`
   * `Markus_PHU-EmuPack-NeoGeo.PS5.rar`
+  * `PPSA42674.zip`
+  * `PPSA99131.zip`
 
 </details>
 

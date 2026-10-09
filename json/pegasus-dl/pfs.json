@@ -3,6 +3,86 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA03352",
+      "title": "The Callisto Protocol",
+      "downloadLinks": [
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vik1ngfile.site/f/0XVA92n8HB"
+        }
+      ],
+      "version": "01.033",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0222/pqZVlL42HwbUMdSAyNQoRnzg.png?w=260",
+      "description": "In this narrative-driven, third-person survival horror game set 300 years in the future, the player will take on the role of Jacob Lee – a victim of fate thrown into Black Iron Prison, a maximum-security penitentiary located on Jupiter’s moon, Callisto. When inmates begin to transform into monstrous creatures, the prison is thrown into chaos. To survive, Jacob must battle his way to safety to escape Black Iron Prison, while uncovering the dark and disturbing secrets buried beneath the surface of Callisto.\nRegion: EUR\nFirmware: 4.xx+\nUpdated: 2026-10-09T15:59:53.698Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 52613349376
+    },
+    {
+      "titleId": "PPSA33286",
+      "title": "Silent Hill Townfall",
+      "downloadLinks": [
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vik1ngfile.site/f/YvODsQXNtL"
+        }
+      ],
+      "version": "2.003.000",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1407/420dcf45979ace1b7c97122a2dc0eb479428590ecab89c2b.png?w=260",
+      "description": "Simon Ordell is called back to the island of St. Amelia to ‘put things right’, encountering a town lying quiet beneath a heavy fog, seemingly abandoned but not at rest. Venturing deeper, and driven to understand his connection to the place and its inhabitants, Simon begins to discover fragments of a past rising to the surface. Experienced entirely in first person, Simon must explore, evade, and survive using a limited set of weapons and tools, including the CRTV, a pocket television used to tune into unstable signals. Evasion is tense; combat is frenetic, while narrative driven puzzles reveal a truth that refuses to stay submerged. SILENT HILL: Townfall is a full-length, self-contained psychological horror set against the cold, isolated backdrop of Scotland, 1996. Explore St. Amelia in 1996 Fog-soaked streets, abandoned communities, and forgotten corners tell their story through atmosphere and history. Reality and delusion subtly intertwine to lure players into the depths of the grounded, tangible world of St. Amelia. A Brand-new, Memorable SILENT HILL SILENT HILL: Townfall exudes the beautiful and foggy streets of Scotland, offering a new setting to tell a unique and haunting story. More than just a horror game, this is a tale of introspection, loss, and consequence. Fear grows from small details, quiet moments, and the long shadow of Simon’s past. Strategic Stealth and Combat Swing and block with melee weapons in frenetic melee combat, or keep your distance and use firearms to survive. Choose how to engage in each encounter, using both the tools at your disposal and the environment around you. Narrative Puzzles Guided by the CRTV The iconic SILENT HILL radio makes a comeback as the CRTV, a portable television device.Threats lurking nearby, story fragments, &amp; mysterious clues drift through unstable analog signals, which players can pick up by tuning the CRTV. A First-Person SILENT HILL Experience This title marks the first time a full-length SILENT HILL game is presented in a first-person perspective. Players experience the fog-shrouded town and its unsettling presence directly through the eyes of protagonist Simon Ordell Multiple Endings Endings shaped by the player’s actions leave a lasting emotional impression long after the story comes to an end. Tension-Building Audio Design &amp; Music Every creak, signal, and cry pulls the danger closer, with creative audio design building a rich and terrifying soundscape. A fully dynamic soundtrack by Pilotpriest builds and twists with player and enemy actions.\nRegion: JPN\nFirmware: 5.xx+\nUpdated: 2026-10-09T13:56:13.546Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 54760833024
+    },
+    {
+      "titleId": "PPSA24913",
+      "title": "Ace Combat 8 Wings of Theve",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vik1ngfile.site/f/DgPDA57X0Y"
+        }
+      ],
+      "version": "01.001.001",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1823/5929543b280b7ff4707431f09bd5e9e5a4396a1dde269986.png?w=260",
+      "description": "ACE COMBAT 8: WINGS OF THEVE delivers high-octane aerial action! Step into the cockpit and take flight as an elite pilot across stunning skies. Enter intense dogfights, eliminate threats, and rise through gripping missions to earn your wings in this game developed by PROJECT ACES, the acclaimed team behind the franchise. Aerial Warfare in Living Skies Campaign Mode showcases stunning visuals with dynamic multi-layered cloudscapes that capture the majesty of living skies. Feel the rush of fast-paced arcade-style gameplay while deploying powerful weapons to dominate the battlefield. A visceral journey from cockpit to ground Beyond the chaos in the air, exhilarating first-person scenes reveal your pilot’s story through breathtaking cinematics. Experience the pressure of command, the weight of decisions, and the bonds forged in battle. Between missions, bond with your squad members, rise to meet adversity, and prove yourself as a true ace. The Largest Online Mode of the Series ACE COMBAT ONLINE delivers the most expansive multiplayer experience in franchise history. Step into the series’ first online lobby, explore an air base with your custom avatar before diving into multiplayer games. Sortie into online missions with pilots worldwide in a variety of modes including Co Op and cross platform play.\nRegion: EUR\nFirmware: 4.xx+\nUpdated: 2026-10-09T13:46:00.907Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 109521666048
+    },
+    {
+      "titleId": "PPSA07148",
+      "title": "The Outer Worlds Spacer’s Choice Edition",
+      "downloadLinks": [
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vikingfile.com/f/Vta8fG3Ppn"
+        }
+      ],
+      "version": "01.006.000",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202208/3117/T8S5mhuuJH8h4tcQj8herpUO.png?w=260",
+      "description": "The Outer Worlds: Spacer’s Choice Edition is the ultimate way to play the award-winning RPG from Obsidian Entertainment and Private Division. Players who already have The Outer Worlds and its associated DLC, Murder on Eridanos and Peril on Gorgon, for PlayStation®4 can upgrade to The Outer Worlds: Spacer’s Choice Edition for PlayStation®5 at a reduced purchase price.* To enable the upgrade purchasing option: • Players who have all of the DLC for The Outer Worlds and the digital version of the base game for PlayStation®4 must be signed into a PlayStation®5 console using the same PSN Account they used to purchase the base game and its associated DLC for PlayStation®4. • Players who have all of the DLC for The Outer Worlds and the physical version of the base game for PlayStation®4 must have the game disc inserted into their PlayStation®5 console and be signed into the same PSN Account they used to purchase the game’s DLC when upgrading. Players who upgrade must have the game disc inserted into their PlayStation®5 console in order to play The Outer Worlds: Spacer’s Choice Edition. You’ve tried the rest, now come back for the best! The Outer Worlds: Spacer’s Choice Edition includes the base game and all add-on content as the definitive way to play the beloved RPG from Obsidian Entertainment. This remastered masterpiece is optimized to be the absolute best version of The Outer Worlds… even if you choose to play this critically acclaimed RPG as the absolute worst version of your character. Lost in transit while on a colonist ship bound for the edge of the galaxy, you awake decades later only to find yourself in the midst of a deep conspiracy threatening to destroy the colony. Explore the various planets and locations of Halcyon, including the mysterious Gorgon Asteroid and delightful distilleries of Eridanos. As you encounter various factions, all vying for power, the character you decide to become will determine how this player-driven story unfolds. In the corporate equation for the colony, you are the unplanned variable. Key Features: • It’s The Outer Worlds you love, but even better: 2019’s hit RPG has been remastered with better graphics, improved performance, additional animations, higher-res environments, and more. • Increased level cap: A higher level cap means even more ways to build your character from the seven branches of the skill tree. • The player-driven story RPG: In keeping with the Obsidian tradition, how you approach The Outer Worlds is up to you. Your choices affect not only the way the story develops, they also affect your character build, companion stories, and end game scenarios. • Lead your companions: During your journey through the furthest colony, you will meet a host of characters who will want to join your crew. Armed with unique abilities, these companions all have their own missions, motivations, and ideals. It’s up to you to help them achieve their goals, or exploit them to your own ends. • Explore the corporate colony: Halcyon is a colony at the edge of the galaxy owned and operated by a corporate board. They control everything… except for the alien monsters left behind when the terraforming of the colony’s two planets didn’t exactly go according to plan. Find your ship, build your crew, and explore the settlements, space stations, and other intriguing locations throughout Halcyon. * Based on Private Division’s suggested retail price for The Outer Worlds: Spacer’s Choice Edition on PlayStation®5. Limit of one upgrade per account.\nRegion: USA\nFirmware: 4.xx+\nUpdated: 2026-10-09T12:48:01.227Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 64424509440
+    },
+    {
+      "titleId": "PPSA29642",
+      "title": "South of Midnight",
+      "downloadLinks": [
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vik1ngfile.site/f/34qlZHE5Au"
+        }
+      ],
+      "version": "01.001.000",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2822/ee41c702e3b4d9a76c1918e829a7191c9b1fb5b7a3d1e416.png?w=260",
+      "description": "Region: USA\nFirmware: 4.xx+\nUpdated: 2026-10-09T12:14:05.260Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 44077101875
+    },
+    {
       "titleId": "PPSA24588",
       "title": "The Outer Worlds 2",
       "downloadLinks": [
@@ -13,10 +93,10 @@
       ],
       "version": "01.100.001",
       "category": "game",
-      "description": "Region: USA\nFirmware: 4.xx+\nUpdated: 2026-10-09T11:40:37.715Z",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1609/a4fda8e001ee32a4f11cba7bac0c5bbeefc7cd47947ccff6.png?w=260",
+      "description": "In this sardonic sci-fi RPG, catastrophic rifts punch chasms through the fabric of reality, and as the Earth Directorate’s most likely lackey, it’s your task to investigate the source before they consume everything. Your investigations lead you to the Arcadia Colony, where it appears the rifts have some strong competition for the title of “most volatile entity in the neighbourhood”. Depending on your choices, three power-hungry factions, and their armed and dangerous employees, could become your best friends – or your assassins. This colony reacts to your actions and distractions, and the fate of humanity rests in your sweaty palms.\nRegion: USA\nFirmware: 4.xx+\nUpdated: 2026-10-09T11:40:37.715Z",
       "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
-      "sizeBytes": 76149770158,
-      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/1609/a4fda8e001ee32a4f11cba7bac0c5bbeefc7cd47947ccff6.png?w=260"
+      "sizeBytes": 76149770158
     },
     {
       "titleId": "PPSA21703",
@@ -409,6 +489,10 @@
         {
           "name": "Viki",
           "url": "https://vik1ngfile.site/f/i2IaWe2QUR"
+        },
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vik1ngfile.site/f/C96izBPiaz"
         }
       ],
       "version": "1.18",
@@ -1621,6 +1705,10 @@
         {
           "name": "Viki",
           "url": "https://vikingfile.com/f/BZQYVh18wR"
+        },
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vik1ngfile.site/f/umqAXS93ae"
         }
       ],
       "version": "01.007",
@@ -3237,6 +3325,10 @@
         {
           "name": "Viki",
           "url": "https://vikingfile.com/f/m3hscoKXJe"
+        },
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vikingfile.com/f/9OqucpANrL"
         }
       ],
       "version": "1.012",

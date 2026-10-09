@@ -70,6 +70,16 @@
       "version": "v1.000.050",
       "checksum": "acea9b0fac84c86ace96ee17c4d6f54522b681ba08d9dd72e6d9cd661e7cc500",
       "category": "Applications"
+    },
+    {
+      "name": "Emustore-Ps5-V0.4.0",
+      "filename": "EmuStore-PS5-v0.4.0.zip",
+      "url": "https://github.com/romanocry/EmuStore-PS5/releases/download/v0.4.0/EmuStore-PS5-v0.4.0.zip",
+      "local_path": "apps/EmuStore-PS5/v0.4.0/EmuStore-PS5-v0.4.0.zip",
+      "description": "hEmuStore-PS5",
+      "version": "v0.4.0",
+      "checksum": "bae913c18212e5ab9a178f2e5f71b3c883b2cacbdd3fffba49882d40bc60117f",
+      "category": "Applications"
     }
   ]
 }
