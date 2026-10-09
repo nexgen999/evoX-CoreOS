@@ -191,10 +191,10 @@
       <pubDate>1.11</pubDate>
     </item>
     <item>
-      <title>Ps5Upload V6.6.3</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.6.3/ps5upload_v6.6.3.elf</link>
+      <title>Ps5Upload V6.7.3</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.7.3/ps5upload_v6.7.3.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v6.6.3</pubDate>
+      <pubDate>v6.7.3</pubDate>
     </item>
     <item>
       <title>Airpsx V0.19</title>
@@ -443,16 +443,16 @@
       <pubDate>v2.5</pubDate>
     </item>
     <item>
-      <title>Snes9Xps5 V2.2</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.2/snes9xPS5_v2.2.elf</link>
+      <title>Snes9Xps5 V2.3</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.3/snes9xPS5_v2.3.elf</link>
       <description>snes9x emulator</description>
-      <pubDate>v2.2</pubDate>
+      <pubDate>v2.3</pubDate>
     </item>
     <item>
-      <title>Genplusgxps5 V1.5</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.5/genplusgxPS5_v1.5.elf</link>
+      <title>Genplusgxps5 V1.6</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.6/genplusgxPS5_v1.6.elf</link>
       <description>Port of Genesis-Plus-GX for PS55</description>
-      <pubDate>v1.5</pubDate>
+      <pubDate>v1.6</pubDate>
     </item>
     <item>
       <title>Ps5-Romm V1.1.0</title>

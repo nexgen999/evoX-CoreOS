@@ -1,5 +1,13 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 09/10/2026 à 22:19
+* **PAYLOADS**
+  * `Ps5Upload V6.7.3` (v6.7.3) - *Nouveau*
+  * `Snes9Xps5 V2.3` (v2.3) - *Nouveau*
+  * `Genplusgxps5 V1.6` (v1.6) - *Nouveau*
+* **APPS**
+  * `Ppsa99004` (01.002.000) - *Mise à jour (Précédent: 01.001.000)*
+
 ## Build du 09/10/2026 à 16:15
 * **PAYLOADS**
   * `Ps5Upload V6.6.3` (v6.6.3) - *Nouveau*

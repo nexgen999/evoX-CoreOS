@@ -3,6 +3,26 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA20154",
+      "title": "Revenge of The Savage Planet",
+      "downloadLinks": [
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vikingfile.com/f/SrKG2poY9Q"
+        },
+        {
+          "name": "Viki - DLC",
+          "url": "https://vik1ngfile.site/f/o1gyaqZZrs"
+        }
+      ],
+      "version": "01.030",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202407/3101/bd4bbd8703232dfcd689938201fac0214afc2ea77dcbcf32.png?w=260",
+      "description": "Revenge of the Savage Planet is an upbeat, satirical action-adventure sci-fi. Jump, shoot and collect your way across vibrant alien worlds, uncovering new gear and upgrades, while discovering various hidden secrets. WELCOME TO THE PIONEER PROGRAM! In a future knocked off its axis by corporate greed and stupidity, you have been made redundant and abandoned on the far edge of space with little gear and no safety net. You must explore every nook and cranny, collect dozens of upgrades, and turn over every mysterious alien rock if you want to get revenge on your former employer and return to Earth. Across multiple planets and through myriad challenges, you will be tasked with exploring and understanding these beautiful alien worlds. There are plants to scan, creatures to capture, lakes to swim, caves to spelunk, mountains to climb, upgrades to craft, and hundreds of secrets to uncover… DYNAMIC CO-OP Play with your best friend, partner or hellspawn on or between any platform! Or better still, experience the nostalgia tinged joy of sitting on the same couch and playing on the same screen with someone you love. Like the olden days when the world was young and we were happy. EXCITING FRESH ABILITIES AND TOOLS Run, jump, shoot, grind, stomp, dodge, slide, whip and grapple your way through the world! Experiment with 3 different types of gameplay goo! Lasso and Capture dozens of strange creatures and store them in Pens near your Habitat! FOUR PLANETS TO EXPLORE Four large, vibrant worlds to explore, each with their own weird and wonderful plants and creatures. Scan everything, catalog everything, and complete experiments to increase your science level… which unlocks exciting new gear! Plus… there may be more than four planets. Maybe. INTERGALACTIC HOARDER Alien plants! Bizarre creatures! Exciting gear! Weird rocks! Each planet is packed with nooks and crannies hiding all manner of rewards and secrets. Many of which can be displayed with pride in your own personal, customizable Space Trailer. SURVIVE AS DAVE THE DIVER Transported from the Blue Hole to a blue circle in the far reaches of space, DAVE THE DIVER is just one of the many new ways you can explore four new savage planets. In a charming homage to the beloved indie game, we bring you DAVE in all of his full adventurous glory. It may look like he would need a space helmet, but he doesn’t. Or his helmet looks exactly like his actual face.\nRegion: USA\nFirmware: 4.xx+\nUpdated: 2026-10-09T20:39:34.932Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 11317238825
+    },
+    {
       "titleId": "PPSA03352",
       "title": "The Callisto Protocol",
       "downloadLinks": [
@@ -4673,6 +4693,10 @@
         {
           "name": "Viki",
           "url": "https://vikingfile.com/f/AVA3e8Gf92"
+        },
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vikingfile.com/f/zRHVqIoqpc"
         }
       ],
       "version": "01.000",
@@ -5193,6 +5217,10 @@
         {
           "name": "Archive",
           "url": "https://archive.org/details/SMMiles_PKG"
+        },
+        {
+          "name": "Viki (+Arabic Lang)",
+          "url": "https://vik1ngfile.site/f/lVsypffzeA"
         }
       ],
       "version": "01.015.001",

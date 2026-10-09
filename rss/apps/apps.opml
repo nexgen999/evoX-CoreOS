@@ -4,7 +4,7 @@
     <title>PS5 Store Feeds - Applications</title>
   </head>
   <body>
-    <outline text="Ppsa99004" title="Ppsa99004" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.001.000/PPSA99004.zip" description="Private, local generative AI for PlayStation 5 homebrew"/>
+    <outline text="Ppsa99004" title="Ppsa99004" type="rss" xmlUrl="https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.002.000/PPSA99004.zip" description="Private, local generative AI for PlayStation 5 homebrew"/>
     <outline text="Castation-0.4.0" title="Castation-0.4.0" type="rss" xmlUrl="https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip" description="Dreamcast emulator based on Flycast PlayStation 5 homebrew"/>
     <outline text="Dump Installer" title="Dump Installer" type="rss" xmlUrl="https://github.com/EchoStretch/dump_installer/releases/download/1.07/dump_installer.zip" description="Dump installer howmebrew"/>
     <outline text="Dump Runner" title="Dump Runner" type="rss" xmlUrl="https://github.com/EchoStretch/dump_runner/releases/download/v1.02/dump_runner.zip" description="Dump runner howmebrew"/>

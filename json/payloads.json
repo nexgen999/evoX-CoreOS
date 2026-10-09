@@ -312,14 +312,14 @@
       "checksum": "0f36b7ea3c3380303e2c74ec8d31a2c53d822cc4f4fd05cb5931d6b4f8b33c03"
     },
     {
-      "name": "Ps5Upload V6.6.3",
-      "filename": "ps5upload_v6.6.3.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.6.3/ps5upload_v6.6.3.elf",
-      "local_path": "payloads/ps5_server/ps5upload/v6.6.3/ps5upload_v6.6.3.elf",
+      "name": "Ps5Upload V6.7.3",
+      "filename": "ps5upload_v6.7.3.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.7.3/ps5upload_v6.7.3.elf",
+      "local_path": "payloads/ps5_server/ps5upload/v6.7.3/ps5upload_v6.7.3.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v6.6.3",
+      "version": "v6.7.3",
       "category": "PS5 Server",
-      "checksum": "0c03c7648eb99b4c63d662198b6cd71df58ee775522bcd20a3d4527b475802ed"
+      "checksum": "468740692643ecef083da7d761169c09accec4f43b199a64df9c394ecd6b5df3"
     },
     {
       "name": "Airpsx V0.19",
@@ -709,7 +709,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "b72a8e256887164f2d185567e64d9c238e3c76746faafaf42203ead6786c9655"
+      "checksum": "1a0038bfd4b6ecaa8696b1b3f26747a1c0bf4d421b15d3e4dc442f160137291b"
     },
     {
       "name": "Np-Fake-Signin-Ps5",
@@ -732,24 +732,24 @@
       "checksum": "9fc48733077145d1d204a4c9cdb879baaab1e711a604dd73af0dd4a807d6bc49"
     },
     {
-      "name": "Snes9Xps5 V2.2",
-      "filename": "snes9xPS5_v2.2.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.2/snes9xPS5_v2.2.elf",
-      "local_path": "payloads/ps5_emulator/snes9xPS5/v2.2/snes9xPS5_v2.2.elf",
+      "name": "Snes9Xps5 V2.3",
+      "filename": "snes9xPS5_v2.3.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.3/snes9xPS5_v2.3.elf",
+      "local_path": "payloads/ps5_emulator/snes9xPS5/v2.3/snes9xPS5_v2.3.elf",
       "description": "snes9x emulator",
-      "version": "v2.2",
+      "version": "v2.3",
       "category": "PS5 Emulator",
-      "checksum": "ba2c14e9a91001a1ab338afb858c0016151dcf919a20e644387ce79c20210e94"
+      "checksum": "d71f900bc434eaed55b304e603ae79327ef7de6be147a159d78803dd0eb7fe27"
     },
     {
-      "name": "Genplusgxps5 V1.5",
-      "filename": "genplusgxPS5_v1.5.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.5/genplusgxPS5_v1.5.elf",
-      "local_path": "payloads/ps5_emulator/genplusgxPS5/v1.5/genplusgxPS5_v1.5.elf",
+      "name": "Genplusgxps5 V1.6",
+      "filename": "genplusgxPS5_v1.6.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v1.6/genplusgxPS5_v1.6.elf",
+      "local_path": "payloads/ps5_emulator/genplusgxPS5/v1.6/genplusgxPS5_v1.6.elf",
       "description": "Port of Genesis-Plus-GX for PS55",
-      "version": "v1.5",
+      "version": "v1.6",
       "category": "PS5 Emulator",
-      "checksum": "f66f4c8111e6d3ac55a1b5247c2b2aa20439b24024884fa31a86986e5906db23"
+      "checksum": "c548e4dd9e15f58bff8cccc2e7042df276462643ec74a0ea7548deeee6941548"
     },
     {
       "name": "Ps5-Romm V1.1.0",

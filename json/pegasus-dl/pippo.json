@@ -3,6 +3,42 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA35889",
+      "title": "NBA 2K27",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/2hOWgJWD#DataNodes"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/2hOWgJWD#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/m18YMEu1#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/m18YMEu1#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/m18YMEu1#DataNodes"
+        },
+        {
+          "name": "Fpkg - Filek",
+          "url": "https://link-vault.org/c/m18YMEu1#FileKeeper"
+        }
+      ],
+      "version": "v01.007",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/2913/4a31f711e2ff460cd44ad646983f36533278cea61f639be9.png?w=260",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA35889, v01.007, USA, 4.xx BackPort\nSize: 397GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. Base FPKG &amp; Dump are 13.xx, separated BackPort PKG for 4.xx+ included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "sizeBytes": 426275504128
+    },
+    {
       "titleId": "PPSA02873",
       "title": "Saints Row The Third Remastered",
       "downloadLinks": [
@@ -479,7 +515,7 @@
       "sizeBytes": 207232172032
     },
     {
-      "id": 5147928,
+      "id": 5165434,
       "catalogSlug": "",
       "titleId": "PPSA99902",
       "title": "Sonic Unleashed Recompiled Unofficial Port",
@@ -11045,7 +11081,7 @@
       "sizeBytes": 34359738368
     },
     {
-      "id": 5148196,
+      "id": 5165702,
       "catalogSlug": "",
       "titleId": "PPSA22711",
       "title": "Ed 0 Zombie Uprising",
@@ -14611,7 +14647,7 @@
       "sizeBytes": 47244640256
     },
     {
-      "id": 5148299,
+      "id": 5165805,
       "catalogSlug": "",
       "titleId": "PPSA16387",
       "title": "Hitman World of Assassination Deluxe Edition",
