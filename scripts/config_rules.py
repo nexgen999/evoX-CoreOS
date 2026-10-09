@@ -168,8 +168,16 @@ REPO_RULES = {
             ]
         },
         
-        # --- Dépôt tsuramatsu1/Vita3K-PS5 (ZIP en Pre-Release) ---
+        # --- Nouveaux Dépôts (ZIP en Pre-Release) ---
         "tsuramatsu1/Vita3K-PS5": {
+            "release_channel": "pre-release",
+            "allowed_extensions": [".zip"],
+            "keep_original": True,
+            "strict_clean": True,
+            "extract_zip": False,
+            "targets": []
+        },
+        "romanocry/EmuStore-PS5": {
             "release_channel": "pre-release",
             "allowed_extensions": [".zip"],
             "keep_original": True,
