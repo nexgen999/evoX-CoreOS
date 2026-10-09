@@ -23,5 +23,7 @@
     <outline text="EmuPack-PC.Engine.PS5" title="EmuPack-PC.Engine.PS5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-PC.Engine.PS5.rar" author="Markus_PHU" description="EmuPack-PC.Engine.PS5"/>
     <outline text="EmuPack_Mame.PS5" title="EmuPack_Mame.PS5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack_Mame.PS5.rarm" author="Markus_PHU" description="EmuPack_Mame.PS5"/>
     <outline text="EmuPack-NeoGeo.PS5" title="EmuPack-NeoGeo.PS5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-NeoGeo.PS5.rar" author="Markus_PHU" description="EmuPack-NeoGeo.PS5"/>
+    <outline text="RPCS3" title="RPCS3" type="rss" xmlUrl="https://github.com/dmzebro/PS5_RPCS3" author="dmzebro" description="RPCS3 for PS5"/>
+    <outline text="psp5" title="psp5" type="rss" xmlUrl="https://github.com/tsuramatsu1/psp5" author="tsuramatsu1" description="ppsspp for PS5"/>
   </body>
 </opml>
