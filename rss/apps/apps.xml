@@ -6,9 +6,9 @@
     <description>Mises à jour automatiques pour la catégorie Applications</description>
     <item>
       <title>Ppsa99004</title>
-      <link>https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.002.000/PPSA99004.zip</link>
+      <link>https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.003.000/PPSA99004.zip</link>
       <description>Private, local generative AI for PlayStation 5 homebrew</description>
-      <pubDate>01.002.000</pubDate>
+      <pubDate>01.003.000</pubDate>
     </item>
     <item>
       <title>Castation-0.4.0</title>
@@ -96,15 +96,15 @@
     </item>
     <item>
       <title>Helper</title>
-      <link>https://github.com/ZiZc3/XPSemu/releases/download/Alpha-2/helper.elf</link>
+      <link>https://github.com/ZiZc3/XPSemu/releases/download/Alpha-2.1/helper.elf</link>
       <description>Xbox emulator (Xemu) port for the PS5</description>
-      <pubDate>Alpha-2</pubDate>
+      <pubDate>Alpha-2.1</pubDate>
     </item>
     <item>
       <title>Ppsa97358</title>
-      <link>https://github.com/ZiZc3/XPSemu/releases/download/Alpha-2/PPSA97358.zip</link>
+      <link>https://github.com/ZiZc3/XPSemu/releases/download/Alpha-2.1/PPSA97358.zip</link>
       <description>Xbox emulator (Xemu) port for the PS5</description>
-      <pubDate>Alpha-2</pubDate>
+      <pubDate>Alpha-2.1</pubDate>
     </item>
     <item>
       <title>Porpoise-2.7</title>

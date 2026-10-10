@@ -312,14 +312,14 @@
       "checksum": "0f36b7ea3c3380303e2c74ec8d31a2c53d822cc4f4fd05cb5931d6b4f8b33c03"
     },
     {
-      "name": "Ps5Upload V6.7.3",
-      "filename": "ps5upload_v6.7.3.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.7.3/ps5upload_v6.7.3.elf",
-      "local_path": "payloads/ps5_server/ps5upload/v6.7.3/ps5upload_v6.7.3.elf",
+      "name": "Ps5Upload V6.7.4",
+      "filename": "ps5upload_v6.7.4.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.7.4/ps5upload_v6.7.4.elf",
+      "local_path": "payloads/ps5_server/ps5upload/v6.7.4/ps5upload_v6.7.4.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v6.7.3",
+      "version": "v6.7.4",
       "category": "PS5 Server",
-      "checksum": "468740692643ecef083da7d761169c09accec4f43b199a64df9c394ecd6b5df3"
+      "checksum": "72b183a73082ff48f8a97e87c773e6c581e8ec80ba1747a338ffad67b2a2335d"
     },
     {
       "name": "Airpsx V0.19",
@@ -402,14 +402,14 @@
       "checksum": "e8c8e57bbda31b5d16d131797aac6f83b555cae8d439b1f475c952f3d9554eff"
     },
     {
-      "name": "Pegasus-Dl V1.10.1",
-      "filename": "pegasus-dl_v1.10.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.10.1/pegasus-dl_v1.10.1.elf",
-      "local_path": "payloads/ps5_freeshop/pegasus-dl/v1.10.1/pegasus-dl_v1.10.1.elf",
+      "name": "Pegasus-Dl V1.11.0",
+      "filename": "pegasus-dl_v1.11.0.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.11.0/pegasus-dl_v1.11.0.elf",
+      "local_path": "payloads/ps5_freeshop/pegasus-dl/v1.11.0/pegasus-dl_v1.11.0.elf",
       "description": "free store webadmin http://your-ps5-ip:6970.",
-      "version": "v1.10.1",
+      "version": "v1.11.0",
       "category": "PS5 Freeshop",
-      "checksum": "b24fdc62fc6cad14684b214a9c5be6c1221585afbf9493e387ab90f9dee21138"
+      "checksum": "32b69c2089bb545abfabd04d5827444698f9c4f1bc4915d72247cb781e8c23d9"
     },
     {
       "name": "Ps5Shopappkg-Dpi",
@@ -709,7 +709,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "1a0038bfd4b6ecaa8696b1b3f26747a1c0bf4d421b15d3e4dc442f160137291b"
+      "checksum": "fab407c5a942c588ff88faa7752b59c0096c89356384792f95c82040396ab538"
     },
     {
       "name": "Np-Fake-Signin-Ps5",
@@ -752,24 +752,24 @@
       "checksum": "c548e4dd9e15f58bff8cccc2e7042df276462643ec74a0ea7548deeee6941548"
     },
     {
-      "name": "Ps5-Romm V1.1.0",
-      "filename": "ps5-romm_v1.1.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.1.0/ps5-romm_v1.1.0.elf",
-      "local_path": "payloads/ps5_emulator/ps5-romm/v1.1.0/ps5-romm_v1.1.0.elf",
+      "name": "Ps5-Romm V1.1.1",
+      "filename": "ps5-romm_v1.1.1.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.1.1/ps5-romm_v1.1.1.elf",
+      "local_path": "payloads/ps5_emulator/ps5-romm/v1.1.1/ps5-romm_v1.1.1.elf",
       "description": "ps5-romm for ps5",
-      "version": "v1.1.0",
+      "version": "v1.1.1",
       "category": "PS5 Emulator",
-      "checksum": "02b5884acb085fdd35d57370a8571a82d7ae8ff106726dcda0e51296095cab61"
+      "checksum": "e86153e3d8f480656b47906bb6a6dd9d9fc76217ded4c9243f6f4df90724e53a"
     },
     {
-      "name": "Fbneo-Ps5 V1.7",
-      "filename": "fbneo-ps5_v1.7.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v1.7/fbneo-ps5_v1.7.elf",
-      "local_path": "payloads/ps5_emulator/fbneo-ps5/v1.7/fbneo-ps5_v1.7.elf",
+      "name": "Fbneo-Ps5 V1.8",
+      "filename": "fbneo-ps5_v1.8.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v1.8/fbneo-ps5_v1.8.elf",
+      "local_path": "payloads/ps5_emulator/fbneo-ps5/v1.8/fbneo-ps5_v1.8.elf",
       "description": "FBNeo for ps5",
-      "version": "v1.7",
+      "version": "v1.8",
       "category": "PS5 Emulator",
-      "checksum": "9b85f6cbd9b77ba5eb5ffb01b8737a3818f8141903efa78e8de229c2b2e7daf5"
+      "checksum": "9e3b4af4239eeb574adb1b042f5da54e806d6ec018a85c6f93cf8a423815b11c"
     },
     {
       "name": "Phu-Sandbox.Exit V1.0",

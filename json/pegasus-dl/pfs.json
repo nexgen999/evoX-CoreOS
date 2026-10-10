@@ -3,6 +3,85 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA16603",
+      "title": "Granblue Fantasy Versus: Rising",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/byaGSD1Nn2"
+        },
+        {
+          "name": "Viki - Backport",
+          "url": "https://vik1ngfile.site/f/SKgOvFApAS"
+        }
+      ],
+      "version": "02.610",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0208/2485698ec210f6c6ffc8873a823aeedefcc77be090fc5b72.png?w=260",
+      "description": "The latest installment in the GBVS series is taking the genre to new heights! Rise to glory in the definitive fighting game experience for beginners and veterans alike. It’s a Party! Claim Your Crown in Grand Bruise Legends! Need a break from matches? Take a breather and experience a one-of-a-kind island lobby filled with fun attractions. You can even go head-to-head with other players online in a variety of obstacle courses and survival games in an all-new party mode, Grand Bruise Legends! (Avatar, character, and mode availability is limited in the Free Edition.) Stay Focused on the Battle, Not the Controls Newcomers can fully enjoy the intensity and thrills of one-on-one combat without needing to memorize complicated controls—simple inputs can be used to perform skills with the press of a single button! A Captivating Story Campaign Awaits Embark on a journey through the vast skies of Granblue Fantasy and immerse yourself in an epic adventure while mastering the fundamentals of gameplay. As you take on more quests in this action RPG-inspired experience, you’ll continue to grow stronger. Personalize the Experience On Every Level Express yourself and show some love for your favorite Granblue characters through a variety of character colors, weapon skins, lobby avatars, and even a selectable partner character to cheer you on and give you advice! Get Creative with the Digital Figure Studio The only limit is your imagination—construct original dioramas from a massive collection of high-quality 3D models from the Granblue Fantasy Versus series!\nRegion: USA\nFirmware: 4.xx+\nCredits: Oussama\nUpdated: 2026-10-10T09:56:08.335Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 25608742502
+    },
+    {
+      "titleId": "PPSA31162",
+      "title": "Super Meat Boy 3D",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/5zcjl6k8w5"
+        },
+        {
+          "name": "Viki - Backport",
+          "url": "https://vik1ngfile.site/f/sdDKMaGr3V"
+        }
+      ],
+      "version": "02.00",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1208/1e2df6e3d86120b31db3c30057b883f3607afd00aa0bd582.png?w=260",
+      "description": "Region: EUR\nFirmware: 4.xx+\nCredits: Oussama\nUpdated: 2026-10-10T09:36:31.232Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 2877628088
+    },
+    {
+      "titleId": "PPSA16833",
+      "title": "LEGO Batman Legacy of The Dark Knight",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/0NQ8D2w7kK"
+        },
+        {
+          "name": "Viki - Backport",
+          "url": "https://vik1ngfile.site/f/e71jqpGavl"
+        }
+      ],
+      "version": "01.10",
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1316/3302f35b66691aa405aee31624c0c95fe73081be8e0c75bb.png?w=260",
+      "description": "Become the Dark Knight and battle Gotham City’s most infamous DC Super-Villains in an open-world action-adventure from TT Games, the award-winning studio behind LEGO® Star Wars™: The Skywalker Saga. Full base game includes: • Main Story – Bruce Wayne’s journey from origin to legend as he trains with The League of Shadows, becomes the hero of Gotham City, and forges a new family of allies with Jim Gordon, Catwoman, Robin, Nightwing, and Batgirl. Confront an ever-growing threat from across Batman’s Rogues Gallery as you face The Joker, The Penguin, Mr. Freeze, Poison Ivy, Bane, and more. • 7 Playable Characters – Batman, Jim Gordon, Robin, Nightwing, Batgirl, Catwoman, and Talia al Ghul each bring unique skills and signature gadgets as you uncover crimes, complete challenges, and explore an immersive Gotham City full of secrets and surprises. • 100 Suits – Inspired by Batman’s 86-year legacy, you’ll find an array of Batsuits alongside individual outfits for every playable character. • 20+ Vehicles – A range of Batmobiles and Batcycles to drive around Gotham City’s open world in style. Including iconic rides like the legendary Tumbler. • 250+ Batcave Props &amp; Trophies – Customize and display a wide range of items to personalize your Batcave and celebrate your achievements. Are you ready to build the legacy of the Dark Knight?\nRegion: USA\nFirmware: 4.xx+\nCredits: Oussama\nUpdated: 2026-10-10T08:22:46.755Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 34359738368
+    },
+    {
+      "titleId": "PPSA26578",
+      "title": "MOUSE: P.I. For Hire",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/7Rk2uqoA3K"
+        },
+        {
+          "name": "Viki - Backport",
+          "url": "https://vik1ngfile.site/f/EFesym0TZ7"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0206/ec04116f30616ee2ef7e91c70c96bb7773b9d95a54e4d2b9.png?w=260",
+      "description": "MOUSE: P.I. For Hire is an action-packed first-person shooter that draws inspiration from the classic cartoons of the 1930s. Its black and white rubber hose visuals are drawn by hand, frame by frame, delivering a striking vintage aesthetic. Unravel layers of corruption with a thrilling noir-fueled detective story, lively environments to explore, an original big band jazz soundtrack, and a fully-loaded arsenal of cartoon weapons and devastating power-ups. DEADLY INVESTIGATIONS Meet Private Investigator Jack Pepper, a former war hero-turned-detective in a world where danger lurks even in the smallest mouse hole. Uncover the truth when a simple missing persons case quickly escalates into a complex web of intrigue, with corruption, kidnapping and murder all on the docket. Investigate the seedy underbelly of Mouseburg, battle heavily armed gangs and crooked cops, and discover clues to reveal the conspiracy buried underneath the surface. LOCK, LOAD &amp; LAUGH From crackling machine guns to explosive firepower, each weapon in Pepper’s arsenal is designed to deploy non-stop cartoon chaos. Arm yourself with an array of classic, creatively twisted and experimental firearms, and consume powerful upgrades when you need that extra spinach-loaded punch! Lethal encounters and manic boss battles await in this boomer shooter-inspired, retro-vibed adventure – and the denizens of Mouseburg never go down without a fight. A CITY OF SECRETS Explore a diverse city playground, from dark streets to classic film studios, opulent opera buildings, poisonous swamps and underground sewers. With a myriad of cases to solve and collectibles to find, Mouseburg is truly a detective’s delight! Use every tool at your disposal to wall-run, grapple-hook and double-jump through this unrelenting cartoon world. FEATURES – Black and white, hand-drawn rubber hose animation, inspired by cartoons of the 1930s – Fast-paced FPS combat, where constant movement is key – A thrilling single-player campaign that unravels a complex web of crime and corruption – Over 20 noir-infused levels, teeming with mice, rats and shrews – Fully-loaded arsenal of over ten unique weapons and equipment—with a cartoon twist! – Devastating consumable power-ups, capable of turning the tide of any battle – Unlockable movement abilities and Metroidvania-inspired level traversal – Original jazz soundtrack, featuring a big band orchestral ensemble\nRegion: USA\nFirmware: 4.xx+\nCredits: Oussama\nUpdated: 2026-10-10T08:14:23.251Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "sizeBytes": 8589934592
+    },
+    {
       "titleId": "PPSA20154",
       "title": "Revenge of The Savage Planet",
       "downloadLinks": [
@@ -287,16 +366,12 @@
           "url": "https://vikingfile.com/f/CdFD5gyWAt"
         },
         {
-          "name": "Viki - Backport",
-          "url": "https://vikingfile.com/f/dV0CjEFYhW"
-        },
-        {
           "name": "Fileditch",
           "url": "https://fileditchfiles.st/alpha33/20e9cb7cdf24672a1518/Onimusha_Way_of_the_Sword_v01.000.001_PPSA27836_12.xx.pkg.rename"
         },
         {
-          "name": "Fileditch - Backport",
-          "url": "https://fileditchfiles.st/alpha33/4adb92292146bc458702/Onimusha_Way_of_the_Sword_v01.000.001_PPSA27836-backport_4.xx.pkg.rename"
+          "name": "Viki - Backport",
+          "url": "https://vik1ngfile.site/f/o2Dz1qssxH"
         }
       ],
       "version": "01.000.001",
@@ -445,6 +520,10 @@
         {
           "name": "Viki",
           "url": "https://vikingfile.com/f/vmpjpJrnBk"
+        },
+        {
+          "name": "Viki - Backport",
+          "url": "https://vik1ngfile.site/f/63Af2X98UA"
         }
       ],
       "version": "01.001.008",
@@ -623,8 +702,8 @@
           "url": "https://akirabox.com/Zvqzl7kon3aD/file"
         },
         {
-          "name": "Viki - Backport - 4.xx+",
-          "url": "https://vikingfile.com/f/8Odd5ZT0am"
+          "name": "Viki - Backport",
+          "url": "https://vik1ngfile.site/f/9BOdR6o6sc"
         }
       ],
       "version": "01.006.000",
@@ -981,6 +1060,10 @@
         {
           "name": "Viki",
           "url": "https://vikingfile.com/f/E3tIZcLs5M"
+        },
+        {
+          "name": "Viki - Backport",
+          "url": "https://vik1ngfile.site/f/A8swJX6R3R"
         }
       ],
       "version": "1.007",
@@ -4005,6 +4088,10 @@
         {
           "name": "Viki",
           "url": "https://vik1ngfile.site/f/unKoOl6eE9"
+        },
+        {
+          "name": "Viki - Backport",
+          "url": "https://vik1ngfile.site/f/fsszzIEadv"
         }
       ],
       "version": "01.090",

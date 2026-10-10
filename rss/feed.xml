@@ -191,10 +191,10 @@
       <pubDate>1.11</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5Upload V6.7.3</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.7.3/ps5upload_v6.7.3.elf</link>
+      <title>[Payloads] Ps5Upload V6.7.4</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v6.7.4/ps5upload_v6.7.4.elf</link>
       <description>PS5 Upload server / tool. Port: 9025</description>
-      <pubDate>v6.7.3</pubDate>
+      <pubDate>v6.7.4</pubDate>
     </item>
     <item>
       <title>[Payloads] Airpsx V0.19</title>
@@ -245,10 +245,10 @@
       <pubDate>v0.1</pubDate>
     </item>
     <item>
-      <title>[Payloads] Pegasus-Dl V1.10.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.10.1/pegasus-dl_v1.10.1.elf</link>
+      <title>[Payloads] Pegasus-Dl V1.11.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/pegasus-dl/v1.11.0/pegasus-dl_v1.11.0.elf</link>
       <description>free store webadmin http://your-ps5-ip:6970.</description>
-      <pubDate>v1.10.1</pubDate>
+      <pubDate>v1.11.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5Shopappkg-Dpi</title>
@@ -455,16 +455,16 @@
       <pubDate>v1.6</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5-Romm V1.1.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.1.0/ps5-romm_v1.1.0.elf</link>
+      <title>[Payloads] Ps5-Romm V1.1.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.1.1/ps5-romm_v1.1.1.elf</link>
       <description>ps5-romm for ps5</description>
-      <pubDate>v1.1.0</pubDate>
+      <pubDate>v1.1.1</pubDate>
     </item>
     <item>
-      <title>[Payloads] Fbneo-Ps5 V1.7</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v1.7/fbneo-ps5_v1.7.elf</link>
+      <title>[Payloads] Fbneo-Ps5 V1.8</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v1.8/fbneo-ps5_v1.8.elf</link>
       <description>FBNeo for ps5</description>
-      <pubDate>v1.7</pubDate>
+      <pubDate>v1.8</pubDate>
     </item>
     <item>
       <title>[Payloads] Phu-Sandbox.Exit V1.0</title>
@@ -840,9 +840,9 @@
     </item>
     <item>
       <title>[Applications] Ppsa99004</title>
-      <link>https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.002.000/PPSA99004.zip</link>
+      <link>https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.003.000/PPSA99004.zip</link>
       <description>Private, local generative AI for PlayStation 5 homebrew</description>
-      <pubDate>01.002.000</pubDate>
+      <pubDate>01.003.000</pubDate>
     </item>
     <item>
       <title>[Applications] Castation-0.4.0</title>
@@ -930,15 +930,15 @@
     </item>
     <item>
       <title>[Applications] Helper</title>
-      <link>https://github.com/ZiZc3/XPSemu/releases/download/Alpha-2/helper.elf</link>
+      <link>https://github.com/ZiZc3/XPSemu/releases/download/Alpha-2.1/helper.elf</link>
       <description>Xbox emulator (Xemu) port for the PS5</description>
-      <pubDate>Alpha-2</pubDate>
+      <pubDate>Alpha-2.1</pubDate>
     </item>
     <item>
       <title>[Applications] Ppsa97358</title>
-      <link>https://github.com/ZiZc3/XPSemu/releases/download/Alpha-2/PPSA97358.zip</link>
+      <link>https://github.com/ZiZc3/XPSemu/releases/download/Alpha-2.1/PPSA97358.zip</link>
       <description>Xbox emulator (Xemu) port for the PS5</description>
-      <pubDate>Alpha-2</pubDate>
+      <pubDate>Alpha-2.1</pubDate>
     </item>
     <item>
       <title>[Applications] Porpoise-2.7</title>

@@ -22,24 +22,24 @@
       "checksum": "c548e4dd9e15f58bff8cccc2e7042df276462643ec74a0ea7548deeee6941548"
     },
     {
-      "name": "Ps5-Romm V1.1.0",
-      "filename": "ps5-romm_v1.1.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.1.0/ps5-romm_v1.1.0.elf",
-      "local_path": "payloads/ps5_emulator/ps5-romm/v1.1.0/ps5-romm_v1.1.0.elf",
+      "name": "Ps5-Romm V1.1.1",
+      "filename": "ps5-romm_v1.1.1.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.1.1/ps5-romm_v1.1.1.elf",
+      "local_path": "payloads/ps5_emulator/ps5-romm/v1.1.1/ps5-romm_v1.1.1.elf",
       "description": "ps5-romm for ps5",
-      "version": "v1.1.0",
+      "version": "v1.1.1",
       "category": "PS5 Emulator",
-      "checksum": "02b5884acb085fdd35d57370a8571a82d7ae8ff106726dcda0e51296095cab61"
+      "checksum": "e86153e3d8f480656b47906bb6a6dd9d9fc76217ded4c9243f6f4df90724e53a"
     },
     {
-      "name": "Fbneo-Ps5 V1.7",
-      "filename": "fbneo-ps5_v1.7.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v1.7/fbneo-ps5_v1.7.elf",
-      "local_path": "payloads/ps5_emulator/fbneo-ps5/v1.7/fbneo-ps5_v1.7.elf",
+      "name": "Fbneo-Ps5 V1.8",
+      "filename": "fbneo-ps5_v1.8.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v1.8/fbneo-ps5_v1.8.elf",
+      "local_path": "payloads/ps5_emulator/fbneo-ps5/v1.8/fbneo-ps5_v1.8.elf",
       "description": "FBNeo for ps5",
-      "version": "v1.7",
+      "version": "v1.8",
       "category": "PS5 Emulator",
-      "checksum": "9b85f6cbd9b77ba5eb5ffb01b8737a3818f8141903efa78e8de229c2b2e7daf5"
+      "checksum": "9e3b4af4239eeb574adb1b042f5da54e806d6ec018a85c6f93cf8a423815b11c"
     },
     {
       "name": "Phu-Sandbox.Exit V1.0",

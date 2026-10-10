@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.10.09-2219)
+### 🚀 Synthèse de la mise à jour (v2026.10.10-1157)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -53,7 +53,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
   * `ps5-ezremote-server_v1.11.elf`
-  * `ps5upload_v6.7.3.elf`
+  * `ps5upload_v6.7.4.elf`
   * `airpsx_v0.19.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
   * `PS_Game_State_Lib_v0.1.elf`
@@ -62,7 +62,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PS5-Power-Payloads-Project_v1.0.elf`
   * `ps5-date-time-sync_v1.0.0.elf`
   * `FGG-Unpack_v0.1.elf`
-  * `pegasus-dl_v1.10.1.elf`
+  * `pegasus-dl_v1.11.0.elf`
   * `ps5shopappkg-dpi.elf`
   * `ps5library-agent-0.2.70.elf`
   * `orbit_store.elf`
@@ -97,8 +97,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5-linux-loader_v2.5.elf`
   * `snes9xPS5_v2.3.elf`
   * `genplusgxPS5_v1.6.elf`
-  * `ps5-romm_v1.1.0.elf`
-  * `fbneo-ps5_v1.7.elf`
+  * `ps5-romm_v1.1.1.elf`
+  * `fbneo-ps5_v1.8.elf`
   * `PHU-Sandbox.Exit_v1.0.elf`
   * `ps5-fan-control_v0.3.elf`
   * `fan_target_85c_v0.1.elf`

@@ -1,5 +1,16 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 10/10/2026 à 11:57
+* **PAYLOADS**
+  * `Ps5Upload V6.7.4` (v6.7.4) - *Nouveau*
+  * `Pegasus-Dl V1.11.0` (v1.11.0) - *Nouveau*
+  * `Ps5-Romm V1.1.1` (v1.1.1) - *Nouveau*
+  * `Fbneo-Ps5 V1.8` (v1.8) - *Nouveau*
+* **APPS**
+  * `Ppsa99004` (01.003.000) - *Mise à jour (Précédent: 01.002.000)*
+  * `Helper` (Alpha-2.1) - *Mise à jour (Précédent: Alpha-2)*
+  * `Ppsa97358` (Alpha-2.1) - *Mise à jour (Précédent: Alpha-2)*
+
 ## Build du 09/10/2026 à 22:19
 * **PAYLOADS**
   * `Ps5Upload V6.7.3` (v6.7.3) - *Nouveau*

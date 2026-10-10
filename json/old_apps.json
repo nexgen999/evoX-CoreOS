@@ -4,11 +4,11 @@
         {
             "name": "Ppsa99004",
             "filename": "PPSA99004.zip",
-            "url": "https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.002.000/PPSA99004.zip",
-            "local_path": "apps/ProsperoAI/01.002.000/PPSA99004.zip",
+            "url": "https://github.com/blackbearreloaded/ProsperoAI/releases/download/01.003.000/PPSA99004.zip",
+            "local_path": "apps/ProsperoAI/01.003.000/PPSA99004.zip",
             "description": "Private, local generative AI for PlayStation 5 homebrew",
-            "version": "01.002.000",
-            "checksum": "dcbd20e13aa8caa40538f2025c0f1587437f5b47ed657eb9d56aa4b8d286edf5",
+            "version": "01.003.000",
+            "checksum": "a47c7f3385f03fe93a3c0635ff2ec7f02aa2e6dee2e33a356a533b9cf3d58727",
             "category": "Applications"
         },
         {
@@ -154,21 +154,21 @@
         {
             "name": "Helper",
             "filename": "helper.elf",
-            "url": "https://github.com/ZiZc3/XPSemu/releases/download/Alpha-2/helper.elf",
-            "local_path": "apps/XPSemu/Alpha-2/helper.elf",
+            "url": "https://github.com/ZiZc3/XPSemu/releases/download/Alpha-2.1/helper.elf",
+            "local_path": "apps/XPSemu/Alpha-2.1/helper.elf",
             "description": "Xbox emulator (Xemu) port for the PS5",
-            "version": "Alpha-2",
-            "checksum": "29c271432859a394d433329c7a58c7df27912ad7fa5551cd2ac0374f834bf716",
+            "version": "Alpha-2.1",
+            "checksum": "31c8a3479937e310f758d36d87c937c91ae942921fa4645473b3d228a7d88959",
             "category": "Applications"
         },
         {
             "name": "Ppsa97358",
             "filename": "PPSA97358.zip",
-            "url": "https://github.com/ZiZc3/XPSemu/releases/download/Alpha-2/PPSA97358.zip",
-            "local_path": "apps/XPSemu/Alpha-2/PPSA97358.zip",
+            "url": "https://github.com/ZiZc3/XPSemu/releases/download/Alpha-2.1/PPSA97358.zip",
+            "local_path": "apps/XPSemu/Alpha-2.1/PPSA97358.zip",
             "description": "Xbox emulator (Xemu) port for the PS5",
-            "version": "Alpha-2",
-            "checksum": "66260113cd7806426689ec19489a4f2c363ee6b99db50d43766d109ba94ce7e6",
+            "version": "Alpha-2.1",
+            "checksum": "494682ff5073985422fd8961cc617b8e3bdbdb2dedd85b69dadbd06f709953e9",
             "category": "Applications"
         },
         {

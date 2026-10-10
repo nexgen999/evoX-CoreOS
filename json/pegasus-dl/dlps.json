@@ -3,6 +3,28 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA22408",
+      "title": "HOT WHEELS Infinite Rush Deluxe Edition",
+      "downloadLinks": [
+        {
+          "name": "EUR 12.xx Base - Akirabox",
+          "url": "https://akirabox.com/APVmabjWR3Xo/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/tLxDc"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/bCTCXistWi"
+        }
+      ],
+      "category": "game",
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2509/b304ac4fea73474605efb22161edd7943565533ec3dab802.png?w=260",
+      "description": "Region: EUR\nRelease note: Works on 12.xx and higher\nContributor: @DUPLEX\nPassword: DLPSGAME.COM",
+      "downloadSource": "https://dlpsgame.com/hot-wheels-infinite-rush-deluxe-edition-ps5/"
+    },
+    {
       "titleId": "PPSA16342",
       "title": "Cricket 24",
       "downloadLinks": [
@@ -255,7 +277,7 @@
           "url": "https://vikingfile.com/f/bqgMDc0imM"
         },
         {
-          "name": "EUR 11.xx Base - Viki",
+          "name": "EUR 11.xx Base - Vikingfile part 3",
           "url": "https://vikingfile.com/f/qEUnd3gind#1348"
         }
       ],
@@ -833,11 +855,23 @@
         {
           "name": "USA 13.xx Base - Vikingfile part 10",
           "url": "https://vikingfile.com/f/zAS1n5cOlA"
+        },
+        {
+          "name": "USA exFAT 01.007 Base - DATA (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoidWpEYU8rNGVYR040bDJXL0tsTUFuTmZFSXV5TmhKRW9pMFNRbjMzM2JzYzVhTUM5eHA0STVTanR1TFFtV1Y3QkdIenAyRldqWlBuMmxkZERHeDBDQUk1VkdRSEV5QkRseEFLZDhiTHFGZz09IiwiaSI6ImdBT1V1bTRmNE1hNmhqRHAiLCJuIjoiRGF0YSJ9"
+        },
+        {
+          "name": "USA exFAT 01.007 Base - FileK (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoieVlKWlVQTWZ2d2VaZGd6Q3RPdTVJQUpsT3NWL3JrRmVXSTJtSXBIRWhybkJmTGJZSG5kdkdCc05YOVlaVzdJUHA4SUxPS3NzYk9LZDJXN0xMNXpHek0wdEU5QjUwYjlVZG4yOHpTRHRBVm89IiwiaSI6ImlUWVB5SGpXUmR4dFNNbW4iLCJuIjoiRmlsZUsifQ=="
+        },
+        {
+          "name": "USA exFAT 01.007 Base - VIKI (exFAT)",
+          "url": "https://pippo26442999.github.io/library-decrypt/decrypt-public.html#eyJ2IjoiMC4wLjEiLCJlIjoieWNNT2JDa2dPSUYyZG84QnVrMG52SmJhSDM4L1Y0bE9icHhXZ1pBQ21mSFdGZCthdGp5cXZ0REwzSVhyS0d4cG1sbWpXSVc2L3FkOFpoYzFSaUd2UEpjdlVudXM2UEhFcjlLRDRZL09WRWc9IiwiaSI6Im1xWG9TTjVmZGxXREtpMU8iLCJuIjoiVmlraSJ9"
         }
       ],
       "category": "game",
       "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/2913/4a31f711e2ff460cd44ad646983f36533278cea61f639be9.png?w=260",
-      "description": "Region: USA\nRelease note: Works on 13.xx and higher\nContributor: @DUPLEX\nPassword: DLPSGAME.COM",
+      "description": "Variant: USA 13.xx\nRegion: USA\nRelease note: Works on 13.xx and higher\nContributor: @DUPLEX\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.007\nRegion: USA\nRelease note: exFAT format — FW 01.007 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/nba-2k27-ps5/"
     },
     {
