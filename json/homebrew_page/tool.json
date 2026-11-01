@@ -88,15 +88,15 @@
     {
       "name": "MacheteSaveGameManager",
       "filename": "PPSA99700.zip",
-      "url": "https://github.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager/releases/download/v1.3.16/PPSA99700.zip",
-      "local_path": "downloads/apps/homebrew_page/tool/PPSA99700/1.3.16/PPSA99700.zip",
+      "url": "https://github.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager/releases/download/v1.3.17/PPSA99700.zip",
+      "local_path": "downloads/apps/homebrew_page/tool/PPSA99700/1.3.17/PPSA99700.zip",
       "description": "PS5/PS4 save manager in active development. PS5 root keys unreleased; cross-console saves use local dummy injection. Compatibility varies; share logs and feedback to help improve and fix titles.",
-      "version": "1.3.16",
+      "version": "1.3.17",
       "category": "Tools",
       "kind": "tool",
       "titleid": "PPSA99700",
       "author": "VenezuelanBiggie24",
-      "checksum": "a1eaeabcc3d9c87eacfab863909fead0c8b8d4423b6064bf2d21ff7976c5dba7",
+      "checksum": "30d70e746beddffa059945edec7f1ea61ed578dbf6e7a02edb2cb44c18584d58",
       "source": "https://github.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager"
     },
     {

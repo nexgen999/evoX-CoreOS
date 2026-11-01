@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.01-0426)
+### 🚀 Synthèse de la mise à jour (v2026.11.01-1302)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -11,6 +11,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
 - `PS5_pkg_aio_part2_latest.zip`
 - `PS5_ultimate_pack_part10_latest.zip`
 - `PS5_ultimate_pack_part11_latest.zip`
+- `PS5_ultimate_pack_part12_latest.zip`
 - `PS5_ultimate_pack_part1_latest.zip`
 - `PS5_ultimate_pack_part2_latest.zip`
 - `PS5_ultimate_pack_part3_latest.zip`
@@ -144,7 +145,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `gdbsrv_v0.9.elf`
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
-  * `ps5-ezremote-client_v2.17.elf`
+  * `ps5-ezremote-client_v2.18.elf`
   * `ps5-ezremote-server_v1.13.elf`
   * `ps5upload_v9.5.1.elf`
   * `airpsx_v0.19.elf`
@@ -278,6 +279,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA69426.zip`
   * `PPSA69428.zip`
   * `PPSA69431.zip`
+  * `PPSA70421.zip`
   * `PPSA74126.zip`
   * `PPSA74207.zip`
   * `PPSA75837.zip`
@@ -391,6 +393,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99699.zip`
   * `PPSA99700.zip`
   * `PPSA99728.zip`
+  * `PPSA99731.zip`
   * `PPSA99764.zip`
   * `PPSA99770.zip`
   * `PPSA99773.zip`

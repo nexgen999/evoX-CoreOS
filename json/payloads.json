@@ -463,7 +463,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "a9c1940d90cc8dcfb4a5895eb6d4f3d04948725bcb5c107a2b81382181d1b9c1",
+      "checksum": "b24217798f81ee5cdd7778faabe22cd6168ca3fc27bc32a33483255e33aac7c9",
       "source": "https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf"
     },
     {
@@ -1160,12 +1160,12 @@
       "source": "https://github.com/drakmor/ftpsrv/releases"
     },
     {
-      "name": "Ps5-Ezremote-Client V2.17",
-      "filename": "ps5-ezremote-client_v2.17.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.17/ps5-ezremote-client_v2.17.elf",
-      "local_path": "payloads/ps5_server/ps5-ezremote-client/2.17/ps5-ezremote-client_v2.17.elf",
+      "name": "Ps5-Ezremote-Client V2.18",
+      "filename": "ps5-ezremote-client_v2.18.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.18/ps5-ezremote-client_v2.18.elf",
+      "local_path": "payloads/ps5_server/ps5-ezremote-client/2.18/ps5-ezremote-client_v2.18.elf",
       "description": "Easy remote client application for PS5.",
-      "version": "2.17",
+      "version": "2.18",
       "category": "PS5 Server",
       "checksum": "eda226e008efae5f14bd9e4fb0dd27ee198d1e3b525aa4ab1079e410e66f5e3c",
       "source": "https://github.com/cy33hc/ps5-ezremote-client/releases"

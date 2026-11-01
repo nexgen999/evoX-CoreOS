@@ -1,5 +1,15 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 01/11/2026 à 13:02
+* **PAYLOADS**
+  * `Ps5-Ezremote-Client V2.18` (2.18) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `ProsperoSunshine` (0.1.5) - *Mise à jour (Précédent: 0.1.4)*
+  * `Pixel Museum` (0.1.2) - *Nouveau*
+  * `ProsperoTV` (01.000.100) - *Mise à jour (Précédent: 01.000.090)*
+  * `MacheteSaveGameManager` (1.3.17) - *Mise à jour (Précédent: 1.3.16)*
+  * `PhazonPrime` (00.001.000) - *Nouveau*
+
 ## Build du 01/11/2026 à 04:26
 * **PAYLOADS**
   * `Orbit Store` (v1.8.2) - *Mise à jour (Précédent: v1.8.1)*

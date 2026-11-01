@@ -186,15 +186,15 @@
     {
       "name": "ProsperoSunshine",
       "filename": "PPSA47989.zip",
-      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.1.4/PPSA47989.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.1.4/PPSA47989.zip",
+      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.1.5/PPSA47989.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.1.5/PPSA47989.zip",
       "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio and controller input. Tested on firmware 13.00; other versions untested.",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA47989",
       "author": "Darkatek7",
-      "checksum": "f585b62bb42c964fecd6304af247e91b67825b3fc8d5aac99b223e57430c2165",
+      "checksum": "2287041b53c5a00655ed34b4fa1c7a633d5331dce65e65421f928cc32fcfc3f3",
       "source": "https://github.com/Darkatek7/ProsperoSunshine"
     },
     {
@@ -378,6 +378,20 @@
       "author": "Marice",
       "checksum": "3ef79d0ce566ef57e0f127311ae9929764c540360eecc9314bcb2099969a8e3f",
       "source": "https://github.com/Marice/jsrf-ps5"
+    },
+    {
+      "name": "Pixel Museum",
+      "filename": "PPSA70421.zip",
+      "url": "https://github.com/LoZazaMastro/Pixel-Museum/releases/download/v0.1.2/PPSA70421.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA70421/0.1.2/PPSA70421.zip",
+      "description": "An interactive museum of video game history and culture, with illustrated stories, soundtracks, collectible pins, playable experiences and creative workshops.",
+      "version": "0.1.2",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA70421",
+      "author": "LoZazaMastro",
+      "checksum": "9b1f903aec9e111217a360937bab69e8808b9a7260223cf0a547896e652bea88",
+      "source": "https://github.com/LoZazaMastro/Pixel-Museum"
     },
     {
       "name": "Stremio Plus",
@@ -788,15 +802,15 @@
     {
       "name": "ProsperoTV",
       "filename": "PPSA99003.zip",
-      "url": "https://github.com/ThatGuyKalvin/ProsperoTV/releases/download/01.000.090/PPSA99003.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99003/01.000.090/PPSA99003.zip",
+      "url": "https://github.com/ThatGuyKalvin/ProsperoTV/releases/download/01.000.100/PPSA99003.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99003/01.000.100/PPSA99003.zip",
       "description": "Native IPTV client for PS5.",
-      "version": "01.000.090",
+      "version": "01.000.100",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99003",
       "author": "ThatGuyKalvin",
-      "checksum": "efbe68d8723bd2cbab3225e5945ea86aa7c28dab827412848f285cc7d9ef40b3",
+      "checksum": "0ab3ebd19e70832486a723b013c0bb3f7ed130fc19eec8a35bc914757640b42b",
       "source": "https://github.com/ThatGuyKalvin/ProsperoTV"
     },
     {
@@ -1936,15 +1950,15 @@
     {
       "name": "MacheteSaveGameManager",
       "filename": "PPSA99700.zip",
-      "url": "https://github.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager/releases/download/v1.3.16/PPSA99700.zip",
-      "local_path": "downloads/apps/homebrew_page/tool/PPSA99700/1.3.16/PPSA99700.zip",
+      "url": "https://github.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager/releases/download/v1.3.17/PPSA99700.zip",
+      "local_path": "downloads/apps/homebrew_page/tool/PPSA99700/1.3.17/PPSA99700.zip",
       "description": "PS5/PS4 save manager in active development. PS5 root keys unreleased; cross-console saves use local dummy injection. Compatibility varies; share logs and feedback to help improve and fix titles.",
-      "version": "1.3.16",
+      "version": "1.3.17",
       "category": "Tools",
       "kind": "tool",
       "titleid": "PPSA99700",
       "author": "VenezuelanBiggie24",
-      "checksum": "a1eaeabcc3d9c87eacfab863909fead0c8b8d4423b6064bf2d21ff7976c5dba7",
+      "checksum": "30d70e746beddffa059945edec7f1ea61ed578dbf6e7a02edb2cb44c18584d58",
       "source": "https://github.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager"
     },
     {
@@ -1960,6 +1974,20 @@
       "author": "lowbit",
       "checksum": "f5c3d0a2168b5527a08ab2f335ab89057ab93082cde08813b6567b156fb1667e",
       "source": "https://github.com/lowbit/ps5-openrct2"
+    },
+    {
+      "name": "PhazonPrime",
+      "filename": "PPSA99731.zip",
+      "url": "https://github.com/BaZZtian/PhazonPrime-PS5/releases/download/v00.001.000/PhazonPrime-v00.001.000-PS5.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99731/00.001.000/PPSA99731.zip",
+      "description": "Native PS5 Metaforce-classic port. Requires your own supported PAL GameCube ISO. Map geometry and door visuals have known issues.",
+      "version": "00.001.000",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99731",
+      "author": "BaZZtian",
+      "checksum": "4bfbee3b7887e4b9e88d5ddff038a694f7eeb81387fc61873f07d61f133d18df",
+      "source": "https://github.com/BaZZtian/PhazonPrime-PS5"
     },
     {
       "name": "Porpoise",

@@ -814,6 +814,20 @@
       "source": "https://github.com/lowbit/ps5-openrct2"
     },
     {
+      "name": "PhazonPrime",
+      "filename": "PPSA99731.zip",
+      "url": "https://github.com/BaZZtian/PhazonPrime-PS5/releases/download/v00.001.000/PhazonPrime-v00.001.000-PS5.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99731/00.001.000/PPSA99731.zip",
+      "description": "Native PS5 Metaforce-classic port. Requires your own supported PAL GameCube ISO. Map geometry and door visuals have known issues.",
+      "version": "00.001.000",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99731",
+      "author": "BaZZtian",
+      "checksum": "4bfbee3b7887e4b9e88d5ddff038a694f7eeb81387fc61873f07d61f133d18df",
+      "source": "https://github.com/BaZZtian/PhazonPrime-PS5"
+    },
+    {
       "name": "ProsperoCraft",
       "filename": "PPSA99874.zip",
       "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.179/PPSA99874.zip",

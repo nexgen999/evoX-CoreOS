@@ -641,10 +641,10 @@
       <pubDate>1.16-ng-stable</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5-Ezremote-Client V2.17</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.17/ps5-ezremote-client_v2.17.elf</link>
+      <title>[Payloads] Ps5-Ezremote-Client V2.18</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.18/ps5-ezremote-client_v2.18.elf</link>
       <description>Easy remote client application for PS5.</description>
-      <pubDate>2.17</pubDate>
+      <pubDate>2.18</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-Ezremote-Server V1.13</title>
@@ -1196,7 +1196,7 @@
       <title>[ProsperoStore] ProsperoSunshine</title>
       <link>https://github.com/Darkatek7/ProsperoSunshine</link>
       <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio and controller input. Tested on firmware 13.00; other versions untested.</description>
-      <pubDate>0.1.4</pubDate>
+      <pubDate>0.1.5</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] SudokuZen</title>
@@ -1275,6 +1275,12 @@
       <link>https://github.com/Marice/jsrf-ps5</link>
       <description>Native PS5 port of JuMatt's JSRF Unleashed, Jet Set Radio Future recompiled, with a Vulkan renderer at up to 4K; needs your own Jet Set Radio Future (USA) disc image.</description>
       <pubDate>00.002.000</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] Pixel Museum</title>
+      <link>https://github.com/LoZazaMastro/Pixel-Museum</link>
+      <description>An interactive museum of video game history and culture, with illustrated stories, soundtracks, collectible pins, playable experiences and creative workshops.</description>
+      <pubDate>0.1.2</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Stremio Plus</title>
@@ -1454,7 +1460,7 @@
       <title>[ProsperoStore] ProsperoTV</title>
       <link>https://github.com/ThatGuyKalvin/ProsperoTV</link>
       <description>Native IPTV client for PS5.</description>
-      <pubDate>01.000.090</pubDate>
+      <pubDate>01.000.100</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] ProsperoAI</title>
@@ -1946,13 +1952,19 @@
       <title>[ProsperoStore] MacheteSaveGameManager</title>
       <link>https://github.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager</link>
       <description>PS5/PS4 save manager in active development. PS5 root keys unreleased; cross-console saves use local dummy injection. Compatibility varies; share logs and feedback to help improve and fix titles.</description>
-      <pubDate>1.3.16</pubDate>
+      <pubDate>1.3.17</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] OpenRCT2 Native Port</title>
       <link>https://github.com/lowbit/ps5-openrct2</link>
       <description>OpenRCT2, the open-source RollerCoaster Tycoon 2, running natively on the PS5 and played with the DualSense alone. Send your own game files, even the GOG installer, from a PC or phone browser.</description>
       <pubDate>1.0.0</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] PhazonPrime</title>
+      <link>https://github.com/BaZZtian/PhazonPrime-PS5</link>
+      <description>Native PS5 Metaforce-classic port. Requires your own supported PAL GameCube ISO. Map geometry and door visuals have known issues.</description>
+      <pubDate>00.001.000</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Porpoise</title>
