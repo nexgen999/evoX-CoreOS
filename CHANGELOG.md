@@ -1,5 +1,20 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 01/11/2026 à 04:26
+* **PAYLOADS**
+  * `Orbit Store` (v1.8.2) - *Mise à jour (Précédent: v1.8.1)*
+* **HOMEBREW_PAGE**
+  * `PC5` (2.0.8) - *Mise à jour (Précédent: 2.0.6)*
+  * `ProsperoSunshine` (0.1.4) - *Mise à jour (Précédent: 0.1.3)*
+  * `Mediathek` (01.000.062) - *Mise à jour (Précédent: 01.000.061)*
+  * `ProsperoEden` (1.005.000) - *Nouveau*
+  * `Media Player Classic PS5` (1.5.3) - *Mise à jour (Précédent: 1.5.2)*
+  * `Mupen64Plus PS5` (0.7.5) - *Nouveau*
+  * `Prospero Hi-Fi` (2.0.0) - *Mise à jour (Précédent: 1.3.0)*
+  * `Halo: Combat Evolved` (build-131) - *Mise à jour (Précédent: build-130)*
+  * `Emby5` (1.2.11) - *Mise à jour (Précédent: 1.2.10)*
+  * `Nuvio Pro` (0.1.0-alpha.7) - *Nouveau*
+
 ## Build du 31/10/2026 à 21:15
 * **HOMEBREW_PAGE**
   * `Playden` (0.9.0-beta.4) - *Mise à jour (Précédent: 0.9.0-beta.3)*

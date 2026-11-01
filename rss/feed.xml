@@ -360,9 +360,9 @@
     </item>
     <item>
       <title>[Payloads] Orbit Store</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.8.1/orbit_store.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.8.2/orbit_store.elf</link>
       <description>A modern, no-BS download manager for PS5.</description>
-      <pubDate>v1.8.1</pubDate>
+      <pubDate>v1.8.2</pubDate>
     </item>
     <item>
       <title>[Payloads] Etahen V2.5B</title>
@@ -1142,7 +1142,7 @@
       <title>[ProsperoStore] PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.</description>
-      <pubDate>2.0.6</pubDate>
+      <pubDate>2.0.8</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Home5</title>
@@ -1196,7 +1196,7 @@
       <title>[ProsperoStore] ProsperoSunshine</title>
       <link>https://github.com/Darkatek7/ProsperoSunshine</link>
       <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio and controller input. Tested on firmware 13.00; other versions untested.</description>
-      <pubDate>0.1.3</pubDate>
+      <pubDate>0.1.4</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] SudokuZen</title>
@@ -1219,8 +1219,8 @@
     <item>
       <title>[ProsperoStore] Mediathek</title>
       <link>https://github.com/M0S4YSH3LL0/mediathek-ps5</link>
-      <description>A Netflix-style movie library for (jailbroken) PS5 consoles.</description>
-      <pubDate>01.000.061</pubDate>
+      <description>A Netflix-style movie library for your PS5</description>
+      <pubDate>01.000.062</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PayLoader</title>
@@ -1463,6 +1463,12 @@
       <pubDate>01.006.000</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] ProsperoEden</title>
+      <link>https://github.com/Swordpdf/ProsperoEden</link>
+      <description>Unofficial Eden emulator port for PS5.</description>
+      <pubDate>1.005.000</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] vkQuake</title>
       <link>https://github.com/mihawk-99/PS5_vkQuake</link>
       <description>Native PS5 port of vkQuake, the Vulkan Quake engine, at up to 120 FPS and 4K with DualSense input. Needs your own Quake game data.</description>
@@ -1472,7 +1478,7 @@
       <title>[ProsperoStore] Media Player Classic PS5</title>
       <link>https://github.com/MisterTemaki/MediaPlayerClassicPS5</link>
       <description>Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.</description>
-      <pubDate>1.5.2</pubDate>
+      <pubDate>1.5.3</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] ProsperoEden (Mirror)</title>
@@ -1521,6 +1527,12 @@
       <link>https://github.com/XeN-Made/Orion-Media-Center</link>
       <description>A launcher that shows your PS5 and PS4 games, homebrew, media apps and emulated games in one library, with box art, tabs, themes and autoboot.</description>
       <pubDate>01.106.000</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] Mupen64Plus PS5</title>
+      <link>https://github.com/TheRealRetro/mupen64plus-ps5</link>
+      <description>Nintendo 64 emulator (mupen64plus-core 2.6.0) as a native PS5 home-screen app: dynarec, DualSense rumble, cover shelf, save states, auto-updates</description>
+      <pubDate>0.7.5</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] OpenNOW PS5 - Prototype</title>
@@ -1628,7 +1640,7 @@
       <title>[ProsperoStore] Prospero Hi-Fi</title>
       <link>https://github.com/Anime0t4ku/Prospero-Hi-Fi</link>
       <description>A Music Player for hombrew enabled PS5 with lossless audio as the main focus. It's heavily based on my MiSTer Hi-FI project.</description>
-      <pubDate>1.3.0</pubDate>
+      <pubDate>2.0.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Nuvio Max'd</title>
@@ -1772,7 +1784,7 @@
       <title>[ProsperoStore] Halo: Combat Evolved</title>
       <link>https://github.com/thelinkin3000/halo-ce-universal</link>
       <description>Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.</description>
-      <pubDate>build-130</pubDate>
+      <pubDate>build-131</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Jelly5</title>
@@ -1790,7 +1802,7 @@
       <title>[ProsperoStore] Emby5</title>
       <link>https://github.com/bornaradusin/Emby5</link>
       <description>A native Emby/Jellyfin client for PlayStation 5 with media playback, optional Seerr requests, IPTV and VOD</description>
-      <pubDate>1.2.10</pubDate>
+      <pubDate>1.2.11</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Régie5</title>
@@ -2049,6 +2061,12 @@
       <link>https://github.com/mpereiraesaa/prospero-win</link>
       <description>Windows compatibility runtime for native PlayStation 5 homebrew.</description>
       <pubDate>0.3.0</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] Nuvio Pro</title>
+      <link>https://github.com/speed-y/nuvio-pro-ps5</link>
+      <description>Nuvio Pro is a controller-first streaming app for jailbroken PS5s, with EVO Player playback, PS5 keyboard search, profiles and resume support. The console hosts its own UI. Tested on firmware 12.70.</description>
+      <pubDate>0.1.0-alpha.7</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Nuvio PS5</title>
