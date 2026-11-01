@@ -3,6 +3,42 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA07411",
+      "title": "Resident Evil 4 Remake",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "01.590",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/0e06abf6a172351a97201fa80103ae8c8373274ab998b406c1b78d90a58e39fd",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/44a183715a703de29a4d58f12d40ff4fe089d4e8c39eb1892605a97bf83018f8",
+      "description": "Format: Arabic FPKG\n6 years have passed since the biological disaster in Raccoon City. Leon S. Kennedy tracks the president’s missing daughter to a secluded European village, where there is something terribly wrong with the villagers. Featuring modernized gameplay, a reimagined storyline, and vividly detailed graphics, Resident Evil 4 marks the rebirth of an industry juggernaut. Relive the nightmare that revolutionized survival horror. Resident Evil 4 Gold Edition includes Resident Evil 4 and two additional items of content: Separate Ways, where you experience the story through Ada Wong’s perspective, and the Extra DLC Pack, which contains additional character outfits as well as useful weapons and items.\nRegion: USA\nFirmware: 4.xx+\nCredits: Oussama\nUpdated: 2026-11-01T19:43:05.735Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Arabic FPKG · Viki",
+          "url": "https://vikingfile.com/f/JWjcAc66uQ"
+        }
+      ],
+      "sizeBytes": 79456894976
+    },
+    {
+      "titleId": "PPSA07783",
+      "title": "Star Wars Jedi Survivor",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "01.013",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/6c6bd7ba824187390d223eb9d3bc0e505f8d12e31dc65e4efd4d4203d5b33603",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/50dfb7140be0060ba79a31ebf32aa6bc3866f61a72b7bb92830d94c9ed634923",
+      "description": "Format: Arabic FPKG\nThe story of Cal Kestis continues in Star Wars Jedi: Survivor™, a third person galaxy-spanning action-adventure game from Respawn Entertainment, developed in collaboration with Lucasfilm Games. This narratively-driven, single player title picks up five years after the events of Star Wars Jedi: Fallen Order™ and follows Cal’s increasingly desperate fight as the galaxy descends further into darkness. Pushed to the edges of the galaxy by the Empire, Cal will find himself surrounded by threats new and familiar. As one of the last surviving Jedi Knights, Cal is driven to make a stand during the galaxy’s darkest times – but how far is he willing to go to protect himself, his crew, and the legacy of the Jedi Order? • Continue Cal’s Journey – No longer a Padawan, Cal has come into his own and grown into a powerful Jedi Knight. Carrying the memories and expectations of the Jedi Order with him, his crusade against the Empire has only become more perilous. The Dark Times are closing in – with enemies new and familiar surrounding him, Cal will need to decide how far he’s willing to go to save those closest to him. • Go Beyond Your Training – The cinematic combat system returns with additional Force abilities and new lightsaber fighting styles. Creatively leverage all these abilities and weapons to strategically take on an expanded host of enemies, sizing up strengths and weaknesses while cleverly utilizing your training to overcome your opponents and solve the mysteries that lay in your path. • Explore an Untamed Galaxy – Discover new planets and familiar frontiers in the Star Wars galaxy, each with unique biomes, challenges, and enemies. Master new skills, equipment, and abilities that will augment the ways you explore, fight, and roam.\nRegion: USA\nFirmware: 4.xx+\nCredits: Oussama\nUpdated: 2026-11-01T18:00:04.072Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Arabic FPKG · Viki",
+          "url": "https://vikingfile.com/f/oUB6UfvmqV"
+        }
+      ],
+      "sizeBytes": 150323855360
+    },
+    {
       "titleId": "PPSA06954",
       "title": "Granblue Fantasy Relink Endless Ragnarok Edition",
       "createdAt": "2026-10-31T18:47:23.836Z",

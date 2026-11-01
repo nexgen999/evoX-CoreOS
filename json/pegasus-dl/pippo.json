@@ -3,6 +3,206 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA30363",
+      "title": "Shadow Tactics Blades of the Shogun",
+      "createdAt": "2026-11-01T13:00:36.784Z",
+      "version": "v01.000.004",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/80ad042d9a66b056b0838da2d70a46c82c89aa55bc297d65a0aa627a1a1bd43f",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/e7dc9acd273ad1006e14a54a1dd93599f5f96918826e4e259833b72d56260529",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA30363, v01.000.004, EUR, 4.xx BackPort\nSize: 8GB\nCredits: Files: b0mba1992; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/uiwbm7uk6tt7/PPSA30363.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/83vps0aazecd/PPSA30363.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/E1x3AxNbdmyk/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/yaY0DMaJAU"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/rk9zKdBa4G0l/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/nH8HWoHOK3"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/ygyvcc7ts3sg/PPSA30363-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/z1j9wkvu2g38/PPSA30363-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 8589934592
+    },
+    {
+      "titleId": "PPSA28038",
+      "title": "Halo Campaign Evolved Premium Edition",
+      "createdAt": "2026-11-01T13:00:36.784Z",
+      "version": "v17.661.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/cc5426d01a94878e68762a2e7e423c65ac7ada1bb69354463252371692b5f5fa",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/e4c9d82148f402cfd8da7e5754bb58fa2d49d683a47897dc93952fcd9e035f54",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA28038, v17.661.002, USA, 4.xx BackPort\nSize: 127GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI; DLC: Pippo &amp; DUPLEX\nHow to play: Note: Account must be activated, if play Split Screen then the 2nd need to be activated or cant join (offact -&gt; np-fake-signin). FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort + Coop Fix already included on Base, Pro Fix &amp; Original Files PKG included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/dia77k31450x/DLCs_Pippo_DUPLEX.rar"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://datavaults.co/9bv9lwrtfy5k/DLCs_Pippo_DUPLEX.rar"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/6kjb6w05t9kd/PPSA28038.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/kuhoyj2xzgc8/PPSA28038.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/0rpmv1aLDGRg/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/k0wV0VLG7V"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/BnkmW6yRrGR0/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/9Nsu1zZpDD"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/r6953mvp8cjj/PPSA28038-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/tlx9f51r92ra/PPSA28038-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 136365211648
+    },
+    {
+      "titleId": "PPSA23559",
+      "title": "Anno 117 Pax Romana Gold Edition",
+      "createdAt": "2026-11-01T13:00:36.784Z",
+      "version": "v02.100",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/23f2f2154ffd2a7a6fd204c89ef82ec39a251400407318313485b8260bac344d",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/23f2f2154ffd2a7a6fd204c89ef82ec39a251400407318313485b8260bac344d",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA23559, v02.100, EUR, 4.xx BackPort\nSize: 130GB\nCredits: Files: Karner; Backport: DecKerr97 GUI; DLC: Karner\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/43ul2cwrrszz/DLCs_Karner.rar"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://datavaults.co/h8bjep61j48i/DLCs_Karner.rar"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/xsn3l9xee4sn/PPSA23559.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/peikkjturgfq/PPSA23559.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/RMKGJWxYPm1o/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/x2Om8oorxv"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/2WVGrWan4mkx/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/vWhVOeqADd"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/yqyacvwr6i9w/PPSA23559-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/urwz6k0zm83f/PPSA23559-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 139586437120
+    },
+    {
+      "titleId": "PPSA23126",
+      "title": "Palworld",
+      "createdAt": "2026-11-01T13:00:36.784Z",
+      "version": "v01.102.999",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/f651cc118d064581b9f51c5f8831f7198b5af8aeaab96aa2d520c8324e2ce23c",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/ba8f7004e93af3a64ed16cae8585c01d616f65d5e092f6a64171565ccd80213a",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA23126, v01.102.999, USA, 4.xx BackPort\nSize: 37GB\nCredits: Files: b0mba1992; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 9.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/e3em58dwnvvt/PPSA23126.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/hb3bxmupu7vo/PPSA23126.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/Y2xm0XNgqmRO/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/QY0NGp0rjP"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/Xkrzo1a7YmBO/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/h3tyGaTs8j"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/zdlfi564rlji/PPSA23126-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/ljtdmpai9f3y/PPSA23126-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 39728447488
+    },
+    {
       "titleId": "PPSA29340",
       "title": "Halloween The Game",
       "createdAt": "2026-10-31T12:33:09.955Z",

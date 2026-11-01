@@ -1,5 +1,35 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 01/11/2026 à 21:58
+* **PAYLOADS**
+  * `Orbit Store` (v1.8.3) - *Mise à jour (Précédent: v1.8.2)*
+* **HOMEBREW_PAGE**
+  * `PC5` (2.1.2) - *Mise à jour (Précédent: 2.0.8)*
+  * `ProsperoSunshine` (0.1.6) - *Mise à jour (Précédent: 0.1.5)*
+  * `Mediathek` (01.000.064) - *Mise à jour (Précédent: 01.000.062)*
+  * `Pixel Museum` (0.1.3) - *Mise à jour (Précédent: 0.1.2)*
+  * `PSteroid5` (01.004.002) - *Mise à jour (Précédent: 01.002.001)*
+  * `Prospero Themes` (01.000.039) - *Mise à jour (Précédent: 01.000.038)*
+  * `Shining Force III` (1.0.0) - *Nouveau*
+  * `MKWII Retro Rewind Patcher` (01.000.001) - *Nouveau*
+  * `Second Coat: London` (0.2.0) - *Nouveau*
+  * `wiliwili` (1.6.0.5) - *Mise à jour (Précédent: 1.6.0.1)*
+  * `Seedee5` (1.24) - *Mise à jour (Précédent: 1.23)*
+  * `MihawkOS` (7.0.0-alpha-7) - *Mise à jour (Précédent: 6.0.0-alpha-6)*
+  * `PKG Folderizer` (01.061.000) - *Mise à jour (Précédent: 01.060.000)*
+  * `PSFlyCast` (1.3.5) - *Mise à jour (Précédent: 1.3.4)*
+  * `PSSwanStation` (build26) - *Mise à jour (Précédent: build25)*
+  * `Crux2` (v1.0.18) - *Mise à jour (Précédent: v1.0.17)*
+  * `Prospero Hi-Fi` (2.1.0) - *Mise à jour (Précédent: 2.0.0)*
+  * `Nuvio Max'd` (1.0.0.4-native-experimental) - *Mise à jour (Précédent: 1.0.0.3-native-experimental)*
+  * `ProsperoWake` (build-50) - *Nouveau*
+  * `ApricotGS` (00.040.006) - *Mise à jour (Précédent: 00.040.005)*
+  * `PS5LM` (0.10.0) - *Mise à jour (Précédent: 0.9.1)*
+  * `Alembic` (0.4.2) - *Mise à jour (Précédent: 0.4.0)*
+  * `GETSU SOTF` (v0.1.0-beta) - *Nouveau*
+  * `PhazonPrime` (00.001.036) - *Mise à jour (Précédent: 00.001.000)*
+  * `ProsperoWeb` (0.1.0) - *Nouveau*
+
 ## Build du 01/11/2026 à 13:02
 * **PAYLOADS**
   * `Ps5-Ezremote-Client V2.18` (2.18) - *Nouveau*

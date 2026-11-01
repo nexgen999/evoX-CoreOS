@@ -186,15 +186,15 @@
     {
       "name": "PSteroid5",
       "filename": "PPSA77305.zip",
-      "url": "https://github.com/futurepr0n/PSteroid5/releases/download/01.002.001/PPSA77305.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA77305/01.002.001/PPSA77305.zip",
+      "url": "https://github.com/futurepr0n/PSteroid5/releases/download/01.004.002/PPSA77305.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA77305/01.004.002/PPSA77305.zip",
       "description": "Vector Asteroids with online high scores, co-op rooms, a shared MMO world with browser players, a public ship hangar and a controller ship editor.",
-      "version": "01.002.001",
+      "version": "01.004.002",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA77305",
       "author": "futurepr0n",
-      "checksum": "7111d4a23d541862ab1b87a20598443492f301ece6d123a99667e85b2ee3983b",
+      "checksum": "cb27f501ecd08bee1f99e85aaa904f9e2244c64dd1156f961cf2929f0b8c1aa4",
       "source": "https://github.com/futurepr0n/PSteroid5"
     },
     {
@@ -224,6 +224,20 @@
       "author": "bystritskiy",
       "checksum": "4e27383705063e42d4fcc68ccd82659350d47e909b64cf0720de4b6d3f74d3c4",
       "source": "https://github.com/bystritskiy/speedbreaker-ps5"
+    },
+    {
+      "name": "Shining Force III",
+      "filename": "PPSA93303.zip",
+      "url": "https://github.com/damiantw/sfiii-ps5/releases/download/v1.0.0/PPSA93303.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA93303/1.0.0/PPSA93303.zip",
+      "description": "Shining Force III PS5 port (sfiii-native recompilation) on Vulkan, with an on-console patcher for your own game data; no game data included.",
+      "version": "1.0.0",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA93303",
+      "author": "damiantw",
+      "checksum": "632efadfaf9f6e73316c51268813719fa42f277a482144ae3c225894259af1b2",
+      "source": "https://github.com/damiantw/sfiii-ps5"
     },
     {
       "name": "Raptor: Call of the Shadows (PS5)",
@@ -338,6 +352,20 @@
       "source": "https://github.com/mihawk-99/PS5_vkQuake"
     },
     {
+      "name": "Second Coat: London",
+      "filename": "PPSA99020.zip",
+      "url": "https://github.com/SecondCoat/second-coat-london/releases/download/v0.2.0/getaway-ps5-PPSA99020.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99020/0.2.0/PPSA99020.zip",
+      "description": "The Getaway (PS2) remastered with modern graphics, reworked controls and driving, mods and online free roam; you bring your own disc image.",
+      "version": "0.2.0",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99020",
+      "author": "Second Coat",
+      "checksum": "78d26e28627caa4b05ffde747d9aecb98c56a3c3063aa58f751aa18e17653f3a",
+      "source": "https://github.com/SecondCoat/second-coat-london"
+    },
+    {
       "name": "reSOT - The Sands of Time",
       "filename": "PPSA99023.zip",
       "url": "https://github.com/bystritskiy/rePOP-ps5/releases/download/01.004.001/PPSA99023-01.004.001.zip",
@@ -420,6 +448,20 @@
       "author": "Gary Riches",
       "checksum": "441b71e09441518ce8357aeec3cb0f994d19dbf47b316cffa2d268cdca25fc10",
       "source": "https://github.com/griches/PS5_SwitchWaker"
+    },
+    {
+      "name": "ProsperoWake",
+      "filename": "PPSA99309.zip",
+      "url": "https://github.com/mgoodings/ProsperoWake/releases/download/build-50/ProsperoWake-build-50.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99309/build-50/PPSA99309.zip",
+      "description": "Native PS5 port of The Legend of Zelda: The Wind Waker, with USA/PAL support, 4K output, HD textures, PlayStation controls and gameplay improvements.",
+      "version": "build-50",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99309",
+      "author": "mgoodings",
+      "checksum": "1059d12818dfeac6385a75486d12a0990f43800329a2ba0165ff6191fa15415e",
+      "source": "https://github.com/mgoodings/ProsperoWake"
     },
     {
       "name": "Mario 64",
@@ -592,15 +634,15 @@
     {
       "name": "ApricotGS",
       "filename": "PPSA99429.zip",
-      "url": "https://github.com/BaZZtian/PS5-ApricotGS/releases/download/v00.040.005/ApricotGS-v00.040.005-PS5.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99429/00.040.005/PPSA99429.zip",
+      "url": "https://github.com/BaZZtian/PS5-ApricotGS/releases/download/v00.040.006/ApricotGS-v00.040.006-PS5.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99429/00.040.006/PPSA99429.zip",
       "description": "Play supported German HeartGold and SoulSilver dumps on PS5. Add your own .nds file; the app prepares it locally and keeps separate saves. No game data included.",
-      "version": "00.040.005",
+      "version": "00.040.006",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99429",
       "author": "BaZZtian",
-      "checksum": "4149b6a58ffc5948edf59918f05219a55c0deb33a25b52c92674490e07c83113",
+      "checksum": "7c7b0ad716be8a6a7fbef738ce0e82fb79f43d9c8ee5a8a7e5b8cf5b7331d625",
       "source": "https://github.com/BaZZtian/PS5-ApricotGS"
     },
     {
@@ -644,6 +686,20 @@
       "author": "CHI-GETSU",
       "checksum": "4aa16e1a012d07a92f29d4607e6d13d5a440b40fba4193b8afc9bfc6575206ee",
       "source": "https://github.com/CHI-GETSU/GTA-SA-PS5-Homebrew"
+    },
+    {
+      "name": "GETSU SOTF",
+      "filename": "PPSA99605.zip",
+      "url": "https://github.com/CHI-GETSU/GETSU-SOTF-PS5-Homebrew/releases/download/v0.1.0-beta/GETSU-SOTF-PPSA99605.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99605/v0.1.0-beta/PPSA99605.zip",
+      "description": "Sons of the Forest for PS5 with a bundled Prospero Win runtime and GETSU memory fixes; supply your own Steam copy of the game; tested at 1080p, Low preset, 30 fps.",
+      "version": "v0.1.0-beta",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99605",
+      "author": "CHI-GETSU",
+      "checksum": "04d2ddd00d7147dd801f6fad15104fe3b14649bf4c29f196d77d49f55970328c",
+      "source": "https://github.com/CHI-GETSU/GETSU-SOTF-PS5-Homebrew"
     },
     {
       "name": "I Wanna Be The Guy: Remastered Tribute Edition",
@@ -816,15 +872,15 @@
     {
       "name": "PhazonPrime",
       "filename": "PPSA99731.zip",
-      "url": "https://github.com/BaZZtian/PhazonPrime-PS5/releases/download/v00.001.000/PhazonPrime-v00.001.000-PS5.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99731/00.001.000/PPSA99731.zip",
+      "url": "https://github.com/BaZZtian/PhazonPrime-PS5/releases/download/v00.001.036/PhazonPrime-v00.001.036-PS5.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99731/00.001.036/PPSA99731.zip",
       "description": "Native PS5 Metaforce-classic port. Requires your own supported PAL GameCube ISO. Map geometry and door visuals have known issues.",
-      "version": "00.001.000",
+      "version": "00.001.036",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99731",
       "author": "BaZZtian",
-      "checksum": "4bfbee3b7887e4b9e88d5ddff038a694f7eeb81387fc61873f07d61f133d18df",
+      "checksum": "a984613243e52bb6440b12c90f808c5ddace319d6d1dbb288793e76eeb26325d",
       "source": "https://github.com/BaZZtian/PhazonPrime-PS5"
     },
     {
