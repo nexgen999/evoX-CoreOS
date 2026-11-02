@@ -1,5 +1,14 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 02/11/2026 à 15:04
+* **HOMEBREW_PAGE**
+  * `Infinity Blade III` (1.0.0) - *Nouveau*
+  * `Infinity Blade II` (1.0.0) - *Nouveau*
+  * `Infinity Blade` (1.0.0) - *Nouveau*
+  * `MihawkOS` (7.1.0-alpha-7) - *Mise à jour (Précédent: 7.0.0-alpha-7)*
+  * `PKG Folderizer` (01.101.000) - *Mise à jour (Précédent: 01.066.000)*
+  * `ProsperoWake` (build-76) - *Mise à jour (Précédent: build-50)*
+
 ## Build du 02/11/2026 à 04:40
 * **HOMEBREW_PAGE**
   * `Cyberworld Endless` (0.19.0) - *Mise à jour (Précédent: 0.18.1)*

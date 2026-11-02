@@ -59,6 +59,24 @@
       <pubDate>0.1.3-alpha</pubDate>
     </item>
     <item>
+      <title>Infinity Blade III</title>
+      <link>https://github.com/ZiZc3/Infinity-Blade-PS5</link>
+      <description>Infinity Blade III for PS5 at 60 fps with controller support. Needs your own .ipa (1.4.4).</description>
+      <pubDate>1.0.0</pubDate>
+    </item>
+    <item>
+      <title>Infinity Blade II</title>
+      <link>https://github.com/ZiZc3/Infinity-Blade-PS5</link>
+      <description>Infinity Blade II for PS5 at 60 fps with controller support. Needs your own .ipa (1.3.5).</description>
+      <pubDate>1.0.0</pubDate>
+    </item>
+    <item>
+      <title>Infinity Blade</title>
+      <link>https://github.com/ZiZc3/Infinity-Blade-PS5</link>
+      <description>Infinity Blade for PS5 at 60 fps with controller support. Needs your own .ipa (1.4.3, 64-bit).</description>
+      <pubDate>1.0.0</pubDate>
+    </item>
+    <item>
       <title>Middle Ages Ping Pong</title>
       <link>https://github.com/STL1te/MedievalTennis</link>
       <description>Classic ping pong in a medieval setting: play against the computer or a friend on the same console.</description>
@@ -512,13 +530,13 @@
       <title>MihawkOS</title>
       <link>https://github.com/mihawk-99/PS5_MihawkOS</link>
       <description>A Windows-inspired PS5 homebrew OS bringing 32-bit and 64-bit Windows gaming to console hardware through a custom Wine/Proton compatibility stack and native Vulkan graphics.</description>
-      <pubDate>7.0.0-alpha-7</pubDate>
+      <pubDate>7.1.0-alpha-7</pubDate>
     </item>
     <item>
       <title>PKG Folderizer</title>
       <link>https://github.com/desstannsoftware/ps5-pkg-folderizer</link>
       <description>Converts PS5 and PS4 debug .pkg files on the console into ShadowMount folders or .ffpkg / .ffpfs / .ffpfsc / .exfat images.</description>
-      <pubDate>01.066.000</pubDate>
+      <pubDate>01.101.000</pubDate>
     </item>
     <item>
       <title>ForgeNX – Switch Emulator</title>
@@ -602,7 +620,7 @@
       <title>ProsperoWake</title>
       <link>https://github.com/mgoodings/ProsperoWake</link>
       <description>Native PS5 port of The Legend of Zelda: The Wind Waker, with USA/PAL support, 4K output, HD textures, PlayStation controls and gameplay improvements.</description>
-      <pubDate>build-50</pubDate>
+      <pubDate>build-76</pubDate>
     </item>
     <item>
       <title>Mario 64</title>

@@ -3,6 +3,196 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA31544",
+      "title": "FINAL FANTASY RESONANCE Deluxe Edition",
+      "createdAt": "2026-11-02T14:30:50.687Z",
+      "version": "v01.000.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/34c2379dbd9bfc7583638256801fc2577c9f16ea9f7946ea15e1372ec57990f0",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/8a8bfbef0e4de3c56788dce4e7a1f8984fd0ca64985f4d870dcfb2bf6be213fe",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA31544, v01.000.001, USA, 4.xx BackPort + 5.xx BackPort\nSize: 46GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI; DLC: Pippo &amp; DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPorts Folder included. About FPKG: 5.xx BackPort already included on Base, 4.xx BackPort Only &amp; Original Files PKG included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/5fz88s1veiaj/DLCs_Pippo_DUPLEX.rar"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://datavaults.co/lwbl82hq7oa6/DLCs_Pippo_DUPLEX.rar"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/rra5hkicti3w/PPSA31544.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/53opfww0w67w/PPSA31544.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/k0embkll83Vb/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/E2NZeCt7dl"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/0Kezk0NNgGD1/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/x4DSZFwXrO"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/dvemlaketwny/PPSA31544-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/dgayokmorv4c/PPSA31544-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 49392123904
+    },
+    {
+      "titleId": "PPSA30630",
+      "title": "MLB The Show 26",
+      "createdAt": "2026-11-02T14:30:50.687Z",
+      "version": "v01.018",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA30630_f1ab1bdea7b8bd74c5db439da8ff3d9bf234eff706178e10e8902b9db2b3ede1/icon0.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA30630, v01.018, USA, 4.xx BackPort\nSize: 310GB\nCredits: Files: DecKerr97; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/smbisu05niah/PPSA30630.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/a052ze7hpeoa/PPSA30630.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/N2p3DdYlV3Ma/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/ZmJgZ6dEP8"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/ZvqzlpndYzaD/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/a3gN07lMK0"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/dz5y721yqfcq/PPSA30630-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/zlhkim6m4b6y/PPSA30630-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 332859965440
+    },
+    {
+      "titleId": "PPSA25843",
+      "title": "WARRIORS Abyss",
+      "createdAt": "2026-11-02T14:30:50.687Z",
+      "version": "v01.008",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA25843_dc179dfcd9eb73ffbe49c79088b337d25d2a1213982673f5bd37b68de3c5ae8f/icon0.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA25843, v01.008, USA, 4.xx BackPort\nSize: 3GB\nCredits: Files: High-Speed007; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/zr7hhaeekybv/PPSA25843.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/k8gttoz85uu7/PPSA25843.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/RMKGJW668m1o/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/vKMKEwirSh"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/b5Ozdk99W3B8/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/rjm1unLKVN"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/6cgdst2xwgyr/PPSA25843-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/b2ekivuolljt/PPSA25843-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 3221225472
+    },
+    {
+      "titleId": "PPSA07973",
+      "title": "White Day A Labyrinth Named School",
+      "createdAt": "2026-11-02T14:30:50.687Z",
+      "version": "v01.000.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/761f0c3e903c0dc01fd8ea63cc29570655dca02882e45db7c0034af01cf0ce13",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/4ac65ff5ef4d4c8edfc8d3f9606dee24494a03e8ccb77b24cae04d75db95474f",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA07973, v01.000.001, USA, 4.xx and beyond\nSize: 11GB\nCredits: Files: ChestCakes\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/kcnnapzv93ha/PPSA07973.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/pdyp3x1mpvrx/PPSA07973.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/obj3jkLL5zDx/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/PYGUU8G0HG"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/9QWmpWvvkGEB/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/KxfNhDPbvn"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/986jwrpt4frc/PPSA07973-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/gg4r00c4lbsh/PPSA07973-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 11811160064
+    },
+    {
       "titleId": "PPSA30363",
       "title": "Shadow Tactics Blades of the Shogun",
       "createdAt": "2026-11-01T13:00:36.784Z",

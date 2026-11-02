@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-11-02T04:40:10.138168",
+    "updated_at": "2026-11-02T15:04:05.135068",
     "packs": [
         {
             "filename": "PS5_apps_aio_part1_latest.zip",
@@ -29,7 +29,7 @@
             "filename": "PS5_payloads_aio_latest.zip",
             "display_name": "PS5 PAYLOADS AIO",
             "pack_type": "payloads",
-            "size_bytes": 403973072,
+            "size_bytes": 403973087,
             "size_mb": 385.26,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_payloads_aio_latest.zip"
         },
@@ -53,39 +53,39 @@
             "filename": "PS5_ultimate_pack_part10_latest.zip",
             "display_name": "PS5 ULTIMATE PACK PART10",
             "pack_type": "ultimate",
-            "size_bytes": 1489649204,
-            "size_mb": 1420.64,
+            "size_bytes": 1452983474,
+            "size_mb": 1385.67,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part10_latest.zip"
         },
         {
             "filename": "PS5_ultimate_pack_part11_latest.zip",
             "display_name": "PS5 ULTIMATE PACK PART11",
             "pack_type": "ultimate",
-            "size_bytes": 1447634451,
-            "size_mb": 1380.57,
+            "size_bytes": 1456100317,
+            "size_mb": 1388.65,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part11_latest.zip"
         },
         {
             "filename": "PS5_ultimate_pack_part12_latest.zip",
             "display_name": "PS5 ULTIMATE PACK PART12",
             "pack_type": "ultimate",
-            "size_bytes": 1471464902,
-            "size_mb": 1403.3,
+            "size_bytes": 1466095725,
+            "size_mb": 1398.18,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part12_latest.zip"
         },
         {
             "filename": "PS5_ultimate_pack_part13_latest.zip",
             "display_name": "PS5 ULTIMATE PACK PART13",
             "pack_type": "ultimate",
-            "size_bytes": 1150241287,
-            "size_mb": 1096.96,
+            "size_bytes": 1190412830,
+            "size_mb": 1135.27,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part13_latest.zip"
         },
         {
             "filename": "PS5_ultimate_pack_part1_latest.zip",
             "display_name": "PS5 ULTIMATE PACK PART1",
             "pack_type": "ultimate",
-            "size_bytes": 942893799,
+            "size_bytes": 942893814,
             "size_mb": 899.21,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part1_latest.zip"
         },
@@ -109,40 +109,40 @@
             "filename": "PS5_ultimate_pack_part4_latest.zip",
             "display_name": "PS5 ULTIMATE PACK PART4",
             "pack_type": "ultimate",
-            "size_bytes": 1466514500,
-            "size_mb": 1398.58,
+            "size_bytes": 1477592146,
+            "size_mb": 1409.14,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part4_latest.zip"
         },
         {
             "filename": "PS5_ultimate_pack_part5_latest.zip",
             "display_name": "PS5 ULTIMATE PACK PART5",
             "pack_type": "ultimate",
-            "size_bytes": 1465913141,
-            "size_mb": 1398.0,
+            "size_bytes": 1109574151,
+            "size_mb": 1058.17,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part5_latest.zip"
         },
         {
             "filename": "PS5_ultimate_pack_part6_latest.zip",
             "display_name": "PS5 ULTIMATE PACK PART6",
             "pack_type": "ultimate",
-            "size_bytes": 1055106418,
-            "size_mb": 1006.23,
+            "size_bytes": 1479589823,
+            "size_mb": 1411.05,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part6_latest.zip"
         },
         {
             "filename": "PS5_ultimate_pack_part7_latest.zip",
             "display_name": "PS5 ULTIMATE PACK PART7",
             "pack_type": "ultimate",
-            "size_bytes": 1491183251,
-            "size_mb": 1422.1,
+            "size_bytes": 1142327344,
+            "size_mb": 1089.41,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part7_latest.zip"
         },
         {
             "filename": "PS5_ultimate_pack_part8_latest.zip",
             "display_name": "PS5 ULTIMATE PACK PART8",
             "pack_type": "ultimate",
-            "size_bytes": 457127253,
-            "size_mb": 435.95,
+            "size_bytes": 906414525,
+            "size_mb": 864.42,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part8_latest.zip"
         },
         {
@@ -181,49 +181,57 @@
             "filename": "prosperostore-app_aio_part4_latest.zip",
             "display_name": "PROSPEROSTORE-APP AIO PART4",
             "pack_type": "homebrew_page",
-            "size_bytes": 1490198094,
-            "size_mb": 1421.16,
+            "size_bytes": 1454760192,
+            "size_mb": 1387.37,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-app_aio_part4_latest.zip"
         },
         {
             "filename": "prosperostore-app_aio_part5_latest.zip",
             "display_name": "PROSPEROSTORE-APP AIO PART5",
             "pack_type": "homebrew_page",
-            "size_bytes": 885110904,
-            "size_mb": 844.11,
+            "size_bytes": 926947532,
+            "size_mb": 884.01,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-app_aio_part5_latest.zip"
         },
         {
             "filename": "prosperostore-game_aio_part1_latest.zip",
             "display_name": "PROSPEROSTORE-GAME AIO PART1",
             "pack_type": "homebrew_page",
-            "size_bytes": 1470904254,
-            "size_mb": 1402.76,
+            "size_bytes": 1288594331,
+            "size_mb": 1228.9,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-game_aio_part1_latest.zip"
         },
         {
             "filename": "prosperostore-game_aio_part2_latest.zip",
             "display_name": "PROSPEROSTORE-GAME AIO PART2",
             "pack_type": "homebrew_page",
-            "size_bytes": 1492850143,
-            "size_mb": 1423.69,
+            "size_bytes": 1489045974,
+            "size_mb": 1420.06,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-game_aio_part2_latest.zip"
         },
         {
             "filename": "prosperostore-game_aio_part3_latest.zip",
             "display_name": "PROSPEROSTORE-GAME AIO PART3",
             "pack_type": "homebrew_page",
-            "size_bytes": 1264495661,
-            "size_mb": 1205.92,
+            "size_bytes": 1231387914,
+            "size_mb": 1174.34,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-game_aio_part3_latest.zip"
         },
         {
             "filename": "prosperostore-game_aio_part4_latest.zip",
             "display_name": "PROSPEROSTORE-GAME AIO PART4",
             "pack_type": "homebrew_page",
-            "size_bytes": 1488994881,
-            "size_mb": 1420.02,
+            "size_bytes": 1460989426,
+            "size_mb": 1393.31,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-game_aio_part4_latest.zip"
+        },
+        {
+            "filename": "prosperostore-game_aio_part5_latest.zip",
+            "display_name": "PROSPEROSTORE-GAME AIO PART5",
+            "pack_type": "homebrew_page",
+            "size_bytes": 427084518,
+            "size_mb": 407.3,
+            "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-game_aio_part5_latest.zip"
         },
         {
             "filename": "prosperostore-tool_aio_latest.zip",

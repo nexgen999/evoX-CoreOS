@@ -44,6 +44,48 @@
       "source": "https://github.com/gmorb/source-port-ps5"
     },
     {
+      "name": "Infinity Blade III",
+      "filename": "PPSA26381.zip",
+      "url": "https://github.com/ZiZc3/Infinity-Blade-PS5/releases/download/1.0.0/PPSA26381.-.Infinity.Blade.III.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA26381/1.0.0/PPSA26381.zip",
+      "description": "Infinity Blade III for PS5 at 60 fps with controller support. Needs your own .ipa (1.4.4).",
+      "version": "1.0.0",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA26381",
+      "author": "AZiZ",
+      "checksum": "3e578cfa18fab36a182c95865548097f471e1b4e6e47f77ac4b2d9883abd9df7",
+      "source": "https://github.com/ZiZc3/Infinity-Blade-PS5"
+    },
+    {
+      "name": "Infinity Blade II",
+      "filename": "PPSA26382.zip",
+      "url": "https://github.com/ZiZc3/Infinity-Blade-PS5/releases/download/1.0.0/PPSA26382.-.Infinity.Blade.II.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA26382/1.0.0/PPSA26382.zip",
+      "description": "Infinity Blade II for PS5 at 60 fps with controller support. Needs your own .ipa (1.3.5).",
+      "version": "1.0.0",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA26382",
+      "author": "AZiZ",
+      "checksum": "9f29d9bcc159b8000866278f2baa9ebe4e39c344d9ace4ab0e582785d9617531",
+      "source": "https://github.com/ZiZc3/Infinity-Blade-PS5"
+    },
+    {
+      "name": "Infinity Blade",
+      "filename": "PPSA26383.zip",
+      "url": "https://github.com/ZiZc3/Infinity-Blade-PS5/releases/download/1.0.0/PPSA26383.-.Infinity.Blade.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA26383/1.0.0/PPSA26383.zip",
+      "description": "Infinity Blade for PS5 at 60 fps with controller support. Needs your own .ipa (1.4.3, 64-bit).",
+      "version": "1.0.0",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA26383",
+      "author": "AZiZ",
+      "checksum": "af30b05221f8e3028bd0b873c333022a92dd1d3b081349b3e13e79ea75ce3abb",
+      "source": "https://github.com/ZiZc3/Infinity-Blade-PS5"
+    },
+    {
       "name": "Middle Ages Ping Pong",
       "filename": "PPSA28319.zip",
       "url": "https://github.com/STL1te/MedievalTennis/releases/download/01.000.000/PPSA28319.zip",
@@ -480,15 +522,15 @@
     {
       "name": "ProsperoWake",
       "filename": "PPSA99309.zip",
-      "url": "https://github.com/mgoodings/ProsperoWake/releases/download/build-50/ProsperoWake-build-50.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99309/build-50/PPSA99309.zip",
+      "url": "https://github.com/mgoodings/ProsperoWake/releases/download/build-76/ProsperoWake-build-76.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99309/build-76/PPSA99309.zip",
       "description": "Native PS5 port of The Legend of Zelda: The Wind Waker, with USA/PAL support, 4K output, HD textures, PlayStation controls and gameplay improvements.",
-      "version": "build-50",
+      "version": "build-76",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99309",
       "author": "mgoodings",
-      "checksum": "1059d12818dfeac6385a75486d12a0990f43800329a2ba0165ff6191fa15415e",
+      "checksum": "5b23131fbafc97a5f279a88066f54784d143d8aa2064d6bffb2581b6da1102ff",
       "source": "https://github.com/mgoodings/ProsperoWake"
     },
     {

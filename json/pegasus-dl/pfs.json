@@ -3,6 +3,24 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA10695",
+      "title": "Atomic Heart",
+      "createdAt": "2026-11-02T10:26:56.899Z",
+      "version": "1.016.300",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/7202f5bd9c72d1779e05047d9c07cdfd2553aa67eb59e1f0ccfc2af9f52ef457",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/65ee88cdcc2f8db6ea9a9f6c5f28078d94b93ec824fc941aac901d05185c149b",
+      "description": "Format: LZ4\nWelcome to a utopian world of wonders and perfection, in which humans live in harmony with their loyal and fervent robots. Well, that's how it used to be. With the launch of the latest robot-control system mere days away, only a tragic accident or a global conspiracy could disrupt it… The unstoppable course of technology along with secret experiments have brought rise to mutant creatures, terrifying machines and superpowered robots—all suddenly rebelling against their creators. Only you can stop them and find out what lies behind the idealized world. Using the combat abilities granted by your experimental power glove, your arsenal of blades and cutting-edge weaponry, fight for your life in explosive and frenetic encounters. Adapt your fighting style to each unique opponent. Combine your skills and resources, use the environment and upgrade your equipment to overcome challenges and fight for good. • An utopian world, both mad and sublime • Visceral, spectacular and unforgiving combat • Blast giant machines and mutants using your multiple skills and advanced weapons • Upgrade your arsenal and equipment If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.\nRegion: USA to EUR Langs\nFirmware: 5.xx+\nAPR: apr-emu-v0.4.2.1\nUpdated: 2026-11-02T10:01:08.677Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "LZ4 · Viki",
+          "url": "https://vikingfile.com/f/chhBFn58SA"
+        }
+      ],
+      "sizeBytes": 120259084288
+    },
+    {
       "titleId": "PPSA28181",
       "title": "Days Gone Remastered + DLC",
       "createdAt": "2026-11-01T22:14:27.558Z",
