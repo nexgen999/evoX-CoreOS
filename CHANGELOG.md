@@ -1,5 +1,22 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 02/11/2026 à 04:40
+* **HOMEBREW_PAGE**
+  * `Cyberworld Endless` (0.19.0) - *Mise à jour (Précédent: 0.18.1)*
+  * `Playden` (0.9.0) - *Mise à jour (Précédent: 0.9.0-beta.4)*
+  * `PC5` (2.1.4) - *Mise à jour (Précédent: 2.1.2)*
+  * `ProsperoSunshine` (0.1.7) - *Mise à jour (Précédent: 0.1.6)*
+  * `Pixel Museum` (0.1.4) - *Mise à jour (Précédent: 0.1.3)*
+  * `Xerenge - Burnout Revenge Recompiled` (01.000.000) - *Nouveau*
+  * `OpenNOW PS5 - Prototype` (0.3.1) - *Mise à jour (Précédent: 0.3.0)*
+  * `Codex PS5 - Prototype` (0.0.5) - *Mise à jour (Précédent: 0.0.4)*
+  * `PKG Folderizer` (01.066.000) - *Mise à jour (Précédent: 01.061.000)*
+  * `Lost Odyssey` (0.2.0-beta.3) - *Nouveau*
+  * `Nuvio Max'd` (1.0.0.5-native-experimental) - *Mise à jour (Précédent: 1.0.0.4-native-experimental)*
+  * `GETSU RAIDER` (v0.1.0-beta) - *Nouveau*
+  * `Forwarder Manager` (00.001.006) - *Mise à jour (Précédent: 00.001.005)*
+  * `ProsperoWeb` (0.2.0) - *Mise à jour (Précédent: 0.1.0)*
+
 ## Build du 01/11/2026 à 21:58
 * **PAYLOADS**
   * `Orbit Store` (v1.8.3) - *Mise à jour (Précédent: v1.8.2)*

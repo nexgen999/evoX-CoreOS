@@ -102,15 +102,15 @@
     {
       "name": "Forwarder Manager",
       "filename": "PPSA99930.zip",
-      "url": "https://github.com/heydemoura/ps5-forwarder-manager/releases/download/00.001.005/PPSA99930.zip",
-      "local_path": "downloads/apps/homebrew_page/tool/PPSA99930/00.001.005/PPSA99930.zip",
+      "url": "https://github.com/heydemoura/ps5-forwarder-manager/releases/download/00.001.006/PPSA99930.zip",
+      "local_path": "downloads/apps/homebrew_page/tool/PPSA99930/00.001.006/PPSA99930.zip",
       "description": "Create and edit home-screen forwarders that launch emulators and other apps with custom art, music and arguments.",
-      "version": "00.001.005",
+      "version": "00.001.006",
       "category": "Tools",
       "kind": "tool",
       "titleid": "PPSA99930",
       "author": "heydemoura",
-      "checksum": "1cc330e293243b74886cb85e9bbf2a2e78bf69c268bc60a5dfb92cfd8c7afb3c",
+      "checksum": "986eb9bce653f4cc30864d897b9da151030f41423ba7d9b870a97d8155c89a1d",
       "source": "https://github.com/heydemoura/ps5-forwarder-manager"
     }
   ]

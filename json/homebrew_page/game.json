@@ -4,15 +4,15 @@
     {
       "name": "Cyberworld Endless",
       "filename": "CWEN00001.zip",
-      "url": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless/releases/download/v0.18.1/cyberworld-endless-ps5.zip",
-      "local_path": "downloads/apps/homebrew_page/game/CWEN00001/0.18.1/CWEN00001.zip",
+      "url": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless/releases/download/v0.19.0/cyberworld-endless-ps5.zip",
+      "local_path": "downloads/apps/homebrew_page/game/CWEN00001/0.19.0/CWEN00001.zip",
       "description": "A roguelike built on the real Mega Man Battle Network 6, from your own ROM: every run jacks MegaMan into a newly generated net of battles, loot and guardian Navis.",
-      "version": "0.18.1",
+      "version": "0.19.0",
       "category": "Games",
       "kind": "game",
       "titleid": "CWEN00001",
       "author": "Saschb2b",
-      "checksum": "fd3fbd616a31cf7d31928eb00ef0bb91a6df589d8dbb560ec99a778f42204c9d",
+      "checksum": "2e9105ad7d9c9dab8ab53c79127b6f58957fbc166aef744b1f1ce29d7ec474e7",
       "source": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless"
     },
     {
@@ -226,6 +226,20 @@
       "source": "https://github.com/bystritskiy/speedbreaker-ps5"
     },
     {
+      "name": "Xerenge - Burnout Revenge Recompiled",
+      "filename": "PPSA92006.zip",
+      "url": "https://github.com/bystritskiy/xerenge-ps5/releases/download/01.000.000/Xerenge-PS5-01.000.000.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA92006/01.000.000/PPSA92006.zip",
+      "description": "Burnout Revenge (Xbox 360), recompiled to run natively on PS5. Needs the files of your own USA disc.",
+      "version": "01.000.000",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA92006",
+      "author": "bystritskiy",
+      "checksum": "a0cb95875eddfc3cf4090a5558035db707b9ee75a88d2707c0480ca2b632e08f",
+      "source": "https://github.com/bystritskiy/xerenge-ps5"
+    },
+    {
       "name": "Shining Force III",
       "filename": "PPSA93303.zip",
       "url": "https://github.com/damiantw/sfiii-ps5/releases/download/v1.0.0/PPSA93303.zip",
@@ -392,6 +406,20 @@
       "author": "bystritskiy",
       "checksum": "7050c94265d7df704aa29639d727d1a5f666d4dc8c0cccf6726237702d88f0e2",
       "source": "https://github.com/bystritskiy/reUndr-ps5"
+    },
+    {
+      "name": "Lost Odyssey",
+      "filename": "PPSA99212.zip",
+      "url": "https://github.com/dragonscales123/LostOdysseyRecompPS5/releases/download/v0.2.0-beta.3/LostOdyssey-PS5.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99212/0.2.0-beta.3/PPSA99212.zip",
+      "description": "PS5 port of Lost Odyssey using static recompilation. No game assets included.",
+      "version": "0.2.0-beta.3",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99212",
+      "author": "Dragonscales",
+      "checksum": "df59ff4635893362dfd158dd2a87ccb4942a51292aacc58ab52b9df89ac29128",
+      "source": "https://github.com/dragonscales123/LostOdysseyRecompPS5"
     },
     {
       "name": "Spider-Man: Edge of Time",
@@ -700,6 +728,20 @@
       "author": "CHI-GETSU",
       "checksum": "04d2ddd00d7147dd801f6fad15104fe3b14649bf4c29f196d77d49f55970328c",
       "source": "https://github.com/CHI-GETSU/GETSU-SOTF-PS5-Homebrew"
+    },
+    {
+      "name": "GETSU RAIDER",
+      "filename": "PPSA99606.zip",
+      "url": "https://github.com/CHI-GETSU/GETSU-RAIDER-PS5-Homebrew/releases/download/v0.1.0-beta/GETSU-RAIDER-PPSA99606.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99606/v0.1.0-beta/PPSA99606.zip",
+      "description": "Shadow of the Tomb Raider for PS5 with a bundled Prospero Win runtime; supply your own GOG copy of the game; tested at 2560x1440, ultra settings, smooth 60 fps.",
+      "version": "v0.1.0-beta",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99606",
+      "author": "CHI-GETSU",
+      "checksum": "1ef12e113eb2bd1b913c2395f25a318fa2f7bce01b7c95c30ef6b6abc8c00110",
+      "source": "https://github.com/CHI-GETSU/GETSU-RAIDER-PS5-Homebrew"
     },
     {
       "name": "I Wanna Be The Guy: Remastered Tribute Edition",

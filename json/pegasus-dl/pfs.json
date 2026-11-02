@@ -3,6 +3,24 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA28181",
+      "title": "Days Gone Remastered + DLC",
+      "createdAt": "2026-11-01T22:14:27.558Z",
+      "version": "1.036.180",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/34126183e35a338f328c7437cf6c3fd8fa2d913f4ddad7ea5f1476da8fc20c06",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/34126183e35a338f328c7437cf6c3fd8fa2d913f4ddad7ea5f1476da8fc20c06",
+      "description": "Format: LZ4\nFight to survive an environment ravaged by a deadly pandemic as former outlaw biker, Deacon St. John. Risk the threats of the Broken Road on the back of your trusty Drifter bike as you face terrifying hordes of relentless feral Freakers – as well as dangerous gangs of humans. Unpredictable weather and different times of day and night can cause incredible danger and shocking surprises… and everything wants you dead. - Appreciate enhanced graphical fidelity, increased foliage draw distance, plus improved shadow and lighting quality – with the potential for smooth, seamless performance made possible by a variable refresh rate, for TVs or displays that support VRR.1 - Select your preferred playing experience, between Quality mode for increased resolution or Performance mode for improved framerates. - Feel every moment of survival through the DualSense® wireless controller’s haptic feedback and adaptive triggers. From the rumble of your bike’s engine, to traversing the Broken Road… 1 Compatible TV or display required.\nRegion: USA to EUR Langs\nFirmware: 10.xx+\nAPR: apr-emu-v0.4.2.1\nUpdated: 2026-11-01T22:03:00.959Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "LZ4 · Viki",
+          "url": "https://vikingfile.com/f/F395yvuYgV"
+        }
+      ],
+      "sizeBytes": 56908316672
+    },
+    {
       "titleId": "PPSA07411",
       "title": "Resident Evil 4 Remake",
       "createdAt": "2026-10-16T21:48:35.923Z",

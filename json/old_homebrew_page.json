@@ -4,29 +4,29 @@
         {
             "name": "Cyberworld Endless",
             "filename": "CWEN00001.zip",
-            "url": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless/releases/download/v0.18.1/cyberworld-endless-ps5.zip",
-            "local_path": "downloads/apps/homebrew_page/game/CWEN00001/0.18.1/CWEN00001.zip",
+            "url": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless/releases/download/v0.19.0/cyberworld-endless-ps5.zip",
+            "local_path": "downloads/apps/homebrew_page/game/CWEN00001/0.19.0/CWEN00001.zip",
             "description": "A roguelike built on the real Mega Man Battle Network 6, from your own ROM: every run jacks MegaMan into a newly generated net of battles, loot and guardian Navis.",
-            "version": "0.18.1",
+            "version": "0.19.0",
             "category": "Games",
             "kind": "game",
             "titleid": "CWEN00001",
             "author": "Saschb2b",
-            "checksum": "fd3fbd616a31cf7d31928eb00ef0bb91a6df589d8dbb560ec99a778f42204c9d",
+            "checksum": "2e9105ad7d9c9dab8ab53c79127b6f58957fbc166aef744b1f1ce29d7ec474e7",
             "source": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless"
         },
         {
             "name": "Playden",
             "filename": "FAKE77031.zip",
-            "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.9.0-beta.4/playden-ps5-0.9.0-beta.4.zip",
-            "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.9.0-beta.4/FAKE77031.zip",
+            "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.9.0/playden-ps5-0.9.0.zip",
+            "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.9.0/FAKE77031.zip",
             "description": "Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.",
-            "version": "0.9.0-beta.4",
+            "version": "0.9.0",
             "category": "Apps",
             "kind": "app",
             "titleid": "FAKE77031",
             "author": "leolobato",
-            "checksum": "c7b80cc813bf7c2246bd8c480fc80a81f87497848ee48566eb13b76336446289",
+            "checksum": "f32823bc927ff7788da9620f14b9f2aa57646d71afd06cd9f66d3bb107c1d6f3",
             "source": "https://github.com/leolobato/playden-ps5"
         },
         {
@@ -60,15 +60,15 @@
         {
             "name": "PC5",
             "filename": "PPSA11018.zip",
-            "url": "https://github.com/bornaradusin/PC5/releases/download/v2.1.2/PPSA11018.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.1.2/PPSA11018.zip",
+            "url": "https://github.com/bornaradusin/PC5/releases/download/v2.1.4/PPSA11018.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.1.4/PPSA11018.zip",
             "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.",
-            "version": "2.1.2",
+            "version": "2.1.4",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA11018",
             "author": "bornaradusin",
-            "checksum": "168358bd05202cf41c7eb877ed9039759872d426465a102a78787b1d3eadaabe",
+            "checksum": "bd0b65035f23c52f61224a09a8092c959b3b3fec08d5655eaf8d2fd5eccf1efa",
             "source": "https://github.com/bornaradusin/PC5"
         },
         {
@@ -186,15 +186,15 @@
         {
             "name": "ProsperoSunshine",
             "filename": "PPSA47989.zip",
-            "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.1.6/PPSA47989.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.1.6/PPSA47989.zip",
-            "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio and controller input. Tested on firmware 13.00; other versions untested.",
-            "version": "0.1.6",
+            "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.1.7/PPSA47989.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.1.7/PPSA47989.zip",
+            "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio and controller input. Tested on firmware 13.00 and 10.20; others untested.",
+            "version": "0.1.7",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA47989",
             "author": "Darkatek7",
-            "checksum": "e1cf55a5f29aef3191f596599bdf07c403484f5977a1802d1a73c06a51968c0d",
+            "checksum": "2ce82abfc3eca8a90ff57af5fb9141753b042e0a94c808939e91a104e419f7dd",
             "source": "https://github.com/Darkatek7/ProsperoSunshine"
         },
         {
@@ -382,15 +382,15 @@
         {
             "name": "Pixel Museum",
             "filename": "PPSA70421.zip",
-            "url": "https://github.com/LoZazaMastro/Pixel-Museum/releases/download/v0.1.3/PPSA70421.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA70421/0.1.3/PPSA70421.zip",
+            "url": "https://github.com/LoZazaMastro/Pixel-Museum/releases/download/v0.1.4/PPSA70421.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA70421/0.1.4/PPSA70421.zip",
             "description": "An interactive museum of video game history and culture, with illustrated stories, soundtracks, collectible pins, playable experiences and creative workshops.",
-            "version": "0.1.3",
+            "version": "0.1.4",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA70421",
             "author": "LoZazaMastro",
-            "checksum": "9b0be76df48b2328001f3d0488a68ca95b17ea220273617d315a65101fa1dbd1",
+            "checksum": "e10c9bcc0d073b2bd45af3a0c5ce6ae69a10f50a373de9425d4749ed16ec8f02",
             "source": "https://github.com/LoZazaMastro/Pixel-Museum"
         },
         {
@@ -532,6 +532,20 @@
             "author": "bystritskiy",
             "checksum": "4e27383705063e42d4fcc68ccd82659350d47e909b64cf0720de4b6d3f74d3c4",
             "source": "https://github.com/bystritskiy/speedbreaker-ps5"
+        },
+        {
+            "name": "Xerenge - Burnout Revenge Recompiled",
+            "filename": "PPSA92006.zip",
+            "url": "https://github.com/bystritskiy/xerenge-ps5/releases/download/01.000.000/Xerenge-PS5-01.000.000.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA92006/01.000.000/PPSA92006.zip",
+            "description": "Burnout Revenge (Xbox 360), recompiled to run natively on PS5. Needs the files of your own USA disc.",
+            "version": "01.000.000",
+            "category": "Games",
+            "kind": "game",
+            "titleid": "PPSA92006",
+            "author": "bystritskiy",
+            "checksum": "a0cb95875eddfc3cf4090a5558035db707b9ee75a88d2707c0480ca2b632e08f",
+            "source": "https://github.com/bystritskiy/xerenge-ps5"
         },
         {
             "name": "Capy Mobile",
@@ -1040,15 +1054,15 @@
         {
             "name": "OpenNOW PS5 - Prototype",
             "filename": "PPSA99082.zip",
-            "url": "https://github.com/OpenCloudGaming/OpenNOW-PS5/releases/download/0.3.0/OpenNOW-PS5-0.3.0.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99082/0.3.0/PPSA99082.zip",
+            "url": "https://github.com/OpenCloudGaming/OpenNOW-PS5/releases/download/0.3.1/OpenNOW-PS5-0.3.1.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99082/0.3.1/PPSA99082.zip",
             "description": "Experimental native PS5 GeForce NOW client: a working, console-tested prototype with hardware decoding and GPU presentation.",
-            "version": "0.3.0",
+            "version": "0.3.1",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99082",
             "author": "OpenCloudGaming",
-            "checksum": "027ad6f1cf77fa605927b9523e755505d7a64b0b89b1c7b14b949ac0dc0040c2",
+            "checksum": "2711e4a345c1f5bef4344c04788f16109139dc73f05ffcf4dfcd4ac19a40dd79",
             "source": "https://github.com/OpenCloudGaming/OpenNOW-PS5"
         },
         {
@@ -1068,15 +1082,15 @@
         {
             "name": "Codex PS5 - Prototype",
             "filename": "PPSA99105.zip",
-            "url": "https://github.com/Portablelle/Codex-PS5/releases/download/v0.0.4/codex-ps5-0.0.4-Folder.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99105/0.0.4/PPSA99105.zip",
+            "url": "https://github.com/Portablelle/Codex-PS5/releases/download/v0.0.5/codex-ps5-0.0.5-Folder.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99105/0.0.5/PPSA99105.zip",
             "description": "Native PS5 assistant with controller input, local voice transcription and console tools; requires a separate service payload.",
-            "version": "0.0.4",
+            "version": "0.0.5",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99105",
             "author": "Portablelle",
-            "checksum": "b6f8952b72eaa4806baab21634aae950f69a365bee4215a373d750e8f652364b",
+            "checksum": "b753329c05f89d1ae295981ce9d8d3aa4e90badf5253e2ecd3b31e76563ae5c2",
             "source": "https://github.com/Portablelle/Codex-PS5"
         },
         {
@@ -1180,15 +1194,15 @@
         {
             "name": "PKG Folderizer",
             "filename": "PPSA99180.zip",
-            "url": "https://github.com/desstannsoftware/ps5-pkg-folderizer/releases/download/01.061.000/PPSA99180.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99180/01.061.000/PPSA99180.zip",
+            "url": "https://github.com/desstannsoftware/ps5-pkg-folderizer/releases/download/01.066.000/PPSA99180.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99180/01.066.000/PPSA99180.zip",
             "description": "Converts PS5 and PS4 debug .pkg files on the console into ShadowMount folders or .ffpkg / .ffpfs / .ffpfsc / .exfat images.",
-            "version": "01.061.000",
+            "version": "01.066.000",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99180",
             "author": "desstannsoft",
-            "checksum": "e0b6c25ca616d7227d97748cecf6219a21422b955d7dcd074b2fe8f357d53a5a",
+            "checksum": "91d9770c97a5d1d2fce813263715147bdb95a4ee0e8f532bbc56dea4bb379b1b",
             "source": "https://github.com/desstannsoftware/ps5-pkg-folderizer"
         },
         {
@@ -1232,6 +1246,20 @@
             "author": "Sword",
             "checksum": "739c652acab11fc4eb79a7e20a67d22183ee97ea5292d3b8330bf5dbca412076",
             "source": "https://github.com/Swordpdf/PS5SX2"
+        },
+        {
+            "name": "Lost Odyssey",
+            "filename": "PPSA99212.zip",
+            "url": "https://github.com/dragonscales123/LostOdysseyRecompPS5/releases/download/v0.2.0-beta.3/LostOdyssey-PS5.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA99212/0.2.0-beta.3/PPSA99212.zip",
+            "description": "PS5 port of Lost Odyssey using static recompilation. No game assets included.",
+            "version": "0.2.0-beta.3",
+            "category": "Games",
+            "kind": "game",
+            "titleid": "PPSA99212",
+            "author": "Dragonscales",
+            "checksum": "df59ff4635893362dfd158dd2a87ccb4942a51292aacc58ab52b9df89ac29128",
+            "source": "https://github.com/dragonscales123/LostOdysseyRecompPS5"
         },
         {
             "name": "PSFlyCast",
@@ -1292,15 +1320,15 @@
         {
             "name": "Nuvio Max'd",
             "filename": "PPSA99288.zip",
-            "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.4-native-experimental/PPSA99288.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.4-native-experimental/PPSA99288.zip",
-            "description": "A native Nuvio client for PS5 with profiles, synced watch progress, addons, Live TV, searchable IPTV VOD catalogs, chapters, trailers, anime skipping and optional playback engines.",
-            "version": "1.0.0.4-native-experimental",
+            "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.5-native-experimental/PPSA99288.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.5-native-experimental/PPSA99288.zip",
+            "description": "Native Nuvio for PS5 with profiles, synced history, addons, Library search, Live TV Now/Next, series update badges, IPTV VOD, chapters, trailers and optional playback engines.",
+            "version": "1.0.0.5-native-experimental",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99288",
             "author": "HandshakeHackin",
-            "checksum": "2383acc24839fc66b87b655f602b13277b372e9dbacdec18affbfcdebff20510",
+            "checksum": "f97a8e722e71a6ac257b58674d7f78893ab7a218cbc359892c0fa2edcb2eea7d",
             "source": "https://github.com/HandshakeHackin/Nuvio-maxd-releases"
         },
         {
@@ -1850,6 +1878,20 @@
             "source": "https://github.com/CHI-GETSU/GETSU-SOTF-PS5-Homebrew"
         },
         {
+            "name": "GETSU RAIDER",
+            "filename": "PPSA99606.zip",
+            "url": "https://github.com/CHI-GETSU/GETSU-RAIDER-PS5-Homebrew/releases/download/v0.1.0-beta/GETSU-RAIDER-PPSA99606.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA99606/v0.1.0-beta/PPSA99606.zip",
+            "description": "Shadow of the Tomb Raider for PS5 with a bundled Prospero Win runtime; supply your own GOG copy of the game; tested at 2560x1440, ultra settings, smooth 60 fps.",
+            "version": "v0.1.0-beta",
+            "category": "Games",
+            "kind": "game",
+            "titleid": "PPSA99606",
+            "author": "CHI-GETSU",
+            "checksum": "1ef12e113eb2bd1b913c2395f25a318fa2f7bce01b7c95c30ef6b6abc8c00110",
+            "source": "https://github.com/CHI-GETSU/GETSU-RAIDER-PS5-Homebrew"
+        },
+        {
             "name": "I Wanna Be The Guy: Remastered Tribute Edition",
             "filename": "PPSA99616.zip",
             "url": "https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition/releases/download/v1.6.6.6-tribute-ps5/IWBTGR-TributeEdition-PS5-PPSA99616.zip",
@@ -2244,15 +2286,15 @@
         {
             "name": "Forwarder Manager",
             "filename": "PPSA99930.zip",
-            "url": "https://github.com/heydemoura/ps5-forwarder-manager/releases/download/00.001.005/PPSA99930.zip",
-            "local_path": "downloads/apps/homebrew_page/tool/PPSA99930/00.001.005/PPSA99930.zip",
+            "url": "https://github.com/heydemoura/ps5-forwarder-manager/releases/download/00.001.006/PPSA99930.zip",
+            "local_path": "downloads/apps/homebrew_page/tool/PPSA99930/00.001.006/PPSA99930.zip",
             "description": "Create and edit home-screen forwarders that launch emulators and other apps with custom art, music and arguments.",
-            "version": "00.001.005",
+            "version": "00.001.006",
             "category": "Tools",
             "kind": "tool",
             "titleid": "PPSA99930",
             "author": "heydemoura",
-            "checksum": "1cc330e293243b74886cb85e9bbf2a2e78bf69c268bc60a5dfb92cfd8c7afb3c",
+            "checksum": "986eb9bce653f4cc30864d897b9da151030f41423ba7d9b870a97d8155c89a1d",
             "source": "https://github.com/heydemoura/ps5-forwarder-manager"
         },
         {
@@ -2342,15 +2384,15 @@
         {
             "name": "ProsperoWeb",
             "filename": "PRWB00001.zip",
-            "url": "https://github.com/kvaps/ProsperoWeb/releases/download/v0.1.0/PRWB00001.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PRWB00001/0.1.0/PRWB00001.zip",
-            "description": "A WebKit web browser for the PS5, driven by the controller, with tabs, bookmarks and video playback.",
-            "version": "0.1.0",
+            "url": "https://github.com/kvaps/ProsperoWeb/releases/download/v0.2.0/PRWB00001.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PRWB00001/0.2.0/PRWB00001.zip",
+            "description": "A WebKit web browser for the PS5, driven by the controller: tabs, bookmarks, video playback, an ad blocker and SponsorBlock.",
+            "version": "0.2.0",
             "category": "Apps",
             "kind": "app",
             "titleid": "PRWB00001",
             "author": "kvaps",
-            "checksum": "c3dba73fa7421ab385cf32c673705655d37b6c4aef34e2dd5ee0503ac8117cc4",
+            "checksum": "77cfede8773b58650684a82e051d001bee0d2d9a864ae5dafb6004453ddc5b93",
             "source": "https://github.com/kvaps/ProsperoWeb"
         }
     ]
