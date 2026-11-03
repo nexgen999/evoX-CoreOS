@@ -23,10 +23,10 @@
       <pubDate>v1.4.0</pubDate>
     </item>
     <item>
-      <title>[Payloads] Fbneo-Ps5 V2.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v2.1/fbneo-ps5_v2.1.elf</link>
+      <title>[Payloads] Fbneo-Ps5 V2.2</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v2.2/fbneo-ps5_v2.2.elf</link>
       <description>FBNeo for ps5</description>
-      <pubDate>v2.1</pubDate>
+      <pubDate>v2.2</pubDate>
     </item>
     <item>
       <title>[Payloads] Phu-Sandbox.Exit V1.0</title>
@@ -120,15 +120,15 @@
     </item>
     <item>
       <title>[Payloads] Wfm-7Zip-Helper</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc1/wfm-7zip-helper.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc2/wfm-7zip-helper.elf</link>
       <description>PS5 Web File Manager http://your-ps5-ip:8888.</description>
-      <pubDate>v1.13-rc1</pubDate>
+      <pubDate>v1.13-rc2</pubDate>
     </item>
     <item>
-      <title>[Payloads] Web-File-Mgr-V1.13-Rc1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc1/web-file-mgr-v1.13-rc1.elf</link>
+      <title>[Payloads] Web-File-Mgr-V1.13-Rc2</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc2/web-file-mgr-v1.13-rc2.elf</link>
       <description>PS5 Web File Manager http://your-ps5-ip:8888.</description>
-      <pubDate>v1.13-rc1</pubDate>
+      <pubDate>v1.13-rc2</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-File-Explorer Vfile-Explorer-V0.2.1</title>
@@ -767,6 +767,12 @@
       <pubDate>ps5-web-file-manager</pubDate>
     </item>
     <item>
+      <title>[Payloads] Web-File-Mgr-V1.13-Rc1</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ps5-web-file-manager</pubDate>
+    </item>
+    <item>
       <title>[Payloads] Web-File-Mgr-V1.12</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
@@ -1124,7 +1130,13 @@
       <title>[ProsperoStore] Playden</title>
       <link>https://github.com/leolobato/playden-ps5</link>
       <description>Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.</description>
-      <pubDate>0.9.0</pubDate>
+      <pubDate>0.10.0-beta.1</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] Parasite Eve - Game Test</title>
+      <link>https://github.com/GUMMIBRI/parasite-eve-ps5</link>
+      <description>Native PS5 beta port of Parasite Eve requiring user-supplied game data; experimental checkpoints.</description>
+      <pubDate>0.1.0-beta.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] OliSe Player</title>
@@ -1142,7 +1154,7 @@
       <title>[ProsperoStore] PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.</description>
-      <pubDate>2.2.1</pubDate>
+      <pubDate>2.2.2</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Home5</title>
@@ -1166,7 +1178,7 @@
       <title>[ProsperoStore] Source Port</title>
       <link>https://github.com/gmorb/source-port-ps5</link>
       <description>Native PS5 port of the Source engine that runs Half-Life 2 from your own steam_legacy game files, with sound and DualSense controls.</description>
-      <pubDate>0.1.3-alpha</pubDate>
+      <pubDate>0.1.4-alpha</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Subway Surfers</title>
@@ -1220,7 +1232,7 @@
       <title>[ProsperoStore] ProsperoSunshine</title>
       <link>https://github.com/Darkatek7/ProsperoSunshine</link>
       <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio and controller input. Tested on firmware 13.00 and 10.20; others untested.</description>
-      <pubDate>0.1.9</pubDate>
+      <pubDate>0.2.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] SudokuZen</title>
@@ -1244,7 +1256,7 @@
       <title>[ProsperoStore] Mediathek</title>
       <link>https://github.com/M0S4YSH3LL0/mediathek-ps5</link>
       <description>A Netflix-style movie library for your PS5</description>
-      <pubDate>01.000.064</pubDate>
+      <pubDate>01.000.070</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PayLoader</title>
@@ -1436,7 +1448,7 @@
       <title>[ProsperoStore] TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.195</pubDate>
+      <pubDate>01.000.196</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] CD Player</title>
@@ -1538,7 +1550,7 @@
       <title>[ProsperoStore] Second Coat: London</title>
       <link>https://github.com/SecondCoat/second-coat-london</link>
       <description>The Getaway (PS2) remastered with modern graphics, reworked controls and driving, mods and online free roam; you bring your own disc image.</description>
-      <pubDate>0.2.0</pubDate>
+      <pubDate>0.3.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] reSOT (Prince of Persia: The Sands of Time)</title>
@@ -1850,7 +1862,7 @@
       <title>[ProsperoStore] Halo: Combat Evolved</title>
       <link>https://github.com/thelinkin3000/halo-ce-universal</link>
       <description>Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.</description>
-      <pubDate>build-132</pubDate>
+      <pubDate>build-134</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Jelly5</title>
@@ -1922,7 +1934,7 @@
       <title>[ProsperoStore] Alembic</title>
       <link>https://github.com/fthdgn-gh/Alembic</link>
       <description>Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC, also on SMB, NFS, WebDAV and FTP servers.</description>
-      <pubDate>0.4.2</pubDate>
+      <pubDate>0.5.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Cloud Play</title>

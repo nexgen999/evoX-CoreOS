@@ -23,10 +23,10 @@
       <pubDate>v1.4.0</pubDate>
     </item>
     <item>
-      <title>Fbneo-Ps5 V2.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v2.1/fbneo-ps5_v2.1.elf</link>
+      <title>Fbneo-Ps5 V2.2</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v2.2/fbneo-ps5_v2.2.elf</link>
       <description>FBNeo for ps5</description>
-      <pubDate>v2.1</pubDate>
+      <pubDate>v2.2</pubDate>
     </item>
     <item>
       <title>Phu-Sandbox.Exit V1.0</title>
@@ -120,15 +120,15 @@
     </item>
     <item>
       <title>Wfm-7Zip-Helper</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc1/wfm-7zip-helper.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc2/wfm-7zip-helper.elf</link>
       <description>PS5 Web File Manager http://your-ps5-ip:8888.</description>
-      <pubDate>v1.13-rc1</pubDate>
+      <pubDate>v1.13-rc2</pubDate>
     </item>
     <item>
-      <title>Web-File-Mgr-V1.13-Rc1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc1/web-file-mgr-v1.13-rc1.elf</link>
+      <title>Web-File-Mgr-V1.13-Rc2</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc2/web-file-mgr-v1.13-rc2.elf</link>
       <description>PS5 Web File Manager http://your-ps5-ip:8888.</description>
-      <pubDate>v1.13-rc1</pubDate>
+      <pubDate>v1.13-rc2</pubDate>
     </item>
     <item>
       <title>Ps5-File-Explorer Vfile-Explorer-V0.2.1</title>
@@ -762,6 +762,12 @@
     </item>
     <item>
       <title>Web-File-Mgr-V1.11B</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ps5-web-file-manager</pubDate>
+    </item>
+    <item>
+      <title>Web-File-Mgr-V1.13-Rc1</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>ps5-web-file-manager</pubDate>

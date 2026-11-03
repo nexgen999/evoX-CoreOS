@@ -3,6 +3,214 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA36082",
+      "title": "Hades 2",
+      "createdAt": "2026-11-03T12:59:17.830Z",
+      "version": "v01.006",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/48320d659d6ea4290ef6a826eec79bb7765671f474010cd51438837ba256b1ee",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/d749c51a857b94d03962336cb72d1db40515c0bcb7224eb1e9265a63ba9dbdae",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA36082, v01.006, EUR, 4.xx BackPort\nSize: 9GB\nCredits: Files: DUPLEX; Backport: PSVIETHOA\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/ux7j0dl0g6ph/PPSA36082.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/3v5mk0h7hrse/PPSA36082.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/jJD3Ve02ama5/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/zLL0YgGL0S"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/ex5z2X0pBmKq/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/qfwohvzLXE"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/bkj279tho5pd/PPSA36082-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/wj3vkl3v7buk/PPSA36082-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 9663676416
+    },
+    {
+      "titleId": "PPSA28511",
+      "title": "Out of Sight Complete Edition",
+      "createdAt": "2026-11-03T12:59:17.830Z",
+      "version": "v01.006",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/dcf7c11f7675d796fe6b32bb0b306b1a5063e3b640bae997c1a5bd3dd57321e0",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/d063e3055d3214e95d65c58c13d44b4a1f27a22bfddad4c1bca8e9f4c5d0e351",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA28511, v01.006, EUR, 4.xx BackPort\nSize: 9GB\nCredits: Files: Scene; Backport: DecKerr97 GUI; DLC: Pippo &amp; Scene\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/jfu1etqdhaze/DLCs_Pippo.rar"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://datavaults.co/cdzl3pbtuxxx/DLCs_Pippo.rar"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/sbyu8yn9qc7m/PPSA28511.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/3g2n9fo2zcsh/PPSA28511.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/0JgG7aXMj3oY/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/oY7qZKk6sM"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/APVmaM6xVmXo/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/Bz7B6EKCgm"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/ubtcfxtwnwdg/PPSA28511-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/m3wbztzsph5i/PPSA28511-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 9663676416
+    },
+    {
+      "titleId": "PPSA22207",
+      "title": "INAZUMA ELEVEN Victory Road Deluxe Edition",
+      "createdAt": "2026-11-03T12:59:17.830Z",
+      "version": "v07.012",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e0fba729aadf37731741313b49f88e353ad47fe0393e0ab4fbc70df3db6e29f2",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/771abfcbb70d60e2cccbcfbf034644eabe3fad2adf7e3298cc2ed20b8b707535",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA22207, v07.012, JPN, 4.xx BackPort\nSize: 114GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/fst4eojojlao/DLCs_Pippo.rar"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://datavaults.co/edl36y7sse1j/DLCs_Pippo.rar"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/q9rbcwhykx2b/PPSA22207.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/qvnlvyzoa69s/PPSA22207.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/M2BGwLeEXmj4/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/Qy1By2I9WD"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/2WVGrWR0Mmkx/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/2GPSvtEIoo"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/kvgqm87gsx0p/PPSA22207-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/2jp7ymhoew8z/PPSA22207-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 122406567936
+    },
+    {
+      "titleId": "PPSA07247",
+      "title": "Warhammer 40000 Boltgun Forges of Corruption Edition",
+      "createdAt": "2026-11-03T12:59:17.830Z",
+      "version": "v01.007",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/ae9986c5a5e9d278a4a71a4cf33aa6bb37aa6633edc0213448ca87882b23a8d4",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/ab9ee1c87fd39a1575905bcccd1df7bdc7e8dfa99450d8e366a187c3204b65bd",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA07247, v01.007, EUR, 4.xx BackPort\nSize: 13GB\nCredits: Files: zXRomlx2; Backport: DecKerr97 GUI; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 8.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/ddhonyfdws43/DLCs_Pippo_zXRomlx2.rar"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://datavaults.co/slgnzlzietda/DLCs_Pippo_zXRomlx2.rar"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/j0cffbhuqor9/PPSA07247.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/53ku7x0rn9ho/PPSA07247.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/0PdzyMorkzeA/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/GfVb7exAy1"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/9AqGQeK2RGMn/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/G8BWNa0Dic"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/8w8lzlucch8t/PPSA07247-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/zw5glguvhf0i/PPSA07247-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 13958643712
+    },
+    {
       "titleId": "PPSA31544",
       "title": "FINAL FANTASY RESONANCE Deluxe Edition",
       "createdAt": "2026-11-02T14:30:50.687Z",

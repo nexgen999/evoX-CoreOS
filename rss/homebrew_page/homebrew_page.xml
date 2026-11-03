@@ -14,7 +14,13 @@
       <title>Playden</title>
       <link>https://github.com/leolobato/playden-ps5</link>
       <description>Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.</description>
-      <pubDate>0.9.0</pubDate>
+      <pubDate>0.10.0-beta.1</pubDate>
+    </item>
+    <item>
+      <title>Parasite Eve - Game Test</title>
+      <link>https://github.com/GUMMIBRI/parasite-eve-ps5</link>
+      <description>Native PS5 beta port of Parasite Eve requiring user-supplied game data; experimental checkpoints.</description>
+      <pubDate>0.1.0-beta.1</pubDate>
     </item>
     <item>
       <title>OliSe Player</title>
@@ -32,7 +38,7 @@
       <title>PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.</description>
-      <pubDate>2.2.1</pubDate>
+      <pubDate>2.2.2</pubDate>
     </item>
     <item>
       <title>Home5</title>
@@ -56,7 +62,7 @@
       <title>Source Port</title>
       <link>https://github.com/gmorb/source-port-ps5</link>
       <description>Native PS5 port of the Source engine that runs Half-Life 2 from your own steam_legacy game files, with sound and DualSense controls.</description>
-      <pubDate>0.1.3-alpha</pubDate>
+      <pubDate>0.1.4-alpha</pubDate>
     </item>
     <item>
       <title>Subway Surfers</title>
@@ -110,7 +116,7 @@
       <title>ProsperoSunshine</title>
       <link>https://github.com/Darkatek7/ProsperoSunshine</link>
       <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio and controller input. Tested on firmware 13.00 and 10.20; others untested.</description>
-      <pubDate>0.1.9</pubDate>
+      <pubDate>0.2.0</pubDate>
     </item>
     <item>
       <title>SudokuZen</title>
@@ -134,7 +140,7 @@
       <title>Mediathek</title>
       <link>https://github.com/M0S4YSH3LL0/mediathek-ps5</link>
       <description>A Netflix-style movie library for your PS5</description>
-      <pubDate>01.000.064</pubDate>
+      <pubDate>01.000.070</pubDate>
     </item>
     <item>
       <title>PayLoader</title>
@@ -326,7 +332,7 @@
       <title>TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.195</pubDate>
+      <pubDate>01.000.196</pubDate>
     </item>
     <item>
       <title>CD Player</title>
@@ -428,7 +434,7 @@
       <title>Second Coat: London</title>
       <link>https://github.com/SecondCoat/second-coat-london</link>
       <description>The Getaway (PS2) remastered with modern graphics, reworked controls and driving, mods and online free roam; you bring your own disc image.</description>
-      <pubDate>0.2.0</pubDate>
+      <pubDate>0.3.0</pubDate>
     </item>
     <item>
       <title>reSOT (Prince of Persia: The Sands of Time)</title>
@@ -740,7 +746,7 @@
       <title>Halo: Combat Evolved</title>
       <link>https://github.com/thelinkin3000/halo-ce-universal</link>
       <description>Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.</description>
-      <pubDate>build-132</pubDate>
+      <pubDate>build-134</pubDate>
     </item>
     <item>
       <title>Jelly5</title>
@@ -812,7 +818,7 @@
       <title>Alembic</title>
       <link>https://github.com/fthdgn-gh/Alembic</link>
       <description>Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC, also on SMB, NFS, WebDAV and FTP servers.</description>
-      <pubDate>0.4.2</pubDate>
+      <pubDate>0.5.0</pubDate>
     </item>
     <item>
       <title>Cloud Play</title>

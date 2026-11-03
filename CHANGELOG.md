@@ -1,5 +1,23 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 03/11/2026 à 14:00
+* **PAYLOADS**
+  * `Fbneo-Ps5 V2.2` (v2.2) - *Nouveau*
+  * `Wfm-7Zip-Helper` (v1.13-rc2) - *Mise à jour (Précédent: v1.13-rc1)*
+  * `Web-File-Mgr-V1.13-Rc2` (v1.13-rc2) - *Nouveau*
+  * `Web-File-Mgr-V1.13-Rc1` (ps5-web-file-manager) - *Mise à jour (Précédent: v1.13-rc1)*
+* **HOMEBREW_PAGE**
+  * `Playden` (0.10.0-beta.1) - *Mise à jour (Précédent: 0.9.0)*
+  * `Parasite Eve - Game Test` (0.1.0-beta.1) - *Nouveau*
+  * `PC5` (2.2.2) - *Mise à jour (Précédent: 2.2.1)*
+  * `Source Port` (0.1.4-alpha) - *Mise à jour (Précédent: 0.1.3-alpha)*
+  * `ProsperoSunshine` (0.2.0) - *Mise à jour (Précédent: 0.1.9)*
+  * `Mediathek` (01.000.070) - *Mise à jour (Précédent: 01.000.064)*
+  * `TubeBlock` (01.000.196) - *Mise à jour (Précédent: 01.000.195)*
+  * `Second Coat: London` (0.3.0) - *Mise à jour (Précédent: 0.2.0)*
+  * `Halo: Combat Evolved` (build-134) - *Mise à jour (Précédent: build-132)*
+  * `Alembic` (0.5.0) - *Mise à jour (Précédent: 0.4.2)*
+
 ## Build du 03/11/2026 à 00:56
 * **PAYLOADS**
   * `Orbit Store` (v1.8.4) - *Mise à jour (Précédent: v1.8.3)*

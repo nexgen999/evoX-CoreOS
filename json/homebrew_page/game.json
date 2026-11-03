@@ -16,6 +16,20 @@
       "source": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless"
     },
     {
+      "name": "Parasite Eve - Game Test",
+      "filename": "PEVG00022.zip",
+      "url": "https://github.com/GUMMIBRI/parasite-eve-ps5/releases/download/v0.1.0-beta.1/Parasite-Eve-PS5-v0.1.0-beta.1-93EA-asset-free.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PEVG00022/0.1.0-beta.1/PEVG00022.zip",
+      "description": "Native PS5 beta port of Parasite Eve requiring user-supplied game data; experimental checkpoints.",
+      "version": "0.1.0-beta.1",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PEVG00022",
+      "author": "GUMMIBRI",
+      "checksum": "9340b47c0c64b25e2c1acf7ad77cc24f8fe5553e0c764081f888748e66e2850b",
+      "source": "https://github.com/GUMMIBRI/parasite-eve-ps5"
+    },
+    {
       "name": "XashPS5",
       "filename": "PPSA19111.zip",
       "url": "https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.3/PPSA19111.zip",
@@ -32,15 +46,15 @@
     {
       "name": "Source Port",
       "filename": "PPSA20040.zip",
-      "url": "https://github.com/gmorb/source-port-ps5/releases/download/v0.1.3-alpha/PPSA20040.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA20040/0.1.3-alpha/PPSA20040.zip",
+      "url": "https://github.com/gmorb/source-port-ps5/releases/download/v0.1.4-alpha/PPSA20040.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA20040/0.1.4-alpha/PPSA20040.zip",
       "description": "Native PS5 port of the Source engine that runs Half-Life 2 from your own steam_legacy game files, with sound and DualSense controls.",
-      "version": "0.1.3-alpha",
+      "version": "0.1.4-alpha",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA20040",
       "author": "Gm0rb",
-      "checksum": "5e542610a5b979105812fa66dc4e53bd47a6463ec064e47683c29c1f9461255d",
+      "checksum": "eff70bcdbfd1d7a36186cec3f96d2b194e9f67605c97acb372db0581b626a236",
       "source": "https://github.com/gmorb/source-port-ps5"
     },
     {
@@ -424,15 +438,15 @@
     {
       "name": "Second Coat: London",
       "filename": "PPSA99020.zip",
-      "url": "https://github.com/SecondCoat/second-coat-london/releases/download/v0.2.0/getaway-ps5-PPSA99020.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99020/0.2.0/PPSA99020.zip",
+      "url": "https://github.com/SecondCoat/second-coat-london/releases/download/v0.3.0/getaway-ps5-PPSA99020.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99020/0.3.0/PPSA99020.zip",
       "description": "The Getaway (PS2) remastered with modern graphics, reworked controls and driving, mods and online free roam; you bring your own disc image.",
-      "version": "0.2.0",
+      "version": "0.3.0",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99020",
       "author": "Second Coat",
-      "checksum": "78d26e28627caa4b05ffde747d9aecb98c56a3c3063aa58f751aa18e17653f3a",
+      "checksum": "72e53688b821c309a015382872e26214c74b434bc694171e85bb2d8d7a1fbe44",
       "source": "https://github.com/SecondCoat/second-coat-london"
     },
     {
@@ -732,15 +746,15 @@
     {
       "name": "Halo: Combat Evolved",
       "filename": "PPSA99500.zip",
-      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-132/halo-ps5-release.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-132/PPSA99500.zip",
+      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-134/halo-ps5-release.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-134/PPSA99500.zip",
       "description": "Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.",
-      "version": "build-132",
+      "version": "build-134",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99500",
       "author": "thelinkin3000",
-      "checksum": "41c938ee516346ba35bb739fe2e2679b74ab3bfc8db726af16684e5810fc4c07",
+      "checksum": "c3ff433c420990492795fd72f5af866b8eb30bd277b70116097f7aa7c202e53a",
       "source": "https://github.com/thelinkin3000/halo-ce-universal"
     },
     {

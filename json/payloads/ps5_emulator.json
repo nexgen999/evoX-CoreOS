@@ -35,14 +35,14 @@
       "source": "https://github.com/s0liton/ps5-romm/releases"
     },
     {
-      "name": "Fbneo-Ps5 V2.1",
-      "filename": "fbneo-ps5_v2.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v2.1/fbneo-ps5_v2.1.elf",
-      "local_path": "payloads/ps5_emulator/fbneo-ps5/v2.1/fbneo-ps5_v2.1.elf",
+      "name": "Fbneo-Ps5 V2.2",
+      "filename": "fbneo-ps5_v2.2.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v2.2/fbneo-ps5_v2.2.elf",
+      "local_path": "payloads/ps5_emulator/fbneo-ps5/v2.2/fbneo-ps5_v2.2.elf",
       "description": "FBNeo for ps5",
-      "version": "v2.1",
+      "version": "v2.2",
       "category": "PS5 Emulator",
-      "checksum": "4ff2db1c4276aeec70866e2c949c6ee871a2074284cbf1ce61dc354f3822356c",
+      "checksum": "406dd00702e09912b157f3e15df51c58afc4d59b3ba82b258958546d4ff4c027",
       "source": "https://github.com/MisterTemaki/fbneo-ps5/releases"
     },
     {

@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.03-0056)
+### 🚀 Synthèse de la mise à jour (v2026.11.03-1400)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -45,7 +45,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `snes9xPS5_v2.9.elf`
   * `genplusgxPS5_v2.2.elf`
   * `ps5-romm_v1.4.0.elf`
-  * `fbneo-ps5_v2.1.elf`
+  * `fbneo-ps5_v2.2.elf`
   * `PHU-Sandbox.Exit_v1.0.elf`
   * `FGG-PlayPods-GUI_v0.1.5.elf`
   * `FGG-PlayPods_v1.0.elf`
@@ -62,7 +62,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `BFpilot_v0.5.0.elf`
   * `lapy_jb_daemon.elf`
   * `wfm-7zip-helper.elf`
-  * `web-file-mgr-v1.13-rc1.elf`
+  * `web-file-mgr-v1.13-rc2.elf`
   * `PS5-File-Explorer_vfile-explorer-v0.2.1.elf`
   * `np-fake-signin-ps5.elf`
   * `nanoDNS_v0.4.elf`
@@ -169,6 +169,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `web-file-mgr_v1.9.elf`
   * `web-file-mgr-v1.11.elf`
   * `web-file-mgr-v1.11b.elf`
+  * `web-file-mgr-v1.13-rc1.elf`
   * `web-file-mgr-v1.12.elf`
   * `web-file-mgr-v1.10.elf`
   * `PS5X360_v0.5.7.elf`
@@ -257,6 +258,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
 * **Applications ProsperoStore**
   * `CWEN00001.zip`
   * `FAKE77031.zip`
+  * `PEVG00022.zip`
   * `PPSA01153.zip`
   * `PPSA06464.zip`
   * `PPSA11018.zip`

@@ -4,15 +4,15 @@
     {
       "name": "Playden",
       "filename": "FAKE77031.zip",
-      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.9.0/playden-ps5-0.9.0.zip",
-      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.9.0/FAKE77031.zip",
+      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.10.0-beta.1/playden-ps5-0.10.0-beta.1.zip",
+      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.10.0-beta.1/FAKE77031.zip",
       "description": "Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.",
-      "version": "0.9.0",
+      "version": "0.10.0-beta.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "FAKE77031",
       "author": "leolobato",
-      "checksum": "f32823bc927ff7788da9620f14b9f2aa57646d71afd06cd9f66d3bb107c1d6f3",
+      "checksum": "f2e83899f88a681d7a222fdf8a82b34398c7fa7e39b5046843abf168430e81d4",
       "source": "https://github.com/leolobato/playden-ps5"
     },
     {
@@ -46,15 +46,15 @@
     {
       "name": "PC5",
       "filename": "PPSA11018.zip",
-      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.2.1/PPSA11018.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.2.1/PPSA11018.zip",
+      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.2.2/PPSA11018.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.2.2/PPSA11018.zip",
       "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.",
-      "version": "2.2.1",
+      "version": "2.2.2",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA11018",
       "author": "bornaradusin",
-      "checksum": "de235c7991473f9a92fe11041482c664066731187119125f4c458af43f00e1fa",
+      "checksum": "06110e30db715251b043335b194aa9632f10d55eaf39f8a32d51d82a58cc4389",
       "source": "https://github.com/bornaradusin/PC5"
     },
     {
@@ -116,15 +116,15 @@
     {
       "name": "ProsperoSunshine",
       "filename": "PPSA47989.zip",
-      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.1.9/PPSA47989.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.1.9/PPSA47989.zip",
+      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.2.0/PPSA47989.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.2.0/PPSA47989.zip",
       "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio and controller input. Tested on firmware 13.00 and 10.20; others untested.",
-      "version": "0.1.9",
+      "version": "0.2.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA47989",
       "author": "Darkatek7",
-      "checksum": "e4f7e0c72e434b33ebf641f220fa596de1d75862458b0b9ad510b5626894500e",
+      "checksum": "1ddae4a2634f9ea1758c7761bbc29665a44ab5f1979bbbcf77a3abef97ae842a",
       "source": "https://github.com/Darkatek7/ProsperoSunshine"
     },
     {
@@ -144,15 +144,15 @@
     {
       "name": "Mediathek",
       "filename": "PPSA66120.zip",
-      "url": "https://github.com/M0S4YSH3LL0/mediathek-ps5/releases/download/01.000.064/Mediathek-PPSA66120-01.000.064.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA66120/01.000.064/PPSA66120.zip",
+      "url": "https://github.com/M0S4YSH3LL0/mediathek-ps5/releases/download/01.000.070/Mediathek-PPSA66120-01.000.070.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA66120/01.000.070/PPSA66120.zip",
       "description": "A Netflix-style movie library for your PS5",
-      "version": "01.000.064",
+      "version": "01.000.070",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA66120",
       "author": "m0",
-      "checksum": "175b4807acecee6f9113f6c0261ed39495f060a19693ba49342d17c29ce05770",
+      "checksum": "d3d7de3a51a62bc2b73f7ec7dba5588f17e56b98d7062e86f95e685a58cd55d4",
       "source": "https://github.com/M0S4YSH3LL0/mediathek-ps5"
     },
     {
@@ -368,15 +368,15 @@
     {
       "name": "TubeBlock",
       "filename": "PPSA98260.zip",
-      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.195/SmartTube-PPSA98260.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.195/PPSA98260.zip",
+      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.196/SmartTube-PPSA98260.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.196/PPSA98260.zip",
       "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
-      "version": "01.000.195",
+      "version": "01.000.196",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98260",
       "author": "animatian112",
-      "checksum": "4607ff761385b0a75a4d97637e4188c50110229f8f760270bbcf9499850fe405",
+      "checksum": "aad313ad4fa8c72e14efff203a4f79ea2b0ec45faf3af2d37568b876c9ed799a",
       "source": "https://github.com/animatian112/ytps5-sponsorblock"
     },
     {
@@ -1040,15 +1040,15 @@
     {
       "name": "Alembic",
       "filename": "PPSA99594.zip",
-      "url": "https://github.com/fthdgn-gh/Alembic/releases/download/v0.4.2/alembic-app-v0.4.2.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99594/0.4.2/PPSA99594.zip",
+      "url": "https://github.com/fthdgn-gh/Alembic/releases/download/v0.5.0/alembic-app-v0.5.0.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99594/0.5.0/PPSA99594.zip",
       "description": "Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC, also on SMB, NFS, WebDAV and FTP servers.",
-      "version": "0.4.2",
+      "version": "0.5.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99594",
       "author": "Fatih Doğan",
-      "checksum": "62339e3a3cbda29f42147867e021125dce3b341e9520e1811e57b6139a9e7eec",
+      "checksum": "70e90d1f6ce630e37ccc0c5c25486926e15735b8ad27f0281e3772459ddfa063",
       "source": "https://github.com/fthdgn-gh/Alembic"
     },
     {
