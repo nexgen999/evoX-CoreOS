@@ -1,5 +1,32 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 03/11/2026 à 23:20
+* **PAYLOADS**
+  * `Cheatrunner V0.18` (CheatRunner) - *Mise à jour (Précédent: v0.18)*
+* **APPS**
+  * `Porpoise-4.5-Source` (v4.5) - *Nouveau*
+  * `Porpoise-4.5` (v4.5) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `Parasite Eve - Game Test` (0.1.1) - *Mise à jour (Précédent: 0.1.0-beta.1)*
+  * `PC5` (2.2.5) - *Mise à jour (Précédent: 2.2.2)*
+  * `ProsperoSunshine` (0.2.2) - *Mise à jour (Précédent: 0.2.0)*
+  * `Mediathek` (01.000.080) - *Mise à jour (Précédent: 01.000.070)*
+  * `PayLoader` (00.001.002) - *Mise à jour (Précédent: 00.001.001)*
+  * `Signal Companion` (00.006.000) - *Mise à jour (Précédent: 00.005.000)*
+  * `SpeedBreaker (NFS: Most Wanted)` (01.000.002) - *Mise à jour (Précédent: 01.000.001)*
+  * `Chiral-FTP` (1.2) - *Mise à jour (Précédent: 1.1)*
+  * `MKWII Retro Rewind Patcher` (01.000.003) - *Mise à jour (Précédent: 01.000.002)*
+  * `Media Player Classic PS5` (1.5.4) - *Mise à jour (Précédent: 1.5.3)*
+  * `reSOT (Prince of Persia: The Sands of Time)` (01.005.000) - *Mise à jour (Précédent: 01.004.001)*
+  * `MihawkOS` (8.0.0-alpha-8) - *Mise à jour (Précédent: 7.1.0-alpha-7)*
+  * `PS5SX2` (vk-285-187) - *Mise à jour (Précédent: vk-285-182)*
+  * `Lost Odyssey` (0.2.0-beta.5) - *Mise à jour (Précédent: 0.2.0-beta.3)*
+  * `Halo: Combat Evolved` (build-135) - *Mise à jour (Précédent: build-134)*
+  * `Alembic` (0.5.1) - *Mise à jour (Précédent: 0.5.0)*
+  * `Porpoise` (4.5) - *Mise à jour (Précédent: 4.0)*
+  * `ProsperoCraft` (01.000.204) - *Mise à jour (Précédent: 01.000.179)*
+  * `FBNeo PS5` (v2.2) - *Mise à jour (Précédent: v2.1)*
+
 ## Build du 03/11/2026 à 14:00
 * **PAYLOADS**
   * `Fbneo-Ps5 V2.2` (v2.2) - *Nouveau*

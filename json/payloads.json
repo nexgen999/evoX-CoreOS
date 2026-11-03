@@ -304,13 +304,11 @@
     {
       "name": "Cheatrunner V0.18",
       "filename": "CheatRunner_v0.18.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.18/CheatRunner_v0.18.elf",
+      "url": "",
       "local_path": "payloads/PS5_Cheat/CheatRunner/v0.18/CheatRunner_v0.18.elf",
-      "description": "CheatRunner.",
-      "version": "v0.18",
-      "category": "PS5 Cheat",
-      "checksum": "4ae1ea4e37b2e67d5487355ddf671f166861ed6dceea348c048ad060770c0140",
-      "source": "https://github.com/notmaj0r/CheatRunner/releases"
+      "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+      "version": "CheatRunner",
+      "checksum": "4ae1ea4e37b2e67d5487355ddf671f166861ed6dceea348c048ad060770c0140"
     },
     {
       "name": "Kylin-Core V2.0.0-Community-Lite",
@@ -463,7 +461,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "4c22abdeab157088d54bcbddf851bbe7afe3e8a9dfa940080b77570b01a97b75",
+      "checksum": "36e31d895eeb7adb11349fec04c83712ab2056b3c3754f22806848044a86834d",
       "source": "https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf"
     },
     {

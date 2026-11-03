@@ -172,13 +172,23 @@
             "category": "Applications"
         },
         {
-            "name": "Porpoise-4.0",
-            "filename": "Porpoise-4.0.zip",
-            "url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v4.0/Porpoise-4.0.zip",
-            "local_path": "apps/Porpoise/v4.0/Porpoise-4.0.zip",
+            "name": "Porpoise-4.5-Source",
+            "filename": "Porpoise-4.5-source.zip",
+            "url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v4.5/Porpoise-4.5-source.zip",
+            "local_path": "apps/Porpoise/v4.5/Porpoise-4.5-source.zip",
             "description": "GameCube and Wii Dolphin emu for ps5",
-            "version": "v4.0",
-            "checksum": "bce438cc8f436e177ae33b47a43aba82a7020e9db9b2b94c14055b4b7db2328e",
+            "version": "v4.5",
+            "checksum": "236252b9a7fb85a50a216f87ae79d1023622b2c3809a9ce82fdbf3622dd0f802",
+            "category": "Applications"
+        },
+        {
+            "name": "Porpoise-4.5",
+            "filename": "Porpoise-4.5.zip",
+            "url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v4.5/Porpoise-4.5.zip",
+            "local_path": "apps/Porpoise/v4.5/Porpoise-4.5.zip",
+            "description": "GameCube and Wii Dolphin emu for ps5",
+            "version": "v4.5",
+            "checksum": "e772faa79b9e9609d23ff0e82ebc7a8b2156594e97f34aed7d6ac3cbb3f8caeb",
             "category": "Applications"
         },
         {

@@ -2,14 +2,14 @@
   "name": "PS5 Cheat",
   "payloads": [
     {
-      "name": "Cheatrunner V0.18",
-      "filename": "CheatRunner_v0.18.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.18/CheatRunner_v0.18.elf",
-      "local_path": "payloads/PS5_Cheat/CheatRunner/v0.18/CheatRunner_v0.18.elf",
+      "name": "Cheatrunner V0.18.1",
+      "filename": "CheatRunner_v0.18.1.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/CheatRunner/v0.18.1/CheatRunner_v0.18.1.elf",
+      "local_path": "payloads/PS5_Cheat/CheatRunner/v0.18.1/CheatRunner_v0.18.1.elf",
       "description": "CheatRunner.",
-      "version": "v0.18",
+      "version": "v0.18.1",
       "category": "PS5 Cheat",
-      "checksum": "4ae1ea4e37b2e67d5487355ddf671f166861ed6dceea348c048ad060770c0140",
+      "checksum": "80535260027983f09fc9d131e11e13591de61ef5eeea458825598263862d2ce8",
       "source": "https://github.com/notmaj0r/CheatRunner/releases"
     },
     {

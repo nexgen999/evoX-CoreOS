@@ -18,15 +18,15 @@
     {
       "name": "Parasite Eve - Game Test",
       "filename": "PEVG00022.zip",
-      "url": "https://github.com/GUMMIBRI/parasite-eve-ps5/releases/download/v0.1.0-beta.1/Parasite-Eve-PS5-v0.1.0-beta.1-93EA-asset-free.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PEVG00022/0.1.0-beta.1/PEVG00022.zip",
+      "url": "https://github.com/GUMMIBRI/parasite-eve-ps5/releases/download/v0.1.1/Parasite-Eve-PS5-v0.1.1-8310-asset-free.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PEVG00022/0.1.1/PEVG00022.zip",
       "description": "Native PS5 beta port of Parasite Eve requiring user-supplied game data; experimental checkpoints.",
-      "version": "0.1.0-beta.1",
+      "version": "0.1.1",
       "category": "Games",
       "kind": "game",
       "titleid": "PEVG00022",
       "author": "GUMMIBRI",
-      "checksum": "9340b47c0c64b25e2c1acf7ad77cc24f8fe5553e0c764081f888748e66e2850b",
+      "checksum": "c65aad9810c6b0b83e4a2fdb4ad34de3ebb637d9ed4a61067e8e1bdba89b4cfa",
       "source": "https://github.com/GUMMIBRI/parasite-eve-ps5"
     },
     {
@@ -284,15 +284,15 @@
     {
       "name": "SpeedBreaker (NFS: Most Wanted)",
       "filename": "PPSA90505.zip",
-      "url": "https://github.com/bystritskiy/speedbreaker-ps5/releases/download/01.000.001/PPSA90505.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA90505/01.000.001/PPSA90505.zip",
+      "url": "https://github.com/bystritskiy/speedbreaker-ps5/releases/download/01.000.002/PPSA90505.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA90505/01.000.002/PPSA90505.zip",
       "description": "Need for Speed: Most Wanted (2005), the Xbox 360 version statically recompiled to run natively on PS5. Bring your own disc.",
-      "version": "01.000.001",
+      "version": "01.000.002",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA90505",
       "author": "bystritskiy",
-      "checksum": "4e27383705063e42d4fcc68ccd82659350d47e909b64cf0720de4b6d3f74d3c4",
+      "checksum": "96f50f7322fe747293de3d5d09e408c2a322fdc6c7ed99c9ad58036e4b2da4dc",
       "source": "https://github.com/bystritskiy/speedbreaker-ps5"
     },
     {
@@ -452,15 +452,15 @@
     {
       "name": "reSOT (Prince of Persia: The Sands of Time)",
       "filename": "PPSA99023.zip",
-      "url": "https://github.com/bystritskiy/rePOP-ps5/releases/download/01.004.001/PPSA99023-01.004.001.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99023/01.004.001/PPSA99023.zip",
+      "url": "https://github.com/bystritskiy/rePOP-ps5/releases/download/01.005.000/PPSA99023-01.005.000.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99023/01.005.000/PPSA99023.zip",
       "description": "Prince of Persia: The Sands of Time, built from the reSOT recompilation of the Xbox game. Needs your own Xbox retail disc files.",
-      "version": "01.004.001",
+      "version": "01.005.000",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99023",
       "author": "bystritskiy",
-      "checksum": "5188e6ff44e78a2339adadb6fe7e6b9acdf907de8df38782cc598348dafd3af9",
+      "checksum": "d2e9b34eb8f292ae77f62562fbaec10fe9d36bd43d8028aa88fb12cdb1011db2",
       "source": "https://github.com/bystritskiy/rePOP-ps5"
     },
     {
@@ -480,15 +480,15 @@
     {
       "name": "Lost Odyssey",
       "filename": "PPSA99212.zip",
-      "url": "https://github.com/dragonscales123/LostOdysseyRecompPS5/releases/download/v0.2.0-beta.3/LostOdyssey-PS5.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99212/0.2.0-beta.3/PPSA99212.zip",
+      "url": "https://github.com/dragonscales123/LostOdysseyRecompPS5/releases/download/v0.2.0-beta.5/LostOdyssey-PS5.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99212/0.2.0-beta.5/PPSA99212.zip",
       "description": "PS5 port of Lost Odyssey using static recompilation. No game assets included.",
-      "version": "0.2.0-beta.3",
+      "version": "0.2.0-beta.5",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99212",
       "author": "Dragonscales",
-      "checksum": "df59ff4635893362dfd158dd2a87ccb4942a51292aacc58ab52b9df89ac29128",
+      "checksum": "cb7c9e336c3a7a02533720c1526474bfd933b50a024cf4d69cc7bb9d4b057abb",
       "source": "https://github.com/dragonscales123/LostOdysseyRecompPS5"
     },
     {
@@ -746,15 +746,15 @@
     {
       "name": "Halo: Combat Evolved",
       "filename": "PPSA99500.zip",
-      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-134/halo-ps5-release.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-134/PPSA99500.zip",
+      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-135/halo-ps5-release.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-135/PPSA99500.zip",
       "description": "Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.",
-      "version": "build-134",
+      "version": "build-135",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99500",
       "author": "thelinkin3000",
-      "checksum": "c3ff433c420990492795fd72f5af866b8eb30bd277b70116097f7aa7c202e53a",
+      "checksum": "4890a9ddeabcc82b30b35f638d5f3dded18fb137356feced5e50aa7feca8b6bb",
       "source": "https://github.com/thelinkin3000/halo-ce-universal"
     },
     {
@@ -998,15 +998,15 @@
     {
       "name": "ProsperoCraft",
       "filename": "PPSA99874.zip",
-      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.179/PPSA99874.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.179/PPSA99874.zip",
+      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.204/PPSA99874.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.204/PPSA99874.zip",
       "description": "Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.",
-      "version": "01.000.179",
+      "version": "01.000.204",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99874",
       "author": "mateo-cogeanu",
-      "checksum": "7381b0746b178785b303f7486a0533aa6acce3d25167634b9ce849e0546b648a",
+      "checksum": "89167d01c7da0ece733b0dd8b7871a05ee38ff5f79ee45b4ce9beefc5d4c14a0",
       "source": "https://github.com/mateo-cogeanu/ProsperoCraft"
     },
     {

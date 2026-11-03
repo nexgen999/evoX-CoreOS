@@ -3,6 +3,90 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA01470",
+      "title": "Marvel’s Spider-Man Remastered",
+      "createdAt": "2026-10-30T14:30:16.671Z",
+      "version": "01.008",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/a0aef747ca2a90ffda465002dd13b11cf15cbac6703f1b1430e0b38bcae1152c",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/81599f67e85b34449a191737f6140e88e16f8044ec045156703504814777eaae",
+      "description": "Format: Arabic FPKG\nThis isn’t the Spider-Man you’ve met or ever seen before. In Marvel’s Spider-Man Remastered, we meet an experienced Peter Parker who’s more masterful at fighting big crime in New York City. At the same time, he’s struggling to balance his chaotic personal life and career while the fate of Marvel’s New York rests upon his shoulders. Discover the complete web-slinging story with the Marvel’s Spider-Man: Miles Morales Ultimate Edition. This unmissable bundle includes a voucher code** for Marvel’s Spider-Man Remastered – the complete award-winning game, including all three DLC chapters in the Marvel’s Spider-Man: The City That Never Sleeps adventure – remastered and enhanced for the PS5 console.\nRegion: EUR\nFirmware: 4.xx+\nUpdated: 2026-11-03T18:54:42.123Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Arabic FPKG · Viki",
+          "url": "https://vikingfile.com/f/YZSxSTTnYF"
+        }
+      ],
+      "sizeBytes": 68719476736
+    },
+    {
+      "titleId": "PPSA29264",
+      "title": "Duskblade",
+      "createdAt": "2026-11-03T13:59:41.056Z",
+      "version": "1.006",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/2abaedea41b2992fb5b5f88b7455a3465f64a7082c4909b3709eb8041c94a934",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/6003273d6182b7b97af33ce82c05d205483e88de4cf0d72e8f359b7fd5844766",
+      "description": "Format: PFS\nShatter the shackles of time as you jump, swing, and slash through a fantastic world in this love letter to classic 3D action platformers. Zirian, accompanied by his mechanical Cuckoo, must save his sister from a mysterious Clock Tower that has plunged the land into eternal night. Master a seamless blend of dynamic platforming and fast-paced combat. Jump, dash, grapple, and glide your way through thrilling challenges that rekindle the magic of classic action platformer favourites.\nRegion: USA to EUR Langs\nFirmware: 11.xx+\nAPR: apr-emu-v0.4.2.1\nUpdated: 2026-11-03T13:36:53.613Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "PFS · Viki",
+          "url": "https://vikingfile.com/f/00SbRkCi9N"
+        }
+      ],
+      "sizeBytes": 13958643712
+    },
+    {
+      "titleId": "PPSA25286",
+      "title": "Crimson Desert Enhanced Edition",
+      "createdAt": "2026-11-03T13:59:41.056Z",
+      "version": "1.000.568",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/4f61233970fb403babf79ce6af6e672e01ab79b5d0664c272643efd51fcd2457",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/850ac9ee8cf8d5508555401267af14454777aa3fa9b8d66d2f1582cafed3bcae",
+      "description": "Format: LZ4\n■ Items [Crimson Desert (Full Game)] [PS5 Exclusive Bonus] - Grotevant Plate Set (Helm, Armor, Cloak, Gloves, Boots) * Go to Menu → Others → Options → Add-On/Add-Ons to claim the rewards. ■ THE GREYMANE'S JOURNEY, ENHANCED​ Discover an enhanced Crimson Desert, featuring new cutscenes and story moments, plus expanded voice-over and language support. ​ Begin the adventure loved by millions, refined since launch with a wealth of updates, including new content, mounts, pets, customization options, various quality-of-life improvements, and more. ■ EXPLORE A WORLD OF DISCOVERY Welcome to Pywel. Here you'll find stretches of natural beauty and wilderness—from green plains and woods to arid deserts and rugged mountains. Between destinations, you will come across landmarks, ancient ruins, hidden treasures, and other points of interest that will draw your curisoity to wander. Your journey will also inevitably take you skyward to the mysterious realm known as the Abyss, where a mystical imbalance endangering the world must be restored. The world is yours to explore as you will and there are many paths for you to uncover. Experience the continent's stories and tales through quests, encounters, challenges, and battles. Roam the lands on various mounts from horses to even a dragon and mechs, and scale cliffsides and walls which you can leap from to glide. ■ FORGE YOUR OWN COMBAT On the unforgiving battlefields of Crimson Desert, there is no single path to victory.​ Grow your arsenal of skills, weapons, and equipment—and decide how you want to use them. Wield weapons like swords, spears, greatswords, axes, dual wields, various ranged weapons, and more, and unleash powerful abilities and elemental enhancements through lethal combinations. With every strike and move, forge your own way in a world where a split second can decide your fate in fast-paced, visceral battles. From ruthless warriors to fearsome beasts, there are those in Pywel who will seek your downfall. Encounter a diverse array of challenging enemies and bosses in brutal one-on-one duels, large-scale battle clashes, and quick skirmishes, and prevail against the threats that stand in your way. ■ LIFE IN PYWEL In Pywel, many of the smaller moments also shape your journey and make up your day-to-day life. Gather resources, cook, fish, hunt, and partake in the other various activities of Pywel for stat replenishment, making your equipment stronger, and more. Along the way, enjoy some leisure time by playing minigames with the locals. And shaping your daily life also extends to customization. Adjust hairstyles, tattoos, outfits, and more using dyes you brew or pick up along your journey.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: apr-emu-v0.4.2.1\nUpdated: 2026-11-03T13:29:00.997Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "LZ4 · Viki - pt.1",
+          "url": "https://vikingfile.com/f/xixLC35sID"
+        },
+        {
+          "name": "LZ4 · Viki - pt.2",
+          "url": "https://vikingfile.com/f/YlOnsULrHi"
+        },
+        {
+          "name": "LZ4 · Viki - pt.3",
+          "url": "https://vikingfile.com/f/DvQGvWRLQh"
+        },
+        {
+          "name": "LZ4 · Viki - pt.4",
+          "url": "https://vikingfile.com/f/VHLAjddYfB"
+        }
+      ],
+      "sizeBytes": 158913789952
+    },
+    {
+      "titleId": "PPSA25381",
+      "title": "Elden Ring Nightreign + DLC",
+      "createdAt": "2026-11-03T13:59:41.056Z",
+      "version": "1.003.004",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/fd73a3f59cfa5c1f52b1a6b03eb16e91a54ec5912bc971c275ce6eb2a7c5db28",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/213cb05672eba35c125ab116516df0b174e672baa4d7c45718e63a04e462fa0a",
+      "description": "Format: LZ4\nELDEN RING NIGHTREIGN is a standalone adventure within the ELDEN RING universe, crafted to offer players a new gaming experience by reimagining the game’s core design. RISE TOGETHER Join forces with other players to take on the creeping night and the dangers within featuring 3-player co-op. BECOME A HERO Take command of uniquely skilled heroes, each possessing their own abilities and distinct flair. While individually formidable, their skills create powerful synergies when they unite as a team. TAKE ON THE NIGHT Overcome a relentless environmental threat that sweeps through a land that changes between each game session and defeat the magnificent boss of that night! *There is also a Deluxe Edition product available. Please be careful not to purchase the same content twice. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product.\nRegion: USA to EUR Langs\nFirmware: 9.xx+\nAPR: apr-emu-v0.4.2.1\nUpdated: 2026-11-03T13:07:30.317Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "LZ4 · Viki",
+          "url": "https://vikingfile.com/f/cpRj9YDof1"
+        }
+      ],
+      "sizeBytes": 41875931136
+    },
+    {
       "titleId": "PPSA10695",
       "title": "Atomic Heart",
       "createdAt": "2026-11-02T10:26:56.899Z",

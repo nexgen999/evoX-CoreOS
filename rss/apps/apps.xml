@@ -107,10 +107,16 @@
       <pubDate>Alpha-2.1</pubDate>
     </item>
     <item>
-      <title>Porpoise-4.0</title>
-      <link>https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v4.0/Porpoise-4.0.zip</link>
+      <title>Porpoise-4.5-Source</title>
+      <link>https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v4.5/Porpoise-4.5-source.zip</link>
       <description>GameCube and Wii Dolphin emu for ps5</description>
-      <pubDate>v4.0</pubDate>
+      <pubDate>v4.5</pubDate>
+    </item>
+    <item>
+      <title>Porpoise-4.5</title>
+      <link>https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v4.5/Porpoise-4.5.zip</link>
+      <description>GameCube and Wii Dolphin emu for ps5</description>
+      <pubDate>v4.5</pubDate>
     </item>
     <item>
       <title>Ppsa19111</title>

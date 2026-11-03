@@ -3,6 +3,78 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA30391",
+      "title": "Alien Rogue Incursion Evolved Edition",
+      "createdAt": "2026-11-03T20:21:18.229Z",
+      "version": "1.11",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA30391_5020c9633c903265375b1e3c19005c2b6def9078604ff6ae21ea27d1a4339fe4/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 10.xx and higher Tested on EXTERNAL with Kstuff Lite 1.11 and ShadowMountPlus 1.7beta10",
+      "downloadSource": "https://dlpsgame.com/alien-rogue-incursion-evolved-edition-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 10.xx Base - Akirabox part 1",
+          "url": "https://akirabox.to/Z9dzBBwO5zk1/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Akirabox part 2",
+          "url": "https://akirabox.to/vgKGx74M8z8Q/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1DsB7Y"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/5DnHs"
+        },
+        {
+          "name": "EUR 10.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/Bj62xvpkTU"
+        },
+        {
+          "name": "EUR 10.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/ulfkCj6lMa"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA13446",
+      "title": "Aphelion",
+      "createdAt": "2026-11-03T20:21:18.229Z",
+      "version": "1.11",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA13446_4bc196811fce97c895008ce6b6f60015953a205ad01b98b282e2196de7a8b633/icon0.webp",
+      "description": "Region: USA\nRelease note: Works on 12.xx and higher Tested on EXTERNAL with Kstuff Lite 1.11 and ShadowMountPlus 1.7beta10 Based on dump by CC!",
+      "downloadSource": "https://dlpsgame.com/aphelion-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 12.xx Base - Akirabox part 1",
+          "url": "https://akirabox.to/wgWGqWklw34o/file"
+        },
+        {
+          "name": "USA 12.xx Base - Akirabox part 2",
+          "url": "https://akirabox.to/0PdzyMoZ0zeA/file"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/2IUi9o"
+        },
+        {
+          "name": "USA 12.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/2ESrIG"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/gWdokyozbI"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/vbhS0cd260"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA21120",
       "title": "White Day 2 The Flower That Tells Lies Complete Edition",
       "createdAt": "2026-11-03T07:07:41.495Z",
@@ -11621,7 +11693,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/48320d659d6ea4290ef6a826eec79bb7765671f474010cd51438837ba256b1ee",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/d749c51a857b94d03962336cb72d1db40515c0bcb7224eb1e9265a63ba9dbdae",
-      "description": "Variant: 12.xx\nRelease note: Works on 12.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.006\nRegion: EUR\nRelease note: exFAT format — FW 01.006 — 4.xx BackPort\nContributor: pippo",
+      "description": "Variant: 12.xx\nRelease note: Works on 12.xx and higher\nContributor: Thanks to DUPLEX for the Files and PSVIETHOA for the BackPort\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.006\nRegion: EUR\nRelease note: exFAT format — FW 01.006 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/hades-2-ps5/",
       "downloadLinks": [
         {

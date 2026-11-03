@@ -20,7 +20,7 @@
       <title>Parasite Eve - Game Test</title>
       <link>https://github.com/GUMMIBRI/parasite-eve-ps5</link>
       <description>Native PS5 beta port of Parasite Eve requiring user-supplied game data; experimental checkpoints.</description>
-      <pubDate>0.1.0-beta.1</pubDate>
+      <pubDate>0.1.1</pubDate>
     </item>
     <item>
       <title>OliSe Player</title>
@@ -38,7 +38,7 @@
       <title>PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.</description>
-      <pubDate>2.2.2</pubDate>
+      <pubDate>2.2.5</pubDate>
     </item>
     <item>
       <title>Home5</title>
@@ -116,7 +116,7 @@
       <title>ProsperoSunshine</title>
       <link>https://github.com/Darkatek7/ProsperoSunshine</link>
       <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio and controller input. Tested on firmware 13.00 and 10.20; others untested.</description>
-      <pubDate>0.2.0</pubDate>
+      <pubDate>0.2.2</pubDate>
     </item>
     <item>
       <title>SudokuZen</title>
@@ -140,13 +140,13 @@
       <title>Mediathek</title>
       <link>https://github.com/M0S4YSH3LL0/mediathek-ps5</link>
       <description>A Netflix-style movie library for your PS5</description>
-      <pubDate>01.000.070</pubDate>
+      <pubDate>01.000.080</pubDate>
     </item>
     <item>
       <title>PayLoader</title>
       <link>https://github.com/Marice/ps5-payloader</link>
       <description>A controller front-end for Payload Manager (pldmgr), which it brings: start, install and update payloads, edit your boot chain with a USB safety net, and install the Signal suite.</description>
-      <pubDate>00.001.001</pubDate>
+      <pubDate>00.001.002</pubDate>
     </item>
     <item>
       <title>Ruffle Flash</title>
@@ -182,7 +182,7 @@
       <title>Signal Companion</title>
       <link>https://github.com/Marice/ps5-signal-companion</link>
       <description>Set your PS5's light colour and ps5-signal's startup tune, and manage the suite: start, update and autoload ps5-signal, ps5-exporter and ps5-homeassistant, and link the PS5 to Home Assistant.</description>
-      <pubDate>00.005.000</pubDate>
+      <pubDate>00.006.000</pubDate>
     </item>
     <item>
       <title>A2 Racer II</title>
@@ -260,7 +260,7 @@
       <title>SpeedBreaker (NFS: Most Wanted)</title>
       <link>https://github.com/bystritskiy/speedbreaker-ps5</link>
       <description>Need for Speed: Most Wanted (2005), the Xbox 360 version statically recompiled to run natively on PS5. Bring your own disc.</description>
-      <pubDate>01.000.001</pubDate>
+      <pubDate>01.000.002</pubDate>
     </item>
     <item>
       <title>Xerenge (Burnout Revenge)</title>
@@ -302,7 +302,7 @@
       <title>Chiral-FTP</title>
       <link>https://github.com/Herbrax/Chiral-FTP</link>
       <description>File manager, FTP server, FTP/SFTP client and browser web app for the PS5, with Quick connect to chiral-ftp on your Switch, Mac, Windows or Linux.</description>
-      <pubDate>1.1</pubDate>
+      <pubDate>1.2</pubDate>
     </item>
     <item>
       <title>XPSemu</title>
@@ -320,7 +320,7 @@
       <title>MKWII Retro Rewind Patcher</title>
       <link>https://github.com/melvindevries/Retro-Rewind-PS5-Patcher</link>
       <description>Installs and updates Retro Rewind and patches your own Mario Kart Wii image directly on the console, with a controller.</description>
-      <pubDate>01.000.002</pubDate>
+      <pubDate>01.000.003</pubDate>
     </item>
     <item>
       <title>PokeMMO Prospero</title>
@@ -422,7 +422,7 @@
       <title>Media Player Classic PS5</title>
       <link>https://github.com/MisterTemaki/MediaPlayerClassicPS5</link>
       <description>Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.</description>
-      <pubDate>1.5.3</pubDate>
+      <pubDate>1.5.4</pubDate>
     </item>
     <item>
       <title>ProsperoEden (Mirror)</title>
@@ -440,7 +440,7 @@
       <title>reSOT (Prince of Persia: The Sands of Time)</title>
       <link>https://github.com/bystritskiy/rePOP-ps5</link>
       <description>Prince of Persia: The Sands of Time, built from the reSOT recompilation of the Xbox game. Needs your own Xbox retail disc files.</description>
-      <pubDate>01.004.001</pubDate>
+      <pubDate>01.005.000</pubDate>
     </item>
     <item>
       <title>reUndr (NFS: Underground)</title>
@@ -542,7 +542,7 @@
       <title>MihawkOS</title>
       <link>https://github.com/mihawk-99/PS5_MihawkOS</link>
       <description>A Windows-inspired PS5 homebrew OS bringing 32-bit and 64-bit Windows gaming to console hardware through a custom Wine/Proton compatibility stack and native Vulkan graphics.</description>
-      <pubDate>7.1.0-alpha-7</pubDate>
+      <pubDate>8.0.0-alpha-8</pubDate>
     </item>
     <item>
       <title>PKG Folderizer</title>
@@ -566,13 +566,13 @@
       <title>PS5SX2</title>
       <link>https://github.com/Swordpdf/PS5SX2</link>
       <description>PCSX2 port for PS5 that runs PS2 games natively with a Vulkan renderer, up to 6x resolution and settings from your phone. Bring your own BIOS and games.</description>
-      <pubDate>vk-285-182</pubDate>
+      <pubDate>vk-285-187</pubDate>
     </item>
     <item>
       <title>Lost Odyssey</title>
       <link>https://github.com/dragonscales123/LostOdysseyRecompPS5</link>
       <description>PS5 port of Lost Odyssey using static recompilation. No game assets included.</description>
-      <pubDate>0.2.0-beta.3</pubDate>
+      <pubDate>0.2.0-beta.5</pubDate>
     </item>
     <item>
       <title>PSFlyCast</title>
@@ -746,7 +746,7 @@
       <title>Halo: Combat Evolved</title>
       <link>https://github.com/thelinkin3000/halo-ce-universal</link>
       <description>Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.</description>
-      <pubDate>build-134</pubDate>
+      <pubDate>build-135</pubDate>
     </item>
     <item>
       <title>Jelly5</title>
@@ -818,7 +818,7 @@
       <title>Alembic</title>
       <link>https://github.com/fthdgn-gh/Alembic</link>
       <description>Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC, also on SMB, NFS, WebDAV and FTP servers.</description>
-      <pubDate>0.5.0</pubDate>
+      <pubDate>0.5.1</pubDate>
     </item>
     <item>
       <title>Cloud Play</title>
@@ -938,7 +938,7 @@
       <title>Porpoise</title>
       <link>https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5</link>
       <description>A native GameCube and Wii emulator for jailbroken PS5, powered by Dolphin. Cover-flow library, box art, memory cards, original music.</description>
-      <pubDate>4.0</pubDate>
+      <pubDate>4.5</pubDate>
     </item>
     <item>
       <title>Photo Splat VR</title>
@@ -980,7 +980,7 @@
       <title>ProsperoCraft</title>
       <link>https://github.com/mateo-cogeanu/ProsperoCraft</link>
       <description>Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.</description>
-      <pubDate>01.000.179</pubDate>
+      <pubDate>01.000.204</pubDate>
     </item>
     <item>
       <title>Genesis Plus GX PS5</title>
@@ -998,7 +998,7 @@
       <title>FBNeo PS5</title>
       <link>https://github.com/MisterTemaki/fbneo-ps5</link>
       <description>FinalBurn Neo (arcade) as a native PS5 app.</description>
-      <pubDate>v2.1</pubDate>
+      <pubDate>v2.2</pubDate>
     </item>
     <item>
       <title>Beetle PCE PS5</title>
