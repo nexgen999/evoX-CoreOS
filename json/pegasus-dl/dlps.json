@@ -9,7 +9,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/761f0c3e903c0dc01fd8ea63cc29570655dca02882e45db7c0034af01cf0ce13",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/4ac65ff5ef4d4c8edfc8d3f9606dee24494a03e8ccb77b24cae04d75db95474f",
-      "description": "Region: USA\nRelease note: Works on 4.xx and higher",
+      "description": "Variant: USA 4.xx\nRegion: USA\nRelease note: Works on 4.xx and higher\n\nVariant: USA exFAT 01.000.001\nRegion: USA\nRelease note: exFAT format — FW 01.000.001 — 4.xx and beyond\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/white-day-a-labyrinth-named-school-ps5/",
       "downloadLinks": [
         {
@@ -23,6 +23,22 @@
         {
           "name": "USA 4.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/nT6iiXy6cb"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - DataNodes",
+          "url": "https://datanodes.to/kcnnapzv93ha/PPSA07973.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - FileKeeper",
+          "url": "https://filekeeper.net/pdyp3x1mpvrx/PPSA07973.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - Akirabox",
+          "url": "https://akirabox.to/obj3jkLL5zDx/file"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/PYGUU8G0HG"
         }
       ]
     },
@@ -1122,7 +1138,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/34c2379dbd9bfc7583638256801fc2577c9f16ea9f7946ea15e1372ec57990f0",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/8a8bfbef0e4de3c56788dce4e7a1f8984fd0ca64985f4d870dcfb2bf6be213fe",
-      "description": "Region: JPN\nRelease note: Works on 11.xx and higher This release includes the following DLC : Here\nContributor: @DUPLEX\nPassword: DLPSGAME.COM",
+      "description": "Variant: JPN 11.xx\nRegion: JPN\nRelease note: Works on 11.xx and higher This release includes the following DLC : Here\nContributor: @DUPLEX\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.000.001\nRegion: USA\nRelease note: exFAT format — FW 01.000.001 — 4.xx BackPort + 5.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/final-fantasy-resonance-deluxe-edition-ps5/",
       "downloadLinks": [
         {
@@ -1136,6 +1152,22 @@
         {
           "name": "JPN 11.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/NCA8tXimVX"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - DataNodes",
+          "url": "https://datanodes.to/rra5hkicti3w/PPSA31544.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - FileKeeper",
+          "url": "https://filekeeper.net/53opfww0w67w/PPSA31544.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - Akirabox",
+          "url": "https://akirabox.to/k0embkll83Vb/file"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/E2NZeCt7dl"
         }
       ]
     },
@@ -5983,7 +6015,7 @@
       "createdAt": "2026-10-16T21:48:35.923Z",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA25843_dc179dfcd9eb73ffbe49c79088b337d25d2a1213982673f5bd37b68de3c5ae8f/icon0.webp",
-      "description": "Region: USA\nRelease note: Working 13.xx to 10.xx\nContributor: @High-Speed007",
+      "description": "Variant: USA 13.xx\nRegion: USA\nRelease note: Working 13.xx to 10.xx\nContributor: @High-Speed007\n\nVariant: USA exFAT 01.008\nRegion: USA\nRelease note: exFAT format — FW 01.008 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/warriors-abyss-ps5/",
       "downloadLinks": [
         {
@@ -5997,6 +6029,22 @@
         {
           "name": "USA 13.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/UGMK1StZKA"
+        },
+        {
+          "name": "USA exFAT 01.008 Base - DataNodes",
+          "url": "https://datanodes.to/zr7hhaeekybv/PPSA25843.7z"
+        },
+        {
+          "name": "USA exFAT 01.008 Base - FileKeeper",
+          "url": "https://filekeeper.net/k8gttoz85uu7/PPSA25843.7z"
+        },
+        {
+          "name": "USA exFAT 01.008 Base - Akirabox",
+          "url": "https://akirabox.to/RMKGJW668m1o/file"
+        },
+        {
+          "name": "USA exFAT 01.008 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/vKMKEwirSh"
         }
       ]
     },
@@ -6108,7 +6156,7 @@
       "createdAt": "2026-10-16T21:48:35.923Z",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA30630_f1ab1bdea7b8bd74c5db439da8ff3d9bf234eff706178e10e8902b9db2b3ede1/icon0.webp",
-      "description": "Region: USA\nRelease note: Works on 12.xx and higher\nContributor: @DUPLEX\nPassword: DLPSGAME.COM",
+      "description": "Variant: USA 12.xx\nRegion: USA\nRelease note: Works on 12.xx and higher\nContributor: @DUPLEX\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.018\nRegion: USA\nRelease note: exFAT format — FW 01.018 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/mlb-the-show-26-ps5/",
       "downloadLinks": [
         {
@@ -6230,6 +6278,22 @@
         {
           "name": "USA 12.xx Base - Vikingfile part 10",
           "url": "https://vikingfile.com/f/nbpVHPEQTf"
+        },
+        {
+          "name": "USA exFAT 01.018 Base - DataNodes",
+          "url": "https://datanodes.to/smbisu05niah/PPSA30630.7z"
+        },
+        {
+          "name": "USA exFAT 01.018 Base - FileKeeper",
+          "url": "https://filekeeper.net/a052ze7hpeoa/PPSA30630.7z"
+        },
+        {
+          "name": "USA exFAT 01.018 Base - Akirabox",
+          "url": "https://akirabox.to/N2p3DdYlV3Ma/file"
+        },
+        {
+          "name": "USA exFAT 01.018 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/ZmJgZ6dEP8"
         }
       ]
     },

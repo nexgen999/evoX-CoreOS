@@ -1,5 +1,27 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 03/11/2026 à 00:56
+* **PAYLOADS**
+  * `Orbit Store` (v1.8.4) - *Mise à jour (Précédent: v1.8.3)*
+* **HOMEBREW_PAGE**
+  * `PC5` (2.2.1) - *Mise à jour (Précédent: 2.1.4)*
+  * `Subway Surfers` (1.0.0) - *Nouveau*
+  * `ProsperoSunshine` (0.1.9) - *Mise à jour (Précédent: 0.1.7)*
+  * `Pixel Museum` (0.1.5) - *Mise à jour (Précédent: 0.1.4)*
+  * `Stremio Plus` (0.6.00) - *Mise à jour (Précédent: 0.5.20)*
+  * `SpeedBreaker (NFS: Most Wanted)` (01.000.001) - *Nouveau*
+  * `Xerenge (Burnout Revenge)` (01.001.000) - *Nouveau*
+  * `MKWII Retro Rewind Patcher` (01.000.002) - *Mise à jour (Précédent: 01.000.001)*
+  * `TubeBlock` (01.000.195) - *Mise à jour (Précédent: 01.000.193)*
+  * `reSOT (Prince of Persia: The Sands of Time)` (01.004.001) - *Nouveau*
+  * `reUndr (NFS: Underground)` (01.001.000) - *Nouveau*
+  * `ORION Media Center` (01.107.000) - *Mise à jour (Précédent: 01.106.000)*
+  * `Prospero Hi-Fi` (2.2.0) - *Mise à jour (Précédent: 2.1.0)*
+  * `Halo: Combat Evolved` (build-132) - *Mise à jour (Précédent: build-131)*
+  * `Emby5` (1.3.1) - *Mise à jour (Précédent: 1.2.11)*
+  * `PS5LM` (0.11.0) - *Mise à jour (Précédent: 0.10.0)*
+  * `ProsperoWeb` (0.2.1) - *Mise à jour (Précédent: 0.2.0)*
+
 ## Build du 02/11/2026 à 15:04
 * **HOMEBREW_PAGE**
   * `Infinity Blade III` (1.0.0) - *Nouveau*

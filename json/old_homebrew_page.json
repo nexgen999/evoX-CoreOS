@@ -60,15 +60,15 @@
         {
             "name": "PC5",
             "filename": "PPSA11018.zip",
-            "url": "https://github.com/bornaradusin/PC5/releases/download/v2.1.4/PPSA11018.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.1.4/PPSA11018.zip",
+            "url": "https://github.com/bornaradusin/PC5/releases/download/v2.2.1/PPSA11018.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.2.1/PPSA11018.zip",
             "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.",
-            "version": "2.1.4",
+            "version": "2.2.1",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA11018",
             "author": "bornaradusin",
-            "checksum": "bd0b65035f23c52f61224a09a8092c959b3b3fec08d5655eaf8d2fd5eccf1efa",
+            "checksum": "de235c7991473f9a92fe11041482c664066731187119125f4c458af43f00e1fa",
             "source": "https://github.com/bornaradusin/PC5"
         },
         {
@@ -126,6 +126,20 @@
             "author": "Gm0rb",
             "checksum": "5e542610a5b979105812fa66dc4e53bd47a6463ec064e47683c29c1f9461255d",
             "source": "https://github.com/gmorb/source-port-ps5"
+        },
+        {
+            "name": "Subway Surfers",
+            "filename": "PPSA26370.zip",
+            "url": "https://github.com/ZiZc3/Hydroid/releases/download/1.0.0/PPSA26370.-.Subway.Surfers.v2.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA26370/1.0.0/PPSA26370.zip",
+            "description": "Subway Surfers for PS5 with its own controller support. Needs your own APK (3.70.3).",
+            "version": "1.0.0",
+            "category": "Games",
+            "kind": "game",
+            "titleid": "PPSA26370",
+            "author": "AZiZ",
+            "checksum": "9ebec59650e915a98a0ce83ee5466edce29dd805a8700c176ca44020ed7955d8",
+            "source": "https://github.com/ZiZc3/Hydroid"
         },
         {
             "name": "Infinity Blade III",
@@ -207,7 +221,7 @@
             "category": "Games",
             "kind": "game",
             "titleid": "PPSA47402",
-            "author": "Andrei Kvapil",
+            "author": "kvaps",
             "checksum": "86e763fac842e90c48e54ddb4915ef517c5c17f37d4506574848e4e0a8aa51f5",
             "source": "https://github.com/kvaps/syobon-action-ps5"
         },
@@ -228,15 +242,15 @@
         {
             "name": "ProsperoSunshine",
             "filename": "PPSA47989.zip",
-            "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.1.7/PPSA47989.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.1.7/PPSA47989.zip",
+            "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.1.9/PPSA47989.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.1.9/PPSA47989.zip",
             "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio and controller input. Tested on firmware 13.00 and 10.20; others untested.",
-            "version": "0.1.7",
+            "version": "0.1.9",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA47989",
             "author": "Darkatek7",
-            "checksum": "2ce82abfc3eca8a90ff57af5fb9141753b042e0a94c808939e91a104e419f7dd",
+            "checksum": "e4f7e0c72e434b33ebf641f220fa596de1d75862458b0b9ad510b5626894500e",
             "source": "https://github.com/Darkatek7/ProsperoSunshine"
         },
         {
@@ -424,29 +438,29 @@
         {
             "name": "Pixel Museum",
             "filename": "PPSA70421.zip",
-            "url": "https://github.com/LoZazaMastro/Pixel-Museum/releases/download/v0.1.4/PPSA70421.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA70421/0.1.4/PPSA70421.zip",
+            "url": "https://github.com/LoZazaMastro/Pixel-Museum/releases/download/v0.1.5/PPSA70421.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA70421/0.1.5/PPSA70421.zip",
             "description": "An interactive museum of video game history and culture, with illustrated stories, soundtracks, collectible pins, playable experiences and creative workshops.",
-            "version": "0.1.4",
+            "version": "0.1.5",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA70421",
             "author": "LoZazaMastro",
-            "checksum": "e10c9bcc0d073b2bd45af3a0c5ce6ae69a10f50a373de9425d4749ed16ec8f02",
+            "checksum": "532e9f88fc2453034e30c5ecb1a932900122bba69867f381f7bce567621e46da",
             "source": "https://github.com/LoZazaMastro/Pixel-Museum"
         },
         {
             "name": "Stremio Plus",
             "filename": "PPSA74126.zip",
-            "url": "https://github.com/LoZazaMastro/Stremio-Plus/releases/download/0.5.20/PPSA74126.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA74126/0.5.20/PPSA74126.zip",
+            "url": "https://github.com/LoZazaMastro/Stremio-Plus/releases/download/0.6.00/PPSA74126.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA74126/0.6.00/PPSA74126.zip",
             "description": "Unofficial native Stremio client for PS5 with Prospero UI, add-on sync, torrent streaming, offline downloads, enhanced playback stability and sortable high-resolution download artwork.",
-            "version": "0.5.20",
+            "version": "0.6.00",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA74126",
             "author": "LoZazaMastro",
-            "checksum": "95f24d39bb4466cffa3873e43131d56e4c834fc91b833460df3362763935ee3a",
+            "checksum": "dd3156a660abf15f4ceea299c4e439765cce5a2a0b97e79284c2793ce5f453b0",
             "source": "https://github.com/LoZazaMastro/Stremio-Plus"
         },
         {
@@ -562,11 +576,11 @@
             "source": "https://github.com/bizkut/SavageWindRecomp"
         },
         {
-            "name": "SpeedBreaker",
+            "name": "SpeedBreaker (NFS: Most Wanted)",
             "filename": "PPSA90505.zip",
             "url": "https://github.com/bystritskiy/speedbreaker-ps5/releases/download/01.000.001/PPSA90505.zip",
             "local_path": "downloads/apps/homebrew_page/game/PPSA90505/01.000.001/PPSA90505.zip",
-            "description": "Need for Speed: Most Wanted (2005), the Xbox 360 version statically recompiled to run natively on PS5, in 4K at up to 60 fps (bring your own USA disc).",
+            "description": "Need for Speed: Most Wanted (2005), the Xbox 360 version statically recompiled to run natively on PS5. Bring your own disc.",
             "version": "01.000.001",
             "category": "Games",
             "kind": "game",
@@ -576,17 +590,17 @@
             "source": "https://github.com/bystritskiy/speedbreaker-ps5"
         },
         {
-            "name": "Xerenge - Burnout Revenge Recompiled",
+            "name": "Xerenge (Burnout Revenge)",
             "filename": "PPSA92006.zip",
-            "url": "https://github.com/bystritskiy/xerenge-ps5/releases/download/01.000.000/Xerenge-PS5-01.000.000.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA92006/01.000.000/PPSA92006.zip",
-            "description": "Burnout Revenge (Xbox 360), recompiled to run natively on PS5. Needs the files of your own USA disc.",
-            "version": "01.000.000",
+            "url": "https://github.com/bystritskiy/xerenge-ps5/releases/download/01.001.000/Xerenge-PS5-01.001.000.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA92006/01.001.000/PPSA92006.zip",
+            "description": "Burnout Revenge (Xbox 360), recompiled to run natively on PS5. Bring your own disc.",
+            "version": "01.001.000",
             "category": "Games",
             "kind": "game",
             "titleid": "PPSA92006",
             "author": "bystritskiy",
-            "checksum": "a0cb95875eddfc3cf4090a5558035db707b9ee75a88d2707c0480ca2b632e08f",
+            "checksum": "2f63e29b657f262fea5f40d183fca7749961142c3ea82d1758016c023456e475",
             "source": "https://github.com/bystritskiy/xerenge-ps5"
         },
         {
@@ -704,15 +718,15 @@
         {
             "name": "MKWII Retro Rewind Patcher",
             "filename": "PPSA97531.zip",
-            "url": "https://github.com/melvindevries/Retro-Rewind-PS5-Patcher/releases/download/01.000.001/PPSA97531.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA97531/01.000.001/PPSA97531.zip",
+            "url": "https://github.com/melvindevries/Retro-Rewind-PS5-Patcher/releases/download/01.000.002/PPSA97531.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA97531/01.000.002/PPSA97531.zip",
             "description": "Installs and updates Retro Rewind and patches your own Mario Kart Wii image directly on the console, with a controller.",
-            "version": "01.000.001",
+            "version": "01.000.002",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA97531",
             "author": "Melvin de Vries",
-            "checksum": "63c73dd390d7edff882c4702d95212545c3e7d258423fc5db8b22173f5442570",
+            "checksum": "de14c011a351e0c5b027ff4df3326d56401c84703fd7945c52a5dde572b5f3e7",
             "source": "https://github.com/melvindevries/Retro-Rewind-PS5-Patcher"
         },
         {
@@ -732,15 +746,15 @@
         {
             "name": "TubeBlock",
             "filename": "PPSA98260.zip",
-            "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.193/SmartTube-PPSA98260.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.193/PPSA98260.zip",
+            "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.195/SmartTube-PPSA98260.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.195/PPSA98260.zip",
             "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
-            "version": "01.000.193",
+            "version": "01.000.195",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA98260",
             "author": "animatian112",
-            "checksum": "0a2cbcd055f5621d26599af7666afc52d50ff796321430fb2f51813694b8c259",
+            "checksum": "4607ff761385b0a75a4d97637e4188c50110229f8f760270bbcf9499850fe405",
             "source": "https://github.com/animatian112/ytps5-sponsorblock"
         },
         {
@@ -982,7 +996,7 @@
             "source": "https://github.com/SecondCoat/second-coat-london"
         },
         {
-            "name": "reSOT - The Sands of Time",
+            "name": "reSOT (Prince of Persia: The Sands of Time)",
             "filename": "PPSA99023.zip",
             "url": "https://github.com/bystritskiy/rePOP-ps5/releases/download/01.004.001/PPSA99023-01.004.001.zip",
             "local_path": "downloads/apps/homebrew_page/game/PPSA99023/01.004.001/PPSA99023.zip",
@@ -996,17 +1010,17 @@
             "source": "https://github.com/bystritskiy/rePOP-ps5"
         },
         {
-            "name": "reUndr",
+            "name": "reUndr (NFS: Underground)",
             "filename": "PPSA99025.zip",
-            "url": "https://github.com/bystritskiy/reUndr-ps5/releases/download/01.000.000/PPSA99025-01.000.000.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA99025/01.000.000/PPSA99025.zip",
-            "description": "Need for Speed: Underground, the Xbox version recompiled to run natively on PS5, in 4K at up to 60 fps (bring your own USA disc).",
-            "version": "01.000.000",
+            "url": "https://github.com/bystritskiy/reUndr-ps5/releases/download/01.001.000/PPSA99025-01.001.000.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA99025/01.001.000/PPSA99025.zip",
+            "description": "Need for Speed: Underground, the Xbox version recompiled to run natively on PS5, in 4K at up to 60 fps. Bring your own disc.",
+            "version": "01.001.000",
             "category": "Games",
             "kind": "game",
             "titleid": "PPSA99025",
             "author": "bystritskiy",
-            "checksum": "7050c94265d7df704aa29639d727d1a5f666d4dc8c0cccf6726237702d88f0e2",
+            "checksum": "45fba694b3b1a3eaa398aebb8a4bf91f8b9b894174c6fa3050388fa3c1d13164",
             "source": "https://github.com/bystritskiy/reUndr-ps5"
         },
         {
@@ -1068,15 +1082,15 @@
         {
             "name": "ORION Media Center",
             "filename": "PPSA99062.zip",
-            "url": "https://github.com/XeN-Made/Orion-Media-Center/releases/download/01.106.000/PPSA99062.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99062/01.106.000/PPSA99062.zip",
+            "url": "https://github.com/XeN-Made/Orion-Media-Center/releases/download/01.107.000/PPSA99062.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99062/01.107.000/PPSA99062.zip",
             "description": "A launcher that shows your PS5 and PS4 games, homebrew, media apps and emulated games in one library, with box art, tabs, themes and autoboot.",
-            "version": "01.106.000",
+            "version": "01.107.000",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99062",
             "author": "XeN-Made",
-            "checksum": "ec866caafcbc266e8eff2ab2f3d3d0adb41b74e4989c7c796438f53d90b0ab45",
+            "checksum": "e38f72806f902e661dd5687a2ba4a622f3b8e6f31bbddcd73d5f23dc93f61246",
             "source": "https://github.com/XeN-Made/Orion-Media-Center"
         },
         {
@@ -1348,15 +1362,15 @@
         {
             "name": "Prospero Hi-Fi",
             "filename": "PPSA99287.zip",
-            "url": "https://github.com/Anime0t4ku/Prospero-Hi-Fi/releases/download/v2.1.0/prospero-hifi.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99287/2.1.0/PPSA99287.zip",
+            "url": "https://github.com/Anime0t4ku/Prospero-Hi-Fi/releases/download/v2.2.0/prospero-hifi.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99287/2.2.0/PPSA99287.zip",
             "description": "A Music Player for hombrew enabled PS5 with lossless audio as the main focus. It's heavily based on my MiSTer Hi-FI project.",
-            "version": "2.1.0",
+            "version": "2.2.0",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99287",
             "author": "Anime0t4ku",
-            "checksum": "00d03ac08e78faedfe9ccdf1a8664b7afbd27dc76bcf92e04fd5dfc26e18293c",
+            "checksum": "9925a19f57a0666a3ecf681a4d339950dbdf16c09c2a2663a5a47f28d1958dc7",
             "source": "https://github.com/Anime0t4ku/Prospero-Hi-Fi"
         },
         {
@@ -1698,15 +1712,15 @@
         {
             "name": "Halo: Combat Evolved",
             "filename": "PPSA99500.zip",
-            "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-131/halo-ps5-release.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-131/PPSA99500.zip",
+            "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-132/halo-ps5-release.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-132/PPSA99500.zip",
             "description": "Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.",
-            "version": "build-131",
+            "version": "build-132",
             "category": "Games",
             "kind": "game",
             "titleid": "PPSA99500",
             "author": "thelinkin3000",
-            "checksum": "7e9dcf435720ae4196a855d66847b0c389db436b872fdd2edf38bd3afbf7d918",
+            "checksum": "41c938ee516346ba35bb739fe2e2679b74ab3bfc8db726af16684e5810fc4c07",
             "source": "https://github.com/thelinkin3000/halo-ce-universal"
         },
         {
@@ -1740,15 +1754,15 @@
         {
             "name": "Emby5",
             "filename": "PPSA99515.zip",
-            "url": "https://github.com/bornaradusin/Emby5/releases/download/1.2.11/Emby5-1.2.11.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99515/1.2.11/PPSA99515.zip",
+            "url": "https://github.com/bornaradusin/Emby5/releases/download/1.3.1/Emby5-1.3.1.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99515/1.3.1/PPSA99515.zip",
             "description": "A native Emby/Jellyfin client for PlayStation 5 with media playback, optional Seerr requests, IPTV and VOD",
-            "version": "1.2.11",
+            "version": "1.3.1",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99515",
             "author": "bornaradusin",
-            "checksum": "282a27ce332022936873b2d668ce22f27714b86adad281a056fa4d936f106473",
+            "checksum": "c5194742de8118cfce029535e9ddcf4819af5799bbdf84b3cdfe85571ff43339",
             "source": "https://github.com/bornaradusin/Emby5"
         },
         {
@@ -1810,15 +1824,15 @@
         {
             "name": "PS5LM",
             "filename": "PPSA99575.zip",
-            "url": "https://github.com/cobanov/PS5LM/releases/download/v0.10.0/ps5lm-app-v0.10.0.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99575/0.10.0/PPSA99575.zip",
+            "url": "https://github.com/cobanov/PS5LM/releases/download/v0.11.0/ps5lm-app-v0.11.0.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99575/0.11.0/PPSA99575.zip",
             "description": "Runs language and decision models on the PS5's GPU with llama.cpp and serves them to your network over OpenAI and Anthropic APIs. Decision models powered by Ollaya.",
-            "version": "0.10.0",
+            "version": "0.11.0",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99575",
             "author": "Mert Cobanov",
-            "checksum": "8def2d656d3b5bfb617d53e19d98b331518536d42d74a19f2262e3feed8926ca",
+            "checksum": "5421748f70080d212dfe99cfedb6bee3bc465eaea7883588497574490df5b42b",
             "source": "https://github.com/cobanov/PS5LM"
         },
         {
@@ -2426,15 +2440,15 @@
         {
             "name": "ProsperoWeb",
             "filename": "PRWB00001.zip",
-            "url": "https://github.com/kvaps/ProsperoWeb/releases/download/v0.2.0/PRWB00001.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PRWB00001/0.2.0/PRWB00001.zip",
+            "url": "https://github.com/kvaps/ProsperoWeb/releases/download/v0.2.1/PRWB00001.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PRWB00001/0.2.1/PRWB00001.zip",
             "description": "A WebKit web browser for the PS5, driven by the controller: tabs, bookmarks, video playback, an ad blocker and SponsorBlock.",
-            "version": "0.2.0",
+            "version": "0.2.1",
             "category": "Apps",
             "kind": "app",
             "titleid": "PRWB00001",
             "author": "kvaps",
-            "checksum": "77cfede8773b58650684a82e051d001bee0d2d9a864ae5dafb6004453ddc5b93",
+            "checksum": "687652cbc05c01db60410c357bc4322f05170de4829ace174d1d5628ba63b0b0",
             "source": "https://github.com/kvaps/ProsperoWeb"
         }
     ]

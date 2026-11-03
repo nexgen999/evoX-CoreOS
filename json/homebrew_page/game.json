@@ -44,6 +44,20 @@
       "source": "https://github.com/gmorb/source-port-ps5"
     },
     {
+      "name": "Subway Surfers",
+      "filename": "PPSA26370.zip",
+      "url": "https://github.com/ZiZc3/Hydroid/releases/download/1.0.0/PPSA26370.-.Subway.Surfers.v2.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA26370/1.0.0/PPSA26370.zip",
+      "description": "Subway Surfers for PS5 with its own controller support. Needs your own APK (3.70.3).",
+      "version": "1.0.0",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA26370",
+      "author": "AZiZ",
+      "checksum": "9ebec59650e915a98a0ce83ee5466edce29dd805a8700c176ca44020ed7955d8",
+      "source": "https://github.com/ZiZc3/Hydroid"
+    },
+    {
       "name": "Infinity Blade III",
       "filename": "PPSA26381.zip",
       "url": "https://github.com/ZiZc3/Infinity-Blade-PS5/releases/download/1.0.0/PPSA26381.-.Infinity.Blade.III.zip",
@@ -109,7 +123,7 @@
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA47402",
-      "author": "Andrei Kvapil",
+      "author": "kvaps",
       "checksum": "86e763fac842e90c48e54ddb4915ef517c5c17f37d4506574848e4e0a8aa51f5",
       "source": "https://github.com/kvaps/syobon-action-ps5"
     },
@@ -254,11 +268,11 @@
       "source": "https://github.com/bizkut/SavageWindRecomp"
     },
     {
-      "name": "SpeedBreaker",
+      "name": "SpeedBreaker (NFS: Most Wanted)",
       "filename": "PPSA90505.zip",
       "url": "https://github.com/bystritskiy/speedbreaker-ps5/releases/download/01.000.001/PPSA90505.zip",
       "local_path": "downloads/apps/homebrew_page/game/PPSA90505/01.000.001/PPSA90505.zip",
-      "description": "Need for Speed: Most Wanted (2005), the Xbox 360 version statically recompiled to run natively on PS5, in 4K at up to 60 fps (bring your own USA disc).",
+      "description": "Need for Speed: Most Wanted (2005), the Xbox 360 version statically recompiled to run natively on PS5. Bring your own disc.",
       "version": "01.000.001",
       "category": "Games",
       "kind": "game",
@@ -268,17 +282,17 @@
       "source": "https://github.com/bystritskiy/speedbreaker-ps5"
     },
     {
-      "name": "Xerenge - Burnout Revenge Recompiled",
+      "name": "Xerenge (Burnout Revenge)",
       "filename": "PPSA92006.zip",
-      "url": "https://github.com/bystritskiy/xerenge-ps5/releases/download/01.000.000/Xerenge-PS5-01.000.000.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA92006/01.000.000/PPSA92006.zip",
-      "description": "Burnout Revenge (Xbox 360), recompiled to run natively on PS5. Needs the files of your own USA disc.",
-      "version": "01.000.000",
+      "url": "https://github.com/bystritskiy/xerenge-ps5/releases/download/01.001.000/Xerenge-PS5-01.001.000.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA92006/01.001.000/PPSA92006.zip",
+      "description": "Burnout Revenge (Xbox 360), recompiled to run natively on PS5. Bring your own disc.",
+      "version": "01.001.000",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA92006",
       "author": "bystritskiy",
-      "checksum": "a0cb95875eddfc3cf4090a5558035db707b9ee75a88d2707c0480ca2b632e08f",
+      "checksum": "2f63e29b657f262fea5f40d183fca7749961142c3ea82d1758016c023456e475",
       "source": "https://github.com/bystritskiy/xerenge-ps5"
     },
     {
@@ -422,7 +436,7 @@
       "source": "https://github.com/SecondCoat/second-coat-london"
     },
     {
-      "name": "reSOT - The Sands of Time",
+      "name": "reSOT (Prince of Persia: The Sands of Time)",
       "filename": "PPSA99023.zip",
       "url": "https://github.com/bystritskiy/rePOP-ps5/releases/download/01.004.001/PPSA99023-01.004.001.zip",
       "local_path": "downloads/apps/homebrew_page/game/PPSA99023/01.004.001/PPSA99023.zip",
@@ -436,17 +450,17 @@
       "source": "https://github.com/bystritskiy/rePOP-ps5"
     },
     {
-      "name": "reUndr",
+      "name": "reUndr (NFS: Underground)",
       "filename": "PPSA99025.zip",
-      "url": "https://github.com/bystritskiy/reUndr-ps5/releases/download/01.000.000/PPSA99025-01.000.000.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99025/01.000.000/PPSA99025.zip",
-      "description": "Need for Speed: Underground, the Xbox version recompiled to run natively on PS5, in 4K at up to 60 fps (bring your own USA disc).",
-      "version": "01.000.000",
+      "url": "https://github.com/bystritskiy/reUndr-ps5/releases/download/01.001.000/PPSA99025-01.001.000.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99025/01.001.000/PPSA99025.zip",
+      "description": "Need for Speed: Underground, the Xbox version recompiled to run natively on PS5, in 4K at up to 60 fps. Bring your own disc.",
+      "version": "01.001.000",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99025",
       "author": "bystritskiy",
-      "checksum": "7050c94265d7df704aa29639d727d1a5f666d4dc8c0cccf6726237702d88f0e2",
+      "checksum": "45fba694b3b1a3eaa398aebb8a4bf91f8b9b894174c6fa3050388fa3c1d13164",
       "source": "https://github.com/bystritskiy/reUndr-ps5"
     },
     {
@@ -718,15 +732,15 @@
     {
       "name": "Halo: Combat Evolved",
       "filename": "PPSA99500.zip",
-      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-131/halo-ps5-release.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-131/PPSA99500.zip",
+      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-132/halo-ps5-release.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-132/PPSA99500.zip",
       "description": "Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.",
-      "version": "build-131",
+      "version": "build-132",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99500",
       "author": "thelinkin3000",
-      "checksum": "7e9dcf435720ae4196a855d66847b0c389db436b872fdd2edf38bd3afbf7d918",
+      "checksum": "41c938ee516346ba35bb739fe2e2679b74ab3bfc8db726af16684e5810fc4c07",
       "source": "https://github.com/thelinkin3000/halo-ce-universal"
     },
     {

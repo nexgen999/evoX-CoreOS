@@ -32,7 +32,7 @@
       <title>PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.</description>
-      <pubDate>2.1.4</pubDate>
+      <pubDate>2.2.1</pubDate>
     </item>
     <item>
       <title>Home5</title>
@@ -57,6 +57,12 @@
       <link>https://github.com/gmorb/source-port-ps5</link>
       <description>Native PS5 port of the Source engine that runs Half-Life 2 from your own steam_legacy game files, with sound and DualSense controls.</description>
       <pubDate>0.1.3-alpha</pubDate>
+    </item>
+    <item>
+      <title>Subway Surfers</title>
+      <link>https://github.com/ZiZc3/Hydroid</link>
+      <description>Subway Surfers for PS5 with its own controller support. Needs your own APK (3.70.3).</description>
+      <pubDate>1.0.0</pubDate>
     </item>
     <item>
       <title>Infinity Blade III</title>
@@ -104,7 +110,7 @@
       <title>ProsperoSunshine</title>
       <link>https://github.com/Darkatek7/ProsperoSunshine</link>
       <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio and controller input. Tested on firmware 13.00 and 10.20; others untested.</description>
-      <pubDate>0.1.7</pubDate>
+      <pubDate>0.1.9</pubDate>
     </item>
     <item>
       <title>SudokuZen</title>
@@ -188,13 +194,13 @@
       <title>Pixel Museum</title>
       <link>https://github.com/LoZazaMastro/Pixel-Museum</link>
       <description>An interactive museum of video game history and culture, with illustrated stories, soundtracks, collectible pins, playable experiences and creative workshops.</description>
-      <pubDate>0.1.4</pubDate>
+      <pubDate>0.1.5</pubDate>
     </item>
     <item>
       <title>Stremio Plus</title>
       <link>https://github.com/LoZazaMastro/Stremio-Plus</link>
       <description>Unofficial native Stremio client for PS5 with Prospero UI, add-on sync, torrent streaming, offline downloads, enhanced playback stability and sortable high-resolution download artwork.</description>
-      <pubDate>0.5.20</pubDate>
+      <pubDate>0.6.00</pubDate>
     </item>
     <item>
       <title>The Simpsons Game</title>
@@ -245,16 +251,16 @@
       <pubDate>ps5-v0.1.0</pubDate>
     </item>
     <item>
-      <title>SpeedBreaker</title>
+      <title>SpeedBreaker (NFS: Most Wanted)</title>
       <link>https://github.com/bystritskiy/speedbreaker-ps5</link>
-      <description>Need for Speed: Most Wanted (2005), the Xbox 360 version statically recompiled to run natively on PS5, in 4K at up to 60 fps (bring your own USA disc).</description>
+      <description>Need for Speed: Most Wanted (2005), the Xbox 360 version statically recompiled to run natively on PS5. Bring your own disc.</description>
       <pubDate>01.000.001</pubDate>
     </item>
     <item>
-      <title>Xerenge - Burnout Revenge Recompiled</title>
+      <title>Xerenge (Burnout Revenge)</title>
       <link>https://github.com/bystritskiy/xerenge-ps5</link>
-      <description>Burnout Revenge (Xbox 360), recompiled to run natively on PS5. Needs the files of your own USA disc.</description>
-      <pubDate>01.000.000</pubDate>
+      <description>Burnout Revenge (Xbox 360), recompiled to run natively on PS5. Bring your own disc.</description>
+      <pubDate>01.001.000</pubDate>
     </item>
     <item>
       <title>Capy Mobile</title>
@@ -308,7 +314,7 @@
       <title>MKWII Retro Rewind Patcher</title>
       <link>https://github.com/melvindevries/Retro-Rewind-PS5-Patcher</link>
       <description>Installs and updates Retro Rewind and patches your own Mario Kart Wii image directly on the console, with a controller.</description>
-      <pubDate>01.000.001</pubDate>
+      <pubDate>01.000.002</pubDate>
     </item>
     <item>
       <title>PokeMMO Prospero</title>
@@ -320,7 +326,7 @@
       <title>TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.193</pubDate>
+      <pubDate>01.000.195</pubDate>
     </item>
     <item>
       <title>CD Player</title>
@@ -425,16 +431,16 @@
       <pubDate>0.2.0</pubDate>
     </item>
     <item>
-      <title>reSOT - The Sands of Time</title>
+      <title>reSOT (Prince of Persia: The Sands of Time)</title>
       <link>https://github.com/bystritskiy/rePOP-ps5</link>
       <description>Prince of Persia: The Sands of Time, built from the reSOT recompilation of the Xbox game. Needs your own Xbox retail disc files.</description>
       <pubDate>01.004.001</pubDate>
     </item>
     <item>
-      <title>reUndr</title>
+      <title>reUndr (NFS: Underground)</title>
       <link>https://github.com/bystritskiy/reUndr-ps5</link>
-      <description>Need for Speed: Underground, the Xbox version recompiled to run natively on PS5, in 4K at up to 60 fps (bring your own USA disc).</description>
-      <pubDate>01.000.000</pubDate>
+      <description>Need for Speed: Underground, the Xbox version recompiled to run natively on PS5, in 4K at up to 60 fps. Bring your own disc.</description>
+      <pubDate>01.001.000</pubDate>
     </item>
     <item>
       <title>Forever Launcher</title>
@@ -464,7 +470,7 @@
       <title>ORION Media Center</title>
       <link>https://github.com/XeN-Made/Orion-Media-Center</link>
       <description>A launcher that shows your PS5 and PS4 games, homebrew, media apps and emulated games in one library, with box art, tabs, themes and autoboot.</description>
-      <pubDate>01.106.000</pubDate>
+      <pubDate>01.107.000</pubDate>
     </item>
     <item>
       <title>Mupen64Plus PS5</title>
@@ -584,7 +590,7 @@
       <title>Prospero Hi-Fi</title>
       <link>https://github.com/Anime0t4ku/Prospero-Hi-Fi</link>
       <description>A Music Player for hombrew enabled PS5 with lossless audio as the main focus. It's heavily based on my MiSTer Hi-FI project.</description>
-      <pubDate>2.1.0</pubDate>
+      <pubDate>2.2.0</pubDate>
     </item>
     <item>
       <title>Nuvio Max'd</title>
@@ -734,7 +740,7 @@
       <title>Halo: Combat Evolved</title>
       <link>https://github.com/thelinkin3000/halo-ce-universal</link>
       <description>Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.</description>
-      <pubDate>build-131</pubDate>
+      <pubDate>build-132</pubDate>
     </item>
     <item>
       <title>Jelly5</title>
@@ -752,7 +758,7 @@
       <title>Emby5</title>
       <link>https://github.com/bornaradusin/Emby5</link>
       <description>A native Emby/Jellyfin client for PlayStation 5 with media playback, optional Seerr requests, IPTV and VOD</description>
-      <pubDate>1.2.11</pubDate>
+      <pubDate>1.3.1</pubDate>
     </item>
     <item>
       <title>Régie5</title>
@@ -782,7 +788,7 @@
       <title>PS5LM</title>
       <link>https://github.com/cobanov/PS5LM</link>
       <description>Runs language and decision models on the PS5's GPU with llama.cpp and serves them to your network over OpenAI and Anthropic APIs. Decision models powered by Ollaya.</description>
-      <pubDate>0.10.0</pubDate>
+      <pubDate>0.11.0</pubDate>
     </item>
     <item>
       <title>PS5SD</title>
@@ -1046,7 +1052,7 @@
       <title>ProsperoWeb</title>
       <link>https://github.com/kvaps/ProsperoWeb</link>
       <description>A WebKit web browser for the PS5, driven by the controller: tabs, bookmarks, video playback, an ad blocker and SponsorBlock.</description>
-      <pubDate>0.2.0</pubDate>
+      <pubDate>0.2.1</pubDate>
     </item>
   </channel>
 </rss>
