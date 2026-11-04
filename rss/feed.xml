@@ -1139,9 +1139,9 @@
       <pubDate>0.10.0-beta.1</pubDate>
     </item>
     <item>
-      <title>[ProsperoStore] Parasite Eve - Game Test</title>
+      <title>[ProsperoStore] Parasite Eve</title>
       <link>https://github.com/GUMMIBRI/parasite-eve-ps5</link>
-      <description>Native PS5 beta port of Parasite Eve requiring user-supplied game data; experimental checkpoints.</description>
+      <description>Native PS5 beta port of Parasite Eve requiring user-supplied game data. Save states coming soon; normal memory-card saves supported.</description>
       <pubDate>0.1.1</pubDate>
     </item>
     <item>
@@ -1237,7 +1237,7 @@
     <item>
       <title>[ProsperoStore] ProsperoSunshine</title>
       <link>https://github.com/Darkatek7/ProsperoSunshine</link>
-      <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio and controller input. Tested on firmware 13.00 and 10.20; others untested.</description>
+      <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.</description>
       <pubDate>0.2.2</pubDate>
     </item>
     <item>
@@ -1322,7 +1322,7 @@
       <title>[ProsperoStore] Pixel Museum</title>
       <link>https://github.com/LoZazaMastro/Pixel-Museum</link>
       <description>An interactive museum of video game history and culture, with illustrated stories, soundtracks, collectible pins, playable experiences and creative workshops.</description>
-      <pubDate>0.1.5</pubDate>
+      <pubDate>0.1.6</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Stremio Plus</title>
@@ -1454,7 +1454,7 @@
       <title>[ProsperoStore] TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.196</pubDate>
+      <pubDate>01.000.197</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] CD Player</title>
@@ -1898,7 +1898,7 @@
       <title>[ProsperoStore] isShelf</title>
       <link>https://github.com/Iswebro/console-shelf-ps5</link>
       <description>A native PS5 library front end with 52 system categories, saved layouts and clearly labelled emulator launch routes.</description>
-      <pubDate>v0.1.0-beta.1</pubDate>
+      <pubDate>v0.1.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] TokenStation5</title>

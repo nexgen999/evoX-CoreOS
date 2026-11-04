@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 04/11/2026 à 05:06
+* **HOMEBREW_PAGE**
+  * `Parasite Eve` (0.1.1) - *Nouveau*
+  * `Pixel Museum` (0.1.6) - *Mise à jour (Précédent: 0.1.5)*
+  * `TubeBlock` (01.000.197) - *Mise à jour (Précédent: 01.000.196)*
+  * `isShelf` (v0.1.1) - *Mise à jour (Précédent: v0.1.0-beta.1)*
+
 ## Build du 03/11/2026 à 23:20
 * **PAYLOADS**
   * `Cheatrunner V0.18` (CheatRunner) - *Mise à jour (Précédent: v0.18)*

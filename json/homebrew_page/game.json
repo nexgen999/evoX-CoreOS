@@ -16,11 +16,11 @@
       "source": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless"
     },
     {
-      "name": "Parasite Eve - Game Test",
+      "name": "Parasite Eve",
       "filename": "PEVG00022.zip",
       "url": "https://github.com/GUMMIBRI/parasite-eve-ps5/releases/download/v0.1.1/Parasite-Eve-PS5-v0.1.1-8310-asset-free.zip",
       "local_path": "downloads/apps/homebrew_page/game/PEVG00022/0.1.1/PEVG00022.zip",
-      "description": "Native PS5 beta port of Parasite Eve requiring user-supplied game data; experimental checkpoints.",
+      "description": "Native PS5 beta port of Parasite Eve requiring user-supplied game data. Save states coming soon; normal memory-card saves supported.",
       "version": "0.1.1",
       "category": "Games",
       "kind": "game",

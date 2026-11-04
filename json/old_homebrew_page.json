@@ -30,11 +30,11 @@
             "source": "https://github.com/leolobato/playden-ps5"
         },
         {
-            "name": "Parasite Eve - Game Test",
+            "name": "Parasite Eve",
             "filename": "PEVG00022.zip",
             "url": "https://github.com/GUMMIBRI/parasite-eve-ps5/releases/download/v0.1.1/Parasite-Eve-PS5-v0.1.1-8310-asset-free.zip",
             "local_path": "downloads/apps/homebrew_page/game/PEVG00022/0.1.1/PEVG00022.zip",
-            "description": "Native PS5 beta port of Parasite Eve requiring user-supplied game data; experimental checkpoints.",
+            "description": "Native PS5 beta port of Parasite Eve requiring user-supplied game data. Save states coming soon; normal memory-card saves supported.",
             "version": "0.1.1",
             "category": "Games",
             "kind": "game",
@@ -258,7 +258,7 @@
             "filename": "PPSA47989.zip",
             "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.2.2/PPSA47989.zip",
             "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.2.2/PPSA47989.zip",
-            "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio and controller input. Tested on firmware 13.00 and 10.20; others untested.",
+            "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.",
             "version": "0.2.2",
             "category": "Apps",
             "kind": "app",
@@ -452,15 +452,15 @@
         {
             "name": "Pixel Museum",
             "filename": "PPSA70421.zip",
-            "url": "https://github.com/LoZazaMastro/Pixel-Museum/releases/download/v0.1.5/PPSA70421.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA70421/0.1.5/PPSA70421.zip",
+            "url": "https://github.com/LoZazaMastro/Pixel-Museum/releases/download/v0.1.6/PPSA70421.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA70421/0.1.6/PPSA70421.zip",
             "description": "An interactive museum of video game history and culture, with illustrated stories, soundtracks, collectible pins, playable experiences and creative workshops.",
-            "version": "0.1.5",
+            "version": "0.1.6",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA70421",
             "author": "LoZazaMastro",
-            "checksum": "532e9f88fc2453034e30c5ecb1a932900122bba69867f381f7bce567621e46da",
+            "checksum": "e82219f440dae3661796ca8176ee5e18dd36c004a8fa27843ec9f49d6d2d0ea8",
             "source": "https://github.com/LoZazaMastro/Pixel-Museum"
         },
         {
@@ -760,15 +760,15 @@
         {
             "name": "TubeBlock",
             "filename": "PPSA98260.zip",
-            "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.196/SmartTube-PPSA98260.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.196/PPSA98260.zip",
+            "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.197/SmartTube-PPSA98260.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.197/PPSA98260.zip",
             "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
-            "version": "01.000.196",
+            "version": "01.000.197",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA98260",
             "author": "animatian112",
-            "checksum": "aad313ad4fa8c72e14efff203a4f79ea2b0ec45faf3af2d37568b876c9ed799a",
+            "checksum": "8dc125ed097ab092941e3d8e3e4d63e673ac9aa6aeb3ced255a085b63a7a6999",
             "source": "https://github.com/animatian112/ytps5-sponsorblock"
         },
         {
@@ -1796,15 +1796,15 @@
         {
             "name": "isShelf",
             "filename": "PPSA99541.zip",
-            "url": "https://github.com/Iswebro/console-shelf-ps5/releases/download/v0.1.0-beta.1/PPSA99541.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99541/v0.1.0-beta.1/PPSA99541.zip",
+            "url": "https://github.com/Iswebro/console-shelf-ps5/releases/download/v0.1.1/PPSA99541.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99541/v0.1.1/PPSA99541.zip",
             "description": "A native PS5 library front end with 52 system categories, saved layouts and clearly labelled emulator launch routes.",
-            "version": "v0.1.0-beta.1",
+            "version": "v0.1.1",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99541",
             "author": "Iswebro",
-            "checksum": "4cca4e0c05b58b74733f8bc4392ba5b26bbd05232dde41932be11093a4ab91d6",
+            "checksum": "4e3ee2b5932f72c01ffe267a3e333d447a8e49f13be53ce08446b31cd165cc5b",
             "source": "https://github.com/Iswebro/console-shelf-ps5"
         },
         {
