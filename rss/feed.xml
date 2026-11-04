@@ -329,10 +329,10 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Payloads] Garlic-Savemgr V1.15-Beta1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta1/garlic-savemgr_v1.15-beta1.elf</link>
+      <title>[Payloads] Garlic-Savemgr V1.15-Beta2</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta2/garlic-savemgr_v1.15-beta2.elf</link>
       <description>Save manager utility hosted on Forgejo.</description>
-      <pubDate>v1.15-beta1</pubDate>
+      <pubDate>v1.15-beta2</pubDate>
     </item>
     <item>
       <title>[Payloads] Garlic-Worker V1.1.8</title>
@@ -360,9 +360,9 @@
     </item>
     <item>
       <title>[Payloads] Orbit Store</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.8.4/orbit_store.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.8.5/orbit_store.elf</link>
       <description>A modern, no-BS download manager for PS5.</description>
-      <pubDate>v1.8.4</pubDate>
+      <pubDate>v1.8.5</pubDate>
     </item>
     <item>
       <title>[Payloads] Etahen V2.5B</title>
@@ -1166,7 +1166,7 @@
       <title>[ProsperoStore] PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.</description>
-      <pubDate>2.2.5</pubDate>
+      <pubDate>2.3.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Home5</title>
@@ -1244,7 +1244,7 @@
       <title>[ProsperoStore] ProsperoSunshine</title>
       <link>https://github.com/Darkatek7/ProsperoSunshine</link>
       <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.</description>
-      <pubDate>0.2.4</pubDate>
+      <pubDate>0.3.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] SudokuZen</title>
@@ -1328,7 +1328,7 @@
       <title>[ProsperoStore] Pixel Museum</title>
       <link>https://github.com/LoZazaMastro/Pixel-Museum</link>
       <description>An interactive museum of video game history and culture, with illustrated stories, soundtracks, collectible pins, playable experiences and creative workshops.</description>
-      <pubDate>0.1.6</pubDate>
+      <pubDate>0.1.8</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Stremio Plus</title>
@@ -1382,7 +1382,7 @@
       <title>[ProsperoStore] Breath of the Wild</title>
       <link>https://github.com/bizkut/SavageWindRecomp</link>
       <description>Native PS5 port of the Savage Wind recompilation with frame generation, FSR 3.1 and HDR. Requires your own game files and keys.</description>
-      <pubDate>ps5-v0.1.0</pubDate>
+      <pubDate>ps5-v0.2.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] SpeedBreaker (NFS: Most Wanted)</title>
@@ -1577,16 +1577,22 @@
       <pubDate>01.001.000</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] reUndr 2 (NFS: Underground 2)</title>
+      <link>https://github.com/bystritskiy/reUndr2-ps5</link>
+      <description>Need for Speed: Underground 2, the Xbox version recompiled to run natively on PS5, in 4K at up to 60 fps. Bring your own disc.</description>
+      <pubDate>01.000.000</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] Forever Launcher</title>
       <link>https://github.com/bizkut/ps5-forever</link>
       <description>Battle.net launcher for World of Warcraft (Retail, Classic and Forever) with a built-in add-on manager; press Options for the Forever menu and L3+R3 for the on-screen keyboard.</description>
-      <pubDate>01.000.023</pubDate>
+      <pubDate>01.000.024</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] EVO Player</title>
       <link>https://github.com/sainsaji/EVO-PLAYER-PS5</link>
       <description>Media player for PS5 that plays video from USB or internal storage, with hardware decoding up to 4K, 10-bit HDR and surround audio.</description>
-      <pubDate>0.13.0</pubDate>
+      <pubDate>0.13.5</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Surround Sound Studio</title>
@@ -1670,7 +1676,7 @@
       <title>[ProsperoStore] MihawkOS</title>
       <link>https://github.com/mihawk-99/PS5_MihawkOS</link>
       <description>A Windows-inspired PS5 homebrew OS bringing 32-bit and 64-bit Windows gaming to console hardware through a custom Wine/Proton compatibility stack and native Vulkan graphics.</description>
-      <pubDate>8.0.0-alpha-8</pubDate>
+      <pubDate>8.1.0-alpha-8</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PKG Folderizer</title>
@@ -2090,7 +2096,7 @@
       <title>[ProsperoStore] PSBox Cloud Gaming</title>
       <link>https://github.com/RafaelNGP/xbox-cloud-gaming-ps5</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
-      <pubDate>1.5.5</pubDate>
+      <pubDate>1.6.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Estante</title>
@@ -2108,7 +2114,7 @@
       <title>[ProsperoStore] ProsperoCraft</title>
       <link>https://github.com/mateo-cogeanu/ProsperoCraft</link>
       <description>Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.</description>
-      <pubDate>01.000.204</pubDate>
+      <pubDate>01.000.212</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Genesis Plus GX PS5</title>
@@ -2156,7 +2162,7 @@
       <title>[ProsperoStore] YouTube Max’d</title>
       <link>https://github.com/HandshakeHackin/youtube-maxd</link>
       <description>Standalone PS5 YouTube client based on ProsperoTube, with local voice search, Smart playlists, adaptive quality and red/white DualSense effects.</description>
-      <pubDate>1.5.0</pubDate>
+      <pubDate>1.6.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Pulse</title>

@@ -284,15 +284,15 @@
     {
       "name": "Breath of the Wild",
       "filename": "PPSA90212.zip",
-      "url": "https://github.com/bizkut/SavageWindRecomp/releases/download/ps5-v0.1.0/SavageWind-PS5-ps5-v0.1.0.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA90212/ps5-v0.1.0/PPSA90212.zip",
+      "url": "https://github.com/bizkut/SavageWindRecomp/releases/download/ps5-v0.2.1/SavageWind-PS5-ps5-v0.2.1.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA90212/ps5-v0.2.1/PPSA90212.zip",
       "description": "Native PS5 port of the Savage Wind recompilation with frame generation, FSR 3.1 and HDR. Requires your own game files and keys.",
-      "version": "ps5-v0.1.0",
+      "version": "ps5-v0.2.1",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA90212",
       "author": "bizkut",
-      "checksum": "445d09ec6467acd75d97236362012b488cac0a8891af4bfc718ce28867a0b3ba",
+      "checksum": "81b10bef7062b85194ceed1556c1dd7a01e84f7c4fca568c9237ab6d2da17f00",
       "source": "https://github.com/bizkut/SavageWindRecomp"
     },
     {
@@ -490,6 +490,20 @@
       "author": "bystritskiy",
       "checksum": "45fba694b3b1a3eaa398aebb8a4bf91f8b9b894174c6fa3050388fa3c1d13164",
       "source": "https://github.com/bystritskiy/reUndr-ps5"
+    },
+    {
+      "name": "reUndr 2 (NFS: Underground 2)",
+      "filename": "PPSA99027.zip",
+      "url": "https://github.com/bystritskiy/reUndr2-ps5/releases/download/01.000.000/PPSA99027-01.000.000.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99027/01.000.000/PPSA99027.zip",
+      "description": "Need for Speed: Underground 2, the Xbox version recompiled to run natively on PS5, in 4K at up to 60 fps. Bring your own disc.",
+      "version": "01.000.000",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99027",
+      "author": "bystritskiy",
+      "checksum": "072e5020a19e3533332efcde70d2980f4ba837af035d6caa35a3e26f1231154b",
+      "source": "https://github.com/bystritskiy/reUndr2-ps5"
     },
     {
       "name": "Lost Odyssey",
@@ -1012,15 +1026,15 @@
     {
       "name": "ProsperoCraft",
       "filename": "PPSA99874.zip",
-      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.204/PPSA99874.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.204/PPSA99874.zip",
+      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.212/PPSA99874.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.212/PPSA99874.zip",
       "description": "Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.",
-      "version": "01.000.204",
+      "version": "01.000.212",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99874",
       "author": "mateo-cogeanu",
-      "checksum": "89167d01c7da0ece733b0dd8b7871a05ee38ff5f79ee45b4ce9beefc5d4c14a0",
+      "checksum": "d97e530ea67838ef806e8fa88731d399aa9ce1ae661b091daff5eaacfe3f75a7",
       "source": "https://github.com/mateo-cogeanu/ProsperoCraft"
     },
     {

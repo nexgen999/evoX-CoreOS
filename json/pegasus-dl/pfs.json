@@ -3,6 +3,52 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA08668",
+      "title": "Final Fantasy Rebirth",
+      "createdAt": "2026-11-04T22:39:22.201Z",
+      "version": "1.080",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/ff75d4a7bd97e4ecd1e922df0b7a44f56f30cb3e680f44472dbe8ada9dc29a9c",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/816f5916442beae8d282d32b687dca78e1e48b85b83ce5480629e41be354969f",
+      "description": "Format: LZ4\n※ FINAL FANTASY VII REBIRTH Digital Deluxe Edition, which includes FINAL FANTASY VII REBIRTH and digital content, is also available for purchase. Please be mindful of duplicate purchases. The Unknown Journey Continues... After escaping from the dystopian city of Midgar, Cloud and his friends set out on a journey across the planet. New adventures await in a vibrant and vast world – sprint across grassy plains on a Chocobo and explore expansive environments. An Expansive World As the party searches for Sephiroth, you will explore the beautiful, expansive regions of the world and open up new areas to discover. Dig deeper into the world of FINAL FANTASY VII with rewarding side content and mini-games, plus various unique forms of transportation to navigate the world. An Evolved Battle System Combine strategic thinking with thrilling action combat alongside your comrades, including newly added characters. Deepen their relationships to unleash powerful team-based combos . Beyond the Walls of Fate In this standalone adventure for fans and newcomers, Cloud and his comrades venture across the planet, their fates unwritten, making each step outside the dystopian city of Midgar fresh and mysterious. -------- FINAL FANTASY VII REBIRTH is the highly anticipated new story in the FINAL FANTASY VII remake project, a reimagining of the iconic original game into three standalone titles by its original creators. In this game, players will enjoy various new elements as the story unfolds, culminating in the party’s journey to “The Forgotten Capital” from the original FINAL FANTASY VII. ---------------- Those who own save data* from the following titles will be eligible to receive this special offer. ”FINAL FANTASY VII REMAKE” (PS4 / PS5) • Summon Materia: Leviathan FINAL FANTASY VII REMAKE EPISODE INTERmission • Summon Materia: Ramuh *Save data must be saved on the PS5 console. -------------- FINAL FANTASY VII REBIRTH Supported Languages: • Voice: Japanese, English, French, German • Subtitles: Japanese, English, French, German, Italian, Spanish, Brazilian Portuguese, Latin American Spanish\nRegion: USA to EUR Langs\nFirmware: 9.xx+\nAPR: apr-emu-v0.4.2.1\nUpdated: 2026-11-04T22:31:06.768Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "LZ4 · Viki - pt.1",
+          "url": "https://vikingfile.com/f/RRI0QyrDHC"
+        },
+        {
+          "name": "LZ4 · Viki - pt.2",
+          "url": "https://vikingfile.com/f/iXgtH64Msc"
+        },
+        {
+          "name": "LZ4 · Viki - pt.3",
+          "url": "https://vikingfile.com/f/iOYiZtGlyW"
+        },
+        {
+          "name": "LZ4 · Viki - pt.4",
+          "url": "https://vikingfile.com/f/FPv1i3byC1"
+        },
+        {
+          "name": "LZ4 · Viki - pt.5",
+          "url": "https://vikingfile.com/f/BqkxVIsa8Q"
+        },
+        {
+          "name": "LZ4 · Viki - pt.6",
+          "url": "https://vikingfile.com/f/37g9bBQQY4"
+        },
+        {
+          "name": "LZ4 · Viki - pt.7",
+          "url": "https://vikingfile.com/f/c2iIBQa3UC"
+        },
+        {
+          "name": "LZ4 · Viki - pt.8",
+          "url": "https://vikingfile.com/f/4bbzU22gVJ"
+        }
+      ],
+      "sizeBytes": 207232172032
+    },
+    {
       "titleId": "PPSA08709",
       "title": "Silent Hill 2",
       "createdAt": "2026-10-16T21:48:35.923Z",

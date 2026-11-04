@@ -329,10 +329,10 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>Garlic-Savemgr V1.15-Beta1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta1/garlic-savemgr_v1.15-beta1.elf</link>
+      <title>Garlic-Savemgr V1.15-Beta2</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta2/garlic-savemgr_v1.15-beta2.elf</link>
       <description>Save manager utility hosted on Forgejo.</description>
-      <pubDate>v1.15-beta1</pubDate>
+      <pubDate>v1.15-beta2</pubDate>
     </item>
     <item>
       <title>Garlic-Worker V1.1.8</title>
@@ -360,9 +360,9 @@
     </item>
     <item>
       <title>Orbit Store</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.8.4/orbit_store.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.8.5/orbit_store.elf</link>
       <description>A modern, no-BS download manager for PS5.</description>
-      <pubDate>v1.8.4</pubDate>
+      <pubDate>v1.8.5</pubDate>
     </item>
     <item>
       <title>Etahen V2.5B</title>

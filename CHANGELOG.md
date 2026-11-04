@@ -1,5 +1,22 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 04/11/2026 à 23:29
+* **PAYLOADS**
+  * `Garlic-Savemgr V1.15-Beta2` (v1.15-beta2) - *Nouveau*
+  * `Orbit Store` (v1.8.5) - *Mise à jour (Précédent: v1.8.4)*
+* **HOMEBREW_PAGE**
+  * `PC5` (2.3.0) - *Mise à jour (Précédent: 2.2.5)*
+  * `ProsperoSunshine` (0.3.1) - *Mise à jour (Précédent: 0.2.4)*
+  * `Pixel Museum` (0.1.8) - *Mise à jour (Précédent: 0.1.6)*
+  * `Breath of the Wild` (ps5-v0.2.1) - *Mise à jour (Précédent: ps5-v0.1.0)*
+  * `reUndr 2 (NFS: Underground 2)` (01.000.000) - *Nouveau*
+  * `Forever Launcher` (01.000.024) - *Mise à jour (Précédent: 01.000.023)*
+  * `EVO Player` (0.13.5) - *Mise à jour (Précédent: 0.13.0)*
+  * `MihawkOS` (8.1.0-alpha-8) - *Mise à jour (Précédent: 8.0.0-alpha-8)*
+  * `PSBox Cloud Gaming` (1.6.0) - *Mise à jour (Précédent: 1.5.5)*
+  * `ProsperoCraft` (01.000.212) - *Mise à jour (Précédent: 01.000.204)*
+  * `YouTube Max’d` (1.6.0) - *Mise à jour (Précédent: 1.5.0)*
+
 ## Build du 04/11/2026 à 14:13
 * **PAYLOADS**
   * `Garlic-Worker V1.1.8` (v1.1.8) - *Nouveau*

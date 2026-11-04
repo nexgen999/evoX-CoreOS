@@ -461,7 +461,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "8ea3d9765e673b37c81bedd9ee63facd6b4febb42cd823dc46172cc74c8c315a",
+      "checksum": "d6a3f84b7998c275944f96a87de7fddd746f9c32733bae8b1940c994ef0ba3f5",
       "source": "https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf"
     },
     {
@@ -586,14 +586,14 @@
       "source": "https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/PS5_Beta/a53_ppr/a53_ppr_install_1160_20.09.elf"
     },
     {
-      "name": "Garlic-Savemgr V1.15-Beta1",
-      "filename": "garlic-savemgr_v1.15-beta1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta1/garlic-savemgr_v1.15-beta1.elf",
-      "local_path": "payloads/ps5_saves/garlic-savemgr/v1.15-beta1/garlic-savemgr_v1.15-beta1.elf",
+      "name": "Garlic-Savemgr V1.15-Beta2",
+      "filename": "garlic-savemgr_v1.15-beta2.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta2/garlic-savemgr_v1.15-beta2.elf",
+      "local_path": "payloads/ps5_saves/garlic-savemgr/v1.15-beta2/garlic-savemgr_v1.15-beta2.elf",
       "description": "Save manager utility hosted on Forgejo.",
-      "version": "v1.15-beta1",
+      "version": "v1.15-beta2",
       "category": "PS5 Saves",
-      "checksum": "9777e49916968b5327be9d3799d25f1d3b810d3c853c448d38c8bbd120124787",
+      "checksum": "f3733b5ee291fb89dd515b659f34273dad437e054b8abb50a1d7f69d812c11b3",
       "source": "https://git.etawen.dev/earthonion/garlic-savemgr/releases"
     },
     {
@@ -643,12 +643,12 @@
     {
       "name": "Orbit Store",
       "filename": "orbit_store.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.8.4/orbit_store.elf",
-      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.8.4/orbit_store.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.8.5/orbit_store.elf",
+      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.8.5/orbit_store.elf",
       "description": "A modern, no-BS download manager for PS5.",
-      "version": "v1.8.4",
+      "version": "v1.8.5",
       "category": "PS5 Freeshop",
-      "checksum": "a2ece507fdc835d72671820a6da30c3e2f92391a85da10e5f14130b5dbc2c596",
+      "checksum": "935f81956acd3acba876977057c2ce77ded6a7fc72a98fd821cba2d1765e1f77",
       "source": "https://github.com/saawant12/orbit-store-ps5/releases"
     },
     {
