@@ -4,8 +4,8 @@
     <title>PS5 Store Feeds - Fichiers FFPFSC</title>
   </head>
   <body>
-    <outline text="Evoplayer-V0.13.0-Ppsa99039-Pro" title="Evoplayer-V0.13.0-Ppsa99039-Pro" type="rss" xmlUrl="https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.13.0/EVOPlayer-v0.13.0-PPSA99039-pro.ffpfsc" description="A media player for jailbroken PS5"/>
-    <outline text="Evoplayer-V0.13.0-Ppsa99039" title="Evoplayer-V0.13.0-Ppsa99039" type="rss" xmlUrl="https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.13.0/EVOPlayer-v0.13.0-PPSA99039.ffpfsc" description="A media player for jailbroken PS5"/>
+    <outline text="Evoplayer-V0.13.5-Ppsa99039-Pro" title="Evoplayer-V0.13.5-Ppsa99039-Pro" type="rss" xmlUrl="https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.13.5/EVOPlayer-v0.13.5-PPSA99039-pro.ffpfsc" description="A media player for jailbroken PS5"/>
+    <outline text="Evoplayer-V0.13.5-Ppsa99039" title="Evoplayer-V0.13.5-Ppsa99039" type="rss" xmlUrl="https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.13.5/EVOPlayer-v0.13.5-PPSA99039.ffpfsc" description="A media player for jailbroken PS5"/>
     <outline text="Prospero Radio" title="Prospero Radio" type="rss" xmlUrl="https://github.com/RastaFairy/Prospero_Radio_Vulkan/releases/download/02.000.055/PROSPERO_RADIO.ffpfsc" description="An internet radio for PS5 with a real radio face — rendered with Vulkan."/>
   </body>
 </opml>

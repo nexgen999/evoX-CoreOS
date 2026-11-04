@@ -3,6 +3,266 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA30391",
+      "title": "Alien Rogue Incursion Evolved Part One Deluxe Edition",
+      "createdAt": "2026-11-04T11:27:36.796Z",
+      "version": "v01.000.009",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA30391_5020c9633c903265375b1e3c19005c2b6def9078604ff6ae21ea27d1a4339fe4/icon0.webp",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA30391, v01.000.009, EUR, 4.xx BackPort\nSize: 58GB\nCredits: Files: Desesperado3; Backport: DecKerr97 GUI; DLC: Pippo\nHow to play: Note: Own ZTSD Extractor. FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/ns2v02vllypu/DLCs_Pippo.rar"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://datavaults.co/pj1myjyi65rd/DLCs_Pippo.rar"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/yrkjgorv2hhs/PPSA30391.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/asnl7ccw82yh/PPSA30391.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/M2BGwLR5pmj4/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/3gKfRyt8eK"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/2WVGrWjZgmkx/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/80UsXeBudg"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/ixf28r4npa58/PPSA30391-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/wffd4sfkosgj/PPSA30391-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 62277025792
+    },
+    {
+      "titleId": "PPSA25212",
+      "title": "RetroRealms",
+      "createdAt": "2026-11-04T11:27:36.796Z",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/5394681535e9d30fbf7fbb12b062a5b50f7eb6e9c2b4868965ea11e1ca638501",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/a4aeaa3919ad459b5c6e9777f3a5cc75e5607b6ae9c58a3cc327d1a9f84d1c4a",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA25212, v01.000, EUR, 4.xx BackPort\nSize: 1GB\nCredits: Files: Scene; Backport: DecKerr97 GUI; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 9.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/lrluekanl9km/DLCs_Pippo.rar"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://datavaults.co/48wpkm88ho49/DLCs_Pippo.rar"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/6vzlgfvnuke1/PPSA25212.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/xkqkhj4emp16/PPSA25212.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/qLQ36X9MlG19/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/WhQvPlWWOM"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/gXeGOeP6j3Aa/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/MUGAYQZsB8"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/du98kim5ka8d/PPSA25212-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/lui5vxk5mdug/PPSA25212-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 1073741824
+    },
+    {
+      "titleId": "PPSA21120",
+      "title": "White Day 2 The Flower That Tells Lies Complete Edition",
+      "createdAt": "2026-11-04T11:27:36.796Z",
+      "version": "v01.000.103",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA21120_35512c1ae587227106947d70283d95d6847a16ccca3ef54f15536e6efa07a962/icon0.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA21120, v01.000.103, USA, DLCs Merged, 4.xx BackPort\nSize: 19GB\nCredits: Files: ChestCakes; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 8.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/lw7c24bhn567/PPSA21120.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/4nfl1j2ec02h/PPSA21120.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/N2p3Ddvr23Ma/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/UXZhKPiKnZ"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/0rpmv1keyGRg/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/Y0LN03aYpQ"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/x4rftc6jam5s/PPSA21120-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/w1j0x1oca357/PPSA21120-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 20401094656
+    },
+    {
+      "titleId": "PPSA18543",
+      "title": "The Sinking City 2 Premium Edition",
+      "createdAt": "2026-11-04T11:27:36.796Z",
+      "version": "v01.000.003",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/88eb4fa3c6034496eebf0ff9f6917d1c741e89a85d56080f9692b4e43059d3f2",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/7d3e800e9d9994251710da3fd23eb28d986af0fd648b07560f6b705b06363c57",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA18543, v01.000.003, EUR, 4.xx BackPort + 5.xx BackPort\nSize: 90GB\nCredits: Files: b0mba1992; Backport: DecKerr97 GUI; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: 5.xx BackPort already included on Base, 4.xx BackPort Only, Pro Fix &amp; Original Files PKG included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/gpnbv0ddl56c/DLCs_Pippo.rar"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://datavaults.co/rupc1v0mmvyn/DLCs_Pippo.rar"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/7ts1t0vec4wa/PPSA18543.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/nfqi33g6if3z/PPSA18543.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/b5OzdkqE93B8/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/2if5GSpkuH"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/9QWmpWJkJGEB/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/r8l04NtbPk"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/72c35qu2fr3y/PPSA18543-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/9eb6yn0emdy0/PPSA18543-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 96636764160
+    },
+    {
+      "titleId": "PPSA01772",
+      "title": "The Sinking City Remastered Deluxe Edition",
+      "createdAt": "2026-11-04T11:27:36.796Z",
+      "version": "v01.004",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/6f9553851bb98d7f7f177868e3ee9e28a35957909a2dd2bbe798c3bdc2c317f1",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/6b90138485679042087e55904d202d8ca0795ce72222abb518a2a437acd07653",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA01772, v01.004, EUR, 4.xx BackPort\nSize: 66GB\nCredits: Files: Scene; Backport: DecKerr97 GUI; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, Pro Fix &amp; Original Files PKG included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/e9q4r9jkdq9z/DLCs_Pippo.rar"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://datavaults.co/dib1r02679ib/DLCs_Pippo.rar"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/vk8lwnqkf4n7/PPSA01772.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/ne0qhp71dbgs/PPSA01772.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/RMKGJWBjLm1o/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/ow8hzZB7p3"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/l5YzMejb9zyO/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/wVArezz31m"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/9abgb66yyjbi/PPSA01772-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/o0c42vt0krt1/PPSA01772-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 70866960384
+    },
+    {
       "titleId": "PPSA36082",
       "title": "Hades 2",
       "createdAt": "2026-11-03T12:59:17.830Z",

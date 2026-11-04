@@ -13,14 +13,14 @@
       "source": "https://git.etawen.dev/earthonion/garlic-savemgr/releases"
     },
     {
-      "name": "Garlic-Worker V1.1.7",
-      "filename": "garlic-worker_v1.1.7.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.1.7/garlic-worker_v1.1.7.elf",
-      "local_path": "payloads/ps5_saves/garlic-worker/v1.1.7/garlic-worker_v1.1.7.elf",
+      "name": "Garlic-Worker V1.1.8",
+      "filename": "garlic-worker_v1.1.8.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.1.8/garlic-worker_v1.1.8.elf",
+      "local_path": "payloads/ps5_saves/garlic-worker/v1.1.8/garlic-worker_v1.1.8.elf",
       "description": "Garlic worker payload component.",
-      "version": "v1.1.7",
+      "version": "v1.1.8",
       "category": "PS5 Saves",
-      "checksum": "2643f35cdfe9969cf775220dc4a65bc4ff0d08750c39bfb714b74dbbf29cd396",
+      "checksum": "7d50cfca84e2f456e1b0bd6e60ab2291e81fdeeb04e7816fbf900b2dba3b69db",
       "source": "https://git.etawen.dev/earthonion/garlic-worker/releases"
     },
     {

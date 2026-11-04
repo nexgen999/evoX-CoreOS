@@ -335,10 +335,10 @@
       <pubDate>v1.15-beta1</pubDate>
     </item>
     <item>
-      <title>Garlic-Worker V1.1.7</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.1.7/garlic-worker_v1.1.7.elf</link>
+      <title>Garlic-Worker V1.1.8</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.1.8/garlic-worker_v1.1.8.elf</link>
       <description>Garlic worker payload component.</description>
-      <pubDate>v1.1.7</pubDate>
+      <pubDate>v1.1.8</pubDate>
     </item>
     <item>
       <title>Savemnt-Offset-Dumper V1.0.0</title>
@@ -641,10 +641,10 @@
       <pubDate>1.16-ng-stable</pubDate>
     </item>
     <item>
-      <title>Ps5-Ezremote-Client V2.18</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.18/ps5-ezremote-client_v2.18.elf</link>
+      <title>Ps5-Ezremote-Client V2.19</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.19/ps5-ezremote-client_v2.19.elf</link>
       <description>Easy remote client application for PS5.</description>
-      <pubDate>2.18</pubDate>
+      <pubDate>2.19</pubDate>
     </item>
     <item>
       <title>Ps5-Ezremote-Server V1.13</title>

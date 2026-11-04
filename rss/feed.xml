@@ -335,10 +335,10 @@
       <pubDate>v1.15-beta1</pubDate>
     </item>
     <item>
-      <title>[Payloads] Garlic-Worker V1.1.7</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.1.7/garlic-worker_v1.1.7.elf</link>
+      <title>[Payloads] Garlic-Worker V1.1.8</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.1.8/garlic-worker_v1.1.8.elf</link>
       <description>Garlic worker payload component.</description>
-      <pubDate>v1.1.7</pubDate>
+      <pubDate>v1.1.8</pubDate>
     </item>
     <item>
       <title>[Payloads] Savemnt-Offset-Dumper V1.0.0</title>
@@ -641,10 +641,10 @@
       <pubDate>1.16-ng-stable</pubDate>
     </item>
     <item>
-      <title>[Payloads] Ps5-Ezremote-Client V2.18</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.18/ps5-ezremote-client_v2.18.elf</link>
+      <title>[Payloads] Ps5-Ezremote-Client V2.19</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.19/ps5-ezremote-client_v2.19.elf</link>
       <description>Easy remote client application for PS5.</description>
-      <pubDate>2.18</pubDate>
+      <pubDate>2.19</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-Ezremote-Server V1.13</title>
@@ -899,16 +899,16 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Fichiers FFPFSC] Evoplayer-V0.13.0-Ppsa99039-Pro</title>
-      <link>https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.13.0/EVOPlayer-v0.13.0-PPSA99039-pro.ffpfsc</link>
+      <title>[Fichiers FFPFSC] Evoplayer-V0.13.5-Ppsa99039-Pro</title>
+      <link>https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.13.5/EVOPlayer-v0.13.5-PPSA99039-pro.ffpfsc</link>
       <description>A media player for jailbroken PS5</description>
-      <pubDate>v0.13.0</pubDate>
+      <pubDate>v0.13.5</pubDate>
     </item>
     <item>
-      <title>[Fichiers FFPFSC] Evoplayer-V0.13.0-Ppsa99039</title>
-      <link>https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.13.0/EVOPlayer-v0.13.0-PPSA99039.ffpfsc</link>
+      <title>[Fichiers FFPFSC] Evoplayer-V0.13.5-Ppsa99039</title>
+      <link>https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.13.5/EVOPlayer-v0.13.5-PPSA99039.ffpfsc</link>
       <description>A media player for jailbroken PS5</description>
-      <pubDate>v0.13.0</pubDate>
+      <pubDate>v0.13.5</pubDate>
     </item>
     <item>
       <title>[Fichiers FFPFSC] Prospero Radio</title>
@@ -1139,10 +1139,16 @@
       <pubDate>0.10.0-beta.1</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] Forgotten Warrior Remastered</title>
+      <link>https://github.com/youss17x/Forgotten-Warrior-PS5</link>
+      <description>Native PS5 port of the J2ME platformer Forgotten Warrior with DualSense controls and 1080p output. Requires your own copy of the original game.</description>
+      <pubDate>1.2.0</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] Parasite Eve</title>
       <link>https://github.com/GUMMIBRI/parasite-eve-ps5</link>
-      <description>Native PS5 beta port of Parasite Eve requiring user-supplied game data. Save states coming soon; normal memory-card saves supported.</description>
-      <pubDate>0.1.1</pubDate>
+      <description>Parasite Eve 1&amp;2 Port community: https://discord.gg/Yg88tHYXK. PS5 Beta 0.2.0 (Build 12); own game data required. No discs/textures. Save states off; normal memory cards supported.</description>
+      <pubDate>0.2.0-beta</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] OliSe Player</title>
@@ -1238,7 +1244,7 @@
       <title>[ProsperoStore] ProsperoSunshine</title>
       <link>https://github.com/Darkatek7/ProsperoSunshine</link>
       <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.</description>
-      <pubDate>0.2.2</pubDate>
+      <pubDate>0.2.4</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] SudokuZen</title>

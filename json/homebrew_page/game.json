@@ -16,17 +16,31 @@
       "source": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless"
     },
     {
+      "name": "Forgotten Warrior Remastered",
+      "filename": "FWRG00001.zip",
+      "url": "https://github.com/youss17x/Forgotten-Warrior-PS5/releases/download/v1.2.0/FWRG00001-v1.2.0.zip",
+      "local_path": "downloads/apps/homebrew_page/game/FWRG00001/1.2.0/FWRG00001.zip",
+      "description": "Native PS5 port of the J2ME platformer Forgotten Warrior with DualSense controls and 1080p output. Requires your own copy of the original game.",
+      "version": "1.2.0",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "FWRG00001",
+      "author": "Youss Riaal",
+      "checksum": "c41fc00cc31a042cae94993a002b4987f517df95a9da61dc66cc10a48ff7d8d8",
+      "source": "https://github.com/youss17x/Forgotten-Warrior-PS5"
+    },
+    {
       "name": "Parasite Eve",
       "filename": "PEVG00022.zip",
-      "url": "https://github.com/GUMMIBRI/parasite-eve-ps5/releases/download/v0.1.1/Parasite-Eve-PS5-v0.1.1-8310-asset-free.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PEVG00022/0.1.1/PEVG00022.zip",
-      "description": "Native PS5 beta port of Parasite Eve requiring user-supplied game data. Save states coming soon; normal memory-card saves supported.",
-      "version": "0.1.1",
+      "url": "https://github.com/GUMMIBRI/parasite-eve-ps5/releases/download/v0.2.0-beta/Parasite-Eve-Beta-0.2.0-Build-12-asset-free.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PEVG00022/0.2.0-beta/PEVG00022.zip",
+      "description": "Parasite Eve 1&2 Port community: https://discord.gg/Yg88tHYXK. PS5 Beta 0.2.0 (Build 12); own game data required. No discs/textures. Save states off; normal memory cards supported.",
+      "version": "0.2.0-beta",
       "category": "Games",
       "kind": "game",
       "titleid": "PEVG00022",
       "author": "GUMMIBRI",
-      "checksum": "c65aad9810c6b0b83e4a2fdb4ad34de3ebb637d9ed4a61067e8e1bdba89b4cfa",
+      "checksum": "e1b7cdb078c15710b63dd3bdd6aeb96010f2aea5a8095295bfa6d601ca775b7e",
       "source": "https://github.com/GUMMIBRI/parasite-eve-ps5"
     },
     {

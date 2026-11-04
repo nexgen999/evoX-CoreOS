@@ -80,7 +80,7 @@
       "createdAt": "2026-11-03T07:07:41.495Z",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA21120_35512c1ae587227106947d70283d95d6847a16ccca3ef54f15536e6efa07a962/icon0.webp",
-      "description": "Region: USA\nRelease note: Works on 8.xx and higher",
+      "description": "Variant: USA 8.xx\nRegion: USA\nRelease note: Works on 8.xx and higher\n\nVariant: USA exFAT 01.000.103\nRegion: USA\nRelease note: exFAT format — FW 01.000.103 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/white-day-2-the-flower-that-tells-lies-complete-edition-ps5/",
       "downloadLinks": [
         {
@@ -94,6 +94,22 @@
         {
           "name": "USA 8.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/wQjr8aKm3t"
+        },
+        {
+          "name": "USA exFAT 01.000.103 Base - DataNodes",
+          "url": "https://datanodes.to/lw7c24bhn567/PPSA21120.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.103 Base - FileKeeper",
+          "url": "https://filekeeper.net/4nfl1j2ec02h/PPSA21120.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.103 Base - Akirabox",
+          "url": "https://akirabox.to/N2p3Ddvr23Ma/file"
+        },
+        {
+          "name": "USA exFAT 01.000.103 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/UXZhKPiKnZ"
         }
       ]
     },
@@ -139887,6 +139903,121 @@
         {
           "name": "USA exFAT 01.004 Base - Vault (exFAT)",
           "url": "https://datavaults.co/6qmhde3tm198"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA30391",
+      "title": "[exFAT] Alien Rogue Incursion Evolved Part One Deluxe Edition",
+      "createdAt": "2026-11-04T12:36:44.865Z",
+      "version": "01.000.009",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA30391_5020c9633c903265375b1e3c19005c2b6def9078604ff6ae21ea27d1a4339fe4/icon0.webp",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.000.009 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.000.009 Base - DataNodes",
+          "url": "https://datanodes.to/yrkjgorv2hhs/PPSA30391.7z"
+        },
+        {
+          "name": "EUR exFAT 01.000.009 Base - FileKeeper",
+          "url": "https://filekeeper.net/asnl7ccw82yh/PPSA30391.7z"
+        },
+        {
+          "name": "EUR exFAT 01.000.009 Base - Akirabox",
+          "url": "https://akirabox.to/M2BGwLR5pmj4/file"
+        },
+        {
+          "name": "EUR exFAT 01.000.009 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/3gKfRyt8eK"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA25212",
+      "title": "[exFAT] RetroRealms",
+      "createdAt": "2026-11-04T12:36:44.865Z",
+      "version": "01.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/5394681535e9d30fbf7fbb12b062a5b50f7eb6e9c2b4868965ea11e1ca638501",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/a4aeaa3919ad459b5c6e9777f3a5cc75e5607b6ae9c58a3cc327d1a9f84d1c4a",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.000 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.000 Base - DataNodes",
+          "url": "https://datanodes.to/6vzlgfvnuke1/PPSA25212.7z"
+        },
+        {
+          "name": "EUR exFAT 01.000 Base - FileKeeper",
+          "url": "https://filekeeper.net/xkqkhj4emp16/PPSA25212.7z"
+        },
+        {
+          "name": "EUR exFAT 01.000 Base - Akirabox",
+          "url": "https://akirabox.to/qLQ36X9MlG19/file"
+        },
+        {
+          "name": "EUR exFAT 01.000 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/WhQvPlWWOM"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA18543",
+      "title": "[exFAT] The Sinking City 2 Premium Edition",
+      "createdAt": "2026-11-04T12:36:44.865Z",
+      "version": "01.000.003",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/88eb4fa3c6034496eebf0ff9f6917d1c741e89a85d56080f9692b4e43059d3f2",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/7d3e800e9d9994251710da3fd23eb28d986af0fd648b07560f6b705b06363c57",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.000.003 — 4.xx BackPort + 5.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.000.003 Base - DataNodes",
+          "url": "https://datanodes.to/7ts1t0vec4wa/PPSA18543.7z"
+        },
+        {
+          "name": "EUR exFAT 01.000.003 Base - FileKeeper",
+          "url": "https://filekeeper.net/nfqi33g6if3z/PPSA18543.7z"
+        },
+        {
+          "name": "EUR exFAT 01.000.003 Base - Akirabox",
+          "url": "https://akirabox.to/b5OzdkqE93B8/file"
+        },
+        {
+          "name": "EUR exFAT 01.000.003 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/2if5GSpkuH"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA01772",
+      "title": "[exFAT] The Sinking City Remastered Deluxe Edition",
+      "createdAt": "2026-11-04T12:36:44.865Z",
+      "version": "01.004",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/6f9553851bb98d7f7f177868e3ee9e28a35957909a2dd2bbe798c3bdc2c317f1",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/6b90138485679042087e55904d202d8ca0795ce72222abb518a2a437acd07653",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.004 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.004 Base - DataNodes",
+          "url": "https://datanodes.to/vk8lwnqkf4n7/PPSA01772.7z"
+        },
+        {
+          "name": "EUR exFAT 01.004 Base - FileKeeper",
+          "url": "https://filekeeper.net/ne0qhp71dbgs/PPSA01772.7z"
+        },
+        {
+          "name": "EUR exFAT 01.004 Base - Akirabox",
+          "url": "https://akirabox.to/RMKGJWBjLm1o/file"
+        },
+        {
+          "name": "EUR exFAT 01.004 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/ow8hzZB7p3"
         }
       ]
     },

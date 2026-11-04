@@ -3,6 +3,24 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA08709",
+      "title": "Silent Hill 2",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "1.006",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/53355af755b98dbdb1c1fedfceb0eaeeb8763e7629f095cc89571f85d3468827",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/bcd45ecd54b849c75d609b9bfa13db11adb7e50957c71a86e4d37a1f13f1c212",
+      "description": "Format: LZ4\nHaving received a letter from his deceased wife, James heads to where they shared so many memories, in the hope of seeing her one more time: Silent Hill. There, by the lake, he finds a woman eerily similar to her... \"My name...is Maria,\" the woman smiles. Her face, her voice... She's just like her. Experience a master-class in psychological survival horror―lauded as the best in the series―on the latest hardware with chilling visuals and visceral sounds. High-end Graphics and Sound With ray tracing and other cutting-edge technical enhancements, the world of SILENT HILL and its unsettling ambiance is even realer than before. And with the inclusion of new, immersive soundscapes, you'll feel like you're standing in the thick of it. Larger Environments Explore locations and buildings that were once inaccessible, or are newly added in the remake. Enjoy the same acclaimed story, even while you experience the town of Silent Hill with fresh eyes across an expanded map. Over-the-shoulder Camera The remake moves from the original's fixed-camera viewpoints to an over-the-shoulder perspective, putting you closer to what James sees, for a more thrilling, more immersive experience as you explore the town and come face-to-face with monsters. Evolved Combat Gameplay Familiar weapons like the steel pipe and handgun make their return, but now with an updated combat system. Avoid attacks with carefully timed dodges, aim down sights, and more, making monster encounters more engaging and nerve-wracking then ever.\nRegion: USA to EUR Langs\nFirmware: 11.xx+\nAPR: apr-emu-v0.4.2.1\nUpdated: 2026-11-04T10:09:55.932Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "LZ4 · Viki",
+          "url": "https://vikingfile.com/f/WG04BH9L7O"
+        }
+      ],
+      "sizeBytes": 70866960384
+    },
+    {
       "titleId": "PPSA01470",
       "title": "Marvel’s Spider-Man Remastered",
       "createdAt": "2026-10-30T14:30:16.671Z",

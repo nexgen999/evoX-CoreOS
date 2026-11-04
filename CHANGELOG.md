@@ -1,5 +1,17 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 04/11/2026 à 14:13
+* **PAYLOADS**
+  * `Garlic-Worker V1.1.8` (v1.1.8) - *Nouveau*
+  * `Ps5-Ezremote-Client V2.19` (2.19) - *Nouveau*
+* **FFPFSC**
+  * `Evoplayer-V0.13.5-Ppsa99039-Pro` (v0.13.5) - *Nouveau*
+  * `Evoplayer-V0.13.5-Ppsa99039` (v0.13.5) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `Forgotten Warrior Remastered` (1.2.0) - *Nouveau*
+  * `Parasite Eve` (0.2.0-beta) - *Mise à jour (Précédent: 0.1.1)*
+  * `ProsperoSunshine` (0.2.4) - *Mise à jour (Précédent: 0.2.2)*
+
 ## Build du 04/11/2026 à 05:06
 * **HOMEBREW_PAGE**
   * `Parasite Eve` (0.1.1) - *Nouveau*

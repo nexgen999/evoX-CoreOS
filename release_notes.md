@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.04-0506)
+### 🚀 Synthèse de la mise à jour (v2026.11.04-1413)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -97,7 +97,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `a53_ppr_install_1140_20.09.elf`
   * `a53_ppr_install_1160_20.09.elf`
   * `garlic-savemgr_v1.15-beta1.elf`
-  * `garlic-worker_v1.1.7.elf`
+  * `garlic-worker_v1.1.8.elf`
   * `savemnt-offset-dumper_v1.0.0.elf`
   * `ps5shopappkg-dpi.elf`
   * `ps5library-agent.elf`
@@ -148,7 +148,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `gdbsrv_v0.9.elf`
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
-  * `ps5-ezremote-client_v2.18.elf`
+  * `ps5-ezremote-client_v2.19.elf`
   * `ps5-ezremote-server_v1.13.elf`
   * `ps5upload_v9.5.1.elf`
   * `airpsx_v0.19.elf`
@@ -205,8 +205,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
 <summary><b>📄 Pack FFPFSC</b></summary>
 
 * **files**
-  * `EVOPlayer-v0.13.0-PPSA99039-pro.ffpfsc`
-  * `EVOPlayer-v0.13.0-PPSA99039.ffpfsc`
+  * `EVOPlayer-v0.13.5-PPSA99039-pro.ffpfsc`
+  * `EVOPlayer-v0.13.5-PPSA99039.ffpfsc`
   * `PROSPERO_RADIO.ffpfsc`
 
 </details>
@@ -259,6 +259,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
 * **Applications ProsperoStore**
   * `CWEN00001.zip`
   * `FAKE77031.zip`
+  * `FWRG00001.zip`
   * `PEVG00022.zip`
   * `PPSA01153.zip`
   * `PPSA06464.zip`

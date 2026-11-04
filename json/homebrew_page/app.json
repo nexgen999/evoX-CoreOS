@@ -116,15 +116,15 @@
     {
       "name": "ProsperoSunshine",
       "filename": "PPSA47989.zip",
-      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.2.2/PPSA47989.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.2.2/PPSA47989.zip",
+      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.2.4/PPSA47989.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.2.4/PPSA47989.zip",
       "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.",
-      "version": "0.2.2",
+      "version": "0.2.4",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA47989",
       "author": "Darkatek7",
-      "checksum": "d9aa2adea3192b79acee0b84f0ac8a16eebd6bbbc43308fbb4aab880ba9ad7b7",
+      "checksum": "cd90b97954e3d696989bfc459ac60e4124b63cda98729d9c70cc1cb8f0638cf9",
       "source": "https://github.com/Darkatek7/ProsperoSunshine"
     },
     {
