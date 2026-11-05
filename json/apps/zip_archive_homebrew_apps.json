@@ -32,6 +32,26 @@
       "category": "Applications"
     },
     {
+      "name": "Ps5Mc-1.2-Kodi21-Ppsa99421",
+      "filename": "PS5MC-1.2-kodi21-PPSA99421.zip",
+      "url": "https://github.com/VivaLaVent/PS5MC/releases/download/1.2/PS5MC-1.2-kodi21-PPSA99421.zip",
+      "local_path": "apps/kodi-ps5/1.2/PS5MC-1.2-kodi21-PPSA99421.zip",
+      "description": "kodi-ps5",
+      "version": "1.2",
+      "checksum": "a62af4451c0877b967acceb74889f8d0c8d268e5764ba4f299fe723f41df7ef0",
+      "category": "Applications"
+    },
+    {
+      "name": "Ps5Mc-1.2-Kodi22-Ppsa99420",
+      "filename": "PS5MC-1.2-kodi22-PPSA99420.zip",
+      "url": "https://github.com/VivaLaVent/PS5MC/releases/download/1.2/PS5MC-1.2-kodi22-PPSA99420.zip",
+      "local_path": "apps/kodi-ps5/1.2/PS5MC-1.2-kodi22-PPSA99420.zip",
+      "description": "kodi-ps5",
+      "version": "1.2",
+      "checksum": "5a9eeff4a0024a341a4924b8d283fe65b4ff94d7f5dbea446c8a677c4db157b6",
+      "category": "Applications"
+    },
+    {
       "name": "Emulatorpack",
       "filename": "EmulatorPack.zip",
       "url": "https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/EmulatorPack.zip",

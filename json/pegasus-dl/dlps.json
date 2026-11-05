@@ -3,6 +3,70 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA10122",
+      "title": "Return To Monkey Island",
+      "createdAt": "2026-11-05T21:08:42.037Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/6a0a71accb797a5b0337da4a66ccfdb12475ee28b9507cd797188dbc44097a28",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/0ffade9e901399000e39000d23baf590689da1e6a8967b2d08b1df0a70fbaaaa",
+      "description": "Variant: USA\nRegion: USA\n\nVariant: USA exFAT 01.101\nRegion: USA\nRelease note: exFAT format — FW 01.101 — 4.xx BackPort + 5.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/return-to-monkey-island-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA Base - Akirabox",
+          "url": "https://akirabox.to/qLQ36X2XBG19/file"
+        },
+        {
+          "name": "USA Base - Rootz",
+          "url": "https://www.rootz.so/d/m5zwe"
+        },
+        {
+          "name": "USA Base - Vikingfile",
+          "url": "https://vikingfile.com/f/AwncQ123WC"
+        },
+        {
+          "name": "USA exFAT 01.101 Base - DataNodes",
+          "url": "https://datanodes.to/uuuygrvuluag/PPSA10122.7z"
+        },
+        {
+          "name": "USA exFAT 01.101 Base - FileKeeper",
+          "url": "https://filekeeper.net/bmcf1i7vuo19/PPSA10122.7z"
+        },
+        {
+          "name": "USA exFAT 01.101 Base - Akirabox",
+          "url": "https://akirabox.to/Pbe3PeKdQzlX/file"
+        },
+        {
+          "name": "USA exFAT 01.101 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/re59KDy1hw"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA06081",
+      "title": "TABS Totally Accurate Battle Simulator",
+      "createdAt": "2026-11-05T21:08:42.037Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/90488c78f937913edee5e0d16fd628b027ca94efd24d03a98b48681468d4e98a",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/9352525b67fd8417ddc102d6d3795191a13f8001dc11d2cbcabf3616adb57073",
+      "description": "Region: USA\nContributor: Thanks to vincenzoz85 for the Files, drakmor for ampr-emu and DecKerr97 GUI for the BackPort.",
+      "downloadSource": "https://dlpsgame.com/tabs-totally-accurate-battle-simulator-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA Base - Akirabox",
+          "url": "https://akirabox.to/ZvqzlpJp5zaD/file"
+        },
+        {
+          "name": "USA Base - Rootz",
+          "url": "https://www.rootz.so/d/1ymEi0"
+        },
+        {
+          "name": "USA Base - Vikingfile",
+          "url": "https://vikingfile.com/f/MhJrNFzsPZ"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA30391",
       "title": "Alien Rogue Incursion Evolved Edition",
       "createdAt": "2026-11-03T20:21:18.229Z",
@@ -42,10 +106,9 @@
       "titleId": "PPSA13446",
       "title": "Aphelion",
       "createdAt": "2026-11-03T20:21:18.229Z",
-      "version": "1.11",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA13446_4bc196811fce97c895008ce6b6f60015953a205ad01b98b282e2196de7a8b633/icon0.webp",
-      "description": "Region: USA\nRelease note: Works on 12.xx and higher Tested on EXTERNAL with Kstuff Lite 1.11 and ShadowMountPlus 1.7beta10 Based on dump by CC!",
+      "description": "Variant: USA 12.xx\nRegion: USA\nRelease note: Works on 12.xx and higher Tested on EXTERNAL with Kstuff Lite 1.11 and ShadowMountPlus 1.7beta10 Based on dump by CC!\n\nVariant: USA exFAT 01.003\nRegion: USA\nRelease note: exFAT format — FW 01.003 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/aphelion-ps5/",
       "downloadLinks": [
         {
@@ -71,6 +134,22 @@
         {
           "name": "USA 12.xx Base - Vikingfile part 2",
           "url": "https://vikingfile.com/f/vbhS0cd260"
+        },
+        {
+          "name": "USA exFAT 01.003 Base - DataNodes",
+          "url": "https://datanodes.to/vz57a4paert7/PPSA13446.7z"
+        },
+        {
+          "name": "USA exFAT 01.003 Base - FileKeeper",
+          "url": "https://filekeeper.net/vkua2vkwczzg/PPSA13446.7z"
+        },
+        {
+          "name": "USA exFAT 01.003 Base - Akirabox",
+          "url": "https://akirabox.to/QN9mEdlKyG6d/file"
+        },
+        {
+          "name": "USA exFAT 01.003 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/lwU5bypPrA"
         }
       ]
     },
@@ -120,7 +199,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/77ebdf797131b299584c0a6c23b72a370a759f691053aa856b7f5b7a82a6212f",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/5936451049beb8d89c22ede0b0cef91c72ad372f06e6796e9f6f963f103dfd30",
-      "description": "Region: USA\nRelease note: Works on 5.xx and higher",
+      "description": "Variant: USA 5.xx\nRegion: USA\nRelease note: Works on 5.xx and higher\n\nVariant: USA exFAT 01.000\nRegion: USA\nRelease note: exFAT format — FW 01.000 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/the-beast-inside-ps5/",
       "downloadLinks": [
         {
@@ -134,6 +213,22 @@
         {
           "name": "USA 5.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/bUgRaUjqVu"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - DataNodes",
+          "url": "https://datanodes.to/2ei8l3gyxw8e/PPSA10720.7z"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - FileKeeper",
+          "url": "https://filekeeper.net/ugw1ialw58t2/PPSA10720.7z"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - Akirabox",
+          "url": "https://akirabox.to/0Kezk0BEbGD1/file"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/EKNQXAmlIx"
         }
       ]
     },
@@ -139903,6 +139998,35 @@
         {
           "name": "USA exFAT 01.004 Base - Vault (exFAT)",
           "url": "https://datavaults.co/6qmhde3tm198"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA06081",
+      "title": "[exFAT] Totally Accurate Battle Simulator",
+      "createdAt": "2026-11-05T21:08:42.037Z",
+      "version": "01.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/90488c78f937913edee5e0d16fd628b027ca94efd24d03a98b48681468d4e98a",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/9352525b67fd8417ddc102d6d3795191a13f8001dc11d2cbcabf3616adb57073",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.000 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.000 Base - DataNodes",
+          "url": "https://datanodes.to/o4qmmrp0b679/PPSA06081.7z"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - FileKeeper",
+          "url": "https://filekeeper.net/yvbu8ekp997c/PPSA06081.7z"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - Akirabox",
+          "url": "https://akirabox.to/b5OzdkDjy3B8/file"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/2QXCA4AB1M"
         }
       ]
     },

@@ -9,7 +9,7 @@
       "version": "v01.003",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA13446_4bc196811fce97c895008ce6b6f60015953a205ad01b98b282e2196de7a8b633/icon0.webp",
-      "description": "Builds: Dump, Fpkg\nTags: PPSA13446, v01.003, USA, 4.xx BackPort\nSize: 52GB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: Note: Own ZTSD Extractor. FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA13446, v01.003, USA, 4.xx BackPort\nSize: 52GB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: Note: Own ZSTD Extractor. FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
@@ -192,7 +192,7 @@
       "version": "v01.000.009",
       "category": "game",
       "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA30391_5020c9633c903265375b1e3c19005c2b6def9078604ff6ae21ea27d1a4339fe4/icon0.webp",
-      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA30391, v01.000.009, EUR, 4.xx BackPort\nSize: 58GB\nCredits: Files: Desesperado3; Backport: DecKerr97 GUI; DLC: Pippo\nHow to play: Note: Own ZTSD Extractor. FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA30391, v01.000.009, EUR, 4.xx BackPort\nSize: 58GB\nCredits: Files: Desesperado3; Backport: DecKerr97 GUI; DLC: Pippo\nHow to play: Note: Own ZSTD Extractor. FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {

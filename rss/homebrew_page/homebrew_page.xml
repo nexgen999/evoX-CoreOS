@@ -14,7 +14,7 @@
       <title>Playden</title>
       <link>https://github.com/leolobato/playden-ps5</link>
       <description>Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.</description>
-      <pubDate>0.10.0-beta.1</pubDate>
+      <pubDate>0.10.0-beta.2</pubDate>
     </item>
     <item>
       <title>Forgotten Warrior Remastered</title>
@@ -44,7 +44,7 @@
       <title>PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.</description>
-      <pubDate>2.3.2</pubDate>
+      <pubDate>2.3.4</pubDate>
     </item>
     <item>
       <title>Home5</title>
@@ -57,6 +57,12 @@
       <link>https://github.com/TsvetomirGT/SymphonyStation5</link>
       <description>A native Navidrome music client for the PlayStation 5.</description>
       <pubDate>v0.1.0</pubDate>
+    </item>
+    <item>
+      <title>XashPS5</title>
+      <link>https://github.com/GordonProsperoMan/xash3d-ps5</link>
+      <description>Native PS5 port of Xash3D FWGS: Half-Life, Opposing Force and Blue Shift up to 4K at 60 FPS with DualSense input. Needs your own Half-Life game data.</description>
+      <pubDate>1.3</pubDate>
     </item>
     <item>
       <title>Source Port</title>
@@ -140,7 +146,7 @@
       <title>Mediathek</title>
       <link>https://github.com/M0S4YSH3LL0/mediathek-ps5</link>
       <description>A Netflix-style movie library for your PS5</description>
-      <pubDate>01.000.090</pubDate>
+      <pubDate>01.000.100</pubDate>
     </item>
     <item>
       <title>PayLoader</title>
@@ -263,6 +269,12 @@
       <pubDate>01.000.002</pubDate>
     </item>
     <item>
+      <title>RecompStore</title>
+      <link>https://github.com/elripalda/RecompStore</link>
+      <description>RecompStore: the free homebrew app store for jailbroken PS5. Installs and updates recompiled game ports, emulators, apps and tools from the console. Bring your own disc.</description>
+      <pubDate>2.7.4</pubDate>
+    </item>
+    <item>
       <title>Xerenge (Burnout Revenge)</title>
       <link>https://github.com/bystritskiy/xerenge-ps5</link>
       <description>Burnout Revenge (Xbox 360), recompiled to run natively on PS5. Bring your own disc.</description>
@@ -332,7 +344,7 @@
       <title>TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.199</pubDate>
+      <pubDate>01.000.200</pubDate>
     </item>
     <item>
       <title>CD Player</title>
@@ -461,16 +473,34 @@
       <pubDate>01.000.024</pubDate>
     </item>
     <item>
+      <title>EVO Player</title>
+      <link>https://github.com/sainsaji/EVO-PLAYER-PS5</link>
+      <description>Media player for PS5 that plays video from USB or internal storage, with hardware decoding up to 4K, 10-bit HDR and surround audio.</description>
+      <pubDate>0.13.5</pubDate>
+    </item>
+    <item>
       <title>Surround Sound Studio</title>
       <link>https://github.com/sainsaji/PS5-Audio-Passthrough-Research</link>
       <description>Sends Dolby Digital, Dolby Digital Plus, DTS, AAC and TrueHD to your receiver untouched over HDMI, plus a speaker test lab with a 3D sound field.</description>
       <pubDate>01.000.003</pubDate>
     </item>
     <item>
+      <title>Spot5</title>
+      <link>https://github.com/abhi245y/spot5</link>
+      <description>Unofficial native Spotify player, not affiliated with Spotify: Home, Your Library, playlists, artists, Now Playing and more, with Spotify Connect. Needs Premium.</description>
+      <pubDate>1.1.0</pubDate>
+    </item>
+    <item>
       <title>ORION Media Center</title>
       <link>https://github.com/XeN-Made/Orion-Media-Center</link>
       <description>A launcher that shows your PS5 and PS4 games, homebrew, media apps and emulated games in one library, with box art, tabs, themes and autoboot.</description>
       <pubDate>01.107.000</pubDate>
+    </item>
+    <item>
+      <title>Mupen64Plus PS5</title>
+      <link>https://github.com/TheRealRetro/mupen64plus-ps5</link>
+      <description>Nintendo 64 emulator (mupen64plus-core 2.6.0) as a native PS5 home-screen app: dynarec, DualSense rumble, cover shelf, save states, auto-updates</description>
+      <pubDate>0.7.5</pubDate>
     </item>
     <item>
       <title>OpenNOW PS5 - Prototype</title>
@@ -554,13 +584,19 @@
       <title>PS5SX2</title>
       <link>https://github.com/Swordpdf/PS5SX2</link>
       <description>PCSX2 port for PS5 that runs PS2 games natively with a Vulkan renderer, up to 6x resolution and settings from your phone. Bring your own BIOS and games.</description>
-      <pubDate>vk-285-187</pubDate>
+      <pubDate>vk-285-190</pubDate>
     </item>
     <item>
       <title>Lost Odyssey</title>
       <link>https://github.com/dragonscales123/LostOdysseyRecompPS5</link>
       <description>PS5 port of Lost Odyssey using static recompilation. No game assets included.</description>
       <pubDate>0.2.0-beta.5</pubDate>
+    </item>
+    <item>
+      <title>Blue Dragon</title>
+      <link>https://github.com/dragonscales123/rebluePS5</link>
+      <description>Recompilation port of Blue Dragon for the PS5</description>
+      <pubDate>1.3.1-ps5-r2</pubDate>
     </item>
     <item>
       <title>PSFlyCast</title>
@@ -579,6 +615,12 @@
       <link>https://github.com/Press5elect/Crux2</link>
       <description>PCSX2 (PlayStation 2) as a standalone PS5 title on RADV, with a controller-first Big Picture library, network shares, USB disc drives and RetroAchievements.</description>
       <pubDate>v1.0.18</pubDate>
+    </item>
+    <item>
+      <title>OGBox</title>
+      <link>https://github.com/Press5elect/OGBox</link>
+      <description>XBOX emulator for PS5</description>
+      <pubDate>0.0.3</pubDate>
     </item>
     <item>
       <title>Prospero Hi-Fi</title>
@@ -659,6 +701,12 @@
       <pubDate>1.4.0</pubDate>
     </item>
     <item>
+      <title>Quake3e</title>
+      <link>https://github.com/griches/PS5_Quake3e</link>
+      <description>Native PS5 port of Quake3e, the improved Quake III Arena engine, drawing with Vulkan at up to 4K with DualSense or USB mouse and keyboard input. Needs your own Quake III Arena game data.</description>
+      <pubDate>1.4.0</pubDate>
+    </item>
+    <item>
       <title>Ship of Harkinian (Vulkan)</title>
       <link>https://github.com/damiantw/PS5_Shipwright</link>
       <description>Ship of Harkinian (Ocarina of Time PC port) on Vulkan: converts your own ROM on the console, 60 FPS at 4K, HD texture packs, right-stick camera and PS button prompts; tested on firmware 13.60.</description>
@@ -705,6 +753,12 @@
       <link>https://github.com/7tg/futbol13</link>
       <description>Your own PC copy of Pro Evolution Soccer 2013 as a homebrew app on a jailbroken PS5, through prospero-win, squad updates and commentary mods included (bring your own copy).</description>
       <pubDate>01.000.002</pubDate>
+    </item>
+    <item>
+      <title>PS5MC (Kodi)</title>
+      <link>https://github.com/Notedop/xbmc-ps5</link>
+      <description>PS5MC, an unofficial port of the Kodi 22 media center for PS5, with a 4K GPU interface, hardware H.264, HEVC and VP9 decoding and HDR output.</description>
+      <pubDate>22.000.000</pubDate>
     </item>
     <item>
       <title>ApricotGS</title>
@@ -759,6 +813,12 @@
       <link>https://github.com/ThatRetiredDude/TokenStation5</link>
       <description>Private AI server on your PS5: Qwen, Llama, Mistral and Gemma on its GPU behind an OpenAI-compatible API, with API keys, Tailscale, voice in and out, chat on the TV and Hugging Face downloads.</description>
       <pubDate>01.004.001</pubDate>
+    </item>
+    <item>
+      <title>FoxHollow</title>
+      <link>https://github.com/BaZZtian/PS5-FoxHollow</link>
+      <description>Native PS5 port of Star Fox Adventures; PAL release for firmware 12.40 with save/load and in-menu language selection. Requires your own disc image; no game data included.</description>
+      <pubDate>0.1.4</pubDate>
     </item>
     <item>
       <title>PS5LM</title>
@@ -974,7 +1034,7 @@
       <title>FBNeo PS5</title>
       <link>https://github.com/MisterTemaki/fbneo-ps5</link>
       <description>FinalBurn Neo (arcade) as a native PS5 app.</description>
-      <pubDate>v2.2</pubDate>
+      <pubDate>v2.3</pubDate>
     </item>
     <item>
       <title>Beetle PCE PS5</title>

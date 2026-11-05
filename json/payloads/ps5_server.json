@@ -46,6 +46,17 @@
       "source": "https://github.com/ps5-payload-dev/ftpsrv/releases"
     },
     {
+      "name": "Websrv V0.34",
+      "filename": "websrv_v0.34.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf",
+      "local_path": "payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf",
+      "description": "HTTP Web server payload. Port: 8080",
+      "version": "v0.34",
+      "category": "PS5 Server",
+      "checksum": "54730c867c6e1148536fdcb370e63a7762d989ea87b62488ad4caff64d43f263",
+      "source": "https://github.com/ps5-payload-dev/websrv/releases"
+    },
+    {
       "name": "Gdbsrv V0.9",
       "filename": "gdbsrv_v0.9.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/gdbsrv/v0.9/gdbsrv_v0.9.elf",
@@ -101,14 +112,14 @@
       "source": "https://github.com/cy33hc/ps5-ezremote-server/releases"
     },
     {
-      "name": "Ps5Upload V11.2.1",
-      "filename": "ps5upload_v11.2.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v11.2.1/ps5upload_v11.2.1.elf",
-      "local_path": "payloads/ps5_server/ps5upload/v11.2.1/ps5upload_v11.2.1.elf",
+      "name": "Ps5Upload V11.2.3",
+      "filename": "ps5upload_v11.2.3.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v11.2.3/ps5upload_v11.2.3.elf",
+      "local_path": "payloads/ps5_server/ps5upload/v11.2.3/ps5upload_v11.2.3.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v11.2.1",
+      "version": "v11.2.3",
       "category": "PS5 Server",
-      "checksum": "98daecdc73a47e83ee9a9845536771e6c3125b0d1c238eb5d427faeecb16063b",
+      "checksum": "0a0fd1cd7946e5bd364dfaaadc0e7b01c35c33fd48302385378ff743646b129a",
       "source": "https://github.com/phantomptr/ps5upload/releases"
     },
     {

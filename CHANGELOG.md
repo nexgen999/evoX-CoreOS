@@ -1,5 +1,36 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 05/11/2026 à 23:42
+* **PAYLOADS**
+  * `Fbneo-Ps5 V2.3` (v2.3) - *Nouveau*
+  * `Garlic-Savemgr V1.15-Beta9` (v1.15-beta9) - *Nouveau*
+  * `Garlic-Worker V1.2.3` (v1.2.3) - *Nouveau*
+  * `Websrv V0.34` (v0.34) - *Nouveau*
+* **FFPFSC**
+  * `Evoplayer-V0.13.5-Ppsa99039-Pro` (v0.13.5) - *Nouveau*
+  * `Evoplayer-V0.13.5-Ppsa99039` (v0.13.5) - *Nouveau*
+* **APPS**
+  * `Ps5Mc-1.2-Kodi21-Ppsa99421` (1.2) - *Nouveau*
+  * `Ps5Mc-1.2-Kodi22-Ppsa99420` (1.2) - *Nouveau*
+  * `Markus Phu-Emupack Ps1-Tool.Ps5` (Source-Fixe) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `Playden` (0.10.0-beta.2) - *Mise à jour (Précédent: 0.10.0-beta.1)*
+  * `PC5` (2.3.4) - *Mise à jour (Précédent: 2.3.2)*
+  * `XashPS5` (1.3) - *Nouveau*
+  * `Mediathek` (01.000.100) - *Mise à jour (Précédent: 01.000.090)*
+  * `RecompStore` (2.7.4) - *Nouveau*
+  * `TubeBlock` (01.000.200) - *Mise à jour (Précédent: 01.000.199)*
+  * `EVO Player` (0.13.5) - *Nouveau*
+  * `Spot5` (1.1.0) - *Nouveau*
+  * `Mupen64Plus PS5` (0.7.5) - *Nouveau*
+  * `PS5SX2` (vk-285-190) - *Mise à jour (Précédent: vk-285-187)*
+  * `Blue Dragon` (1.3.1-ps5-r2) - *Nouveau*
+  * `OGBox` (0.0.3) - *Nouveau*
+  * `Quake3e` (1.4.0) - *Nouveau*
+  * `PS5MC (Kodi)` (22.000.000) - *Nouveau*
+  * `FoxHollow` (0.1.4) - *Nouveau*
+  * `FBNeo PS5` (v2.3) - *Mise à jour (Précédent: v2.2)*
+
 ## Build du 05/11/2026 à 15:02
 * **PAYLOADS**
   * `Garlic-Savemgr V1.15-Beta6` (v1.15-beta6) - *Nouveau*

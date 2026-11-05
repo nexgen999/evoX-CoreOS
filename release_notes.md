@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.05-1502)
+### 🚀 Synthèse de la mise à jour (v2026.11.05-2342)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -45,7 +45,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `snes9xPS5_v2.9.elf`
   * `genplusgxPS5_v2.2.elf`
   * `ps5-romm_v1.4.0.elf`
-  * `fbneo-ps5_v2.2.elf`
+  * `fbneo-ps5_v2.3.elf`
   * `PHU-Sandbox.Exit_v1.0.elf`
   * `FGG-PlayPods-GUI_v0.1.5.elf`
   * `FGG-PlayPods_v1.0.elf`
@@ -96,8 +96,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `kstuff-1.13-fpkg-dr-test5.elf`
   * `a53_ppr_install_1140_20.09.elf`
   * `a53_ppr_install_1160_20.09.elf`
-  * `garlic-savemgr_v1.15-beta6.elf`
-  * `garlic-worker_v1.2.2.elf`
+  * `garlic-savemgr_v1.15-beta9.elf`
+  * `garlic-worker_v1.2.3.elf`
   * `savemnt-offset-dumper_v1.0.0.elf`
   * `ps5shopappkg-dpi.elf`
   * `ps5library-agent.elf`
@@ -144,6 +144,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `zftpd-ps5-zhttp-v1.7.0.elf`
   * `elfldr_v0.27.elf`
   * `ftpsrv_ps5-payload_v0.21.1.elf`
+  * `websrv_v0.34.elf`
   * `gdbsrv_v0.9.elf`
   * `klogsrv_v0.9.elf`
   * `ftpsrv_drakmor_v1.16-ng-stable.elf`
@@ -204,6 +205,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
 <summary><b>📄 Pack FFPFSC</b></summary>
 
 * **files**
+  * `EVOPlayer-v0.13.5-PPSA99039-pro.ffpfsc`
+  * `EVOPlayer-v0.13.5-PPSA99039.ffpfsc`
   * `PROSPERO_RADIO.ffpfsc`
 
 </details>
@@ -216,6 +219,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `castation-0.4.0.zip`
   * `dump_installer.zip`
   * `dump_runner.zip`
+  * `PS5MC-1.2-kodi21-PPSA99421.zip`
+  * `PS5MC-1.2-kodi22-PPSA99420.zip`
   * `EmulatorPack.zip`
   * `ProsperoMultiTools.zip`
   * `ProsperoExplorer-v1.zip`
@@ -234,6 +239,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99808.zip`
   * `prospero-win-v0.3.0.zip`
   * `PPSA99300.zip`
+  * `Markus_PHU-EmuPack_PS1-Tool.PS5.rar`
   * `Markus_PHU-EmuPack-Nes.PS5.rar`
   * `Markus_PHU-EmuPack-Snes.PS5.rar`
   * `Markus_PHU-EmuPack-Ultra64.PS5.rar`
@@ -260,6 +266,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA11018.zip`
   * `PPSA11019.zip`
   * `PPSA17641.zip`
+  * `PPSA19111.zip`
   * `PPSA20040.zip`
   * `PPSA26370.zip`
   * `PPSA26381.zip`
@@ -294,6 +301,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA90210.zip`
   * `PPSA90212.zip`
   * `PPSA90505.zip`
+  * `PPSA92000.zip`
   * `PPSA92006.zip`
   * `PPSA92280.zip`
   * `PPSA92878.zip`
@@ -327,8 +335,11 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99025.zip`
   * `PPSA99027.zip`
   * `PPSA99030.zip`
+  * `PPSA99039.zip`
   * `PPSA99051.zip`
+  * `PPSA99061.zip`
   * `PPSA99062.zip`
+  * `PPSA99064.zip`
   * `PPSA99082.zip`
   * `PPSA99099.zip`
   * `PPSA99105.zip`
@@ -344,9 +355,11 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99190.zip`
   * `PPSA99203.zip`
   * `PPSA99212.zip`
+  * `PPSA99213.zip`
   * `PPSA99247.zip`
   * `PPSA99248.zip`
   * `PPSA99249.zip`
+  * `PPSA99251.zip`
   * `PPSA99287.zip`
   * `PPSA99288.zip`
   * `PPSA99300.zip`
@@ -359,6 +372,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99314.zip`
   * `PPSA99316.zip`
   * `PPSA99318.zip`
+  * `PPSA99319.zip`
   * `PPSA99320.zip`
   * `PPSA99322.zip`
   * `PPSA99323.zip`
@@ -367,6 +381,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99403.zip`
   * `PPSA99404.zip`
   * `PPSA99405.zip`
+  * `PPSA99420.zip`
   * `PPSA99429.zip`
   * `PPSA99474.zip`
   * `PPSA99500.zip`
@@ -376,6 +391,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99520.zip`
   * `PPSA99541.zip`
   * `PPSA99555.zip`
+  * `PPSA99573.zip`
   * `PPSA99575.zip`
   * `PPSA99576.zip`
   * `PPSA99577.zip`
