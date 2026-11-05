@@ -275,40 +275,6 @@
             ]
         },
         {
-            "titleId": "CUSA00000",
-            "title": "Evoplayer-V0.13.5-Ppsa99039-Pro",
-            "version": "v0.13.5",
-            "author": "Unknown Author",
-            "category": "FFPFSC",
-            "description": "A media player for jailbroken PS5",
-            "checksum": "4b199abe0a9addaa9f64f259b5cc91fb455ed7283894fe910b8ef7aecc1d8b3a",
-            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
-            "filename": "EVOPlayer-v0.13.5-PPSA99039-pro.ffpfsc",
-            "downloadLinks": [
-                {
-                    "name": "Mirror",
-                    "url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.13.5/EVOPlayer-v0.13.5-PPSA99039-pro.ffpfsc"
-                }
-            ]
-        },
-        {
-            "titleId": "CUSA00000",
-            "title": "Evoplayer-V0.13.5-Ppsa99039",
-            "version": "v0.13.5",
-            "author": "Unknown Author",
-            "category": "FFPFSC",
-            "description": "A media player for jailbroken PS5",
-            "checksum": "0e1412682b8883065b0a43f62e475d48b4342a4a71a8c83cb97b4d2ed54ea72c",
-            "posterUrl": "https://cdn.jsdelivr.net/gh/nexgen999/evoX-CoreOS@main/assets/evoX-CoreOS_pkg.jpg",
-            "filename": "EVOPlayer-v0.13.5-PPSA99039.ffpfsc",
-            "downloadLinks": [
-                {
-                    "name": "Mirror",
-                    "url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.13.5/EVOPlayer-v0.13.5-PPSA99039.ffpfsc"
-                }
-            ]
-        },
-        {
             "titleId": "PPSA99001",
             "title": "ProsperoRadio Vulkan Edition",
             "version": "02.000.055",

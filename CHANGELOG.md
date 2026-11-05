@@ -1,5 +1,20 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 05/11/2026 à 15:02
+* **PAYLOADS**
+  * `Garlic-Savemgr V1.15-Beta6` (v1.15-beta6) - *Nouveau*
+  * `Garlic-Worker V1.2.2` (v1.2.2) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `Parasite Eve` (1.1.5) - *Mise à jour (Précédent: 0.2.0-beta)*
+  * `PC5` (2.3.2) - *Mise à jour (Précédent: 2.3.0)*
+  * `ProsperoSunshine` (0.3.2) - *Mise à jour (Précédent: 0.3.1)*
+  * `Mediathek` (01.000.090) - *Mise à jour (Précédent: 01.000.080)*
+  * `TubeBlock` (01.000.199) - *Mise à jour (Précédent: 01.000.197)*
+  * `Second Coat: London` (0.3.1) - *Mise à jour (Précédent: 0.3.0)*
+  * `Nuvio Max'd` (1.0.0.8-native-experimental) - *Mise à jour (Précédent: 1.0.0.5-native-experimental)*
+  * `PSBox Cloud Gaming` (1.6.1) - *Mise à jour (Précédent: 1.6.0)*
+  * `FileDen` (0.0.1) - *Nouveau*
+
 ## Build du 04/11/2026 à 23:29
 * **PAYLOADS**
   * `Garlic-Savemgr V1.15-Beta2` (v1.15-beta2) - *Nouveau*

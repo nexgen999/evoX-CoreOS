@@ -46,15 +46,15 @@
         {
             "name": "Parasite Eve",
             "filename": "PEVG00022.zip",
-            "url": "https://github.com/GUMMIBRI/parasite-eve-ps5/releases/download/v0.2.0-beta/Parasite-Eve-Beta-0.2.0-Build-12-asset-free.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PEVG00022/0.2.0-beta/PEVG00022.zip",
+            "url": "https://github.com/GUMMIBRI/parasite-eve-ps5/releases/download/v1.1.5/Parasite-Eve-v1.1.5-Build15.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PEVG00022/1.1.5/PEVG00022.zip",
             "description": "Parasite Eve 1&2 Port community: https://discord.gg/Yg88tHYXK. PS5 Beta 0.2.0 (Build 12); own game data required. No discs/textures. Save states off; normal memory cards supported.",
-            "version": "0.2.0-beta",
+            "version": "1.1.5",
             "category": "Games",
             "kind": "game",
             "titleid": "PEVG00022",
             "author": "GUMMIBRI",
-            "checksum": "e1b7cdb078c15710b63dd3bdd6aeb96010f2aea5a8095295bfa6d601ca775b7e",
+            "checksum": "5a45cc21982b9056c35a9c806a71f2189641c0352179afc582495e7d0b52c61d",
             "source": "https://github.com/GUMMIBRI/parasite-eve-ps5"
         },
         {
@@ -88,15 +88,15 @@
         {
             "name": "PC5",
             "filename": "PPSA11018.zip",
-            "url": "https://github.com/bornaradusin/PC5/releases/download/v2.3.0/PPSA11018.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.3.0/PPSA11018.zip",
+            "url": "https://github.com/bornaradusin/PC5/releases/download/v2.3.2/PPSA11018.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.3.2/PPSA11018.zip",
             "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.",
-            "version": "2.3.0",
+            "version": "2.3.2",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA11018",
             "author": "bornaradusin",
-            "checksum": "7d851d5c24de3dcc53e5185725b47c2c976bfd32f12c6c6708559c6749404648",
+            "checksum": "7916281c56897cccbe724779c1d1fb59619927e0b1e664f4382c3647ed5a0cab",
             "source": "https://github.com/bornaradusin/PC5"
         },
         {
@@ -126,20 +126,6 @@
             "author": "TsvetomirGT",
             "checksum": "5327e36b9a57776a7bb7a32a16865d54b28be3b1622280c4dbc9e6ee469e2993",
             "source": "https://github.com/TsvetomirGT/SymphonyStation5"
-        },
-        {
-            "name": "XashPS5",
-            "filename": "PPSA19111.zip",
-            "url": "https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.3/PPSA19111.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA19111/1.3/PPSA19111.zip",
-            "description": "Native PS5 port of Xash3D FWGS: Half-Life, Opposing Force and Blue Shift up to 4K at 60 FPS with DualSense input. Needs your own Half-Life game data.",
-            "version": "1.3",
-            "category": "Games",
-            "kind": "game",
-            "titleid": "PPSA19111",
-            "author": "GordonProsperoMan",
-            "checksum": "1bb8f143016c51d0fac8e1621e95c65aa6cf143ee7eeb03b4ab3febe5c294670",
-            "source": "https://github.com/GordonProsperoMan/xash3d-ps5"
         },
         {
             "name": "Source Port",
@@ -270,15 +256,15 @@
         {
             "name": "ProsperoSunshine",
             "filename": "PPSA47989.zip",
-            "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.3.1/PPSA47989.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.3.1/PPSA47989.zip",
+            "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.3.2/PPSA47989.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.3.2/PPSA47989.zip",
             "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.",
-            "version": "0.3.1",
+            "version": "0.3.2",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA47989",
             "author": "Darkatek7",
-            "checksum": "efc8b8232339e60ff7767868f0e7a59ecc086df11c331ee2c4448d77e30a0922",
+            "checksum": "a694ee8589da66c70fed94326223b7b901906abb4586f394238ca2e0f8681da2",
             "source": "https://github.com/Darkatek7/ProsperoSunshine"
         },
         {
@@ -326,15 +312,15 @@
         {
             "name": "Mediathek",
             "filename": "PPSA66120.zip",
-            "url": "https://github.com/M0S4YSH3LL0/mediathek-ps5/releases/download/01.000.080/Mediathek-PPSA66120-01.000.080.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA66120/01.000.080/PPSA66120.zip",
+            "url": "https://github.com/M0S4YSH3LL0/mediathek-ps5/releases/download/01.000.090/Mediathek-PPSA66120-01.000.090.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA66120/01.000.090/PPSA66120.zip",
             "description": "A Netflix-style movie library for your PS5",
-            "version": "01.000.080",
+            "version": "01.000.090",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA66120",
             "author": "m0",
-            "checksum": "d0e9620a4c50b38cf9273a467bc8fe6dfe20643bc14da6d70f8bcd5979158c1a",
+            "checksum": "6a6599db02f474163504464182dfbd8debd411b5c54cbd6da95c75651bb1001e",
             "source": "https://github.com/M0S4YSH3LL0/mediathek-ps5"
         },
         {
@@ -774,15 +760,15 @@
         {
             "name": "TubeBlock",
             "filename": "PPSA98260.zip",
-            "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.197/SmartTube-PPSA98260.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.197/PPSA98260.zip",
+            "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.199/SmartTube-PPSA98260.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.199/PPSA98260.zip",
             "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
-            "version": "01.000.197",
+            "version": "01.000.199",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA98260",
             "author": "animatian112",
-            "checksum": "8dc125ed097ab092941e3d8e3e4d63e673ac9aa6aeb3ced255a085b63a7a6999",
+            "checksum": "804ec076338064dca8426ac4fef0871ec18357292781989f6ec204d38df1ecf1",
             "source": "https://github.com/animatian112/ytps5-sponsorblock"
         },
         {
@@ -1012,15 +998,15 @@
         {
             "name": "Second Coat: London",
             "filename": "PPSA99020.zip",
-            "url": "https://github.com/SecondCoat/second-coat-london/releases/download/v0.3.0/getaway-ps5-PPSA99020.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA99020/0.3.0/PPSA99020.zip",
+            "url": "https://github.com/SecondCoat/second-coat-london/releases/download/v0.3.1/getaway-ps5-PPSA99020.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA99020/0.3.1/PPSA99020.zip",
             "description": "The Getaway (PS2) remastered with modern graphics, reworked controls and driving, mods and online free roam; you bring your own disc image.",
-            "version": "0.3.0",
+            "version": "0.3.1",
             "category": "Games",
             "kind": "game",
             "titleid": "PPSA99020",
             "author": "Second Coat",
-            "checksum": "72e53688b821c309a015382872e26214c74b434bc694171e85bb2d8d7a1fbe44",
+            "checksum": "8039f0763ffe7c8a348958887bb2e2770cf9659e61d0a658fd26c661948a6113",
             "source": "https://github.com/SecondCoat/second-coat-london"
         },
         {
@@ -1080,20 +1066,6 @@
             "source": "https://github.com/bizkut/ps5-forever"
         },
         {
-            "name": "EVO Player",
-            "filename": "PPSA99039.zip",
-            "url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.13.5/EVOPlayer-v0.13.5-PPSA99039.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99039/0.13.5/PPSA99039.zip",
-            "description": "Media player for PS5 that plays video from USB or internal storage, with hardware decoding up to 4K, 10-bit HDR and surround audio.",
-            "version": "0.13.5",
-            "category": "Apps",
-            "kind": "app",
-            "titleid": "PPSA99039",
-            "author": "Sain Saji",
-            "checksum": "c4a60ffa4c364cc4990a5bf637e004289b3de95dd9b538cb88372321b52cb256",
-            "source": "https://github.com/sainsaji/EVO-PLAYER-PS5"
-        },
-        {
             "name": "Surround Sound Studio",
             "filename": "PPSA99051.zip",
             "url": "https://github.com/sainsaji/PS5-Audio-Passthrough-Research/releases/download/01.000.003/PPSA99051.zip",
@@ -1108,20 +1080,6 @@
             "source": "https://github.com/sainsaji/PS5-Audio-Passthrough-Research"
         },
         {
-            "name": "Spot5",
-            "filename": "PPSA99061.zip",
-            "url": "https://github.com/abhi245y/spot5/releases/download/v1.1.0/PPSA99061.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99061/1.1.0/PPSA99061.zip",
-            "description": "Unofficial native Spotify player, not affiliated with Spotify: Home, Your Library, playlists, artists, Now Playing and more, with Spotify Connect. Needs Premium.",
-            "version": "1.1.0",
-            "category": "Apps",
-            "kind": "app",
-            "titleid": "PPSA99061",
-            "author": "abhi245y",
-            "checksum": "af10d43f274db036ba2835dbc5f429cab416c028a6247023c8f6bd7076600c6c",
-            "source": "https://github.com/abhi245y/spot5"
-        },
-        {
             "name": "ORION Media Center",
             "filename": "PPSA99062.zip",
             "url": "https://github.com/XeN-Made/Orion-Media-Center/releases/download/01.107.000/PPSA99062.zip",
@@ -1134,20 +1092,6 @@
             "author": "XeN-Made",
             "checksum": "e38f72806f902e661dd5687a2ba4a622f3b8e6f31bbddcd73d5f23dc93f61246",
             "source": "https://github.com/XeN-Made/Orion-Media-Center"
-        },
-        {
-            "name": "Mupen64Plus PS5",
-            "filename": "PPSA99064.zip",
-            "url": "https://github.com/TheRealRetro/mupen64plus-ps5/releases/download/0.7.5/Mupen64PlusPS5.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99064/0.7.5/PPSA99064.zip",
-            "description": "Nintendo 64 emulator (mupen64plus-core 2.6.0) as a native PS5 home-screen app: dynarec, DualSense rumble, cover shelf, save states, auto-updates",
-            "version": "0.7.5",
-            "category": "Apps",
-            "kind": "app",
-            "titleid": "PPSA99064",
-            "author": "TheRealRetro",
-            "checksum": "4c6d2fab14c696304527bdf3123647fd543b5b91edbec80607833ee9bf25eaaa",
-            "source": "https://github.com/TheRealRetro/mupen64plus-ps5"
         },
         {
             "name": "OpenNOW PS5 - Prototype",
@@ -1418,15 +1362,15 @@
         {
             "name": "Nuvio Max'd",
             "filename": "PPSA99288.zip",
-            "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.5-native-experimental/PPSA99288.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.5-native-experimental/PPSA99288.zip",
-            "description": "Native Nuvio for PS5 with profiles, synced history, addons, Library search, Live TV Now/Next, series update badges, IPTV VOD, chapters, trailers and optional playback engines.",
-            "version": "1.0.0.5-native-experimental",
+            "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.8-native-experimental/PPSA99288.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.8-native-experimental/PPSA99288.zip",
+            "description": "Native Nuvio for PS5 with profiles, addons, synced progress, Live TV/IPTV, Library search, experimental Plex/Jellyfin/Emby media servers and optional playback engines.",
+            "version": "1.0.0.8-native-experimental",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99288",
             "author": "HandshakeHackin",
-            "checksum": "f97a8e722e71a6ac257b58674d7f78893ab7a218cbc359892c0fa2edcb2eea7d",
+            "checksum": "ca8e22dcde1695b4a5239dc9dacaf1863f3aefee65366818620aa3a6424f156b",
             "source": "https://github.com/HandshakeHackin/Nuvio-maxd-releases"
         },
         {
@@ -1584,20 +1528,6 @@
             "source": "https://github.com/griches/PS5_ArtSwap"
         },
         {
-            "name": "Quake3e",
-            "filename": "PPSA99319.zip",
-            "url": "https://github.com/griches/PS5_Quake3e/releases/download/v1.4.0/Quake3-PS5-v1.4.0.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA99319/1.4.0/PPSA99319.zip",
-            "description": "Native PS5 port of Quake3e, the improved Quake III Arena engine, drawing with Vulkan at up to 4K with DualSense or USB mouse and keyboard input. Needs your own Quake III Arena game data.",
-            "version": "1.4.0",
-            "category": "Games",
-            "kind": "game",
-            "titleid": "PPSA99319",
-            "author": "Gary Riches",
-            "checksum": "56f337f5066e9c830788504ebce97b992df4a37444a7306a82d011dde5de8d8c",
-            "source": "https://github.com/griches/PS5_Quake3e"
-        },
-        {
             "name": "Ship of Harkinian (Vulkan)",
             "filename": "PPSA99320.zip",
             "url": "https://github.com/damiantw/PS5_Shipwright/releases/download/01.000.001/PPSA99320.zip",
@@ -1708,20 +1638,6 @@
             "author": "7tg",
             "checksum": "6da4e6d24f5d51579a5ee78982f1c3b238d589cdbc893f101ebc1c2eae8c3fc8",
             "source": "https://github.com/7tg/futbol13"
-        },
-        {
-            "name": "PS5MC (Kodi)",
-            "filename": "PPSA99420.zip",
-            "url": "https://github.com/Notedop/xbmc-ps5/releases/download/22.000.000/PPSA99420.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99420/22.000.000/PPSA99420.zip",
-            "description": "PS5MC, an unofficial port of the Kodi 22 media center for PS5, with a 4K GPU interface, hardware H.264, HEVC and VP9 decoding and HDR output.",
-            "version": "22.000.000",
-            "category": "Apps",
-            "kind": "app",
-            "titleid": "PPSA99420",
-            "author": "Notedop",
-            "checksum": "68d409b6ce7f3766354bd70603b1d3ea651512624034385f670450a3c06d1f15",
-            "source": "https://github.com/Notedop/xbmc-ps5"
         },
         {
             "name": "ApricotGS",
@@ -1848,20 +1764,6 @@
             "author": "ThatRetiredDude",
             "checksum": "07071e4ea9b799f9909cc4e2df31e7d53391b2025ef4f3d5b18604383a10daf5",
             "source": "https://github.com/ThatRetiredDude/TokenStation5"
-        },
-        {
-            "name": "FoxHollow",
-            "filename": "PPSA99573.zip",
-            "url": "https://github.com/BaZZtian/PS5-FoxHollow/releases/download/v0.1.4/FoxHollow-0.1.4-PPSA99573.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA99573/0.1.4/PPSA99573.zip",
-            "description": "Native PS5 port of Star Fox Adventures; PAL release for firmware 12.40 with save/load and in-menu language selection. Requires your own disc image; no game data included.",
-            "version": "0.1.4",
-            "category": "Games",
-            "kind": "game",
-            "titleid": "PPSA99573",
-            "author": "BaZZtian",
-            "checksum": "3b4af2f5d24e8069558e9a3b4f7b47f10002b23965f5a3fdfa09dafed2fafba8",
-            "source": "https://github.com/BaZZtian/PS5-FoxHollow"
         },
         {
             "name": "PS5LM",
@@ -2258,15 +2160,15 @@
         {
             "name": "PSBox Cloud Gaming",
             "filename": "PPSA99810.zip",
-            "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v1.6.0/PPSA99810.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.6.0/PPSA99810.zip",
+            "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v1.6.1/PPSA99810.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.6.1/PPSA99810.zip",
             "description": "Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.",
-            "version": "1.6.0",
+            "version": "1.6.1",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99810",
             "author": "RafaelNGP",
-            "checksum": "dae7c3830a06018a6fb2b3cf5055fe1fef32549dfa9aa6de342a42983f3228a2",
+            "checksum": "06a0e4fcef6961f85e15c1feba6d3209c16f2c4ae20cdb2cb620c7b96757c820",
             "source": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5"
         },
         {
@@ -2338,6 +2240,20 @@
             "author": "MisterTemaki",
             "checksum": "821495ae35a19d9b522cd546e54dfa2d5d67c29bb249d36fb5b1a1250040a03f",
             "source": "https://github.com/MisterTemaki/snes9xPS5"
+        },
+        {
+            "name": "FileDen",
+            "filename": "PPSA99923.zip",
+            "url": "https://github.com/realLesiedd/FileDen/releases/download/v0.0.1/FileDen-PPSA99923.zip",
+            "local_path": "downloads/apps/homebrew_page/tool/PPSA99923/0.0.1/PPSA99923.zip",
+            "description": "File manager for jailbroken PS5: browse, copy, move, ZIP / 7z / RAR, game icons and a web UI, with PS5 system files protected.",
+            "version": "0.0.1",
+            "category": "Tools",
+            "kind": "tool",
+            "titleid": "PPSA99923",
+            "author": "realLesiedd",
+            "checksum": "f127dfe5426e537151a7d722aea29a22ac068b592025f7cc5af424f1e9d94d75",
+            "source": "https://github.com/realLesiedd/FileDen"
         },
         {
             "name": "FBNeo PS5",

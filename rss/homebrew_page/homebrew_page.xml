@@ -26,7 +26,7 @@
       <title>Parasite Eve</title>
       <link>https://github.com/GUMMIBRI/parasite-eve-ps5</link>
       <description>Parasite Eve 1&amp;2 Port community: https://discord.gg/Yg88tHYXK. PS5 Beta 0.2.0 (Build 12); own game data required. No discs/textures. Save states off; normal memory cards supported.</description>
-      <pubDate>0.2.0-beta</pubDate>
+      <pubDate>1.1.5</pubDate>
     </item>
     <item>
       <title>OliSe Player</title>
@@ -44,7 +44,7 @@
       <title>PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.</description>
-      <pubDate>2.3.0</pubDate>
+      <pubDate>2.3.2</pubDate>
     </item>
     <item>
       <title>Home5</title>
@@ -57,12 +57,6 @@
       <link>https://github.com/TsvetomirGT/SymphonyStation5</link>
       <description>A native Navidrome music client for the PlayStation 5.</description>
       <pubDate>v0.1.0</pubDate>
-    </item>
-    <item>
-      <title>XashPS5</title>
-      <link>https://github.com/GordonProsperoMan/xash3d-ps5</link>
-      <description>Native PS5 port of Xash3D FWGS: Half-Life, Opposing Force and Blue Shift up to 4K at 60 FPS with DualSense input. Needs your own Half-Life game data.</description>
-      <pubDate>1.3</pubDate>
     </item>
     <item>
       <title>Source Port</title>
@@ -122,7 +116,7 @@
       <title>ProsperoSunshine</title>
       <link>https://github.com/Darkatek7/ProsperoSunshine</link>
       <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.</description>
-      <pubDate>0.3.1</pubDate>
+      <pubDate>0.3.2</pubDate>
     </item>
     <item>
       <title>SudokuZen</title>
@@ -146,7 +140,7 @@
       <title>Mediathek</title>
       <link>https://github.com/M0S4YSH3LL0/mediathek-ps5</link>
       <description>A Netflix-style movie library for your PS5</description>
-      <pubDate>01.000.080</pubDate>
+      <pubDate>01.000.090</pubDate>
     </item>
     <item>
       <title>PayLoader</title>
@@ -338,7 +332,7 @@
       <title>TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.197</pubDate>
+      <pubDate>01.000.199</pubDate>
     </item>
     <item>
       <title>CD Player</title>
@@ -440,7 +434,7 @@
       <title>Second Coat: London</title>
       <link>https://github.com/SecondCoat/second-coat-london</link>
       <description>The Getaway (PS2) remastered with modern graphics, reworked controls and driving, mods and online free roam; you bring your own disc image.</description>
-      <pubDate>0.3.0</pubDate>
+      <pubDate>0.3.1</pubDate>
     </item>
     <item>
       <title>reSOT (Prince of Persia: The Sands of Time)</title>
@@ -467,34 +461,16 @@
       <pubDate>01.000.024</pubDate>
     </item>
     <item>
-      <title>EVO Player</title>
-      <link>https://github.com/sainsaji/EVO-PLAYER-PS5</link>
-      <description>Media player for PS5 that plays video from USB or internal storage, with hardware decoding up to 4K, 10-bit HDR and surround audio.</description>
-      <pubDate>0.13.5</pubDate>
-    </item>
-    <item>
       <title>Surround Sound Studio</title>
       <link>https://github.com/sainsaji/PS5-Audio-Passthrough-Research</link>
       <description>Sends Dolby Digital, Dolby Digital Plus, DTS, AAC and TrueHD to your receiver untouched over HDMI, plus a speaker test lab with a 3D sound field.</description>
       <pubDate>01.000.003</pubDate>
     </item>
     <item>
-      <title>Spot5</title>
-      <link>https://github.com/abhi245y/spot5</link>
-      <description>Unofficial native Spotify player, not affiliated with Spotify: Home, Your Library, playlists, artists, Now Playing and more, with Spotify Connect. Needs Premium.</description>
-      <pubDate>1.1.0</pubDate>
-    </item>
-    <item>
       <title>ORION Media Center</title>
       <link>https://github.com/XeN-Made/Orion-Media-Center</link>
       <description>A launcher that shows your PS5 and PS4 games, homebrew, media apps and emulated games in one library, with box art, tabs, themes and autoboot.</description>
       <pubDate>01.107.000</pubDate>
-    </item>
-    <item>
-      <title>Mupen64Plus PS5</title>
-      <link>https://github.com/TheRealRetro/mupen64plus-ps5</link>
-      <description>Nintendo 64 emulator (mupen64plus-core 2.6.0) as a native PS5 home-screen app: dynarec, DualSense rumble, cover shelf, save states, auto-updates</description>
-      <pubDate>0.7.5</pubDate>
     </item>
     <item>
       <title>OpenNOW PS5 - Prototype</title>
@@ -613,8 +589,8 @@
     <item>
       <title>Nuvio Max'd</title>
       <link>https://github.com/HandshakeHackin/Nuvio-maxd-releases</link>
-      <description>Native Nuvio for PS5 with profiles, synced history, addons, Library search, Live TV Now/Next, series update badges, IPTV VOD, chapters, trailers and optional playback engines.</description>
-      <pubDate>1.0.0.5-native-experimental</pubDate>
+      <description>Native Nuvio for PS5 with profiles, addons, synced progress, Live TV/IPTV, Library search, experimental Plex/Jellyfin/Emby media servers and optional playback engines.</description>
+      <pubDate>1.0.0.8-native-experimental</pubDate>
     </item>
     <item>
       <title>Spider-Man: Edge of Time</title>
@@ -683,12 +659,6 @@
       <pubDate>1.4.0</pubDate>
     </item>
     <item>
-      <title>Quake3e</title>
-      <link>https://github.com/griches/PS5_Quake3e</link>
-      <description>Native PS5 port of Quake3e, the improved Quake III Arena engine, drawing with Vulkan at up to 4K with DualSense or USB mouse and keyboard input. Needs your own Quake III Arena game data.</description>
-      <pubDate>1.4.0</pubDate>
-    </item>
-    <item>
       <title>Ship of Harkinian (Vulkan)</title>
       <link>https://github.com/damiantw/PS5_Shipwright</link>
       <description>Ship of Harkinian (Ocarina of Time PC port) on Vulkan: converts your own ROM on the console, 60 FPS at 4K, HD texture packs, right-stick camera and PS button prompts; tested on firmware 13.60.</description>
@@ -735,12 +705,6 @@
       <link>https://github.com/7tg/futbol13</link>
       <description>Your own PC copy of Pro Evolution Soccer 2013 as a homebrew app on a jailbroken PS5, through prospero-win, squad updates and commentary mods included (bring your own copy).</description>
       <pubDate>01.000.002</pubDate>
-    </item>
-    <item>
-      <title>PS5MC (Kodi)</title>
-      <link>https://github.com/Notedop/xbmc-ps5</link>
-      <description>PS5MC, an unofficial port of the Kodi 22 media center for PS5, with a 4K GPU interface, hardware H.264, HEVC and VP9 decoding and HDR output.</description>
-      <pubDate>22.000.000</pubDate>
     </item>
     <item>
       <title>ApricotGS</title>
@@ -795,12 +759,6 @@
       <link>https://github.com/ThatRetiredDude/TokenStation5</link>
       <description>Private AI server on your PS5: Qwen, Llama, Mistral and Gemma on its GPU behind an OpenAI-compatible API, with API keys, Tailscale, voice in and out, chat on the TV and Hugging Face downloads.</description>
       <pubDate>01.004.001</pubDate>
-    </item>
-    <item>
-      <title>FoxHollow</title>
-      <link>https://github.com/BaZZtian/PS5-FoxHollow</link>
-      <description>Native PS5 port of Star Fox Adventures; PAL release for firmware 12.40 with save/load and in-menu language selection. Requires your own disc image; no game data included.</description>
-      <pubDate>0.1.4</pubDate>
     </item>
     <item>
       <title>PS5LM</title>
@@ -974,7 +932,7 @@
       <title>PSBox Cloud Gaming</title>
       <link>https://github.com/RafaelNGP/xbox-cloud-gaming-ps5</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
-      <pubDate>1.6.0</pubDate>
+      <pubDate>1.6.1</pubDate>
     </item>
     <item>
       <title>Estante</title>
@@ -1005,6 +963,12 @@
       <link>https://github.com/MisterTemaki/snes9xPS5</link>
       <description>Snes9x (Super Nintendo) as a native PS5 app.</description>
       <pubDate>v2.11</pubDate>
+    </item>
+    <item>
+      <title>FileDen</title>
+      <link>https://github.com/realLesiedd/FileDen</link>
+      <description>File manager for jailbroken PS5: browse, copy, move, ZIP / 7z / RAR, game icons and a web UI, with PS5 system files protected.</description>
+      <pubDate>0.0.1</pubDate>
     </item>
     <item>
       <title>FBNeo PS5</title>

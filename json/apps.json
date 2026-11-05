@@ -42,26 +42,6 @@
       "category": "Applications"
     },
     {
-      "name": "Ps5Mc-1.2-Kodi21-Ppsa99421",
-      "filename": "PS5MC-1.2-kodi21-PPSA99421.zip",
-      "url": "https://github.com/VivaLaVent/PS5MC/releases/download/1.2/PS5MC-1.2-kodi21-PPSA99421.zip",
-      "local_path": "apps/kodi-ps5/1.2/PS5MC-1.2-kodi21-PPSA99421.zip",
-      "description": "kodi-ps5",
-      "version": "1.2",
-      "checksum": "a62af4451c0877b967acceb74889f8d0c8d268e5764ba4f299fe723f41df7ef0",
-      "category": "Applications"
-    },
-    {
-      "name": "Ps5Mc-1.2-Kodi22-Ppsa99420",
-      "filename": "PS5MC-1.2-kodi22-PPSA99420.zip",
-      "url": "https://github.com/VivaLaVent/PS5MC/releases/download/1.2/PS5MC-1.2-kodi22-PPSA99420.zip",
-      "local_path": "apps/kodi-ps5/1.2/PS5MC-1.2-kodi22-PPSA99420.zip",
-      "description": "kodi-ps5",
-      "version": "1.2",
-      "checksum": "5a9eeff4a0024a341a4924b8d283fe65b4ff94d7f5dbea446c8a677c4db157b6",
-      "category": "Applications"
-    },
-    {
       "name": "Emulatorpack",
       "filename": "EmulatorPack.zip",
       "url": "https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/EmulatorPack.zip",
@@ -239,16 +219,6 @@
       "description": "Vita3K for PS5",
       "version": "alpha",
       "checksum": "bee5db90dd10a7b4c7555772edff96125fc91752eb9d1b0ce4c6fb02eaee8195",
-      "category": "Applications"
-    },
-    {
-      "name": "Markus Phu-Emupack Ps1-Tool.Ps5",
-      "filename": "Markus_PHU-EmuPack_PS1-Tool.PS5.rar",
-      "url": "https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack_PS1-Tool.PS5.rar",
-      "local_path": "apps/EmuPack_PS1-Tool.PS5/Source-Fixe/Markus_PHU-EmuPack_PS1-Tool.PS5.rar",
-      "description": "EmuPack_PS1-Tool.PS5",
-      "version": "Source-Fixe",
-      "checksum": "f2abb56e05c0cd8077c5cf47ec8b1526ef5783798ae9629ee24e10b734f4c830",
       "category": "Applications"
     },
     {

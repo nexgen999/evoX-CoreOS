@@ -29,18 +29,6 @@
       <pubDate>v1.02</pubDate>
     </item>
     <item>
-      <title>Ps5Mc-1.2-Kodi21-Ppsa99421</title>
-      <link>https://github.com/VivaLaVent/PS5MC/releases/download/1.2/PS5MC-1.2-kodi21-PPSA99421.zip</link>
-      <description>kodi-ps5</description>
-      <pubDate>1.2</pubDate>
-    </item>
-    <item>
-      <title>Ps5Mc-1.2-Kodi22-Ppsa99420</title>
-      <link>https://github.com/VivaLaVent/PS5MC/releases/download/1.2/PS5MC-1.2-kodi22-PPSA99420.zip</link>
-      <description>kodi-ps5</description>
-      <pubDate>1.2</pubDate>
-    </item>
-    <item>
       <title>Emulatorpack</title>
       <link>https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/EmulatorPack.zip</link>
       <description>Backup manager for PS5</description>
@@ -147,12 +135,6 @@
       <link>https://github.com/tsuramatsu1/Vita3K-PS5/releases/download/alpha/PPSA99300.zip</link>
       <description>Vita3K for PS5</description>
       <pubDate>alpha</pubDate>
-    </item>
-    <item>
-      <title>Markus Phu-Emupack Ps1-Tool.Ps5</title>
-      <link>https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack_PS1-Tool.PS5.rar</link>
-      <description>EmuPack_PS1-Tool.PS5</description>
-      <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
       <title>Markus Phu-Emupack-Nes.Ps5</title>

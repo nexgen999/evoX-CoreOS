@@ -461,7 +461,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "d6a3f84b7998c275944f96a87de7fddd746f9c32733bae8b1940c994ef0ba3f5",
+      "checksum": "f055bc71a2b950c223036af63a53625b82e6bee440c31810017027a0ace7258d",
       "source": "https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf"
     },
     {
@@ -586,25 +586,25 @@
       "source": "https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/PS5_Beta/a53_ppr/a53_ppr_install_1160_20.09.elf"
     },
     {
-      "name": "Garlic-Savemgr V1.15-Beta2",
-      "filename": "garlic-savemgr_v1.15-beta2.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta2/garlic-savemgr_v1.15-beta2.elf",
-      "local_path": "payloads/ps5_saves/garlic-savemgr/v1.15-beta2/garlic-savemgr_v1.15-beta2.elf",
+      "name": "Garlic-Savemgr V1.15-Beta6",
+      "filename": "garlic-savemgr_v1.15-beta6.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta6/garlic-savemgr_v1.15-beta6.elf",
+      "local_path": "payloads/ps5_saves/garlic-savemgr/v1.15-beta6/garlic-savemgr_v1.15-beta6.elf",
       "description": "Save manager utility hosted on Forgejo.",
-      "version": "v1.15-beta2",
+      "version": "v1.15-beta6",
       "category": "PS5 Saves",
-      "checksum": "f3733b5ee291fb89dd515b659f34273dad437e054b8abb50a1d7f69d812c11b3",
+      "checksum": "af6e31fb07e5260f20ef118cb0d140445e7897bc55757f55c2d9499d91beb257",
       "source": "https://git.etawen.dev/earthonion/garlic-savemgr/releases"
     },
     {
-      "name": "Garlic-Worker V1.1.8",
-      "filename": "garlic-worker_v1.1.8.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.1.8/garlic-worker_v1.1.8.elf",
-      "local_path": "payloads/ps5_saves/garlic-worker/v1.1.8/garlic-worker_v1.1.8.elf",
+      "name": "Garlic-Worker V1.2.2",
+      "filename": "garlic-worker_v1.2.2.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.2.2/garlic-worker_v1.2.2.elf",
+      "local_path": "payloads/ps5_saves/garlic-worker/v1.2.2/garlic-worker_v1.2.2.elf",
       "description": "Garlic worker payload component.",
-      "version": "v1.1.8",
+      "version": "v1.2.2",
       "category": "PS5 Saves",
-      "checksum": "7d50cfca84e2f456e1b0bd6e60ab2291e81fdeeb04e7816fbf900b2dba3b69db",
+      "checksum": "a1bbe4f4d07371b6eef228ff0f08b21044c77f17d2175c3c77028b3a3110cac7",
       "source": "https://git.etawen.dev/earthonion/garlic-worker/releases"
     },
     {
@@ -1112,17 +1112,6 @@
       "category": "PS5 Server",
       "checksum": "5f00e2df7fa8ab7daa084343f38394e6672cd389e03fc8598a54d7d9e1d58d16",
       "source": "https://github.com/ps5-payload-dev/ftpsrv/releases"
-    },
-    {
-      "name": "Websrv V0.34",
-      "filename": "websrv_v0.34.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf",
-      "local_path": "payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf",
-      "description": "HTTP Web server payload. Port: 8080",
-      "version": "v0.34",
-      "category": "PS5 Server",
-      "checksum": "54730c867c6e1148536fdcb370e63a7762d989ea87b62488ad4caff64d43f263",
-      "source": "https://github.com/ps5-payload-dev/websrv/releases"
     },
     {
       "name": "Gdbsrv V0.9",

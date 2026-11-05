@@ -329,16 +329,16 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>Garlic-Savemgr V1.15-Beta2</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta2/garlic-savemgr_v1.15-beta2.elf</link>
+      <title>Garlic-Savemgr V1.15-Beta6</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta6/garlic-savemgr_v1.15-beta6.elf</link>
       <description>Save manager utility hosted on Forgejo.</description>
-      <pubDate>v1.15-beta2</pubDate>
+      <pubDate>v1.15-beta6</pubDate>
     </item>
     <item>
-      <title>Garlic-Worker V1.1.8</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.1.8/garlic-worker_v1.1.8.elf</link>
+      <title>Garlic-Worker V1.2.2</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.2.2/garlic-worker_v1.2.2.elf</link>
       <description>Garlic worker payload component.</description>
-      <pubDate>v1.1.8</pubDate>
+      <pubDate>v1.2.2</pubDate>
     </item>
     <item>
       <title>Savemnt-Offset-Dumper V1.0.0</title>
@@ -615,12 +615,6 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ftpsrv_ps5-payload/v0.21.1/ftpsrv_ps5-payload_v0.21.1.elf</link>
       <description>FTP server background daemon. Port: 21</description>
       <pubDate>v0.21.1</pubDate>
-    </item>
-    <item>
-      <title>Websrv V0.34</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf</link>
-      <description>HTTP Web server payload. Port: 8080</description>
-      <pubDate>v0.34</pubDate>
     </item>
     <item>
       <title>Gdbsrv V0.9</title>

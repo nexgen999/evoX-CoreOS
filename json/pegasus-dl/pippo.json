@@ -3,6 +3,189 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA13446",
+      "title": "Aphelion",
+      "createdAt": "2026-11-05T12:58:28.934Z",
+      "version": "v01.003",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA13446_4bc196811fce97c895008ce6b6f60015953a205ad01b98b282e2196de7a8b633/icon0.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA13446, v01.003, USA, 4.xx BackPort\nSize: 52GB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: Note: Own ZTSD Extractor. FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/vz57a4paert7/PPSA13446.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/vkua2vkwczzg/PPSA13446.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/QN9mEdlKyG6d/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/lwU5bypPrA"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/M2BGwLAWMmj4/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/p2K2FCUQbc"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/k52rul1eenyk/PPSA13446-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/oe5lt6diwx6e/PPSA13446-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 55834574848
+    },
+    {
+      "titleId": "PPSA10720",
+      "title": "The Beast Inside",
+      "createdAt": "2026-11-05T12:58:28.934Z",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/77ebdf797131b299584c0a6c23b72a370a759f691053aa856b7f5b7a82a6212f",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/5936451049beb8d89c22ede0b0cef91c72ad372f06e6796e9f6f963f103dfd30",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA10720, v01.000, USA, 4.xx BackPort\nSize: 22GB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 5.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/2ei8l3gyxw8e/PPSA10720.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/ugw1ialw58t2/PPSA10720.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/0Kezk0BEbGD1/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/EKNQXAmlIx"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/1RgzRLe1Pmbp/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/hz2mE1YgWv"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/5s90nvkcj3am/PPSA10720-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/ikyvjyk2j2gi/PPSA10720-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 23622320128
+    },
+    {
+      "titleId": "PPSA10122",
+      "title": "Return To Monkey Island",
+      "createdAt": "2026-11-05T12:58:28.934Z",
+      "version": "v01.101",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/6a0a71accb797a5b0337da4a66ccfdb12475ee28b9507cd797188dbc44097a28",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/0ffade9e901399000e39000d23baf590689da1e6a8967b2d08b1df0a70fbaaaa",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA10122, v01.101, USA, 4.xx BackPort + 5.xx BackPort\nSize: 4GB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: 5.xx BackPort already included on Base, 4.xx BackPort Only &amp; Original Files PKG included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/uuuygrvuluag/PPSA10122.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/bmcf1i7vuo19/PPSA10122.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/Pbe3PeKdQzlX/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/re59KDy1hw"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/k0embk6ja3Vb/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/eJkIcYWhsM"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/jfa9305lggan/PPSA10122-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/fd4i4inn37ke/PPSA10122-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 4294967296
+    },
+    {
+      "titleId": "PPSA06081",
+      "title": "Totally Accurate Battle Simulator",
+      "createdAt": "2026-11-05T12:58:28.934Z",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/90488c78f937913edee5e0d16fd628b027ca94efd24d03a98b48681468d4e98a",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/9352525b67fd8417ddc102d6d3795191a13f8001dc11d2cbcabf3616adb57073",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA06081, v01.000, USA, 4.xx BackPort\nSize: 5GB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 7.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/o4qmmrp0b679/PPSA06081.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/yvbu8ekp997c/PPSA06081.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/b5OzdkDjy3B8/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/2QXCA4AB1M"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/obj3jkxvjzDx/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/6wEEZfWAmY"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/owbaonptdcv8/PPSA06081-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/y1c2hvu3dr79/PPSA06081-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 5368709120
+    },
+    {
       "titleId": "PPSA30391",
       "title": "Alien Rogue Incursion Evolved Part One Deluxe Edition",
       "createdAt": "2026-11-04T11:27:36.796Z",

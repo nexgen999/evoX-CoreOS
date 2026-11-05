@@ -100,6 +100,20 @@
       "source": "https://github.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager"
     },
     {
+      "name": "FileDen",
+      "filename": "PPSA99923.zip",
+      "url": "https://github.com/realLesiedd/FileDen/releases/download/v0.0.1/FileDen-PPSA99923.zip",
+      "local_path": "downloads/apps/homebrew_page/tool/PPSA99923/0.0.1/PPSA99923.zip",
+      "description": "File manager for jailbroken PS5: browse, copy, move, ZIP / 7z / RAR, game icons and a web UI, with PS5 system files protected.",
+      "version": "0.0.1",
+      "category": "Tools",
+      "kind": "tool",
+      "titleid": "PPSA99923",
+      "author": "realLesiedd",
+      "checksum": "f127dfe5426e537151a7d722aea29a22ac068b592025f7cc5af424f1e9d94d75",
+      "source": "https://github.com/realLesiedd/FileDen"
+    },
+    {
       "name": "Forwarder Manager",
       "filename": "PPSA99930.zip",
       "url": "https://github.com/heydemoura/ps5-forwarder-manager/releases/download/00.001.006/PPSA99930.zip",
