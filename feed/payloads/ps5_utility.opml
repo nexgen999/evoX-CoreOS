@@ -11,5 +11,6 @@
     <outline text="PS5-Power-Payloads-Project" title="PS5-Power-Payloads-Project" type="rss" xmlUrl="https://github.com/MasterPS0/PS5-Power-Payloads-Project" author="MasterPS0" description="PS5-Power-Payloads-Project utility."/>
     <outline text="ps5-date-time-sync" title="ps5-date-time-sync" type="rss" xmlUrl="https://github.com/kerrdec97/ps5-date-time-sync" author="kerrdec97" description="A lightweight, standalone PS5 payload that restores the console's system date and time using public NTP servers."/>
     <outline text="FGG-Unpack" title="FGG-Unpack" type="rss" xmlUrl="https://github.com/FGGstore/FGG-Unpack" author="FGGstore" description="Extract .zip and .7z archives directly on a jailbroken PlayStation 5."/>
+    <outline text="ytps5" title="ytps5" type="rss" xmlUrl="https://github.com/MasterShivnath007/ytps5-sponsorblock" author="MasterShivnath007" description="Filters YouTube ads and skips sponsor segments in the official PS5 video app at runtime. One ELF, native settings panel, no app packages or DRM tools."/>
   </body>
 </opml>
