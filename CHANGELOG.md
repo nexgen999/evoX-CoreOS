@@ -1,5 +1,20 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 06/11/2026 à 14:10
+* **PAYLOADS**
+  * `Garlic-Savemgr V1.15-Beta9` (garlic-savemgr) - *Mise à jour (Précédent: v1.15-beta9)*
+  * `Garlic-Worker V1.3.2` (v1.3.2) - *Nouveau*
+* **APPS**
+  * `Ppsa97358` (Alpha-3) - *Mise à jour (Précédent: Alpha-2.1)*
+* **HOMEBREW_PAGE**
+  * `Playden` (0.10.0) - *Mise à jour (Précédent: 0.10.0-beta.2)*
+  * `Forgotten Warrior Remastered` (1.3.0) - *Mise à jour (Précédent: 1.2.0)*
+  * `PC5` (2.3.5) - *Mise à jour (Précédent: 2.3.4)*
+  * `ProsperoSunshine` (0.3.4) - *Mise à jour (Précédent: 0.3.2-webui-3)*
+  * `Parasitic Event Revisited` (1.1.6) - *Nouveau*
+  * `XPSemu` (Alpha-3) - *Mise à jour (Précédent: Alpha-2.1)*
+  * `TubeBlock` (01.000.201) - *Mise à jour (Précédent: 01.000.200)*
+
 ## Build du 06/11/2026 à 05:25
 * **HOMEBREW_PAGE**
   * `ProsperoSunshine` (0.3.2-webui-3) - *Mise à jour (Précédent: 0.3.2)*

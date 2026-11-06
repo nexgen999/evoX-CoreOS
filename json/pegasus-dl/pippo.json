@@ -3,6 +3,198 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA32193",
+      "title": "The Adventures of Elliot The Millennium Tales Deluxe Edition",
+      "createdAt": "2026-11-06T10:23:21.038Z",
+      "version": "v01.100",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/c3561c4538c02988a97ae4ef2b9ae5d2fe8cf19899cfcd88ed90d069d5d712c0",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/aa64d1210d4331cf30c4d4f3b95eb437cdc32d9c67ac0ae42738a6be3a2fb9f0",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA32193, v01.100, USA, DLCs Merged, 4.xx BackPort + 5.xx BackPort\nSize: 41GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: 5.xx BackPort already included on Base, 4.xx BackPort Only &amp; Original Files PKG included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/58pgrxn3osbj/PPSA32193.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/a0443jfwymv1/PPSA32193.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/Pbe3PeKZWzlX/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/3ZkF2yByw2"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/obj3jkxBrzDx/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/8hcinvmiNU"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/umx3xo7od49m/PPSA32193-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/d98n9q35432j/PPSA32193-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 44023414784
+    },
+    {
+      "titleId": "PPSA22408",
+      "title": "HOT WHEELS Infinite Rush",
+      "createdAt": "2026-11-06T10:23:21.038Z",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/216cc9e333c342a6057cf3272f4ef684d4325d2fb857b296f2c0dcc02753d3c5",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/92f4529345562bef8ac72c3a01fc57f69ea4ca00b5542f477e3115f6d841d0eb",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA22408, v01.000, EUR, 4.xx BackPort + 5.xx BackPort\nSize: 38GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: 5.xx BackPort already included on Base, 4.xx BackPort Only &amp; Original Files PKG included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/vdswmmu9r3wr/DLCs_Pippo_DUPLEX.rar"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://datavaults.co/vzgyme9n5qrg/DLCs_Pippo_DUPLEX.rar"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/d2ukiowu59p5/PPSA22408.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/ndkywluhavkk/PPSA22408.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/9QWmpWPbNGEB/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/lFj9pNKq8o"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/k0embk6On3Vb/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/0mTDbfHBrm"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/bsbrc05fs1mx/PPSA22408-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/5ospiukajnze/PPSA22408-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 40802189312
+    },
+    {
+      "titleId": "PPSA16280",
+      "title": "Ultros",
+      "createdAt": "2026-11-06T10:23:21.038Z",
+      "version": "v01.380",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/1c4ba420ff90c55b317c9eba52c68ea3c8a2d6216d47f3da6eaf8226bd8ecced",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/fa32128ff054c71236a7f6ad63f8e8a5277514cb833faa2a1d1bc1fac3ef11ec",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA16280, v01.380, USA, 4.xx BackPort\nSize: 3GB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 8.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/h9e1h7zkb5jb/PPSA16280.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/py89dut61xme/PPSA16280.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/EL73gkwrW39B/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/GCDq02BH3q"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/2WVGrWkRMmkx/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/DKaZiLRm42"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/tms5o2bu9mfi/PPSA16280-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/vh40ja0tttwl/PPSA16280-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 3221225472
+    },
+    {
+      "titleId": "PPSA13225",
+      "title": "Venba",
+      "createdAt": "2026-11-06T10:23:21.038Z",
+      "version": "v02.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/14e276d4666b56ec321784549b4aea6486f2e0db52a48b1c1504a3814de69df6",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/d0ec27fb99c2b684c28633db97923fe9e25a65966bdbe607992750b77c45759d",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA13225, v02.000, USA, 4.xx BackPort\nSize: 1GB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 6.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/k10atdg8dko4/PPSA13225.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/zfe0chmxm19x/PPSA13225.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/QN9mEdlxRG6d/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/mAwqnbQpwJ"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/M2BGwLAeXmj4/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/gtJp6kKxeq"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/oofgogyu2khp/PPSA13225-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/vk2ubx0gm7ny/PPSA13225-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 1073741824
+    },
+    {
       "titleId": "PPSA13446",
       "title": "Aphelion",
       "createdAt": "2026-11-05T12:58:28.934Z",

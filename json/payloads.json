@@ -461,7 +461,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "980be2aa4a8741336f024caea2b73003613a8ef7f7ffa2ece3fa5c860932a435",
+      "checksum": "657857a1a861728b1f9ff7f32d2451d55417af1eb9730fc5f24bb5d0557adcdf",
       "source": "https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf"
     },
     {
@@ -588,23 +588,21 @@
     {
       "name": "Garlic-Savemgr V1.15-Beta9",
       "filename": "garlic-savemgr_v1.15-beta9.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta9/garlic-savemgr_v1.15-beta9.elf",
+      "url": "",
       "local_path": "payloads/ps5_saves/garlic-savemgr/v1.15-beta9/garlic-savemgr_v1.15-beta9.elf",
-      "description": "Save manager utility hosted on Forgejo.",
-      "version": "v1.15-beta9",
-      "category": "PS5 Saves",
-      "checksum": "88ed2c04be0f20342a6e83eef7a97c8f3de9f15359f5859e00083e534888a062",
-      "source": "https://git.etawen.dev/earthonion/garlic-savemgr/releases"
+      "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+      "version": "garlic-savemgr",
+      "checksum": "88ed2c04be0f20342a6e83eef7a97c8f3de9f15359f5859e00083e534888a062"
     },
     {
-      "name": "Garlic-Worker V1.2.3",
-      "filename": "garlic-worker_v1.2.3.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.2.3/garlic-worker_v1.2.3.elf",
-      "local_path": "payloads/ps5_saves/garlic-worker/v1.2.3/garlic-worker_v1.2.3.elf",
+      "name": "Garlic-Worker V1.3.2",
+      "filename": "garlic-worker_v1.3.2.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.3.2/garlic-worker_v1.3.2.elf",
+      "local_path": "payloads/ps5_saves/garlic-worker/v1.3.2/garlic-worker_v1.3.2.elf",
       "description": "Garlic worker payload component.",
-      "version": "v1.2.3",
+      "version": "v1.3.2",
       "category": "PS5 Saves",
-      "checksum": "a6c65b1bca4dcb5eaee8148abc0e27242a302c07ef4e577a211bdefb5bac644c",
+      "checksum": "c4233809c9e0ce3f7f5315dc868b87ee9bbdba33fe7b155934053af33c91afd1",
       "source": "https://git.etawen.dev/earthonion/garlic-worker/releases"
     },
     {

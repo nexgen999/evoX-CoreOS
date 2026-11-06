@@ -14,13 +14,13 @@
       <title>Playden</title>
       <link>https://github.com/leolobato/playden-ps5</link>
       <description>Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.</description>
-      <pubDate>0.10.0-beta.2</pubDate>
+      <pubDate>0.10.0</pubDate>
     </item>
     <item>
       <title>Forgotten Warrior Remastered</title>
       <link>https://github.com/youss17x/Forgotten-Warrior-PS5</link>
-      <description>Native PS5 port of the J2ME platformer Forgotten Warrior with DualSense controls and 1080p output. Requires your own copy of the original game.</description>
-      <pubDate>1.2.0</pubDate>
+      <description>Native PS5 port of the J2ME platformer Forgotten Warrior with DualSense controls and 4K output. Requires your own copy of the original game.</description>
+      <pubDate>1.3.0</pubDate>
     </item>
     <item>
       <title>OliSe Player</title>
@@ -38,7 +38,7 @@
       <title>PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.</description>
-      <pubDate>2.3.4</pubDate>
+      <pubDate>2.3.5</pubDate>
     </item>
     <item>
       <title>Home5</title>
@@ -116,7 +116,7 @@
       <title>ProsperoSunshine</title>
       <link>https://github.com/Darkatek7/ProsperoSunshine</link>
       <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.</description>
-      <pubDate>0.3.2-webui-3</pubDate>
+      <pubDate>0.3.4</pubDate>
     </item>
     <item>
       <title>SudokuZen</title>
@@ -139,7 +139,7 @@
     <item>
       <title>Mediathek</title>
       <link>https://github.com/M0S4YSH3LL0/mediathek-ps5</link>
-      <description>A Netflix-style movie library for your PS5</description>
+      <description>A Netflix-style movie and series library for your PS5.</description>
       <pubDate>01.000.100</pubDate>
     </item>
     <item>
@@ -227,10 +227,10 @@
       <pubDate>1.4.0</pubDate>
     </item>
     <item>
-      <title>Parasite Eve</title>
+      <title>Parasitic Event Revisited</title>
       <link>https://github.com/GUMMIBRI/parasite-eve-ps5</link>
-      <description>Parasite Eve 1&amp;2 Port community: https://discord.gg/Yg88tHYXK. Native PS5 v1.1.5 Build15; own discs required. Plex UI, directional lighting, normal cards; no Save States or disc installer.</description>
-      <pubDate>1.1.5</pubDate>
+      <description>SETUP: Own discs in app/parasite-eve-data/discs/disc1.bin + disc2.bin; read readme.txt. Back up app/user. https://discord.gg/Yg88tHYXK. Based on khasinski/parasite-eve-pc; thanks contributors.</description>
+      <pubDate>1.1.6</pubDate>
     </item>
     <item>
       <title>PSteroid5</title>
@@ -320,7 +320,7 @@
       <title>XPSemu</title>
       <link>https://github.com/ZiZc3/XPSemu</link>
       <description>Original Xbox emulator for PS5, based on xemu.</description>
-      <pubDate>Alpha-2.1</pubDate>
+      <pubDate>Alpha-3</pubDate>
     </item>
     <item>
       <title>PSXS5</title>
@@ -344,7 +344,7 @@
       <title>TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.200</pubDate>
+      <pubDate>01.000.201</pubDate>
     </item>
     <item>
       <title>CD Player</title>
@@ -780,7 +780,7 @@
     </item>
     <item>
       <title>Halo: Combat Evolved</title>
-      <link>https://github.com/thelinkin3000/halo-ce-universal</link>
+      <link>https://github.com/thelinkin3000/SlipstreamCE</link>
       <description>Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.</description>
       <pubDate>build-135</pubDate>
     </item>

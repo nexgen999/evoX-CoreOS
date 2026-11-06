@@ -18,29 +18,29 @@
     {
       "name": "Playden",
       "filename": "FAKE77031.zip",
-      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.10.0-beta.2/playden-ps5-0.10.0-beta.2.zip",
-      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.10.0-beta.2/FAKE77031.zip",
+      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.10.0/playden-ps5-0.10.0.zip",
+      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.10.0/FAKE77031.zip",
       "description": "Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.",
-      "version": "0.10.0-beta.2",
+      "version": "0.10.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "FAKE77031",
       "author": "leolobato",
-      "checksum": "2e93c4ccc2e1cdb1e88fb3d2d6345499a368a41faa5ed3bfb4e739667ffc57d9",
+      "checksum": "f9edfca65fc617c9805436e6c879771a330e5a28c35df8b3e03184ed0969e2e2",
       "source": "https://github.com/leolobato/playden-ps5"
     },
     {
       "name": "Forgotten Warrior Remastered",
       "filename": "FWRG00001.zip",
-      "url": "https://github.com/youss17x/Forgotten-Warrior-PS5/releases/download/v1.2.0/FWRG00001-v1.2.0.zip",
-      "local_path": "downloads/apps/homebrew_page/game/FWRG00001/1.2.0/FWRG00001.zip",
-      "description": "Native PS5 port of the J2ME platformer Forgotten Warrior with DualSense controls and 1080p output. Requires your own copy of the original game.",
-      "version": "1.2.0",
+      "url": "https://github.com/youss17x/Forgotten-Warrior-PS5/releases/download/v1.3.0/FWRG00001-v1.3.0.zip",
+      "local_path": "downloads/apps/homebrew_page/game/FWRG00001/1.3.0/FWRG00001.zip",
+      "description": "Native PS5 port of the J2ME platformer Forgotten Warrior with DualSense controls and 4K output. Requires your own copy of the original game.",
+      "version": "1.3.0",
       "category": "Games",
       "kind": "game",
       "titleid": "FWRG00001",
       "author": "Youss Riaal",
-      "checksum": "c41fc00cc31a042cae94993a002b4987f517df95a9da61dc66cc10a48ff7d8d8",
+      "checksum": "17b61170eba2163f9e61685c64bcdeed4961ab349ed70a8222ac69347163689c",
       "source": "https://github.com/youss17x/Forgotten-Warrior-PS5"
     },
     {
@@ -74,15 +74,15 @@
     {
       "name": "PC5",
       "filename": "PPSA11018.zip",
-      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.3.4/PPSA11018.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.3.4/PPSA11018.zip",
+      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.3.5/PPSA11018.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.3.5/PPSA11018.zip",
       "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.",
-      "version": "2.3.4",
+      "version": "2.3.5",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA11018",
       "author": "bornaradusin",
-      "checksum": "9f34dea5fed4102590e8c125c50ab99797a1238400641ff43c83b465b3c866be",
+      "checksum": "29463476de1af92ef72472a0fd2e3755db3b62e24298001772ff677810588fc4",
       "source": "https://github.com/bornaradusin/PC5"
     },
     {
@@ -256,15 +256,15 @@
     {
       "name": "ProsperoSunshine",
       "filename": "PPSA47989.zip",
-      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.3.2-webui-3/PPSA47989.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.3.2-webui-3/PPSA47989.zip",
+      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.3.4/PPSA47989.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.3.4/PPSA47989.zip",
       "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.",
-      "version": "0.3.2-webui-3",
+      "version": "0.3.4",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA47989",
       "author": "Darkatek7",
-      "checksum": "a1d4053b09824bb8a716e49d4e957ef466cfafd24778e02d706acfff8540309a",
+      "checksum": "cd08c90754175b82dfe89ed822e3bbd3c90891e68b65211bc09f6f50afff3965",
       "source": "https://github.com/Darkatek7/ProsperoSunshine"
     },
     {
@@ -314,7 +314,7 @@
       "filename": "PPSA66120.zip",
       "url": "https://github.com/M0S4YSH3LL0/mediathek-ps5/releases/download/01.000.100/Mediathek-PPSA66120-01.000.100.zip",
       "local_path": "downloads/apps/homebrew_page/app/PPSA66120/01.000.100/PPSA66120.zip",
-      "description": "A Netflix-style movie library for your PS5",
+      "description": "A Netflix-style movie and series library for your PS5.",
       "version": "01.000.100",
       "category": "Apps",
       "kind": "app",
@@ -520,17 +520,17 @@
       "source": "https://github.com/s0liton/RommPS"
     },
     {
-      "name": "Parasite Eve",
+      "name": "Parasitic Event Revisited",
       "filename": "PPSA77022.zip",
-      "url": "https://github.com/GUMMIBRI/parasite-eve-ps5/releases/download/v1.1.5/Parasite-Eve-v1.1.5-Build15.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA77022/1.1.5/PPSA77022.zip",
-      "description": "Parasite Eve 1&2 Port community: https://discord.gg/Yg88tHYXK. Native PS5 v1.1.5 Build15; own discs required. Plex UI, directional lighting, normal cards; no Save States or disc installer.",
-      "version": "1.1.5",
+      "url": "https://github.com/GUMMIBRI/parasite-eve-ps5/releases/download/v1.1.6/Parasitic-Event-Revisited-v1.1.6-Build20.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA77022/1.1.6/PPSA77022.zip",
+      "description": "SETUP: Own discs in app/parasite-eve-data/discs/disc1.bin + disc2.bin; read readme.txt. Back up app/user. https://discord.gg/Yg88tHYXK. Based on khasinski/parasite-eve-pc; thanks contributors.",
+      "version": "1.1.6",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA77022",
       "author": "GUMMIBRI",
-      "checksum": "5a45cc21982b9056c35a9c806a71f2189641c0352179afc582495e7d0b52c61d",
+      "checksum": "e4ebb3c9e4e6844d1598f0b4a14792b63821232218e0c46394039f4c0e878375",
       "source": "https://github.com/GUMMIBRI/parasite-eve-ps5"
     },
     {
@@ -732,15 +732,15 @@
     {
       "name": "XPSemu",
       "filename": "PPSA97358.zip",
-      "url": "https://github.com/ZiZc3/XPSemu/releases/download/Alpha-2.1/PPSA97358.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA97358/Alpha-2.1/PPSA97358.zip",
+      "url": "https://github.com/ZiZc3/XPSemu/releases/download/Alpha-3/PPSA97358.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA97358/Alpha-3/PPSA97358.zip",
       "description": "Original Xbox emulator for PS5, based on xemu.",
-      "version": "Alpha-2.1",
+      "version": "Alpha-3",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA97358",
       "author": "AZiZ",
-      "checksum": "494682ff5073985422fd8961cc617b8e3bdbdb2dedd85b69dadbd06f709953e9",
+      "checksum": "e6f676fb2b2cd0ec1d2fa1abcedb8f42e65e1e662d99fd385565b8410631c4ac",
       "source": "https://github.com/ZiZc3/XPSemu"
     },
     {
@@ -788,15 +788,15 @@
     {
       "name": "TubeBlock",
       "filename": "PPSA98260.zip",
-      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.200/SmartTube-PPSA98260.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.200/PPSA98260.zip",
+      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.201/SmartTube-PPSA98260.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.201/PPSA98260.zip",
       "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
-      "version": "01.000.200",
+      "version": "01.000.201",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98260",
       "author": "animatian112",
-      "checksum": "fde09a311cc55d5ccac27d4d38172d78979903f86d4e76cfa4629cd87092a9e3",
+      "checksum": "492bf6563d55dd06498ebc5f77e254dfd68c3c27ef659002a1d0b258fb1090ae",
       "source": "https://github.com/animatian112/ytps5-sponsorblock"
     },
     {
@@ -1810,7 +1810,7 @@
     {
       "name": "Halo: Combat Evolved",
       "filename": "PPSA99500.zip",
-      "url": "https://github.com/thelinkin3000/halo-ce-universal/releases/download/build-135/halo-ps5-release.zip",
+      "url": "https://github.com/thelinkin3000/SlipstreamCE/releases/download/build-135/halo-ps5-release.zip",
       "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-135/PPSA99500.zip",
       "description": "Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.",
       "version": "build-135",
@@ -1819,7 +1819,7 @@
       "titleid": "PPSA99500",
       "author": "thelinkin3000",
       "checksum": "4890a9ddeabcc82b30b35f638d5f3dded18fb137356feced5e50aa7feca8b6bb",
-      "source": "https://github.com/thelinkin3000/halo-ce-universal"
+      "source": "https://github.com/thelinkin3000/SlipstreamCE"
     },
     {
       "name": "Jelly5",
