@@ -322,14 +322,14 @@
       "source": "https://github.com/aydencharles/kylin-core-release/releases"
     },
     {
-      "name": "Webkit-Autoloader-Installer V0.6.2",
-      "filename": "webkit-autoloader-installer_v0.6.2.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.6.2/webkit-autoloader-installer_v0.6.2.elf",
-      "local_path": "payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.6.2/webkit-autoloader-installer_v0.6.2.elf",
+      "name": "Webkit-Autoloader-Installer V0.7.0",
+      "filename": "webkit-autoloader-installer_v0.7.0.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.7.0/webkit-autoloader-installer_v0.7.0.elf",
+      "local_path": "payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.7.0/webkit-autoloader-installer_v0.7.0.elf",
       "description": "Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00.",
-      "version": "v0.6.2",
+      "version": "v0.7.0",
       "category": "Ps5-Webkit-Autoloader",
-      "checksum": "27fd335764270716972faea399a5cc7810b9e49a21abf4966d9759580756cb19",
+      "checksum": "10cb38baae078e41f252cffb0d356829c89ee63fd3234f1fd1e6b19f81eab1c7",
       "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases"
     },
     {
@@ -461,7 +461,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "657857a1a861728b1f9ff7f32d2451d55417af1eb9730fc5f24bb5d0557adcdf",
+      "checksum": "79e899a6fce2031951291d8136fdfb6e5a56b6910350255360f41e82299cb075",
       "source": "https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf"
     },
     {
@@ -595,14 +595,14 @@
       "checksum": "88ed2c04be0f20342a6e83eef7a97c8f3de9f15359f5859e00083e534888a062"
     },
     {
-      "name": "Garlic-Worker V1.3.2",
-      "filename": "garlic-worker_v1.3.2.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.3.2/garlic-worker_v1.3.2.elf",
-      "local_path": "payloads/ps5_saves/garlic-worker/v1.3.2/garlic-worker_v1.3.2.elf",
+      "name": "Garlic-Worker V1.3.6",
+      "filename": "garlic-worker_v1.3.6.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.3.6/garlic-worker_v1.3.6.elf",
+      "local_path": "payloads/ps5_saves/garlic-worker/v1.3.6/garlic-worker_v1.3.6.elf",
       "description": "Garlic worker payload component.",
-      "version": "v1.3.2",
+      "version": "v1.3.6",
       "category": "PS5 Saves",
-      "checksum": "c4233809c9e0ce3f7f5315dc868b87ee9bbdba33fe7b155934053af33c91afd1",
+      "checksum": "f11b710e8e86d2818215219937f36bc9fb44ae880782c2865819bfacd3be11b2",
       "source": "https://git.etawen.dev/earthonion/garlic-worker/releases"
     },
     {

@@ -1,5 +1,21 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 06/11/2026 à 23:05
+* **PAYLOADS**
+  * `Webkit-Autoloader-Installer V0.7.0` (v0.7.0) - *Nouveau*
+  * `Garlic-Worker V1.3.6` (v1.3.6) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `ProsperoSunshine` (0.4.0) - *Mise à jour (Précédent: 0.3.4)*
+  * `TubeBlock` (01.000.202) - *Mise à jour (Précédent: 01.000.201)*
+  * `wiliwili` (1.6.0.6) - *Mise à jour (Précédent: 1.6.0.5)*
+  * `OGBox` (0.0.4) - *Mise à jour (Précédent: 0.0.3)*
+  * `Nuvio Max'd` (1.0.0.12-native-experimental) - *Mise à jour (Précédent: 1.0.0.11-native)*
+  * `PS5MC (Kodi)` (22.000.001) - *Mise à jour (Précédent: 22.000.000)*
+  * `Halo: Combat Evolved` (build-138) - *Mise à jour (Précédent: build-135)*
+  * `Alembic` (0.5.2) - *Mise à jour (Précédent: 0.5.1)*
+  * `Photo Splat VR` (0.5.0) - *Mise à jour (Précédent: 0.1.1)*
+  * `ProsperoCraft` (01.000.256) - *Mise à jour (Précédent: 01.000.212)*
+
 ## Build du 06/11/2026 à 14:10
 * **PAYLOADS**
   * `Garlic-Savemgr V1.15-Beta9` (garlic-savemgr) - *Mise à jour (Précédent: v1.15-beta9)*

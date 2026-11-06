@@ -185,10 +185,10 @@
       <pubDate>v2.0.0-community-lite</pubDate>
     </item>
     <item>
-      <title>Webkit-Autoloader-Installer V0.6.2</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.6.2/webkit-autoloader-installer_v0.6.2.elf</link>
+      <title>Webkit-Autoloader-Installer V0.7.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.7.0/webkit-autoloader-installer_v0.7.0.elf</link>
       <description>Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00.</description>
-      <pubDate>v0.6.2</pubDate>
+      <pubDate>v0.7.0</pubDate>
     </item>
     <item>
       <title>Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr V1.2.0</title>
@@ -335,10 +335,10 @@
       <pubDate>garlic-savemgr</pubDate>
     </item>
     <item>
-      <title>Garlic-Worker V1.3.2</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.3.2/garlic-worker_v1.3.2.elf</link>
+      <title>Garlic-Worker V1.3.6</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.3.6/garlic-worker_v1.3.6.elf</link>
       <description>Garlic worker payload component.</description>
-      <pubDate>v1.3.2</pubDate>
+      <pubDate>v1.3.6</pubDate>
     </item>
     <item>
       <title>Savemnt-Offset-Dumper V1.0.0</title>

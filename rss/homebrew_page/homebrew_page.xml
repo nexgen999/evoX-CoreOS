@@ -116,7 +116,7 @@
       <title>ProsperoSunshine</title>
       <link>https://github.com/Darkatek7/ProsperoSunshine</link>
       <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.</description>
-      <pubDate>0.3.4</pubDate>
+      <pubDate>0.4.0</pubDate>
     </item>
     <item>
       <title>SudokuZen</title>
@@ -344,7 +344,7 @@
       <title>TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.201</pubDate>
+      <pubDate>01.000.202</pubDate>
     </item>
     <item>
       <title>CD Player</title>
@@ -512,7 +512,7 @@
       <title>wiliwili</title>
       <link>https://github.com/carlchina/wiliwili</link>
       <description>Bilibili client for PS5 with 1080P/4K playback, danmaku and DLNA casting.</description>
-      <pubDate>1.6.0.5</pubDate>
+      <pubDate>1.6.0.6</pubDate>
     </item>
     <item>
       <title>Codex PS5 - Prototype</title>
@@ -620,7 +620,7 @@
       <title>OGBox</title>
       <link>https://github.com/Press5elect/OGBox</link>
       <description>XBOX emulator for PS5</description>
-      <pubDate>0.0.3</pubDate>
+      <pubDate>0.0.4</pubDate>
     </item>
     <item>
       <title>PS5 Browser</title>
@@ -637,8 +637,8 @@
     <item>
       <title>Nuvio Max'd</title>
       <link>https://github.com/HandshakeHackin/Nuvio-maxd-releases</link>
-      <description>Native Nuvio for PS5 with profiles, addons, Live TV/IPTV, Plex/Jellyfin/Emby, optional torrents/Web Drop, HDR fallback and experimental app-local remote mapping.</description>
-      <pubDate>1.0.0.11-native</pubDate>
+      <description>Experimental Nuvio Max'd test build for PS5 with playback source switching, live subtitle controls, audio sync steps and optional time-grid EPG, plus profiles, IPTV and media servers.</description>
+      <pubDate>1.0.0.12-native-experimental</pubDate>
     </item>
     <item>
       <title>Spider-Man: Edge of Time</title>
@@ -764,7 +764,7 @@
       <title>PS5MC (Kodi)</title>
       <link>https://github.com/Notedop/xbmc-ps5</link>
       <description>PS5MC, an unofficial port of the Kodi 22 media center for PS5, with a 4K GPU interface, hardware H.264, HEVC and VP9 decoding and HDR output.</description>
-      <pubDate>22.000.000</pubDate>
+      <pubDate>22.000.001</pubDate>
     </item>
     <item>
       <title>ApricotGS</title>
@@ -782,7 +782,7 @@
       <title>Halo: Combat Evolved</title>
       <link>https://github.com/thelinkin3000/SlipstreamCE</link>
       <description>Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.</description>
-      <pubDate>build-135</pubDate>
+      <pubDate>build-138</pubDate>
     </item>
     <item>
       <title>Jelly5</title>
@@ -854,7 +854,7 @@
       <title>Alembic</title>
       <link>https://github.com/fthdgn-gh/Alembic</link>
       <description>Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC, also on SMB, NFS, WebDAV and FTP servers.</description>
-      <pubDate>0.5.1</pubDate>
+      <pubDate>0.5.2</pubDate>
     </item>
     <item>
       <title>Cloud Play</title>
@@ -979,8 +979,8 @@
     <item>
       <title>Photo Splat VR</title>
       <link>https://github.com/Papyszoo/photo-splat-vr</link>
-      <description>Turns your photos into 3D Gaussian splat scenes on the console and lets you view them in PSVR2. Works offline.</description>
-      <pubDate>0.1.1</pubDate>
+      <description>Turns your photos into 3D Gaussian splat scenes on the console and lets you view them in PSVR2. Works offline; photos and scenes can also live on SMB or NFS shares.</description>
+      <pubDate>0.5.0</pubDate>
     </item>
     <item>
       <title>PShare</title>
@@ -1016,7 +1016,7 @@
       <title>ProsperoCraft</title>
       <link>https://github.com/mateo-cogeanu/ProsperoCraft</link>
       <description>Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.</description>
-      <pubDate>01.000.212</pubDate>
+      <pubDate>01.000.256</pubDate>
     </item>
     <item>
       <title>Genesis Plus GX PS5</title>

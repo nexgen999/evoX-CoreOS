@@ -256,15 +256,15 @@
         {
             "name": "ProsperoSunshine",
             "filename": "PPSA47989.zip",
-            "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.3.4/PPSA47989.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.3.4/PPSA47989.zip",
+            "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.4.0/PPSA47989.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.4.0/PPSA47989.zip",
             "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.",
-            "version": "0.3.4",
+            "version": "0.4.0",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA47989",
             "author": "Darkatek7",
-            "checksum": "cd08c90754175b82dfe89ed822e3bbd3c90891e68b65211bc09f6f50afff3965",
+            "checksum": "33f02602ef418d5d88c02e45239eb7bfc799672f6fc9f9fa8b01a47336a90afd",
             "source": "https://github.com/Darkatek7/ProsperoSunshine"
         },
         {
@@ -788,15 +788,15 @@
         {
             "name": "TubeBlock",
             "filename": "PPSA98260.zip",
-            "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.201/SmartTube-PPSA98260.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.201/PPSA98260.zip",
+            "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.202/SmartTube-PPSA98260.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.202/PPSA98260.zip",
             "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
-            "version": "01.000.201",
+            "version": "01.000.202",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA98260",
             "author": "animatian112",
-            "checksum": "492bf6563d55dd06498ebc5f77e254dfd68c3c27ef659002a1d0b258fb1090ae",
+            "checksum": "15192b807e2a9e1b14c1732c9fb932f53d375d36282626b000ca6c0882c9b084",
             "source": "https://github.com/animatian112/ytps5-sponsorblock"
         },
         {
@@ -1180,15 +1180,15 @@
         {
             "name": "wiliwili",
             "filename": "PPSA99099.zip",
-            "url": "https://github.com/carlchina/wiliwili/releases/download/v1.6.0.5/wiliwili-PS5-v1.6.0.5.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99099/1.6.0.5/PPSA99099.zip",
+            "url": "https://github.com/carlchina/wiliwili/releases/download/v1.6.0.6/wiliwili-PS5-v1.6.0.6.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99099/1.6.0.6/PPSA99099.zip",
             "description": "Bilibili client for PS5 with 1080P/4K playback, danmaku and DLNA casting.",
-            "version": "1.6.0.5",
+            "version": "1.6.0.6",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99099",
             "author": "xfangfang, carlchina",
-            "checksum": "c754cde3684d426fcf17b6c96644b7c8efacaefe5cf17ea45d549961df444a59",
+            "checksum": "f45aa1f66205b164da8611cad529480b76e0885ffe0ebf681ef544b6e9a77682",
             "source": "https://github.com/carlchina/wiliwili"
         },
         {
@@ -1432,15 +1432,15 @@
         {
             "name": "OGBox",
             "filename": "PPSA99251.zip",
-            "url": "https://github.com/Press5elect/OGBox/releases/download/v0.0.3/OGBox-v0.0.3.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99251/0.0.3/PPSA99251.zip",
+            "url": "https://github.com/Press5elect/OGBox/releases/download/v0.0.4/OGBox-v0.0.4.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99251/0.0.4/PPSA99251.zip",
             "description": "XBOX emulator for PS5",
-            "version": "0.0.3",
+            "version": "0.0.4",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99251",
             "author": "Press5elect",
-            "checksum": "2965821a8bc8c5f7acfaffc1ecc1f2033405aa3f409a0d3d173b2c4accd4a799",
+            "checksum": "526dcd9a2a54fb6a123580561606276f5ceba3c5de57186646dc926f2e9cd28a",
             "source": "https://github.com/Press5elect/OGBox"
         },
         {
@@ -1474,15 +1474,15 @@
         {
             "name": "Nuvio Max'd",
             "filename": "PPSA99288.zip",
-            "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.11-native/PPSA99288.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.11-native/PPSA99288.zip",
-            "description": "Native Nuvio for PS5 with profiles, addons, Live TV/IPTV, Plex/Jellyfin/Emby, optional torrents/Web Drop, HDR fallback and experimental app-local remote mapping.",
-            "version": "1.0.0.11-native",
+            "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.12-native-experimental/PPSA99288.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.12-native-experimental/PPSA99288.zip",
+            "description": "Experimental Nuvio Max'd test build for PS5 with playback source switching, live subtitle controls, audio sync steps and optional time-grid EPG, plus profiles, IPTV and media servers.",
+            "version": "1.0.0.12-native-experimental",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99288",
             "author": "HandshakeHackin",
-            "checksum": "e08ba610204d3864ab52f3838302c7a2589645a9437f41417fb274269a60be06",
+            "checksum": "d64d3c9ff382121f8a6b4260d87fce8b03e8948caa79580630aad562d29850ba",
             "source": "https://github.com/HandshakeHackin/Nuvio-maxd-releases"
         },
         {
@@ -1768,15 +1768,15 @@
         {
             "name": "PS5MC (Kodi)",
             "filename": "PPSA99420.zip",
-            "url": "https://github.com/Notedop/xbmc-ps5/releases/download/22.000.000/PPSA99420.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99420/22.000.000/PPSA99420.zip",
+            "url": "https://github.com/Notedop/xbmc-ps5/releases/download/22.000.001/PPSA99420.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99420/22.000.001/PPSA99420.zip",
             "description": "PS5MC, an unofficial port of the Kodi 22 media center for PS5, with a 4K GPU interface, hardware H.264, HEVC and VP9 decoding and HDR output.",
-            "version": "22.000.000",
+            "version": "22.000.001",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99420",
             "author": "Notedop",
-            "checksum": "68d409b6ce7f3766354bd70603b1d3ea651512624034385f670450a3c06d1f15",
+            "checksum": "a9c94114ff47cc2c7bb185c7e84bc7879bdc0cdf0cb7151ae0e0a243fa9407fb",
             "source": "https://github.com/Notedop/xbmc-ps5"
         },
         {
@@ -1810,15 +1810,15 @@
         {
             "name": "Halo: Combat Evolved",
             "filename": "PPSA99500.zip",
-            "url": "https://github.com/thelinkin3000/SlipstreamCE/releases/download/build-135/halo-ps5-release.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-135/PPSA99500.zip",
+            "url": "https://github.com/thelinkin3000/SlipstreamCE/releases/download/build-138/halo-ps5-release.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-138/PPSA99500.zip",
             "description": "Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.",
-            "version": "build-135",
+            "version": "build-138",
             "category": "Games",
             "kind": "game",
             "titleid": "PPSA99500",
             "author": "thelinkin3000",
-            "checksum": "4890a9ddeabcc82b30b35f638d5f3dded18fb137356feced5e50aa7feca8b6bb",
+            "checksum": "6b81d73a8f6f665031f4b1e3a1ae927272a869f978c02a20789f8554411f608e",
             "source": "https://github.com/thelinkin3000/SlipstreamCE"
         },
         {
@@ -1978,15 +1978,15 @@
         {
             "name": "Alembic",
             "filename": "PPSA99594.zip",
-            "url": "https://github.com/fthdgn-gh/Alembic/releases/download/v0.5.1/alembic-app-v0.5.1.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99594/0.5.1/PPSA99594.zip",
+            "url": "https://github.com/fthdgn-gh/Alembic/releases/download/v0.5.2/alembic-app-v0.5.2.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99594/0.5.2/PPSA99594.zip",
             "description": "Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC, also on SMB, NFS, WebDAV and FTP servers.",
-            "version": "0.5.1",
+            "version": "0.5.2",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99594",
             "author": "Fatih Doğan",
-            "checksum": "b408bf8083e80b87f76180a87de0b6785fc97f003afac607cf7dcda726e11c25",
+            "checksum": "43d6a35d55f7274c1983c304258ee70720b92c3c1fd12d2785c8ccfc378c2d71",
             "source": "https://github.com/fthdgn-gh/Alembic"
         },
         {
@@ -2272,15 +2272,15 @@
         {
             "name": "Photo Splat VR",
             "filename": "PPSA99770.zip",
-            "url": "https://github.com/Papyszoo/photo-splat-vr/releases/download/v0.1.1/photo-splat-vr-v0.1.1.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99770/0.1.1/PPSA99770.zip",
-            "description": "Turns your photos into 3D Gaussian splat scenes on the console and lets you view them in PSVR2. Works offline.",
-            "version": "0.1.1",
+            "url": "https://github.com/Papyszoo/photo-splat-vr/releases/download/v0.5.0/photo-splat-vr-v0.5.0.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99770/0.5.0/PPSA99770.zip",
+            "description": "Turns your photos into 3D Gaussian splat scenes on the console and lets you view them in PSVR2. Works offline; photos and scenes can also live on SMB or NFS shares.",
+            "version": "0.5.0",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99770",
             "author": "Papyszoo",
-            "checksum": "ec363d708aec0d841ce428f5f15b003eab041a5e79a2b8e2aa377633dffb0887",
+            "checksum": "167d4046869adfea812c869a9e716f49ceaffd8d4b1eb134656a8c65a3cc9afe",
             "source": "https://github.com/Papyszoo/photo-splat-vr"
         },
         {
@@ -2356,15 +2356,15 @@
         {
             "name": "ProsperoCraft",
             "filename": "PPSA99874.zip",
-            "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.212/PPSA99874.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.212/PPSA99874.zip",
+            "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.256/PPSA99874.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.256/PPSA99874.zip",
             "description": "Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.",
-            "version": "01.000.212",
+            "version": "01.000.256",
             "category": "Games",
             "kind": "game",
             "titleid": "PPSA99874",
             "author": "mateo-cogeanu",
-            "checksum": "d97e530ea67838ef806e8fa88731d399aa9ce1ae661b091daff5eaacfe3f75a7",
+            "checksum": "433fddadd77068e324e2118cd1d47988f9f46e5201fcf41535475de8ec0e3b9f",
             "source": "https://github.com/mateo-cogeanu/ProsperoCraft"
         },
         {
