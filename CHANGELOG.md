@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 06/11/2026 à 05:25
+* **HOMEBREW_PAGE**
+  * `ProsperoSunshine` (0.3.2-webui-3) - *Mise à jour (Précédent: 0.3.2)*
+  * `PS5 Browser` (native-v01.000.008) - *Nouveau*
+  * `Nuvio Max'd` (1.0.0.11-native) - *Mise à jour (Précédent: 1.0.0.8-native-experimental)*
+
 ## Build du 05/11/2026 à 23:42
 * **PAYLOADS**
   * `Fbneo-Ps5 V2.3` (v2.3) - *Nouveau*

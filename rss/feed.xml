@@ -1145,12 +1145,6 @@
       <pubDate>1.2.0</pubDate>
     </item>
     <item>
-      <title>[ProsperoStore] Parasite Eve</title>
-      <link>https://github.com/GUMMIBRI/parasite-eve-ps5</link>
-      <description>Parasite Eve 1&amp;2 Port community: https://discord.gg/Yg88tHYXK. PS5 Beta 0.2.0 (Build 12); own game data required. No discs/textures. Save states off; normal memory cards supported.</description>
-      <pubDate>1.1.5</pubDate>
-    </item>
-    <item>
       <title>[ProsperoStore] OliSe Player</title>
       <link>https://github.com/Marice/OliSePlayer</link>
       <description>Tracker music radio in FastTracker II style, streaming MOD, XM, S3M and IT from The Mod Archive.</description>
@@ -1244,7 +1238,7 @@
       <title>[ProsperoStore] ProsperoSunshine</title>
       <link>https://github.com/Darkatek7/ProsperoSunshine</link>
       <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.</description>
-      <pubDate>0.3.2</pubDate>
+      <pubDate>0.3.2-webui-3</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] SudokuZen</title>
@@ -1353,6 +1347,12 @@
       <link>https://github.com/s0liton/RommPS</link>
       <description>Syncs your emulator saves and states with a RomM server and downloads games from your RomM library.</description>
       <pubDate>1.4.0</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] Parasite Eve</title>
+      <link>https://github.com/GUMMIBRI/parasite-eve-ps5</link>
+      <description>Parasite Eve 1&amp;2 Port community: https://discord.gg/Yg88tHYXK. Native PS5 v1.1.5 Build15; own discs required. Plex UI, directional lighting, normal cards; no Save States or disc installer.</description>
+      <pubDate>1.1.5</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PSteroid5</title>
@@ -1745,6 +1745,12 @@
       <pubDate>0.0.3</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] PS5 Browser</title>
+      <link>https://github.com/Vibe-Code-Jesus/PS5Browser-Releases</link>
+      <description>A PS5 web browser with tabbed browsing, a download manager, archive extraction, supported exFAT conversion, TorBox integration, media playback, CAPTCHA tools and in-app updates.</description>
+      <pubDate>native-v01.000.008</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] Prospero Hi-Fi</title>
       <link>https://github.com/Anime0t4ku/Prospero-Hi-Fi</link>
       <description>A Music Player for hombrew enabled PS5 with lossless audio as the main focus. It's heavily based on my MiSTer Hi-FI project.</description>
@@ -1753,8 +1759,8 @@
     <item>
       <title>[ProsperoStore] Nuvio Max'd</title>
       <link>https://github.com/HandshakeHackin/Nuvio-maxd-releases</link>
-      <description>Native Nuvio for PS5 with profiles, addons, synced progress, Live TV/IPTV, Library search, experimental Plex/Jellyfin/Emby media servers and optional playback engines.</description>
-      <pubDate>1.0.0.8-native-experimental</pubDate>
+      <description>Native Nuvio for PS5 with profiles, addons, Live TV/IPTV, Plex/Jellyfin/Emby, optional torrents/Web Drop, HDR fallback and experimental app-local remote mapping.</description>
+      <pubDate>1.0.0.11-native</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Spider-Man: Edge of Time</title>

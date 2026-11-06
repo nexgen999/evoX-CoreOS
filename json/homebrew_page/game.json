@@ -30,20 +30,6 @@
       "source": "https://github.com/youss17x/Forgotten-Warrior-PS5"
     },
     {
-      "name": "Parasite Eve",
-      "filename": "PEVG00022.zip",
-      "url": "https://github.com/GUMMIBRI/parasite-eve-ps5/releases/download/v1.1.5/Parasite-Eve-v1.1.5-Build15.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PEVG00022/1.1.5/PEVG00022.zip",
-      "description": "Parasite Eve 1&2 Port community: https://discord.gg/Yg88tHYXK. PS5 Beta 0.2.0 (Build 12); own game data required. No discs/textures. Save states off; normal memory cards supported.",
-      "version": "1.1.5",
-      "category": "Games",
-      "kind": "game",
-      "titleid": "PEVG00022",
-      "author": "GUMMIBRI",
-      "checksum": "5a45cc21982b9056c35a9c806a71f2189641c0352179afc582495e7d0b52c61d",
-      "source": "https://github.com/GUMMIBRI/parasite-eve-ps5"
-    },
-    {
       "name": "XashPS5",
       "filename": "PPSA19111.zip",
       "url": "https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.3/PPSA19111.zip",
@@ -266,6 +252,20 @@
       "author": "ZazaMastro",
       "checksum": "af518c36ba5f7dfd3ed7f37238fa53c7b031e1002863ec4c88f1821943ce86f1",
       "source": "https://github.com/LoZazaMastro/TheSimpsonsGame-PS5-Builder"
+    },
+    {
+      "name": "Parasite Eve",
+      "filename": "PPSA77022.zip",
+      "url": "https://github.com/GUMMIBRI/parasite-eve-ps5/releases/download/v1.1.5/Parasite-Eve-v1.1.5-Build15.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA77022/1.1.5/PPSA77022.zip",
+      "description": "Parasite Eve 1&2 Port community: https://discord.gg/Yg88tHYXK. Native PS5 v1.1.5 Build15; own discs required. Plex UI, directional lighting, normal cards; no Save States or disc installer.",
+      "version": "1.1.5",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA77022",
+      "author": "GUMMIBRI",
+      "checksum": "5a45cc21982b9056c35a9c806a71f2189641c0352179afc582495e7d0b52c61d",
+      "source": "https://github.com/GUMMIBRI/parasite-eve-ps5"
     },
     {
       "name": "PSteroid5",

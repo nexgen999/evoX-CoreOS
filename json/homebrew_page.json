@@ -44,20 +44,6 @@
       "source": "https://github.com/youss17x/Forgotten-Warrior-PS5"
     },
     {
-      "name": "Parasite Eve",
-      "filename": "PEVG00022.zip",
-      "url": "https://github.com/GUMMIBRI/parasite-eve-ps5/releases/download/v1.1.5/Parasite-Eve-v1.1.5-Build15.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PEVG00022/1.1.5/PEVG00022.zip",
-      "description": "Parasite Eve 1&2 Port community: https://discord.gg/Yg88tHYXK. PS5 Beta 0.2.0 (Build 12); own game data required. No discs/textures. Save states off; normal memory cards supported.",
-      "version": "1.1.5",
-      "category": "Games",
-      "kind": "game",
-      "titleid": "PEVG00022",
-      "author": "GUMMIBRI",
-      "checksum": "5a45cc21982b9056c35a9c806a71f2189641c0352179afc582495e7d0b52c61d",
-      "source": "https://github.com/GUMMIBRI/parasite-eve-ps5"
-    },
-    {
       "name": "OliSe Player",
       "filename": "PPSA01153.zip",
       "url": "https://github.com/Marice/OliSePlayer/releases/download/02.001.000/PPSA01153.zip",
@@ -270,15 +256,15 @@
     {
       "name": "ProsperoSunshine",
       "filename": "PPSA47989.zip",
-      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.3.2/PPSA47989.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.3.2/PPSA47989.zip",
+      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.3.2-webui-3/PPSA47989.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.3.2-webui-3/PPSA47989.zip",
       "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.",
-      "version": "0.3.2",
+      "version": "0.3.2-webui-3",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA47989",
       "author": "Darkatek7",
-      "checksum": "a694ee8589da66c70fed94326223b7b901906abb4586f394238ca2e0f8681da2",
+      "checksum": "a1d4053b09824bb8a716e49d4e957ef466cfafd24778e02d706acfff8540309a",
       "source": "https://github.com/Darkatek7/ProsperoSunshine"
     },
     {
@@ -532,6 +518,20 @@
       "author": "s0liton",
       "checksum": "c870b88e1299bd6f24ccc0b82a0e1bf0333d0091ec60519ec7480a686ba257fe",
       "source": "https://github.com/s0liton/RommPS"
+    },
+    {
+      "name": "Parasite Eve",
+      "filename": "PPSA77022.zip",
+      "url": "https://github.com/GUMMIBRI/parasite-eve-ps5/releases/download/v1.1.5/Parasite-Eve-v1.1.5-Build15.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA77022/1.1.5/PPSA77022.zip",
+      "description": "Parasite Eve 1&2 Port community: https://discord.gg/Yg88tHYXK. Native PS5 v1.1.5 Build15; own discs required. Plex UI, directional lighting, normal cards; no Save States or disc installer.",
+      "version": "1.1.5",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA77022",
+      "author": "GUMMIBRI",
+      "checksum": "5a45cc21982b9056c35a9c806a71f2189641c0352179afc582495e7d0b52c61d",
+      "source": "https://github.com/GUMMIBRI/parasite-eve-ps5"
     },
     {
       "name": "PSteroid5",
@@ -1444,6 +1444,20 @@
       "source": "https://github.com/Press5elect/OGBox"
     },
     {
+      "name": "PS5 Browser",
+      "filename": "PPSA99257.zip",
+      "url": "https://github.com/Vibe-Code-Jesus/PS5Browser-Releases/releases/download/native-v01.000.008/PS5Browser-Native-01.000.008-Preview.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99257/native-v01.000.008/PPSA99257.zip",
+      "description": "A PS5 web browser with tabbed browsing, a download manager, archive extraction, supported exFAT conversion, TorBox integration, media playback, CAPTCHA tools and in-app updates.",
+      "version": "native-v01.000.008",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99257",
+      "author": "Vibe-Code-Jesus",
+      "checksum": "62bef8251613c890efbb1c7c851c3e4e758e6e0b428b4bc156c668b9f512f057",
+      "source": "https://github.com/Vibe-Code-Jesus/PS5Browser-Releases"
+    },
+    {
       "name": "Prospero Hi-Fi",
       "filename": "PPSA99287.zip",
       "url": "https://github.com/Anime0t4ku/Prospero-Hi-Fi/releases/download/v2.2.0/prospero-hifi.zip",
@@ -1460,15 +1474,15 @@
     {
       "name": "Nuvio Max'd",
       "filename": "PPSA99288.zip",
-      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.8-native-experimental/PPSA99288.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.8-native-experimental/PPSA99288.zip",
-      "description": "Native Nuvio for PS5 with profiles, addons, synced progress, Live TV/IPTV, Library search, experimental Plex/Jellyfin/Emby media servers and optional playback engines.",
-      "version": "1.0.0.8-native-experimental",
+      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.11-native/PPSA99288.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.11-native/PPSA99288.zip",
+      "description": "Native Nuvio for PS5 with profiles, addons, Live TV/IPTV, Plex/Jellyfin/Emby, optional torrents/Web Drop, HDR fallback and experimental app-local remote mapping.",
+      "version": "1.0.0.11-native",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99288",
       "author": "HandshakeHackin",
-      "checksum": "ca8e22dcde1695b4a5239dc9dacaf1863f3aefee65366818620aa3a6424f156b",
+      "checksum": "e08ba610204d3864ab52f3838302c7a2589645a9437f41417fb274269a60be06",
       "source": "https://github.com/HandshakeHackin/Nuvio-maxd-releases"
     },
     {

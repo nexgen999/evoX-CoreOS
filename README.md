@@ -265,7 +265,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `52190b06d7d0...` | Connect your Bluetooth controllers to your PS5 console. |
+| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `980be2aa4a87...` | Connect your Bluetooth controllers to your PS5 console. |
 | Fgg-Xsense V1.1 | [1.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
 | Ghost-Toothapi | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | `744277a72a26...` | ghost-toothAPI. |
 | Omnipad-Ps5 V1.0.4-Hotfix1 | [v1.0.4-hotfix1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf) | `00677d6cfac7...` | Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60). |
@@ -341,7 +341,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Klogsrv V0.9 | [v0.9](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/klogsrv/v0.9/klogsrv_v0.9.elf) | `e828ec144231...` | Kernel log server daemon. Port: 3232 |
 | Ps5-Ezremote-Client V2.19 | [2.19](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.19/ps5-ezremote-client_v2.19.elf) | `eda226e008ef...` | Easy remote client application for PS5. |
 | Ps5-Ezremote-Server V1.13 | [1.13](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.13/ps5-ezremote-server_v1.13.elf) | `0563ed163a92...` | Easy remote server component. Port: 8080 |
-| Ps5Upload V11.2.3 | [v11.2.3](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v11.2.3/ps5upload_v11.2.3.elf) | `0a0fd1cd7946...` | PS5 Upload server / tool. Port: 9025 |
+| Ps5Upload V11.2.4 | [v11.2.4](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v11.2.4/ps5upload_v11.2.4.elf) | `06fb08963fb3...` | PS5 Upload server / tool. Port: 9025 |
 | Websrv V0.34 | [v0.34](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf) | `54730c867c6e...` | HTTP Web server payload. Port: 8080 |
 | Zftpd-Ps5-V1.7.0 | [v1.7.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-v1.7.0.elf) | `533ef2ea5f56...` | FTP server payload for PS5. Port: 21 |
 | Zftpd-Ps5-Zhttp-V1.7.0 | [v1.7.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf) | `8f78ac0cde64...` | FTP server payload for PS5. Port: 21 |
@@ -530,7 +530,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | MKWII Retro Rewind Patcher | Melvin de Vries | [01.000.003](https://github.com/melvindevries/Retro-Rewind-PS5-Patcher/releases/download/01.000.003/PPSA97531.zip) | `08ac5e372c09...` | Installs and updates Retro Rewind and patches your own Mario Kart Wii image directly on the console, with a controller. |
 | Mortalfin | mortaljinx | [1.0.0-beta.5](https://github.com/mortaljinx/mortalfin/releases/download/1.0.0-beta.5/Mortalfin-1.0.0-beta.5.zip) | `acaba3bb0d14...` | A native Jellyfin client for the PS5 with a cover-wheel interface, HDR and surround sound passthrough. Beta. |
 | Mupen64Plus PS5 | TheRealRetro | [0.7.5](https://github.com/TheRealRetro/mupen64plus-ps5/releases/download/0.7.5/Mupen64PlusPS5.zip) | `4c6d2fab14c6...` | Nintendo 64 emulator (mupen64plus-core 2.6.0) as a native PS5 home-screen app: dynarec, DualSense rumble, cover shelf, save states, auto-updates |
-| Nuvio Max'd | HandshakeHackin | [1.0.0.8-native-experimental](https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.8-native-experimental/PPSA99288.zip) | `ca8e22dcde16...` | Native Nuvio for PS5 with profiles, addons, synced progress, Live TV/IPTV, Library search, experimental Plex/Jellyfin/Emby media servers and optional playback engines. |
+| Nuvio Max'd | HandshakeHackin | [1.0.0.11-native](https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.11-native/PPSA99288.zip) | `e08ba610204d...` | Native Nuvio for PS5 with profiles, addons, Live TV/IPTV, Plex/Jellyfin/Emby, optional torrents/Web Drop, HDR fallback and experimental app-local remote mapping. |
 | Nuvio Pro | Shashank | [0.1.0-alpha.7](https://github.com/speed-y/nuvio-pro-ps5/releases/download/v0.1.0-alpha.7/PPSA99996.zip) | `1355dbacfd62...` | Nuvio Pro is a controller-first streaming app for jailbroken PS5s, with EVO Player playback, PS5 keyboard search, profiles and resume support. The console hosts its own UI. Tested on firmware 12.70. |
 | Nuvio PS5 | Bilawal Riaz | [0.1.0-alpha.7](https://github.com/bilawalriaz/nuvio-ps5-homebrew/releases/download/v0.1.0-alpha.7/PPSA99997.zip) | `8c56ca5149d3...` | Nuvio TV for a jailbroken PS5, with EVO native playback and the interface served by the console itself. |
 | OGBox | Press5elect | [0.0.3](https://github.com/Press5elect/OGBox/releases/download/v0.0.3/OGBox-v0.0.3.zip) | `2965821a8bc8...` | XBOX emulator for PS5 |
@@ -554,9 +554,10 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | ProsperoLight | LedyBacer | [01.000.110](https://github.com/LedyBacer/ProsperoLight/releases/download/01.000.110/PPSA99002.zip) | `f29935f3bd9d...` | Unofficial Moonlight game streaming port for PS5. |
 | ProsperoRadio | bornaradusin | [01.000.010](https://github.com/bornaradusin/ProsperoRadio/releases/download/01.000.010/PPSA99001.zip) | `cadcb62e3a55...` | Internet radio player for PlayStation 5 featuring thousands of stations worldwide, Radio Browser integration, favourites, DualSense controls, native audio playback, and a modern OpenGL interface. |
 | ProsperoStore | AngelXex | [1.000.116](https://github.com/darkxex/ProsperoStore/releases/download/v1.000.116/PPSA99000.zip) | `c2b5d18b9eba...` | Native app store for PS5 homebrew: browse this catalog, install apps and keep them up to date. |
-| ProsperoSunshine | Darkatek7 | [0.3.2](https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.3.2/PPSA47989.zip) | `a694ee8589da...` | Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player. |
+| ProsperoSunshine | Darkatek7 | [0.3.2-webui-3](https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.3.2-webui-3/PPSA47989.zip) | `a1d4053b0982...` | Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player. |
 | ProsperoTV | ThatGuyKalvin | [01.000.100](https://github.com/ThatGuyKalvin/ProsperoTV/releases/download/01.000.100/PPSA99003.zip) | `0ab3ebd19e70...` | Native IPTV client for PS5. |
 | ProsperoWeb | kvaps | [0.2.1](https://github.com/kvaps/ProsperoWeb/releases/download/v0.2.1/PRWB00001.zip) | `687652cbc05c...` | A WebKit web browser for the PS5, driven by the controller: tabs, bookmarks, video playback, an ad blocker and SponsorBlock. |
+| PS5 Browser | Vibe-Code-Jesus | [native-v01.000.008](https://github.com/Vibe-Code-Jesus/PS5Browser-Releases/releases/download/native-v01.000.008/PS5Browser-Native-01.000.008-Preview.zip) | `62bef8251613...` | A PS5 web browser with tabbed browsing, a download manager, archive extraction, supported exFAT conversion, TorBox integration, media playback, CAPTCHA tools and in-app updates. |
 | PS5-ECAM | premohq | [5.1.0](https://github.com/premohq/PS5-ECAM/releases/download/v5.1.0/PS5-ECAM-v5.1.0.zip) | `c6a0c0b50617...` | Wii U, 3DS, DS and Switch emulation for jailbroken PS5, built on Cemu, Azahar, melonDS and Eden, with one launcher for all four. |
 | PS5LM | Mert Cobanov | [0.11.0](https://github.com/cobanov/PS5LM/releases/download/v0.11.0/ps5lm-app-v0.11.0.zip) | `5421748f7008...` | Runs language and decision models on the PS5's GPU with llama.cpp and serves them to your network over OpenAI and Anthropic APIs. Decision models powered by Ollaya. |
 | PS5LM Plus | Abhiram | [0.8.4](https://github.com/abhi245y/PS5LM-Plus/releases/download/v0.8.4/ps5lm-plus-v0.8.4.zip) | `5f4b4aad87c3...` | Runs local language models (GGUF, llama.cpp) on the PS5's GPU, with a dashboard on the TV, model downloads, and a chat and OpenAI-compatible API for your network. |
@@ -647,7 +648,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Naruto: Rise of a Ninja for PS5 | mshivam019 | [v0.1.0](https://github.com/mshivam019/naruto-ps5/releases/download/v0.1.0/PPSA99680.zip) | `e37e3c543d62...` | Native PS5 port of Naruto: Rise of a Ninja. Requires game files prepared from your own Xbox 360 disc. |
 | NFS Black Box | lavavex | [01.000.000](https://github.com/lavavex/nfs-blackbox-ps5/releases/download/01.000.000/PPSA99403.zip) | `03a69011cfd9...` | Black Box's Need for Speed games as homebrew apps on a jailbroken PS5, through prospero-win (bring your own copy). |
 | OpenRCT2 Native Port | lowbit | [1.0.0](https://github.com/lowbit/ps5-openrct2/releases/download/v1.0.0/PPSA99728.zip) | `f5c3d0a2168b...` | OpenRCT2, the open-source RollerCoaster Tycoon 2, running natively on the PS5 and played with the DualSense alone. Send your own game files, even the GOG installer, from a PC or phone browser. |
-| Parasite Eve | GUMMIBRI | [1.1.5](https://github.com/GUMMIBRI/parasite-eve-ps5/releases/download/v1.1.5/Parasite-Eve-v1.1.5-Build15.zip) | `5a45cc21982b...` | Parasite Eve 1&2 Port community: https://discord.gg/Yg88tHYXK. PS5 Beta 0.2.0 (Build 12); own game data required. No discs/textures. Save states off; normal memory cards supported. |
+| Parasite Eve | GUMMIBRI | [1.1.5](https://github.com/GUMMIBRI/parasite-eve-ps5/releases/download/v1.1.5/Parasite-Eve-v1.1.5-Build15.zip) | `5a45cc21982b...` | Parasite Eve 1&2 Port community: https://discord.gg/Yg88tHYXK. Native PS5 v1.1.5 Build15; own discs required. Plex UI, directional lighting, normal cards; no Save States or disc installer. |
 | PhazonPrime | BaZZtian | [00.001.036](https://github.com/BaZZtian/PhazonPrime-PS5/releases/download/v00.001.036/PhazonPrime-v00.001.036-PS5.zip) | `a984613243e5...` | Native PS5 Metaforce-classic port. Requires your own supported PAL GameCube ISO. Map geometry and door visuals have known issues. |
 | PokeMMO Prospero | Shabbypenguin | [1.0.2](https://github.com/Shabbypenguin/PokeMMO-Prospero/releases/download/v1.0.2/PPSA98001.zip) | `1927587707ee...` | Runs the official, unmodified PokeMMO Linux client natively on a jailbroken PS5. |
 | ProsperoCraft | mateo-cogeanu | [01.000.212](https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.212/PPSA99874.zip) | `d97e530ea678...` | Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism. |
@@ -765,7 +766,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **Fatih Doğan** : [Alembic (ProsperoStore)](https://prosperostore.net/app/PPSA99594)
 - **Felipe Melchior** : [DriftCheck (ProsperoStore)](https://prosperostore.net/app/PPSA98766)
 - **GOREslinger** : [Bedlam 2: Absolute Bedlam (PS5) (ProsperoStore)](https://prosperostore.net/app/PPSA94003)
-- **GUMMIBRI** : [Parasite Eve (ProsperoStore)](https://prosperostore.net/app/PEVG00022)
+- **GUMMIBRI** : [Parasite Eve (ProsperoStore)](https://prosperostore.net/app/PPSA77022)
 - **Gary Riches** : [Art Swap (ProsperoStore)](https://prosperostore.net/app/PPSA99318)
 - **Gary Riches** : [Burnout 3 (ProsperoStore)](https://prosperostore.net/app/PPSA99316)
 - **Gary Riches** : [DevilutionX for PlayStation 5 (ProsperoStore)](https://prosperostore.net/app/PPSA99308)
@@ -891,6 +892,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **TsvetomirGT** : [SymphonyStation5 (ProsperoStore)](https://prosperostore.net/app/PPSA17641)
 - **VenezuelanBiggie24 & Darkatek7** : [Machete AI Studio (ProsperoStore)](https://prosperostore.net/app/PPSA99699)
 - **VenezuelanBiggie24** : [MacheteSaveGameManager (ProsperoStore)](https://prosperostore.net/app/PPSA99700)
+- **Vibe-Code-Jesus** : [PS5 Browser (ProsperoStore)](https://prosperostore.net/app/PPSA99257)
 - **VivaLaVent** : [kodi-ps5](https://github.com/VivaLaVent/PS5MC)
 - **Vivian** : [Régie5 (ProsperoStore)](https://prosperostore.net/app/PPSA99520)
 - **XeN-Made** : [ORION Media Center (ProsperoStore)](https://prosperostore.net/app/PPSA99062)
