@@ -461,7 +461,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "1cc2c01273cb7abbbf2b4bd82dabf0eec361c37f901325d41d8f6be7902d318e",
+      "checksum": "742f8e763f541c5f284acbb58b3056eb0957d3f39a55f14120161dd533a5015a",
       "source": "https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf"
     },
     {
@@ -595,14 +595,14 @@
       "checksum": "88ed2c04be0f20342a6e83eef7a97c8f3de9f15359f5859e00083e534888a062"
     },
     {
-      "name": "Garlic-Worker V1.3.6",
-      "filename": "garlic-worker_v1.3.6.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.3.6/garlic-worker_v1.3.6.elf",
-      "local_path": "payloads/ps5_saves/garlic-worker/v1.3.6/garlic-worker_v1.3.6.elf",
+      "name": "Garlic-Worker V1.3.9",
+      "filename": "garlic-worker_v1.3.9.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.3.9/garlic-worker_v1.3.9.elf",
+      "local_path": "payloads/ps5_saves/garlic-worker/v1.3.9/garlic-worker_v1.3.9.elf",
       "description": "Garlic worker payload component.",
-      "version": "v1.3.6",
+      "version": "v1.3.9",
       "category": "PS5 Saves",
-      "checksum": "f11b710e8e86d2818215219937f36bc9fb44ae880782c2865819bfacd3be11b2",
+      "checksum": "5dc7b486ae7c2ca21e07df8f4d5c331e308e595ece72d8170dfa4a1b768dd7a1",
       "source": "https://git.etawen.dev/earthonion/garlic-worker/releases"
     },
     {
@@ -1130,7 +1130,7 @@
       "description": "GDB Debugger server payload. Port: 1234",
       "version": "v0.9",
       "category": "PS5 Server",
-      "checksum": "36fe5a9d0a806d8fc89dd4de2ea959231c33456b3dce1c29b024bad4105f49d5",
+      "checksum": "fc91ea233cdbb47acd8087b93d557d9f8a663d0f47cb75908a05a024d07e7efb",
       "source": "https://github.com/ps5-payload-dev/gdbsrv/releases"
     },
     {

@@ -3,6 +3,517 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA32259",
+      "title": "Abyssus",
+      "createdAt": "2026-11-07T18:59:35.164Z",
+      "version": "2.000.005",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/3184c3dbc86fa82a9d222fc7c697835588439ef8967a53e2b4c32acb27eb580f",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/3184c3dbc86fa82a9d222fc7c697835588439ef8967a53e2b4c32acb27eb580f",
+      "description": "Format: zstd\nGather your friends and dive into Abyssus' fast-paced multiplayer shooting action. Fight through gorgeous hand-crafted levels in a roguelite adventure that will put your tactical skills to the ultimate test. Wield powerful brine-powered weapons and refit them with ancient technologies to gain an edge over your foes. Obtain divine blessings to enhance your firepower with elemental and mystic effects. In a world powered by brine, a rare and powerful substance only found in the deepest fathoms of the sea, your team of daring brinepunk explorers is recruited to claim a massive deposit located beneath the ruins of an ancient civilization. However, your mission becomes a frantic battle for survival when the sunken kingdom’s corrupted inhabitants rise against you. Will you survive to see the surface again, or will the abyss claim your life? DIVE INTO THE ACTION IN UP TO 4-PLAYERS CO-OP In Abyssus, cooperation means survival. Team up with fellow Brinehunters and carefully choose synergic loadouts, skills, suits, and weapon mods. Work together and fight through a merciless roguelite gauntlet, where no run is the same as the last. AN OCEAN OF WEAPON &amp; CHARACTER CUSTOMIZATION Wield highly customizable, brine-powered armaments and infuse them with the might of ancient Gods. Master 9 weapons and 45 weapon mods, upgrading your skills and suit as you face the underwater kingdom’s mutated guardians. THE ABYSS SHOOTS BACK AT YOU Run after run, you’ll access more and more upgrades and tactical choices, but firepower alone won’t save you from the denizens of the depths. Mastering Abyssus's visceral gunplay and fast-paced action will require tactical coordination, positioning skills, and cohesive teamwork. UNVEIL THE SECRETS OF THE DEPTHS The world of Abyssus is richly atmospheric and steeped in mystery. What untold secrets lie in the sunken kingdom? What gives brine its inexplicable powers? Can we weaponize an anglerfish? The answers lie deep down below… FEATURES ● Visceral, fast-paced FPS action, with top-notch weapon feel and combat responsiveness ● Up to 4-players co-op ● Roguelite meta progression with advancements, rewards, and unlocks ● 70+ hand-crafted levels, procedurally sequenced to make every run a new experience ● 9 different weapons customizable with 45 weapon mods ● Over 140 Ancient Forge mods to further empower weapons and skills ● Extensive pre-run and in-run character customization options ● 36 different enemies and 12 bosses that will put your skills to the challenge ● Over 250 Charms and Blessings to craft the perfect build\nRegion: USA to EUR Langs\nFirmware: 11.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to turn off global fakelib and emu updates on shadowmount!\nUpdated: 2026-11-07T18:29:04.901Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/BS2A46WLJC"
+        }
+      ],
+      "sizeBytes": 5368709120
+    },
+    {
+      "titleId": "PPSA31543",
+      "title": "CLADUN X3",
+      "createdAt": "2026-11-07T16:57:46.510Z",
+      "version": "01.003.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/0019285c804d854252c6d21a52e017e527c2c534935ebd1dd1e6db89a1aa8d5a",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/0019285c804d854252c6d21a52e017e527c2c534935ebd1dd1e6db89a1aa8d5a",
+      "description": "Format: Folder\nVillains from near and far have been summoned to Arcanus Cella to participate in a death game in the name of achieving world peace. You are one of those villains. Choose from six different weapon types and 10 different jobs to conquer dungeons teeming with ferocious monsters and deadly traps. Use the customization functions to create evil allies to aid in your journey with the Magic Circle System, a unique system to the Cladun series. Do you have what it takes to become the ultimate evil? Test your might and mettle in this highly customizable action RPG!\nRegion: USA\nFirmware: 1.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: DespairOfHarmony\nUpdated: 2026-11-07T16:36:06.450Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Vikingfile",
+          "url": "https://vikingfile.com/f/bTbrOVFwlm"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/u9wnDg3eK8"
+        }
+      ],
+      "sizeBytes": 2469606195
+    },
+    {
+      "titleId": "PPSA22606",
+      "title": "Hyperdimension Neptunia Infinite",
+      "createdAt": "2026-11-07T16:57:46.510Z",
+      "version": "01.003.000",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA22606_d6f922452a446ebf9066eba64eec27895c2a4256c782ba9c689ddc14566a3f2b/icon0.webp",
+      "description": "Format: Folder\nNeed a starting point for your Neptunia™ adventure? Pick up the Re;Birth Game Bundle and venture off to Gamindustri and other dimensions in the fourth-wall-breaking RPG series—now for the PlayStation®4! The Re;Birth Game Bundle includes: • Hyperdimension Neptunia™ Re;Birth1+ • Hyperdimension Neptunia™ Re;Birth2: Sisters Generation • Hyperdimension Neptunia™ Re;Birth3: V Generation\nRegion: JAP\nFirmware: 12.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: ONLY JAPANESE\nCredits: DespairOfHarmony\nUpdated: 2026-11-07T16:33:54.128Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · VIkingfile",
+          "url": "https://vikingfile.com/f/mUka9zyNTg"
+        },
+        {
+          "name": "Folder · Akirabox",
+          "url": "https://akirabox.to/N2p3DdX8R3Ma/file"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/FqPqJictys"
+        }
+      ],
+      "sizeBytes": 19327352832
+    },
+    {
+      "titleId": "PPSA38353",
+      "title": "Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil",
+      "createdAt": "2026-11-07T16:57:46.510Z",
+      "version": "01.005.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/ad02a7ac5101f782214294c147974b9a0426eb61a551779b030ed3c7d28d978e",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/ad02a7ac5101f782214294c147974b9a0426eb61a551779b030ed3c7d28d978e",
+      "description": "Format: Folder\n*The titles included in this bundle cannot be purchased separately. The bundle is offered at the same price, and the Classic version is included. Dodge the barrage, defeat the enemies, and brave the Scarlet Mist Incident. Touhou Koumakyou, from the Touhou Project series by Team Shanghai Alice, makes its debut. Take control of Reimu the shrine maiden or Marisa the magician as you set out to resolve an incident threatening Gensokyo. The New Classic version features upgraded high-resolution visuals, with every BGM track newly arranged by ZUN. It also introduces a new mode where you can take on the game with unlimited lives. You can also play the Classic version, which perfectly preserves the original 2002 gameplay. *All text in the Classic version is in Japanese. Supported languages: Text languages: Japanese / English / Simplified Chinese / Traditional Chinese / Korean / French / German / Spanish / Russian / Portuguese (Brazil) / Italian\nRegion: USA\nFirmware: 13.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: This is not the same as Classic, although Classic was bundled in with this one. That's why there are two\nCredits: DespairOfHarmony\nUpdated: 2026-11-07T16:30:53.770Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/CKXDabYYOA"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/hgGz1oQ6mY"
+        }
+      ],
+      "sizeBytes": 966367642
+    },
+    {
+      "titleId": "PPSA38505",
+      "title": "Touhou Koumakyou: Classic - the Embodiment of Scarlet Devil",
+      "createdAt": "2026-11-07T16:57:46.510Z",
+      "version": "01.003.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/ad02a7ac5101f782214294c147974b9a0426eb61a551779b030ed3c7d28d978e",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/ad02a7ac5101f782214294c147974b9a0426eb61a551779b030ed3c7d28d978e",
+      "description": "Format: Folder\n*The titles included in this bundle cannot be purchased separately. The bundle is offered at the same price, and the Classic version is included. Dodge the barrage, defeat the enemies, and brave the Scarlet Mist Incident. Touhou Koumakyou, from the Touhou Project series by Team Shanghai Alice, makes its debut. Take control of Reimu the shrine maiden or Marisa the magician as you set out to resolve an incident threatening Gensokyo. The New Classic version features upgraded high-resolution visuals, with every BGM track newly arranged by ZUN. It also introduces a new mode where you can take on the game with unlimited lives. You can also play the Classic version, which perfectly preserves the original 2002 gameplay. *All text in the Classic version is in Japanese. Supported languages: Text languages: Japanese / English / Simplified Chinese / Traditional Chinese / Korean / French / German / Spanish / Russian / Portuguese (Brazil) / Italian\nRegion: USA\nFirmware: 13.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: DespairOfHarmony\nUpdated: 2026-11-07T16:29:56.967Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/KsJlYTStXr"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/fMOqjEEEzF"
+        }
+      ],
+      "sizeBytes": 322122547
+    },
+    {
+      "titleId": "PPSA07660",
+      "title": "Neptunia: Sisters VS Sisters",
+      "createdAt": "2026-11-07T16:57:46.510Z",
+      "version": "01.001.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/893a9ba10617a1c3ef181f70bdf6b5d75550ba4a93ba340aa091efde1376979b",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/893a9ba10617a1c3ef181f70bdf6b5d75550ba4a93ba340aa091efde1376979b",
+      "description": "Format: Folder\nWhile the Goddesses were out responding to a distress call from the faraway PC Continent, Nepgear and the other Candidates were sent to investigate an abandoned laboratory. It was there that they found the \"\"Ashen Goddess\"\", who trapped them in a deep sleep capsule. By the time they awoke, 2 years had already passed. The latest smartphone, the \"\"rPhone\"\", dominates the market. Neptune has been missing since her mission to the PC Continent, and in the absence of its Goddess and Candidate, Planeptune was ravaged by a strange new phenomenon, the Trendi Outbreaks. Suddenly finding herself robbed of home and family, Nepgear falls into a deep depression. This is a story about finding hope in the midst of despair, and the rebirth of a Goddess in the wake of destruction. Key Features C-C-C-Combo Maker! – As you make your way around the lands of Gamindustri, you'll encounter a multitude of enemies - it's time to fight! Employ combos and chain your attacks together in real-time. Take control of the battlefield in a unique tactical action battle system! Get the Planeptune Look – Throughout the game you'll discover fun accessories to deck out and customize your party members. After completing the game for the first time, you can show off your style in the new Photo Mode! You'll also unlock two BRAND NEW characters created by two legendary game developers - Higurashi from Ryukishi07 and Shanghai Alice from ZUN! Do You Hear the People Chirp? – In the wake of the devastation wrought by the Trendi Phenomenon, the vast majority of the population has turned to the rPhone for all manner of daily life, including communication. On your journey, connect to the Chirper social network to take on a variety of side quests put out by those in need and earn special rewards! Match Game '23 – On the battlefield you can have three party members out at a time. Match up your team members with a partner for stat increases and elemental bonuses. The stronger the bond, the better the bonus!\nRegion: USA\nFirmware: 3.xx+\nAPR: Yes\nCredits: DespairOfHarmony\nUpdated: 2026-11-07T16:27:55.292Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Vikingfile",
+          "url": "https://vikingfile.com/f/EXhDWg7LKH"
+        },
+        {
+          "name": "Folder · Akirabok",
+          "url": "https://akirabox.to/M2BGwLvoMmj4/file"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/AbsZaBRkiI"
+        }
+      ],
+      "sizeBytes": 7945689498
+    },
+    {
+      "titleId": "PPSA35245",
+      "title": "Godzilla: Destroy All Monsters Melee Remastered",
+      "createdAt": "2026-11-07T16:57:46.510Z",
+      "version": "01.000.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/eb36d8498a77c1e88cbd9a3378acb9fafa2b39a15fa073b0814535e1fccf840f",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/eb36d8498a77c1e88cbd9a3378acb9fafa2b39a15fa073b0814535e1fccf840f",
+      "description": "Format: Folder\nThe ultimate Godzilla arena brawler is back, completely remastered. Choose your monster and battle it out with a range of brutal attacks through recreated cities and other locations. Face off against your friends and foes in local co-op or new online multiplayer. The Godzilla: Destroy All Monsters Melee Remastered - Digital Deluxe Edition includes the full game plus the following content: - Exclusive Skin: Burning Millennium Godzilla (2025) - Exclusive Skin: Mechagodzilla (1974) Black ver. - Additional Map: Smash Station (The Ring, 2026 Edition) - Graphical Filter: Black &amp; white movie filter\nRegion: USA\nFirmware: 12.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: DespairOfHarmony\nUpdated: 2026-11-07T16:26:48.566Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Vikingfile",
+          "url": "https://vikingfile.com/f/88gj4sMkVH"
+        },
+        {
+          "name": "Folder · Akirabox",
+          "url": "https://akirabox.to/vgKGx7Eb4z8Q/file"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/T8152EyGR3"
+        }
+      ],
+      "sizeBytes": 4402341478
+    },
+    {
+      "titleId": "PPSA03733",
+      "title": "Doki Doki Literature Club Plus!",
+      "createdAt": "2026-11-07T16:57:46.510Z",
+      "version": "02.000.005",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/9caf4baa94d32ca5391593322c5eec01f4de5f92829668736437c08a59a2bb90",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/9caf4baa94d32ca5391593322c5eec01f4de5f92829668736437c08a59a2bb90",
+      "description": "Format: Folder\nEnter the #1 Psychological Horror Experience! Welcome to a terrifying world of poetry and romance! Write poems for your crush and erase any mistakes along the way to ensure your perfect ending. Now’s your chance to discover why DDLC is one of the most beloved psychological horror games of the decade! You play as the main character, who reluctantly joins the Literature Club in search of a romantic interest. With every poem you write and every choice you make, you’ll charm your crush and begin to unfold the horrors of school romance. Do you have what it takes to crack the code of dating sims and get the perfect ending? Now, the original mind-shattering DDLC experience is packed with tons of new features and content exclusive to Doki Doki Literature Club Plus! Doki Doki Literature Club Plus Features: • 6 new Side Stories about friendship and literature, totaling hours of new content • 100+ unlockable images including new game art, wallpapers, never-before-seen concept sketches, and more • 26 total music tracks, including 13 all-new unlockable songs by Nikki Kaelar, plus special guests Jason Hayes and Azuria Sky • A built-in DDLC music player to unwind with your favorite songs in a custom playlist, or loop a single track forever • A high-fidelity visual upgrade with all artwork now in Full HD (1080p) Meet the Literature Club! Sayori – Sayori, your childhood friend, begins your story by recruiting you to the Literature Club! As a daydreamer full of positive energy, Sayori’s greatest passion is to deliver happiness to others. Natsuki – Natsuki tries to act tough, but her cuteness can make it hard to take her too seriously! She might be willing to warm up to good listeners who can respect her love for cute things. Yuri – Yuri, the quiet bookworm, reserves her passionate side for those who can more deeply understand her enigmatic mind. Monika – Monika, the superstar President of the Literature Club, will keep you on track for a perfect ending. Monika is always there to give you a guiding hand, both in literature and in love! This game is not suitable for children or those who are easily disturbed.\nRegion: EUR\nFirmware: 3.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: Samuel-Michaelss\nUpdated: 2026-11-07T16:25:36.710Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/QknO55nAHR"
+        }
+      ],
+      "sizeBytes": 1825361101
+    },
+    {
+      "titleId": "PPSA20765",
+      "title": "CRYSTAR",
+      "createdAt": "2026-11-07T16:57:46.510Z",
+      "version": "01.001.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/a4701ce1cc49fbfe858fcbb8da6236f9aa4f6d21da87155b49598240282bccab",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/a4701ce1cc49fbfe858fcbb8da6236f9aa4f6d21da87155b49598240282bccab",
+      "description": "Format: Folder\nThe PS5 version includes over 30 costume DLC! Cute skins like swimsuits, Santa costumes and official comic outfit are included. Some costumes unlock special effects that are advantageous for smoother gameplay, such as purchasing items at a discounted price or changing the appearance rate of the special monsters. For when I weep, then I am strong. A girl named Rei and Mirai, her little sister, are dragged into the afterworld of Purgatory. To save her sister, Rei signs a contract with the Demons of Purgatory to fight the monsters infesting their world. Rei and her fellow Executors must face their pasts and confront their tears to overcome the Torments and monsters ahead of them. Will Rei save her sister’s Soul before it’s too late? Fight through your tears in this Action RPG – Combat the Souls of the dead as you explore the afterworld of Purgatory. Play as four different characters and unlock their memories to learn the truth behind their stories and secrets. Power Through Grief – The battle system includes an otherworldly being who fights alongside you. Gather your grief and endure Torments to summon your Guardian! Tears Give You Strength – Crying will help you take down monsters and empower your equipment. In CRYSTAR, tears aren't a sign of weakness, but of strength.\nRegion: USA\nFirmware: 8.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: DespairOfHarmony\nUpdated: 2026-11-07T16:23:23.725Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Vikingfile",
+          "url": "https://vikingfile.com/f/cLPJrZG5Rl"
+        }
+      ],
+      "sizeBytes": 6979321856
+    },
+    {
+      "titleId": "PPSA17203",
+      "title": "Koumajou Remilia",
+      "createdAt": "2026-11-07T16:57:46.510Z",
+      "version": "1.000.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/0fcaa14b7c1dae959b20cb6cd24f0a8534894c70ec80fd6bb02916f4b637d0de",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/0fcaa14b7c1dae959b20cb6cd24f0a8534894c70ec80fd6bb02916f4b637d0de",
+      "description": "Format: Folder\nKoumajou Remilia: Scarlet Symphony has been loved by many gamers since its initial release, highly praised for its quality gameplay and soundtrack as well as Banpai Akira's sharp and gothic reinterpretation of Touhou characters. This title is the enhanced version of the original game that supports HD remastered graphics and a variety of bonus features. In hopes that more gamers would enjoy Reimu's adventure, the game now supports 6 languages including English. Fans of the original game and the Touhou Project can't also miss the full Japanese voice acting, which is the exclusive feature for the enhanced version. ＜ List of Japanese Voice Actors ＞ REIMU HAKUREI ( Voiced by: Rina Sato ) MARISA KIRISAME ( Voiced by: Ryoko Shintani ) REMILIA SCARLET ( Voiced by: Eri Kitamura ) SAKUYA IZAYOI ( Voiced by: Miyuki Sawashiro ) CIRNO ( Voiced by: Aoi Yuki ) HONG MEILING ( Voiced by: Satomi Sato ) PATCHOULI KNOWLEDGE ( Voiced by: Noriko Rikimaru ) ALICE MARGATROID ( Voiced by: Haruka Tomatsu ) SUIKA IBUKI ( Voiced by: Miho Okasaki ) ● Story Gensokyo faces sudden disturbance as \"Scarlet Mist\" spreads once again. To Reimu Hakurei, this peculiar phenomenon resembled something familiar. 'Is this that vampire's doing?', she thought to herself. There was only one choice: head to the Scarlet Devil Mansion, and find out the true cause of the disturbance. ......but this time, the way to the mansion was a little different from usual. ● Features • Colorful dialogues between Touhou characters The player becomes Reimu Hakurei and sets out to find the true cause of the Scarlet Mist. On the way to the Scarlet Devil Mansion, they will interact with various Touhou characters in a number of intense danmaku(bullet hell) battles. • Reimu's Weapons The player will fight their way to the cause of the disturbance using the right weapons in the right situations. Reimu has \"Purification Wand\" for close combat, and \"Ofuda\" for attacking flying enemies. She herself can fly, too. • Marisa and Cirno join the party! Marisa Kirisame and Cirno join Reimu in her adventure, supporting her with their own partner attacks. The player can summon them at the cost of Souls. To lead the battle to victory, they need to decide carefully when to call for the partner's help. • Fight Touhou characters in the intense danmaku(bullet hell) battle! Playing as Reimu Hakurei, the player will encounter and fight Touhou characters such as Hong Meiling, Sakuya Izayoi, and Alice Margatroid. The residents of the Scarlet Devil Mansion will corner the player with fierce patterns. And behind all of them stands the vampire Reimu is looking for……! • Here comes Suika Ibuki as the new partner! Suika Ibuki, the \"oni\" that loves party and drinking, waits for Reimu in the Scarlet Devil Castle. In this version, she joins Reimu as her third partner! Use her unique partner skill to attack enemies at the cost of Souls. • Extra easy mode \"Extra easy mode\" is available for gamers who are not familiar with the action and shooting games. This mode can be selected at the options. Compared to the original version, Koumajou Remilia: Scarlet Symphony is full of bonus elements including in-game challenges, BGM collections, and galleries that will satisfy beginners and challenge lovers alike.\nRegion: USA\nFirmware: 7.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: DespairOfHarmony\nUpdated: 2026-11-07T16:21:33.334Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Vikingfile",
+          "url": "https://vikingfile.com/f/VONfZb2ozC"
+        }
+      ],
+      "sizeBytes": 966367642
+    },
+    {
+      "titleId": "PPSA13197",
+      "title": "Stellar Blade Complete Edition",
+      "createdAt": "2026-11-07T16:57:46.510Z",
+      "version": "1.014.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/a3cb4985a30bdfcba05114668d37888630a291c4727830f493c60315e4bb37fa",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/4c9e366b450fb849806ab73ed1ceb8b853d8162fe2ea351a7497a4e7d941db76",
+      "description": "Format: zstd\nEdition includes**: • Stellar Blade™ full game for PS5®. The future of humanity is balanced on the edge of a blade. Ravaged by strange, powerful creatures, Earth has been abandoned, and what is left of the decimated human race has fled to a Colony in outer space. After travelling from the Colony, EVE arrives on the desolate remains of our planet with a clear-cut mission: to save humankind by reclaiming Earth from the Naytiba – the malevolent force that has devastated it. But as EVE tackles the Naytiba one-by-one, piecing together the mysteries of the past in the ruins of human civilization, she realizes that her mission is far from straightforward. In fact, almost nothing is as it seems… A thrilling slice of razor-sharp action Engage in blisteringly fast combat as you slash a path through the remnants of Earth in an all-new action adventure on PS5®. Unleash graceful yet brutal attacking combos, unlock new moves and weapon upgrades, and face epic boss encounters that will challenge both brain and brawn in equal measure. An incredible visual experience Become immersed in a highly detailed post-apocalyptic world that blends beauty and horror to spectacular effect. Explore breathtaking science fiction-inspired environments, brought to life via the graphical power of PS5®. A deep, unforgettable adventure Unravel a gripping human fate story, with mature themes, a thought-provoking narrative and emotionally-charged revelations from beginning to end. Designed for PS5® Experience cutting-edge gaming performance with rapid load times, and support for immersive features including the DualSense wireless controller’s haptic feedback and adaptive triggers, and Tempest 3D AudioTech.* *3D Audio via built-in TV speakers or analogue/USB stereo headphones. **Pre-order bonuses can be found when arriving at Adam's safehouse.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to turn off global fakelib and emu updates in shadowmount!\nUpdated: 2026-11-07T16:19:43.735Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/BNgeKDXD1Q"
+        }
+      ],
+      "sizeBytes": 40157944218
+    },
+    {
+      "titleId": "PPSA28502",
+      "title": "Pure Pool Pro",
+      "createdAt": "2026-11-07T16:57:46.510Z",
+      "version": "1.011",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/4de496d3c121a54db8723ea3355e669d3d434c71ba485ea9a7604ee3264cc843",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/351f83369d6d9f5015b4388ccbe72d1b8b7ab54575678e87a51e811f32e2c7a5",
+      "description": "Format: zstd\nFeel the peak of cue sports in Pure Pool Pro, sequel to the acclaimed Pure Pool. Experience stunning visuals at up to 8K native on PlayStation 5 Pro, high-fidelity reflections, and an enhanced physics engine tuned for lifelike spin, swerve, and shot control - delivering the most tactile, responsive, and satisfying cue sports experience yet. Features Include: Cutting-Edge Visuals – Experience lifelike lighting, high-fidelity reflections, and intricate table and ball details that make every shot look and feel real. Career Mode – Build your legacy by progressing through hundreds of events across US 8-Ball and US 9-Ball career modes. Seamless Online Cross-Play – Compete in real-time matches with friends and rivals worldwide, no matter their platform. Rise to the top of global leaderboards. Lifelike AI Opponents – Challenge 20 unique AI players, each with distinct personalities, signature cues, and adaptive strategies that keep you on your toes. Two Iconic Venues – Play in the futuristic, 1,000-seat Tetradome arena or the luxurious Rackhaus pool hall, each offering a distinct atmosphere. Challenge Modes – Sharpen your skills in high-energy mini-games like Speed Pot, Checkpoint, Daily Clearance, Perfect Potter and Royal Rumble. Customisation &amp; Unlocks – Unlock cues, balls, baize colours, and table designs, plus earn exclusive profile crests through precision play. Huge Soundtrack – Over 80 tracks from smooth jazz to high-energy beats, chosen to heighten every moment from relaxed practice to intense competition. Local Play Modes – Jump into local matches across various game types to ramp up the heat IRL.\nRegion: USA to EUR Langs\nFirmware: 12.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to turn off global fakelib and emu updates in shadowmount!\nUpdated: 2026-11-07T16:17:03.222Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/hfe1bktQaq"
+        }
+      ],
+      "sizeBytes": 15032385536
+    },
+    {
+      "titleId": "PPSA17525",
+      "title": "Gears of War Reloaded",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "1.008.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/ef2e26a9e07dd44f9ef3ea73ffcb7b6b550f28fafa184c8f8a82456451a1aeae",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/044d3342b7694011afab840cd1feac7bd821dd4b0a5aab93bcb37b71a9303a13",
+      "description": "Format: zstd\nOPTIMIZED FOR PLAYSTATION PS5®: Experience features specific to the PlayStation® 5 platform such as DualSense® wireless controller integrations including haptic feedback, controller speaker support and adaptive triggers. PS5® Pro Enhanced: Enjoy PlayStation Super Spectral Resolution support as well as improved shadow and reflections quality. Stunning gameplay: The iconic original now looks and plays better than ever with no load times, 4K assets plus remastered textures, lighting, shadows and reflections, HDR, Dolby Atmos, Variable Refresh Rate as well as up to 120 FPS in multiplayer.* THE DEFINITIVE RELEASE The Original, Remastered: Powered by Unreal Engine, Gears of War: Reloaded is a remaster of the blockbuster first Gears of War, now fully optimized for the latest generation of gaming platforms. All Included: Gears of War: Reloaded delivers all post-launch content for the original title, including a bonus campaign act, multiplayer maps, plus characters and cosmetics, at no additional cost. Refined Controls: Newcomers can choose a modern, streamlined control layout, while veterans can relive the classic feel they love. BUILT FOR BROTHERHOOD Campaign Co-Op: Crush the Locust threat together through campaign split-screen or online co-op. Fight on with your squad in Versus multiplayer running at up to 120fps with unmatched clarity and visual fidelity.* Cross Play: Gears of War: Reloaded supports cross-play across all platforms, allowing you and your friends to squad-up, regardless of where you play.* Cross Progression: Jump from one platform to another and your campaign saves as well as multiplayer progression will come with you. Signing in with your Microsoft Account required is for cross progression.*\nRegion: USA to EUR Langs\nFirmware: 10.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to turn off global fakelib and emu updates in shadowmount!\nUpdated: 2026-11-07T16:15:40.383Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/frEF7v6LBV"
+        }
+      ],
+      "sizeBytes": 65498251264
+    },
+    {
+      "titleId": "PPSA11386",
+      "title": "007 First Light",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "1.018",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/6daf83f9e33265da6778fe11bc368e842c726b3827e31fbbf8e7c601c70b9ef0",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/fe278db289f0641fcf43f8375072c4d983afc0a440b0e17bf61e9ec84219f41f",
+      "description": "Format: zstd\nFollow James Bond as a young, resourceful and sometimes reckless recruit in MI6's training program, and discover an origin story of the world’s most famous spy. After a heroic act, young Naval air crewman James Bond is offered to join the newly revived Double 0 program. But when a mission to stop a rogue agent ends in tragedy, he must join forces with his reluctant mentor Greenway to expose a deep conspiracy and stop a looming coup at the heart of the State. BECOME 007 Discover a new standalone, re-imagined James Bond origin story, and the events that lead an audacious young hero to become the best MI6 agent. A THRILLING ESPIONAGE ADVENTURE Embark on missions in breathtaking locations, drive iconic vehicles, and dive into a cinematic adventure in pursuit of a rogue agent who’s always one step ahead. SPYING, YOUR WAY Go silent or go loud. Whether fighting with fists or firepower, using gadgets to infiltrate, or bluffing your way past guards, the approach is entirely up to you. WELCOME TO MI6 Test your skills and replay your favorite missions with additional modifiers, for endless espionage fun! JOIN THE COMMUNITY CHALLENGE &amp; GET REWARDS The mission is simple: rally together and unlock the wishlist milestones for 007 First Light. With every milestone reached, new in-game and community rewards are unlocked, adding style, sophistication, and a secret reward. Sign-up to IOI Account to claim the community unlocks. More wishlists unlocks collective rewards each time you reach a new tier.\nRegion: USA to EUR Langs\nFirmware: 12.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to turn off global fakelib and emu updates in shadowmount! If the first link doesn't work for you when you're about to play the game, use the second one!\nCredits: Props to abdo_jil for the alternative link\nUpdated: 2026-11-07T16:14:25.173Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/n5CG8eldcg"
+        },
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/NlSTPuCRNN"
+        }
+      ],
+      "sizeBytes": 50573239910
+    },
+    {
+      "titleId": "PPSA03846",
+      "title": "Dead Space Deluxe Edition",
+      "createdAt": "2026-11-07T16:57:46.510Z",
+      "version": "1.000.006",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/5e003a957c7587d6a34d903cc08021afca98da0984e25b26572150990a0d46cd",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/5e003a957c7587d6a34d903cc08021afca98da0984e25b26572150990a0d46cd",
+      "description": "Format: zstd\nThe Dead Space Digital Deluxe Edition includes the base game and five exclusive cosmetics (three Unique Suits and two Suit Textures). It’s everything you need to look your best while surviving the horrors aboard the USG Ishimura. The sci-fi survival horror classic Dead Space™ returns, completely rebuilt from the ground up to offer a deeper and more immersive experience. This remake brings jaw-dropping visual fidelity, suspenseful atmospheric audio, and improvements to gameplay while staying faithful to the original game’s thrilling vision. Isaac Clarke is an everyman engineer on a mission to repair a vast mining ship, the USG Ishimura, only to discover something has gone horribly wrong. The ship's crew has been slaughtered and Isaac’s beloved partner, Nicole, is lost somewhere on board. Now alone and armed with only his engineering tools and skills, Isaac races to find Nicole as the nightmarish mystery of what happened aboard the Ishimura unravels around him. Trapped with hostile creatures called Necromorphs, Isaac faces a battle for survival, not only against the escalating terrors of the ship but his own crumbling sanity.\nRegion: USA to EUR Langs\nFirmware: 5.xx+\nAPR: ampr-emu ng 0.2 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to turn off global fakelib and emu updates in shadowmount!\nUpdated: 2026-11-07T16:12:01.233Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/qSnovksCpI"
+        }
+      ],
+      "sizeBytes": 32104880538
+    },
+    {
+      "titleId": "PPSA01903",
+      "title": "Final Fantasy VII Remakes + DLCs",
+      "createdAt": "2026-11-07T16:57:46.510Z",
+      "version": "1.005",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/46b587e06037ece30e111796cc6a6dbff8e15bf665873c82da3fb15aafef38ed",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/00cd2096571e42d2f1dfe68fd58d8111f11ce820a9fc663b34216be603c0328b",
+      "description": "Format: zstd\nThe world is under the control of Shinra, a corporation controlling the planet's life force as mako energy. In the city of Midgar, Cloud Strife, former member of Shinra's elite SOLDIER unit now turned mercenary lends his aid to the Avalanche resistance group, unaware of the epic consequences that await him. FINAL FANTASY VII REMAKE is a reimagining of the iconic original with unforgettable characters, a mind-blowing story, and epic battles. The story of this first, standalone game in the FINAL FANTASY VII REMAKE project covers up to the party’s escape from Midgar, and goes deeper into the events occurring in Midgar than the original FINAL FANTASY VII.\nRegion: USA to EUR Langs\nFirmware: 2.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to turn off global fakelib and emu updates in shadowmount!\nUpdated: 2026-11-07T16:10:26.001Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/IDFT5RQx92"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/OcyyTZichH"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/yOnCoSTDAj"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/E9f52kqBgr"
+        },
+        {
+          "name": "zstd · Viki - pt.5",
+          "url": "https://vikingfile.com/f/BdJ38f80wb"
+        }
+      ],
+      "sizeBytes": 107374182400
+    },
+    {
+      "titleId": "PPSA31544",
+      "title": "Final Fantasy Resonance",
+      "createdAt": "2026-11-07T16:57:46.510Z",
+      "version": "1.000.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/34c2379dbd9bfc7583638256801fc2577c9f16ea9f7946ea15e1372ec57990f0",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/8a8bfbef0e4de3c56788dce4e7a1f8984fd0ca64985f4d870dcfb2bf6be213fe",
+      "description": "Format: zstd\nReturn to the pixel‑art world of FINAL FANTASY, evolved from its classic roots. Travel with companions bound by fate and call on Visions to aid you in battle to uncover the truth behind a force that threatens to bring everything to ruin. ◆ Cinematic pixel art What if FINAL FANTASY had continued to push the limits of pixel art? The first FINAL FANTASY to join the HD‑2D lineup, FINAL FANTASY RESONANCE delivers a visually striking experience that feels both nostalgic and new, enhanced by dynamic camera angles and pixelized 3D models that make every moment more dramatic and immersive. ◆ A return to the familiar A classic RPG adventure unfolds in a world filled with beloved FINAL FANTASY elements—airships, crystals, espers and moogles woven into the fabric of the story, and so much more. ◆ Strategic turn-based battles Exploit enemy weaknesses to stagger them—breaking their defenses to seize extra turns and gain the upper hand with powerful Resonance attacks in cinematic battles shaped by smart choices. ◆ FINAL FANTASY legends Bolster your team with Visions, echoes of beloved FINAL FANTASY characters, who fight alongside you with unique skills and abilities for deep party customization. ◆ Hours of side content to discover The world is full of secrets, including the wandering swordmaster Gilgamesh, a Colosseum with deadly monsters and rewards to match, the Chamber of Arms with formidable foes sealed within legendary weapons, and a showdown with Ultima Weapon.\nRegion: USA to EUR Langs\nFirmware: 11.xx+\nAPR: ampr-emu ng 0.2 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to turn off global fakelib and emu updates in shadowmount!\nUpdated: 2026-11-07T16:08:13.748Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/HJWSrIPhTO"
+        }
+      ],
+      "sizeBytes": 14066017894
+    },
+    {
+      "titleId": "PPSA04027",
+      "title": "Cyberpunk 2077 + Phantom Liberty",
+      "createdAt": "2026-11-07T16:57:46.510Z",
+      "version": "2.31",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/c4db05cca8ef57f15d9789a1a10914a6eaba5647d935caf8c4535d31a4b48cfa",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/c4db05cca8ef57f15d9789a1a10914a6eaba5647d935caf8c4535d31a4b48cfa",
+      "description": "Format: zstd\nABOUT THE GAME Phantom Liberty is a new spy-thriller adventure for Cyberpunk 2077. When the orbital shuttle of the President of the New United States of America is shot down over the deadliest district of Night City, there’s only one person who can save her — you. Become V, a cyberpunk for hire, and dive deep into a tangled web of espionage and political intrigue, unraveling a story that connects the highest echelons of power with the brutal world of black-market mercenaries. Infiltrate Dogtown, a city-within-a-city run by a trigger-happy militia and ruled by a leader with an iron fist. With the help of NUSA sleeper agent Solomon Reed (Idris Elba) and the support of Johnny Silverhand (Keanu Reeves), unravel a web of shattered loyalties and use your every skill to survive in a fractured world of desperate hustlers, shadowy netrunners, and ruthless mercenaries. Built with the power of next-gen hardware in mind, Phantom Liberty offers brand-new gameplay mechanics, nail-biting courier jobs, gigs, and missions — and a thrilling main quest where freedom and loyalty always come at a price.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.2 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to turn off global fakelib and ampr emu in shadowmount!\nUpdated: 2026-11-07T16:06:49.114Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/qXLMfnrolR"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/EumvpioYOg"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/sV7GnmRFMa"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/MITDwWp0pY"
+        },
+        {
+          "name": "zstd · Viki - pt.5",
+          "url": "https://vikingfile.com/f/JiAIHsOHHa"
+        },
+        {
+          "name": "zstd · Viki - pt.6",
+          "url": "https://vikingfile.com/f/USssMKdqtn"
+        },
+        {
+          "name": "zstd · Viki - pt.7",
+          "url": "https://vikingfile.com/f/nzqIjwcEKe"
+        }
+      ],
+      "sizeBytes": 129922760704
+    },
+    {
+      "titleId": "PPSA13446",
+      "title": "Aphelion",
+      "createdAt": "2026-11-07T16:57:46.510Z",
+      "version": "1.003",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/f83aa827cb4910483675b39e1478a76f966d1c1428b2a40779355f11530fa115",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/f83aa827cb4910483675b39e1478a76f966d1c1428b2a40779355f11530fa115",
+      "description": "Format: zstd\nA SCI-FI ACTION-ADVENTURE ON THE EDGE OF OUR SOLAR SYSTEM By 2060, Earth will be uninhabitable. The discovery of a 9th planet – Persephone – at the edge of the solar system, is humanity's best hope. The European Space Agency is dispatching the Hope-01 scientific mission, consisting of 2 of their accomplished astronauts, Ariane and Thomas. Their mission: to survey the planet and determine whether humanity can prosper anew here. Your adventure begins in chaos, as the crash landing of their ship scatters them across the planet, launching them on a desperate quest to find one another. Aphelion is a cinematic third-person action-adventure set on the planet Persephone, an uncharted, frozen world. Stranded and isolated, you must survive the truly unknown, find each other, and complete the mission. Traverse stunning alien landscapes, avoid lurking threats, and discover the haunting secrets buried beneath the ice. EXPLORE AN UNCHARTED PLANET Explore the surreal beauty of Persephone, a vast frozen world shaped by deadly weather and ever-changing terrain. Armed only with your explorational tools – pathfinder, oxygen tank, grappling hook, and more – you must face the unknown, traverse treacherous terrain, and gather clues about the strange, reality-bending phenomenon threatening your existence. Ariane must persevere and push forward to save Thomas. Her Pathfinder tool helps her find the way through the shifting expanse. She faces desperate swings over dark chasms and tricky climbs up melting ice – risking her life with every step. Thomas, injured in the crash, must rely on ingenuity and observation, piecing together what surrounds him to survive. As both characters explore and investigate, they will uncover secrets and clues as to the planet’s strange conditions and what caused the crash of their ship. HIDE TO SURVIVE You are not alone. There is a hostile lifeform stalking you. Avoid detection in tense, thrilling stealth sequences; use the environment to your advantage, and stay one step ahead of whatever hunts you. Explore Persephone and complete the mission, all while trying to survive in the terrifying presence of an unknown enemy. FIND EACH OTHER Helpless on the edge of the solar system, the Hope-01 crew faces a brutal new world and the echoes of a complicated past. Ariane Montclair and Thomas Cross share a deep connection, a relationship left unresolved by the demands of their careers and their mission. Facing overwhelming odds, their fractured bond becomes a lifeline as they grasp in the dark for one another. Key Features: - Grounded sci-fi exploration: a realistic depiction of near-future space exploration - Dual-perspective survival: experience both Thomas’s resourceful investigation and Ariane’s high stakes parkour gameplay - Cinematic third-person action: gripping traversal mechanics, with grappling, sliding, and momentum-driven movement - Tense stealth encounters: face an alien threat in tense and exciting stealth-based sequences - An emotional core: two astronauts bound by a complicated past, fighting to find each other A game in collaboration with: European Space Agency (ESA)\nRegion: USA to EUR Langs\nFirmware: 12.xx+\nAPR: ampr-emu ng 0.2 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to turn off global fakelib and emu updates in shadowmount!\nUpdated: 2026-11-07T16:03:27.971Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/DTfLHotuCU"
+        }
+      ],
+      "sizeBytes": 25769803776
+    },
+    {
+      "titleId": "PPSA07631",
+      "title": "Saros",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "1.005.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/84942aac71b9c49ebe0797779f9bee3d9d62b9ffac891ac83d1bb2d53e200c53",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/66e7ffe6f3b4d52caa852ee801ac65b991a5cc95a61edb14a1e63e6927fd5bda",
+      "description": "Format: zstd\nMaster electrifying bullet ballet combat – intense projectile-focused gameplay with a unique, neon-infused esthetic – to overcome ferocious enemies and spectacular boss fights. Housemarque returns With decades of experience crafting adrenaline-fueled, arcade-inspired mechanics, Housemarque is back with the next evolution of the award-winning, third-person action seen in Returnal. Bullet Ballet Unleash a high-tech arsenal as you dodge, shield and parry enemy attacks in a fluid, flow-state-inducing dance. Combine abilities and learn enemy bullet patterns to gain the upper hand when the odds seem stacked against you. Permanent Progression Augment your loadout using an evolving set of weapons and upgrades. After every run you’ll face a changed world, but the resources you gain will ensure Carcosa yields to you. With Second Chance you’ll be revived instantly on your first death, getting you straight back into the action. Lost Carcosa Fight through mysterious biomes and dreamlike landscapes littered with ancient ruins and alien technology. Come back stronger after every death to break free of the shackles of your past as you uncover the true cost of your power. Otherworldly sound design and musical score Carcosa is brought to life by atmospheric, sci-fi-inspired 3D audio soundscapes – all punctuated by a dark, electronic-meets-drone-metal musical score from multi award-winning composer, Sam Slater.1 Who can you trust? Between runs, return to the Passage to track your progression and meet the crew of Echelon IV. But beware: the Eclipse distorts more than physical spaces. As hallucinations and paranoia take hold, even your closest allies may become your greatest threat… PS5® features - Thrive in the chaos of Carcosa’s Eclipse with near-instant loading speeds of the PS5® console letting you rapidly start over. - Track threats and more with precision Tempest 3D Audio.1 - Seize control of Arjun’s fate; feel every texture in your hands with the detailed input of haptic feedback. - Feel the influence of the Eclipse on Arjun’s suit and weaponry via adaptive triggers, as capabilities augment and evolve… 1 3D Audio via built-in TV speakers or analog/USB stereo headphones. Setup required.\nRegion: USA to EUR Langs\nFirmware: 11.xx+\nAPR: apr_emu ng 0.1 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to turn off global fakelib and emu updates in shadowmount!\nUpdated: 2026-11-07T16:02:03.639Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/FflO4M8bW1"
+        }
+      ],
+      "sizeBytes": 85899345920
+    },
+    {
+      "titleId": "PPSA30391",
+      "title": "Alien Rogue: Incursion Evolved Edition Part One",
+      "createdAt": "2026-11-07T16:57:46.510Z",
+      "version": "1.000.009",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/39e219417458bb5f99a9bc87520b62f94a337d3dea992c1f7746c6ecfb8bcb02",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/39e219417458bb5f99a9bc87520b62f94a337d3dea992c1f7746c6ecfb8bcb02",
+      "description": "Format: zstd\nMade for Alien fans. Built for action-horror. Re-envisioned for PS5. Play as rogue Colonial Marine Zula Hendricks in the terrifying first chapter of a two-part saga set between the Alien and Aliens films. Sent to investigate a distress call on the remote planet Purdan, Zula uncovers a secret Weyland-Yutani blacksite overrun by deadly Xenomorphs. Stalking, hunting, and attacking at every turn, these Xenomorphs' ferocity is matched only by their unpredictability. Aided by your synth companion, Davis 01, fight and survive using your weapons, skills, and sheer determination against a deadly Xenomorph incursion in this gripping original story. Rebuilt for PS5 with stunning visuals, 60 fps, 3D audio, haptic feedback, and adaptive triggers, Alien: Rogue Incursion Evolved Edition delivers a cinematic action experience that makes you truly feel like you’re inside the world of Alien.\nRegion: USA to EUR Langs\nFirmware: 10.xx+\nAPR: apr_emu ng 0.1 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to turn off global fakelib and emu updates in shadowmount!\nUpdated: 2026-11-07T15:59:43.323Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/dCa21y8Zir"
+        }
+      ],
+      "sizeBytes": 13958643712
+    },
+    {
+      "titleId": "PPSA29264",
+      "title": "Duskfade",
+      "createdAt": "2026-11-07T15:55:52.076Z",
+      "version": "1.006",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/2abaedea41b2992fb5b5f88b7455a3465f64a7082c4909b3709eb8041c94a934",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/6003273d6182b7b97af33ce82c05d205483e88de4cf0d72e8f359b7fd5844766",
+      "description": "Format: zstd\nShatter the shackles of time as you jump, swing, and slash through a fantastic world in this love letter to classic 3D action platformers. Zirian, accompanied by his mechanical Cuckoo, must save his sister from a mysterious Clock Tower that has plunged the land into eternal night. Master a seamless blend of dynamic platforming and fast-paced combat. Jump, dash, grapple, and glide your way through thrilling challenges that rekindle the magic of classic action platformer favourites.\nRegion: USA to EUR Langs\nFirmware: 11.xx+\nAPR: apr_emu ng 0.1 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to turn off global fakelib and emu update in shadowmount!\nUpdated: 2026-11-07T15:54:34.135Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/OHyDylaV1z"
+        }
+      ],
+      "sizeBytes": 14066017894
+    },
+    {
+      "titleId": "PPSA24701",
+      "title": "Digimon Story Time Stranger + DLCs",
+      "createdAt": "2026-11-07T15:55:52.076Z",
+      "version": "1.000.011",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/65acb377a67db4fda3d63fec34a73db32fa6a345b8ddb0ae2f64b552203ba92d",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/6d4fd9048943486e7c804222b179bec4d8750bcd621faff61212a9b983fd4c31",
+      "description": "Format: zstd\nDigimon Story Time Stranger is an RPG with monster-taming elements that explores the deep bond between humans and Digimon in an epic story that unravels the mystery of the world’s collapse. Embark on an adventure that spans across the human world and Digital World, collecting and raising a diverse array of Digimon to fight in turn-based battles. An Epic Story of Connection Tokyo, Japan – An agent of a secret organization encounters an unknown creature shortly before a city-leveling explosion. They then reawaken eight years in the past... Take on a mission to uncover the mystery of the world’s collapse, where chance encounters with unique characters will shape your journey across time and parallel worlds - and change fate itself. Adventure Between Worlds and Time Journey between the parallel human world and the Digital World: Iliad where Digimon reside. See the Digital World and its intricately detailed realms like never before, with interactive elements and special quests to explore. Strategic Turn-Based Battles Enjoy dynamic turn-based combat that combines strategic elements with evolved battle components. More than 450 Digimon and deep customization options provide limitless ways to approach the challenges of battle and reveal the strength of the bonds formed with your Digimon. *This product is the Standard Edition. A Deluxe Edition and Ultimate Edition are also available. Please be careful of duplicate purchases.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: apr_emu ng 0.1 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to turn off global fakelib and emu updates on shadowmount!\nUpdated: 2026-11-07T15:52:37.710Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/83FnJhLpT9"
+        }
+      ],
+      "sizeBytes": 21796959027
+    },
+    {
+      "titleId": "PPSA34547",
+      "title": "Control Resonant",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "1.300.300",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/1b5d923368d3dee8887f21e2c587cf6150c89e5e49c8c547784482951d3e1396",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/a8089e4d09c8520f7cad23ec3a810a80a35caf92ecc06e9aabc33020e1fcd3d2",
+      "description": "Format: zstd\nAfter years in confinement at the hands of the Federal Bureau of Control (FBC), Dylan Faden’s former captors are deploying him at the peak of a paranatural crisis. Charged with combating a mysterious cosmic entity as it alters fundamental aspects of our reality, Dylan must harness his new-found powers to take the fight to the myriad threats overwhelming Manhattan. Join Dylan in this sequel to the multi-award-winning CONTROL to explore the expansive zones of a city overrun by the corrupting influences of the chaotic Hiss and invasive micro-organism, the Mold, and other twisted paranatural threats. On the path to unlocking the full potential of his paranatural abilities Dylan will also seek out his sister, FBC Director Jesse Faden, as he bids to comprehend and contain the dangers that have spilled beyond the confines of the Oldest House to tear our world apart. STEP INTO A WARPED REALITY Explore multiple areas of a ravaged Manhattan in an expansive, unfamiliar, and exciting world. Traverse perception-bending locations and grapple with gravity anomalies that distort the vertical and horizontal plane, adding additional dimensions to puzzles and new tactical decisions to combat. Meet faces old and new on a path fraught with risk but rich in opportunity as the cityscape is reshaped and reality is redefined by a godlike force. MASTER THE PARANATURAL Channel the raw experiences of Dylan’s past to help understand his present and dig deeper into the inner workings of the FBC and reveal the horrors threatening humankind. Tap into power he must learn to master and take choices to shape how his abilities manifest and grow. Explore a deep progression system to define how Dylan adapts to emerging dangers. Forge connections crucial to Dylan’s fight to retain his humanity as he journeys from former test subject to paranatural superweapon. THE FIGHT SHIFTS. YOUR WEAPON SHIFTS WITH IT. Meet constantly evolving threats head-on, utilizing the environment, deploying elemental abilities and using the raw force Dylan’s shapeshifting melee weapon, the Aberrant. Wield the Aberrant in its many deadly forms. Deliver bone-crunching blows with a two-handed hammer and flow seamlessly into the swift precision of dual-wielded blades as this paranatural weapon morphs on demand to meet each new challenge. SHARED LEGACY. NEW THREAT FBC Director Jesse Faden's lockdown is no longer holding. A paranatural catastrophe has spilled beyond the Oldest House and onto the streets of Manhattan, and the Bureau's grip on containment is failing. Jesse Faden walked into the Oldest House to confront the threat within. Now Dylan must walk out of it to contain the threat beyond.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: apr_emu ng 0.1 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to turn off global fakelib and emu updates on shadowmount!\nUpdated: 2026-11-07T15:50:42.794Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/GCgu72YbJ9"
+        }
+      ],
+      "sizeBytes": 89442693939
+    },
+    {
       "titleId": "PPSA02571",
       "title": "Alan Wake II",
       "createdAt": "2026-11-05T21:05:41.883Z",

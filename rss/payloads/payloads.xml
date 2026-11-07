@@ -335,10 +335,10 @@
       <pubDate>garlic-savemgr</pubDate>
     </item>
     <item>
-      <title>Garlic-Worker V1.3.6</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.3.6/garlic-worker_v1.3.6.elf</link>
+      <title>Garlic-Worker V1.3.9</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.3.9/garlic-worker_v1.3.9.elf</link>
       <description>Garlic worker payload component.</description>
-      <pubDate>v1.3.6</pubDate>
+      <pubDate>v1.3.9</pubDate>
     </item>
     <item>
       <title>Savemnt-Offset-Dumper V1.0.0</title>

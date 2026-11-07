@@ -3,6 +3,190 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA23767",
+      "title": "Bionic Bay",
+      "createdAt": "2026-11-07T12:53:39.710Z",
+      "version": "v01.000.008",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/5be64e83e07f26fef2fca1c5f5db6ac63d11acb8c4a4c458ead1b1800ba7868d",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/8bb3af13cfb8388b47c187bc337ac88e4be74c8026ca2c5c51c7f72225530bdb",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA23767, v01.000.008, EUR, 4.xx BackPort\nSize: 2GB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/h1s6ru9mc10w/PPSA23767.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/8xz6730v1ub9/PPSA23767.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/qLQ36XkQlG19/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/ig9koQvYYk"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/N2p3DdX523Ma/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/lCMeoRLwcc"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/3gta3a3nsm8d/PPSA23767-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/w08997tjq0px/PPSA23767-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 2147483648
+    },
+    {
+      "titleId": "PPSA21755",
+      "title": "Iron Lung",
+      "createdAt": "2026-11-07T12:53:39.710Z",
+      "version": "v01.000.100",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/141ec2d82eb40c8e8de37b8cb8658189ae166114d80e5bc4018436b4ee99545f",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/e52346f43c353c0a5d88ced9b73509ba25ce6c5538fb4c6d640c25a2a8a9df79",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA21755, v01.000.100, EUR, 4.xx BackPort\nSize: 253MB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/zq180shflq70/PPSA21755.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/s6dv837eobay/PPSA21755.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/RMKGJWa5lm1o/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/q8wyvTBmAR"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/gXeGOeD5j3Aa/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/B88Ewr7ozm"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/dv2kxj7ehhtz/PPSA21755-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/mauxvr7k8iqd/PPSA21755-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 265289728
+    },
+    {
+      "titleId": "PPSA21349",
+      "title": "HOTEL BARCELONA",
+      "createdAt": "2026-11-07T12:53:39.710Z",
+      "version": "v02.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/8c091a918120b47e242afdf77a57b8e6aa7a8a8be5eeb3adc7c3e6a8a094480a",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/b5db20f8d12691efdff3ac7a2f3cbfb8e7485dd653210dff55b43f77049e1710",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA21349, v02.000, JPN, 4.xx BackPort\nSize: 9GB\nCredits: Files: Scene; Backport: DecKerr97 GUI\nHow to play: Note: Own Lizard Extractor. FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/20aapd8zb85w/PPSA21349.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/tubqeoe5cb9e/PPSA21349.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/QN9mEd5QQG6d/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/lxSvYCn6FV"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/2WVGrW7Kgmkx/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/dEE0ASUqAZ"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/q0gktbd7zrha/PPSA21349-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/2jm4b6uwvml8/PPSA21349-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 9663676416
+    },
+    {
+      "titleId": "PPSA09826",
+      "title": "Gothic 1 Remake",
+      "createdAt": "2026-11-07T12:53:39.710Z",
+      "version": "v01.000.015",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/67e6a4b93a4c45582ac17f56eba6c9b65271a9168b3273470372e4becce252a6",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/c292c18bd3b055935d8b5342fffc226774730d69dfd2d03402f7e9221452e8e9",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA09826, v01.000.015, USA, 4.xx BackPort\nSize: 73GB\nCredits: Files: b0mba1992; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/xrosk5qydr54/PPSA09826.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/ix4x5lfrmfsf/PPSA09826.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/E9Qz96ZB0GOL/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/wyNhrLERLZ"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/l76mZvp5xman/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/mTnpTaABMv"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/hf0ckap639uu/PPSA09826-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/fowp15spydx9/PPSA09826-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 78383153152
+    },
+    {
       "titleId": "PPSA32193",
       "title": "The Adventures of Elliot The Millennium Tales Deluxe Edition",
       "createdAt": "2026-11-06T10:23:21.038Z",
@@ -200,7 +384,8 @@
       "createdAt": "2026-11-05T12:58:28.934Z",
       "version": "v01.003",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA13446_4bc196811fce97c895008ce6b6f60015953a205ad01b98b282e2196de7a8b633/icon0.webp",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/f83aa827cb4910483675b39e1478a76f966d1c1428b2a40779355f11530fa115",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/f83aa827cb4910483675b39e1478a76f966d1c1428b2a40779355f11530fa115",
       "description": "Builds: Dump, Fpkg\nTags: PPSA13446, v01.003, USA, 4.xx BackPort\nSize: 52GB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: Note: Own ZSTD Extractor. FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
@@ -383,7 +568,8 @@
       "createdAt": "2026-11-04T11:27:36.796Z",
       "version": "v01.000.009",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA30391_5020c9633c903265375b1e3c19005c2b6def9078604ff6ae21ea27d1a4339fe4/icon0.webp",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/39e219417458bb5f99a9bc87520b62f94a337d3dea992c1f7746c6ecfb8bcb02",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/39e219417458bb5f99a9bc87520b62f94a337d3dea992c1f7746c6ecfb8bcb02",
       "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA30391, v01.000.009, EUR, 4.xx BackPort\nSize: 58GB\nCredits: Files: Desesperado3; Backport: DecKerr97 GUI; DLC: Pippo\nHow to play: Note: Own ZSTD Extractor. FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [

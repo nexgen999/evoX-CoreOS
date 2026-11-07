@@ -1,5 +1,17 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 07/11/2026 à 21:48
+* **PAYLOADS**
+  * `Garlic-Worker V1.3.9` (v1.3.9) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `Geometry Dash Lite` (1.0.0) - *Nouveau*
+  * `ProsperoSunshine` (0.4.2) - *Mise à jour (Précédent: 0.4.1)*
+  * `Parasite Eve PS5` (1.2.1) - *Nouveau*
+  * `BattleShip Remix` (v2.0.1-port.5) - *Nouveau*
+  * `Alembic` (0.5.3) - *Mise à jour (Précédent: 0.5.2)*
+  * `Photo Splat VR` (0.6.0) - *Mise à jour (Précédent: 0.5.0)*
+  * `ProsperoCraft` (01.000.265) - *Mise à jour (Précédent: 01.000.256)*
+
 ## Build du 07/11/2026 à 12:43
 * **APPS**
   * `Ppsa97358` (v3.1) - *Mise à jour (Précédent: Alpha-3)*

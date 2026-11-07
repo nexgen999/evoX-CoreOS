@@ -116,15 +116,15 @@
     {
       "name": "ProsperoSunshine",
       "filename": "PPSA47989.zip",
-      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.4.1/PPSA47989.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.4.1/PPSA47989.zip",
+      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.4.2/PPSA47989.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.4.2/PPSA47989.zip",
       "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.",
-      "version": "0.4.1",
+      "version": "0.4.2",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA47989",
       "author": "Darkatek7",
-      "checksum": "1015756bf4548500569907d112964be37ef865465d82ded815443ce8ae004a7c",
+      "checksum": "29b12548bd7f5b1b24f82c84350e51035315ad71bc12b52103b66dfde64c51f9",
       "source": "https://github.com/Darkatek7/ProsperoSunshine"
     },
     {
@@ -1096,15 +1096,15 @@
     {
       "name": "Alembic",
       "filename": "PPSA99594.zip",
-      "url": "https://github.com/fthdgn-gh/Alembic/releases/download/v0.5.2/alembic-app-v0.5.2.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99594/0.5.2/PPSA99594.zip",
+      "url": "https://github.com/fthdgn-gh/Alembic/releases/download/v0.5.3/alembic-app-v0.5.3.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99594/0.5.3/PPSA99594.zip",
       "description": "Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC, also on SMB, NFS, WebDAV and FTP servers.",
-      "version": "0.5.2",
+      "version": "0.5.3",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99594",
       "author": "Fatih Doğan",
-      "checksum": "43d6a35d55f7274c1983c304258ee70720b92c3c1fd12d2785c8ccfc378c2d71",
+      "checksum": "c1d3686c4c7d518ebe20db4cf814519fec2286d496efd30d99bd4abeb4ff9eff",
       "source": "https://github.com/fthdgn-gh/Alembic"
     },
     {
@@ -1152,15 +1152,15 @@
     {
       "name": "Photo Splat VR",
       "filename": "PPSA99770.zip",
-      "url": "https://github.com/Papyszoo/photo-splat-vr/releases/download/v0.5.0/photo-splat-vr-v0.5.0.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99770/0.5.0/PPSA99770.zip",
+      "url": "https://github.com/Papyszoo/photo-splat-vr/releases/download/v0.6.0/photo-splat-vr-v0.6.0.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99770/0.6.0/PPSA99770.zip",
       "description": "Turns your photos into 3D Gaussian splat scenes on the console and lets you view them in PSVR2. Works offline; photos and scenes can also live on SMB or NFS shares.",
-      "version": "0.5.0",
+      "version": "0.6.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99770",
       "author": "Papyszoo",
-      "checksum": "167d4046869adfea812c869a9e716f49ceaffd8d4b1eb134656a8c65a3cc9afe",
+      "checksum": "f085419db0d2d0f94998b3b89a1d96a681aa5f8fede2646ed7b2c39c2d16f67c",
       "source": "https://github.com/Papyszoo/photo-splat-vr"
     },
     {

@@ -77,6 +77,12 @@
       <pubDate>1.0.0</pubDate>
     </item>
     <item>
+      <title>Geometry Dash Lite</title>
+      <link>https://github.com/ZiZc3/Hydroid</link>
+      <description>Geometry Dash Lite for PS5 with its own controller support. Needs your own APK (2.2.148).</description>
+      <pubDate>1.0.0</pubDate>
+    </item>
+    <item>
       <title>Infinity Blade III</title>
       <link>https://github.com/ZiZc3/Infinity-Blade-PS5</link>
       <description>Infinity Blade III for PS5 at 60 fps with controller support. Needs your own .ipa (1.4.4).</description>
@@ -122,7 +128,7 @@
       <title>ProsperoSunshine</title>
       <link>https://github.com/Darkatek7/ProsperoSunshine</link>
       <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.</description>
-      <pubDate>0.4.1</pubDate>
+      <pubDate>0.4.2</pubDate>
     </item>
     <item>
       <title>SudokuZen</title>
@@ -233,10 +239,10 @@
       <pubDate>1.4.0</pubDate>
     </item>
     <item>
-      <title>Parasitic Event Revisited</title>
+      <title>Parasite Eve PS5</title>
       <link>https://github.com/GUMMIBRI/parasite-eve-ps5</link>
       <description>SETUP: Own discs in app/parasite-eve-data/discs/disc1.bin + disc2.bin; read readme.txt. Back up app/user. https://discord.gg/Yg88tHYXK. Based on khasinski/parasite-eve-pc; thanks contributors.</description>
-      <pubDate>1.1.6</pubDate>
+      <pubDate>1.2.1</pubDate>
     </item>
     <item>
       <title>PSteroid5</title>
@@ -641,6 +647,12 @@
       <pubDate>native-v01.000.009</pubDate>
     </item>
     <item>
+      <title>BattleShip Remix</title>
+      <link>https://github.com/lucasliet/BattleShip-remix</link>
+      <description>Native PS5 port of Smash Remix, the Super Smash Bros. 64 mod, built on the SSB64 decompilation and libultraship. Bring your own Smash Remix ROM.</description>
+      <pubDate>v2.0.1-port.5</pubDate>
+    </item>
+    <item>
       <title>Prospero Hi-Fi</title>
       <link>https://github.com/Anime0t4ku/Prospero-Hi-Fi</link>
       <description>A Music Player for hombrew enabled PS5 with lossless audio as the main focus. It's heavily based on my MiSTer Hi-FI project.</description>
@@ -866,7 +878,7 @@
       <title>Alembic</title>
       <link>https://github.com/fthdgn-gh/Alembic</link>
       <description>Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC, also on SMB, NFS, WebDAV and FTP servers.</description>
-      <pubDate>0.5.2</pubDate>
+      <pubDate>0.5.3</pubDate>
     </item>
     <item>
       <title>Cloud Play</title>
@@ -992,7 +1004,7 @@
       <title>Photo Splat VR</title>
       <link>https://github.com/Papyszoo/photo-splat-vr</link>
       <description>Turns your photos into 3D Gaussian splat scenes on the console and lets you view them in PSVR2. Works offline; photos and scenes can also live on SMB or NFS shares.</description>
-      <pubDate>0.5.0</pubDate>
+      <pubDate>0.6.0</pubDate>
     </item>
     <item>
       <title>PShare</title>
@@ -1028,7 +1040,7 @@
       <title>ProsperoCraft</title>
       <link>https://github.com/mateo-cogeanu/ProsperoCraft</link>
       <description>Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.</description>
-      <pubDate>01.000.256</pubDate>
+      <pubDate>01.000.265</pubDate>
     </item>
     <item>
       <title>Genesis Plus GX PS5</title>

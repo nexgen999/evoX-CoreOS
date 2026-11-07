@@ -170,6 +170,20 @@
       "source": "https://github.com/ZiZc3/Hydroid"
     },
     {
+      "name": "Geometry Dash Lite",
+      "filename": "PPSA26371.zip",
+      "url": "https://github.com/ZiZc3/Hydroid/releases/download/1.0.0/PPSA26371.-.Geometry.Dash.Lite.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA26371/1.0.0/PPSA26371.zip",
+      "description": "Geometry Dash Lite for PS5 with its own controller support. Needs your own APK (2.2.148).",
+      "version": "1.0.0",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA26371",
+      "author": "AZiZ",
+      "checksum": "a244e8a4f5e22d0ea7f11e7794e7137ab3f48833209b479a8ea389df8cc133e4",
+      "source": "https://github.com/ZiZc3/Hydroid"
+    },
+    {
       "name": "Infinity Blade III",
       "filename": "PPSA26381.zip",
       "url": "https://github.com/ZiZc3/Infinity-Blade-PS5/releases/download/1.0.0/PPSA26381.-.Infinity.Blade.III.zip",
@@ -270,15 +284,15 @@
     {
       "name": "ProsperoSunshine",
       "filename": "PPSA47989.zip",
-      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.4.1/PPSA47989.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.4.1/PPSA47989.zip",
+      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.4.2/PPSA47989.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.4.2/PPSA47989.zip",
       "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.",
-      "version": "0.4.1",
+      "version": "0.4.2",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA47989",
       "author": "Darkatek7",
-      "checksum": "1015756bf4548500569907d112964be37ef865465d82ded815443ce8ae004a7c",
+      "checksum": "29b12548bd7f5b1b24f82c84350e51035315ad71bc12b52103b66dfde64c51f9",
       "source": "https://github.com/Darkatek7/ProsperoSunshine"
     },
     {
@@ -534,17 +548,17 @@
       "source": "https://github.com/s0liton/RommPS"
     },
     {
-      "name": "Parasitic Event Revisited",
+      "name": "Parasite Eve PS5",
       "filename": "PPSA77022.zip",
-      "url": "https://github.com/GUMMIBRI/parasite-eve-ps5/releases/download/v1.1.6/Parasitic-Event-Revisited-v1.1.6-Build20.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA77022/1.1.6/PPSA77022.zip",
+      "url": "https://github.com/GUMMIBRI/parasite-eve-ps5/releases/download/v1.2.1/Parasite-Eve-PS5-v1.2.1-Build21.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA77022/1.2.1/PPSA77022.zip",
       "description": "SETUP: Own discs in app/parasite-eve-data/discs/disc1.bin + disc2.bin; read readme.txt. Back up app/user. https://discord.gg/Yg88tHYXK. Based on khasinski/parasite-eve-pc; thanks contributors.",
-      "version": "1.1.6",
+      "version": "1.2.1",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA77022",
       "author": "GUMMIBRI",
-      "checksum": "e4ebb3c9e4e6844d1598f0b4a14792b63821232218e0c46394039f4c0e878375",
+      "checksum": "5d92ac1e091c66760cf293d8c83a9ad9fbc4fbfd1526330bbeab0195dec24952",
       "source": "https://github.com/GUMMIBRI/parasite-eve-ps5"
     },
     {
@@ -1486,6 +1500,20 @@
       "source": "https://github.com/Vibe-Code-Jesus/PS5Browser-Releases"
     },
     {
+      "name": "BattleShip Remix",
+      "filename": "PPSA99264.zip",
+      "url": "https://github.com/lucasliet/BattleShip-remix/releases/download/v2.0.1-port.5/BattleShip-Remix-ps5-PPSA99264.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99264/v2.0.1-port.5/PPSA99264.zip",
+      "description": "Native PS5 port of Smash Remix, the Super Smash Bros. 64 mod, built on the SSB64 decompilation and libultraship. Bring your own Smash Remix ROM.",
+      "version": "v2.0.1-port.5",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99264",
+      "author": "Lucas Oliveira",
+      "checksum": "bc01894a97da83bcc9764f473e9c66baedb9d0c79642a5811915336dd552fa51",
+      "source": "https://github.com/lucasliet/BattleShip-remix"
+    },
+    {
       "name": "Prospero Hi-Fi",
       "filename": "PPSA99287.zip",
       "url": "https://github.com/Anime0t4ku/Prospero-Hi-Fi/releases/download/v2.2.0/prospero-hifi.zip",
@@ -2006,15 +2034,15 @@
     {
       "name": "Alembic",
       "filename": "PPSA99594.zip",
-      "url": "https://github.com/fthdgn-gh/Alembic/releases/download/v0.5.2/alembic-app-v0.5.2.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99594/0.5.2/PPSA99594.zip",
+      "url": "https://github.com/fthdgn-gh/Alembic/releases/download/v0.5.3/alembic-app-v0.5.3.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99594/0.5.3/PPSA99594.zip",
       "description": "Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC, also on SMB, NFS, WebDAV and FTP servers.",
-      "version": "0.5.2",
+      "version": "0.5.3",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99594",
       "author": "Fatih Doğan",
-      "checksum": "43d6a35d55f7274c1983c304258ee70720b92c3c1fd12d2785c8ccfc378c2d71",
+      "checksum": "c1d3686c4c7d518ebe20db4cf814519fec2286d496efd30d99bd4abeb4ff9eff",
       "source": "https://github.com/fthdgn-gh/Alembic"
     },
     {
@@ -2300,15 +2328,15 @@
     {
       "name": "Photo Splat VR",
       "filename": "PPSA99770.zip",
-      "url": "https://github.com/Papyszoo/photo-splat-vr/releases/download/v0.5.0/photo-splat-vr-v0.5.0.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99770/0.5.0/PPSA99770.zip",
+      "url": "https://github.com/Papyszoo/photo-splat-vr/releases/download/v0.6.0/photo-splat-vr-v0.6.0.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99770/0.6.0/PPSA99770.zip",
       "description": "Turns your photos into 3D Gaussian splat scenes on the console and lets you view them in PSVR2. Works offline; photos and scenes can also live on SMB or NFS shares.",
-      "version": "0.5.0",
+      "version": "0.6.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99770",
       "author": "Papyszoo",
-      "checksum": "167d4046869adfea812c869a9e716f49ceaffd8d4b1eb134656a8c65a3cc9afe",
+      "checksum": "f085419db0d2d0f94998b3b89a1d96a681aa5f8fede2646ed7b2c39c2d16f67c",
       "source": "https://github.com/Papyszoo/photo-splat-vr"
     },
     {
@@ -2384,15 +2412,15 @@
     {
       "name": "ProsperoCraft",
       "filename": "PPSA99874.zip",
-      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.256/PPSA99874.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.256/PPSA99874.zip",
+      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.265/PPSA99874.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.265/PPSA99874.zip",
       "description": "Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.",
-      "version": "01.000.256",
+      "version": "01.000.265",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99874",
       "author": "mateo-cogeanu",
-      "checksum": "433fddadd77068e324e2118cd1d47988f9f46e5201fcf41535475de8ec0e3b9f",
+      "checksum": "321f17e96e25dcb39bce4f77d4cffa27935abf976af3db38ebd33b3e89e8ade1",
       "source": "https://github.com/mateo-cogeanu/ProsperoCraft"
     },
     {

@@ -64,7 +64,7 @@
       "description": "GDB Debugger server payload. Port: 1234",
       "version": "v0.9",
       "category": "PS5 Server",
-      "checksum": "36fe5a9d0a806d8fc89dd4de2ea959231c33456b3dce1c29b024bad4105f49d5",
+      "checksum": "fc91ea233cdbb47acd8087b93d557d9f8a663d0f47cb75908a05a024d07e7efb",
       "source": "https://github.com/ps5-payload-dev/gdbsrv/releases"
     },
     {
@@ -112,14 +112,14 @@
       "source": "https://github.com/cy33hc/ps5-ezremote-server/releases"
     },
     {
-      "name": "Ps5Upload V11.3.0",
-      "filename": "ps5upload_v11.3.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v11.3.0/ps5upload_v11.3.0.elf",
-      "local_path": "payloads/ps5_server/ps5upload/v11.3.0/ps5upload_v11.3.0.elf",
+      "name": "Ps5Upload V11.5.0",
+      "filename": "ps5upload_v11.5.0.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v11.5.0/ps5upload_v11.5.0.elf",
+      "local_path": "payloads/ps5_server/ps5upload/v11.5.0/ps5upload_v11.5.0.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v11.3.0",
+      "version": "v11.5.0",
       "category": "PS5 Server",
-      "checksum": "db1d0e2be1d14fea08b42a9289e20ebe8609011f288b29b7dd73c957b2616ffd",
+      "checksum": "92e47765d122cb0adc262c06318b3647faf08a8910ebfb74f47c62738188c845",
       "source": "https://github.com/phantomptr/ps5upload/releases"
     },
     {
