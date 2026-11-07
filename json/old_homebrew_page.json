@@ -2,6 +2,20 @@
     "name": "ProsperoStore Catalog",
     "apps": [
         {
+            "name": "Bounce Tales",
+            "filename": "BNTL00001.zip",
+            "url": "https://github.com/youss17x/Bounce-Tales-PS5/releases/download/v1.0.0/BNTL00001-v1.0.0.zip",
+            "local_path": "downloads/apps/homebrew_page/game/BNTL00001/1.0.0/BNTL00001.zip",
+            "description": "Native PS5 port of the Nokia J2ME platformer Bounce Tales: 16:9 widescreen, sharp text, DualSense controls, 60 fps. Requires your own copy of the game (.jar).",
+            "version": "1.0.0",
+            "category": "Games",
+            "kind": "game",
+            "titleid": "BNTL00001",
+            "author": "Youss Riaal",
+            "checksum": "c81a89133ae1098ea31ca2023b5b2b6ae5db61121a2a2f154096e80774b29bfd",
+            "source": "https://github.com/youss17x/Bounce-Tales-PS5"
+        },
+        {
             "name": "Cyberworld Endless",
             "filename": "CWEN00001.zip",
             "url": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless/releases/download/v0.19.0/cyberworld-endless-ps5.zip",
@@ -1432,29 +1446,29 @@
         {
             "name": "OGBox",
             "filename": "PPSA99251.zip",
-            "url": "https://github.com/Press5elect/OGBox/releases/download/v0.0.4/OGBox-v0.0.4.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99251/0.0.4/PPSA99251.zip",
+            "url": "https://github.com/Press5elect/OGBox/releases/download/v0.0.5/OGBox-v0.0.5.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99251/0.0.5/PPSA99251.zip",
             "description": "XBOX emulator for PS5",
-            "version": "0.0.4",
+            "version": "0.0.5",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99251",
             "author": "Press5elect",
-            "checksum": "526dcd9a2a54fb6a123580561606276f5ceba3c5de57186646dc926f2e9cd28a",
+            "checksum": "bfcf65f57ee7d787277db6342c0e4724034e6d7160c875b9c0f12f23f8ac0fe4",
             "source": "https://github.com/Press5elect/OGBox"
         },
         {
             "name": "PS5 Browser",
             "filename": "PPSA99257.zip",
-            "url": "https://github.com/Vibe-Code-Jesus/PS5Browser-Releases/releases/download/native-v01.000.008/PS5Browser-Native-01.000.008-Preview.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99257/native-v01.000.008/PPSA99257.zip",
+            "url": "https://github.com/Vibe-Code-Jesus/PS5Browser-Releases/releases/download/native-v01.000.009/PS5Browser-Native-01.000.009-Preview.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99257/native-v01.000.009/PPSA99257.zip",
             "description": "A PS5 web browser with tabbed browsing, a download manager, archive extraction, supported exFAT conversion, TorBox integration, media playback, CAPTCHA tools and in-app updates.",
-            "version": "native-v01.000.008",
+            "version": "native-v01.000.009",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99257",
             "author": "Vibe-Code-Jesus",
-            "checksum": "62bef8251613c890efbb1c7c851c3e4e758e6e0b428b4bc156c668b9f512f057",
+            "checksum": "b127e7e3ffb8386fcd2f613a6d3d8bf57d067bc55820f074346f699d75a67e80",
             "source": "https://github.com/Vibe-Code-Jesus/PS5Browser-Releases"
         },
         {
@@ -2328,15 +2342,15 @@
         {
             "name": "Estante",
             "filename": "PPSA99841.zip",
-            "url": "https://github.com/kauansilvalopes/estante/releases/download/v0.5.5/Estante-v0.5.5-PPSA99841.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99841/0.5.5/PPSA99841.zip",
+            "url": "https://github.com/kauansilvalopes/estante/releases/download/v0.5.8/Estante-v0.5.8-PPSA99841.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99841/0.5.8/PPSA99841.zip",
             "description": "Native PS5 library organizer: 3D shelf and catalogue, collections, favourites and emulator libraries with covers. EN/PT/ES.",
-            "version": "0.5.5",
+            "version": "0.5.8",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99841",
             "author": "kauansilvalopes",
-            "checksum": "b34244490a5c65e2abf324b47f5dd6b6c441962fe8818f2c7486174968053c84",
+            "checksum": "26907f385288d675c07fdd70f1a113a2dc9cee31cbe26aa84c802d470913f8a4",
             "source": "https://github.com/kauansilvalopes/estante"
         },
         {

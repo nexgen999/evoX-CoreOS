@@ -168,6 +168,7 @@
       <outline text="psp5" title="psp5" type="rss" xmlUrl="https://github.com/tsuramatsu1/psp5" description="ppsspp for PS5"/>
     </outline>
     <outline text="ProsperoStore" title="ProsperoStore">
+      <outline text="Bounce Tales" title="Bounce Tales" type="rss" xmlUrl="https://github.com/youss17x/Bounce-Tales-PS5" description="Native PS5 port of the Nokia J2ME platformer Bounce Tales: 16:9 widescreen, sharp text, DualSense controls, 60 fps. Requires your own copy of the game (.jar)."/>
       <outline text="Cyberworld Endless" title="Cyberworld Endless" type="rss" xmlUrl="https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless" description="A roguelike built on the real Mega Man Battle Network 6, from your own ROM: every run jacks MegaMan into a newly generated net of battles, loot and guardian Navis."/>
       <outline text="Playden" title="Playden" type="rss" xmlUrl="https://github.com/leolobato/playden-ps5" description="Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title."/>
       <outline text="Forgotten Warrior Remastered" title="Forgotten Warrior Remastered" type="rss" xmlUrl="https://github.com/youss17x/Forgotten-Warrior-PS5" description="Native PS5 port of the J2ME platformer Forgotten Warrior with DualSense controls and 4K output. Requires your own copy of the original game."/>

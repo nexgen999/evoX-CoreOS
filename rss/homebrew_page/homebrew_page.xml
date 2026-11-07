@@ -5,6 +5,12 @@
     <link>https://nexgen999.github.io/evoX-CoreOS</link>
     <description>Mises à jour automatiques pour la catégorie ProsperoStore</description>
     <item>
+      <title>Bounce Tales</title>
+      <link>https://github.com/youss17x/Bounce-Tales-PS5</link>
+      <description>Native PS5 port of the Nokia J2ME platformer Bounce Tales: 16:9 widescreen, sharp text, DualSense controls, 60 fps. Requires your own copy of the game (.jar).</description>
+      <pubDate>1.0.0</pubDate>
+    </item>
+    <item>
       <title>Cyberworld Endless</title>
       <link>https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless</link>
       <description>A roguelike built on the real Mega Man Battle Network 6, from your own ROM: every run jacks MegaMan into a newly generated net of battles, loot and guardian Navis.</description>
@@ -620,13 +626,13 @@
       <title>OGBox</title>
       <link>https://github.com/Press5elect/OGBox</link>
       <description>XBOX emulator for PS5</description>
-      <pubDate>0.0.4</pubDate>
+      <pubDate>0.0.5</pubDate>
     </item>
     <item>
       <title>PS5 Browser</title>
       <link>https://github.com/Vibe-Code-Jesus/PS5Browser-Releases</link>
       <description>A PS5 web browser with tabbed browsing, a download manager, archive extraction, supported exFAT conversion, TorBox integration, media playback, CAPTCHA tools and in-app updates.</description>
-      <pubDate>native-v01.000.008</pubDate>
+      <pubDate>native-v01.000.009</pubDate>
     </item>
     <item>
       <title>Prospero Hi-Fi</title>
@@ -1004,7 +1010,7 @@
       <title>Estante</title>
       <link>https://github.com/kauansilvalopes/estante</link>
       <description>Native PS5 library organizer: 3D shelf and catalogue, collections, favourites and emulator libraries with covers. EN/PT/ES.</description>
-      <pubDate>0.5.5</pubDate>
+      <pubDate>0.5.8</pubDate>
     </item>
     <item>
       <title>Trophy Manager</title>

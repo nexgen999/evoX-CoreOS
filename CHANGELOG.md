@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 07/11/2026 à 04:50
+* **HOMEBREW_PAGE**
+  * `Bounce Tales` (1.0.0) - *Nouveau*
+  * `OGBox` (0.0.5) - *Mise à jour (Précédent: 0.0.4)*
+  * `PS5 Browser` (native-v01.000.009) - *Mise à jour (Précédent: native-v01.000.008)*
+  * `Estante` (0.5.8) - *Mise à jour (Précédent: 0.5.5)*
+
 ## Build du 06/11/2026 à 23:05
 * **PAYLOADS**
   * `Webkit-Autoloader-Installer V0.7.0` (v0.7.0) - *Nouveau*
