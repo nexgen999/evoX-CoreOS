@@ -1008,9 +1008,9 @@
     </item>
     <item>
       <title>[Applications] Ppsa97358</title>
-      <link>https://github.com/ZiZc3/XPSemu/releases/download/Alpha-3/PPSA97358.zip</link>
+      <link>https://github.com/ZiZc3/XPSemu/releases/download/v3.1/PPSA97358.zip</link>
       <description>Xbox emulator (Xemu) port for the PS5</description>
-      <pubDate>Alpha-3</pubDate>
+      <pubDate>v3.1</pubDate>
     </item>
     <item>
       <title>[Applications] Porpoise-4.5-Source</title>
@@ -1238,7 +1238,7 @@
       <title>[ProsperoStore] ProsperoSunshine</title>
       <link>https://github.com/Darkatek7/ProsperoSunshine</link>
       <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.</description>
-      <pubDate>0.4.0</pubDate>
+      <pubDate>0.4.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] SudokuZen</title>
@@ -1442,7 +1442,7 @@
       <title>[ProsperoStore] XPSemu</title>
       <link>https://github.com/ZiZc3/XPSemu</link>
       <description>Original Xbox emulator for PS5, based on xemu.</description>
-      <pubDate>Alpha-3</pubDate>
+      <pubDate>v3.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PSXS5</title>
@@ -1466,7 +1466,7 @@
       <title>[ProsperoStore] TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.202</pubDate>
+      <pubDate>01.000.203</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] CD Player</title>
@@ -1503,6 +1503,12 @@
       <link>https://github.com/darkxex/DevilutionXPS5</link>
       <description>native PS5 build of DevilutionX, as an installed title (PPSA98514). It is a separate port from the payload one in Packaging/ps5 and does not replace it.</description>
       <pubDate>ps5-v1.0.0</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] Breath of the Wild VR</title>
+      <link>https://github.com/Papyszoo/botw-bettervr-ps5</link>
+      <description>Plays your own Breath of the Wild (Wii U) dump in PS VR2 with Sense controllers, using Crementif's BetterVR mod in PS5-ECAM's Cemu (experimental, firmware 13.60).</description>
+      <pubDate>0.1.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] DriftCheck</title>
@@ -2120,7 +2126,7 @@
       <title>[ProsperoStore] PSBox Cloud Gaming</title>
       <link>https://github.com/RafaelNGP/xbox-cloud-gaming-ps5</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
-      <pubDate>1.6.1</pubDate>
+      <pubDate>1.6.3</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Estante</title>

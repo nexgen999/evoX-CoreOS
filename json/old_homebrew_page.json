@@ -270,15 +270,15 @@
         {
             "name": "ProsperoSunshine",
             "filename": "PPSA47989.zip",
-            "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.4.0/PPSA47989.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.4.0/PPSA47989.zip",
+            "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.4.1/PPSA47989.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.4.1/PPSA47989.zip",
             "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.",
-            "version": "0.4.0",
+            "version": "0.4.1",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA47989",
             "author": "Darkatek7",
-            "checksum": "33f02602ef418d5d88c02e45239eb7bfc799672f6fc9f9fa8b01a47336a90afd",
+            "checksum": "1015756bf4548500569907d112964be37ef865465d82ded815443ce8ae004a7c",
             "source": "https://github.com/Darkatek7/ProsperoSunshine"
         },
         {
@@ -746,15 +746,15 @@
         {
             "name": "XPSemu",
             "filename": "PPSA97358.zip",
-            "url": "https://github.com/ZiZc3/XPSemu/releases/download/Alpha-3/PPSA97358.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA97358/Alpha-3/PPSA97358.zip",
+            "url": "https://github.com/ZiZc3/XPSemu/releases/download/v3.1/PPSA97358.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA97358/v3.1/PPSA97358.zip",
             "description": "Original Xbox emulator for PS5, based on xemu.",
-            "version": "Alpha-3",
+            "version": "v3.1",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA97358",
             "author": "AZiZ",
-            "checksum": "e6f676fb2b2cd0ec1d2fa1abcedb8f42e65e1e662d99fd385565b8410631c4ac",
+            "checksum": "0fa4f1556b257317d5b38a8f5b9803b58e05b5ba0e63fb26492f7bea369bf558",
             "source": "https://github.com/ZiZc3/XPSemu"
         },
         {
@@ -802,15 +802,15 @@
         {
             "name": "TubeBlock",
             "filename": "PPSA98260.zip",
-            "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.202/SmartTube-PPSA98260.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.202/PPSA98260.zip",
+            "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.203/SmartTube-PPSA98260.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.203/PPSA98260.zip",
             "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
-            "version": "01.000.202",
+            "version": "01.000.203",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA98260",
             "author": "animatian112",
-            "checksum": "15192b807e2a9e1b14c1732c9fb932f53d375d36282626b000ca6c0882c9b084",
+            "checksum": "8b11d5a1e8e442c5ffa3b144ec179a1077f922317890121f0c21fb1306ef90dd",
             "source": "https://github.com/animatian112/ytps5-sponsorblock"
         },
         {
@@ -896,6 +896,20 @@
             "author": "AngelXex",
             "checksum": "c93ad55009512bd982c7fff4c2caf723ba71cdcc03dab744f296911196843ce4",
             "source": "https://github.com/darkxex/DevilutionXPS5"
+        },
+        {
+            "name": "Breath of the Wild VR",
+            "filename": "PPSA98720.zip",
+            "url": "https://github.com/Papyszoo/botw-bettervr-ps5/releases/download/v0.1.0/BotW-VR-v0.1.0.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA98720/0.1.0/PPSA98720.zip",
+            "description": "Plays your own Breath of the Wild (Wii U) dump in PS VR2 with Sense controllers, using Crementif's BetterVR mod in PS5-ECAM's Cemu (experimental, firmware 13.60).",
+            "version": "0.1.0",
+            "category": "Apps",
+            "kind": "app",
+            "titleid": "PPSA98720",
+            "author": "Papyszoo",
+            "checksum": "4b1219409efb13dacc13265b83213ef0b00abf3e7838730814cfb347b3390ae0",
+            "source": "https://github.com/Papyszoo/botw-bettervr-ps5"
         },
         {
             "name": "DriftCheck",
@@ -2328,15 +2342,15 @@
         {
             "name": "PSBox Cloud Gaming",
             "filename": "PPSA99810.zip",
-            "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v1.6.1/PPSA99810.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.6.1/PPSA99810.zip",
+            "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v1.6.3/PPSA99810.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.6.3/PPSA99810.zip",
             "description": "Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.",
-            "version": "1.6.1",
+            "version": "1.6.3",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99810",
             "author": "RafaelNGP",
-            "checksum": "06a0e4fcef6961f85e15c1feba6d3209c16f2c4ae20cdb2cb620c7b96757c820",
+            "checksum": "db4c21d9a825b9f499c18069a19547703867d8633ad24f958699b75082d2008e",
             "source": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5"
         },
         {

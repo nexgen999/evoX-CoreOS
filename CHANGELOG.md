@@ -1,5 +1,15 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 07/11/2026 à 12:43
+* **APPS**
+  * `Ppsa97358` (v3.1) - *Mise à jour (Précédent: Alpha-3)*
+* **HOMEBREW_PAGE**
+  * `ProsperoSunshine` (0.4.1) - *Mise à jour (Précédent: 0.4.0)*
+  * `XPSemu` (v3.1) - *Mise à jour (Précédent: Alpha-3)*
+  * `TubeBlock` (01.000.203) - *Mise à jour (Précédent: 01.000.202)*
+  * `Breath of the Wild VR` (0.1.0) - *Nouveau*
+  * `PSBox Cloud Gaming` (1.6.3) - *Mise à jour (Précédent: 1.6.1)*
+
 ## Build du 07/11/2026 à 04:50
 * **HOMEBREW_PAGE**
   * `Bounce Tales` (1.0.0) - *Nouveau*
