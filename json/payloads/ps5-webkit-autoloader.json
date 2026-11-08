@@ -2,14 +2,14 @@
   "name": "Ps5-Webkit-Autoloader",
   "payloads": [
     {
-      "name": "Webkit-Autoloader-Installer V0.7.0",
-      "filename": "webkit-autoloader-installer_v0.7.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.7.0/webkit-autoloader-installer_v0.7.0.elf",
-      "local_path": "payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.7.0/webkit-autoloader-installer_v0.7.0.elf",
+      "name": "Webkit-Autoloader-Installer V0.7.1",
+      "filename": "webkit-autoloader-installer_v0.7.1.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.7.1/webkit-autoloader-installer_v0.7.1.elf",
+      "local_path": "payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.7.1/webkit-autoloader-installer_v0.7.1.elf",
       "description": "Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00.",
-      "version": "v0.7.0",
+      "version": "v0.7.1",
       "category": "Ps5-Webkit-Autoloader",
-      "checksum": "10cb38baae078e41f252cffb0d356829c89ee63fd3234f1fd1e6b19f81eab1c7",
+      "checksum": "df60538570e9811bb0b4652a3fdb3e1a35ec3455b3ca7c80edc4140c5bb47ce2",
       "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases"
     },
     {

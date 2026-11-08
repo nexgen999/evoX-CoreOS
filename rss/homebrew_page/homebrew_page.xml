@@ -20,7 +20,7 @@
       <title>Playden</title>
       <link>https://github.com/leolobato/playden-ps5</link>
       <description>Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.</description>
-      <pubDate>0.10.0</pubDate>
+      <pubDate>0.11.0-beta.1</pubDate>
     </item>
     <item>
       <title>Forgotten Warrior Remastered</title>
@@ -39,6 +39,24 @@
       <link>https://github.com/dantaipan/PS64</link>
       <description>Play the Commodore 64 on PS5: stream and control a C64 Ultimate, or use the built-in VICE emulator, with Assembly64 search.</description>
       <pubDate>01.000.005</pubDate>
+    </item>
+    <item>
+      <title>Class of '09</title>
+      <link>https://github.com/dannyboyjaros/ps5classof09</link>
+      <description>Class of '09 - unofficial PS5 homebrew runtime</description>
+      <pubDate>1.0.1</pubDate>
+    </item>
+    <item>
+      <title>Class of '09: The Re-Up</title>
+      <link>https://github.com/dannyboyjaros/ps5classof09thereup</link>
+      <description>Class of '09: The Re-Up - unofficial PS5 homebrew runtime</description>
+      <pubDate>1.0.1</pubDate>
+    </item>
+    <item>
+      <title>Class of '09: The Flip Side</title>
+      <link>https://github.com/dannyboyjaros/ps5classof09theflipside</link>
+      <description>Unofficial PS5 homebrew runtime for Class of '09: The Flip Side (PPSA09011)</description>
+      <pubDate>1.0.1</pubDate>
     </item>
     <item>
       <title>PC5</title>
@@ -128,7 +146,7 @@
       <title>ProsperoSunshine</title>
       <link>https://github.com/Darkatek7/ProsperoSunshine</link>
       <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.</description>
-      <pubDate>0.4.2</pubDate>
+      <pubDate>0.5.0</pubDate>
     </item>
     <item>
       <title>SudokuZen</title>
@@ -638,7 +656,7 @@
       <title>OGBox</title>
       <link>https://github.com/Press5elect/OGBox</link>
       <description>XBOX emulator for PS5</description>
-      <pubDate>0.0.5</pubDate>
+      <pubDate>0.0.6</pubDate>
     </item>
     <item>
       <title>PS5 Browser</title>
@@ -650,7 +668,7 @@
       <title>BattleShip Remix</title>
       <link>https://github.com/lucasliet/BattleShip-remix</link>
       <description>Native PS5 port of Smash Remix, the Super Smash Bros. 64 mod, built on the SSB64 decompilation and libultraship. Bring your own Smash Remix ROM.</description>
-      <pubDate>v2.0.1-port.5</pubDate>
+      <pubDate>v2.0.1-port.6</pubDate>
     </item>
     <item>
       <title>Prospero Hi-Fi</title>
@@ -662,7 +680,7 @@
       <title>Nuvio Max'd</title>
       <link>https://github.com/HandshakeHackin/Nuvio-maxd-releases</link>
       <description>Experimental Nuvio Max'd test build for PS5 with playback source switching, live subtitle controls, audio sync steps and optional time-grid EPG, plus profiles, IPTV and media servers.</description>
-      <pubDate>1.0.0.12-native-experimental</pubDate>
+      <pubDate>1.0.0.13-native-experimental</pubDate>
     </item>
     <item>
       <title>Spider-Man: Edge of Time</title>
@@ -770,7 +788,7 @@
       <title>NFS Black Box</title>
       <link>https://github.com/lavavex/nfs-blackbox-ps5</link>
       <description>Black Box's Need for Speed games as homebrew apps on a jailbroken PS5, through prospero-win (bring your own copy).</description>
-      <pubDate>01.000.000</pubDate>
+      <pubDate>01.000.010</pubDate>
     </item>
     <item>
       <title>Sahin</title>
@@ -806,7 +824,7 @@
       <title>Halo: Combat Evolved</title>
       <link>https://github.com/thelinkin3000/SlipstreamCE</link>
       <description>Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.</description>
-      <pubDate>build-138</pubDate>
+      <pubDate>build-140</pubDate>
     </item>
     <item>
       <title>Jelly5</title>

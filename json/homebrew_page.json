@@ -32,15 +32,15 @@
     {
       "name": "Playden",
       "filename": "FAKE77031.zip",
-      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.10.0/playden-ps5-0.10.0.zip",
-      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.10.0/FAKE77031.zip",
+      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.11.0-beta.1/playden-ps5-0.11.0-beta.1.zip",
+      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.11.0-beta.1/FAKE77031.zip",
       "description": "Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.",
-      "version": "0.10.0",
+      "version": "0.11.0-beta.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "FAKE77031",
       "author": "leolobato",
-      "checksum": "f9edfca65fc617c9805436e6c879771a330e5a28c35df8b3e03184ed0969e2e2",
+      "checksum": "e0c0c866d6f188f3cf5eb18a7c758b0331808e1a2e7e53a0561aa653ef183a91",
       "source": "https://github.com/leolobato/playden-ps5"
     },
     {
@@ -84,6 +84,48 @@
       "author": "dantaipan",
       "checksum": "bcff57347d2c7baf6852661e3f2f4648dec1343eab2951b2d3d54cc4f0fd44ce",
       "source": "https://github.com/dantaipan/PS64"
+    },
+    {
+      "name": "Class of '09",
+      "filename": "PPSA09009.zip",
+      "url": "https://github.com/dannyboyjaros/ps5classof09/releases/download/v1.0.1/PPSA09009.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA09009/1.0.1/PPSA09009.zip",
+      "description": "Class of '09 - unofficial PS5 homebrew runtime",
+      "version": "1.0.1",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA09009",
+      "author": "dannyboyjaros",
+      "checksum": "b5d3bfdbe7b43d719d13e351fa9dcb27a94e13280adcf8fd28630c600bdc8012",
+      "source": "https://github.com/dannyboyjaros/ps5classof09"
+    },
+    {
+      "name": "Class of '09: The Re-Up",
+      "filename": "PPSA09010.zip",
+      "url": "https://github.com/dannyboyjaros/ps5classof09thereup/releases/download/v1.0.1/PPSA09010.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA09010/1.0.1/PPSA09010.zip",
+      "description": "Class of '09: The Re-Up - unofficial PS5 homebrew runtime",
+      "version": "1.0.1",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA09010",
+      "author": "dannyboyjaros",
+      "checksum": "c79e476faee262c487ae5726deadf65db3a4af77d0d228228f7a9a6030ae086d",
+      "source": "https://github.com/dannyboyjaros/ps5classof09thereup"
+    },
+    {
+      "name": "Class of '09: The Flip Side",
+      "filename": "PPSA09011.zip",
+      "url": "https://github.com/dannyboyjaros/ps5classof09theflipside/releases/download/v1.0.1/PPSA09011.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA09011/1.0.1/PPSA09011.zip",
+      "description": "Unofficial PS5 homebrew runtime for Class of '09: The Flip Side (PPSA09011)",
+      "version": "1.0.1",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA09011",
+      "author": "dannyboyjaros",
+      "checksum": "27a5f02f0048763a56ad747fd2ba969a03df179d270e3b9a128f5af7e00a5534",
+      "source": "https://github.com/dannyboyjaros/ps5classof09theflipside"
     },
     {
       "name": "PC5",
@@ -284,15 +326,15 @@
     {
       "name": "ProsperoSunshine",
       "filename": "PPSA47989.zip",
-      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.4.2/PPSA47989.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.4.2/PPSA47989.zip",
+      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.5.0/PPSA47989.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.5.0/PPSA47989.zip",
       "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.",
-      "version": "0.4.2",
+      "version": "0.5.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA47989",
       "author": "Darkatek7",
-      "checksum": "29b12548bd7f5b1b24f82c84350e51035315ad71bc12b52103b66dfde64c51f9",
+      "checksum": "89059840287d821011d6d660a8aff8e84425299a965aebbfb87f255e3ceef3bc",
       "source": "https://github.com/Darkatek7/ProsperoSunshine"
     },
     {
@@ -1474,15 +1516,15 @@
     {
       "name": "OGBox",
       "filename": "PPSA99251.zip",
-      "url": "https://github.com/Press5elect/OGBox/releases/download/v0.0.5/OGBox-v0.0.5.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99251/0.0.5/PPSA99251.zip",
+      "url": "https://github.com/Press5elect/OGBox/releases/download/v0.0.6/OGBox-v0.0.6.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99251/0.0.6/PPSA99251.zip",
       "description": "XBOX emulator for PS5",
-      "version": "0.0.5",
+      "version": "0.0.6",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99251",
       "author": "Press5elect",
-      "checksum": "bfcf65f57ee7d787277db6342c0e4724034e6d7160c875b9c0f12f23f8ac0fe4",
+      "checksum": "b7602b6b1c51184ff70520d31e0e237644dba5fc764927f892f4b9cf592ff55d",
       "source": "https://github.com/Press5elect/OGBox"
     },
     {
@@ -1502,15 +1544,15 @@
     {
       "name": "BattleShip Remix",
       "filename": "PPSA99264.zip",
-      "url": "https://github.com/lucasliet/BattleShip-remix/releases/download/v2.0.1-port.5/BattleShip-Remix-ps5-PPSA99264.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99264/v2.0.1-port.5/PPSA99264.zip",
+      "url": "https://github.com/lucasliet/BattleShip-remix/releases/download/v2.0.1-port.6/BattleShip-Remix-ps5-PPSA99264.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99264/v2.0.1-port.6/PPSA99264.zip",
       "description": "Native PS5 port of Smash Remix, the Super Smash Bros. 64 mod, built on the SSB64 decompilation and libultraship. Bring your own Smash Remix ROM.",
-      "version": "v2.0.1-port.5",
+      "version": "v2.0.1-port.6",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99264",
       "author": "Lucas Oliveira",
-      "checksum": "bc01894a97da83bcc9764f473e9c66baedb9d0c79642a5811915336dd552fa51",
+      "checksum": "bd58530a0b176a31e56aebb0d899b4d3d326dcc4a2758c0ffdb2e17abb05aa86",
       "source": "https://github.com/lucasliet/BattleShip-remix"
     },
     {
@@ -1530,15 +1572,15 @@
     {
       "name": "Nuvio Max'd",
       "filename": "PPSA99288.zip",
-      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.12-native-experimental/PPSA99288.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.12-native-experimental/PPSA99288.zip",
+      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.13-native-experimental/PPSA99288.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.13-native-experimental/PPSA99288.zip",
       "description": "Experimental Nuvio Max'd test build for PS5 with playback source switching, live subtitle controls, audio sync steps and optional time-grid EPG, plus profiles, IPTV and media servers.",
-      "version": "1.0.0.12-native-experimental",
+      "version": "1.0.0.13-native-experimental",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99288",
       "author": "HandshakeHackin",
-      "checksum": "d64d3c9ff382121f8a6b4260d87fce8b03e8948caa79580630aad562d29850ba",
+      "checksum": "c7ae26a0a14ae439fa9162e1448a7039838a83940fa8dd0febe201952f4a4755",
       "source": "https://github.com/HandshakeHackin/Nuvio-maxd-releases"
     },
     {
@@ -1782,15 +1824,15 @@
     {
       "name": "NFS Black Box",
       "filename": "PPSA99403.zip",
-      "url": "https://github.com/lavavex/nfs-blackbox-ps5/releases/download/01.000.000/PPSA99403.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99403/01.000.000/PPSA99403.zip",
+      "url": "https://github.com/lavavex/nfs-blackbox-ps5/releases/download/01.000.010/PPSA99403.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99403/01.000.010/PPSA99403.zip",
       "description": "Black Box's Need for Speed games as homebrew apps on a jailbroken PS5, through prospero-win (bring your own copy).",
-      "version": "01.000.000",
+      "version": "01.000.010",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99403",
       "author": "lavavex",
-      "checksum": "03a69011cfd999b0128799dfd15ae675a251ce79ae803c6230932619f40fe840",
+      "checksum": "1599e55076afe4cee55a364325df769ae304b3770f49d68e4c60df34a7fcc382",
       "source": "https://github.com/lavavex/nfs-blackbox-ps5"
     },
     {
@@ -1866,15 +1908,15 @@
     {
       "name": "Halo: Combat Evolved",
       "filename": "PPSA99500.zip",
-      "url": "https://github.com/thelinkin3000/SlipstreamCE/releases/download/build-138/halo-ps5-release.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-138/PPSA99500.zip",
+      "url": "https://github.com/thelinkin3000/SlipstreamCE/releases/download/build-140/halo-ps5-release.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-140/PPSA99500.zip",
       "description": "Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.",
-      "version": "build-138",
+      "version": "build-140",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99500",
       "author": "thelinkin3000",
-      "checksum": "6b81d73a8f6f665031f4b1e3a1ae927272a869f978c02a20789f8554411f608e",
+      "checksum": "61216505a14e5208e974661252ef132dbd9556d99d4968968a38565739442059",
       "source": "https://github.com/thelinkin3000/SlipstreamCE"
     },
     {

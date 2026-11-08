@@ -3,6 +3,106 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA29343",
+      "title": "Beast of Reincarnation Deluxe Edition",
+      "createdAt": "2026-11-08T02:05:50.875Z",
+      "version": "1.0",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/2553efba2df43e671227772588794f3b16684191c9ea8b5e68cd5a5f84cff3ea",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/aacc00cddb3c9df5a58797417fb09dc091753391f44dfb667e0e1282cf82868a",
+      "description": "Format: zstd\nBeast of Reincarnation Digital Deluxe Edition The Digital Deluxe Edition includes Black and Brown Shiba Skins for Koo, “Oni’s Hat” for Emma, Emma’s sword “Big Dipper”, 100,000 Amber (in-game currency), plus a number of vegetable seedlings! Set in a post-apocalyptic Japan, humanity's only hope lies with Emma, an outcast shunned from society for her affliction, and Koo, the blighted dog. Together, they embark on this expansive adventure in this one-person, one-dog action RPG. Experience a journey where you feel moments of loneliness, and also the reliability and comfort of your companion. Savor a world of impermanence, where forests suddenly burst forth amidst the wasteland. As Emma and Koo travel through this beautiful yet harsh world, their bond and abilities blossom. Customize your playstyle with unique skill trees, gear, and spirit stones to survive this beautiful yet brutal world. Define your own playstyle through your preferred loadout, including ranged, stealthy, and aggressive combat. In this world ravaged by blight... What will you find at the end of your journey? Key Features: Emma and Koo’s Synergy Emma and Koo create a revolutionary action RPG experience. Fight as a unit, using Emma's sword abilities while giving Koo commands to unleash various techniques in a hybrid combat system that combines elements of action and turn-based RPGs. Japan: Year 4026 Travel through a beautiful yet harsh post-apocalyptic world. Experience the ever-changing scenery, in the blighted forest, and the Bosses that rule this world. Emma and Koo, who met in the far east, are tasked with battling Bosses from all over the world and capturing their powers in order to defeat the Beast of Reincarnation. A story filled with secrets Dive into a brutal narrative where every character hides a dangerous truth. Uncover the intertwined fates of Emma and Koo in this profound story.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nUpdated: 2026-11-08T01:42:01.126Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/QiUKlrldHQ"
+        }
+      ],
+      "sizeBytes": 31138512896
+    },
+    {
+      "titleId": "PPSA26136",
+      "title": "Avowed",
+      "createdAt": "2026-10-30T21:37:20.702Z",
+      "version": "2.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/9beda1e96feab63975e2e13737cd193949e932bc4257bdf41c55e4aab284906b",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/2d91f6b0637d7b04d34203f052d2fd9bf19a4b154aad8d79957a01dd4fa0d898",
+      "description": "Format: zstd\nWelcome to the Living Lands, a mysterious island filled with adventure and danger. Set in the fictional world of Eora first introduced in the Pillars of Eternity franchise, Avowed is a first-person fantasy action RPG from the award-winning team at Obsidian Entertainment. As an envoy of Aedyr, you are sent to the Living Lands to investigate a mysterious plague. But what begins as a mission of duty soon becomes deeply personal—you feel as though the land recognizes you and is pulling you toward something greater. The choices you make will ripple across the Living Lands, shaping the fates of its people, its creatures, your companions, and even yourself. Anniversary Update Even more to do in the game! This update brings New Game Plus, a Photo Mode, a brand new weapon type with two-handed staves, the ability to change character appearance whenever you’d like, new character creation presets, additional Godlike presets, custom game difficulty settings, and the addition of three new playable races: Dwarf, Aumaua, and Orlan. The Weird and Wonderful Living Lands The Living Lands is a place that feels foreign yet strangely intrinsic to you, as though the island itself is calling out for help. Explore a vibrant frontier home to diverse environments, creatures, factions, and mysteries—each with its own unique ecosystem and stories to uncover. Combat and Character Building Your Way Fight with fluid, visceral combat that lets you mix swords, spells, guns, and shields in whatever combination fits your style. Craft your own build by drawing from four distinct skill trees—Fighter, Ranger, Wizard, and Godlike—and layer a companion skillset on top of your own to create powerful synergies. Experiment with new abilities, refine your strategy, and reshape your approach as you master the challenges ahead. Companions as Part of Your Journey A spread of companions from different species and backgrounds will fight alongside you, each with their own personalities, goals, and abilities. From a former mercenary to an eccentric wizard, these allies will grow and change based on the choices you make—and the quests you help them complete.\nRegion: USA to EUR Langs\nFirmware: 10.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nUpdated: 2026-11-08T01:40:35.513Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/NohcdyZzvV"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/vmbCi6Ulpg"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/gxH4Yybk8q"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/B1qNI1q4bs"
+        }
+      ],
+      "sizeBytes": 72799695667
+    },
+    {
+      "titleId": "PPSA09663",
+      "title": "Dragon's Dogma 2 + ALL DLCs",
+      "createdAt": "2026-11-08T02:05:50.875Z",
+      "version": "4.000.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/9795aa24caa52f8bc7a8ff9f58be56eb003575747fc914b9293b75c65aa4f886",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/7662f005c664c609a2e295c9b9167743c0433f88fa35aa19cd092e0aab80f890",
+      "description": "Format: zstd\nSet forth on your grand adventure, Arisen! Dragon’s Dogma is a single player, narrative driven action-RPG series that challenges the players to choose their own experience – from the appearance of their Arisen, their vocation, their party, how to approach different situations and more. Now, in this long-awaited sequel, the deep, explorable fantasy world of Dragon’s Dogma 2 awaits. On your journey, you’ll be joined by Pawns, mysterious otherworldly beings, in an adventure so unique you will feel as if accompanied by other players while on your own adventure. All of these elements are elevated further through physics technology, artificial intelligence (AI) and the latest in graphics, to create a truly immersive fantasy world in Dragon’s Dogma 2.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: English only, sadly :c\nUpdated: 2026-11-08T01:37:33.680Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/2OsfJNEhss"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/qYnh14Ps2h"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/VOsnc6HHd9"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/KQn9u6Oyps"
+        },
+        {
+          "name": "zstd · Viki - pt.5",
+          "url": "https://vikingfile.com/f/Uy0qojdq4d"
+        }
+      ],
+      "sizeBytes": 88476326298
+    },
+    {
+      "titleId": "PPSA30601",
+      "title": "Resonance: A Plague Tale Legacy",
+      "createdAt": "2026-11-08T00:03:51.113Z",
+      "version": "1.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/ac09822b3d70e7e69228e1357c22b3855495c3173283f213e9d8bb629d0509e6",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/da0b683ea9cb406d6644a43c90623a0dbb718829943e2eaae09b6c5315ae500b",
+      "description": "Format: zstd\nSet 15 years before A Plague Tale: Requiem, play as Sophia, a fierce young plunderer, on the run and determined to uncover the secrets of her past. Dive into an original story blending combat, myth and fate with a brand new take in the universe of A Plague Tale. Sophia’s journey leads to the Minotaur' Island, where she faces deadly trials, navigates treacherous trails, solves puzzles, all while fighting and staying one step ahead of the army chasing her. But the true challenge awaits, as the terrifying creature hidden behind the myth will soon resonate with her… As you journey deeper into the island’s heart, you’ll confront the truth behind a long-buried curse. • Followed by many enemies, each drawn to the Island to reclaim a mysterious treasure, you must navigate a treacherous maze. Rely on your agility, tricks and sharp reflexes to outsmart enemies, perfect your parries, and unleash powerful strikes to survive deadly encounters. • Shift between the Middle Age of Sophia and ancient Minoan times, where echoes of the past shape the battles of the present. Unfold a new story in the universe of A Plague Tale, through the entwined destinies of two heroes linked by fate and the Macula’s mysterious legacy. • Guided by the knowledge safeguarded in your notebook, follow in your crew’s footsteps to explore a richly detailed world, unravel its secrets, and face deadly trials. Use a stolen Minoan sphere to solve ingenious puzzles by manipulating light - a force woven by Daedalus into the island’s very heart. • It is said that only a few came back from the island. Lurking in the shadows lives a restless presence. It follows you around, seemingly knowing your every move, as it hunts through the island’s depths. Every step is a risk. Every pause, a potential end. You can’t stop, only hide, outsmart, and push forward. Can you survive each trial and every step or will you join those who never came back?\nRegion: USA to EUR Langs\nFirmware: 12.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: Password for the rar is \"abdo\", without them quotes\nCredits: Thanks to 3abdo_jl for the ZSTD!\nUpdated: 2026-11-07T23:59:07.927Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/0CNxNMtyUu"
+        }
+      ],
+      "sizeBytes": 67860483277
+    },
+    {
       "titleId": "PPSA32259",
       "title": "Abyssus",
       "createdAt": "2026-11-07T18:59:35.164Z",

@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.07-2148)
+### 🚀 Synthèse de la mise à jour (v2026.11.08-0435)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -73,7 +73,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `actremotelink_pin_notify_v2.0.elf`
   * `CheatRunner_v0.18.elf`
   * `kylin-core_v2.0.0-community-lite.elf`
-  * `webkit-autoloader-installer_v0.7.0.elf`
+  * `webkit-autoloader-installer_v0.7.1.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen-en_v1.2.0.elf`
@@ -263,6 +263,9 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `FWRG00001.zip`
   * `PPSA01153.zip`
   * `PPSA06464.zip`
+  * `PPSA09009.zip`
+  * `PPSA09010.zip`
+  * `PPSA09011.zip`
   * `PPSA11018.zip`
   * `PPSA11019.zip`
   * `PPSA17641.zip`

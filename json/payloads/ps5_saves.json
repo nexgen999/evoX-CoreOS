@@ -2,14 +2,14 @@
   "name": "PS5 Saves",
   "payloads": [
     {
-      "name": "Garlic-Savemgr V1.15-Beta12",
-      "filename": "garlic-savemgr_v1.15-beta12.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta12/garlic-savemgr_v1.15-beta12.elf",
-      "local_path": "payloads/ps5_saves/garlic-savemgr/v1.15-beta12/garlic-savemgr_v1.15-beta12.elf",
+      "name": "Garlic-Savemgr V1.15-Beta14",
+      "filename": "garlic-savemgr_v1.15-beta14.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta14/garlic-savemgr_v1.15-beta14.elf",
+      "local_path": "payloads/ps5_saves/garlic-savemgr/v1.15-beta14/garlic-savemgr_v1.15-beta14.elf",
       "description": "Save manager utility hosted on Forgejo.",
-      "version": "v1.15-beta12",
+      "version": "v1.15-beta14",
       "category": "PS5 Saves",
-      "checksum": "52ada30119d4f40800047f6bb8ece2beb15f836b3f3c74fda100e80fb54da30e",
+      "checksum": "2f9f4b575757b480443282f3c885b1e63cc4637e0ea2a043a8c79e392c792af0",
       "source": "https://git.etawen.dev/earthonion/garlic-savemgr/releases"
     },
     {

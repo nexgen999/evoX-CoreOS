@@ -44,6 +44,48 @@
       "source": "https://github.com/youss17x/Forgotten-Warrior-PS5"
     },
     {
+      "name": "Class of '09",
+      "filename": "PPSA09009.zip",
+      "url": "https://github.com/dannyboyjaros/ps5classof09/releases/download/v1.0.1/PPSA09009.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA09009/1.0.1/PPSA09009.zip",
+      "description": "Class of '09 - unofficial PS5 homebrew runtime",
+      "version": "1.0.1",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA09009",
+      "author": "dannyboyjaros",
+      "checksum": "b5d3bfdbe7b43d719d13e351fa9dcb27a94e13280adcf8fd28630c600bdc8012",
+      "source": "https://github.com/dannyboyjaros/ps5classof09"
+    },
+    {
+      "name": "Class of '09: The Re-Up",
+      "filename": "PPSA09010.zip",
+      "url": "https://github.com/dannyboyjaros/ps5classof09thereup/releases/download/v1.0.1/PPSA09010.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA09010/1.0.1/PPSA09010.zip",
+      "description": "Class of '09: The Re-Up - unofficial PS5 homebrew runtime",
+      "version": "1.0.1",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA09010",
+      "author": "dannyboyjaros",
+      "checksum": "c79e476faee262c487ae5726deadf65db3a4af77d0d228228f7a9a6030ae086d",
+      "source": "https://github.com/dannyboyjaros/ps5classof09thereup"
+    },
+    {
+      "name": "Class of '09: The Flip Side",
+      "filename": "PPSA09011.zip",
+      "url": "https://github.com/dannyboyjaros/ps5classof09theflipside/releases/download/v1.0.1/PPSA09011.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA09011/1.0.1/PPSA09011.zip",
+      "description": "Unofficial PS5 homebrew runtime for Class of '09: The Flip Side (PPSA09011)",
+      "version": "1.0.1",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA09011",
+      "author": "dannyboyjaros",
+      "checksum": "27a5f02f0048763a56ad747fd2ba969a03df179d270e3b9a128f5af7e00a5534",
+      "source": "https://github.com/dannyboyjaros/ps5classof09theflipside"
+    },
+    {
       "name": "XashPS5",
       "filename": "PPSA19111.zip",
       "url": "https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.3/PPSA19111.zip",
@@ -564,15 +606,15 @@
     {
       "name": "BattleShip Remix",
       "filename": "PPSA99264.zip",
-      "url": "https://github.com/lucasliet/BattleShip-remix/releases/download/v2.0.1-port.5/BattleShip-Remix-ps5-PPSA99264.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99264/v2.0.1-port.5/PPSA99264.zip",
+      "url": "https://github.com/lucasliet/BattleShip-remix/releases/download/v2.0.1-port.6/BattleShip-Remix-ps5-PPSA99264.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99264/v2.0.1-port.6/PPSA99264.zip",
       "description": "Native PS5 port of Smash Remix, the Super Smash Bros. 64 mod, built on the SSB64 decompilation and libultraship. Bring your own Smash Remix ROM.",
-      "version": "v2.0.1-port.5",
+      "version": "v2.0.1-port.6",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99264",
       "author": "Lucas Oliveira",
-      "checksum": "bc01894a97da83bcc9764f473e9c66baedb9d0c79642a5811915336dd552fa51",
+      "checksum": "bd58530a0b176a31e56aebb0d899b4d3d326dcc4a2758c0ffdb2e17abb05aa86",
       "source": "https://github.com/lucasliet/BattleShip-remix"
     },
     {
@@ -774,15 +816,15 @@
     {
       "name": "NFS Black Box",
       "filename": "PPSA99403.zip",
-      "url": "https://github.com/lavavex/nfs-blackbox-ps5/releases/download/01.000.000/PPSA99403.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99403/01.000.000/PPSA99403.zip",
+      "url": "https://github.com/lavavex/nfs-blackbox-ps5/releases/download/01.000.010/PPSA99403.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99403/01.000.010/PPSA99403.zip",
       "description": "Black Box's Need for Speed games as homebrew apps on a jailbroken PS5, through prospero-win (bring your own copy).",
-      "version": "01.000.000",
+      "version": "01.000.010",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99403",
       "author": "lavavex",
-      "checksum": "03a69011cfd999b0128799dfd15ae675a251ce79ae803c6230932619f40fe840",
+      "checksum": "1599e55076afe4cee55a364325df769ae304b3770f49d68e4c60df34a7fcc382",
       "source": "https://github.com/lavavex/nfs-blackbox-ps5"
     },
     {
@@ -830,15 +872,15 @@
     {
       "name": "Halo: Combat Evolved",
       "filename": "PPSA99500.zip",
-      "url": "https://github.com/thelinkin3000/SlipstreamCE/releases/download/build-138/halo-ps5-release.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-138/PPSA99500.zip",
+      "url": "https://github.com/thelinkin3000/SlipstreamCE/releases/download/build-140/halo-ps5-release.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-140/PPSA99500.zip",
       "description": "Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.",
-      "version": "build-138",
+      "version": "build-140",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99500",
       "author": "thelinkin3000",
-      "checksum": "6b81d73a8f6f665031f4b1e3a1ae927272a869f978c02a20789f8554411f608e",
+      "checksum": "61216505a14e5208e974661252ef132dbd9556d99d4968968a38565739442059",
       "source": "https://github.com/thelinkin3000/SlipstreamCE"
     },
     {

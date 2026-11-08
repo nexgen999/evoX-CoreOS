@@ -4,15 +4,15 @@
     {
       "name": "Playden",
       "filename": "FAKE77031.zip",
-      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.10.0/playden-ps5-0.10.0.zip",
-      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.10.0/FAKE77031.zip",
+      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.11.0-beta.1/playden-ps5-0.11.0-beta.1.zip",
+      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.11.0-beta.1/FAKE77031.zip",
       "description": "Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.",
-      "version": "0.10.0",
+      "version": "0.11.0-beta.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "FAKE77031",
       "author": "leolobato",
-      "checksum": "f9edfca65fc617c9805436e6c879771a330e5a28c35df8b3e03184ed0969e2e2",
+      "checksum": "e0c0c866d6f188f3cf5eb18a7c758b0331808e1a2e7e53a0561aa653ef183a91",
       "source": "https://github.com/leolobato/playden-ps5"
     },
     {
@@ -116,15 +116,15 @@
     {
       "name": "ProsperoSunshine",
       "filename": "PPSA47989.zip",
-      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.4.2/PPSA47989.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.4.2/PPSA47989.zip",
+      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.5.0/PPSA47989.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.5.0/PPSA47989.zip",
       "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.",
-      "version": "0.4.2",
+      "version": "0.5.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA47989",
       "author": "Darkatek7",
-      "checksum": "29b12548bd7f5b1b24f82c84350e51035315ad71bc12b52103b66dfde64c51f9",
+      "checksum": "89059840287d821011d6d660a8aff8e84425299a965aebbfb87f255e3ceef3bc",
       "source": "https://github.com/Darkatek7/ProsperoSunshine"
     },
     {
@@ -844,15 +844,15 @@
     {
       "name": "OGBox",
       "filename": "PPSA99251.zip",
-      "url": "https://github.com/Press5elect/OGBox/releases/download/v0.0.5/OGBox-v0.0.5.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99251/0.0.5/PPSA99251.zip",
+      "url": "https://github.com/Press5elect/OGBox/releases/download/v0.0.6/OGBox-v0.0.6.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99251/0.0.6/PPSA99251.zip",
       "description": "XBOX emulator for PS5",
-      "version": "0.0.5",
+      "version": "0.0.6",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99251",
       "author": "Press5elect",
-      "checksum": "bfcf65f57ee7d787277db6342c0e4724034e6d7160c875b9c0f12f23f8ac0fe4",
+      "checksum": "b7602b6b1c51184ff70520d31e0e237644dba5fc764927f892f4b9cf592ff55d",
       "source": "https://github.com/Press5elect/OGBox"
     },
     {
@@ -886,15 +886,15 @@
     {
       "name": "Nuvio Max'd",
       "filename": "PPSA99288.zip",
-      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.12-native-experimental/PPSA99288.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.12-native-experimental/PPSA99288.zip",
+      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.13-native-experimental/PPSA99288.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.13-native-experimental/PPSA99288.zip",
       "description": "Experimental Nuvio Max'd test build for PS5 with playback source switching, live subtitle controls, audio sync steps and optional time-grid EPG, plus profiles, IPTV and media servers.",
-      "version": "1.0.0.12-native-experimental",
+      "version": "1.0.0.13-native-experimental",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99288",
       "author": "HandshakeHackin",
-      "checksum": "d64d3c9ff382121f8a6b4260d87fce8b03e8948caa79580630aad562d29850ba",
+      "checksum": "c7ae26a0a14ae439fa9162e1448a7039838a83940fa8dd0febe201952f4a4755",
       "source": "https://github.com/HandshakeHackin/Nuvio-maxd-releases"
     },
     {

@@ -1,5 +1,20 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 08/11/2026 à 04:35
+* **PAYLOADS**
+  * `Webkit-Autoloader-Installer V0.7.1` (v0.7.1) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `Playden` (0.11.0-beta.1) - *Mise à jour (Précédent: 0.10.0)*
+  * `Class of '09` (1.0.1) - *Nouveau*
+  * `Class of '09: The Re-Up` (1.0.1) - *Nouveau*
+  * `Class of '09: The Flip Side` (1.0.1) - *Nouveau*
+  * `ProsperoSunshine` (0.5.0) - *Mise à jour (Précédent: 0.4.2)*
+  * `OGBox` (0.0.6) - *Mise à jour (Précédent: 0.0.5)*
+  * `BattleShip Remix` (v2.0.1-port.6) - *Mise à jour (Précédent: v2.0.1-port.5)*
+  * `Nuvio Max'd` (1.0.0.13-native-experimental) - *Mise à jour (Précédent: 1.0.0.12-native-experimental)*
+  * `NFS Black Box` (01.000.010) - *Mise à jour (Précédent: 01.000.000)*
+  * `Halo: Combat Evolved` (build-140) - *Mise à jour (Précédent: build-138)*
+
 ## Build du 07/11/2026 à 21:48
 * **PAYLOADS**
   * `Garlic-Worker V1.3.9` (v1.3.9) - *Nouveau*
