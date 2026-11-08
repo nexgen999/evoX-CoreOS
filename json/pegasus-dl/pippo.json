@@ -3,6 +3,198 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA38510",
+      "title": "The Walking Dead Streets of Survival Deluxe Edition",
+      "createdAt": "2026-11-08T10:19:15.798Z",
+      "version": "v01.000.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/de0c729aed651182c63065cc522867699d0beec22cdf282e9c3ebce4aff58a1b",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/23a4f32b39d308fa35d488a4cc26ef9786a8446e6047d48ca96ad3d265e15f7e",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA38510, v01.000.001, USA, 4.xx BackPort\nSize: 2GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 13.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/jg12436muanv/DLCs_Pippo_DUPLEX.rar"
+        },
+        {
+          "name": "DLC - Vault",
+          "url": "https://datavaults.co/r1t8k891v7wx/DLCs_Pippo_DUPLEX.rar"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/uxpof0kn99my/PPSA38510.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/4zsn8powqat7/PPSA38510.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/2bJG8XdaDGOB/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/ui72CGJWXb"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/dZxG5XxyZzVj/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/MAR3Y17ro1"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/nd1ktfo1xycn/PPSA38510-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/8g6fsjo9n5pt/PPSA38510-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 2147483648
+    },
+    {
+      "titleId": "PPSA38010",
+      "title": "Suika Game",
+      "createdAt": "2026-11-08T10:19:15.798Z",
+      "version": "v01.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/b63eaa4447cabfeb9b41cb92136fb6d39caebe455c368a28613ffc42134e53ac",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/9c1dedba9303411e9bf35f581f0030a13e66aecebcfafca9a55961c7beee04ca",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA38010, v01.002, USA, 4.xx BackPort\nSize: 1GB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/r9cvh4k1vi3m/PPSA38010.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/96d5hc8hdfem/PPSA38010.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/jar3XOvBrm2d/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/YzGbuaIIC1"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/7d5GLo5PazxR/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/bzBorzvFDL"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/fthuqwocslnv/PPSA38010-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/rf03n63k3ptb/PPSA38010-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 1073741824
+    },
+    {
+      "titleId": "PPSA37001",
+      "title": "Is This Seat Taken?",
+      "createdAt": "2026-11-08T10:19:15.798Z",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/be0e3f7fb798b967ad5feadfa7ed53df047d8405884cc108ddfc193b31c36ac6",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/70ddfda15e18b2a9bd89a850c0852067b3f2ca120365c2893f11e0a17c51663b",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA37001, v01.000, JPN, 4.xx BackPort\nSize: 480MB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/gqij1kfvtaz5/PPSA37001.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/8dpytbnpv4uk/PPSA37001.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/LK0G1XE6jz91/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/VAUU5MBqoX"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/dkD3YDEJlmLQ/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/BUQsrlyVob"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/eww7un3tklgf/PPSA37001-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/t5srpl4deh9b/PPSA37001-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 503316480
+    },
+    {
+      "titleId": "PPSA26136",
+      "title": "Avowed",
+      "createdAt": "2026-11-08T10:19:15.798Z",
+      "version": "v02.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/9beda1e96feab63975e2e13737cd193949e932bc4257bdf41c55e4aab284906b",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/2d91f6b0637d7b04d34203f052d2fd9bf19a4b154aad8d79957a01dd4fa0d898",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA26136, v02.001, USA, 4.xx BackPort\nSize: 112GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/mgz39w00km98/PPSA26136.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/2t0y3ycdcqwj/PPSA26136.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/obj3jkAeAzDx/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/oGhC8L3n2e"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/E9Qz96jo6GOL/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/UaMQ9cnm6C"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/6on8xgy72b47/PPSA26136-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/bq0gb41d4zp4/PPSA26136-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 120259084288
+    },
+    {
       "titleId": "PPSA23767",
       "title": "Bionic Bay",
       "createdAt": "2026-11-07T12:53:39.710Z",

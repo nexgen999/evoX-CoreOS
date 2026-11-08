@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 08/11/2026 à 13:14
+* **HOMEBREW_PAGE**
+  * `Breath of the Wild VR` (build19-hmd2-fw) - *Mise à jour (Précédent: 0.1.0)*
+  * `ProsperoTV` (01.000.110) - *Mise à jour (Précédent: 01.000.100)*
+  * `ProsperoCraft` (01.000.267) - *Mise à jour (Précédent: 01.000.265)*
+
 ## Build du 08/11/2026 à 04:35
 * **PAYLOADS**
   * `Webkit-Autoloader-Installer V0.7.1` (v0.7.1) - *Nouveau*

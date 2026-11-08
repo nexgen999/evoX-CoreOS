@@ -956,15 +956,15 @@
     {
       "name": "Breath of the Wild VR",
       "filename": "PPSA98720.zip",
-      "url": "https://github.com/Papyszoo/botw-bettervr-ps5/releases/download/v0.1.0/BotW-VR-v0.1.0.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98720/0.1.0/PPSA98720.zip",
+      "url": "https://github.com/Papyszoo/botw-bettervr-ps5/releases/download/build19-hmd2-fw/BotW-VR-build19-hmd2-fw.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98720/build19-hmd2-fw/PPSA98720.zip",
       "description": "Plays your own Breath of the Wild (Wii U) dump in PS VR2 with Sense controllers, using Crementif's BetterVR mod in PS5-ECAM's Cemu (experimental, firmware 13.60).",
-      "version": "0.1.0",
+      "version": "build19-hmd2-fw",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98720",
       "author": "Papyszoo",
-      "checksum": "4b1219409efb13dacc13265b83213ef0b00abf3e7838730814cfb347b3390ae0",
+      "checksum": "a4003e8f756d2ed837184fb82cd5332cdb9aa2f424952a961cc5e946aac285af",
       "source": "https://github.com/Papyszoo/botw-bettervr-ps5"
     },
     {
@@ -1026,15 +1026,15 @@
     {
       "name": "ProsperoTV",
       "filename": "PPSA99003.zip",
-      "url": "https://github.com/ThatGuyKalvin/ProsperoTV/releases/download/01.000.100/PPSA99003.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99003/01.000.100/PPSA99003.zip",
+      "url": "https://github.com/ThatGuyKalvin/ProsperoTV/releases/download/01.000.110/PPSA99003.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99003/01.000.110/PPSA99003.zip",
       "description": "Native IPTV client for PS5.",
-      "version": "01.000.100",
+      "version": "01.000.110",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99003",
       "author": "ThatGuyKalvin",
-      "checksum": "0ab3ebd19e70832486a723b013c0bb3f7ed130fc19eec8a35bc914757640b42b",
+      "checksum": "82c180f5d09e3d4fb6abf769246f0829ffa6024661c9c5354cffce796a5b6c4d",
       "source": "https://github.com/ThatGuyKalvin/ProsperoTV"
     },
     {
@@ -2454,15 +2454,15 @@
     {
       "name": "ProsperoCraft",
       "filename": "PPSA99874.zip",
-      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.265/PPSA99874.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.265/PPSA99874.zip",
+      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.267/PPSA99874.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.267/PPSA99874.zip",
       "description": "Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.",
-      "version": "01.000.265",
+      "version": "01.000.267",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99874",
       "author": "mateo-cogeanu",
-      "checksum": "321f17e96e25dcb39bce4f77d4cffa27935abf976af3db38ebd33b3e89e8ade1",
+      "checksum": "680e4342c974398158de1099249d0d83aae7cf778173863b484da65fa942cd28",
       "source": "https://github.com/mateo-cogeanu/ProsperoCraft"
     },
     {

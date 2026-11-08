@@ -416,7 +416,7 @@
       <title>Breath of the Wild VR</title>
       <link>https://github.com/Papyszoo/botw-bettervr-ps5</link>
       <description>Plays your own Breath of the Wild (Wii U) dump in PS VR2 with Sense controllers, using Crementif's BetterVR mod in PS5-ECAM's Cemu (experimental, firmware 13.60).</description>
-      <pubDate>0.1.0</pubDate>
+      <pubDate>build19-hmd2-fw</pubDate>
     </item>
     <item>
       <title>DriftCheck</title>
@@ -446,7 +446,7 @@
       <title>ProsperoTV</title>
       <link>https://github.com/ThatGuyKalvin/ProsperoTV</link>
       <description>Native IPTV client for PS5.</description>
-      <pubDate>01.000.100</pubDate>
+      <pubDate>01.000.110</pubDate>
     </item>
     <item>
       <title>ProsperoAI</title>
@@ -1058,7 +1058,7 @@
       <title>ProsperoCraft</title>
       <link>https://github.com/mateo-cogeanu/ProsperoCraft</link>
       <description>Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.</description>
-      <pubDate>01.000.265</pubDate>
+      <pubDate>01.000.267</pubDate>
     </item>
     <item>
       <title>Genesis Plus GX PS5</title>

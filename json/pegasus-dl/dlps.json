@@ -12113,7 +12113,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/9beda1e96feab63975e2e13737cd193949e932bc4257bdf41c55e4aab284906b",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/2d91f6b0637d7b04d34203f052d2fd9bf19a4b154aad8d79957a01dd4fa0d898",
-      "description": "Region: USA\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: USA 10.xx\nRegion: USA\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 02.001\nRegion: USA\nRelease note: exFAT format — FW 02.001 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/avowed-ps5/",
       "downloadLinks": [
         {
@@ -12163,6 +12163,22 @@
         {
           "name": "USA 10.xx Base - Rootz part 6",
           "url": "https://www.rootz.so/d/Pbjai"
+        },
+        {
+          "name": "USA exFAT 02.001 Base - DataNodes",
+          "url": "https://datanodes.to/mgz39w00km98/PPSA26136.7z"
+        },
+        {
+          "name": "USA exFAT 02.001 Base - FileKeeper",
+          "url": "https://filekeeper.net/2t0y3ycdcqwj/PPSA26136.7z"
+        },
+        {
+          "name": "USA exFAT 02.001 Base - Akirabox",
+          "url": "https://akirabox.to/obj3jkAeAzDx/file"
+        },
+        {
+          "name": "USA exFAT 02.001 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/oGhC8L3n2e"
         }
       ]
     },
@@ -140907,6 +140923,93 @@
         {
           "name": "USA exFAT 01.004 Base - Vault (exFAT)",
           "url": "https://datavaults.co/6qmhde3tm198"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA38510",
+      "title": "[exFAT] The Walking Dead Streets of Survival Deluxe Edition",
+      "createdAt": "2026-11-08T12:22:25.821Z",
+      "version": "01.000.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/de0c729aed651182c63065cc522867699d0beec22cdf282e9c3ebce4aff58a1b",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/23a4f32b39d308fa35d488a4cc26ef9786a8446e6047d48ca96ad3d265e15f7e",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.000.001 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.000.001 Base - DataNodes",
+          "url": "https://datanodes.to/uxpof0kn99my/PPSA38510.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - FileKeeper",
+          "url": "https://filekeeper.net/4zsn8powqat7/PPSA38510.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - Akirabox",
+          "url": "https://akirabox.to/2bJG8XdaDGOB/file"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/ui72CGJWXb"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA38010",
+      "title": "[exFAT] Suika Game",
+      "createdAt": "2026-11-08T12:22:25.821Z",
+      "version": "01.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/b63eaa4447cabfeb9b41cb92136fb6d39caebe455c368a28613ffc42134e53ac",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/9c1dedba9303411e9bf35f581f0030a13e66aecebcfafca9a55961c7beee04ca",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.002 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.002 Base - DataNodes",
+          "url": "https://datanodes.to/r9cvh4k1vi3m/PPSA38010.7z"
+        },
+        {
+          "name": "USA exFAT 01.002 Base - FileKeeper",
+          "url": "https://filekeeper.net/96d5hc8hdfem/PPSA38010.7z"
+        },
+        {
+          "name": "USA exFAT 01.002 Base - Akirabox",
+          "url": "https://akirabox.to/jar3XOvBrm2d/file"
+        },
+        {
+          "name": "USA exFAT 01.002 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/YzGbuaIIC1"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA37001",
+      "title": "[exFAT] Is This Seat Taken?",
+      "createdAt": "2026-11-08T12:22:25.821Z",
+      "version": "01.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/be0e3f7fb798b967ad5feadfa7ed53df047d8405884cc108ddfc193b31c36ac6",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/70ddfda15e18b2a9bd89a850c0852067b3f2ca120365c2893f11e0a17c51663b",
+      "description": "Region: JPN\nRelease note: exFAT format — FW 01.000 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "JPN exFAT 01.000 Base - DataNodes",
+          "url": "https://datanodes.to/gqij1kfvtaz5/PPSA37001.7z"
+        },
+        {
+          "name": "JPN exFAT 01.000 Base - FileKeeper",
+          "url": "https://filekeeper.net/8dpytbnpv4uk/PPSA37001.7z"
+        },
+        {
+          "name": "JPN exFAT 01.000 Base - Akirabox",
+          "url": "https://akirabox.to/LK0G1XE6jz91/file"
+        },
+        {
+          "name": "JPN exFAT 01.000 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/VAUU5MBqoX"
         }
       ]
     },
