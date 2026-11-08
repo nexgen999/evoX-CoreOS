@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.08-1314)
+### 🚀 Synthèse de la mise à jour (v2026.11.08-2209)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -98,7 +98,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `a53_ppr_install_1140_20.09.elf`
   * `a53_ppr_install_1160_20.09.elf`
   * `garlic-savemgr_v1.15-beta9.elf`
-  * `garlic-worker_v1.3.9.elf`
+  * `garlic-worker_v1.4.0.elf`
   * `savemnt-offset-dumper_v1.0.0.elf`
   * `ps5shopappkg-dpi.elf`
   * `ps5library-agent.elf`
@@ -260,6 +260,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `BNTL00001.zip`
   * `CWEN00001.zip`
   * `FAKE77031.zip`
+  * `FAKE99260.zip`
   * `FWRG00001.zip`
   * `PPSA01153.zip`
   * `PPSA06464.zip`
@@ -284,6 +285,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA50001.zip`
   * `PPSA50011.zip`
   * `PPSA59322.zip`
+  * `PPSA64064.zip`
   * `PPSA66120.zip`
   * `PPSA67670.zip`
   * `PPSA68091.zip`

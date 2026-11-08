@@ -141,12 +141,12 @@
     {
       "name": "Shadowmountplus",
       "filename": "shadowmountplus.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta11/shadowmountplus.elf",
-      "local_path": "payloads/ps5_game_dump/ShadowMountPlus/1.7beta11/shadowmountplus.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta12/shadowmountplus.elf",
+      "local_path": "payloads/ps5_game_dump/ShadowMountPlus/1.7beta12/shadowmountplus.elf",
       "description": "ShadowMountPlus payload for game mounting.",
-      "version": "1.7beta11",
+      "version": "1.7beta12",
       "category": "PS5 Game Dump",
-      "checksum": "08c843018750bef013fe3a4de5f80c5c9738c6c2dafa2406e6b6e68d7585f3da",
+      "checksum": "8755172ec9bef1bff5453ea75606e0caf7c41b5963f94f5a1087e7e8c6d9b1bd",
       "source": "https://github.com/drakmor/ShadowMountPlus/releases"
     },
     {
@@ -461,7 +461,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "50b756f2505246015cb61be6a46473656b87bd793b7b6865d4d7364573f9cb92",
+      "checksum": "c58fa3f9a97ce00ee8d574b99e1bac8ef70e52ba68aed4a3f5cef7ce688f1e17",
       "source": "https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf"
     },
     {
@@ -595,14 +595,14 @@
       "checksum": "88ed2c04be0f20342a6e83eef7a97c8f3de9f15359f5859e00083e534888a062"
     },
     {
-      "name": "Garlic-Worker V1.3.9",
-      "filename": "garlic-worker_v1.3.9.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.3.9/garlic-worker_v1.3.9.elf",
-      "local_path": "payloads/ps5_saves/garlic-worker/v1.3.9/garlic-worker_v1.3.9.elf",
+      "name": "Garlic-Worker V1.4.0",
+      "filename": "garlic-worker_v1.4.0.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.4.0/garlic-worker_v1.4.0.elf",
+      "local_path": "payloads/ps5_saves/garlic-worker/v1.4.0/garlic-worker_v1.4.0.elf",
       "description": "Garlic worker payload component.",
-      "version": "v1.3.9",
+      "version": "v1.4.0",
       "category": "PS5 Saves",
-      "checksum": "5dc7b486ae7c2ca21e07df8f4d5c331e308e595ece72d8170dfa4a1b768dd7a1",
+      "checksum": "accad18a84646a216ab4dc30a2e6e3d71e1796c3e34b64d422fbea4404ad4696",
       "source": "https://git.etawen.dev/earthonion/garlic-worker/releases"
     },
     {

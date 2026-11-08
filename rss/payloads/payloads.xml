@@ -84,9 +84,9 @@
     </item>
     <item>
       <title>Shadowmountplus</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta11/shadowmountplus.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta12/shadowmountplus.elf</link>
       <description>ShadowMountPlus payload for game mounting.</description>
-      <pubDate>1.7beta11</pubDate>
+      <pubDate>1.7beta12</pubDate>
     </item>
     <item>
       <title>Backpork V0.1</title>
@@ -335,10 +335,10 @@
       <pubDate>garlic-savemgr</pubDate>
     </item>
     <item>
-      <title>Garlic-Worker V1.3.9</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.3.9/garlic-worker_v1.3.9.elf</link>
+      <title>Garlic-Worker V1.4.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.4.0/garlic-worker_v1.4.0.elf</link>
       <description>Garlic worker payload component.</description>
-      <pubDate>v1.3.9</pubDate>
+      <pubDate>v1.4.0</pubDate>
     </item>
     <item>
       <title>Savemnt-Offset-Dumper V1.0.0</title>

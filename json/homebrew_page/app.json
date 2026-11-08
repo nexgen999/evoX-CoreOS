@@ -16,6 +16,20 @@
       "source": "https://github.com/leolobato/playden-ps5"
     },
     {
+      "name": "PS5Term",
+      "filename": "FAKE99260.zip",
+      "url": "https://github.com/phantomptr/ps5term/releases/download/00.001.003/PS5Term-00.001.003.zip",
+      "local_path": "downloads/apps/homebrew_page/app/FAKE99260/00.001.003/FAKE99260.zip",
+      "description": "Terminal for jailbroken PS5: a built-in shell, an SSH and SFTP server, and optional Alpine Linux. Works with a controller, keyboard or mouse.",
+      "version": "00.001.003",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "FAKE99260",
+      "author": "phantomptr",
+      "checksum": "42119a693118e14edc725e7bdb220232bda21dcb8e78ab065c43091110248c58",
+      "source": "https://github.com/phantomptr/ps5term"
+    },
+    {
       "name": "OliSe Player",
       "filename": "PPSA01153.zip",
       "url": "https://github.com/Marice/OliSePlayer/releases/download/02.001.000/PPSA01153.zip",
@@ -46,15 +60,15 @@
     {
       "name": "PC5",
       "filename": "PPSA11018.zip",
-      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.3.5/PPSA11018.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.3.5/PPSA11018.zip",
+      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.3.6/PPSA11018.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.3.6/PPSA11018.zip",
       "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.",
-      "version": "2.3.5",
+      "version": "2.3.6",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA11018",
       "author": "bornaradusin",
-      "checksum": "29463476de1af92ef72472a0fd2e3755db3b62e24298001772ff677810588fc4",
+      "checksum": "fa55628a61a4378af1ced917097d95ca48df0b07b7647d616f7388f5f04e10f9",
       "source": "https://github.com/bornaradusin/PC5"
     },
     {
@@ -340,15 +354,15 @@
     {
       "name": "XPSemu",
       "filename": "PPSA97358.zip",
-      "url": "https://github.com/ZiZc3/XPSemu/releases/download/v3.1/PPSA97358.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA97358/v3.1/PPSA97358.zip",
+      "url": "https://github.com/ZiZc3/XPSemu/releases/download/v3.2/PPSA97358.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA97358/v3.2/PPSA97358.zip",
       "description": "Original Xbox emulator for PS5, based on xemu.",
-      "version": "v3.1",
+      "version": "v3.2",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA97358",
       "author": "AZiZ",
-      "checksum": "0fa4f1556b257317d5b38a8f5b9803b58e05b5ba0e63fb26492f7bea369bf558",
+      "checksum": "a10f6d7c60b30da94544684a8ab1d12f1117dd53471ab44d4dc1e4eb5441f98a",
       "source": "https://github.com/ZiZc3/XPSemu"
     },
     {
@@ -424,15 +438,15 @@
     {
       "name": "Breath of the Wild VR",
       "filename": "PPSA98720.zip",
-      "url": "https://github.com/Papyszoo/botw-bettervr-ps5/releases/download/build19-hmd2-fw/BotW-VR-build19-hmd2-fw.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98720/build19-hmd2-fw/PPSA98720.zip",
-      "description": "Plays your own Breath of the Wild (Wii U) dump in PS VR2 with Sense controllers, using Crementif's BetterVR mod in PS5-ECAM's Cemu (experimental, firmware 13.60).",
-      "version": "build19-hmd2-fw",
+      "url": "https://github.com/Papyszoo/botw-bettervr-ps5/releases/download/v0.1.1/BotW-VR-v0.1.1.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98720/0.1.1/PPSA98720.zip",
+      "description": "Plays your own Breath of the Wild dump in PS VR2 with Sense controllers via Crementif's BetterVR mod in Cemu (experimental; firmware 5.50, 7.61, 8.40, 9.00, 10.00, 11.60, 12.40, 13.60; tested 13.60).",
+      "version": "0.1.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98720",
       "author": "Papyszoo",
-      "checksum": "a4003e8f756d2ed837184fb82cd5332cdb9aa2f424952a961cc5e946aac285af",
+      "checksum": "8130bd87df4f8fd9ecf0b900b419b69c97b0a71abf0ea51c26eae172b7fa39d3",
       "source": "https://github.com/Papyszoo/botw-bettervr-ps5"
     },
     {
@@ -732,15 +746,15 @@
     {
       "name": "MihawkOS",
       "filename": "PPSA99170.zip",
-      "url": "https://github.com/mihawk-99/PS5_MihawkOS/releases/download/v8.1.0-alpha-8/PS5_MihawkOS-v8.1.0-alpha-8.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99170/8.1.0-alpha-8/PPSA99170.zip",
+      "url": "https://github.com/mihawk-99/PS5_MihawkOS/releases/download/v8.2.0-alpha-8/PS5_MihawkOS-v8.2.0-alpha-8.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99170/8.2.0-alpha-8/PPSA99170.zip",
       "description": "A Windows-inspired PS5 homebrew OS bringing 32-bit and 64-bit Windows gaming to console hardware through a custom Wine/Proton compatibility stack and native Vulkan graphics.",
-      "version": "8.1.0-alpha-8",
+      "version": "8.2.0-alpha-8",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99170",
       "author": "Mihawk",
-      "checksum": "de97e45f807991d11fa008e179335ee2dd8695275450302a1f920d4a35428b55",
+      "checksum": "d44d9b1948c909fc512316d5a7657c6b5e14c18900ab65934b06724403c3f908",
       "source": "https://github.com/mihawk-99/PS5_MihawkOS"
     },
     {
@@ -1096,15 +1110,15 @@
     {
       "name": "Alembic",
       "filename": "PPSA99594.zip",
-      "url": "https://github.com/fthdgn-gh/Alembic/releases/download/v0.5.3/alembic-app-v0.5.3.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99594/0.5.3/PPSA99594.zip",
+      "url": "https://github.com/fthdgn-gh/Alembic/releases/download/v0.6.2/alembic-app-v0.6.2.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99594/0.6.2/PPSA99594.zip",
       "description": "Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC, also on SMB, NFS, WebDAV and FTP servers.",
-      "version": "0.5.3",
+      "version": "0.6.2",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99594",
       "author": "Fatih Doğan",
-      "checksum": "c1d3686c4c7d518ebe20db4cf814519fec2286d496efd30d99bd4abeb4ff9eff",
+      "checksum": "19022d2c369e5a675ed8d9bca517227770c5019f35e31b9a997e259c0eaa2782",
       "source": "https://github.com/fthdgn-gh/Alembic"
     },
     {

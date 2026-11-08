@@ -23,6 +23,12 @@
       <pubDate>0.11.0-beta.1</pubDate>
     </item>
     <item>
+      <title>PS5Term</title>
+      <link>https://github.com/phantomptr/ps5term</link>
+      <description>Terminal for jailbroken PS5: a built-in shell, an SSH and SFTP server, and optional Alpine Linux. Works with a controller, keyboard or mouse.</description>
+      <pubDate>00.001.003</pubDate>
+    </item>
+    <item>
       <title>Forgotten Warrior Remastered</title>
       <link>https://github.com/youss17x/Forgotten-Warrior-PS5</link>
       <description>Native PS5 port of the J2ME platformer Forgotten Warrior with DualSense controls and 4K output. Requires your own copy of the original game.</description>
@@ -62,7 +68,7 @@
       <title>PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.</description>
-      <pubDate>2.3.5</pubDate>
+      <pubDate>2.3.6</pubDate>
     </item>
     <item>
       <title>Home5</title>
@@ -98,7 +104,7 @@
       <title>Geometry Dash Lite</title>
       <link>https://github.com/ZiZc3/Hydroid</link>
       <description>Geometry Dash Lite for PS5 with its own controller support. Needs your own APK (2.2.148).</description>
-      <pubDate>1.0.0</pubDate>
+      <pubDate>1.0.1</pubDate>
     </item>
     <item>
       <title>Infinity Blade III</title>
@@ -165,6 +171,12 @@
       <link>https://github.com/darkxex/PS5_Celeste</link>
       <description>This is a C source port of the original celeste (Celeste classic) for the PICO-8, designed to be portable. Now you can enjoy the port on your PS5.</description>
       <pubDate>1.00</pubDate>
+    </item>
+    <item>
+      <title>DK64 Rekongpiled</title>
+      <link>https://github.com/Samclay8/DK64-Rekongpiled-PS5</link>
+      <description>DK64: Rekongpiled ported to the PS5 as native homebrew.</description>
+      <pubDate>01.000.000</pubDate>
     </item>
     <item>
       <title>Mediathek</title>
@@ -350,7 +362,7 @@
       <title>XPSemu</title>
       <link>https://github.com/ZiZc3/XPSemu</link>
       <description>Original Xbox emulator for PS5, based on xemu.</description>
-      <pubDate>v3.1</pubDate>
+      <pubDate>v3.2</pubDate>
     </item>
     <item>
       <title>PSXS5</title>
@@ -415,8 +427,8 @@
     <item>
       <title>Breath of the Wild VR</title>
       <link>https://github.com/Papyszoo/botw-bettervr-ps5</link>
-      <description>Plays your own Breath of the Wild (Wii U) dump in PS VR2 with Sense controllers, using Crementif's BetterVR mod in PS5-ECAM's Cemu (experimental, firmware 13.60).</description>
-      <pubDate>build19-hmd2-fw</pubDate>
+      <description>Plays your own Breath of the Wild dump in PS VR2 with Sense controllers via Crementif's BetterVR mod in Cemu (experimental; firmware 5.50, 7.61, 8.40, 9.00, 10.00, 11.60, 12.40, 13.60; tested 13.60).</description>
+      <pubDate>0.1.1</pubDate>
     </item>
     <item>
       <title>DriftCheck</title>
@@ -596,7 +608,7 @@
       <title>MihawkOS</title>
       <link>https://github.com/mihawk-99/PS5_MihawkOS</link>
       <description>A Windows-inspired PS5 homebrew OS bringing 32-bit and 64-bit Windows gaming to console hardware through a custom Wine/Proton compatibility stack and native Vulkan graphics.</description>
-      <pubDate>8.1.0-alpha-8</pubDate>
+      <pubDate>8.2.0-alpha-8</pubDate>
     </item>
     <item>
       <title>PKG Folderizer</title>
@@ -668,7 +680,7 @@
       <title>BattleShip Remix</title>
       <link>https://github.com/lucasliet/BattleShip-remix</link>
       <description>Native PS5 port of Smash Remix, the Super Smash Bros. 64 mod, built on the SSB64 decompilation and libultraship. Bring your own Smash Remix ROM.</description>
-      <pubDate>v2.0.1-port.6</pubDate>
+      <pubDate>v2.0.1-port.9</pubDate>
     </item>
     <item>
       <title>Prospero Hi-Fi</title>
@@ -896,7 +908,7 @@
       <title>Alembic</title>
       <link>https://github.com/fthdgn-gh/Alembic</link>
       <description>Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC, also on SMB, NFS, WebDAV and FTP servers.</description>
-      <pubDate>0.5.3</pubDate>
+      <pubDate>0.6.2</pubDate>
     </item>
     <item>
       <title>Cloud Play</title>
@@ -1058,7 +1070,7 @@
       <title>ProsperoCraft</title>
       <link>https://github.com/mateo-cogeanu/ProsperoCraft</link>
       <description>Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.</description>
-      <pubDate>01.000.267</pubDate>
+      <pubDate>01.000.279</pubDate>
     </item>
     <item>
       <title>Genesis Plus GX PS5</title>

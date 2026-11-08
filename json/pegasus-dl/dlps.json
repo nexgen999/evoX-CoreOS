@@ -3,6 +3,118 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA38010",
+      "title": "Suika Game",
+      "createdAt": "2026-11-08T20:29:56.555Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/b63eaa4447cabfeb9b41cb92136fb6d39caebe455c368a28613ffc42134e53ac",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/9c1dedba9303411e9bf35f581f0030a13e66aecebcfafca9a55961c7beee04ca",
+      "description": "Variant: USA 4.xx\nRegion: USA\nRelease note: Works on 4.xx and higher\nContributor: @vincenzoz85\n\nVariant: USA exFAT 01.002\nRegion: USA\nRelease note: exFAT format — FW 01.002 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/suika-game-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/gXeGOenlk3Aa/file"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/0yAH7m7bB5"
+        },
+        {
+          "name": "USA exFAT 01.002 Base - DataNodes",
+          "url": "https://datanodes.to/r9cvh4k1vi3m/PPSA38010.7z"
+        },
+        {
+          "name": "USA exFAT 01.002 Base - FileKeeper",
+          "url": "https://filekeeper.net/96d5hc8hdfem/PPSA38010.7z"
+        },
+        {
+          "name": "USA exFAT 01.002 Base - Akirabox",
+          "url": "https://akirabox.to/jar3XOvBrm2d/file"
+        },
+        {
+          "name": "USA exFAT 01.002 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/YzGbuaIIC1"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA37001",
+      "title": "Is This Seat Taken?",
+      "createdAt": "2026-11-08T20:29:56.555Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/be0e3f7fb798b967ad5feadfa7ed53df047d8405884cc108ddfc193b31c36ac6",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/70ddfda15e18b2a9bd89a850c0852067b3f2ca120365c2893f11e0a17c51663b",
+      "description": "Variant: JPN 4.xx\nRegion: JPN\nRelease note: Works on 4.xx and higher\nContributor: @vincenzoz85\n\nVariant: JPN exFAT 01.000\nRegion: JPN\nRelease note: exFAT format — FW 01.000 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/is-this-seat-taken-ps5/",
+      "downloadLinks": [
+        {
+          "name": "JPN 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/qLQ36XBABG19/file"
+        },
+        {
+          "name": "JPN 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/mV3ieOCs4w"
+        },
+        {
+          "name": "JPN exFAT 01.000 Base - DataNodes",
+          "url": "https://datanodes.to/gqij1kfvtaz5/PPSA37001.7z"
+        },
+        {
+          "name": "JPN exFAT 01.000 Base - FileKeeper",
+          "url": "https://filekeeper.net/8dpytbnpv4uk/PPSA37001.7z"
+        },
+        {
+          "name": "JPN exFAT 01.000 Base - Akirabox",
+          "url": "https://akirabox.to/LK0G1XE6jz91/file"
+        },
+        {
+          "name": "JPN exFAT 01.000 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/VAUU5MBqoX"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA04118",
+      "title": "Shantae Half Genie Hero Ultimate Edition",
+      "createdAt": "2026-11-08T20:29:56.555Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e2fd78d8403fe0763b4f5cdb599687f4b40a3a135587b82a08a543e1135d6a54",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/b41acf28f08db7da1c215ac9e15224fbcefec3deedeb5f4bbf63f1cef8dd1f0c",
+      "description": "Region: USA\nRelease note: Works on 4.xx and higher",
+      "downloadSource": "https://dlpsgame.com/shantae-half-genie-hero-ultimate-edition-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/2WVGrWY94mkx/file"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/N9XUbI5Lot"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA03146",
+      "title": "Draculas Legacy Remastered",
+      "createdAt": "2026-11-08T20:29:56.555Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/400b690b36655767746f2513ce43aedf79e1b53e2d9a28ccd59e36015a158144",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/b55719231f54de89c3166141a2580110a0e82afa01b19a5113fd6e441138dffd",
+      "description": "Region: EUR\nRelease note: Works on 2.xx and higher",
+      "downloadSource": "https://dlpsgame.com/draculas-legacy-remastered-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 2.xx Base - Akirabox",
+          "url": "https://akirabox.to/N2p3Dd4nA3Ma/file"
+        },
+        {
+          "name": "EUR 2.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/LhWNmS6YO4"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA21755",
       "title": "Iron Lung",
       "createdAt": "2026-11-07T21:02:50.607Z",
@@ -68898,22 +69010,6 @@
           "url": "https://vikingfile.com/f/HuEH1tgnOG"
         },
         {
-          "name": "JPN 7.xx Base - Mediafire part 1",
-          "url": "https://www.mediafire.com/file/fg9z2rb3q5cj3m9/[DLPSGAME.COM]-PPSA19359.part1.rar/file"
-        },
-        {
-          "name": "JPN 7.xx Base - Mediafire part 2",
-          "url": "https://www.mediafire.com/file/55zlmgamxd6q88j/[DLPSGAME.COM]-PPSA19359.part2.rar/file"
-        },
-        {
-          "name": "JPN 7.xx Base - Mediafire part 3",
-          "url": "https://www.mediafire.com/file/ni94zpk37atlgn1/[DLPSGAME.COM]-PPSA19359.part3.rar/file"
-        },
-        {
-          "name": "JPN 7.xx Base - Mediafire part 4",
-          "url": "https://www.mediafire.com/file/lstqd4h7wr68tzz/[DLPSGAME.COM]-PPSA19359.part4.rar/file"
-        },
-        {
           "name": "JPN 7.xx Base - Akirabox part 12",
           "url": "https://akirabox.com/l5YzM4QbW3yO/file"
         },
@@ -68928,22 +69024,6 @@
         {
           "name": "JPN 7.xx Base - Akirabox part 15",
           "url": "https://akirabox.com/qPez4AwleGOY/file"
-        },
-        {
-          "name": "JPN 7.xx Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/TA2WZSPoBA"
-        },
-        {
-          "name": "JPN 7.xx Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/7xOBMZj6bj"
-        },
-        {
-          "name": "JPN 7.xx Base - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/dCQ5hVJRwR"
-        },
-        {
-          "name": "JPN 7.xx Base - Vikingfile part 4",
-          "url": "https://vikingfile.com/f/07MaGsxIXg"
         },
         {
           "name": "JPN 7.xx Base - Rootz part 9",
@@ -68976,6 +69056,38 @@
         {
           "name": "JPN 7.xx Base - 1fichier part 10",
           "url": "https://1fichier.com/?6ithaggfo2mg32shp5r3"
+        },
+        {
+          "name": "JPN 7.xx Base - Mediafire part 1",
+          "url": "https://www.mediafire.com/file/fg9z2rb3q5cj3m9/[DLPSGAME.COM]-PPSA19359.part1.rar/file"
+        },
+        {
+          "name": "JPN 7.xx Base - Mediafire part 2",
+          "url": "https://www.mediafire.com/file/55zlmgamxd6q88j/[DLPSGAME.COM]-PPSA19359.part2.rar/file"
+        },
+        {
+          "name": "JPN 7.xx Base - Mediafire part 3",
+          "url": "https://www.mediafire.com/file/ni94zpk37atlgn1/[DLPSGAME.COM]-PPSA19359.part3.rar/file"
+        },
+        {
+          "name": "JPN 7.xx Base - Mediafire part 4",
+          "url": "https://www.mediafire.com/file/lstqd4h7wr68tzz/[DLPSGAME.COM]-PPSA19359.part4.rar/file"
+        },
+        {
+          "name": "JPN 7.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/TA2WZSPoBA"
+        },
+        {
+          "name": "JPN 7.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/7xOBMZj6bj"
+        },
+        {
+          "name": "JPN 7.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/dCQ5hVJRwR"
+        },
+        {
+          "name": "JPN 7.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/07MaGsxIXg"
         },
         {
           "name": "JPN 7.xx Base - Mediafire part 1",
@@ -140952,64 +141064,6 @@
         {
           "name": "USA exFAT 01.000.001 Base - Vikingfile",
           "url": "https://vikingfile.com/f/ui72CGJWXb"
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA38010",
-      "title": "[exFAT] Suika Game",
-      "createdAt": "2026-11-08T12:22:25.821Z",
-      "version": "01.002",
-      "category": "game",
-      "posterUrl": "https://pegasus-dl.dev/api/posters/b63eaa4447cabfeb9b41cb92136fb6d39caebe455c368a28613ffc42134e53ac",
-      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/9c1dedba9303411e9bf35f581f0030a13e66aecebcfafca9a55961c7beee04ca",
-      "description": "Region: USA\nRelease note: exFAT format — FW 01.002 — 4.xx BackPort\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
-      "downloadLinks": [
-        {
-          "name": "USA exFAT 01.002 Base - DataNodes",
-          "url": "https://datanodes.to/r9cvh4k1vi3m/PPSA38010.7z"
-        },
-        {
-          "name": "USA exFAT 01.002 Base - FileKeeper",
-          "url": "https://filekeeper.net/96d5hc8hdfem/PPSA38010.7z"
-        },
-        {
-          "name": "USA exFAT 01.002 Base - Akirabox",
-          "url": "https://akirabox.to/jar3XOvBrm2d/file"
-        },
-        {
-          "name": "USA exFAT 01.002 Base - Vikingfile",
-          "url": "https://vikingfile.com/f/YzGbuaIIC1"
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA37001",
-      "title": "[exFAT] Is This Seat Taken?",
-      "createdAt": "2026-11-08T12:22:25.821Z",
-      "version": "01.000",
-      "category": "game",
-      "posterUrl": "https://pegasus-dl.dev/api/posters/be0e3f7fb798b967ad5feadfa7ed53df047d8405884cc108ddfc193b31c36ac6",
-      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/70ddfda15e18b2a9bd89a850c0852067b3f2ca120365c2893f11e0a17c51663b",
-      "description": "Region: JPN\nRelease note: exFAT format — FW 01.000 — 4.xx BackPort\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
-      "downloadLinks": [
-        {
-          "name": "JPN exFAT 01.000 Base - DataNodes",
-          "url": "https://datanodes.to/gqij1kfvtaz5/PPSA37001.7z"
-        },
-        {
-          "name": "JPN exFAT 01.000 Base - FileKeeper",
-          "url": "https://filekeeper.net/8dpytbnpv4uk/PPSA37001.7z"
-        },
-        {
-          "name": "JPN exFAT 01.000 Base - Akirabox",
-          "url": "https://akirabox.to/LK0G1XE6jz91/file"
-        },
-        {
-          "name": "JPN exFAT 01.000 Base - Vikingfile",
-          "url": "https://vikingfile.com/f/VAUU5MBqoX"
         }
       ]
     },

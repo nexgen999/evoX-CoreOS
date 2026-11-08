@@ -44,6 +44,20 @@
       "source": "https://github.com/leolobato/playden-ps5"
     },
     {
+      "name": "PS5Term",
+      "filename": "FAKE99260.zip",
+      "url": "https://github.com/phantomptr/ps5term/releases/download/00.001.003/PS5Term-00.001.003.zip",
+      "local_path": "downloads/apps/homebrew_page/app/FAKE99260/00.001.003/FAKE99260.zip",
+      "description": "Terminal for jailbroken PS5: a built-in shell, an SSH and SFTP server, and optional Alpine Linux. Works with a controller, keyboard or mouse.",
+      "version": "00.001.003",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "FAKE99260",
+      "author": "phantomptr",
+      "checksum": "42119a693118e14edc725e7bdb220232bda21dcb8e78ab065c43091110248c58",
+      "source": "https://github.com/phantomptr/ps5term"
+    },
+    {
       "name": "Forgotten Warrior Remastered",
       "filename": "FWRG00001.zip",
       "url": "https://github.com/youss17x/Forgotten-Warrior-PS5/releases/download/v1.3.0/FWRG00001-v1.3.0.zip",
@@ -130,15 +144,15 @@
     {
       "name": "PC5",
       "filename": "PPSA11018.zip",
-      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.3.5/PPSA11018.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.3.5/PPSA11018.zip",
+      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.3.6/PPSA11018.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.3.6/PPSA11018.zip",
       "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.",
-      "version": "2.3.5",
+      "version": "2.3.6",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA11018",
       "author": "bornaradusin",
-      "checksum": "29463476de1af92ef72472a0fd2e3755db3b62e24298001772ff677810588fc4",
+      "checksum": "fa55628a61a4378af1ced917097d95ca48df0b07b7647d616f7388f5f04e10f9",
       "source": "https://github.com/bornaradusin/PC5"
     },
     {
@@ -214,15 +228,15 @@
     {
       "name": "Geometry Dash Lite",
       "filename": "PPSA26371.zip",
-      "url": "https://github.com/ZiZc3/Hydroid/releases/download/1.0.0/PPSA26371.-.Geometry.Dash.Lite.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA26371/1.0.0/PPSA26371.zip",
+      "url": "https://github.com/ZiZc3/Hydroid/releases/download/1.0.1/PPSA26371.-.Geometry.Dash.Lite.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA26371/1.0.1/PPSA26371.zip",
       "description": "Geometry Dash Lite for PS5 with its own controller support. Needs your own APK (2.2.148).",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA26371",
       "author": "AZiZ",
-      "checksum": "a244e8a4f5e22d0ea7f11e7794e7137ab3f48833209b479a8ea389df8cc133e4",
+      "checksum": "edae7739aa3316f0c92a5bdae463eae9e2190ba3894bf885db8e6208c524ce14",
       "source": "https://github.com/ZiZc3/Hydroid"
     },
     {
@@ -378,6 +392,20 @@
       "author": "AngelXex",
       "checksum": "96861b81c1fbaac818080d1bf958b575e6b44d2c258684e1931f2940cee2fb43",
       "source": "https://github.com/darkxex/PS5_Celeste"
+    },
+    {
+      "name": "DK64 Rekongpiled",
+      "filename": "PPSA64064.zip",
+      "url": "https://github.com/Samclay8/DK64-Rekongpiled-PS5/releases/download/01.000.000/PPSA64064.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA64064/01.000.000/PPSA64064.zip",
+      "description": "DK64: Rekongpiled ported to the PS5 as native homebrew.",
+      "version": "01.000.000",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA64064",
+      "author": "Samclay8",
+      "checksum": "d81b32ae5aea52cf5d08c7f4bbfe38630b9f6bce718dd2868bce0c0436656023",
+      "source": "https://github.com/Samclay8/DK64-Rekongpiled-PS5"
     },
     {
       "name": "Mediathek",
@@ -802,15 +830,15 @@
     {
       "name": "XPSemu",
       "filename": "PPSA97358.zip",
-      "url": "https://github.com/ZiZc3/XPSemu/releases/download/v3.1/PPSA97358.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA97358/v3.1/PPSA97358.zip",
+      "url": "https://github.com/ZiZc3/XPSemu/releases/download/v3.2/PPSA97358.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA97358/v3.2/PPSA97358.zip",
       "description": "Original Xbox emulator for PS5, based on xemu.",
-      "version": "v3.1",
+      "version": "v3.2",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA97358",
       "author": "AZiZ",
-      "checksum": "0fa4f1556b257317d5b38a8f5b9803b58e05b5ba0e63fb26492f7bea369bf558",
+      "checksum": "a10f6d7c60b30da94544684a8ab1d12f1117dd53471ab44d4dc1e4eb5441f98a",
       "source": "https://github.com/ZiZc3/XPSemu"
     },
     {
@@ -956,15 +984,15 @@
     {
       "name": "Breath of the Wild VR",
       "filename": "PPSA98720.zip",
-      "url": "https://github.com/Papyszoo/botw-bettervr-ps5/releases/download/build19-hmd2-fw/BotW-VR-build19-hmd2-fw.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98720/build19-hmd2-fw/PPSA98720.zip",
-      "description": "Plays your own Breath of the Wild (Wii U) dump in PS VR2 with Sense controllers, using Crementif's BetterVR mod in PS5-ECAM's Cemu (experimental, firmware 13.60).",
-      "version": "build19-hmd2-fw",
+      "url": "https://github.com/Papyszoo/botw-bettervr-ps5/releases/download/v0.1.1/BotW-VR-v0.1.1.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98720/0.1.1/PPSA98720.zip",
+      "description": "Plays your own Breath of the Wild dump in PS VR2 with Sense controllers via Crementif's BetterVR mod in Cemu (experimental; firmware 5.50, 7.61, 8.40, 9.00, 10.00, 11.60, 12.40, 13.60; tested 13.60).",
+      "version": "0.1.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98720",
       "author": "Papyszoo",
-      "checksum": "a4003e8f756d2ed837184fb82cd5332cdb9aa2f424952a961cc5e946aac285af",
+      "checksum": "8130bd87df4f8fd9ecf0b900b419b69c97b0a71abf0ea51c26eae172b7fa39d3",
       "source": "https://github.com/Papyszoo/botw-bettervr-ps5"
     },
     {
@@ -1376,15 +1404,15 @@
     {
       "name": "MihawkOS",
       "filename": "PPSA99170.zip",
-      "url": "https://github.com/mihawk-99/PS5_MihawkOS/releases/download/v8.1.0-alpha-8/PS5_MihawkOS-v8.1.0-alpha-8.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99170/8.1.0-alpha-8/PPSA99170.zip",
+      "url": "https://github.com/mihawk-99/PS5_MihawkOS/releases/download/v8.2.0-alpha-8/PS5_MihawkOS-v8.2.0-alpha-8.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99170/8.2.0-alpha-8/PPSA99170.zip",
       "description": "A Windows-inspired PS5 homebrew OS bringing 32-bit and 64-bit Windows gaming to console hardware through a custom Wine/Proton compatibility stack and native Vulkan graphics.",
-      "version": "8.1.0-alpha-8",
+      "version": "8.2.0-alpha-8",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99170",
       "author": "Mihawk",
-      "checksum": "de97e45f807991d11fa008e179335ee2dd8695275450302a1f920d4a35428b55",
+      "checksum": "d44d9b1948c909fc512316d5a7657c6b5e14c18900ab65934b06724403c3f908",
       "source": "https://github.com/mihawk-99/PS5_MihawkOS"
     },
     {
@@ -1544,15 +1572,15 @@
     {
       "name": "BattleShip Remix",
       "filename": "PPSA99264.zip",
-      "url": "https://github.com/lucasliet/BattleShip-remix/releases/download/v2.0.1-port.6/BattleShip-Remix-ps5-PPSA99264.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99264/v2.0.1-port.6/PPSA99264.zip",
+      "url": "https://github.com/lucasliet/BattleShip-remix/releases/download/v2.0.1-port.9/BattleShip-Remix-ps5-PPSA99264.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99264/v2.0.1-port.9/PPSA99264.zip",
       "description": "Native PS5 port of Smash Remix, the Super Smash Bros. 64 mod, built on the SSB64 decompilation and libultraship. Bring your own Smash Remix ROM.",
-      "version": "v2.0.1-port.6",
+      "version": "v2.0.1-port.9",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99264",
       "author": "Lucas Oliveira",
-      "checksum": "bd58530a0b176a31e56aebb0d899b4d3d326dcc4a2758c0ffdb2e17abb05aa86",
+      "checksum": "c707b00490778709c512aba0acf2eebb265cffa164d855b59d9e65516305f677",
       "source": "https://github.com/lucasliet/BattleShip-remix"
     },
     {
@@ -2076,15 +2104,15 @@
     {
       "name": "Alembic",
       "filename": "PPSA99594.zip",
-      "url": "https://github.com/fthdgn-gh/Alembic/releases/download/v0.5.3/alembic-app-v0.5.3.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99594/0.5.3/PPSA99594.zip",
+      "url": "https://github.com/fthdgn-gh/Alembic/releases/download/v0.6.2/alembic-app-v0.6.2.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99594/0.6.2/PPSA99594.zip",
       "description": "Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC, also on SMB, NFS, WebDAV and FTP servers.",
-      "version": "0.5.3",
+      "version": "0.6.2",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99594",
       "author": "Fatih Doğan",
-      "checksum": "c1d3686c4c7d518ebe20db4cf814519fec2286d496efd30d99bd4abeb4ff9eff",
+      "checksum": "19022d2c369e5a675ed8d9bca517227770c5019f35e31b9a997e259c0eaa2782",
       "source": "https://github.com/fthdgn-gh/Alembic"
     },
     {
@@ -2454,15 +2482,15 @@
     {
       "name": "ProsperoCraft",
       "filename": "PPSA99874.zip",
-      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.267/PPSA99874.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.267/PPSA99874.zip",
+      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.279/PPSA99874.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.279/PPSA99874.zip",
       "description": "Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.",
-      "version": "01.000.267",
+      "version": "01.000.279",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99874",
       "author": "mateo-cogeanu",
-      "checksum": "680e4342c974398158de1099249d0d83aae7cf778173863b484da65fa942cd28",
+      "checksum": "60a354e39a3a11b4bf0a4a4f62cba80220ea961781c846233929122197159cd2",
       "source": "https://github.com/mateo-cogeanu/ProsperoCraft"
     },
     {

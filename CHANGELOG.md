@@ -1,5 +1,23 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 08/11/2026 à 22:09
+* **PAYLOADS**
+  * `Shadowmountplus` (1.7beta12) - *Mise à jour (Précédent: 1.7beta11)*
+  * `Garlic-Worker V1.4.0` (v1.4.0) - *Nouveau*
+* **APPS**
+  * `Ppsa97358` (v3.2) - *Mise à jour (Précédent: v3.1)*
+* **HOMEBREW_PAGE**
+  * `PS5Term` (00.001.003) - *Nouveau*
+  * `PC5` (2.3.6) - *Mise à jour (Précédent: 2.3.5)*
+  * `Geometry Dash Lite` (1.0.1) - *Mise à jour (Précédent: 1.0.0)*
+  * `DK64 Rekongpiled` (01.000.000) - *Nouveau*
+  * `XPSemu` (v3.2) - *Mise à jour (Précédent: v3.1)*
+  * `Breath of the Wild VR` (0.1.1) - *Mise à jour (Précédent: build19-hmd2-fw)*
+  * `MihawkOS` (8.2.0-alpha-8) - *Mise à jour (Précédent: 8.1.0-alpha-8)*
+  * `BattleShip Remix` (v2.0.1-port.9) - *Mise à jour (Précédent: v2.0.1-port.6)*
+  * `Alembic` (0.6.2) - *Mise à jour (Précédent: 0.5.3)*
+  * `ProsperoCraft` (01.000.279) - *Mise à jour (Précédent: 01.000.267)*
+
 ## Build du 08/11/2026 à 13:14
 * **HOMEBREW_PAGE**
   * `Breath of the Wild VR` (build19-hmd2-fw) - *Mise à jour (Précédent: 0.1.0)*

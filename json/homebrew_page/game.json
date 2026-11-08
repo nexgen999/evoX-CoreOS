@@ -130,15 +130,15 @@
     {
       "name": "Geometry Dash Lite",
       "filename": "PPSA26371.zip",
-      "url": "https://github.com/ZiZc3/Hydroid/releases/download/1.0.0/PPSA26371.-.Geometry.Dash.Lite.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA26371/1.0.0/PPSA26371.zip",
+      "url": "https://github.com/ZiZc3/Hydroid/releases/download/1.0.1/PPSA26371.-.Geometry.Dash.Lite.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA26371/1.0.1/PPSA26371.zip",
       "description": "Geometry Dash Lite for PS5 with its own controller support. Needs your own APK (2.2.148).",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA26371",
       "author": "AZiZ",
-      "checksum": "a244e8a4f5e22d0ea7f11e7794e7137ab3f48833209b479a8ea389df8cc133e4",
+      "checksum": "edae7739aa3316f0c92a5bdae463eae9e2190ba3894bf885db8e6208c524ce14",
       "source": "https://github.com/ZiZc3/Hydroid"
     },
     {
@@ -238,6 +238,20 @@
       "author": "AngelXex",
       "checksum": "96861b81c1fbaac818080d1bf958b575e6b44d2c258684e1931f2940cee2fb43",
       "source": "https://github.com/darkxex/PS5_Celeste"
+    },
+    {
+      "name": "DK64 Rekongpiled",
+      "filename": "PPSA64064.zip",
+      "url": "https://github.com/Samclay8/DK64-Rekongpiled-PS5/releases/download/01.000.000/PPSA64064.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA64064/01.000.000/PPSA64064.zip",
+      "description": "DK64: Rekongpiled ported to the PS5 as native homebrew.",
+      "version": "01.000.000",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA64064",
+      "author": "Samclay8",
+      "checksum": "d81b32ae5aea52cf5d08c7f4bbfe38630b9f6bce718dd2868bce0c0436656023",
+      "source": "https://github.com/Samclay8/DK64-Rekongpiled-PS5"
     },
     {
       "name": "SuperTuxKart",
@@ -606,15 +620,15 @@
     {
       "name": "BattleShip Remix",
       "filename": "PPSA99264.zip",
-      "url": "https://github.com/lucasliet/BattleShip-remix/releases/download/v2.0.1-port.6/BattleShip-Remix-ps5-PPSA99264.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99264/v2.0.1-port.6/PPSA99264.zip",
+      "url": "https://github.com/lucasliet/BattleShip-remix/releases/download/v2.0.1-port.9/BattleShip-Remix-ps5-PPSA99264.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99264/v2.0.1-port.9/PPSA99264.zip",
       "description": "Native PS5 port of Smash Remix, the Super Smash Bros. 64 mod, built on the SSB64 decompilation and libultraship. Bring your own Smash Remix ROM.",
-      "version": "v2.0.1-port.6",
+      "version": "v2.0.1-port.9",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99264",
       "author": "Lucas Oliveira",
-      "checksum": "bd58530a0b176a31e56aebb0d899b4d3d326dcc4a2758c0ffdb2e17abb05aa86",
+      "checksum": "c707b00490778709c512aba0acf2eebb265cffa164d855b59d9e65516305f677",
       "source": "https://github.com/lucasliet/BattleShip-remix"
     },
     {
@@ -1124,15 +1138,15 @@
     {
       "name": "ProsperoCraft",
       "filename": "PPSA99874.zip",
-      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.267/PPSA99874.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.267/PPSA99874.zip",
+      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.279/PPSA99874.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.279/PPSA99874.zip",
       "description": "Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.",
-      "version": "01.000.267",
+      "version": "01.000.279",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99874",
       "author": "mateo-cogeanu",
-      "checksum": "680e4342c974398158de1099249d0d83aae7cf778173863b484da65fa942cd28",
+      "checksum": "60a354e39a3a11b4bf0a4a4f62cba80220ea961781c846233929122197159cd2",
       "source": "https://github.com/mateo-cogeanu/ProsperoCraft"
     },
     {

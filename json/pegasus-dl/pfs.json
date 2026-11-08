@@ -3,6 +3,62 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA23226",
+      "title": "Black Myth Wukong",
+      "createdAt": "2026-11-08T21:29:56.571Z",
+      "version": "1.000.021",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/b47c1fe6d3f1e41adf41641b440f64422503c04ef1fc77aa4d50f80432a2145b",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/13cb80cc93a2551d5766e7d9356418cb0305b4481a03757c8b549621f574045f",
+      "description": "Format: zstd\nIncluded in the edition: Black Myth: Wukong full game for PS5®. Black Myth: Wukong is an action RPG rooted in Chinese mythology. The story is based on Journey to the West, one of the Four Great Classical Novels of Chinese literature. You shall set out as the Destined One to venture into the challenges and marvels ahead, to uncover the obscured truth beneath the veil of a glorious legend from the past. • Explore a Land of Vast Wonders \"A world unseen, where wonders gleam, And with each stride, a new scene streams.\" Enter a fascinating realm filled with the wonders and discoveries of ancient Chinese mythology! As the Destined One, you shall traverse an array of breathtaking and distinctive landscapes from the classic tale, composing an epic of adventure that is seen anew. • Confront Mighty Foes, Old and New \"Heroic Monkey, might and fame, Adversaries rise, to test his name. \" One of the major highlights of Journey to the West is its diverse cast of adversaries, each with their unique strengths. As the Destined One, you will encounter powerful foes and worthy rivals throughout your journey. Fearlessly engage them in epic battles where surrender is not an option. • Temper Your Mastery of Varied Spells \"Spells unbound, talents in play, Unleashed abilities seize the day.\" Spells, transformations, and magic vessels of all manifestations, in which some counteract while others amplify, have long been iconic combat elements of Chinese mythology. As the Destined One, aside from mastering various staff techniques, you can also freely combine different spells, abilities, weapons, and equipment to find a winning strategy that best suits your combat style. • Discover Heartfelt Tales Behind Every Facade \"Within all souls, both wild and tame, There thrives a tale of life's fierce flame.\" Beneath the ferocity and craftiness of your foes lies an engaging tapestry of their origins, personalities, and motivations waiting to be revealed. As the Destined One, you will uncover the stories behind a variety of characters, delving beyond your battles with them to taste the love, hate, greed, and fury they once held and still carry within.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nUpdated: 2026-11-08T20:46:58.709Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/S5VglpUj5k"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/kWFkeNcQM5"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/f1EAmO5je1"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/6TZ8S5iBgK"
+        },
+        {
+          "name": "zstd · Viki - pt.5",
+          "url": "https://vikingfile.com/f/AzfJVJoWKg"
+        },
+        {
+          "name": "zstd · Viki - pt.6",
+          "url": "https://vikingfile.com/f/W1sVq1g32E"
+        }
+      ],
+      "sizeBytes": 113816633344
+    },
+    {
+      "titleId": "PPSA29952",
+      "title": "Denshattack",
+      "createdAt": "2026-11-08T21:29:56.571Z",
+      "version": "1.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/cc4445ca4bac959e8789ca95c96cf210ee74391d1f33cd44632c604cab22f5dd",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/368c24d9edf28067452a53f6f7ad4a52ada44d248a95096ff14d61e5a8e0b0f6",
+      "description": "Format: zstd\nFlip, trick and grind your train in a fast-paced, off-the-rails ride through a colourful Japanese dystopia. Outmatch rival gangs, wreck a shady megacorp, and take back the tracks with nothing but skill, speed, and style. Ollie, kickflip, and combo your way through Japan's biggest cities, as well a world of meadows, volcanoes and oceans. Rack up points and chase that sweet high score as you flip, trick and stick the landing in your customisable ride.\nRegion: USA to EUR Langs\nFirmware: 10.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to turn off global fakelib and emu updates in Shadowmount!\nUpdated: 2026-11-08T20:44:50.435Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/RmlLyZhSrr"
+        }
+      ],
+      "sizeBytes": 8053063680
+    },
+    {
       "titleId": "PPSA29343",
       "title": "Beast of Reincarnation Deluxe Edition",
       "createdAt": "2026-11-08T02:05:50.875Z",
@@ -531,12 +587,16 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/84942aac71b9c49ebe0797779f9bee3d9d62b9ffac891ac83d1bb2d53e200c53",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/66e7ffe6f3b4d52caa852ee801ac65b991a5cc95a61edb14a1e63e6927fd5bda",
-      "description": "Format: zstd\nMaster electrifying bullet ballet combat – intense projectile-focused gameplay with a unique, neon-infused esthetic – to overcome ferocious enemies and spectacular boss fights. Housemarque returns With decades of experience crafting adrenaline-fueled, arcade-inspired mechanics, Housemarque is back with the next evolution of the award-winning, third-person action seen in Returnal. Bullet Ballet Unleash a high-tech arsenal as you dodge, shield and parry enemy attacks in a fluid, flow-state-inducing dance. Combine abilities and learn enemy bullet patterns to gain the upper hand when the odds seem stacked against you. Permanent Progression Augment your loadout using an evolving set of weapons and upgrades. After every run you’ll face a changed world, but the resources you gain will ensure Carcosa yields to you. With Second Chance you’ll be revived instantly on your first death, getting you straight back into the action. Lost Carcosa Fight through mysterious biomes and dreamlike landscapes littered with ancient ruins and alien technology. Come back stronger after every death to break free of the shackles of your past as you uncover the true cost of your power. Otherworldly sound design and musical score Carcosa is brought to life by atmospheric, sci-fi-inspired 3D audio soundscapes – all punctuated by a dark, electronic-meets-drone-metal musical score from multi award-winning composer, Sam Slater.1 Who can you trust? Between runs, return to the Passage to track your progression and meet the crew of Echelon IV. But beware: the Eclipse distorts more than physical spaces. As hallucinations and paranoia take hold, even your closest allies may become your greatest threat… PS5® features - Thrive in the chaos of Carcosa’s Eclipse with near-instant loading speeds of the PS5® console letting you rapidly start over. - Track threats and more with precision Tempest 3D Audio.1 - Seize control of Arjun’s fate; feel every texture in your hands with the detailed input of haptic feedback. - Feel the influence of the Eclipse on Arjun’s suit and weaponry via adaptive triggers, as capabilities augment and evolve… 1 3D Audio via built-in TV speakers or analog/USB stereo headphones. Setup required.\nRegion: USA to EUR Langs\nFirmware: 11.xx+\nAPR: apr_emu ng 0.1 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to turn off global fakelib and emu updates in shadowmount!\nUpdated: 2026-11-07T16:02:03.639Z",
+      "description": "Format: zstd\nMaster electrifying bullet ballet combat – intense projectile-focused gameplay with a unique, neon-infused esthetic – to overcome ferocious enemies and spectacular boss fights. Housemarque returns With decades of experience crafting adrenaline-fueled, arcade-inspired mechanics, Housemarque is back with the next evolution of the award-winning, third-person action seen in Returnal. Bullet Ballet Unleash a high-tech arsenal as you dodge, shield and parry enemy attacks in a fluid, flow-state-inducing dance. Combine abilities and learn enemy bullet patterns to gain the upper hand when the odds seem stacked against you. Permanent Progression Augment your loadout using an evolving set of weapons and upgrades. After every run you’ll face a changed world, but the resources you gain will ensure Carcosa yields to you. With Second Chance you’ll be revived instantly on your first death, getting you straight back into the action. Lost Carcosa Fight through mysterious biomes and dreamlike landscapes littered with ancient ruins and alien technology. Come back stronger after every death to break free of the shackles of your past as you uncover the true cost of your power. Otherworldly sound design and musical score Carcosa is brought to life by atmospheric, sci-fi-inspired 3D audio soundscapes – all punctuated by a dark, electronic-meets-drone-metal musical score from multi award-winning composer, Sam Slater.1 Who can you trust? Between runs, return to the Passage to track your progression and meet the crew of Echelon IV. But beware: the Eclipse distorts more than physical spaces. As hallucinations and paranoia take hold, even your closest allies may become your greatest threat… PS5® features - Thrive in the chaos of Carcosa’s Eclipse with near-instant loading speeds of the PS5® console letting you rapidly start over. - Track threats and more with precision Tempest 3D Audio.1 - Seize control of Arjun’s fate; feel every texture in your hands with the detailed input of haptic feedback. - Feel the influence of the Eclipse on Arjun’s suit and weaponry via adaptive triggers, as capabilities augment and evolve… 1 3D Audio via built-in TV speakers or analog/USB stereo headphones. Setup required.\nRegion: USA to EUR Langs\nFirmware: 11.xx+\nAPR: apr_emu ng 0.1 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to turn off global fakelib and emu updates in shadowmount! If you guys have trouble with sound, use the second link (props to Lineker for it on Telegram!)\nUpdated: 2026-11-07T16:02:03.639Z",
       "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
       "downloadLinks": [
         {
           "name": "zstd · Viki",
           "url": "https://vikingfile.com/f/FflO4M8bW1"
+        },
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/FoLOfSQGoR"
         }
       ],
       "sizeBytes": 85899345920
