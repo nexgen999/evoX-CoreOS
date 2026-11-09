@@ -1,5 +1,16 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 09/11/2026 à 04:50
+* **PAYLOADS**
+  * `Garlic-Worker V1.5.0` (v1.5.0) - *Nouveau*
+  * `Prosperomgr` (v1.2) - *Mise à jour (Précédent: v1.1)*
+* **HOMEBREW_PAGE**
+  * `Cyberworld Endless` (0.20.0) - *Mise à jour (Précédent: 0.19.0)*
+  * `PS5Term` (00.001.004) - *Mise à jour (Précédent: 00.001.003)*
+  * `osu!` (1.0.0) - *Nouveau*
+  * `Nuvio Max'd` (1.0.0.14-native-experimental) - *Mise à jour (Précédent: 1.0.0.13-native-experimental)*
+  * `PS5MC (Kodi)` (22.000.002) - *Mise à jour (Précédent: 22.000.001)*
+
 ## Build du 08/11/2026 à 22:09
 * **PAYLOADS**
   * `Shadowmountplus` (1.7beta12) - *Mise à jour (Précédent: 1.7beta11)*

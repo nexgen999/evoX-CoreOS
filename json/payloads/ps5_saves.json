@@ -2,25 +2,25 @@
   "name": "PS5 Saves",
   "payloads": [
     {
-      "name": "Garlic-Savemgr V1.15-Beta15",
-      "filename": "garlic-savemgr_v1.15-beta15.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta15/garlic-savemgr_v1.15-beta15.elf",
-      "local_path": "payloads/ps5_saves/garlic-savemgr/v1.15-beta15/garlic-savemgr_v1.15-beta15.elf",
+      "name": "Garlic-Savemgr V1.15-Beta16",
+      "filename": "garlic-savemgr_v1.15-beta16.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v1.15-beta16/garlic-savemgr_v1.15-beta16.elf",
+      "local_path": "payloads/ps5_saves/garlic-savemgr/v1.15-beta16/garlic-savemgr_v1.15-beta16.elf",
       "description": "Save manager utility hosted on Forgejo.",
-      "version": "v1.15-beta15",
+      "version": "v1.15-beta16",
       "category": "PS5 Saves",
-      "checksum": "7e6a494eb3d19964e912d9a991014e398d115db36b25b3ab8c31c1bc9dae5758",
+      "checksum": "d6a6048e6b5b56a30d07c926155b18d4b95e07b96dbf7631d1e8ded765880471",
       "source": "https://git.etawen.dev/earthonion/garlic-savemgr/releases"
     },
     {
-      "name": "Garlic-Worker V1.4.0",
-      "filename": "garlic-worker_v1.4.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.4.0/garlic-worker_v1.4.0.elf",
-      "local_path": "payloads/ps5_saves/garlic-worker/v1.4.0/garlic-worker_v1.4.0.elf",
+      "name": "Garlic-Worker V1.5.0",
+      "filename": "garlic-worker_v1.5.0.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.5.0/garlic-worker_v1.5.0.elf",
+      "local_path": "payloads/ps5_saves/garlic-worker/v1.5.0/garlic-worker_v1.5.0.elf",
       "description": "Garlic worker payload component.",
-      "version": "v1.4.0",
+      "version": "v1.5.0",
       "category": "PS5 Saves",
-      "checksum": "accad18a84646a216ab4dc30a2e6e3d71e1796c3e34b64d422fbea4404ad4696",
+      "checksum": "68c133c4d8ba9fef9fdda4b218e8b9913a8ca3dd919c26cef82b1b61bd20deda",
       "source": "https://git.etawen.dev/earthonion/garlic-worker/releases"
     },
     {

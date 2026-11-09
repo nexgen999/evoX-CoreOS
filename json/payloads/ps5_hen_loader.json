@@ -92,12 +92,12 @@
     {
       "name": "Prosperomgr",
       "filename": "ProsperoMgr.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/v1.1/ProsperoMgr.elf",
-      "local_path": "payloads/ps5_hen_loader/ProsperoMgr/v1.1/ProsperoMgr.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/v1.2/ProsperoMgr.elf",
+      "local_path": "payloads/ps5_hen_loader/ProsperoMgr/v1.2/ProsperoMgr.elf",
       "description": "A Web-Based All-In-One homebrew manager for your PlayStation 5",
-      "version": "v1.1",
+      "version": "v1.2",
       "category": "PS5 HEN Loader",
-      "checksum": "e7a6bb544adb2fb2a61aa9cc83b0ad15f70b32d7511a3de0f1fb88812f11983c",
+      "checksum": "127394cc4f1ac7347fea509e010e80bab7b5ee13d820665474cdc3928d173bce",
       "source": "https://github.com/notmaj0r/ProsperoMgr/releases"
     }
   ]

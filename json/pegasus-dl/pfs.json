@@ -3,6 +3,48 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA23566",
+      "title": "UFC 6",
+      "createdAt": "2026-11-09T01:33:57.923Z",
+      "version": "1.005",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e802bd09345a740a158e70d2bb11b4c5a42493e4cce2d7b3759620b851b7c655",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/7450b3213f5afb175d42de366333e0c9f84015f2c111f0c6015979e907a36f47",
+      "description": "Format: zstd\nLimited Time Offer: Purchase* EA SPORTS™ UFC® 6 and redeem the Championship Fighter Skin Collection in-game until Nov. 16, 2026. Fighter Skins include: - Conor McGregor - UFC 205 - Jon Jones - UFC 309 - Sean O'Malley - UFC 299 - Alex Pereira - UFC 320 - Ilia Topuria - UFC 317 EA SPORTS™ UFC® 6 is powered by fighters. Evolved striking and motion systems bring those UFC stars to life in the Octagon, while new game modes introduce immersive storytelling that makes every fight feel personal. That starts with Markerless Capture, which delivers unprecedented fighter fidelity with authentic locomotion and Signature Strikes, complemented by new fighter bodies built with Sapien Technology that make your favorite UFC superstars truly look, move, and fight like themselves. Real-Time Contact brings the impact to the Octagon with Frostbite™ powered ragdoll physics and damage reactions that hurt so good. When you really start dishing out the damage, enter Flow State, which engages an athlete's standout skills in punishing fashion. Finally, all-new game modes like Hall of Legends and The Legacy let you experience the stories of UFC greats or carve your own path, from backrooms to the bright lights. Square up and fight your fight. This game includes optional in-game purchases of virtual currency that can be used to acquire virtual in-game items.\nRegion: USA to EUR Langs\nFirmware: 12.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nUpdated: 2026-11-09T01:06:30.363Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/4AWSpm4w12"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/3Nnj6cmzPa"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/9nckmH6C0X"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/Z3HitoMfcT"
+        },
+        {
+          "name": "zstd · Viki - pt.5",
+          "url": "https://vikingfile.com/f/mFEhwq0Zkj"
+        },
+        {
+          "name": "zstd · Viki - pt.6",
+          "url": "https://vikingfile.com/f/4blieJ0cqV"
+        },
+        {
+          "name": "zstd · Viki - pt.7",
+          "url": "https://vikingfile.com/f/Wg1lpBTUVB"
+        }
+      ],
+      "sizeBytes": 74195560038
+    },
+    {
       "titleId": "PPSA23226",
       "title": "Black Myth Wukong",
       "createdAt": "2026-11-08T21:29:56.571Z",

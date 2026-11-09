@@ -18,15 +18,15 @@
     {
       "name": "PS5Term",
       "filename": "FAKE99260.zip",
-      "url": "https://github.com/phantomptr/ps5term/releases/download/00.001.003/PS5Term-00.001.003.zip",
-      "local_path": "downloads/apps/homebrew_page/app/FAKE99260/00.001.003/FAKE99260.zip",
-      "description": "Terminal for jailbroken PS5: a built-in shell, an SSH and SFTP server, and optional Alpine Linux. Works with a controller, keyboard or mouse.",
-      "version": "00.001.003",
+      "url": "https://github.com/phantomptr/ps5term/releases/download/00.001.004/PS5Term-00.001.004.zip",
+      "local_path": "downloads/apps/homebrew_page/app/FAKE99260/00.001.004/FAKE99260.zip",
+      "description": "Terminal for jailbroken PS5: a built-in shell, SSH and SFTP, optional Alpine or Ubuntu Linux, and PS5 programs. Controller, keyboard or mouse.",
+      "version": "00.001.004",
       "category": "Apps",
       "kind": "app",
       "titleid": "FAKE99260",
       "author": "phantomptr",
-      "checksum": "42119a693118e14edc725e7bdb220232bda21dcb8e78ab065c43091110248c58",
+      "checksum": "f8099c1f98ee62f63e8ad51595358c65bcf1fcfffc0e5704da7dba6dcceb2122",
       "source": "https://github.com/phantomptr/ps5term"
     },
     {
@@ -900,15 +900,15 @@
     {
       "name": "Nuvio Max'd",
       "filename": "PPSA99288.zip",
-      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.13-native-experimental/PPSA99288.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.13-native-experimental/PPSA99288.zip",
+      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.14-native-experimental/PPSA99288.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.14-native-experimental/PPSA99288.zip",
       "description": "Experimental Nuvio Max'd test build for PS5 with playback source switching, live subtitle controls, audio sync steps and optional time-grid EPG, plus profiles, IPTV and media servers.",
-      "version": "1.0.0.13-native-experimental",
+      "version": "1.0.0.14-native-experimental",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99288",
       "author": "HandshakeHackin",
-      "checksum": "c7ae26a0a14ae439fa9162e1448a7039838a83940fa8dd0febe201952f4a4755",
+      "checksum": "16fc97017a169e7abfb7fe6b5ec8a001feaf5dc968f19669265d61078d0ffd12",
       "source": "https://github.com/HandshakeHackin/Nuvio-maxd-releases"
     },
     {
@@ -956,15 +956,15 @@
     {
       "name": "PS5MC (Kodi)",
       "filename": "PPSA99420.zip",
-      "url": "https://github.com/Notedop/xbmc-ps5/releases/download/22.000.001/PPSA99420.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99420/22.000.001/PPSA99420.zip",
+      "url": "https://github.com/Notedop/xbmc-ps5/releases/download/22.000.002/PPSA99420.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99420/22.000.002/PPSA99420.zip",
       "description": "PS5MC, an unofficial port of the Kodi 22 media center for PS5, with a 4K GPU interface, hardware H.264, HEVC and VP9 decoding and HDR output.",
-      "version": "22.000.001",
+      "version": "22.000.002",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99420",
       "author": "Notedop",
-      "checksum": "a9c94114ff47cc2c7bb185c7e84bc7879bdc0cdf0cb7151ae0e0a243fa9407fb",
+      "checksum": "e4b3f7c8f0d9ee913db129825c7e4efdc555d4f77324a91783ba9817e79fc26f",
       "source": "https://github.com/Notedop/xbmc-ps5"
     },
     {

@@ -14,7 +14,7 @@
       <title>Cyberworld Endless</title>
       <link>https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless</link>
       <description>A roguelike built on the real Mega Man Battle Network 6, from your own ROM: every run jacks MegaMan into a newly generated net of battles, loot and guardian Navis.</description>
-      <pubDate>0.19.0</pubDate>
+      <pubDate>0.20.0</pubDate>
     </item>
     <item>
       <title>Playden</title>
@@ -25,8 +25,8 @@
     <item>
       <title>PS5Term</title>
       <link>https://github.com/phantomptr/ps5term</link>
-      <description>Terminal for jailbroken PS5: a built-in shell, an SSH and SFTP server, and optional Alpine Linux. Works with a controller, keyboard or mouse.</description>
-      <pubDate>00.001.003</pubDate>
+      <description>Terminal for jailbroken PS5: a built-in shell, SSH and SFTP, optional Alpine or Ubuntu Linux, and PS5 programs. Controller, keyboard or mouse.</description>
+      <pubDate>00.001.004</pubDate>
     </item>
     <item>
       <title>Forgotten Warrior Remastered</title>
@@ -243,6 +243,12 @@
       <link>https://github.com/LoZazaMastro/Pixel-Museum</link>
       <description>An interactive museum of video game history and culture, with illustrated stories, soundtracks, collectible pins, playable experiences and creative workshops.</description>
       <pubDate>0.1.8</pubDate>
+    </item>
+    <item>
+      <title>osu!</title>
+      <link>https://github.com/actuallyssstaris/ProjectCadence</link>
+      <description>osu!standard running natively on a jailbroken PS5</description>
+      <pubDate>1.0.0</pubDate>
     </item>
     <item>
       <title>Stremio Plus</title>
@@ -692,7 +698,7 @@
       <title>Nuvio Max'd</title>
       <link>https://github.com/HandshakeHackin/Nuvio-maxd-releases</link>
       <description>Experimental Nuvio Max'd test build for PS5 with playback source switching, live subtitle controls, audio sync steps and optional time-grid EPG, plus profiles, IPTV and media servers.</description>
-      <pubDate>1.0.0.13-native-experimental</pubDate>
+      <pubDate>1.0.0.14-native-experimental</pubDate>
     </item>
     <item>
       <title>Spider-Man: Edge of Time</title>
@@ -818,7 +824,7 @@
       <title>PS5MC (Kodi)</title>
       <link>https://github.com/Notedop/xbmc-ps5</link>
       <description>PS5MC, an unofficial port of the Kodi 22 media center for PS5, with a 4K GPU interface, hardware H.264, HEVC and VP9 decoding and HDR output.</description>
-      <pubDate>22.000.001</pubDate>
+      <pubDate>22.000.002</pubDate>
     </item>
     <item>
       <title>ApricotGS</title>
