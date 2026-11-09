@@ -24,14 +24,14 @@
       "source": "https://github.com/MisterTemaki/genplusgxPS5/releases"
     },
     {
-      "name": "Ps5-Romm V1.4.0",
-      "filename": "ps5-romm_v1.4.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.4.0/ps5-romm_v1.4.0.elf",
-      "local_path": "payloads/ps5_emulator/ps5-romm/v1.4.0/ps5-romm_v1.4.0.elf",
+      "name": "Ps5-Romm V1.4.1",
+      "filename": "ps5-romm_v1.4.1.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.4.1/ps5-romm_v1.4.1.elf",
+      "local_path": "payloads/ps5_emulator/ps5-romm/v1.4.1/ps5-romm_v1.4.1.elf",
       "description": "ps5-romm for ps5",
-      "version": "v1.4.0",
+      "version": "v1.4.1",
       "category": "PS5 Emulator",
-      "checksum": "dca8be73920a0bbddf25c132619a37ac0e7d9bae31f02410981b9007f16566aa",
+      "checksum": "5c8cb6c5bd1b03c93a72f8a7f31936db337cd4483a38efaa5487c93b0ff60ede",
       "source": "https://github.com/s0liton/ps5-romm/releases"
     },
     {

@@ -56,7 +56,7 @@
       <title>Class of '09: The Re-Up</title>
       <link>https://github.com/dannyboyjaros/ps5classof09thereup</link>
       <description>Class of '09: The Re-Up - unofficial PS5 homebrew runtime</description>
-      <pubDate>1.0.1</pubDate>
+      <pubDate>1.0.2</pubDate>
     </item>
     <item>
       <title>Class of '09: The Flip Side</title>
@@ -272,7 +272,7 @@
       <title>RommPS</title>
       <link>https://github.com/s0liton/RommPS</link>
       <description>Syncs your emulator saves and states with a RomM server and downloads games from your RomM library.</description>
-      <pubDate>1.4.0</pubDate>
+      <pubDate>1.4.1</pubDate>
     </item>
     <item>
       <title>Parasite Eve PS5</title>
@@ -329,6 +329,12 @@
       <pubDate>01.001.000</pubDate>
     </item>
     <item>
+      <title>Dungeon Crawl Stone Soup</title>
+      <link>https://github.com/plutobox/ps5-crawl</link>
+      <description>The open-source roguelike Dungeon Crawl Stone Soup, with tiles graphics and controller support.</description>
+      <pubDate>01.000.000</pubDate>
+    </item>
+    <item>
       <title>Capy Mobile</title>
       <link>https://github.com/khalifa007/CapyMobile</link>
       <description>Java phone games (J2ME) on the PS5: a native homebrew emulator app</description>
@@ -368,7 +374,7 @@
       <title>XPSemu</title>
       <link>https://github.com/ZiZc3/XPSemu</link>
       <description>Original Xbox emulator for PS5, based on xemu.</description>
-      <pubDate>v3.2</pubDate>
+      <pubDate>v3.3</pubDate>
     </item>
     <item>
       <title>PSXS5</title>

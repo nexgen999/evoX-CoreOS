@@ -1,5 +1,18 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 09/11/2026 à 15:26
+* **PAYLOADS**
+  * `Ps5-Romm V1.4.1` (v1.4.1) - *Nouveau*
+  * `Ftpsrv Ps5-Payload V0.22` (v0.22) - *Nouveau*
+  * `Ps5-Ezremote-Client V2.20` (2.20) - *Nouveau*
+* **APPS**
+  * `Ppsa97358` (v3.3) - *Mise à jour (Précédent: v3.2)*
+* **HOMEBREW_PAGE**
+  * `Class of '09: The Re-Up` (1.0.2) - *Mise à jour (Précédent: 1.0.1)*
+  * `RommPS` (1.4.1) - *Mise à jour (Précédent: 1.4.0)*
+  * `Dungeon Crawl Stone Soup` (01.000.000) - *Nouveau*
+  * `XPSemu` (v3.3) - *Mise à jour (Précédent: v3.2)*
+
 ## Build du 09/11/2026 à 04:50
 * **PAYLOADS**
   * `Garlic-Worker V1.5.0` (v1.5.0) - *Nouveau*

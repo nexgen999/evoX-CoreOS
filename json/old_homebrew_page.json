@@ -116,15 +116,15 @@
         {
             "name": "Class of '09: The Re-Up",
             "filename": "PPSA09010.zip",
-            "url": "https://github.com/dannyboyjaros/ps5classof09thereup/releases/download/v1.0.1/PPSA09010.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA09010/1.0.1/PPSA09010.zip",
+            "url": "https://github.com/dannyboyjaros/ps5classof09thereup/releases/download/v1.0.2/PPSA09010.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA09010/1.0.2/PPSA09010.zip",
             "description": "Class of '09: The Re-Up - unofficial PS5 homebrew runtime",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "category": "Games",
             "kind": "game",
             "titleid": "PPSA09010",
             "author": "dannyboyjaros",
-            "checksum": "c79e476faee262c487ae5726deadf65db3a4af77d0d228228f7a9a6030ae086d",
+            "checksum": "e5d867b523a5df3f710621456924b77ea1540cf82053e24ac548d115a2eb873b",
             "source": "https://github.com/dannyboyjaros/ps5classof09thereup"
         },
         {
@@ -620,15 +620,15 @@
         {
             "name": "RommPS",
             "filename": "PPSA76677.zip",
-            "url": "https://github.com/s0liton/RommPS/releases/download/v1.4.0/PPSA76677.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA76677/1.4.0/PPSA76677.zip",
+            "url": "https://github.com/s0liton/RommPS/releases/download/v1.4.1/PPSA76677.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA76677/1.4.1/PPSA76677.zip",
             "description": "Syncs your emulator saves and states with a RomM server and downloads games from your RomM library.",
-            "version": "1.4.0",
+            "version": "1.4.1",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA76677",
             "author": "s0liton",
-            "checksum": "c870b88e1299bd6f24ccc0b82a0e1bf0333d0091ec60519ec7480a686ba257fe",
+            "checksum": "e829034d66fae048c221580d2998f86380866bcfd33d80cdbbf754315ef1fbc0",
             "source": "https://github.com/s0liton/RommPS"
         },
         {
@@ -758,6 +758,20 @@
             "source": "https://github.com/bystritskiy/xerenge-ps5"
         },
         {
+            "name": "Dungeon Crawl Stone Soup",
+            "filename": "PPSA92041.zip",
+            "url": "https://github.com/plutobox/ps5-crawl/releases/download/01.000.000/PPSA92041.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA92041/01.000.000/PPSA92041.zip",
+            "description": "The open-source roguelike Dungeon Crawl Stone Soup, with tiles graphics and controller support.",
+            "version": "01.000.000",
+            "category": "Games",
+            "kind": "game",
+            "titleid": "PPSA92041",
+            "author": "DCSS dev team, PS5 port by plutobox",
+            "checksum": "2db19453080799f99167c5e452e93ad2229c3f284a39afdeb15af2d3f24f97b2",
+            "source": "https://github.com/plutobox/ps5-crawl"
+        },
+        {
             "name": "Capy Mobile",
             "filename": "PPSA92280.zip",
             "url": "https://github.com/khalifa007/CapyMobile/releases/download/v0.5.0/CapyMobile-00.005.000.zip",
@@ -844,15 +858,15 @@
         {
             "name": "XPSemu",
             "filename": "PPSA97358.zip",
-            "url": "https://github.com/ZiZc3/XPSemu/releases/download/v3.2/PPSA97358.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA97358/v3.2/PPSA97358.zip",
+            "url": "https://github.com/ZiZc3/XPSemu/releases/download/v3.3/PPSA97358.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA97358/v3.3/PPSA97358.zip",
             "description": "Original Xbox emulator for PS5, based on xemu.",
-            "version": "v3.2",
+            "version": "v3.3",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA97358",
             "author": "AZiZ",
-            "checksum": "a10f6d7c60b30da94544684a8ab1d12f1117dd53471ab44d4dc1e4eb5441f98a",
+            "checksum": "a076f96e391a3c6a8e03bf54995963c15ef0653ef1f67c9ffc96690ef481656b",
             "source": "https://github.com/ZiZc3/XPSemu"
         },
         {

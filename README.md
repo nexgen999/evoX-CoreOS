@@ -154,7 +154,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Fbneo-Ps5 V2.3 | [v2.3](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v2.3/fbneo-ps5_v2.3.elf) | `ffba6ba350fb...` | FBNeo for ps5 |
 | Genplusgxps5 V2.2.1 | [v2.2.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/genplusgxPS5/v2.2.1/genplusgxPS5_v2.2.1.elf) | `30535fdefce4...` | Port of Genesis-Plus-GX for PS55 |
 | Phu-Sandbox.Exit V1.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PHU-Sandbox.Exit/Source-Fixe/PHU-Sandbox.Exit_v1.0.elf) | `228462a0f7fc...` | addon for Markus-PHU Emupack |
-| Ps5-Romm V1.4.0 | [v1.4.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.4.0/ps5-romm_v1.4.0.elf) | `dca8be73920a...` | ps5-romm for ps5 |
+| Ps5-Romm V1.4.1 | [v1.4.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.4.1/ps5-romm_v1.4.1.elf) | `5c8cb6c5bd1b...` | ps5-romm for ps5 |
 | Snes9Xps5 V2.11 | [v2.11](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/snes9xPS5/v2.11/snes9xPS5_v2.11.elf) | `bb3d2fcb5350...` | snes9x emulator |
 
 ### 📂 PS5 Fan
@@ -266,7 +266,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `4ee505071664...` | Connect your Bluetooth controllers to your PS5 console. |
+| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `a129ce4a930f...` | Connect your Bluetooth controllers to your PS5 console. |
 | Fgg-Xsense V1.1 | [1.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
 | Ghost-Toothapi | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | `744277a72a26...` | ghost-toothAPI. |
 | Omnipad-Ps5 V1.0.4-Hotfix1 | [v1.0.4-hotfix1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf) | `00677d6cfac7...` | Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60). |
@@ -337,12 +337,12 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Airpsx V0.19 | [0.19](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/airpsx/0.19/airpsx_v0.19.elf) | `ae025ca7727b...` | AirPSX server tool for PS5 ecosystem. |
 | Elfldr V0.27 | [v0.27](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/elfldr/v0.27/elfldr_v0.27.elf) | `82f622761017...` | ELF Loader utility. Port: 9020 / 9021 |
 | Ftpsrv Drakmor V1.16-Ng-Stable | [1.16-ng-stable](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ftpsrv_drakmor/1.16-ng-stable/ftpsrv_drakmor_v1.16-ng-stable.elf) | `fba508465a8c...` | Drakmor |
-| Ftpsrv Ps5-Payload V0.21.1 | [v0.21.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ftpsrv_ps5-payload/v0.21.1/ftpsrv_ps5-payload_v0.21.1.elf) | `5f00e2df7fa8...` | FTP server background daemon. Port: 21 |
+| Ftpsrv Ps5-Payload V0.22 | [v0.22](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ftpsrv_ps5-payload/v0.22/ftpsrv_ps5-payload_v0.22.elf) | `50a5d2bb188a...` | FTP server background daemon. Port: 21 |
 | Gdbsrv V0.9 | [v0.9](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/gdbsrv/v0.9/gdbsrv_v0.9.elf) | `fc91ea233cdb...` | GDB Debugger server payload. Port: 1234 |
 | Klogsrv V0.9 | [v0.9](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/klogsrv/v0.9/klogsrv_v0.9.elf) | `e828ec144231...` | Kernel log server daemon. Port: 3232 |
-| Ps5-Ezremote-Client V2.19 | [2.19](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.19/ps5-ezremote-client_v2.19.elf) | `eda226e008ef...` | Easy remote client application for PS5. |
+| Ps5-Ezremote-Client V2.20 | [2.20](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.20/ps5-ezremote-client_v2.20.elf) | `eda226e008ef...` | Easy remote client application for PS5. |
 | Ps5-Ezremote-Server V1.13 | [1.13](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.13/ps5-ezremote-server_v1.13.elf) | `0563ed163a92...` | Easy remote server component. Port: 8080 |
-| Ps5Upload V11.6.0 | [v11.6.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v11.6.0/ps5upload_v11.6.0.elf) | `13dca53b2216...` | PS5 Upload server / tool. Port: 9025 |
+| Ps5Upload V12.3.0 | [v12.3.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v12.3.0/ps5upload_v12.3.0.elf) | `68f6baf099d6...` | PS5 Upload server / tool. Port: 9025 |
 | Websrv V0.34 | [v0.34](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/websrv/v0.34/websrv_v0.34.elf) | `54730c867c6e...` | HTTP Web server payload. Port: 8080 |
 | Zftpd-Ps5-V1.7.0 | [v1.7.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-v1.7.0.elf) | `533ef2ea5f56...` | FTP server payload for PS5. Port: 21 |
 | Zftpd-Ps5-Zhttp-V1.7.0 | [v1.7.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf) | `8f78ac0cde64...` | FTP server payload for PS5. Port: 21 |
@@ -454,7 +454,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Ppsa19111 | [v1.3](https://github.com/GordonProsperoMan/xash3d-ps5/releases/download/v1.3/PPSA19111.zip) | `1bb8f143016c...` | Half-Life (Xash3D FWGS) native homebrew port for PS5 |
 | Ppsa42674 | [release](https://github.com/dmzebro/PS5_RPCS3/releases/download/release/PPSA42674.zip) | `f83275f924c4...` | RPCS3 for PS5 |
 | Ppsa50011 | [v1.0.2](https://github.com/BrinooTk/PS5X360/releases/download/v1.0.2/PPSA50011.zip) | `230359c2638f...` | x360 emu for ps5, you need xpsemu_tools.elf |
-| Ppsa97358 | [v3.2](https://github.com/ZiZc3/XPSemu/releases/download/v3.2/PPSA97358.zip) | `a10f6d7c60b3...` | Xbox emulator (Xemu) port for the PS5 |
+| Ppsa97358 | [v3.3](https://github.com/ZiZc3/XPSemu/releases/download/v3.3/PPSA97358.zip) | `a076f96e391a...` | Xbox emulator (Xemu) port for the PS5 |
 | Ppsa99131 | [v1.000.100](https://github.com/tsuramatsu1/psp5/releases/download/v1.000.100/PPSA99131.zip) | `7944efe11211...` | ppsspp for PS5 |
 | Ppsa99300 | [alpha](https://github.com/tsuramatsu1/Vita3K-PS5/releases/download/alpha/PPSA99300.zip) | `bee5db90dd10...` | Vita3K for PS5 |
 | Ppsa99666 | [v1.1.1](https://github.com/lowbit/ps5-doom/releases/download/v1.1.1/PPSA99666.zip) | `4d8e5b785b61...` | Native DOOM for PS5 |
@@ -578,7 +578,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | PSXS5 | SynoPiia | [2.2.0](https://github.com/SynoPiia/PSXS5/releases/download/v2.2.0/PSXS5-v2.2.0.zip) | `8904a734f99e...` | PSXS5 (PlayStation X Super 5): a PlayStation 1 emulator running natively on jailbroken PS5, based on PCSX-ReARMed. Cover-flow shelf, xBR upscaling, RetroAchievements, cheats. |
 | RecompStore | Ripalda | [2.7.4](https://github.com/elripalda/RecompStore/releases/download/v2.7.4/PPSA92000.zip) | `2c7a58ef65d0...` | RecompStore: the free homebrew app store for jailbroken PS5. Installs and updates recompiled game ports, emulators, apps and tools from the console. Bring your own disc. |
 | RetroArch | Mihawk | [4.0.0-beta-4](https://github.com/mihawk-99/PS5_RetroArch/releases/download/v4.0.0-beta-4/PS5_RetroArch-v4.0.0-beta-4.zip) | `dad4f2020444...` | Native RetroArch port for PS5 with cores for NES, SNES, GBA, Genesis, arcade, PSP, GameCube/Wii and PS2. |
-| RommPS | s0liton | [1.4.0](https://github.com/s0liton/RommPS/releases/download/v1.4.0/PPSA76677.zip) | `c870b88e1299...` | Syncs your emulator saves and states with a RomM server and downloads games from your RomM library. |
+| RommPS | s0liton | [1.4.1](https://github.com/s0liton/RommPS/releases/download/v1.4.1/PPSA76677.zip) | `e829034d66fa...` | Syncs your emulator saves and states with a RomM server and downloads games from your RomM library. |
 | Ruffle Flash | AZiZ | [v1.3.0](https://github.com/ZiZc3/Ruffle-Flash-PS5/releases/download/v1.3.0/PPSA68091.zip) | `29ad7ac81979...` | PS5 Port of Ruffle Flash Emulator. |
 | Régie5 | Vivian | [0.8.0](https://github.com/viviandsx/regie5/releases/download/v0.8.0/PPSA99520.zip) | `3375cb2d60a6...` | A TV remote for your self-hosted media stack: Sonarr, Radarr, Seerr and Jellyfin, Emby or Plex at a glance, with request approval, playback diagnosis and an optional cleanup. |
 | Seedee5 | mortaljinx | [1.24](https://github.com/mortaljinx/Seedee5/releases/download/v1.24/Seedee5-1.24.zip) | `2573d8acd4b4...` | A Philips CD-i emulator (SAME_CDI) with a cover-wheel library, NAS support, 4K picture filters and game info; bring your own BIOS and games. |
@@ -599,7 +599,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | VITA5 | StonedModder | [1.0.0](https://github.com/StonedModder/VITA5/releases/download/v1.0.0/PPSA17035.zip) | `d4e23aa6e511...` | Play a PS Vita on the PS5 over one USB cable. |
 | VLC | AZiZ | [0.6.0](https://github.com/ZiZc3/VLC/releases/download/v0.6.0/PPSA85300.zip) | `10267b5df557...` | VLC media player for PS5: videos, music, photos, subtitles, DVD images and more |
 | wiliwili | xfangfang, carlchina | [1.6.0.6](https://github.com/carlchina/wiliwili/releases/download/v1.6.0.6/wiliwili-PS5-v1.6.0.6.zip) | `f45aa1f66205...` | Bilibili client for PS5 with 1080P/4K playback, danmaku and DLNA casting. |
-| XPSemu | AZiZ | [v3.2](https://github.com/ZiZc3/XPSemu/releases/download/v3.2/PPSA97358.zip) | `a10f6d7c60b3...` | Original Xbox emulator for PS5, based on xemu. |
+| XPSemu | AZiZ | [v3.3](https://github.com/ZiZc3/XPSemu/releases/download/v3.3/PPSA97358.zip) | `a076f96e391a...` | Original Xbox emulator for PS5, based on xemu. |
 | YouTube Max’d | HandshakeHackin | [1.6.0](https://github.com/HandshakeHackin/youtube-maxd/releases/download/v1.6.0/PPSA99991.zip) | `3f7a8833e724...` | Standalone PS5 YouTube client based on ProsperoTube, with local voice search, Smart playlists, adaptive quality and red/white DualSense effects. |
 
 ### 📂 Games
@@ -623,13 +623,14 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | ccleste | AngelXex | [1.00](https://github.com/darkxex/PS5_Celeste/releases/download/1.00/PPSA59322.zip) | `96861b81c1fb...` | This is a C source port of the original celeste (Celeste classic) for the PICO-8, designed to be portable. Now you can enjoy the port on your PS5. |
 | Class of '09 | dannyboyjaros | [1.0.1](https://github.com/dannyboyjaros/ps5classof09/releases/download/v1.0.1/PPSA09009.zip) | `b5d3bfdbe7b4...` | Class of '09 - unofficial PS5 homebrew runtime |
 | Class of '09: The Flip Side | dannyboyjaros | [1.0.1](https://github.com/dannyboyjaros/ps5classof09theflipside/releases/download/v1.0.1/PPSA09011.zip) | `27a5f02f0048...` | Unofficial PS5 homebrew runtime for Class of '09: The Flip Side (PPSA09011) |
-| Class of '09: The Re-Up | dannyboyjaros | [1.0.1](https://github.com/dannyboyjaros/ps5classof09thereup/releases/download/v1.0.1/PPSA09010.zip) | `c79e476faee2...` | Class of '09: The Re-Up - unofficial PS5 homebrew runtime |
+| Class of '09: The Re-Up | dannyboyjaros | [1.0.2](https://github.com/dannyboyjaros/ps5classof09thereup/releases/download/v1.0.2/PPSA09010.zip) | `e5d867b523a5...` | Class of '09: The Re-Up - unofficial PS5 homebrew runtime |
 | Cyberworld Endless | Saschb2b | [0.20.0](https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless/releases/download/v0.20.0/cyberworld-endless-ps5.zip) | `4448554da28d...` | A roguelike built on the real Mega Man Battle Network 6, from your own ROM: every run jacks MegaMan into a newly generated net of battles, loot and guardian Navis. |
 | DevilutionX | AngelXex | [ps5-v1.0.0](https://github.com/darkxex/DevilutionXPS5/releases/download/ps5-v1.0.0/DevilutionX-PS5-1.0.0.zip) | `c93ad5500951...` | native PS5 build of DevilutionX, as an installed title (PPSA98514). It is a separate port from the payload one in Packaging/ps5 and does not replace it. |
 | DevilutionX for PlayStation 5 | Gary Riches | [v0.1.0](https://github.com/griches/PS5_DevilutionX/releases/download/v0.1.0/DevilutionX-PS5-v0.1.0.zip) | `1d8a104320dd...` | A PS5 homebrew build of DevilutionX, the source port of Diablo and Hellfire, as an installed title (PPSA99308) with a controller, a keyboard and a mouse. |
 | DK64 Rekongpiled | Samclay8 | [01.000.000](https://github.com/Samclay8/DK64-Rekongpiled-PS5/releases/download/01.000.000/PPSA64064.zip) | `d81b32ae5aea...` | DK64: Rekongpiled ported to the PS5 as native homebrew. |
 | Doom 3 BFG | Gary Riches | [1.0](https://github.com/griches/PS5_Doom3/releases/download/v1.0/Doom3BFG-PS5-v1.0.zip) | `f73a3870839f...` | Doom 3 BFG Edition for PlayStation 5: a homebrew port of RBDoom3BFG on Vulkan (RADV) at 4K, with Doom 3, Resurrection of Evil and The Lost Mission. Bring your own BFG Edition data. |
 | DOOM Native Port | lowbit | [1.1.1](https://github.com/lowbit/ps5-doom/releases/download/v1.1.1/PPSA99666.zip) | `4d8e5b785b61...` | id Software's original DOOM source running natively on the PS5, with the shareware episode. Add your own DOOM, DOOM II and Final DOOM files from a PC or phone browser, a link or FTP. |
+| Dungeon Crawl Stone Soup | DCSS dev team, PS5 port by plutobox | [01.000.000](https://github.com/plutobox/ps5-crawl/releases/download/01.000.000/PPSA92041.zip) | `2db194530807...` | The open-source roguelike Dungeon Crawl Stone Soup, with tiles graphics and controller support. |
 | Dusklight | Gary Riches | [1.0.0](https://github.com/griches/PS5_Dusklight/releases/download/v1.0.0/Dusklight-PS5-v1.0.0.zip) | `343f8829803e...` | Dusklight for PlayStation 5: a homebrew port on RADV (Aurora, Dawn WebGPU, SDL3). Bring your own disc image. |
 | Eternal Darkness | Gary Riches | [0.9.5](https://github.com/griches/PS5_EternalDarkness/releases/download/v0.9.5/EternalDarkness-PS5-0.9.5.zip) | `b467dbd86b2a...` | Eternal Darkness: Sanity's Requiem (GameCube) for PlayStation 5, recompiled to run natively at 4K and up to 120 fps with widescreen and HD texture packs. Bring your own European disc. |
 | FFTARecomp | AngelXex | [ps5-v1.0.0](https://github.com/darkxex/FFTARecomp-PS5/releases/download/ps5-v1.0.0/PPSA98512.zip) | `380a34d5aa9c...` | inal Fantasy Tactics Advance, running natively on your PS5 (no ROM is included). |
@@ -755,6 +756,7 @@ Ce projet agrège et structure le travail des développeurs de la scène PS5 :
 - **CHI-GETSU** : [GETSU SOTF (ProsperoStore)](https://prosperostore.net/app/PPSA99605)
 - **CHI-GETSU** : [GETSU-SAN (ProsperoStore)](https://prosperostore.net/app/PPSA99604)
 - **ChaDea1** : [Raptor: Call of the Shadows (PS5) (ProsperoStore)](https://prosperostore.net/app/PPSA94002)
+- **DCSS dev team, PS5 port by plutobox** : [Dungeon Crawl Stone Soup (ProsperoStore)](https://prosperostore.net/app/PPSA92041)
 - **Darkatek7** : [PS5SD (ProsperoStore)](https://prosperostore.net/app/PPSA99576)
 - **Darkatek7** : [Prospero Themes (ProsperoStore)](https://prosperostore.net/app/PPSA90210)
 - **Darkatek7** : [ProsperoSunshine (ProsperoStore)](https://prosperostore.net/app/PPSA47989)

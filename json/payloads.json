@@ -20,14 +20,14 @@
       "checksum": "0acf4a5edd0443a1540ee509cb1fb16bd4ba6d7533a53bd0992e6eaa76508494"
     },
     {
-      "name": "Ps5-Romm V1.4.0",
-      "filename": "ps5-romm_v1.4.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.4.0/ps5-romm_v1.4.0.elf",
-      "local_path": "payloads/ps5_emulator/ps5-romm/v1.4.0/ps5-romm_v1.4.0.elf",
+      "name": "Ps5-Romm V1.4.1",
+      "filename": "ps5-romm_v1.4.1.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.4.1/ps5-romm_v1.4.1.elf",
+      "local_path": "payloads/ps5_emulator/ps5-romm/v1.4.1/ps5-romm_v1.4.1.elf",
       "description": "ps5-romm for ps5",
-      "version": "v1.4.0",
+      "version": "v1.4.1",
       "category": "PS5 Emulator",
-      "checksum": "dca8be73920a0bbddf25c132619a37ac0e7d9bae31f02410981b9007f16566aa",
+      "checksum": "5c8cb6c5bd1b03c93a72f8a7f31936db337cd4483a38efaa5487c93b0ff60ede",
       "source": "https://github.com/s0liton/ps5-romm/releases"
     },
     {
@@ -461,7 +461,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "4ee50507166449e9e17500779f4349ba5b5bb3f294b1bc748a9cb357f5e1060b",
+      "checksum": "a129ce4a930f9d732b42ccca6d40b2ebf210628211ccf53d9cc850679c874930",
       "source": "https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf"
     },
     {
@@ -1101,14 +1101,14 @@
       "source": "https://github.com/ps5-payload-dev/elfldr/releases"
     },
     {
-      "name": "Ftpsrv Ps5-Payload V0.21.1",
-      "filename": "ftpsrv_ps5-payload_v0.21.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ftpsrv_ps5-payload/v0.21.1/ftpsrv_ps5-payload_v0.21.1.elf",
-      "local_path": "payloads/ps5_server/ftpsrv_ps5-payload/v0.21.1/ftpsrv_ps5-payload_v0.21.1.elf",
+      "name": "Ftpsrv Ps5-Payload V0.22",
+      "filename": "ftpsrv_ps5-payload_v0.22.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ftpsrv_ps5-payload/v0.22/ftpsrv_ps5-payload_v0.22.elf",
+      "local_path": "payloads/ps5_server/ftpsrv_ps5-payload/v0.22/ftpsrv_ps5-payload_v0.22.elf",
       "description": "FTP server background daemon. Port: 21",
-      "version": "v0.21.1",
+      "version": "v0.22",
       "category": "PS5 Server",
-      "checksum": "5f00e2df7fa8ab7daa084343f38394e6672cd389e03fc8598a54d7d9e1d58d16",
+      "checksum": "50a5d2bb188a825eedce13b4d3ca92f5c6c71852f591f1506860fd30d6f45363",
       "source": "https://github.com/ps5-payload-dev/ftpsrv/releases"
     },
     {
@@ -1156,12 +1156,12 @@
       "source": "https://github.com/drakmor/ftpsrv/releases"
     },
     {
-      "name": "Ps5-Ezremote-Client V2.19",
-      "filename": "ps5-ezremote-client_v2.19.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.19/ps5-ezremote-client_v2.19.elf",
-      "local_path": "payloads/ps5_server/ps5-ezremote-client/2.19/ps5-ezremote-client_v2.19.elf",
+      "name": "Ps5-Ezremote-Client V2.20",
+      "filename": "ps5-ezremote-client_v2.20.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.20/ps5-ezremote-client_v2.20.elf",
+      "local_path": "payloads/ps5_server/ps5-ezremote-client/2.20/ps5-ezremote-client_v2.20.elf",
       "description": "Easy remote client application for PS5.",
-      "version": "2.19",
+      "version": "2.20",
       "category": "PS5 Server",
       "checksum": "eda226e008efae5f14bd9e4fb0dd27ee198d1e3b525aa4ab1079e410e66f5e3c",
       "source": "https://github.com/cy33hc/ps5-ezremote-client/releases"

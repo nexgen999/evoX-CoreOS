@@ -3,6 +3,188 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA04610",
+      "title": "Elden Ring",
+      "createdAt": "2026-11-09T13:50:53.164Z",
+      "version": "1.017",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/53ab6dc32a84792b7f63749daa1f29e305569902c7f94feaaa2f0addee4ac388",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/53ab6dc32a84792b7f63749daa1f29e305569902c7f94feaaa2f0addee4ac388",
+      "description": "Format: zstd\nTHE NEW FANTASY ACTION RPG. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between. • A Vast World Full of Excitement A vast world where open fields with a variety of situations and huge dungeons with complex and three-dimensional designs are seamlessly connected. As you explore, the joy of discovering unknown and overwhelming threats await you, leading to a high sense of accomplishment. • Create your Own Character In addition to customizing the appearance of your character, you can freely combine the weapons, armor, and magic that you equip. You can develop your character according to your play style, such as increasing your muscle strength to become a strong warrior, or mastering magic. • An Epic Drama Born from a Myth A multilayered story told in fragments. An epic drama in which the various thoughts of the characters intersect in the Lands Between. • Unique Online Play that Loosely Connects You to Others In addition to multiplayer, where you can directly connect with other players and travel together, the game supports a unique asynchronous online element that allows you to feel the presence of others. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.\nRegion: USA\nFirmware: 3.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nCredits: Thanks to Lineker for submitting this one!\nUpdated: 2026-11-09T13:06:20.890Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/571yTQG7Q8"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/mCD3RxMvty"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/qbzlviXvIt"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/PBfMtsWWz1"
+        },
+        {
+          "name": "zstd · Viki - pt.5",
+          "url": "https://vikingfile.com/f/IJv6ztcDU3"
+        },
+        {
+          "name": "zstd · Viki - pt.6",
+          "url": "https://vikingfile.com/f/qXz8ivqCzH"
+        },
+        {
+          "name": "zstd · Viki - pt.7",
+          "url": "https://vikingfile.com/f/eGUi0ksM99"
+        },
+        {
+          "name": "zstd · Viki - pt.8",
+          "url": "https://vikingfile.com/f/S1hHqEsPbs"
+        },
+        {
+          "name": "zstd · Viki - pt.9",
+          "url": "https://vikingfile.com/f/NUETUWyvTi"
+        },
+        {
+          "name": "zstd · Viki - pt.10",
+          "url": "https://vikingfile.com/f/52Jg72xRHw"
+        }
+      ],
+      "sizeBytes": 96851512525
+    },
+    {
+      "titleId": "PPSA17599",
+      "title": "Clair Obscur Expedition 33",
+      "createdAt": "2026-11-09T12:50:08.122Z",
+      "version": "1.500.300",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/feb390eaf8170c1a2d8b5ea4a327a5948a45f4282ebf8ddd3565309db0742df5",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/3d1416da3a8da54046cba9b1cce2bc4ce0212ef6a1ee4764e87ed56ae604ef39",
+      "description": "Format: zstd\n“Year by year, She erases us.” Once a year, the Paintress wakes and paints upon her monolith. Paints her cursed number. And everyone past that age turns to smoke and fades away. Year by year, that number ticks down and more of us are erased. Tomorrow she’ll wake and paint “33.” And tomorrow we depart on our final mission - Destroy the Paintress, so she can never paint death again. We are Expedition 33. Clair Obscur: Expedition 33 is a ground-breaking turn-based RPG with unique real-time mechanics, making battles more immersive and addictive than ever. Explore a fantasy world inspired by Belle Époque France in which you battle devastating enemies. Reactive Turn-based Combat In this evolution of JRPGs, real-time actions enhance the heart of turn-based combat. Craft unique builds for your Expeditioners that fit your playstyle via gear, stats, skills, and character synergies. Open an active dimension in combat - dodge, parry, and counter in real time, chain combos by mastering attack rhythms, and target enemy weak points using a free aim system. “Tomorrow Comes” With only one year left to live, join Gustave, Maelle, and their fellow Expeditioners as they embark upon a desperate quest to break the Paintress’ cycle of death. Follow the trail of previous expeditions and discover their fate. Get to know the members of Expedition 33 as they learn to work together against impossible odds. A Hauntingly Beautiful World Explore an enchanting realm populated by surreal adversaries. Wander through breathtaking landscapes, from the Island of Visages to the Forgotten Battlefield, discovering secrets and hidden quests along the way. Find allies of fortune in creatures of legend. Recruit special companions to access new travel methods and discover secret areas in the World Map. Experience the debut game from Sandfall Interactive, fully realized in Unreal Engine 5 with stunning graphics and a heartbreaking soundtrack.\nRegion: EUR\nFirmware: 9.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nCredits: Thanks to Jhon Wick (Yupboiii) for this one!\nUpdated: 2026-11-09T12:34:34.617Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/HNWM5NWOE7"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/EATQaN8ocL"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/wfq9uIhVry"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/B6PYQEhifp"
+        },
+        {
+          "name": "zstd · Viki - pt.5",
+          "url": "https://vikingfile.com/f/6lW770fWcg"
+        }
+      ],
+      "sizeBytes": 44775034061
+    },
+    {
+      "titleId": "PPSA28183",
+      "title": "Assassin's Creed Black Flag Resynced",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "1.006.038",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/6995bc03769590ddcee1830505a4dc5cf8c79b5d25c08632b156f69f4f8a6241",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/9acf73ca617df2f09439935051fb62ab80933b5833672170fb94643243a7e5ea",
+      "description": "Format: zstd\nBECOME A FEARSOME PIRATE Strike fear in your foes as you board and sink enemy vessels as Edward Kenway, captain of the Jackdaw. Whether blending into crowds or leading daring assaults, switch between silent takedowns and fierce brawls as you effortlessly wield swords, pistols, and the Hidden Blade. With a cast of historical pirate legends at your side, defy empires amidst the age-old conflict opposing Assassins and Templars. A CLASSIC REBUILT FOR AN ENHANCED EXPERIENCE Combat has been rebuilt for more dynamic encounters, emphasizing parries and takedowns, while stealth and parkour have been improved for smoother escapes and assassinations. Continuously upgrade the Jackdaw to face powerful enemy ships with enhanced naval mechanics featuring new alternate fire modes. Quality-of-life additions also address previous pain points, ensuring your experience is improved. THE CARIBBEAN LIKE NEVER BEFORE Whether you’re sailing the open seas or journeying across untamed lands, discover a seamless open world built with the latest Anvil engine. Take in sweeping vistas as you brave stormy waters, dive into underwater shipwrecks, or push through dense tropical jungles. Enhanced by features such as Dolby Atmos and ray tracing, every scene feels more immersive, bringing the world’s beauty to life. EXPANDING EDWARD’S ADVENTURE Building on top of the original story, Assassin’s Creed Black Flag Resynced introduces exclusive new content. Familiar faces will return, with new storylines dedicated to fan-favorite characters such as Blackbeard and Stede Bonnet. Unexpected allies will also cross your path, as three officers join you on your journey as part of the main narrative. More surprises await such as new sea shanties, pets, a photo mode, and more. Internet connection, Ubisoft Account and PlayStation™Network account required to access online features.\nRegion: EUR\nFirmware: 12.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nCredits: Thanks to abdo_jil for this one!\nUpdated: 2026-11-09T12:31:51.027Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/eUHaHiJOgy"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/VRjlkxBTQQ"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/31Yoq6AoU4"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/V6jc39yNoM"
+        },
+        {
+          "name": "zstd · Viki - pt.5",
+          "url": "https://vikingfile.com/f/WSVgwLxZNP"
+        },
+        {
+          "name": "zstd · Viki - pt.6",
+          "url": "https://vikingfile.com/f/4rxTcX5PTC"
+        },
+        {
+          "name": "zstd · Viki - pt.7",
+          "url": "https://vikingfile.com/f/phi918xaZg"
+        }
+      ],
+      "sizeBytes": 70544837837
+    },
+    {
+      "titleId": "PPSA27836",
+      "title": "Onimusha Way of the Sword",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "1.000.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/5968b7e17c68278572e376260490ed13bdaedafcbfcafef8d9b308a7aa54b968",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/ddd4bdde4a674e42db85d017de8a875a148a3dd31051e0ff422e94a837f6c5a2",
+      "description": "Format: zstd\nAn all-new entry in the Onimusha series! Fight through bloodstained battlefields of intense swordplay action. Explore the historic Japanese capital of Edo-period Kyoto, twisted by malevolent clouds of Malice. With every stage cloaked in mystery, danger and intrigue. Battle against monstrosities from the underworld known as Genma in a tale of dark fantasy. Follow the tale of a samurai who wields the Oni Gauntlet, a mystical artifact that grants its bearer the power to slay Genma. Through gritty, blood-soaked brawls, he searches for his reason to fight. What fate awaits at the end of his path? The Protagonist, Miyamoto Musashi An ardent samurai who arrives in Kyoto looking to prove that he is unmatched in the way of the sword. However, the path before him takes a strange and unexpected turn. The protagonist of this game is a fierce young samurai, constantly moving from one bloody and gritty fight to the next. To cement this image of a striking samurai, Capcom has turned to none other than the late, iconic Japanese samurai movie legend Toshiro Mifune to star as the face model for this rendition of Miyamoto Musashi. Action Equipped with an Oni Gauntlet, Musashi is granted power beyond human limits. Besides giving him the strength needed to cut down the Genma, it also holds numerous other abilities, such as being able to absorb Genma souls and convert them into a power source to further enhance its wearer. But who is behind the voice that rings out from the gauntlet? Genma Usually found dwelling in the lowest depths of hell, the Malice enveloping Kyoto has brought these fiends into the world of the living. Their ceaseless atrocities have plunged the capital into a state of dread and panic. Formidable Foes In his battle against the Genma threat, Musashi will face powerful opponents whose martial prowess rivals his own. Will he triumph, or die trying? Bloody duels to the death await in the capital. Setting The game is set in Kyoto, home to countless shrines and temples, such as Kiyomizu-dera Temple. Twisted by Malice, the face of the capital starts to take on an eerie and foreboding appearance. Agreement to the End User License Agreement is required to play this title. (https://manual.capcom.com/eula/game/) *This content is also available as part of one or more bundles. Please check your previous purchases to avoid duplication.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nCredits: Thanks to lori for this one!\nUpdated: 2026-11-09T12:29:03.948Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/SBEVY9Ezvo"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/e36wN4p5z7"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/TGIXwraUpE"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/rcG98s1a98"
+        },
+        {
+          "name": "zstd · Viki - pt.5",
+          "url": "https://vikingfile.com/f/P8jPssbRtE"
+        }
+      ],
+      "sizeBytes": 45311904973
+    },
+    {
+      "titleId": "PPSA01575",
+      "title": "Avatar: Frontiers of Pandora™",
+      "createdAt": "2026-10-30T22:38:21.178Z",
+      "version": "01.020",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/688e8a4223cc74fdb81257b4404da7f63e5219553f58f923a902497536b7593f",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/2c659002042de255cefc995c314e4bdf8e0f4c255f966b541aaccd586c4d470f",
+      "description": "Format: Arabic FPKG\nAvatar: Frontiers of Pandora™ is a first-person, action-adventure game set in the open world of the never-before-seen Western Frontier of Pandora. Abducted by the human militaristic corporation known as the RDA, you, a Na’vi, were trained and molded to serve their purpose. Fifteen years later, you are free, but find yourself a stranger in your birthplace. Reconnect with your lost heritage, discover what it truly means to be Na’vi, and join other clans to protect Pandora from the RDA.\nRegion: EUR\nFirmware: 4.xx+\nCredits: Oussama; thanks to akuma for the arabic files and Oussama for the fpkg file.\nUpdated: 2026-11-09T12:09:55.101Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Arabic FPKG · Viki",
+          "url": "https://vikingfile.com/f/in5QYGhzvK"
+        }
+      ],
+      "sizeBytes": 147102629888
+    },
+    {
       "titleId": "PPSA23566",
       "title": "UFC 6",
       "createdAt": "2026-11-09T01:33:57.923Z",

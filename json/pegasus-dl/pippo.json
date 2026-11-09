@@ -3,6 +3,188 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA30896",
+      "title": "Death Howl",
+      "createdAt": "2026-11-09T11:48:42.429Z",
+      "version": "v01.000.004",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/28fb0b099d7f015ae3d17324cdd97121aeffcfe54c91d6b27e81651e4a279efb",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/7a921ffab6604d4f99158ffa6594578f4eb4242baa3b4bae6782dcfdda491387",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA30896, v01.000.004, USA, 4.xx BackPort\nSize: 3GB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/fbzzx6nx3s5s/PPSA30896.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/9jekdnq6b0ko/PPSA30896.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/2WVGrWJQqmkx/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/JEw2HUfSZe"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/EL73gkVjj39B/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/zObj84KVXg"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/5y7n5u5j7s74/PPSA30896-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/aereudg3trtk/PPSA30896-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 3221225472
+    },
+    {
+      "titleId": "PPSA30552",
+      "title": "A Game About Digging A Hole",
+      "createdAt": "2026-11-09T11:48:42.429Z",
+      "version": "v01.100",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA30552_04718fa11aa447c3f967e1ff90a079e06bfc8e1a9f18f1ddb60a256dc9bcf72f/icon0.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA30552, v01.100, EUR, 4.xx BackPort\nSize: 970MB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/y9cy178oq1vu/PPSA30552.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/r6qzhkt5dcw9/PPSA30552.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/M2BGwLbwkmj4/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/UP4Siv3Dr1"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/vgKGx7koVz8Q/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/J31XBW2PeM"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/9c09zo0obc1m/PPSA30552-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/o4sz6f5jnbx6/PPSA30552-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 1017118720
+    },
+    {
+      "titleId": "PPSA30454",
+      "title": "Achilles Survivor",
+      "createdAt": "2026-11-09T11:48:42.429Z",
+      "version": "v01.007",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA30454_080246e6a54f48310c80139fb7470ed958ecd8f0830b7eb9beefe741bb6c99d9/icon0.webp",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA30454, v01.007, USA, 4.xx BackPort\nSize: 12GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPorts Folder included. About FPKG: 5.xx BackPort already included on Base, 4.xx BackPort Only &amp; Original Files PKG included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/xwd4mwrr9n77/PPSA30454.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/uy7fzx2h0sr2/PPSA30454.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/RMKGJWdkwm1o/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/5TRhJ3T8as"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/b5Ozdk7Rp3B8/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/koJamoG8RK"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/19x21y9okx3v/PPSA30454-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/u3sjtnoqs8sa/PPSA30454-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 12884901888
+    },
+    {
+      "titleId": "PPSA16626",
+      "title": "Achilles Legends Untold",
+      "createdAt": "2026-11-09T11:48:42.429Z",
+      "version": "v01.014",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e8926bef7cfdfbd56d4ce1efe0a99c9cba03832cd2974e3275be56ee0bac219a",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/ad26810c822d7c29079f35864772e181a0d71a35656b252fb3e4d038120c6bc0",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA16626, v01.014, EUR, 4.xx BackPort\nSize: 29GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 9.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/r42ug5eqnr99/PPSA16626.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/aln889i4obl9/PPSA16626.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/Pbe3PeRMezlX/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/AT7NyzO3IP"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/0Kezk0vY1GD1/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/ULaZhQnEt9"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/zirxmkd8xgyc/PPSA16626-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/vv54a33cxogn/PPSA16626-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 31138512896
+    },
+    {
       "titleId": "PPSA38510",
       "title": "The Walking Dead Streets of Survival Deluxe Edition",
       "createdAt": "2026-11-08T10:19:15.798Z",
@@ -3088,7 +3270,7 @@
       "createdAt": "2026-10-24T11:19:19.286Z",
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Sonic_the_Hedgehog_2006.webp",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/Library_Saves_1/Sonic_the_Hedgehog_2006.webp",
       "description": "Builds: Dump, Fpkg\nTags: PPSA99903, v01.000, USA, 4.xx and beyond\nSize: 5GB\nCredits: Files: Nazky\nHow to play: Use ShadowMountPlus 1.7beta4+. FPKG atm is only working up to 11.60, use Dump if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
@@ -3448,7 +3630,7 @@
       "createdAt": "2026-10-22T13:19:19.021Z",
       "version": "v01.000",
       "category": "game",
-      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/GH5_Port.jpg",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/Library_Saves_2/GH5_Port.jpg",
       "description": "Builds: Dump, Fpkg\nTags: PPSA99305, v01.000, USA, 4.xx and beyond\nSize: 5GB\nCredits: Files: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
@@ -8068,7 +8250,7 @@
       "createdAt": "2026-10-16T21:48:35.923Z",
       "version": "v01.003",
       "category": "game",
-      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Sonic_Unleashed_Recompiled.jpg",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/Library_Saves_1/Sonic_Unleashed_Recompiled.jpg",
       "description": "Builds: Dump, Fpkg\nTags: PPSA99902, v01.003, USA, 4.xx and beyond\nSize: 9GB\nCredits: Files: Nazky\nHow to play: FPKG atm is only working up to 11.60, use exFAT / Dump if you are above. Saves has been fixed, use ShadowMountPlus 1.7beta4+ for FPKG / exFAT.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
@@ -18730,7 +18912,7 @@
       "createdAt": "2026-10-16T21:48:35.923Z",
       "version": "v01.007",
       "category": "game",
-      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/exFAT/Ed_0_Zombie_Uprising.avif",
+      "posterUrl": "https://raw.githubusercontent.com/Pippo26442999/decode-encode/refs/heads/main/Library%20Images/Library_Saves_2/Ed_0_Zombie_Uprising.avif",
       "description": "Tags: PPSA22711, v01.007, JPN, 4.xx BackPort\nSize: 16GB\nCredits: Files: High-Speed007; Backport: DecKerr97",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [

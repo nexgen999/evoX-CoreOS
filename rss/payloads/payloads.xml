@@ -17,10 +17,10 @@
       <pubDate>genplusgxPS5</pubDate>
     </item>
     <item>
-      <title>Ps5-Romm V1.4.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.4.0/ps5-romm_v1.4.0.elf</link>
+      <title>Ps5-Romm V1.4.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.4.1/ps5-romm_v1.4.1.elf</link>
       <description>ps5-romm for ps5</description>
-      <pubDate>v1.4.0</pubDate>
+      <pubDate>v1.4.1</pubDate>
     </item>
     <item>
       <title>Fbneo-Ps5 V2.3</title>
@@ -611,10 +611,10 @@
       <pubDate>v0.27</pubDate>
     </item>
     <item>
-      <title>Ftpsrv Ps5-Payload V0.21.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ftpsrv_ps5-payload/v0.21.1/ftpsrv_ps5-payload_v0.21.1.elf</link>
+      <title>Ftpsrv Ps5-Payload V0.22</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ftpsrv_ps5-payload/v0.22/ftpsrv_ps5-payload_v0.22.elf</link>
       <description>FTP server background daemon. Port: 21</description>
-      <pubDate>v0.21.1</pubDate>
+      <pubDate>v0.22</pubDate>
     </item>
     <item>
       <title>Websrv V0.34</title>
@@ -641,10 +641,10 @@
       <pubDate>1.16-ng-stable</pubDate>
     </item>
     <item>
-      <title>Ps5-Ezremote-Client V2.19</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.19/ps5-ezremote-client_v2.19.elf</link>
+      <title>Ps5-Ezremote-Client V2.20</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.20/ps5-ezremote-client_v2.20.elf</link>
       <description>Easy remote client application for PS5.</description>
-      <pubDate>2.19</pubDate>
+      <pubDate>2.20</pubDate>
     </item>
     <item>
       <title>Ps5-Ezremote-Server V1.13</title>

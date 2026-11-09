@@ -60,15 +60,15 @@
     {
       "name": "Class of '09: The Re-Up",
       "filename": "PPSA09010.zip",
-      "url": "https://github.com/dannyboyjaros/ps5classof09thereup/releases/download/v1.0.1/PPSA09010.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA09010/1.0.1/PPSA09010.zip",
+      "url": "https://github.com/dannyboyjaros/ps5classof09thereup/releases/download/v1.0.2/PPSA09010.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA09010/1.0.2/PPSA09010.zip",
       "description": "Class of '09: The Re-Up - unofficial PS5 homebrew runtime",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA09010",
       "author": "dannyboyjaros",
-      "checksum": "c79e476faee262c487ae5726deadf65db3a4af77d0d228228f7a9a6030ae086d",
+      "checksum": "e5d867b523a5df3f710621456924b77ea1540cf82053e24ac548d115a2eb873b",
       "source": "https://github.com/dannyboyjaros/ps5classof09thereup"
     },
     {
@@ -420,6 +420,20 @@
       "author": "bystritskiy",
       "checksum": "2f63e29b657f262fea5f40d183fca7749961142c3ea82d1758016c023456e475",
       "source": "https://github.com/bystritskiy/xerenge-ps5"
+    },
+    {
+      "name": "Dungeon Crawl Stone Soup",
+      "filename": "PPSA92041.zip",
+      "url": "https://github.com/plutobox/ps5-crawl/releases/download/01.000.000/PPSA92041.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA92041/01.000.000/PPSA92041.zip",
+      "description": "The open-source roguelike Dungeon Crawl Stone Soup, with tiles graphics and controller support.",
+      "version": "01.000.000",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA92041",
+      "author": "DCSS dev team, PS5 port by plutobox",
+      "checksum": "2db19453080799f99167c5e452e93ad2229c3f284a39afdeb15af2d3f24f97b2",
+      "source": "https://github.com/plutobox/ps5-crawl"
     },
     {
       "name": "Shining Force III",

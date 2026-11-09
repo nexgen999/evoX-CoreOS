@@ -256,15 +256,15 @@
     {
       "name": "RommPS",
       "filename": "PPSA76677.zip",
-      "url": "https://github.com/s0liton/RommPS/releases/download/v1.4.0/PPSA76677.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA76677/1.4.0/PPSA76677.zip",
+      "url": "https://github.com/s0liton/RommPS/releases/download/v1.4.1/PPSA76677.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA76677/1.4.1/PPSA76677.zip",
       "description": "Syncs your emulator saves and states with a RomM server and downloads games from your RomM library.",
-      "version": "1.4.0",
+      "version": "1.4.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA76677",
       "author": "s0liton",
-      "checksum": "c870b88e1299bd6f24ccc0b82a0e1bf0333d0091ec60519ec7480a686ba257fe",
+      "checksum": "e829034d66fae048c221580d2998f86380866bcfd33d80cdbbf754315ef1fbc0",
       "source": "https://github.com/s0liton/RommPS"
     },
     {
@@ -354,15 +354,15 @@
     {
       "name": "XPSemu",
       "filename": "PPSA97358.zip",
-      "url": "https://github.com/ZiZc3/XPSemu/releases/download/v3.2/PPSA97358.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA97358/v3.2/PPSA97358.zip",
+      "url": "https://github.com/ZiZc3/XPSemu/releases/download/v3.3/PPSA97358.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA97358/v3.3/PPSA97358.zip",
       "description": "Original Xbox emulator for PS5, based on xemu.",
-      "version": "v3.2",
+      "version": "v3.3",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA97358",
       "author": "AZiZ",
-      "checksum": "a10f6d7c60b30da94544684a8ab1d12f1117dd53471ab44d4dc1e4eb5441f98a",
+      "checksum": "a076f96e391a3c6a8e03bf54995963c15ef0653ef1f67c9ffc96690ef481656b",
       "source": "https://github.com/ZiZc3/XPSemu"
     },
     {
