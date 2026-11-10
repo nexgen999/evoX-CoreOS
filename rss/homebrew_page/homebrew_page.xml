@@ -20,7 +20,7 @@
       <title>Playden</title>
       <link>https://github.com/leolobato/playden-ps5</link>
       <description>Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.</description>
-      <pubDate>0.11.0-beta.2</pubDate>
+      <pubDate>0.11.0-beta.3</pubDate>
     </item>
     <item>
       <title>PS5Term</title>
@@ -33,6 +33,12 @@
       <link>https://github.com/youss17x/Forgotten-Warrior-PS5</link>
       <description>Native PS5 port of the J2ME platformer Forgotten Warrior with DualSense controls and 4K output. Requires your own copy of the original game.</description>
       <pubDate>1.3.0</pubDate>
+    </item>
+    <item>
+      <title>Navi5</title>
+      <link>https://github.com/willindiana/navi5</link>
+      <description>Navidrome/OpenSubsonic music client for jailbroken PS5, featuring a minimalist liquid-glass UI, artist, album and playlist browsing, search, and gapless playback.</description>
+      <pubDate>v0.8.0-beta.1</pubDate>
     </item>
     <item>
       <title>OliSe Player</title>
@@ -68,7 +74,7 @@
       <title>PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.</description>
-      <pubDate>2.3.7</pubDate>
+      <pubDate>2.3.9</pubDate>
     </item>
     <item>
       <title>Home5</title>
@@ -194,7 +200,7 @@
       <title>PayLoader</title>
       <link>https://github.com/Marice/ps5-payloader</link>
       <description>A controller front-end for Payload Manager (pldmgr), which it brings: start, install and update payloads, edit your boot chain with a USB safety net, and install the Signal suite.</description>
-      <pubDate>00.001.002</pubDate>
+      <pubDate>00.001.003</pubDate>
     </item>
     <item>
       <title>Ruffle Flash</title>
@@ -254,7 +260,7 @@
       <title>osu!</title>
       <link>https://github.com/actuallyssstaris/ProjectCadence</link>
       <description>osu!standard running natively on a jailbroken PS5</description>
-      <pubDate>2.0.0</pubDate>
+      <pubDate>2.1.5</pubDate>
     </item>
     <item>
       <title>Stremio Plus</title>
@@ -302,7 +308,7 @@
       <title>VLC</title>
       <link>https://github.com/ZiZc3/VLC</link>
       <description>VLC media player for PS5: videos, music, photos, subtitles, DVD images and more</description>
-      <pubDate>0.6.0</pubDate>
+      <pubDate>0.6.1</pubDate>
     </item>
     <item>
       <title>Prospero Themes</title>
@@ -338,13 +344,13 @@
       <title>Dungeon Crawl Stone Soup</title>
       <link>https://github.com/plutobox/ps5-crawl</link>
       <description>The open-source roguelike Dungeon Crawl Stone Soup, with tiles graphics and controller support.</description>
-      <pubDate>01.000.001</pubDate>
+      <pubDate>01.001.000</pubDate>
     </item>
     <item>
       <title>NetHack</title>
       <link>https://github.com/plutobox/ps5-NetHack</link>
       <description>The classic open-source roguelike NetHack 5.0, played with the DualSense: button menus, a hint bar and the system keyboard.</description>
-      <pubDate>01.000.001</pubDate>
+      <pubDate>01.001.000</pubDate>
     </item>
     <item>
       <title>Capy Mobile</title>
@@ -386,7 +392,7 @@
       <title>XPSemu</title>
       <link>https://github.com/ZiZc3/XPSemu</link>
       <description>Original Xbox emulator for PS5, based on xemu.</description>
-      <pubDate>v3.3</pubDate>
+      <pubDate>v3.4</pubDate>
     </item>
     <item>
       <title>PSXS5</title>
@@ -500,7 +506,7 @@
       <title>PS5_Lichii</title>
       <link>https://github.com/mihawk-99/PS5_Lichii</link>
       <description>Experimental NS2 Emulator for the PS5</description>
-      <pubDate>1.10.00</pubDate>
+      <pubDate>1.20.00</pubDate>
     </item>
     <item>
       <title>vkQuake</title>
@@ -512,7 +518,7 @@
       <title>Media Player Classic PS5</title>
       <link>https://github.com/MisterTemaki/MediaPlayerClassicPS5</link>
       <description>Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.</description>
-      <pubDate>1.6.0</pubDate>
+      <pubDate>1.6.1</pubDate>
     </item>
     <item>
       <title>ProsperoEden (Mirror)</title>
@@ -704,7 +710,7 @@
       <title>OGBox</title>
       <link>https://github.com/Press5elect/OGBox</link>
       <description>XBOX emulator for PS5</description>
-      <pubDate>0.0.7</pubDate>
+      <pubDate>0.0.8</pubDate>
     </item>
     <item>
       <title>PS5 Browser</title>
@@ -716,7 +722,7 @@
       <title>BattleShip Remix</title>
       <link>https://github.com/lucasliet/BattleShip-remix</link>
       <description>Native PS5 port of Smash Remix, the Super Smash Bros. 64 mod, built on the SSB64 decompilation and libultraship. Bring your own Smash Remix ROM.</description>
-      <pubDate>v2.0.1-port.9</pubDate>
+      <pubDate>v2.0.1-port.10</pubDate>
     </item>
     <item>
       <title>Prospero Hi-Fi</title>
@@ -728,7 +734,7 @@
       <title>Nuvio Max'd</title>
       <link>https://github.com/HandshakeHackin/Nuvio-maxd-releases</link>
       <description>Experimental Nuvio Max'd test build for PS5 with playback source switching, live subtitle controls, audio sync steps and optional time-grid EPG, plus profiles, IPTV and media servers.</description>
-      <pubDate>1.0.0.14-native-experimental</pubDate>
+      <pubDate>1.0.0.16-native-experimental</pubDate>
     </item>
     <item>
       <title>Spider-Man: Edge of Time</title>
@@ -872,7 +878,7 @@
       <title>Halo: Combat Evolved</title>
       <link>https://github.com/thelinkin3000/SlipstreamCE</link>
       <description>Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.</description>
-      <pubDate>build-140</pubDate>
+      <pubDate>build-141</pubDate>
     </item>
     <item>
       <title>Jelly5</title>
@@ -897,6 +903,12 @@
       <link>https://github.com/viviandsx/regie5</link>
       <description>A TV remote for your self-hosted media stack: Sonarr, Radarr, Seerr and Jellyfin, Emby or Plex at a glance, with request approval, playback diagnosis and an optional cleanup.</description>
       <pubDate>0.8.0</pubDate>
+    </item>
+    <item>
+      <title>Tekken Tag Tournament 2</title>
+      <link>https://github.com/PrimetimeFluff/tekken-tag-tournament2-ps5</link>
+      <description>Tekken Tag Tournament 2 for PS5</description>
+      <pubDate>01.000.059</pubDate>
     </item>
     <item>
       <title>isShelf</title>
@@ -944,7 +956,7 @@
       <title>Alembic</title>
       <link>https://github.com/fthdgn-gh/Alembic</link>
       <description>Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC, also on SMB, NFS, WebDAV and FTP servers.</description>
-      <pubDate>0.6.2</pubDate>
+      <pubDate>0.6.3</pubDate>
     </item>
     <item>
       <title>Cloud Play</title>
@@ -1103,6 +1115,12 @@
       <pubDate>0.1.1</pubDate>
     </item>
     <item>
+      <title>Boxshelf PS5</title>
+      <link>https://github.com/kauansilvalopes/boxshelf-ps5</link>
+      <description>Needs Elf Arsenal running. A native PS5 port of Boxshelf's 3D game shelf: one tab per platform, real box art and your emulator libraries. EN/PT/ES.</description>
+      <pubDate>ps5-v0.1.0</pubDate>
+    </item>
+    <item>
       <title>ProsperoCraft</title>
       <link>https://github.com/mateo-cogeanu/ProsperoCraft</link>
       <description>Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.</description>
@@ -1130,7 +1148,7 @@
       <title>FBNeo PS5</title>
       <link>https://github.com/MisterTemaki/fbneo-ps5</link>
       <description>FinalBurn Neo (arcade) as a native PS5 app.</description>
-      <pubDate>v2.3</pubDate>
+      <pubDate>v2.4</pubDate>
     </item>
     <item>
       <title>Beetle PCE PS5</title>
@@ -1178,7 +1196,7 @@
       <title>Nuvio Pro</title>
       <link>https://github.com/speed-y/nuvio-pro-ps5</link>
       <description>Nuvio Pro is a controller-first streaming app for jailbroken PS5s, with EVO Player playback, PS5 keyboard search, profiles and resume support. The console hosts its own UI. Tested on firmware 12.70.</description>
-      <pubDate>0.1.0-alpha.7</pubDate>
+      <pubDate>0.2.0-alpha.1</pubDate>
     </item>
     <item>
       <title>Nuvio PS5</title>

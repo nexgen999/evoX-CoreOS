@@ -3,6 +3,100 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA24263",
+      "title": "Call of Duty Modern Warfare 3",
+      "createdAt": "2026-11-10T20:28:39.958Z",
+      "version": "v01.004",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/bd69b58cfecbbae9eced728b3e6039d8196ebc92b74d984c0972ce49c4401f2c",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/3581e134e0eddc39ec30a07998890548fa8acb0abc354071890625308ddeb7ab",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA24263, v01.004, USA, DLCs Merged, 4.xx BackPort\nSize: 466GB\nCredits: Files: High-Speed007 &amp; zhm86; Backport: DecKerr97 GUI; DLC: High-Speed007 &amp; zhm86\nHow to play: Campaign + Multiplayer with all DLCs included. FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes - Part 1",
+          "url": "https://datanodes.to/k7nfkkbc4rim/PPSA24263.7z.001"
+        },
+        {
+          "name": "Dump - DataNodes - Part 2",
+          "url": "https://datanodes.to/ji13vg85haie/PPSA24263.7z.002"
+        },
+        {
+          "name": "Dump - DataNodes - Part 3",
+          "url": "https://datanodes.to/ru6le96c2amx/PPSA24263.7z.003"
+        },
+        {
+          "name": "Dump - DataNodes - Part 4",
+          "url": "https://datanodes.to/0wyaj1yudn6a/PPSA24263.7z.004"
+        },
+        {
+          "name": "Dump - DataNodes - Part 5",
+          "url": "https://datanodes.to/xrs1fnzuesu9/PPSA24263.7z.005"
+        },
+        {
+          "name": "Dump - AkiraBox - Part 1",
+          "url": "https://akirabox.to/vgKGx71D2z8Q/file"
+        },
+        {
+          "name": "Dump - AkiraBox - Part 2",
+          "url": "https://akirabox.to/N2p3DdRqn3Ma/file"
+        },
+        {
+          "name": "Dump - AkiraBox - Part 3",
+          "url": "https://akirabox.to/0rpmv106wGRg/file"
+        },
+        {
+          "name": "Dump - AkiraBox - Part 4",
+          "url": "https://akirabox.to/M2BGwL9ONmj4/file"
+        },
+        {
+          "name": "Dump - AkiraBox - Part 5",
+          "url": "https://akirabox.to/0PdzyM8vMzeA/file"
+        },
+        {
+          "name": "Fpkg - AkiraBox - Part 1",
+          "url": "https://akirabox.to/ZvqzlpbA6zaD/file"
+        },
+        {
+          "name": "Fpkg - AkiraBox - Part 2",
+          "url": "https://akirabox.to/2WVGrWA14mkx/file"
+        },
+        {
+          "name": "Fpkg - AkiraBox - Part 3",
+          "url": "https://akirabox.to/EL73gkJ6E39B/file"
+        },
+        {
+          "name": "Fpkg - AkiraBox - Part 4",
+          "url": "https://akirabox.to/qLQ36Xv4wG19/file"
+        },
+        {
+          "name": "Fpkg - AkiraBox - Part 5",
+          "url": "https://akirabox.to/5pVzNol00G7w/file"
+        },
+        {
+          "name": "Fpkg - DataNodes - Part 1",
+          "url": "https://datanodes.to/av7uqta8arb0/PPSA24263-Compressed.7z.001"
+        },
+        {
+          "name": "Fpkg - DataNodes - Part 2",
+          "url": "https://datanodes.to/smj5lsi13kve/PPSA24263-Compressed.7z.002"
+        },
+        {
+          "name": "Fpkg - DataNodes - Part 3",
+          "url": "https://datanodes.to/9soihmdiq2on/PPSA24263-Compressed.7z.003"
+        },
+        {
+          "name": "Fpkg - DataNodes - Part 4",
+          "url": "https://datanodes.to/pgxg138fw2uo/PPSA24263-Compressed.7z.004"
+        },
+        {
+          "name": "Fpkg - DataNodes - Part 5",
+          "url": "https://datanodes.to/j216d736z5pu/PPSA24263-Compressed.7z.005"
+        }
+      ],
+      "sizeBytes": 500363689984
+    },
+    {
       "titleId": "PPSA32559",
       "title": "Abyssus Brine Edition",
       "createdAt": "2026-11-10T10:16:56.226Z",
@@ -17644,60 +17738,6 @@
         }
       ],
       "sizeBytes": 12884901888
-    },
-    {
-      "titleId": "PPSA01649",
-      "title": "Call of Duty Modern Warfare 3",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "version": "v01.055",
-      "category": "game",
-      "posterUrl": "https://pegasus-dl.dev/api/posters/e677dd6f28a08ccdab03cfa4d213cd2fe22dd1928b13ba1c3fe5014ed0079109",
-      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/b2081da46e51d322432d4e1b18e5a5e53249e28b9f5f41aa00090f454872ce2e",
-      "description": "Builds: Standard 9.xx, 4.xx BackPort\nTags: PPSA01649, v01.055, USA, DLCs Merged, Standard (9.xx) + 4.xx BackPort\nSize: 256GB\nCredits: Files: High-Speed007; Backport: DecKerr97; DLC: High-Speed007\nHow to play: There is issue with campaign not launch. How to fix first: make sure turn off internet in network settings then launch game and choose offline mode and go to campaign MW3. You need keep press X few times to launch Campaign.",
-      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
-      "downloadLinks": [
-        {
-          "name": "Standard 9.xx - AkiraBox",
-          "url": "https://akirabox.com/jJD3VDWWaGa5/file"
-        },
-        {
-          "name": "Standard 9.xx - VikingFile",
-          "url": "https://vikingfile.com/f/SWQjvCe7ZS"
-        },
-        {
-          "name": "Standard 9.xx - DataNodes",
-          "url": "https://datanodes.to/vyyj4ozmgagc"
-        },
-        {
-          "name": "Standard 9.xx - Filek",
-          "url": "https://filekeeper.net/652coi2x0kru"
-        },
-        {
-          "name": "Standard 9.xx - Vault",
-          "url": "https://datavaults.co/b4hfs8p0pz3v"
-        },
-        {
-          "name": "4.xx BackPort - AkiraBox",
-          "url": "https://akirabox.to/gXeGOAbqA3Aa/file"
-        },
-        {
-          "name": "4.xx BackPort - VikingFile",
-          "url": "https://vikingfile.com/f/U48ns21DSO"
-        },
-        {
-          "name": "4.xx BackPort - DataNodes",
-          "url": "https://datanodes.to/lpudu0tfoh5w"
-        },
-        {
-          "name": "4.xx BackPort - Filek",
-          "url": "https://filekeeper.net/7np4s9lrmf44"
-        },
-        {
-          "name": "4.xx BackPort - Vault",
-          "url": "https://datavaults.co/9ebdk4xdfysj"
-        }
-      ],
-      "sizeBytes": 274877906944
     },
     {
       "titleId": "PPSA26785",

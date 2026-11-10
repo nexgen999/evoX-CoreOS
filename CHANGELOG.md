@@ -1,5 +1,28 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 10/11/2026 à 23:09
+* **HOMEBREW_PAGE**
+  * `Playden` (0.11.0-beta.3) - *Mise à jour (Précédent: 0.11.0-beta.2)*
+  * `Navi5` (v0.8.0-beta.1) - *Nouveau*
+  * `PC5` (2.3.9) - *Mise à jour (Précédent: 2.3.7)*
+  * `PayLoader` (00.001.003) - *Mise à jour (Précédent: 00.001.002)*
+  * `osu!` (2.1.5) - *Mise à jour (Précédent: 2.0.0)*
+  * `VLC` (0.6.1) - *Mise à jour (Précédent: 0.6.0)*
+  * `Dungeon Crawl Stone Soup` (01.001.000) - *Mise à jour (Précédent: 01.000.001)*
+  * `NetHack` (01.001.000) - *Mise à jour (Précédent: 01.000.001)*
+  * `XPSemu` (v3.4) - *Mise à jour (Précédent: v3.3)*
+  * `PS5_Lichii` (1.20.00) - *Mise à jour (Précédent: 1.10.00)*
+  * `Media Player Classic PS5` (1.6.1) - *Mise à jour (Précédent: 1.6.0)*
+  * `OGBox` (0.0.8) - *Mise à jour (Précédent: 0.0.7)*
+  * `BattleShip Remix` (v2.0.1-port.10) - *Mise à jour (Précédent: v2.0.1-port.9)*
+  * `Nuvio Max'd` (1.0.0.16-native-experimental) - *Mise à jour (Précédent: 1.0.0.14-native-experimental)*
+  * `Halo: Combat Evolved` (build-141) - *Mise à jour (Précédent: build-140)*
+  * `Tekken Tag Tournament 2` (01.000.059) - *Nouveau*
+  * `Alembic` (0.6.3) - *Mise à jour (Précédent: 0.6.2)*
+  * `Boxshelf PS5` (ps5-v0.1.0) - *Nouveau*
+  * `FBNeo PS5` (v2.4) - *Mise à jour (Précédent: v2.3)*
+  * `Nuvio Pro` (0.2.0-alpha.1) - *Mise à jour (Précédent: 0.1.0-alpha.7)*
+
 ## Build du 10/11/2026 à 14:36
 * **PAYLOADS**
   * `Fbneo-Ps5 V2.4` (v2.4) - *Nouveau*

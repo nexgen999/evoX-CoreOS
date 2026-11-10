@@ -135,12 +135,24 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/b34f69582d2123a492c727b494cf5102d747b7a1557b4528b4c64f6b68aef38d",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/253f743e4167b1eb81a795abf483549f66f0fd3c057da38a67569db3f0b7c5cb",
-      "description": "Format: zstd\n\"Wherever you go, I'll be there.\" Pragmata is a unique, sci-fi action-adventure game from Capcom. Follow Hugh, a member of an ill-fated investigation team, and Diana, a young android, as they navigate a lunar facility taken over by rogue AI in search of a way to Earth. ONE TRAGIC ACCIDENT. AN UNLIKELY DUO. At a remote lunar research facility, humanity discovers a new ore—one that, when properly refined, can be used to create almost anything using 3D printers. When the facility suddenly falls silent, Hugh and his team are dispatched to investigate...but then disaster strikes. Hugh is saved by Diana, a lone android wandering the complex. The two of them must join forces to find a way off the moon while working their way through an AI-controlled facility bent on stopping them. Half-realized replicas of human civilization sprawl across the lunar surface, while inside, only scattered traces of the facility's vanished inhabitants remain. What buried truth awaits at the end of Hugh and Diana's journey? TAKE CONTROL OF TWO CHARACTERS—AT THE SAME TIME. Guide both Hugh as he moves, shoots, and jumps, and Diana, who hacks at the same time. Enjoy a fresh, new blend of gameplay in this truly unique system that will push your brain to its limits.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: Uses ampr-emu-ng 0.3.3. Tested on 13.60 PS5 Pro using HyperHen 0.9.5\nCredits: Credits to MaggieRed!\nUpdated: 2026-11-09T22:32:43.648Z",
+      "description": "Format: zstd\n\"Wherever you go, I'll be there.\" Pragmata is a unique, sci-fi action-adventure game from Capcom. Follow Hugh, a member of an ill-fated investigation team, and Diana, a young android, as they navigate a lunar facility taken over by rogue AI in search of a way to Earth. ONE TRAGIC ACCIDENT. AN UNLIKELY DUO. At a remote lunar research facility, humanity discovers a new ore—one that, when properly refined, can be used to create almost anything using 3D printers. When the facility suddenly falls silent, Hugh and his team are dispatched to investigate...but then disaster strikes. Hugh is saved by Diana, a lone android wandering the complex. The two of them must join forces to find a way off the moon while working their way through an AI-controlled facility bent on stopping them. Half-realized replicas of human civilization sprawl across the lunar surface, while inside, only scattered traces of the facility's vanished inhabitants remain. What buried truth awaits at the end of Hugh and Diana's journey? TAKE CONTROL OF TWO CHARACTERS—AT THE SAME TIME. Guide both Hugh as he moves, shoots, and jumps, and Diana, who hacks at the same time. Enjoy a fresh, new blend of gameplay in this truly unique system that will push your brain to its limits.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: Edit: Not working. Trying to fix this.\nCredits: Credits to MaggieRed!\nUpdated: 2026-11-09T22:32:43.648Z",
       "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
       "downloadLinks": [
         {
-          "name": "zstd · Gofile",
-          "url": "https://gofile.io/d/26aaCjrT"
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/4x3G4SocFy"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/yjOVz108Yf"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/b2pjCyagoH"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/Z6i1EBXTEG"
         }
       ],
       "sizeBytes": 38010460570

@@ -4,15 +4,15 @@
     {
       "name": "Playden",
       "filename": "FAKE77031.zip",
-      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.11.0-beta.2/playden-ps5-0.11.0-beta.2.zip",
-      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.11.0-beta.2/FAKE77031.zip",
+      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.11.0-beta.3/playden-ps5-0.11.0-beta.3.zip",
+      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.11.0-beta.3/FAKE77031.zip",
       "description": "Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.",
-      "version": "0.11.0-beta.2",
+      "version": "0.11.0-beta.3",
       "category": "Apps",
       "kind": "app",
       "titleid": "FAKE77031",
       "author": "leolobato",
-      "checksum": "360c5ea67cc0eef385043ef97c42e235f0e08631f87418a6b8a440a830cecc3c",
+      "checksum": "3410fe87020b0b88ee6e0da9fd1afad6cd95374056eadf4a00e54fc2399dcce7",
       "source": "https://github.com/leolobato/playden-ps5"
     },
     {
@@ -28,6 +28,20 @@
       "author": "phantomptr",
       "checksum": "f8099c1f98ee62f63e8ad51595358c65bcf1fcfffc0e5704da7dba6dcceb2122",
       "source": "https://github.com/phantomptr/ps5term"
+    },
+    {
+      "name": "Navi5",
+      "filename": "NAVI00001.zip",
+      "url": "https://github.com/willindiana/navi5/releases/download/v0.8.0-beta.1/Navi5-00.008.000.zip",
+      "local_path": "downloads/apps/homebrew_page/app/NAVI00001/v0.8.0-beta.1/NAVI00001.zip",
+      "description": "Navidrome/OpenSubsonic music client for jailbroken PS5, featuring a minimalist liquid-glass UI, artist, album and playlist browsing, search, and gapless playback.",
+      "version": "v0.8.0-beta.1",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "NAVI00001",
+      "author": "willindiana",
+      "checksum": "5833b959227b0e5170bf13f3424a7da9251ac77b585f853607f3985546440633",
+      "source": "https://github.com/willindiana/navi5"
     },
     {
       "name": "OliSe Player",
@@ -60,15 +74,15 @@
     {
       "name": "PC5",
       "filename": "PPSA11018.zip",
-      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.3.7/PPSA11018.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.3.7/PPSA11018.zip",
+      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.3.9/PPSA11018.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.3.9/PPSA11018.zip",
       "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.",
-      "version": "2.3.7",
+      "version": "2.3.9",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA11018",
       "author": "bornaradusin",
-      "checksum": "fc8a0a48fb1259d93160a3329c2430575ebfcd640c9cd5dbdaca6573217e9248",
+      "checksum": "7fa805e2f1d8bc806b28200c093b22c871d756c926af067ec075cc81c603fb9f",
       "source": "https://github.com/bornaradusin/PC5"
     },
     {
@@ -172,15 +186,15 @@
     {
       "name": "PayLoader",
       "filename": "PPSA67670.zip",
-      "url": "https://github.com/Marice/ps5-payloader/releases/download/v00.001.002/PPSA67670.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA67670/00.001.002/PPSA67670.zip",
+      "url": "https://github.com/Marice/ps5-payloader/releases/download/v00.001.003/PPSA67670.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA67670/00.001.003/PPSA67670.zip",
       "description": "A controller front-end for Payload Manager (pldmgr), which it brings: start, install and update payloads, edit your boot chain with a USB safety net, and install the Signal suite.",
-      "version": "00.001.002",
+      "version": "00.001.003",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA67670",
       "author": "Marice",
-      "checksum": "65c3016a588e35f847d1692281c26b36416293de0ddef71ba8926a799385a07b",
+      "checksum": "5647525a1fab0397678599d1c4abbed466d03fc6c9b46f159719db93c1652357",
       "source": "https://github.com/Marice/ps5-payloader"
     },
     {
@@ -284,15 +298,15 @@
     {
       "name": "VLC",
       "filename": "PPSA85300.zip",
-      "url": "https://github.com/ZiZc3/VLC/releases/download/v0.6.0/PPSA85300.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA85300/0.6.0/PPSA85300.zip",
+      "url": "https://github.com/ZiZc3/VLC/releases/download/v0.6.1/PPSA85300.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA85300/0.6.1/PPSA85300.zip",
       "description": "VLC media player for PS5: videos, music, photos, subtitles, DVD images and more",
-      "version": "0.6.0",
+      "version": "0.6.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA85300",
       "author": "AZiZ",
-      "checksum": "10267b5df557c8eddda698bd5d225e03dabac8def8ed966b6c40b14caf05adf0",
+      "checksum": "7cbc702f18610fc09bd361813a83dd639353c3631b7f796e620539408f395d27",
       "source": "https://github.com/ZiZc3/VLC"
     },
     {
@@ -354,15 +368,15 @@
     {
       "name": "XPSemu",
       "filename": "PPSA97358.zip",
-      "url": "https://github.com/ZiZc3/XPSemu/releases/download/v3.3/PPSA97358.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA97358/v3.3/PPSA97358.zip",
+      "url": "https://github.com/ZiZc3/XPSemu/releases/download/v3.4/PPSA97358.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA97358/v3.4/PPSA97358.zip",
       "description": "Original Xbox emulator for PS5, based on xemu.",
-      "version": "v3.3",
+      "version": "v3.4",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA97358",
       "author": "AZiZ",
-      "checksum": "a076f96e391a3c6a8e03bf54995963c15ef0653ef1f67c9ffc96690ef481656b",
+      "checksum": "ddcc21d4d12270e4d122278719d816529671aa3781cb74c04b6e1ce969779249",
       "source": "https://github.com/ZiZc3/XPSemu"
     },
     {
@@ -536,29 +550,29 @@
     {
       "name": "PS5_Lichii",
       "filename": "PPSA99008.zip",
-      "url": "https://github.com/mihawk-99/PS5_Lichii/releases/download/v1.10.00/PS5_Lichii-v1.10.00.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99008/1.10.00/PPSA99008.zip",
+      "url": "https://github.com/mihawk-99/PS5_Lichii/releases/download/v1.20.00/PS5_Lichii-v1.20.00.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99008/1.20.00/PPSA99008.zip",
       "description": "Experimental NS2 Emulator for the PS5",
-      "version": "1.10.00",
+      "version": "1.20.00",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99008",
       "author": "Mihawk",
-      "checksum": "7f2e0619cffdff2aea6f0ad30a3e2a89cab15ace550c3f58651b368dcb19fe7f",
+      "checksum": "f2377248477cd8c09af76c59ed687a9ff0f553a8266d53e6c3ebba87f8778938",
       "source": "https://github.com/mihawk-99/PS5_Lichii"
     },
     {
       "name": "Media Player Classic PS5",
       "filename": "PPSA99015.zip",
-      "url": "https://github.com/MisterTemaki/MediaPlayerClassicPS5/releases/download/v1.6.0/MediaPlayerClassicPS5-v1.6.0-PPSA99015.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99015/1.6.0/PPSA99015.zip",
+      "url": "https://github.com/MisterTemaki/MediaPlayerClassicPS5/releases/download/v1.6.1/MediaPlayerClassicPS5-v1.6.1-PPSA99015.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99015/1.6.1/PPSA99015.zip",
       "description": "Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.",
-      "version": "1.6.0",
+      "version": "1.6.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99015",
       "author": "MisterTemaki",
-      "checksum": "f12d9daf3542290a55fcbdd1ebf2fe0809cb4e8cc7a65b035f438e71600adc74",
+      "checksum": "e514211773255f4b49fe1cf2ec1386140a60e384e2b1ab00afaf9a5c31bdb0a4",
       "source": "https://github.com/MisterTemaki/MediaPlayerClassicPS5"
     },
     {
@@ -886,15 +900,15 @@
     {
       "name": "OGBox",
       "filename": "PPSA99251.zip",
-      "url": "https://github.com/Press5elect/OGBox/releases/download/v0.0.7/OGBox-v0.0.7.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99251/0.0.7/PPSA99251.zip",
+      "url": "https://github.com/Press5elect/OGBox/releases/download/v0.0.8/OGBox-v0.0.8.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99251/0.0.8/PPSA99251.zip",
       "description": "XBOX emulator for PS5",
-      "version": "0.0.7",
+      "version": "0.0.8",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99251",
       "author": "Press5elect",
-      "checksum": "5f10b02e49013a8702205d81cf5ba96d7b7fafe4ac9cde25c1d4f93634bf28b7",
+      "checksum": "082d6f78de1b37ab60054a625db84759453472e8518786486f5e127f2da78dc2",
       "source": "https://github.com/Press5elect/OGBox"
     },
     {
@@ -928,15 +942,15 @@
     {
       "name": "Nuvio Max'd",
       "filename": "PPSA99288.zip",
-      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.14-native-experimental/PPSA99288.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.14-native-experimental/PPSA99288.zip",
+      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.16-native-experimental/PPSA99288.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.16-native-experimental/PPSA99288.zip",
       "description": "Experimental Nuvio Max'd test build for PS5 with playback source switching, live subtitle controls, audio sync steps and optional time-grid EPG, plus profiles, IPTV and media servers.",
-      "version": "1.0.0.14-native-experimental",
+      "version": "1.0.0.16-native-experimental",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99288",
       "author": "HandshakeHackin",
-      "checksum": "16fc97017a169e7abfb7fe6b5ec8a001feaf5dc968f19669265d61078d0ffd12",
+      "checksum": "fbd7dbaed5e029f2e3c8dd153cf8b0f64f4fb4509da2e984e0473849ee09308a",
       "source": "https://github.com/HandshakeHackin/Nuvio-maxd-releases"
     },
     {
@@ -1138,15 +1152,15 @@
     {
       "name": "Alembic",
       "filename": "PPSA99594.zip",
-      "url": "https://github.com/fthdgn-gh/Alembic/releases/download/v0.6.2/alembic-app-v0.6.2.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99594/0.6.2/PPSA99594.zip",
+      "url": "https://github.com/fthdgn-gh/Alembic/releases/download/v0.6.3/alembic-app-v0.6.3.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99594/0.6.3/PPSA99594.zip",
       "description": "Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC, also on SMB, NFS, WebDAV and FTP servers.",
-      "version": "0.6.2",
+      "version": "0.6.3",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99594",
       "author": "Fatih Doğan",
-      "checksum": "19022d2c369e5a675ed8d9bca517227770c5019f35e31b9a997e259c0eaa2782",
+      "checksum": "42f6f87e0c6ecc35633fa06119bdadf0cf1d66da44b3e79d348c8cf6e172e65e",
       "source": "https://github.com/fthdgn-gh/Alembic"
     },
     {
@@ -1276,6 +1290,20 @@
       "source": "https://github.com/kauansilvalopes/trophy"
     },
     {
+      "name": "Boxshelf PS5",
+      "filename": "PPSA99850.zip",
+      "url": "https://github.com/kauansilvalopes/boxshelf-ps5/releases/download/ps5-v0.1.0/PPSA99850.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99850/ps5-v0.1.0/PPSA99850.zip",
+      "description": "Needs Elf Arsenal running. A native PS5 port of Boxshelf's 3D game shelf: one tab per platform, real box art and your emulator libraries. EN/PT/ES.",
+      "version": "ps5-v0.1.0",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99850",
+      "author": "kauansilvalopes",
+      "checksum": "eab81920680d25f439032ea63b2925a9812f3c1ef4838b7b71366462faedef3f",
+      "source": "https://github.com/kauansilvalopes/boxshelf-ps5"
+    },
+    {
       "name": "Genesis Plus GX PS5",
       "filename": "PPSA99921.zip",
       "url": "https://github.com/MisterTemaki/genplusgxPS5/releases/download/v2.2.1/GenesisPlusGXPS5-v2.2.1-PPSA99921.zip",
@@ -1306,15 +1334,15 @@
     {
       "name": "FBNeo PS5",
       "filename": "PPSA99924.zip",
-      "url": "https://github.com/MisterTemaki/fbneo-ps5/releases/download/v2.3/FBNeoPS5-v2.3-PPSA99924.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99924/v2.3/PPSA99924.zip",
+      "url": "https://github.com/MisterTemaki/fbneo-ps5/releases/download/v2.4/FBNeoPS5-v2.4-PPSA99924.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99924/v2.4/PPSA99924.zip",
       "description": "FinalBurn Neo (arcade) as a native PS5 app.",
-      "version": "v2.3",
+      "version": "v2.4",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99924",
       "author": "MisterTemaki",
-      "checksum": "70ce14b02f3ca7fb814fe79680b5498a7a6af43d8994a3393a371b5d748f92a8",
+      "checksum": "8594d2586b6d280642a4373222afb88ed830605d56cb389eb6e23dfb0b840743",
       "source": "https://github.com/MisterTemaki/fbneo-ps5"
     },
     {
@@ -1390,15 +1418,15 @@
     {
       "name": "Nuvio Pro",
       "filename": "PPSA99996.zip",
-      "url": "https://github.com/speed-y/nuvio-pro-ps5/releases/download/v0.1.0-alpha.7/PPSA99996.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99996/0.1.0-alpha.7/PPSA99996.zip",
+      "url": "https://github.com/speed-y/nuvio-pro-ps5/releases/download/v0.2.0-alpha.1/PPSA99996.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99996/0.2.0-alpha.1/PPSA99996.zip",
       "description": "Nuvio Pro is a controller-first streaming app for jailbroken PS5s, with EVO Player playback, PS5 keyboard search, profiles and resume support. The console hosts its own UI. Tested on firmware 12.70.",
-      "version": "0.1.0-alpha.7",
+      "version": "0.2.0-alpha.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99996",
       "author": "Shashank",
-      "checksum": "1355dbacfd6216158904bd3b573d2bc856e2274e59ab62fd774c412022433fd4",
+      "checksum": "98aafcebe32db94cca7622b4883eb90d8fec3f99ac5f0eb79ec2f05b2aa48c81",
       "source": "https://github.com/speed-y/nuvio-pro-ps5"
     },
     {
