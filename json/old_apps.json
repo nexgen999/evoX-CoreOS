@@ -154,11 +154,11 @@
         {
             "name": "Ppsa97358",
             "filename": "PPSA97358.zip",
-            "url": "https://github.com/ZiZc3/XPSemu/releases/download/v3.3/PPSA97358.zip",
-            "local_path": "apps/XPSemu/v3.3/PPSA97358.zip",
+            "url": "https://github.com/ZiZc3/XPSemu/releases/download/v3.4/PPSA97358.zip",
+            "local_path": "apps/XPSemu/v3.4/PPSA97358.zip",
             "description": "Xbox emulator (Xemu) port for the PS5",
-            "version": "v3.3",
-            "checksum": "a076f96e391a3c6a8e03bf54995963c15ef0653ef1f67c9ffc96690ef481656b",
+            "version": "v3.4",
+            "checksum": "ddcc21d4d12270e4d122278719d816529671aa3781cb74c04b6e1ce969779249",
             "category": "Applications"
         },
         {

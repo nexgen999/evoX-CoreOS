@@ -4,15 +4,15 @@
     {
       "name": "Playden",
       "filename": "FAKE77031.zip",
-      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.11.0-beta.1/playden-ps5-0.11.0-beta.1.zip",
-      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.11.0-beta.1/FAKE77031.zip",
+      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.11.0-beta.2/playden-ps5-0.11.0-beta.2.zip",
+      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.11.0-beta.2/FAKE77031.zip",
       "description": "Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.",
-      "version": "0.11.0-beta.1",
+      "version": "0.11.0-beta.2",
       "category": "Apps",
       "kind": "app",
       "titleid": "FAKE77031",
       "author": "leolobato",
-      "checksum": "e0c0c866d6f188f3cf5eb18a7c758b0331808e1a2e7e53a0561aa653ef183a91",
+      "checksum": "360c5ea67cc0eef385043ef97c42e235f0e08631f87418a6b8a440a830cecc3c",
       "source": "https://github.com/leolobato/playden-ps5"
     },
     {
@@ -60,15 +60,15 @@
     {
       "name": "PC5",
       "filename": "PPSA11018.zip",
-      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.3.6/PPSA11018.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.3.6/PPSA11018.zip",
+      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.3.7/PPSA11018.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.3.7/PPSA11018.zip",
       "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.",
-      "version": "2.3.6",
+      "version": "2.3.7",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA11018",
       "author": "bornaradusin",
-      "checksum": "fa55628a61a4378af1ced917097d95ca48df0b07b7647d616f7388f5f04e10f9",
+      "checksum": "fc8a0a48fb1259d93160a3329c2430575ebfcd640c9cd5dbdaca6573217e9248",
       "source": "https://github.com/bornaradusin/PC5"
     },
     {
@@ -130,15 +130,15 @@
     {
       "name": "ProsperoSunshine",
       "filename": "PPSA47989.zip",
-      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.5.0/PPSA47989.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.5.0/PPSA47989.zip",
+      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.6.0/PPSA47989.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.6.0/PPSA47989.zip",
       "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.",
-      "version": "0.5.0",
+      "version": "0.6.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA47989",
       "author": "Darkatek7",
-      "checksum": "89059840287d821011d6d660a8aff8e84425299a965aebbfb87f255e3ceef3bc",
+      "checksum": "31d777d95429284585ccdac8fcd4bf651260f24640f6dd4cf84fc2062e00967c",
       "source": "https://github.com/Darkatek7/ProsperoSunshine"
     },
     {
@@ -298,15 +298,15 @@
     {
       "name": "Prospero Themes",
       "filename": "PPSA90210.zip",
-      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.039/PPSA90210.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.039/PPSA90210.zip",
+      "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.041/PPSA90210.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.041/PPSA90210.zip",
       "description": "Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.",
-      "version": "01.000.039",
+      "version": "01.000.041",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA90210",
       "author": "Darkatek7",
-      "checksum": "d05de23402359b492cce5cbd3ae9db3657cf8225b2e831e1d9afa4318d7a1be8",
+      "checksum": "7c08f27caf1fbedf90e84af50f8d9d59b26e1ebf5b9281c402176b9fe560ae0b",
       "source": "https://github.com/Darkatek7/ProsperoThemes"
     },
     {
@@ -534,17 +534,31 @@
       "source": "https://github.com/Swordpdf/ProsperoEden"
     },
     {
+      "name": "PS5_Lichii",
+      "filename": "PPSA99008.zip",
+      "url": "https://github.com/mihawk-99/PS5_Lichii/releases/download/v1.10.00/PS5_Lichii-v1.10.00.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99008/1.10.00/PPSA99008.zip",
+      "description": "Experimental NS2 Emulator for the PS5",
+      "version": "1.10.00",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99008",
+      "author": "Mihawk",
+      "checksum": "7f2e0619cffdff2aea6f0ad30a3e2a89cab15ace550c3f58651b368dcb19fe7f",
+      "source": "https://github.com/mihawk-99/PS5_Lichii"
+    },
+    {
       "name": "Media Player Classic PS5",
       "filename": "PPSA99015.zip",
-      "url": "https://github.com/MisterTemaki/MediaPlayerClassicPS5/releases/download/v1.5.4/MediaPlayerClassicPS5-v1.5.4-PPSA99015.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99015/1.5.4/PPSA99015.zip",
+      "url": "https://github.com/MisterTemaki/MediaPlayerClassicPS5/releases/download/v1.6.0/MediaPlayerClassicPS5-v1.6.0-PPSA99015.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99015/1.6.0/PPSA99015.zip",
       "description": "Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.",
-      "version": "1.5.4",
+      "version": "1.6.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99015",
       "author": "MisterTemaki",
-      "checksum": "a75a14887c8dd2eeeca08cfcb53bc0dda37e0f7519a019ceb386970be84ac5fb",
+      "checksum": "f12d9daf3542290a55fcbdd1ebf2fe0809cb4e8cc7a65b035f438e71600adc74",
       "source": "https://github.com/MisterTemaki/MediaPlayerClassicPS5"
     },
     {
@@ -858,15 +872,15 @@
     {
       "name": "OGBox",
       "filename": "PPSA99251.zip",
-      "url": "https://github.com/Press5elect/OGBox/releases/download/v0.0.6/OGBox-v0.0.6.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99251/0.0.6/PPSA99251.zip",
+      "url": "https://github.com/Press5elect/OGBox/releases/download/v0.0.7/OGBox-v0.0.7.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99251/0.0.7/PPSA99251.zip",
       "description": "XBOX emulator for PS5",
-      "version": "0.0.6",
+      "version": "0.0.7",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99251",
       "author": "Press5elect",
-      "checksum": "b7602b6b1c51184ff70520d31e0e237644dba5fc764927f892f4b9cf592ff55d",
+      "checksum": "5f10b02e49013a8702205d81cf5ba96d7b7fafe4ac9cde25c1d4f93634bf28b7",
       "source": "https://github.com/Press5elect/OGBox"
     },
     {
@@ -1208,7 +1222,7 @@
     {
       "name": "PSBox Cloud Gaming",
       "filename": "PPSA99810.zip",
-      "url": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5/releases/download/v1.6.3/PPSA99810.zip",
+      "url": "https://github.com/RafaelNGP/psbox-cloud-gaming/releases/download/v1.6.3/PPSA99810.zip",
       "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.6.3/PPSA99810.zip",
       "description": "Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.",
       "version": "1.6.3",
@@ -1216,8 +1230,8 @@
       "kind": "app",
       "titleid": "PPSA99810",
       "author": "RafaelNGP",
-      "checksum": "db4c21d9a825b9f499c18069a19547703867d8633ad24f958699b75082d2008e",
-      "source": "https://github.com/RafaelNGP/xbox-cloud-gaming-ps5"
+      "checksum": "1c117cc8210c4f4386b907f8f72984ec77cedc34c6d8bd2ea86bddedca9e2669",
+      "source": "https://github.com/RafaelNGP/psbox-cloud-gaming"
     },
     {
       "name": "Estante",

@@ -1,5 +1,22 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 10/11/2026 à 01:34
+* **APPS**
+  * `Ppsa97358` (v3.4) - *Mise à jour (Précédent: v3.3)*
+* **HOMEBREW_PAGE**
+  * `Playden` (0.11.0-beta.2) - *Mise à jour (Précédent: 0.11.0-beta.1)*
+  * `PC5` (2.3.7) - *Mise à jour (Précédent: 2.3.6)*
+  * `ProsperoSunshine` (0.6.0) - *Mise à jour (Précédent: 0.5.0)*
+  * `Conker's Bad Fur Day` (01.000.000) - *Nouveau*
+  * `osu!` (2.0.0) - *Mise à jour (Précédent: 1.0.0)*
+  * `Prospero Themes` (01.000.041) - *Mise à jour (Précédent: 01.000.039)*
+  * `Dungeon Crawl Stone Soup` (01.000.001) - *Mise à jour (Précédent: 01.000.000)*
+  * `NetHack` (01.000.001) - *Nouveau*
+  * `PS5_Lichii` (1.10.00) - *Nouveau*
+  * `Media Player Classic PS5` (1.6.0) - *Mise à jour (Précédent: 1.5.4)*
+  * `OGBox` (0.0.7) - *Mise à jour (Précédent: 0.0.6)*
+  * `Pulse` (01.000.001) - *Mise à jour (Précédent: 01.000.000)*
+
 ## Build du 09/11/2026 à 15:26
 * **PAYLOADS**
   * `Ps5-Romm V1.4.1` (v1.4.1) - *Nouveau*

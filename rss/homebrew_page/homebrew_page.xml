@@ -20,7 +20,7 @@
       <title>Playden</title>
       <link>https://github.com/leolobato/playden-ps5</link>
       <description>Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.</description>
-      <pubDate>0.11.0-beta.1</pubDate>
+      <pubDate>0.11.0-beta.2</pubDate>
     </item>
     <item>
       <title>PS5Term</title>
@@ -68,7 +68,7 @@
       <title>PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.</description>
-      <pubDate>2.3.6</pubDate>
+      <pubDate>2.3.7</pubDate>
     </item>
     <item>
       <title>Home5</title>
@@ -152,7 +152,7 @@
       <title>ProsperoSunshine</title>
       <link>https://github.com/Darkatek7/ProsperoSunshine</link>
       <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.</description>
-      <pubDate>0.5.0</pubDate>
+      <pubDate>0.6.0</pubDate>
     </item>
     <item>
       <title>SudokuZen</title>
@@ -176,6 +176,12 @@
       <title>DK64 Rekongpiled</title>
       <link>https://github.com/Samclay8/DK64-Rekongpiled-PS5</link>
       <description>DK64: Rekongpiled ported to the PS5 as native homebrew.</description>
+      <pubDate>01.000.000</pubDate>
+    </item>
+    <item>
+      <title>Conker's Bad Fur Day</title>
+      <link>https://github.com/Samclay8/CBFD-Recompiled-PS5</link>
+      <description>Conker’s Bad Fur Day: Recompiled as a native PS5 homebrew title: 4K, 60 fps, texture packs</description>
       <pubDate>01.000.000</pubDate>
     </item>
     <item>
@@ -248,7 +254,7 @@
       <title>osu!</title>
       <link>https://github.com/actuallyssstaris/ProjectCadence</link>
       <description>osu!standard running natively on a jailbroken PS5</description>
-      <pubDate>1.0.0</pubDate>
+      <pubDate>2.0.0</pubDate>
     </item>
     <item>
       <title>Stremio Plus</title>
@@ -302,7 +308,7 @@
       <title>Prospero Themes</title>
       <link>https://github.com/Darkatek7/ProsperoThemes</link>
       <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
-      <pubDate>01.000.039</pubDate>
+      <pubDate>01.000.041</pubDate>
     </item>
     <item>
       <title>Breath of the Wild</title>
@@ -332,7 +338,13 @@
       <title>Dungeon Crawl Stone Soup</title>
       <link>https://github.com/plutobox/ps5-crawl</link>
       <description>The open-source roguelike Dungeon Crawl Stone Soup, with tiles graphics and controller support.</description>
-      <pubDate>01.000.000</pubDate>
+      <pubDate>01.000.001</pubDate>
+    </item>
+    <item>
+      <title>NetHack</title>
+      <link>https://github.com/plutobox/ps5-NetHack</link>
+      <description>The classic open-source roguelike NetHack 5.0, played with the DualSense: button menus, a hint bar and the system keyboard.</description>
+      <pubDate>01.000.001</pubDate>
     </item>
     <item>
       <title>Capy Mobile</title>
@@ -485,6 +497,12 @@
       <pubDate>1.005.000</pubDate>
     </item>
     <item>
+      <title>PS5_Lichii</title>
+      <link>https://github.com/mihawk-99/PS5_Lichii</link>
+      <description>Experimental NS2 Emulator for the PS5</description>
+      <pubDate>1.10.00</pubDate>
+    </item>
+    <item>
       <title>vkQuake</title>
       <link>https://github.com/mihawk-99/PS5_vkQuake</link>
       <description>Native PS5 port of vkQuake, the Vulkan Quake engine, at up to 120 FPS and 4K with DualSense input. Needs your own Quake game data.</description>
@@ -494,7 +512,7 @@
       <title>Media Player Classic PS5</title>
       <link>https://github.com/MisterTemaki/MediaPlayerClassicPS5</link>
       <description>Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.</description>
-      <pubDate>1.5.4</pubDate>
+      <pubDate>1.6.0</pubDate>
     </item>
     <item>
       <title>ProsperoEden (Mirror)</title>
@@ -680,7 +698,7 @@
       <title>OGBox</title>
       <link>https://github.com/Press5elect/OGBox</link>
       <description>XBOX emulator for PS5</description>
-      <pubDate>0.0.6</pubDate>
+      <pubDate>0.0.7</pubDate>
     </item>
     <item>
       <title>PS5 Browser</title>
@@ -1062,7 +1080,7 @@
     </item>
     <item>
       <title>PSBox Cloud Gaming</title>
-      <link>https://github.com/RafaelNGP/xbox-cloud-gaming-ps5</link>
+      <link>https://github.com/RafaelNGP/psbox-cloud-gaming</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
       <pubDate>1.6.3</pubDate>
     </item>
@@ -1142,7 +1160,7 @@
       <title>Pulse</title>
       <link>https://github.com/shwan-ps5/pulse</link>
       <description>A Beat Saber-style rhythm game for PS VR2 and Sense controllers that turns any MP3 into note maps on the console.</description>
-      <pubDate>01.000.000</pubDate>
+      <pubDate>01.000.001</pubDate>
     </item>
     <item>
       <title>Prospero Win</title>

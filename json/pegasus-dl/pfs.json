@@ -3,6 +3,186 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA24326",
+      "title": "The Legend of Heroes: Trails through Daybreak II",
+      "createdAt": "2026-11-09T23:59:59.050Z",
+      "version": "01.002.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/7d1a7548346b2ae4a561f98853adb64ad1ce66198649ff6e3d0980d9f2cd2c39",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/7d1a7548346b2ae4a561f98853adb64ad1ce66198649ff6e3d0980d9f2cd2c39",
+      "description": "Format: Folder\nReturn to the Calvard Republic and unravel the mystery of the crimson beast in Trails through Daybreak II! One day, a shocking series of murders set the wheels of fate into motion once again. Chaos looming on the horizon, the spriggan Van Arkride receives an unexpected visitor. Who is behind the murders, and what is their goal? Time may be the only key to unlocking the secrets lurking beneath the shadows.\nRegion: USA\nFirmware: 5.xx+\nAPR: Yes\nCredits: Credits to Xan!!\nUpdated: 2026-11-09T23:10:11.338Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Vik1",
+          "url": "https://vik1ngfile.site/f/lCohN5iDjw"
+        }
+      ],
+      "sizeBytes": 20347407565
+    },
+    {
+      "titleId": "PPSA26391",
+      "title": "The Legend of Heroes: Trails beyond the Horizon",
+      "createdAt": "2026-11-09T23:59:59.050Z",
+      "version": "01.006.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/0705d1ec11015b1f2234b88b03df28738498046a602f6827a4dc5cbc2220cc9c",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/0705d1ec11015b1f2234b88b03df28738498046a602f6827a4dc5cbc2220cc9c",
+      "description": "Format: Folder\nIncludes the full The Legend of Heroes: Trails beyond the Horizon game and the following DLC: - Trails beyond the Horizon - Costumes &amp; Colors Vol. 1 - Trails beyond the Horizon - Costumes &amp; Colors Vol. 2 - Trails beyond the Horizon - Costumes &amp; Colors Vol. 3 - Trails beyond the Horizon - Accessories Pack - Trails beyond the Horizon - 4SPG UNITED Attire Set - Trails beyond the Horizon - BGM Pack - Trails beyond the Horizon - Zemuria BGM Collection - Trails beyond the Horizon - Marduk Survival Kit - Trails beyond the Horizon - Rean Schwarzer's Instructor Apparel - Trails beyond the Horizon - Silver Xiongshou Garb - Trails beyond the Horizon - Black Mask &amp; Rosenberg Dress - Trails beyond the Horizon - Altina's Travel Outfit - Trails beyond the Horizon - Agnès' Pink Lapine Attire\nRegion: USA\nFirmware: 12.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: Credits to Xan!!\nUpdated: 2026-11-09T23:06:15.460Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Vik1",
+          "url": "https://vik1ngfile.site/f/QidThcLBXp"
+        }
+      ],
+      "sizeBytes": 25576530248
+    },
+    {
+      "titleId": "PPSA17672",
+      "title": "The Legend of Heroes: Trails of Cold Steel III",
+      "createdAt": "2026-11-09T22:59:02.122Z",
+      "version": "01.001.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/fec7b920fac05bd18bcf736b6bbfebf973b1293c918d8441cce45551a1fbc1f6",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/fec7b920fac05bd18bcf736b6bbfebf973b1293c918d8441cce45551a1fbc1f6",
+      "description": "Format: Folder\nFollowing the Erebonian Civil War, war hero Rean Schwarzer begins life anew as an instructor at Thors Military Academy’s branch campus. Join him as a brand new Trails adventure unfolds in The Legend of Heroes: Trails of Cold Steel III / The Legend of Heroes: Trails of Cold Steel IV! Experience the full story of Rean and the new Class VII as they deal with the aftermath of war and the appearance of new threats in this dynamic combo pack! Dive into the world of Trails and enjoy in-depth RPG gameplay that performs better than ever on PlayStationⓇ5. These iterations of the Trails series include bonus cosmetic DLC that will have your party members looking their best! Discover the wonders of Erebonia today!\nRegion: USA\nFirmware: 7.xx+\nCredits: Credits to Xan!!\nUpdated: 2026-11-09T22:58:18.734Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Vik1",
+          "url": "https://vikingfile.com/f/PW4sfnym8S"
+        }
+      ],
+      "sizeBytes": 17104707256
+    },
+    {
+      "titleId": "PPSA17675",
+      "title": "The Legend of Heroes: Trails of Cold Steel IV",
+      "createdAt": "2026-11-09T22:59:02.122Z",
+      "version": "01.001.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/35ba01c9501a5c74658177ef058fc1cbcb8367009b9a7f754a82b3165cfca123",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/35ba01c9501a5c74658177ef058fc1cbcb8367009b9a7f754a82b3165cfca123",
+      "description": "Format: Folder\nThe long awaited finale to the epic engulfing a continent comes to a head in the final chapter of the Trails of Cold Steel saga! IT'S WAR! The continent of Zemuria is dragged into conflict as the Erebonian Empire mobilizes the full force of its military. The heroes of Class VII old and new must unite to end the conflict before it consumes the continent.\nRegion: USA\nFirmware: 7.xx+\nCredits: Credits to Xan!!\nUpdated: 2026-11-09T22:55:11.773Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Vik1",
+          "url": "https://vik1ngfile.site/f/diKquCA1Bk"
+        }
+      ],
+      "sizeBytes": 17008070492
+    },
+    {
+      "titleId": "PPSA26145",
+      "title": "EVERYBODY'S GOLF: Hot Shots",
+      "createdAt": "2026-11-09T22:59:02.122Z",
+      "version": "01.017.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/a337c8fe2a8b4e3775b4d5535b82876396f0bfc164f9242780b1e8f26e99752f",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/a337c8fe2a8b4e3775b4d5535b82876396f0bfc164f9242780b1e8f26e99752f",
+      "description": "Format: Folder\nEverybody’s favorite golf game series finally returns to the fairway! Hit the green with a variety of unique characters and courses in online and offline play, and try out new game modes that will have you and your friends scrambling for another round! • The Classic Gameplay You Love! The controls are as simple and intuitive as ever. Just aim and press the button 3 times at the right moment to master the perfect shot! • Hone Your Skills in Single Player Mode Test the waters with Stroke Play or test your skills by aiming for the gold in over 100 tournaments implemented in Challenge mode. Take your golf skills to the next level by customizing the rules to your liking by changing the weather and time of day, and face off against a colorful cast of characters! • Grab Your Friends and Hit the Green Enjoy local Multiplayer Mode with up to 4 players on a single controller, or test your skills by competing online against golfers worldwide. For even more excitement, try Wacky Golf - a unique twist on golf that everybody can enjoy together. Grab your clubs and hit the green with EVERYBODY'S GOLF HOT SHOTS. Let's PAR-TEE!\nRegion: USA\nFirmware: 13.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: Credits to Xan!!\nUpdated: 2026-11-09T22:48:28.359Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Vik1",
+          "url": "https://vik1ngfile.site/f/SThlFhSiXg"
+        }
+      ],
+      "sizeBytes": 45226005627
+    },
+    {
+      "titleId": "PPSA02530",
+      "title": "PRAGMATA",
+      "createdAt": "2026-11-09T22:59:02.122Z",
+      "version": "01.300.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/b34f69582d2123a492c727b494cf5102d747b7a1557b4528b4c64f6b68aef38d",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/253f743e4167b1eb81a795abf483549f66f0fd3c057da38a67569db3f0b7c5cb",
+      "description": "Format: zstd\n\"Wherever you go, I'll be there.\" Pragmata is a unique, sci-fi action-adventure game from Capcom. Follow Hugh, a member of an ill-fated investigation team, and Diana, a young android, as they navigate a lunar facility taken over by rogue AI in search of a way to Earth. ONE TRAGIC ACCIDENT. AN UNLIKELY DUO. At a remote lunar research facility, humanity discovers a new ore—one that, when properly refined, can be used to create almost anything using 3D printers. When the facility suddenly falls silent, Hugh and his team are dispatched to investigate...but then disaster strikes. Hugh is saved by Diana, a lone android wandering the complex. The two of them must join forces to find a way off the moon while working their way through an AI-controlled facility bent on stopping them. Half-realized replicas of human civilization sprawl across the lunar surface, while inside, only scattered traces of the facility's vanished inhabitants remain. What buried truth awaits at the end of Hugh and Diana's journey? TAKE CONTROL OF TWO CHARACTERS—AT THE SAME TIME. Guide both Hugh as he moves, shoots, and jumps, and Diana, who hacks at the same time. Enjoy a fresh, new blend of gameplay in this truly unique system that will push your brain to its limits.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: Uses ampr-emu-ng 0.3.3. Tested on 13.60 PS5 Pro using HyperHen 0.9.5\nCredits: Credits to MaggieRed!\nUpdated: 2026-11-09T22:32:43.648Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Gofile",
+          "url": "https://gofile.io/d/26aaCjrT"
+        }
+      ],
+      "sizeBytes": 38010460570
+    },
+    {
+      "titleId": "PPSA26391",
+      "title": "The Legend of Heroes: Trails through Daybreak",
+      "createdAt": "2026-11-09T22:59:02.122Z",
+      "version": "01.002.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/0705d1ec11015b1f2234b88b03df28738498046a602f6827a4dc5cbc2220cc9c",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/0705d1ec11015b1f2234b88b03df28738498046a602f6827a4dc5cbc2220cc9c",
+      "description": "Format: Folder\nThe spriggan known as Van Arkride is an underground professional that accepts work from any client and acts as a detective, negotiator or bounty hunter with no allegiance. However, the course of his life will change forever when he takes on a strange case that threatens the entire nation. Slash your way through intense combat that springs to life with beautiful visuals, and craft your own gameplay experience in Calvard with features such as high-speed mode and a new alignment system!\nRegion: USA\nFirmware: 4.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: Credits to Xan!!\nUpdated: 2026-11-09T21:58:58.161Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Vik1",
+          "url": "https://vik1ngfile.site/f/atfuIPOh0E"
+        }
+      ],
+      "sizeBytes": 34359738368
+    },
+    {
+      "titleId": "PPSA36140",
+      "title": "The Legend Of Heroes Trails to Azure",
+      "createdAt": "2026-11-09T21:58:02.996Z",
+      "version": "01.002.005",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/967c2bd10eae4b6cd0c84abe261aa01a467aee554f20a3d591d714007434c68c",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/967c2bd10eae4b6cd0c84abe261aa01a467aee554f20a3d591d714007434c68c",
+      "description": "Format: Folder\nFollowing the events of Trails from Zero, the Special Support Section find themselves with new members and new duties. However, rising tensions in Crossbell along with pressure from two neighboring political powers threaten both the safety of their home, as well as the integrity of their team.\nRegion: USA\nFirmware: 12.xx+\nCredits: Credits to Xan!!\nUpdated: 2026-11-09T21:51:33.740Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Viki",
+          "url": "https://vik1ngfile.site/f/sI6KOIThsI"
+        }
+      ],
+      "sizeBytes": 7097433457
+    },
+    {
+      "titleId": "PPSA36136",
+      "title": "The Legend of Heroes Trails From Zero",
+      "createdAt": "2026-11-09T21:58:02.996Z",
+      "version": "01.005.005",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/aec2e6e0f71c72ba53d696f8f921a5248d14091d320a3596d1df84f8cabc4207",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/aec2e6e0f71c72ba53d696f8f921a5248d14091d320a3596d1df84f8cabc4207",
+      "description": "Format: Folder\nLloyd Bannings returns to his hometown to follow his late brother's footsteps and join the Crossbell Police Department. However, he finds himself assigned to a ragtag new division called the Special Support Section, which performs odd jobs and helps people in need. But he and his new teammates slowly discover that their vibrant city hides a dark criminal underbelly...as well as a few terrible secrets.\nRegion: USA\nFirmware: 12.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: You will need to create a fakelib folder with libsceAMPR.sprx in it to play on 12.xx!\nCredits: Credits to Xan!!\nUpdated: 2026-11-09T21:42:45.951Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Viki",
+          "url": "https://vik1ngfile.site/f/A0k07pFVWy"
+        }
+      ],
+      "sizeBytes": 4209067950
+    },
+    {
+      "titleId": "PPSA36301",
+      "title": "TCG Card Shop Simulator",
+      "createdAt": "2026-11-09T21:58:02.996Z",
+      "version": "01.300.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/4bff419a7ba5e49c0e5fc8cf461c293fbb395bb76955d5b826ab8f3cb0d80452",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/4bff419a7ba5e49c0e5fc8cf461c293fbb395bb76955d5b826ab8f3cb0d80452",
+      "description": "Format: Folder\nTCG Card Shop Simulator is a trading card shop simulation where you sell card booster packs to earn money and build your card shop business. Manage Your Shop: Design your own TCG shop. Organize shelves and card packs to make customer shopping experience smooth and easy. Card Collection: Open the booster packs yourself and collect the cards. Find rare cards and sell them to make a fortune, or keep them to complete your card collection. Host Game: Set your card game format and fee, invite players to play card games in your shop. Be sure to keep your store clean and hygienic for the players or they might leave! Order Products: Stock up on different booster card packs and card game products. Keep track of popular trends and adjust your inventory to cater to the ever-changing demands of your customers. Expand Your Business: Earn profits to reinvest in your shop. Expand your space, unlock new card sets, and upgrade your facilities to attract even more customers and increase revenue.\nRegion: USA\nFirmware: 12.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: Credits to Xan!\nUpdated: 2026-11-09T21:26:35.377Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Viki",
+          "url": "https://vik1ngfile.site/f/moGf4V9YLu"
+        }
+      ],
+      "sizeBytes": 5153960755
+    },
+    {
       "titleId": "PPSA04610",
       "title": "Elden Ring",
       "createdAt": "2026-11-09T13:50:53.164Z",
