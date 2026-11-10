@@ -1,5 +1,15 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 10/11/2026 à 14:36
+* **PAYLOADS**
+  * `Fbneo-Ps5 V2.4` (v2.4) - *Nouveau*
+  * `Wfm-7Zip-Helper` (v1.14) - *Mise à jour (Précédent: v1.13-rc2)*
+  * `Web-File-Mgr-V1.14` (v1.14) - *Nouveau*
+  * `Web-File-Mgr-V1.13-Rc2` (ps5-web-file-manager) - *Mise à jour (Précédent: v1.13-rc2)*
+* **HOMEBREW_PAGE**
+  * `Parallax Browser` (0.1.0) - *Nouveau*
+  * `PSBox Cloud Gaming` (1.6.9) - *Mise à jour (Précédent: 1.6.3)*
+
 ## Build du 10/11/2026 à 01:34
 * **APPS**
   * `Ppsa97358` (v3.4) - *Mise à jour (Précédent: v3.3)*

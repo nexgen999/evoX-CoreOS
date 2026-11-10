@@ -665,6 +665,12 @@
       <pubDate>vk-285-190</pubDate>
     </item>
     <item>
+      <title>Parallax Browser</title>
+      <link>https://github.com/rikleigh/parallax-browser</link>
+      <description>A WebKit browser for the PS5 with tabs, ad blocking and hardware video decoding, which can play the video on a page in the PS VR2.</description>
+      <pubDate>0.1.0</pubDate>
+    </item>
+    <item>
       <title>Lost Odyssey</title>
       <link>https://github.com/dragonscales123/LostOdysseyRecompPS5</link>
       <description>PS5 port of Lost Odyssey using static recompilation. No game assets included.</description>
@@ -1082,7 +1088,7 @@
       <title>PSBox Cloud Gaming</title>
       <link>https://github.com/RafaelNGP/psbox-cloud-gaming</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
-      <pubDate>1.6.3</pubDate>
+      <pubDate>1.6.9</pubDate>
     </item>
     <item>
       <title>Estante</title>

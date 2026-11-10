@@ -23,10 +23,10 @@
       <pubDate>v1.4.1</pubDate>
     </item>
     <item>
-      <title>[Payloads] Fbneo-Ps5 V2.3</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v2.3/fbneo-ps5_v2.3.elf</link>
+      <title>[Payloads] Fbneo-Ps5 V2.4</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v2.4/fbneo-ps5_v2.4.elf</link>
       <description>FBNeo for ps5</description>
-      <pubDate>v2.3</pubDate>
+      <pubDate>v2.4</pubDate>
     </item>
     <item>
       <title>[Payloads] Phu-Sandbox.Exit V1.0</title>
@@ -120,15 +120,15 @@
     </item>
     <item>
       <title>[Payloads] Wfm-7Zip-Helper</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc2/wfm-7zip-helper.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/wfm-7zip-helper.elf</link>
       <description>PS5 Web File Manager http://your-ps5-ip:8888.</description>
-      <pubDate>v1.13-rc2</pubDate>
+      <pubDate>v1.14</pubDate>
     </item>
     <item>
-      <title>[Payloads] Web-File-Mgr-V1.13-Rc2</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc2/web-file-mgr-v1.13-rc2.elf</link>
+      <title>[Payloads] Web-File-Mgr-V1.14</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/web-file-mgr-v1.14.elf</link>
       <description>PS5 Web File Manager http://your-ps5-ip:8888.</description>
-      <pubDate>v1.13-rc2</pubDate>
+      <pubDate>v1.14</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-File-Explorer Vfile-Explorer-V0.2.1</title>
@@ -768,6 +768,12 @@
     </item>
     <item>
       <title>[Payloads] Web-File-Mgr-V1.13-Rc1</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ps5-web-file-manager</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Web-File-Mgr-V1.13-Rc2</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>ps5-web-file-manager</pubDate>
@@ -1781,6 +1787,12 @@
       <pubDate>vk-285-190</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] Parallax Browser</title>
+      <link>https://github.com/rikleigh/parallax-browser</link>
+      <description>A WebKit browser for the PS5 with tabs, ad blocking and hardware video decoding, which can play the video on a page in the PS VR2.</description>
+      <pubDate>0.1.0</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] Lost Odyssey</title>
       <link>https://github.com/dragonscales123/LostOdysseyRecompPS5</link>
       <description>PS5 port of Lost Odyssey using static recompilation. No game assets included.</description>
@@ -2198,7 +2210,7 @@
       <title>[ProsperoStore] PSBox Cloud Gaming</title>
       <link>https://github.com/RafaelNGP/psbox-cloud-gaming</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
-      <pubDate>1.6.3</pubDate>
+      <pubDate>1.6.9</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Estante</title>

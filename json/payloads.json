@@ -31,14 +31,14 @@
       "source": "https://github.com/s0liton/ps5-romm/releases"
     },
     {
-      "name": "Fbneo-Ps5 V2.3",
-      "filename": "fbneo-ps5_v2.3.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v2.3/fbneo-ps5_v2.3.elf",
-      "local_path": "payloads/ps5_emulator/fbneo-ps5/v2.3/fbneo-ps5_v2.3.elf",
+      "name": "Fbneo-Ps5 V2.4",
+      "filename": "fbneo-ps5_v2.4.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v2.4/fbneo-ps5_v2.4.elf",
+      "local_path": "payloads/ps5_emulator/fbneo-ps5/v2.4/fbneo-ps5_v2.4.elf",
       "description": "FBNeo for ps5",
-      "version": "v2.3",
+      "version": "v2.4",
       "category": "PS5 Emulator",
-      "checksum": "ffba6ba350fbed093d19c831a8f66e4520dd17254360cd989fe9a90610bba104",
+      "checksum": "cc666b4a6282ad3c49182e28e7356934b444d661372d450a42521a34ce39a41e",
       "source": "https://github.com/MisterTemaki/fbneo-ps5/releases"
     },
     {
@@ -205,23 +205,23 @@
     {
       "name": "Wfm-7Zip-Helper",
       "filename": "wfm-7zip-helper.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc2/wfm-7zip-helper.elf",
-      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc2/wfm-7zip-helper.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/wfm-7zip-helper.elf",
+      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/wfm-7zip-helper.elf",
       "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
-      "version": "v1.13-rc2",
+      "version": "v1.14",
       "category": "PS5 File Explorer",
       "checksum": "6acc2972d358dfc92b5ac66cf8cb9ca8613c096bde56ce790077a6831fb17825",
       "source": "https://github.com/owendswang/ps5-web-file-manager/releases"
     },
     {
-      "name": "Web-File-Mgr-V1.13-Rc2",
-      "filename": "web-file-mgr-v1.13-rc2.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc2/web-file-mgr-v1.13-rc2.elf",
-      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc2/web-file-mgr-v1.13-rc2.elf",
+      "name": "Web-File-Mgr-V1.14",
+      "filename": "web-file-mgr-v1.14.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/web-file-mgr-v1.14.elf",
+      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/web-file-mgr-v1.14.elf",
       "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
-      "version": "v1.13-rc2",
+      "version": "v1.14",
       "category": "PS5 File Explorer",
-      "checksum": "91f8e7f52183ce624651b779016bb48cbe7adaad278833a1191ad2e8fc6fbfe3",
+      "checksum": "8493c0bd11d77f9cce4b6c93564ffcae7185a5b530ecf856a768519c2514e231",
       "source": "https://github.com/owendswang/ps5-web-file-manager/releases"
     },
     {
@@ -461,7 +461,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "91ecef016d0759e98276f85713b0a5a683104c8cae1e41e47565d7f25d116f0e",
+      "checksum": "712111cc93d0157fd6ed7f70a46564f990fdfaa42bf8bba2caa6bf24f9434590",
       "source": "https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf"
     },
     {
@@ -1366,6 +1366,15 @@
       "description": "Récupéré depuis le stockage local (Interne / Fallback)",
       "version": "ps5-web-file-manager",
       "checksum": "8c9456a10ddde61dd0247b9171e71a285b955096ca7eb8e4ae3bdbe94f38f605"
+    },
+    {
+      "name": "Web-File-Mgr-V1.13-Rc2",
+      "filename": "web-file-mgr-v1.13-rc2.elf",
+      "url": "",
+      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc2/web-file-mgr-v1.13-rc2.elf",
+      "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+      "version": "ps5-web-file-manager",
+      "checksum": "91f8e7f52183ce624651b779016bb48cbe7adaad278833a1191ad2e8fc6fbfe3"
     },
     {
       "name": "Web-File-Mgr-V1.12",

@@ -1542,6 +1542,20 @@
       "source": "https://github.com/Swordpdf/PS5SX2"
     },
     {
+      "name": "Parallax Browser",
+      "filename": "PPSA99207.zip",
+      "url": "https://github.com/rikleigh/parallax-browser/releases/download/v0.1.0/parallax-browser-0.1.0.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99207/0.1.0/PPSA99207.zip",
+      "description": "A WebKit browser for the PS5 with tabs, ad blocking and hardware video decoding, which can play the video on a page in the PS VR2.",
+      "version": "0.1.0",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99207",
+      "author": "Rik Leigh",
+      "checksum": "c4b21e929cea260a0e408cbdda3797e3aecb71c60ed250d5f320fd27d00344d6",
+      "source": "https://github.com/rikleigh/parallax-browser"
+    },
+    {
       "name": "Lost Odyssey",
       "filename": "PPSA99212.zip",
       "url": "https://github.com/dragonscales123/LostOdysseyRecompPS5/releases/download/v0.2.0-beta.5/LostOdyssey-PS5.zip",
@@ -2510,15 +2524,15 @@
     {
       "name": "PSBox Cloud Gaming",
       "filename": "PPSA99810.zip",
-      "url": "https://github.com/RafaelNGP/psbox-cloud-gaming/releases/download/v1.6.3/PPSA99810.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.6.3/PPSA99810.zip",
+      "url": "https://github.com/RafaelNGP/psbox-cloud-gaming/releases/download/v1.6.9/PPSA99810.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.6.9/PPSA99810.zip",
       "description": "Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.",
-      "version": "1.6.3",
+      "version": "1.6.9",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99810",
       "author": "RafaelNGP",
-      "checksum": "1c117cc8210c4f4386b907f8f72984ec77cedc34c6d8bd2ea86bddedca9e2669",
+      "checksum": "45fdaceca7a8e1a89c1a5f507ba88f029536ad2645bfbe5ba0527b40d3442079",
       "source": "https://github.com/RafaelNGP/psbox-cloud-gaming"
     },
     {

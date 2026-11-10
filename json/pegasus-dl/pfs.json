@@ -3,6 +3,41 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "2026",
+      "title": "Avowed",
+      "createdAt": "2026-11-10T12:19:06.377Z",
+      "version": "02.001",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA33985_b97da818fc155f2f8daeecd9b2efe8e665b5cac2ab274338a3dae920fbe0700e/icon0.webp",
+      "description": "Format: Arabic FPKG\nWelcome to the Living Lands, a mysterious island filled with adventure and danger. Set in the fictional world of Eora first introduced in the Pillars of Eternity franchise, Avowed is a first-person fantasy action RPG from the award-winning team at Obsidian Entertainment. As an envoy of Aedyr, you are sent to the Living Lands to investigate a mysterious plague. But what begins as a mission of duty soon becomes deeply personal—you feel as though the land recognizes you and is pulling you toward something greater. The choices you make will ripple across the Living Lands, shaping the fates of its people, its creatures, your companions, and even yourself. Anniversary Update Even more to do in the game! This update brings New Game Plus, a Photo Mode, a brand new weapon type with two-handed staves, the ability to change character appearance whenever you’d like, new character creation presets, additional Godlike presets, custom game difficulty settings, and the addition of three new playable races: Dwarf, Aumaua, and Orlan. The Weird and Wonderful Living Lands The Living Lands is a place that feels foreign yet strangely intrinsic to you, as though the island itself is calling out for help. Explore a vibrant frontier home to diverse environments, creatures, factions, and mysteries—each with its own unique ecosystem and stories to uncover. Combat and Character Building Your Way Fight with fluid, visceral combat that lets you mix swords, spells, guns, and shields in whatever combination fits your style. Craft your own build by drawing from four distinct skill trees—Fighter, Ranger, Wizard, and Godlike—and layer a companion skillset on top of your own to create powerful synergies. Experiment with new abilities, refine your strategy, and reshape your approach as you master the challenges ahead. Companions as Part of Your Journey A spread of companions from different species and backgrounds will fight alongside you, each with their own personalities, goals, and abilities. From a former mercenary to an eccentric wizard, these allies will grow and change based on the choices you make—and the quests you help them complete.\nRegion: USA\nFirmware: 4.xx+\nCredits: Oussama; thanks to akuma for the arabic files and Oussama for the fpkg file.\nUpdated: 2026-11-10T12:15:52.413Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Arabic FPKG · Viki",
+          "url": "https://vikingfile.com/f/syZ5Vy0IpV"
+        }
+      ],
+      "sizeBytes": 66571993088
+    },
+    {
+      "titleId": "PPSA13446",
+      "title": "Aphelion",
+      "createdAt": "2026-11-07T16:57:46.510Z",
+      "version": "01.003",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/f83aa827cb4910483675b39e1478a76f966d1c1428b2a40779355f11530fa115",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/f83aa827cb4910483675b39e1478a76f966d1c1428b2a40779355f11530fa115",
+      "description": "Format: Arabic FPKG\nA SCI-FI ACTION-ADVENTURE ON THE EDGE OF OUR SOLAR SYSTEM By 2060, Earth will be uninhabitable. The discovery of a 9th planet – Persephone – at the edge of the solar system, is humanity’s best hope. The European Space Agency is dispatching the Hope-01 scientific mission, consisting of 2 of their accomplished astronauts, Ariane and Thomas. Their mission: to survey the planet and determine whether humanity can prosper anew here. Your adventure begins in chaos, as the crash landing of their ship scatters them across the planet, launching them on a desperate quest to find one another. Aphelion is a cinematic third-person action-adventure set on the planet Persephone, an uncharted, frozen world. Stranded and isolated, you must survive the truly unknown, find each other, and complete the mission. Traverse stunning alien landscapes, avoid lurking threats, and discover the haunting secrets buried beneath the ice. EXPLORE AN UNCHARTED PLANET Explore the surreal beauty of Persephone, a vast frozen world shaped by deadly weather and ever-changing terrain. Armed only with your explorational tools – pathfinder, oxygen tank, grappling hook, and more – you must face the unknown, traverse treacherous terrain, and gather clues about the strange, reality-bending phenomenon threatening your existence. Ariane must persevere and push forward to save Thomas. Her Pathfinder tool helps her find the way through the shifting expanse. She faces desperate swings over dark chasms and tricky climbs up melting ice – risking her life with every step. Thomas, injured in the crash, must rely on ingenuity and observation, piecing together what surrounds him to survive. As both characters explore and investigate, they will uncover secrets and clues as to the planet’s strange conditions and what caused the crash of their ship. HIDE TO SURVIVE You are not alone. There is a hostile lifeform stalking you. Avoid detection in tense, thrilling stealth sequences; use the environment to your advantage, and stay one step ahead of whatever hunts you. Explore Persephone and complete the mission, all while trying to survive in the terrifying presence of an unknown enemy. FIND EACH OTHER Helpless on the edge of the solar system, the Hope-01 crew faces a brutal new world and the echoes of a complicated past. Ariane Montclair and Thomas Cross share a deep connection, a relationship left unresolved by the demands of their careers and their mission. Facing overwhelming odds, their fractured bond becomes a lifeline as they grasp in the dark for one another. Key Features: – Grounded sci-fi exploration: a realistic depiction of near-future space exploration – Dual-perspective survival: experience both Thomas’s resourceful investigation and Ariane’s high stakes parkour gameplay – Cinematic third-person action: gripping traversal mechanics, with grappling, sliding, and momentum-driven movement – Tense stealth encounters: face an alien threat in tense and exciting stealth-based sequences – An emotional core: two astronauts bound by a complicated past, fighting to find each other A game in collaboration with: European Space Agency (ESA)\nRegion: USA\nFirmware: 4.xx+\nCredits: Oussama; thanks to akuma for the arabic files and Oussama for the fpkg file.\nUpdated: 2026-11-10T10:35:58.263Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Arabic FPKG · Viki",
+          "url": "https://vikingfile.com/f/hpBjvJj3nb"
+        }
+      ],
+      "sizeBytes": 25769803776
+    },
+    {
       "titleId": "PPSA24326",
       "title": "The Legend of Heroes: Trails through Daybreak II",
       "createdAt": "2026-11-09T23:59:59.050Z",

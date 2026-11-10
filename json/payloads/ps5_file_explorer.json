@@ -26,23 +26,23 @@
     {
       "name": "Wfm-7Zip-Helper",
       "filename": "wfm-7zip-helper.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc2/wfm-7zip-helper.elf",
-      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc2/wfm-7zip-helper.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/wfm-7zip-helper.elf",
+      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/wfm-7zip-helper.elf",
       "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
-      "version": "v1.13-rc2",
+      "version": "v1.14",
       "category": "PS5 File Explorer",
       "checksum": "6acc2972d358dfc92b5ac66cf8cb9ca8613c096bde56ce790077a6831fb17825",
       "source": "https://github.com/owendswang/ps5-web-file-manager/releases"
     },
     {
-      "name": "Web-File-Mgr-V1.13-Rc2",
-      "filename": "web-file-mgr-v1.13-rc2.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc2/web-file-mgr-v1.13-rc2.elf",
-      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc2/web-file-mgr-v1.13-rc2.elf",
+      "name": "Web-File-Mgr-V1.14",
+      "filename": "web-file-mgr-v1.14.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/web-file-mgr-v1.14.elf",
+      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/web-file-mgr-v1.14.elf",
       "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
-      "version": "v1.13-rc2",
+      "version": "v1.14",
       "category": "PS5 File Explorer",
-      "checksum": "91f8e7f52183ce624651b779016bb48cbe7adaad278833a1191ad2e8fc6fbfe3",
+      "checksum": "8493c0bd11d77f9cce4b6c93564ffcae7185a5b530ecf856a768519c2514e231",
       "source": "https://github.com/owendswang/ps5-web-file-manager/releases"
     },
     {

@@ -7,7 +7,7 @@
     <outline text="Snes9Xps5 V2.9" title="Snes9Xps5 V2.9" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Genplusgxps5 V2.2" title="Genplusgxps5 V2.2" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Ps5-Romm V1.4.1" title="Ps5-Romm V1.4.1" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.4.1/ps5-romm_v1.4.1.elf" description="ps5-romm for ps5"/>
-    <outline text="Fbneo-Ps5 V2.3" title="Fbneo-Ps5 V2.3" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v2.3/fbneo-ps5_v2.3.elf" description="FBNeo for ps5"/>
+    <outline text="Fbneo-Ps5 V2.4" title="Fbneo-Ps5 V2.4" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v2.4/fbneo-ps5_v2.4.elf" description="FBNeo for ps5"/>
     <outline text="Phu-Sandbox.Exit V1.0" title="Phu-Sandbox.Exit V1.0" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PHU-Sandbox.Exit/Source-Fixe/PHU-Sandbox.Exit_v1.0.elf" description="addon for Markus-PHU Emupack"/>
     <outline text="Fgg-Playpods-Gui V0.1.5" title="Fgg-Playpods-Gui V0.1.5" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_audio_utility/FGG-PlayPods-GUI/v0.1.5/FGG-PlayPods-GUI_v0.1.5.elf" description="AudioBridge GUI PS5 Bluetooth A2DP Web GUI, based on FGG-PlayPods by FathiGhanem."/>
     <outline text="Fgg-Playpods V1.0" title="Fgg-Playpods V1.0" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_audio_utility/FGG-PlayPods/1.0/FGG-PlayPods_v1.0.elf" description="Hear your PlayStation 5 on an ordinary Bluetooth headset."/>
@@ -23,8 +23,8 @@
     <outline text="Ps5-Game-Compressor Fork V1.1.1" title="Ps5-Game-Compressor Fork V1.1.1" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor_fork/v1.1.1/PS5-Game-Compressor_fork_v1.1.1.elf" description="Fork Tool to compress PS5 games."/>
     <outline text="Bfpilot V0.5.0" title="Bfpilot V0.5.0" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Lapy Jb Daemon" title="Lapy Jb Daemon" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/Lapy_JB_Daemon/Source-Fixe/lapy_jb_daemon.elf" description="Daemon pour le jailbreak de Lapy"/>
-    <outline text="Wfm-7Zip-Helper" title="Wfm-7Zip-Helper" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc2/wfm-7zip-helper.elf" description="PS5 Web File Manager http://your-ps5-ip:8888."/>
-    <outline text="Web-File-Mgr-V1.13-Rc2" title="Web-File-Mgr-V1.13-Rc2" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.13-rc2/web-file-mgr-v1.13-rc2.elf" description="PS5 Web File Manager http://your-ps5-ip:8888."/>
+    <outline text="Wfm-7Zip-Helper" title="Wfm-7Zip-Helper" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/wfm-7zip-helper.elf" description="PS5 Web File Manager http://your-ps5-ip:8888."/>
+    <outline text="Web-File-Mgr-V1.14" title="Web-File-Mgr-V1.14" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/web-file-mgr-v1.14.elf" description="PS5 Web File Manager http://your-ps5-ip:8888."/>
     <outline text="Ps5-File-Explorer Vfile-Explorer-V0.2.1" title="Ps5-File-Explorer Vfile-Explorer-V0.2.1" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/PS5-File-Explorer/file-explorer-v0.2.1/PS5-File-Explorer_vfile-explorer-v0.2.1.elf" description="PS5 File Explorer http://your-ps5-ip:5905."/>
     <outline text="Np-Fake-Signin-Ps5" title="Np-Fake-Signin-Ps5" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf" description="Fake activate PS5 without PSN."/>
     <outline text="Nanodns V0.4" title="Nanodns V0.4" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_dns/nanoDNS/0.4/nanoDNS_v0.4.elf" description="Un serveur DNS ultra-léger et rapide idéal pour rediriger les requêtes de la console vers votre hôte local d"/>
@@ -132,6 +132,7 @@
     <outline text="Web-File-Mgr-V1.11" title="Web-File-Mgr-V1.11" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Web-File-Mgr-V1.11B" title="Web-File-Mgr-V1.11B" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Web-File-Mgr-V1.13-Rc1" title="Web-File-Mgr-V1.13-Rc1" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
+    <outline text="Web-File-Mgr-V1.13-Rc2" title="Web-File-Mgr-V1.13-Rc2" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Web-File-Mgr-V1.12" title="Web-File-Mgr-V1.12" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Web-File-Mgr-V1.10" title="Web-File-Mgr-V1.10" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Ps5X360 V0.5.7" title="Ps5X360 V0.5.7" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
