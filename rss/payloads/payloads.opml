@@ -6,7 +6,7 @@
   <body>
     <outline text="Snes9Xps5 V2.9" title="Snes9Xps5 V2.9" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Genplusgxps5 V2.2" title="Genplusgxps5 V2.2" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
-    <outline text="Ps5-Romm V1.4.1" title="Ps5-Romm V1.4.1" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.4.1/ps5-romm_v1.4.1.elf" description="ps5-romm for ps5"/>
+    <outline text="Ps5-Romm V1.4.2" title="Ps5-Romm V1.4.2" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.4.2/ps5-romm_v1.4.2.elf" description="ps5-romm for ps5"/>
     <outline text="Fbneo-Ps5 V2.4" title="Fbneo-Ps5 V2.4" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v2.4/fbneo-ps5_v2.4.elf" description="FBNeo for ps5"/>
     <outline text="Phu-Sandbox.Exit V1.0" title="Phu-Sandbox.Exit V1.0" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PHU-Sandbox.Exit/Source-Fixe/PHU-Sandbox.Exit_v1.0.elf" description="addon for Markus-PHU Emupack"/>
     <outline text="Fgg-Playpods-Gui V0.1.5" title="Fgg-Playpods-Gui V0.1.5" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_audio_utility/FGG-PlayPods-GUI/v0.1.5/FGG-PlayPods-GUI_v0.1.5.elf" description="AudioBridge GUI PS5 Bluetooth A2DP Web GUI, based on FGG-PlayPods by FathiGhanem."/>
@@ -59,7 +59,7 @@
     <outline text="A53 Ppr Install 1140 20.09" title="A53 Ppr Install 1140 20.09" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_1.00-11.40_Experimental_KS-D/Source-Fixe/a53_ppr_install_1140_20.09.elf" description="a53_ppr_install_1140_20.09.elf - support 1.00-11.40"/>
     <outline text="A53 Ppr Install 1160 20.09" title="A53 Ppr Install 1160 20.09" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_11.60_only_Experimental_KS-D/Source-Fixe/a53_ppr_install_1160_20.09.elf" description="a53_ppr_install_1160_20.09.elf - 11.60 only"/>
     <outline text="Garlic-Savemgr V1.15-Beta9" title="Garlic-Savemgr V1.15-Beta9" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
-    <outline text="Garlic-Worker V1.5.0" title="Garlic-Worker V1.5.0" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.5.0/garlic-worker_v1.5.0.elf" description="Garlic worker payload component."/>
+    <outline text="Garlic-Worker V1.5.5" title="Garlic-Worker V1.5.5" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.5.5/garlic-worker_v1.5.5.elf" description="Garlic worker payload component."/>
     <outline text="Savemnt-Offset-Dumper V1.0.0" title="Savemnt-Offset-Dumper V1.0.0" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf" description="Offset dumper for save mounting utilities."/>
     <outline text="Ps5Shopappkg-Dpi" title="Ps5Shopappkg-Dpi" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/ps5shopappkg-dpi/Source-Fixe/ps5shopappkg-dpi.elf" description="You need PS5-SHOP-APPKG.pkg DPI port 9040."/>
     <outline text="Ps5Library-Agent" title="Ps5Library-Agent" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.91/ps5library-agent.elf" description="You need PS5Library.pkg."/>

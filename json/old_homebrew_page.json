@@ -1670,15 +1670,15 @@
         {
             "name": "BattleShip Remix",
             "filename": "PPSA99264.zip",
-            "url": "https://github.com/lucasliet/BattleShip-remix/releases/download/v2.0.1-port.10/BattleShip-Remix-ps5-PPSA99264.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA99264/v2.0.1-port.10/PPSA99264.zip",
+            "url": "https://github.com/lucasliet/BattleShip-remix/releases/download/v2.0.1-port.11/BattleShip-Remix-ps5-PPSA99264.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA99264/v2.0.1-port.11/PPSA99264.zip",
             "description": "Native PS5 port of Smash Remix, the Super Smash Bros. 64 mod, built on the SSB64 decompilation and libultraship. Bring your own Smash Remix ROM.",
-            "version": "v2.0.1-port.10",
+            "version": "v2.0.1-port.11",
             "category": "Games",
             "kind": "game",
             "titleid": "PPSA99264",
             "author": "Lucas Oliveira",
-            "checksum": "16c7cdf9772cbb8893473b9190dd8f6f8e7369006648dabb5524c9007f2fb9f6",
+            "checksum": "a0c28abaa076d2ad4513dd566457f2e50b9e13aa0a21b3809c2a246370858719",
             "source": "https://github.com/lucasliet/BattleShip-remix"
         },
         {
@@ -1698,15 +1698,15 @@
         {
             "name": "Nuvio Max'd",
             "filename": "PPSA99288.zip",
-            "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.16-native-experimental/PPSA99288.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.16-native-experimental/PPSA99288.zip",
-            "description": "Experimental Nuvio Max'd test build for PS5 with playback source switching, live subtitle controls, audio sync steps and optional time-grid EPG, plus profiles, IPTV and media servers.",
-            "version": "1.0.0.16-native-experimental",
+            "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.17-native/PPSA99288.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.17-native/PPSA99288.zip",
+            "description": "Experimental Nuvio Max'd for PS5 with an optional privileged USB playlist reader for sandbox access failures (unconfirmed fix), private mount diagnostics, profiles, IPTV and media servers.",
+            "version": "1.0.0.17-native",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99288",
             "author": "HandshakeHackin",
-            "checksum": "fbd7dbaed5e029f2e3c8dd153cf8b0f64f4fb4509da2e984e0473849ee09308a",
+            "checksum": "d9e30887bda7888f497dde50762c6bef633e5f5402950f6c87bf391d8759d7d0",
             "source": "https://github.com/HandshakeHackin/Nuvio-maxd-releases"
         },
         {
@@ -2592,18 +2592,18 @@
             "source": "https://github.com/kauansilvalopes/trophy"
         },
         {
-            "name": "Boxshelf PS5",
+            "name": "Vitrine",
             "filename": "PPSA99850.zip",
-            "url": "https://github.com/kauansilvalopes/boxshelf-ps5/releases/download/ps5-v0.1.0/PPSA99850.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99850/ps5-v0.1.0/PPSA99850.zip",
-            "description": "Needs Elf Arsenal running. A native PS5 port of Boxshelf's 3D game shelf: one tab per platform, real box art and your emulator libraries. EN/PT/ES.",
-            "version": "ps5-v0.1.0",
+            "url": "https://github.com/kauansilvalopes/vitrine/releases/download/ps5-v0.4.2/PPSA99850.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99850/ps5-v0.4.2/PPSA99850.zip",
+            "description": "Needs Elf Arsenal running. A native PS5 shelf of 3D game cases, one tab per platform, with real box art and your emulator libraries. Based on Boxshelf. EN/PT/ES.",
+            "version": "ps5-v0.4.2",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99850",
             "author": "kauansilvalopes",
-            "checksum": "eab81920680d25f439032ea63b2925a9812f3c1ef4838b7b71366462faedef3f",
-            "source": "https://github.com/kauansilvalopes/boxshelf-ps5"
+            "checksum": "313e7f1f3c5efca5cff56c3960e7edd7431f3539845f6b4f6a9e692a248f9522",
+            "source": "https://github.com/kauansilvalopes/vitrine"
         },
         {
             "name": "ProsperoCraft",

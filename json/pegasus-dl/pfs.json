@@ -3,6 +3,142 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA33286",
+      "title": "Silent Hill Townfall",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "2.003",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/a135fe87b09af10a3c21ac560376936bd052a9f6b018960c7f6c6a2b4c650a1c",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/68da35dc092c403cf7701d0126db1c35ff2a3d4f41f47c14b053783de4963b56",
+      "description": "Format: zstd\n脅威から身を潜める緊張、死と隣り合わせの戦闘、そして物語に密接に絡みつくパズルが、霧に沈んだ真実を静かに暴き出していく。 全編を通して一人称視点で描かれる本作では、不安定に信号を拾うポケットテレビをはじめ、限られたアイテムや武器を駆使しながら生き延びることが求められる。 スコットランドの冷たい海に浮かぶ架空の孤島を舞台とした、新たなサイコロジカルホラー。 【あらすじ】 灰色の海に流され、冷たい海に浮かぶ孤島セントアメリアへ漂着したサイモン・オーデル。 しかし町に人の姿はなく、深い霧と静寂に支配されていた。「状況を正す」という目的だけを頼りに、町や住民と自身との繋がりを探しながら彷徨うサイモンは、やがて町の深淵へと足を踏み入れていく。 散りばめられた謎と断片的な物語が結び付き、徐々に明かされていく凄惨な過去。 だが、町の深淵を覗くことは、皮肉にもサイモン自身の覚悟と向き合うことだった......。 1996年のセントアメリアでの探索 霧に沈んだ通り、人が消えた憩いの場、忘れ去られた町角。町が持つ空気と歴史が、静かに物語を紡ぎ出します。 真実と虚構が曖昧に混ざり合う、まるで現実に息づいているかのようなセントアメリアの町がプレイヤーを深みへと誘(いざな)います。 脳裏に深く刻まれる新しいSILENT HILL 美しく霧に包まれたスコットランドの町並みを舞台に、忘れがたい物語が紡がれます。本作は単なる恐怖演出にとどまらず、喪失や内省、そしてその陰に潜む代償を描く物語です。静かなひとときや些細な違和感、サイモンの過去が落とす長い影から、恐怖がじわりと滲み出していきます。 判断が試されるステルスとコンバット体験 近接武器による攻撃とガードを駆使して立ち向かうか、距離を保ち、銃火器を用いて応戦するか。状況に応じた判断が求められるコンバット体験となっています。 プレイヤーは、手持ちの装備や周囲の環境を活かしながら、敵にどのように対峙するかを選択できます。 CRTVが導く、ナラティブに紐づいた謎解き体験 シリーズの定番であったラジオは、「CRTV」というポケットテレビに生まれ変わります。周囲に潜む脅威や物語の断片、そして謎解きのヒントは、不安定なアナログ信号となって漂い、CRTVをチューニングすることで拾うことができます。 一人称視点で描かれる「SILENT HILL」 本作は「SILENT HILL」シリーズのフルレングス作品として初めて、一人称視点を採用しています。プレイヤーは主人公サイモンの視点を通して、霧に包まれた町や迫り来る異変を、より間近に体験することになります。 マルチエンディング プレイヤーの取ってきた行動が反映されたエンディングは、クリア後もなおプレイヤーの心に長い余韻を刻み込みます。 緊張を高めるサウンド 軋む音や歪んだ信号、遠くで響く呻き声。創意工夫に富んだサウンドデザインが、濃密で恐ろしい音の世界を描き出します。Pilotpriestが手がける本作のダイナミックなサウンドトラックは、プレイヤーや敵の挙動に応じて変化し、アクションとステルスの緩急に合わせて緊張と解放感を演出します。\nRegion: USA\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nCredits: Thank you, @yared_cf, for this one!\nUpdated: 2026-11-11T00:42:15.110Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/cB48RPevu5"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/X4jXE6U6fi"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/0m5AHX6wAS"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/k3lCzsnbHb"
+        },
+        {
+          "name": "zstd · Viki - pt.5",
+          "url": "https://vikingfile.com/f/8PX6eYxopy"
+        },
+        {
+          "name": "zstd · Viki - pt.6",
+          "url": "https://vikingfile.com/f/hX9WWSCg7x"
+        }
+      ],
+      "sizeBytes": 61310658150
+    },
+    {
+      "titleId": "PPSA07370",
+      "title": "Madison",
+      "createdAt": "2026-11-11T00:37:05.552Z",
+      "version": "1.0",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/6bc1f741d0ee32a127ff50458af5790da94a3e807ec39bd13290e0b77dd365c7",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/5960bf02c5eef5db3ebb7c32d26b77bc9fc1b99fc2a9ee70ed841c5bc4304be4",
+      "description": "Format: zstd\nScience does not lie. ‘The Science of Scare Project’ confirmed the award winning MADiSON is the scariest game EVER. What would you do if you woke up locked in a dark room, with your hands covered in blood – your sister and mother massacred? MADiSON is an immersive and terrifying first-person psychological horror game, featuring disturbing gameplay and an unsettling and compelling narrative. With the help of an ‘possessed’ instant camera, connect the human world with the beyond. Solve puzzles, explore your surroundings and most importantly, survive. Throughout your journey you are haunted by MADiSON, the ghost of an evil murderer, who is forcing you to continue a gory ritual started decades ago and commit abominable acts. She wants you to finish her sinister ceremony. Do you have the strength to resist? It’s not just her that you need to worry about. There is more than one evil entity in MADiSON and every character has a disturbing story that blends seamlessly into the main narrative. Use the instant camera to survive this torture. Develop the photos you take manually and face the fear of unveiling the truth. Search everything, pick up elements and interact with them to survive the entities. Randomly activated events and changing puzzles throughout the game assures a higher level of replayability as you get lost in this immersive and terrifying experience. Watch every step you make and be careful not to attract any unwanted attention. You won’t be alone.\nRegion: EUR\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nCredits: Credits to @yared_cf on Telegram!\nUpdated: 2026-11-11T00:15:58.532Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/igtBQ4Y5Ti"
+        }
+      ],
+      "sizeBytes": 4155380859
+    },
+    {
+      "titleId": "PPSA01288",
+      "title": "Sackboy A Big Adventure",
+      "createdAt": "2026-11-11T00:37:05.552Z",
+      "version": "01.14",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/eea10bcd376161c39a70dea2239200dd7a8b8339f16eee7d54b8d0babcf6ae75",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/72b97d30707094e153d367988162dc39e79a78ffb6ad7853303516eb38e6d5d4",
+      "description": "Format: zstd\nFace thrilling, unpredictable challenges as you explore distinctive hand-crafted lands through deeply immersive and expressive controls. Go solo in an epic race against time stuffed with danger and peril — or create teams of two to four adventurers for fun-packed party play as you work together to overcome nefarious tasks however you can imagine. Can you save Craftworld from the dastardly Vex and his nightmarish Topsy Turver device... and become the Knitted Knight of legend? • PERILOUS PLATFORMING EXPERIENCE Explore here, there and everywhere as you utilize Sackboy's cool, diverse moveset to face a huge variety of thrilling challenges, fierce enemies and startling surprises. • COLLABORATIVE, CHAOTIC AND JOYFUL MULTIPLAYER Take on side-splitting challenges in local and online party play. Parties can play through the whole game — including unmissable co-op-only levels. • RE-STUFFED. RE-STITCHED. RE-ZIPPED. Sackboy returns to the big time, stuffed with fresh moves and game-changing gadgets in an awe-inspiring and downright fun 3D adventure in this new but familiar world. If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™-game-disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.\nRegion: EUR\nFirmware: 1.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nCredits: I don't know who did it, but thank you to whoever submitted it!!\nUpdated: 2026-11-11T00:09:34.110Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/0voNsQqm6r"
+        },
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/w2elsoMeLo"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/F74iKp1cbb"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/1NpAAP2sSE"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/Y9HphXQg4H"
+        }
+      ],
+      "sizeBytes": 34467112550
+    },
+    {
+      "titleId": "PPSA07230",
+      "title": "Assassin's Creed Mirage",
+      "createdAt": "2026-11-10T23:36:28.384Z",
+      "version": "01.012.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/501f8118f764ddfe0323c1772bd1eb05297bec59c811927e19db4aef3ceb9a00",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/add12a9f2fb4a4af8a37d12c9e5903fce81f5d7269b1a582b53efc20291c2bc2",
+      "description": "Format: zstd\nVALLEY OF MEMORY Enjoy 6 hours of new gameplay in Valley of Memory, a free major update that expands Basim’s story and introduces the breathtaking new region of AlUla, with gameplay improvements across the full game. THE ULTIMATE ASSASSIN Become the most versatile and resourceful Assassin in franchise history. Parkour seamlessly through the city and leverage the largest assortment of tools to date. Get contracts and upgrades at the Assassin’s bureaus, collect vital clues, and stealthily take down targets with more visceral assassinations than ever before. A TRIBUTE TO AN ORIGINAL Experience a modern take on the iconic features and gameplay that have defined the franchise. Journey to Alamut, the legendary home of the Assassins who laid the foundations of the Creed, in this heartfelt homage to the game that started it all. AN IMMERSIVE, REACTIVE CITY Explore an incredibly dense and vibrant city whose inhabitants react to your every move. Uncover the secrets of four unique districts, from the industrial Karkh to the lush gardens of the Round City. Discover surprising world events and interact with historical figures that shaped the Golden Age of Baghdad. A POWERFUL COMING-OF-AGE STORY Follow Basim’s journey in this tightly crafted, narrative-driven action-adventure experience. Witness his transformation from a defiant young thief to a Master Assassin as he meets allies, mentors, and foes who shape his destiny. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4® game disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost. Internet connection, Ubisoft Account and PlayStation™Network account required to access online features.\nRegion: USA\nFirmware: 9.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: The game is provided as a compressed .zip file to speed up the download; once the download is complete, extract the .zip file to play.\nCredits: Credits to Bugsoft DedSec! Thank you!!\nUpdated: 2026-11-10T22:57:54.276Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki",
+          "url": "https://vik1ngfile.site/f/CjhsT3EEwI"
+        },
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/DtriB1DUxm"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/9hIkTKT4sq"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/BGsIoFQkpQ"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/DIBkBcQSoI"
+        },
+        {
+          "name": "zstd · Viki - pt.5",
+          "url": "https://vikingfile.com/f/P0OjUfvcr7"
+        },
+        {
+          "name": "zstd · Viki - pt.6",
+          "url": "https://vikingfile.com/f/e71UYVkyCs"
+        },
+        {
+          "name": "zstd · Viki - pt.7",
+          "url": "https://vikingfile.com/f/ljUbEIvz5S"
+        }
+      ],
+      "sizeBytes": 65390877082
+    },
+    {
       "titleId": "2026",
       "title": "Avowed",
       "createdAt": "2026-11-10T12:19:06.377Z",

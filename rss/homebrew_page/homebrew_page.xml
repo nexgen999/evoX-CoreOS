@@ -722,7 +722,7 @@
       <title>BattleShip Remix</title>
       <link>https://github.com/lucasliet/BattleShip-remix</link>
       <description>Native PS5 port of Smash Remix, the Super Smash Bros. 64 mod, built on the SSB64 decompilation and libultraship. Bring your own Smash Remix ROM.</description>
-      <pubDate>v2.0.1-port.10</pubDate>
+      <pubDate>v2.0.1-port.11</pubDate>
     </item>
     <item>
       <title>Prospero Hi-Fi</title>
@@ -733,8 +733,8 @@
     <item>
       <title>Nuvio Max'd</title>
       <link>https://github.com/HandshakeHackin/Nuvio-maxd-releases</link>
-      <description>Experimental Nuvio Max'd test build for PS5 with playback source switching, live subtitle controls, audio sync steps and optional time-grid EPG, plus profiles, IPTV and media servers.</description>
-      <pubDate>1.0.0.16-native-experimental</pubDate>
+      <description>Experimental Nuvio Max'd for PS5 with an optional privileged USB playlist reader for sandbox access failures (unconfirmed fix), private mount diagnostics, profiles, IPTV and media servers.</description>
+      <pubDate>1.0.0.17-native</pubDate>
     </item>
     <item>
       <title>Spider-Man: Edge of Time</title>
@@ -1115,10 +1115,10 @@
       <pubDate>0.1.1</pubDate>
     </item>
     <item>
-      <title>Boxshelf PS5</title>
-      <link>https://github.com/kauansilvalopes/boxshelf-ps5</link>
-      <description>Needs Elf Arsenal running. A native PS5 port of Boxshelf's 3D game shelf: one tab per platform, real box art and your emulator libraries. EN/PT/ES.</description>
-      <pubDate>ps5-v0.1.0</pubDate>
+      <title>Vitrine</title>
+      <link>https://github.com/kauansilvalopes/vitrine</link>
+      <description>Needs Elf Arsenal running. A native PS5 shelf of 3D game cases, one tab per platform, with real box art and your emulator libraries. Based on Boxshelf. EN/PT/ES.</description>
+      <pubDate>ps5-v0.4.2</pubDate>
     </item>
     <item>
       <title>ProsperoCraft</title>

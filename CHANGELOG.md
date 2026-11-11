@@ -1,5 +1,14 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 11/11/2026 à 04:53
+* **PAYLOADS**
+  * `Ps5-Romm V1.4.2` (v1.4.2) - *Nouveau*
+  * `Garlic-Worker V1.5.5` (v1.5.5) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `BattleShip Remix` (v2.0.1-port.11) - *Mise à jour (Précédent: v2.0.1-port.10)*
+  * `Nuvio Max'd` (1.0.0.17-native) - *Mise à jour (Précédent: 1.0.0.16-native-experimental)*
+  * `Vitrine` (ps5-v0.4.2) - *Nouveau*
+
 ## Build du 10/11/2026 à 23:09
 * **HOMEBREW_PAGE**
   * `Playden` (0.11.0-beta.3) - *Mise à jour (Précédent: 0.11.0-beta.2)*

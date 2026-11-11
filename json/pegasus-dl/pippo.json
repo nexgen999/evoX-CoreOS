@@ -54,6 +54,30 @@
           "url": "https://akirabox.to/0PdzyM8vMzeA/file"
         },
         {
+          "name": "Dump - FileKeeper - Part 1",
+          "url": "https://filekeeper.net/k81ycoowgp9k/PPSA24263.7z.001"
+        },
+        {
+          "name": "Dump - FileKeeper - Part 2",
+          "url": "https://filekeeper.net/xqpa2s67uq9i/PPSA24263.7z.002"
+        },
+        {
+          "name": "Dump - FileKeeper - Part 3",
+          "url": "https://filekeeper.net/qj5g1na7w9is/PPSA24263.7z.003"
+        },
+        {
+          "name": "Dump - FileKeeper - Part 4",
+          "url": "https://filekeeper.net/tr082btzpjwv/PPSA24263.7z.004"
+        },
+        {
+          "name": "Dump - FileKeeper - Part 5",
+          "url": "https://filekeeper.net/42es52z3girc/PPSA24263.7z.005"
+        },
+        {
+          "name": "Dump - VikingFile - Part 1",
+          "url": "https://vikingfile.com/f/HnMJ9XSs8U"
+        },
+        {
           "name": "Fpkg - AkiraBox - Part 1",
           "url": "https://akirabox.to/ZvqzlpbA6zaD/file"
         },
@@ -74,6 +98,10 @@
           "url": "https://akirabox.to/5pVzNol00G7w/file"
         },
         {
+          "name": "Fpkg - VikingFile - Part 1",
+          "url": "https://vikingfile.com/f/oFvrJ2tcbB"
+        },
+        {
           "name": "Fpkg - DataNodes - Part 1",
           "url": "https://datanodes.to/av7uqta8arb0/PPSA24263-Compressed.7z.001"
         },
@@ -92,6 +120,10 @@
         {
           "name": "Fpkg - DataNodes - Part 5",
           "url": "https://datanodes.to/j216d736z5pu/PPSA24263-Compressed.7z.005"
+        },
+        {
+          "name": "Fpkg - FileKeeper - Part 1",
+          "url": "https://filekeeper.net/afl8nv5remsp/PPSA24263-Compressed.7z.001"
         }
       ],
       "sizeBytes": 500363689984

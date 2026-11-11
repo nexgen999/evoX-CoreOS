@@ -20,14 +20,14 @@
       "checksum": "0acf4a5edd0443a1540ee509cb1fb16bd4ba6d7533a53bd0992e6eaa76508494"
     },
     {
-      "name": "Ps5-Romm V1.4.1",
-      "filename": "ps5-romm_v1.4.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.4.1/ps5-romm_v1.4.1.elf",
-      "local_path": "payloads/ps5_emulator/ps5-romm/v1.4.1/ps5-romm_v1.4.1.elf",
+      "name": "Ps5-Romm V1.4.2",
+      "filename": "ps5-romm_v1.4.2.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.4.2/ps5-romm_v1.4.2.elf",
+      "local_path": "payloads/ps5_emulator/ps5-romm/v1.4.2/ps5-romm_v1.4.2.elf",
       "description": "ps5-romm for ps5",
-      "version": "v1.4.1",
+      "version": "v1.4.2",
       "category": "PS5 Emulator",
-      "checksum": "5c8cb6c5bd1b03c93a72f8a7f31936db337cd4483a38efaa5487c93b0ff60ede",
+      "checksum": "eefbdd173b5d998820ea4bf73a44fa6311d0520e32b09f58f5745d848b259e95",
       "source": "https://github.com/s0liton/ps5-romm/releases"
     },
     {
@@ -461,7 +461,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "82a3ce76caceb726d456133bc0716792742f6bd9e6b253d3f998ec298ceb1e72",
+      "checksum": "3d0d6a9e216e045ffe5de3a8f0772989c71edecb64e91ccc4f6446af133f72b9",
       "source": "https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf"
     },
     {
@@ -595,14 +595,14 @@
       "checksum": "88ed2c04be0f20342a6e83eef7a97c8f3de9f15359f5859e00083e534888a062"
     },
     {
-      "name": "Garlic-Worker V1.5.0",
-      "filename": "garlic-worker_v1.5.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.5.0/garlic-worker_v1.5.0.elf",
-      "local_path": "payloads/ps5_saves/garlic-worker/v1.5.0/garlic-worker_v1.5.0.elf",
+      "name": "Garlic-Worker V1.5.5",
+      "filename": "garlic-worker_v1.5.5.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.5.5/garlic-worker_v1.5.5.elf",
+      "local_path": "payloads/ps5_saves/garlic-worker/v1.5.5/garlic-worker_v1.5.5.elf",
       "description": "Garlic worker payload component.",
-      "version": "v1.5.0",
+      "version": "v1.5.5",
       "category": "PS5 Saves",
-      "checksum": "68c133c4d8ba9fef9fdda4b218e8b9913a8ca3dd919c26cef82b1b61bd20deda",
+      "checksum": "b758559171b594a3b5ffb985c507b7fa3fb0f72e1ae35de240b21ce12c4da43a",
       "source": "https://git.etawen.dev/earthonion/garlic-worker/releases"
     },
     {
