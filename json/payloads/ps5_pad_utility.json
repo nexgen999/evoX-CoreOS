@@ -13,17 +13,6 @@
       "source": "https://github.com/ItsBlurf/PoorDS4/releases"
     },
     {
-      "name": "Poords4 V0.2.0",
-      "filename": "PoorDS4_v0.2.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.2.0/PoorDS4_v0.2.0.elf",
-      "local_path": "payloads/ps5_pad_utility/PoorDS4/v0.2.0/PoorDS4_v0.2.0.elf",
-      "description": "PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.",
-      "version": "v0.2.0",
-      "category": "PS5 Pad Utility",
-      "checksum": "c5f257ca2bf2f95949d09f95dd6feb3353b2ad37e24c972d09fccc3beb11301c",
-      "source": "https://github.com/ItsBlurf/PoorDS4/releases"
-    },
-    {
       "name": "Poords4-Stop V0.2.0",
       "filename": "PoorDS4-stop_v0.2.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.2.0/PoorDS4-stop_v0.2.0.elf",
@@ -32,6 +21,17 @@
       "version": "v0.2.0",
       "category": "PS5 Pad Utility",
       "checksum": "fab1ad04daf8346e5952c115f3a08621598d29e222ff80e328a14e73a0f968c8",
+      "source": "https://github.com/ItsBlurf/PoorDS4/releases"
+    },
+    {
+      "name": "Poords4 V0.2.0",
+      "filename": "PoorDS4_v0.2.0.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.2.0/PoorDS4_v0.2.0.elf",
+      "local_path": "payloads/ps5_pad_utility/PoorDS4/v0.2.0/PoorDS4_v0.2.0.elf",
+      "description": "PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.",
+      "version": "v0.2.0",
+      "category": "PS5 Pad Utility",
+      "checksum": "c5f257ca2bf2f95949d09f95dd6feb3353b2ad37e24c972d09fccc3beb11301c",
       "source": "https://github.com/ItsBlurf/PoorDS4/releases"
     },
     {
@@ -75,7 +75,7 @@
       "description": "Use the 8BitDo Ultimate 2C Wireless controller on a jailbroken PS5 as a second DualSense, through its 2.4G USB dongle - no Bluetooth.",
       "version": "v1.3.1",
       "category": "PS5 Pad Utility",
-      "checksum": "4f60ab3eb0959fde2f3c879a17066ce5f9d359e06bd0d57101fb196c97f5e0a6",
+      "checksum": "b2608887bbea8f1bf74c2fcb6888a475b80c89a53266f4fe0f7dc96e828d738d",
       "source": "https://github.com/sub0x00001/pad2c/releases"
     },
     {
@@ -86,7 +86,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "3d0d6a9e216e045ffe5de3a8f0772989c71edecb64e91ccc4f6446af133f72b9",
+      "checksum": "1d9e4f1bc98c2eb0a589faff4eabf4fc1045f3d51c0ccb2b530462c91a1dab84",
       "source": "https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf"
     }
   ]

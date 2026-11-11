@@ -24,17 +24,6 @@
       "source": "https://raw.githubusercontent.com/ArkSama/PS5-Lapy-JB-Daemon/main/lapy_jb_daemon.elf"
     },
     {
-      "name": "Wfm-7Zip-Helper",
-      "filename": "wfm-7zip-helper.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/wfm-7zip-helper.elf",
-      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/wfm-7zip-helper.elf",
-      "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
-      "version": "v1.14",
-      "category": "PS5 File Explorer",
-      "checksum": "6acc2972d358dfc92b5ac66cf8cb9ca8613c096bde56ce790077a6831fb17825",
-      "source": "https://github.com/owendswang/ps5-web-file-manager/releases"
-    },
-    {
       "name": "Web-File-Mgr-V1.14",
       "filename": "web-file-mgr-v1.14.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/web-file-mgr-v1.14.elf",
@@ -46,6 +35,17 @@
       "source": "https://github.com/owendswang/ps5-web-file-manager/releases"
     },
     {
+      "name": "Wfm-7Zip-Helper",
+      "filename": "wfm-7zip-helper.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/wfm-7zip-helper.elf",
+      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/wfm-7zip-helper.elf",
+      "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
+      "version": "v1.14",
+      "category": "PS5 File Explorer",
+      "checksum": "6acc2972d358dfc92b5ac66cf8cb9ca8613c096bde56ce790077a6831fb17825",
+      "source": "https://github.com/owendswang/ps5-web-file-manager/releases"
+    },
+    {
       "name": "Ps5-File-Explorer Vfile-Explorer-V0.2.1",
       "filename": "PS5-File-Explorer_vfile-explorer-v0.2.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/PS5-File-Explorer/file-explorer-v0.2.1/PS5-File-Explorer_vfile-explorer-v0.2.1.elf",
@@ -53,7 +53,7 @@
       "description": "PS5 File Explorer http://your-ps5-ip:5905.",
       "version": "file-explorer-v0.2.1",
       "category": "PS5 File Explorer",
-      "checksum": "1013c23b12980e1bc97decc150c8cd5abc8447dc03cf86dbd106266dd000a6e1",
+      "checksum": "6d4b905b42727dddeaedddb2a657ed0d4e7110ddd068a6daab0aafb2ba32604b",
       "source": "https://github.com/juma-sayeh/PS5-File-Explorer/releases"
     }
   ]

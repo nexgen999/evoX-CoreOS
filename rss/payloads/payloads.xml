@@ -5,292 +5,10 @@
     <link>https://nexgen999.github.io/evoX-CoreOS</link>
     <description>Mises à jour automatiques pour la catégorie Payloads</description>
     <item>
-      <title>Snes9Xps5 V2.9</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>snes9xPS5</pubDate>
-    </item>
-    <item>
-      <title>Genplusgxps5 V2.2</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>genplusgxPS5</pubDate>
-    </item>
-    <item>
-      <title>Ps5-Romm V1.4.2</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.4.2/ps5-romm_v1.4.2.elf</link>
-      <description>ps5-romm for ps5</description>
-      <pubDate>v1.4.2</pubDate>
-    </item>
-    <item>
-      <title>Fbneo-Ps5 V2.4</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v2.4/fbneo-ps5_v2.4.elf</link>
-      <description>FBNeo for ps5</description>
-      <pubDate>v2.4</pubDate>
-    </item>
-    <item>
-      <title>Phu-Sandbox.Exit V1.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PHU-Sandbox.Exit/Source-Fixe/PHU-Sandbox.Exit_v1.0.elf</link>
-      <description>addon for Markus-PHU Emupack</description>
-      <pubDate>Source-Fixe</pubDate>
-    </item>
-    <item>
-      <title>Fgg-Playpods-Gui V0.1.5</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_audio_utility/FGG-PlayPods-GUI/v0.1.5/FGG-PlayPods-GUI_v0.1.5.elf</link>
-      <description>AudioBridge GUI PS5 Bluetooth A2DP Web GUI, based on FGG-PlayPods by FathiGhanem.</description>
-      <pubDate>v0.1.5</pubDate>
-    </item>
-    <item>
-      <title>Fgg-Playpods V1.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_audio_utility/FGG-PlayPods/1.0/FGG-PlayPods_v1.0.elf</link>
-      <description>Hear your PlayStation 5 on an ordinary Bluetooth headset.</description>
-      <pubDate>1.0</pubDate>
-    </item>
-    <item>
-      <title>Kstuff Echostretch V1.6.7</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff_EchoStretch/v1.6.7/kstuff_EchoStretch_v1.6.7.elf</link>
-      <description>Fnd Kstuff payload for PS5.</description>
-      <pubDate>v1.6.7</pubDate>
-    </item>
-    <item>
-      <title>Kstuff-Lite Echostretch V1.11</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-lite_EchoStretch/v1.11/kstuff-lite_EchoStretch_v1.11.elf</link>
-      <description>Lightweight version of kstuff.</description>
-      <pubDate>v1.11</pubDate>
-    </item>
-    <item>
-      <title>Kstuff-Lite Drakmor V1.2-Dr-Test2</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>kstuff-lite_drakmor</pubDate>
-    </item>
-    <item>
-      <title>Kstuff-A53 Sonic V1.4</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-a53_SoNic/1.4/kstuff-a53_SoNic_v1.4.elf</link>
-      <description>SoNic variant of kstuff-a53.</description>
-      <pubDate>1.4</pubDate>
-    </item>
-    <item>
-      <title>Ps5-Game-Compressor V1.0.4</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor/v1.0.4/PS5-Game-Compressor_v1.0.4.elf</link>
-      <description>Tool to compress PS5 games.</description>
-      <pubDate>v1.0.4</pubDate>
-    </item>
-    <item>
-      <title>Ps5-App-Dumper V2.10</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ps5-app-dumper/v2.10/ps5-app-dumper_v2.10.elf</link>
-      <description>PS5 App Dumper payload.</description>
-      <pubDate>v2.10</pubDate>
-    </item>
-    <item>
-      <title>Shadowmountplus</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta12/shadowmountplus.elf</link>
-      <description>ShadowMountPlus payload for game mounting.</description>
-      <pubDate>1.7beta12</pubDate>
-    </item>
-    <item>
-      <title>Backpork V0.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/BackPork/0.1/BackPork_v0.1.elf</link>
-      <description>BackPork PS5 tool.</description>
-      <pubDate>0.1</pubDate>
-    </item>
-    <item>
-      <title>Apr Emu Updater V2.0.6</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/apr-emu-updater/v2.0.6/apr_emu_updater_v2.0.6.elf</link>
-      <description>APR Emu Updater must always be loaded.</description>
-      <pubDate>v2.0.6</pubDate>
-    </item>
-    <item>
-      <title>Ps5-Game-Compressor Fork V1.1.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor_fork/v1.1.1/PS5-Game-Compressor_fork_v1.1.1.elf</link>
-      <description>Fork Tool to compress PS5 games.</description>
-      <pubDate>v1.1.1</pubDate>
-    </item>
-    <item>
-      <title>Bfpilot V0.5.0</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>BFpilot</pubDate>
-    </item>
-    <item>
-      <title>Lapy Jb Daemon</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/Lapy_JB_Daemon/Source-Fixe/lapy_jb_daemon.elf</link>
-      <description>Daemon pour le jailbreak de Lapy</description>
-      <pubDate>Source-Fixe</pubDate>
-    </item>
-    <item>
-      <title>Wfm-7Zip-Helper</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/wfm-7zip-helper.elf</link>
-      <description>PS5 Web File Manager http://your-ps5-ip:8888.</description>
-      <pubDate>v1.14</pubDate>
-    </item>
-    <item>
-      <title>Web-File-Mgr-V1.14</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/web-file-mgr-v1.14.elf</link>
-      <description>PS5 Web File Manager http://your-ps5-ip:8888.</description>
-      <pubDate>v1.14</pubDate>
-    </item>
-    <item>
-      <title>Ps5-File-Explorer Vfile-Explorer-V0.2.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/PS5-File-Explorer/file-explorer-v0.2.1/PS5-File-Explorer_vfile-explorer-v0.2.1.elf</link>
-      <description>PS5 File Explorer http://your-ps5-ip:5905.</description>
-      <pubDate>file-explorer-v0.2.1</pubDate>
-    </item>
-    <item>
-      <title>Np-Fake-Signin-Ps5</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf</link>
-      <description>Fake activate PS5 without PSN.</description>
-      <pubDate>v1.4</pubDate>
-    </item>
-    <item>
-      <title>Nanodns V0.4</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_dns/nanoDNS/0.4/nanoDNS_v0.4.elf</link>
-      <description>Un serveur DNS ultra-léger et rapide idéal pour rediriger les requêtes de la console vers votre hôte local d</description>
-      <pubDate>0.4</pubDate>
-    </item>
-    <item>
-      <title>Chukei Dns V0.9.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_dns/Chukei_DNS/0.9.0/Chukei_DNS_v0.9.0.elf</link>
-      <description>Serveur DNS de redirection d</description>
-      <pubDate>0.9.0</pubDate>
-    </item>
-    <item>
       <title>Ps5-Linux-Loader V2.5</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_linux/ps5-linux-loader/v2.5/ps5-linux-loader_v2.5.elf</link>
       <description>Linux loader payload for the PS5.</description>
       <pubDate>v2.5</pubDate>
-    </item>
-    <item>
-      <title>Actremotelink Agent V2.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Remote/ActRemoteLink-13.x/v2.0/actremotelink_agent_v2.0.elf</link>
-      <description>ActRemoteLink is a set of payloads and utilities for PS5 jailbreak workflows focused on offline activation of a local account and Remote Play</description>
-      <pubDate>v2.0</pubDate>
-    </item>
-    <item>
-      <title>Actremotelink Pin Notify V2.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Remote/ActRemoteLink-13.x/v2.0/actremotelink_pin_notify_v2.0.elf</link>
-      <description>ActRemoteLink is a set of payloads and utilities for PS5 jailbreak workflows focused on offline activation of a local account and Remote Play</description>
-      <pubDate>v2.0</pubDate>
-    </item>
-    <item>
-      <title>Cheatrunner V0.18</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>CheatRunner</pubDate>
-    </item>
-    <item>
-      <title>Kylin-Core V2.0.0-Community-Lite</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/kylin-core/v2.0.0-community-lite/kylin-core_v2.0.0-community-lite.elf</link>
-      <description>kylin-core</description>
-      <pubDate>v2.0.0-community-lite</pubDate>
-    </item>
-    <item>
-      <title>Webkit-Autoloader-Installer V0.7.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.7.1/webkit-autoloader-installer_v0.7.1.elf</link>
-      <description>Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00.</description>
-      <pubDate>v0.7.1</pubDate>
-    </item>
-    <item>
-      <title>Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr V1.2.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0.elf</link>
-      <description>Host-PSM pooP2JB.</description>
-      <pubDate>v1.2.0</pubDate>
-    </item>
-    <item>
-      <title>Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr-En V1.2.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf</link>
-      <description>Host-PSM pooP2JB.</description>
-      <pubDate>v1.2.0</pubDate>
-    </item>
-    <item>
-      <title>Host-Psm-Poop2Jb-V1.2.0-Instala-Onionhen-En V1.2.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-onionhen-en_v1.2.0.elf</link>
-      <description>Host-PSM pooP2JB.</description>
-      <pubDate>v1.2.0</pubDate>
-    </item>
-    <item>
-      <title>Host-Psm-Poop2Jb-V1.2.0-Instala-Onionhen V1.2.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-onionhen_v1.2.0.elf</link>
-      <description>Host-PSM pooP2JB.</description>
-      <pubDate>v1.2.0</pubDate>
-    </item>
-    <item>
-      <title>Poords4-Status V0.2.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.2.0/PoorDS4-status_v0.2.0.elf</link>
-      <description>PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.</description>
-      <pubDate>v0.2.0</pubDate>
-    </item>
-    <item>
-      <title>Poords4 V0.2.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.2.0/PoorDS4_v0.2.0.elf</link>
-      <description>PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.</description>
-      <pubDate>v0.2.0</pubDate>
-    </item>
-    <item>
-      <title>Poords4-Stop V0.2.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.2.0/PoorDS4-stop_v0.2.0.elf</link>
-      <description>PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.</description>
-      <pubDate>v0.2.0</pubDate>
-    </item>
-    <item>
-      <title>Omnipad-Ps5 V1.0.4-Hotfix1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf</link>
-      <description>Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60).</description>
-      <pubDate>v1.0.4-hotfix1</pubDate>
-    </item>
-    <item>
-      <title>Fgg-Xsense V1.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf</link>
-      <description>Use an Xbox controller on a jailbroken PlayStation 5.</description>
-      <pubDate>1.1</pubDate>
-    </item>
-    <item>
-      <title>Ghost-Toothapi</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf</link>
-      <description>ghost-toothAPI.</description>
-      <pubDate>Source-Fixe</pubDate>
-    </item>
-    <item>
-      <title>Pad2C V1.3.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v1.3.1/pad2c_v1.3.1.elf</link>
-      <description>Use the 8BitDo Ultimate 2C Wireless controller on a jailbroken PS5 as a second DualSense, through its 2.4G USB dongle - no Bluetooth.</description>
-      <pubDate>v1.3.1</pubDate>
-    </item>
-    <item>
-      <title>Anypad-Ps5 V0.6.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf</link>
-      <description>Connect your Bluetooth controllers to your PS5 console.</description>
-      <pubDate>Source-Fixe</pubDate>
-    </item>
-    <item>
-      <title>Common Fps Ps5 V1.2.3</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.3/Common_FPS_PS5_v1.2.3.elf</link>
-      <description>A lightweight, open-source real-time FPS counter for PlayStation 5.</description>
-      <pubDate>v1.2.3</pubDate>
-    </item>
-    <item>
-      <title>Ps5-Overlay-Kus V1.0.19</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.19/ps5-overlay-kus_v1.0.19.elf</link>
-      <description>A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+).</description>
-      <pubDate>v1.0.19</pubDate>
-    </item>
-    <item>
-      <title>Overlay Payload</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.19/overlay_payload.elf</link>
-      <description>A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+).</description>
-      <pubDate>v1.0.19</pubDate>
-    </item>
-    <item>
-      <title>Ps5-Custom-Tool-Manager- Vcustom</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_themes-avatars/PS5-Custom-Tool-Manager-/Custom/PS5-Custom-Tool-Manager-_vCustom.elf</link>
-      <description>Custom manager tool for PS5 personalization.</description>
-      <pubDate>Custom</pubDate>
-    </item>
-    <item>
-      <title>Ps5-Wallpaper-Modd V1.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_themes-avatars/ps5-wallpaper-modd/v1.0/ps5-wallpaper-modd_v1.0.elf</link>
-      <description>Wallpaper modification utility for PS5.</description>
-      <pubDate>v1.0</pubDate>
     </item>
     <item>
       <title>A53-Kstuff-Shadowmountplus-3In1</title>
@@ -327,42 +45,6 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_11.60_only_Experimental_KS-D/Source-Fixe/a53_ppr_install_1160_20.09.elf</link>
       <description>a53_ppr_install_1160_20.09.elf - 11.60 only</description>
       <pubDate>Source-Fixe</pubDate>
-    </item>
-    <item>
-      <title>Garlic-Savemgr V1.15-Beta9</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>garlic-savemgr</pubDate>
-    </item>
-    <item>
-      <title>Garlic-Worker V1.5.5</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.5.5/garlic-worker_v1.5.5.elf</link>
-      <description>Garlic worker payload component.</description>
-      <pubDate>v1.5.5</pubDate>
-    </item>
-    <item>
-      <title>Savemnt-Offset-Dumper V1.0.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf</link>
-      <description>Offset dumper for save mounting utilities.</description>
-      <pubDate>1.0.0</pubDate>
-    </item>
-    <item>
-      <title>Ps5Shopappkg-Dpi</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/ps5shopappkg-dpi/Source-Fixe/ps5shopappkg-dpi.elf</link>
-      <description>You need PS5-SHOP-APPKG.pkg DPI port 9040.</description>
-      <pubDate>Source-Fixe</pubDate>
-    </item>
-    <item>
-      <title>Ps5Library-Agent</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.91/ps5library-agent.elf</link>
-      <description>You need PS5Library.pkg.</description>
-      <pubDate>v0.2.91</pubDate>
-    </item>
-    <item>
-      <title>Orbit Store</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.8.5/orbit_store.elf</link>
-      <description>A modern, no-BS download manager for PS5.</description>
-      <pubDate>v1.8.5</pubDate>
     </item>
     <item>
       <title>Etahen V2.5B</title>
@@ -419,16 +101,70 @@
       <pubDate>v1.2</pubDate>
     </item>
     <item>
-      <title>Pkg-Manager V1.5.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.5.1/pkg-manager_v1.5.1.elf</link>
-      <description>A clean and intuitive package manager for PlayStation 5</description>
-      <pubDate>v1.5.1</pubDate>
+      <title>Bfplayer-Standalone</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/BFplayer-standalone/v0.1.0-alpha.44/bfplayer-standalone.elf</link>
+      <description>BFplayer is a native media library and player for jailbroken PlayStation 5 consoles.</description>
+      <pubDate>v0.1.0-alpha.44</pubDate>
     </item>
     <item>
-      <title>Pkg-Receiver V1.2.9</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/pkg-receiver/v1.2.9/pkg-receiver_v1.2.9.elf</link>
-      <description>A package manager for PlayStation 5 need PkgSender android app or windows app</description>
-      <pubDate>v1.2.9</pubDate>
+      <title>Prosperoplayer V1.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/ProsperoPlayer/v1.0/ProsperoPlayer_v1.0.elf</link>
+      <description>A homebrew media player for jailbroken PS5.</description>
+      <pubDate>v1.0</pubDate>
+    </item>
+    <item>
+      <title>Svtplay V0.3</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/svtplay/v0.3/svtplay_v0.3.elf</link>
+      <description>This is an unofficial 10-foot UI for SVT Play, the Swedish public service television broadcaster.</description>
+      <pubDate>v0.3</pubDate>
+    </item>
+    <item>
+      <title>Ps-Play V2.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/PS-Play/2.1/PS-Play_v2.1.elf</link>
+      <description>All-in-one media hub for jailbroken PlayStation 5</description>
+      <pubDate>2.1</pubDate>
+    </item>
+    <item>
+      <title>Ps5-Fan-Control V0.3</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/ps5-fan-control/v0.3/ps5-fan-control_v0.3.elf</link>
+      <description>Small PS5 daemon payload ELF that sets the system fan temperature.</description>
+      <pubDate>v0.3</pubDate>
+    </item>
+    <item>
+      <title>Fan Target 75C V0.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_75c_v0.1.elf</link>
+      <description>fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console</description>
+      <pubDate>0.1</pubDate>
+    </item>
+    <item>
+      <title>Fan Target 85C V0.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_85c_v0.1.elf</link>
+      <description>fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console</description>
+      <pubDate>0.1</pubDate>
+    </item>
+    <item>
+      <title>Fan Target V0.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_v0.1.elf</link>
+      <description>fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console</description>
+      <pubDate>0.1</pubDate>
+    </item>
+    <item>
+      <title>Fan Target 70C V0.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_70c_v0.1.elf</link>
+      <description>fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console</description>
+      <pubDate>0.1</pubDate>
+    </item>
+    <item>
+      <title>Fan Target 65C V0.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_65c_v0.1.elf</link>
+      <description>fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console</description>
+      <pubDate>0.1</pubDate>
+    </item>
+    <item>
+      <title>Fan Target 80C V0.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_80c_v0.1.elf</link>
+      <description>fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console</description>
+      <pubDate>0.1</pubDate>
     </item>
     <item>
       <title>Ps5Debug-Ng V1.3.2</title>
@@ -443,18 +179,6 @@
       <pubDate>26616621599</pubDate>
     </item>
     <item>
-      <title>Ps5-Self-Pager-System-Common-Lib</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-system-common-lib.elf</link>
-      <description>SELF pager payload tool.</description>
-      <pubDate>v1.2</pubDate>
-    </item>
-    <item>
-      <title>Ps5-Self-Pager-Shellcore</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-shellcore.elf</link>
-      <description>SELF pager payload tool.</description>
-      <pubDate>v1.2</pubDate>
-    </item>
-    <item>
       <title>Ps5-Self-Pager-Game</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-game.elf</link>
       <description>SELF pager payload tool.</description>
@@ -467,16 +191,16 @@
       <pubDate>v1.2</pubDate>
     </item>
     <item>
-      <title>Ps5-Self-Decrypter-Full-System</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-full-system.elf</link>
-      <description>SELF decrypter tool for PS5 binaries.</description>
-      <pubDate>v0.5.2</pubDate>
+      <title>Ps5-Self-Pager-System-Common-Lib</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-system-common-lib.elf</link>
+      <description>SELF pager payload tool.</description>
+      <pubDate>v1.2</pubDate>
     </item>
     <item>
-      <title>Ps5-Self-Decrypter-Shellcore</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-shellcore.elf</link>
-      <description>SELF decrypter tool for PS5 binaries.</description>
-      <pubDate>v0.5.2</pubDate>
+      <title>Ps5-Self-Pager-Shellcore</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-shellcore.elf</link>
+      <description>SELF pager payload tool.</description>
+      <pubDate>v1.2</pubDate>
     </item>
     <item>
       <title>Ps5-Self-Decrypter-System-Common-Lib</title>
@@ -485,8 +209,20 @@
       <pubDate>v0.5.2</pubDate>
     </item>
     <item>
+      <title>Ps5-Self-Decrypter-Full-System</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-full-system.elf</link>
+      <description>SELF decrypter tool for PS5 binaries.</description>
+      <pubDate>v0.5.2</pubDate>
+    </item>
+    <item>
       <title>Ps5-Self-Decrypter-Game</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-game.elf</link>
+      <description>SELF decrypter tool for PS5 binaries.</description>
+      <pubDate>v0.5.2</pubDate>
+    </item>
+    <item>
+      <title>Ps5-Self-Decrypter-Shellcore</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-shellcore.elf</link>
       <description>SELF decrypter tool for PS5 binaries.</description>
       <pubDate>v0.5.2</pubDate>
     </item>
@@ -509,46 +245,154 @@
       <pubDate>0.1</pubDate>
     </item>
     <item>
-      <title>Ps5-Fan-Control V0.3</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/ps5-fan-control/v0.3/ps5-fan-control_v0.3.elf</link>
-      <description>Small PS5 daemon payload ELF that sets the system fan temperature.</description>
-      <pubDate>v0.3</pubDate>
+      <title>Actremotelink Pin Notify V2.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Remote/ActRemoteLink-13.x/v2.0/actremotelink_pin_notify_v2.0.elf</link>
+      <description>ActRemoteLink is a set of payloads and utilities for PS5 jailbreak workflows focused on offline activation of a local account and Remote Play</description>
+      <pubDate>v2.0</pubDate>
     </item>
     <item>
-      <title>Fan Target 70C V0.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_70c_v0.1.elf</link>
-      <description>fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console</description>
-      <pubDate>0.1</pubDate>
+      <title>Actremotelink Agent V2.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Remote/ActRemoteLink-13.x/v2.0/actremotelink_agent_v2.0.elf</link>
+      <description>ActRemoteLink is a set of payloads and utilities for PS5 jailbreak workflows focused on offline activation of a local account and Remote Play</description>
+      <pubDate>v2.0</pubDate>
     </item>
     <item>
-      <title>Fan Target 75C V0.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_75c_v0.1.elf</link>
-      <description>fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console</description>
-      <pubDate>0.1</pubDate>
+      <title>Cheatrunner V0.18</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>CheatRunner</pubDate>
     </item>
     <item>
-      <title>Fan Target 85C V0.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_85c_v0.1.elf</link>
-      <description>fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console</description>
-      <pubDate>0.1</pubDate>
+      <title>Kylin-Core V2.0.0-Community-Lite</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Cheat/kylin-core/v2.0.0-community-lite/kylin-core_v2.0.0-community-lite.elf</link>
+      <description>kylin-core</description>
+      <pubDate>v2.0.0-community-lite</pubDate>
     </item>
     <item>
-      <title>Fan Target V0.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_v0.1.elf</link>
-      <description>fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console</description>
-      <pubDate>0.1</pubDate>
+      <title>Fgg-Playpods-Gui V0.1.5</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_audio_utility/FGG-PlayPods-GUI/v0.1.5/FGG-PlayPods-GUI_v0.1.5.elf</link>
+      <description>AudioBridge GUI PS5 Bluetooth A2DP Web GUI, based on FGG-PlayPods by FathiGhanem.</description>
+      <pubDate>v0.1.5</pubDate>
     </item>
     <item>
-      <title>Fan Target 80C V0.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_80c_v0.1.elf</link>
-      <description>fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console</description>
-      <pubDate>0.1</pubDate>
+      <title>Fgg-Playpods V1.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_audio_utility/FGG-PlayPods/1.0/FGG-PlayPods_v1.0.elf</link>
+      <description>Hear your PlayStation 5 on an ordinary Bluetooth headset.</description>
+      <pubDate>1.0</pubDate>
     </item>
     <item>
-      <title>Fan Target 65C V0.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_65c_v0.1.elf</link>
-      <description>fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console</description>
-      <pubDate>0.1</pubDate>
+      <title>Webkit-Autoloader-Installer V0.7.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.7.1/webkit-autoloader-installer_v0.7.1.elf</link>
+      <description>Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00.</description>
+      <pubDate>v0.7.1</pubDate>
+    </item>
+    <item>
+      <title>Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr-En V1.2.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf</link>
+      <description>Host-PSM pooP2JB.</description>
+      <pubDate>v1.2.0</pubDate>
+    </item>
+    <item>
+      <title>Host-Psm-Poop2Jb-V1.2.0-Instala-Onionhen V1.2.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-onionhen_v1.2.0.elf</link>
+      <description>Host-PSM pooP2JB.</description>
+      <pubDate>v1.2.0</pubDate>
+    </item>
+    <item>
+      <title>Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr V1.2.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0.elf</link>
+      <description>Host-PSM pooP2JB.</description>
+      <pubDate>v1.2.0</pubDate>
+    </item>
+    <item>
+      <title>Host-Psm-Poop2Jb-V1.2.0-Instala-Onionhen-En V1.2.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-onionhen-en_v1.2.0.elf</link>
+      <description>Host-PSM pooP2JB.</description>
+      <pubDate>v1.2.0</pubDate>
+    </item>
+    <item>
+      <title>Bfpilot V0.5.0</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>BFpilot</pubDate>
+    </item>
+    <item>
+      <title>Lapy Jb Daemon</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/Lapy_JB_Daemon/Source-Fixe/lapy_jb_daemon.elf</link>
+      <description>Daemon pour le jailbreak de Lapy</description>
+      <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
+      <title>Web-File-Mgr-V1.14</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/web-file-mgr-v1.14.elf</link>
+      <description>PS5 Web File Manager http://your-ps5-ip:8888.</description>
+      <pubDate>v1.14</pubDate>
+    </item>
+    <item>
+      <title>Wfm-7Zip-Helper</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/wfm-7zip-helper.elf</link>
+      <description>PS5 Web File Manager http://your-ps5-ip:8888.</description>
+      <pubDate>v1.14</pubDate>
+    </item>
+    <item>
+      <title>Ps5-File-Explorer Vfile-Explorer-V0.2.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/PS5-File-Explorer/file-explorer-v0.2.1/PS5-File-Explorer_vfile-explorer-v0.2.1.elf</link>
+      <description>PS5 File Explorer http://your-ps5-ip:5905.</description>
+      <pubDate>file-explorer-v0.2.1</pubDate>
+    </item>
+    <item>
+      <title>Kstuff Echostretch V1.6.7</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff_EchoStretch/v1.6.7/kstuff_EchoStretch_v1.6.7.elf</link>
+      <description>Fnd Kstuff payload for PS5.</description>
+      <pubDate>v1.6.7</pubDate>
+    </item>
+    <item>
+      <title>Kstuff-Lite Echostretch V1.11</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-lite_EchoStretch/v1.11/kstuff-lite_EchoStretch_v1.11.elf</link>
+      <description>Lightweight version of kstuff.</description>
+      <pubDate>v1.11</pubDate>
+    </item>
+    <item>
+      <title>Kstuff-Lite Drakmor V1.2-Dr-Test2</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>kstuff-lite_drakmor</pubDate>
+    </item>
+    <item>
+      <title>Kstuff-A53 Sonic V1.4</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-a53_SoNic/1.4/kstuff-a53_SoNic_v1.4.elf</link>
+      <description>SoNic variant of kstuff-a53.</description>
+      <pubDate>1.4</pubDate>
+    </item>
+    <item>
+      <title>Snes9Xps5 V2.9</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>snes9xPS5</pubDate>
+    </item>
+    <item>
+      <title>Genplusgxps5 V2.2</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>genplusgxPS5</pubDate>
+    </item>
+    <item>
+      <title>Ps5-Romm V1.4.2</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.4.2/ps5-romm_v1.4.2.elf</link>
+      <description>ps5-romm for ps5</description>
+      <pubDate>v1.4.2</pubDate>
+    </item>
+    <item>
+      <title>Fbneo-Ps5 V2.4</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v2.4/fbneo-ps5_v2.4.elf</link>
+      <description>FBNeo for ps5</description>
+      <pubDate>v2.4</pubDate>
+    </item>
+    <item>
+      <title>Phu-Sandbox.Exit V1.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PHU-Sandbox.Exit/Source-Fixe/PHU-Sandbox.Exit_v1.0.elf</link>
+      <description>addon for Markus-PHU Emupack</description>
+      <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
       <title>Chronicloader-Ps5-Payload V0.1</title>
@@ -591,6 +435,150 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/FGG-Unpack/v0.1/FGG-Unpack_v0.1.elf</link>
       <description>Extract .zip and .7z archives directly on a jailbroken PlayStation 5.</description>
       <pubDate>v0.1</pubDate>
+    </item>
+    <item>
+      <title>Poords4-Status V0.2.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.2.0/PoorDS4-status_v0.2.0.elf</link>
+      <description>PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.</description>
+      <pubDate>v0.2.0</pubDate>
+    </item>
+    <item>
+      <title>Poords4-Stop V0.2.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.2.0/PoorDS4-stop_v0.2.0.elf</link>
+      <description>PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.</description>
+      <pubDate>v0.2.0</pubDate>
+    </item>
+    <item>
+      <title>Poords4 V0.2.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/PoorDS4/v0.2.0/PoorDS4_v0.2.0.elf</link>
+      <description>PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5.</description>
+      <pubDate>v0.2.0</pubDate>
+    </item>
+    <item>
+      <title>Omnipad-Ps5 V1.0.4-Hotfix1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf</link>
+      <description>Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60).</description>
+      <pubDate>v1.0.4-hotfix1</pubDate>
+    </item>
+    <item>
+      <title>Fgg-Xsense V1.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf</link>
+      <description>Use an Xbox controller on a jailbroken PlayStation 5.</description>
+      <pubDate>1.1</pubDate>
+    </item>
+    <item>
+      <title>Ghost-Toothapi</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf</link>
+      <description>ghost-toothAPI.</description>
+      <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
+      <title>Pad2C V1.3.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v1.3.1/pad2c_v1.3.1.elf</link>
+      <description>Use the 8BitDo Ultimate 2C Wireless controller on a jailbroken PS5 as a second DualSense, through its 2.4G USB dongle - no Bluetooth.</description>
+      <pubDate>v1.3.1</pubDate>
+    </item>
+    <item>
+      <title>Anypad-Ps5 V0.6.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf</link>
+      <description>Connect your Bluetooth controllers to your PS5 console.</description>
+      <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
+      <title>Pkg-Manager V1.5.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/ps5-pkg-manager/v1.5.1/pkg-manager_v1.5.1.elf</link>
+      <description>A clean and intuitive package manager for PlayStation 5</description>
+      <pubDate>v1.5.1</pubDate>
+    </item>
+    <item>
+      <title>Pkg-Receiver V1.2.9</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pkg_tool/pkg-receiver/v1.2.9/pkg-receiver_v1.2.9.elf</link>
+      <description>A package manager for PlayStation 5 need PkgSender android app or windows app</description>
+      <pubDate>v1.2.9</pubDate>
+    </item>
+    <item>
+      <title>Common Fps Ps5 V1.2.3</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.3/Common_FPS_PS5_v1.2.3.elf</link>
+      <description>A lightweight, open-source real-time FPS counter for PlayStation 5.</description>
+      <pubDate>v1.2.3</pubDate>
+    </item>
+    <item>
+      <title>Overlay Payload</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.19/overlay_payload.elf</link>
+      <description>A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+).</description>
+      <pubDate>v1.0.19</pubDate>
+    </item>
+    <item>
+      <title>Ps5-Overlay-Kus V1.0.19</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.19/ps5-overlay-kus_v1.0.19.elf</link>
+      <description>A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+).</description>
+      <pubDate>v1.0.19</pubDate>
+    </item>
+    <item>
+      <title>Nanodns V0.4</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_dns/nanoDNS/0.4/nanoDNS_v0.4.elf</link>
+      <description>Un serveur DNS ultra-léger et rapide idéal pour rediriger les requêtes de la console vers votre hôte local d</description>
+      <pubDate>0.4</pubDate>
+    </item>
+    <item>
+      <title>Chukei Dns V0.9.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_dns/Chukei_DNS/0.9.0/Chukei_DNS_v0.9.0.elf</link>
+      <description>Serveur DNS de redirection d</description>
+      <pubDate>0.9.0</pubDate>
+    </item>
+    <item>
+      <title>Ps5Shopappkg-Dpi</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/ps5shopappkg-dpi/Source-Fixe/ps5shopappkg-dpi.elf</link>
+      <description>You need PS5-SHOP-APPKG.pkg DPI port 9040.</description>
+      <pubDate>Source-Fixe</pubDate>
+    </item>
+    <item>
+      <title>Ps5Library-Agent</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.91/ps5library-agent.elf</link>
+      <description>You need PS5Library.pkg.</description>
+      <pubDate>v0.2.91</pubDate>
+    </item>
+    <item>
+      <title>Orbit Store</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.8.5/orbit_store.elf</link>
+      <description>A modern, no-BS download manager for PS5.</description>
+      <pubDate>v1.8.5</pubDate>
+    </item>
+    <item>
+      <title>Ps5-Game-Compressor V1.0.4</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor/v1.0.4/PS5-Game-Compressor_v1.0.4.elf</link>
+      <description>Tool to compress PS5 games.</description>
+      <pubDate>v1.0.4</pubDate>
+    </item>
+    <item>
+      <title>Ps5-App-Dumper V2.10</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ps5-app-dumper/v2.10/ps5-app-dumper_v2.10.elf</link>
+      <description>PS5 App Dumper payload.</description>
+      <pubDate>v2.10</pubDate>
+    </item>
+    <item>
+      <title>Shadowmountplus</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/ShadowMountPlus/1.7beta12/shadowmountplus.elf</link>
+      <description>ShadowMountPlus payload for game mounting.</description>
+      <pubDate>1.7beta12</pubDate>
+    </item>
+    <item>
+      <title>Backpork V0.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/BackPork/0.1/BackPork_v0.1.elf</link>
+      <description>BackPork PS5 tool.</description>
+      <pubDate>0.1</pubDate>
+    </item>
+    <item>
+      <title>Apr Emu Updater V2.0.6</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/apr-emu-updater/v2.0.6/apr_emu_updater_v2.0.6.elf</link>
+      <description>APR Emu Updater must always be loaded.</description>
+      <pubDate>v2.0.6</pubDate>
+    </item>
+    <item>
+      <title>Ps5-Game-Compressor Fork V1.1.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_game_dump/PS5-Game-Compressor_fork/v1.1.1/PS5-Game-Compressor_fork_v1.1.1.elf</link>
+      <description>Fork Tool to compress PS5 games.</description>
+      <pubDate>v1.1.1</pubDate>
     </item>
     <item>
       <title>Zftpd-Ps5-V1.7.0</title>
@@ -665,34 +653,64 @@
       <pubDate>0.19</pubDate>
     </item>
     <item>
-      <title>Bfplayer-Standalone</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/BFplayer-standalone/v0.1.0-alpha.44/bfplayer-standalone.elf</link>
-      <description>BFplayer is a native media library and player for jailbroken PlayStation 5 consoles.</description>
-      <pubDate>v0.1.0-alpha.44</pubDate>
+      <title>Np-Fake-Signin-Ps5</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf</link>
+      <description>Fake activate PS5 without PSN.</description>
+      <pubDate>v1.4</pubDate>
     </item>
     <item>
-      <title>Prosperoplayer V1.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/ProsperoPlayer/v1.0/ProsperoPlayer_v1.0.elf</link>
-      <description>A homebrew media player for jailbroken PS5.</description>
+      <title>Ps5-Custom-Tool-Manager- Vcustom</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_themes-avatars/PS5-Custom-Tool-Manager-/Custom/PS5-Custom-Tool-Manager-_vCustom.elf</link>
+      <description>Custom manager tool for PS5 personalization.</description>
+      <pubDate>Custom</pubDate>
+    </item>
+    <item>
+      <title>Ps5-Wallpaper-Modd V1.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_themes-avatars/ps5-wallpaper-modd/v1.0/ps5-wallpaper-modd_v1.0.elf</link>
+      <description>Wallpaper modification utility for PS5.</description>
       <pubDate>v1.0</pubDate>
     </item>
     <item>
-      <title>Svtplay V0.3</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/svtplay/v0.3/svtplay_v0.3.elf</link>
-      <description>This is an unofficial 10-foot UI for SVT Play, the Swedish public service television broadcaster.</description>
-      <pubDate>v0.3</pubDate>
-    </item>
-    <item>
-      <title>Ps-Play V2.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_video_player/PS-Play/2.1/PS-Play_v2.1.elf</link>
-      <description>All-in-one media hub for jailbroken PlayStation 5</description>
-      <pubDate>2.1</pubDate>
-    </item>
-    <item>
-      <title>Nuvio-Ps5 V1.8.0</title>
+      <title>Garlic-Savemgr V1.15-Beta9</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>Nuvio-PS5</pubDate>
+      <pubDate>garlic-savemgr</pubDate>
+    </item>
+    <item>
+      <title>Garlic-Worker V1.5.5</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.5.5/garlic-worker_v1.5.5.elf</link>
+      <description>Garlic worker payload component.</description>
+      <pubDate>v1.5.5</pubDate>
+    </item>
+    <item>
+      <title>Savemnt-Offset-Dumper V1.0.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf</link>
+      <description>Offset dumper for save mounting utilities.</description>
+      <pubDate>1.0.0</pubDate>
+    </item>
+    <item>
+      <title>Poords4Rc51 V0.1.0-Rc51</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>PoorDS4</pubDate>
+    </item>
+    <item>
+      <title>Zftpd-Ps5-V1.6.0</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>zftpd</pubDate>
+    </item>
+    <item>
+      <title>Zftpd-Ps5-Zhttp-V1.6.0</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>zftpd</pubDate>
+    </item>
+    <item>
+      <title>Ps5X360 V0.5.7</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>PS5X360</pubDate>
     </item>
     <item>
       <title>Ps5 Overlay</title>
@@ -707,49 +725,7 @@
       <pubDate>ps5-new-overlay</pubDate>
     </item>
     <item>
-      <title>Ps5Library-Agent-0.2.55</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>PS5Library</pubDate>
-    </item>
-    <item>
-      <title>Ps5Library-Agent-0.2.70</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>PS5Library</pubDate>
-    </item>
-    <item>
-      <title>Pegasus-Dl V1.11.0</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>pegasus-dl</pubDate>
-    </item>
-    <item>
-      <title>Ps5-Phstore Vphstore</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>PS5-PHStore</pubDate>
-    </item>
-    <item>
-      <title>Spectrum-Library V1.4.8</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>Spectrum-Library</pubDate>
-    </item>
-    <item>
-      <title>Poords4Rc51 V0.1.0-Rc51</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>PoorDS4</pubDate>
-    </item>
-    <item>
-      <title>Web-File-Mgr-V1.9</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>ps5-web-file-manager</pubDate>
-    </item>
-    <item>
-      <title>Web-File-Mgr V1.9</title>
+      <title>Web-File-Mgr-V1.10</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>ps5-web-file-manager</pubDate>
@@ -761,7 +737,25 @@
       <pubDate>ps5-web-file-manager</pubDate>
     </item>
     <item>
+      <title>Web-File-Mgr-V1.12</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ps5-web-file-manager</pubDate>
+    </item>
+    <item>
       <title>Web-File-Mgr-V1.11B</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ps5-web-file-manager</pubDate>
+    </item>
+    <item>
+      <title>Web-File-Mgr-V1.9</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ps5-web-file-manager</pubDate>
+    </item>
+    <item>
+      <title>Web-File-Mgr V1.9</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>ps5-web-file-manager</pubDate>
@@ -779,34 +773,40 @@
       <pubDate>ps5-web-file-manager</pubDate>
     </item>
     <item>
-      <title>Web-File-Mgr-V1.12</title>
+      <title>Nuvio-Ps5 V1.8.0</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>ps5-web-file-manager</pubDate>
+      <pubDate>Nuvio-PS5</pubDate>
     </item>
     <item>
-      <title>Web-File-Mgr-V1.10</title>
+      <title>Ps5-Phstore Vphstore</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>ps5-web-file-manager</pubDate>
+      <pubDate>PS5-PHStore</pubDate>
     </item>
     <item>
-      <title>Ps5X360 V0.5.7</title>
+      <title>Spectrum-Library V1.4.8</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>PS5X360</pubDate>
+      <pubDate>Spectrum-Library</pubDate>
     </item>
     <item>
-      <title>Zftpd-Ps5-Zhttp-V1.6.0</title>
+      <title>Ps5Library-Agent-0.2.70</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>zftpd</pubDate>
+      <pubDate>PS5Library</pubDate>
     </item>
     <item>
-      <title>Zftpd-Ps5-V1.6.0</title>
+      <title>Ps5Library-Agent-0.2.55</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>zftpd</pubDate>
+      <pubDate>PS5Library</pubDate>
+    </item>
+    <item>
+      <title>Pegasus-Dl V1.11.0</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>pegasus-dl</pubDate>
     </item>
   </channel>
 </rss>

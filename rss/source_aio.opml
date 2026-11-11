@@ -5,18 +5,83 @@
   </head>
   <body>
     <outline text="Payloads" title="Payloads">
-      <outline text="snes9xPS5" title="snes9xPS5" type="rss" xmlUrl="https://github.com/MisterTemaki/snes9xPS5" description="snes9x emulator"/>
-      <outline text="genplusgxPS5" title="genplusgxPS5" type="rss" xmlUrl="https://github.com/MisterTemaki/genplusgxPS5" description="Port of Genesis-Plus-GX for PS55"/>
-      <outline text="ps5-romm" title="ps5-romm" type="rss" xmlUrl="https://github.com/s0liton/ps5-romm" description="ps5-romm for ps5"/>
-      <outline text="fbneo-ps5" title="fbneo-ps5" type="rss" xmlUrl="https://github.com/MisterTemaki/fbneo-ps5" description="FBNeo for ps5"/>
-      <outline text="PHU-Sandbox.Exit" title="PHU-Sandbox.Exit" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/PHU-Sandbox.Exit_v1.0.elf" description="addon for Markus-PHU Emupack"/>
+      <outline text="ps5-linux-loader" title="ps5-linux-loader" type="rss" xmlUrl="https://github.com/ps5-linux/ps5-linux-loader" description="Linux loader payload for the PS5."/>
+      <outline text="A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental" title="A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/PS5_Beta/SoNic-AIO/A53-Kstuff-ShadowMountPlus-3in1.elf" description="Experimental AIO by SoNic credit to EchoStrech DrakMor"/>
+      <outline text="A53-kstuff-SMP_SoNic-AIO_Experimental" title="A53-kstuff-SMP_SoNic-AIO_Experimental" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/PS5_Beta/SoNic-AIO/A53-kstuff-SMP.elf" description="Experimental AIO by SoNic credit to EchoStrech DrakMor"/>
+      <outline text="Kstuff-NG_EchoStrech_Experimental" title="Kstuff-NG_EchoStrech_Experimental" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/PS5_Beta/Kstuff-NG/Kstuff-NG_v1.00.elf" description="Experimental Kstuff NG"/>
+      <outline text="kstuff_Drakmor_Experimental" title="kstuff_Drakmor_Experimental" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/PS5_Beta/Kstuff-Darkmor/kstuff-1.13-fpkg-dr-test5.elf" description="Experimental Kstuff DrakMor - kstuff-1.13-fpkg-dr-test3"/>
+      <outline text="A53 1.00-11.40 Experimental KS-D" title="A53 1.00-11.40 Experimental KS-D" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/PS5_Beta/a53_ppr/a53_ppr_install_1140_20.09.elf" description="a53_ppr_install_1140_20.09.elf - support 1.00-11.40"/>
+      <outline text="A53 11.60 only Experimental KS-D" title="A53 11.60 only Experimental KS-D" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/PS5_Beta/a53_ppr/a53_ppr_install_1160_20.09.elf" description="a53_ppr_install_1160_20.09.elf - 11.60 only"/>
+      <outline text="etaHEN" title="etaHEN" type="rss" xmlUrl="https://github.com/etaHEN/etaHEN" description="Le Homebrew Enabler (HEN) de référence pour la PS5 avec serveurs de triche, plugins et gestionnaire de mémoire intégrés."/>
+      <outline text="PS5 Unified Autoloader" title="PS5 Unified Autoloader" type="rss" xmlUrl="https://github.com/itsPLK/ps5-unified-autoloader" description="Chargeur universel de payloads permettant de lancer automatiquement vos outils favoris au démarrage de l'exploit."/>
+      <outline text="PS5 Payload Manager" title="PS5 Payload Manager" type="rss" xmlUrl="https://github.com/itsPLK/ps5-payload-manager" description="Interface d'administration et de gestion réseau pour envoyer, activer et ordonner vos fichiers ELF/BIN sur la console."/>
+      <outline text="ELF Arsenal" title="ELF Arsenal" type="rss" xmlUrl="https://git.etawen.dev/soniciso/elf-arsenal" description="Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées."/>
+      <outline text="Kura" title="Kura" type="rss" xmlUrl="https://github.com/NookieAI/kura" description="Un loader de payloads moderne et épuré conçu pour optimiser l'injection de code sur PS5."/>
+      <outline text="PIZZA-HEN" title="PIZZA-HEN" type="rss" xmlUrl="https://github.com/Michele-M-Media/PIZZA-HEN" description="PIZZA HEN is an experimental all-in-one PS5 homebrew environment."/>
+      <outline text="onionHEN" title="onionHEN" type="rss" xmlUrl="https://github.com/aydencharles/onionHEN" description="An all-in-one HEN and Toolbox for PlayStation 5."/>
+      <outline text="etaHEN-Beta" title="etaHEN-Beta" type="rss" xmlUrl="https://github.com/zecoxao/zecoxao.github.io/raw/refs/heads/main/luasauce/payloads/etaHEN-2.6B.bin" description="etahen beta version experimental."/>
+      <outline text="ProsperoMgr" title="ProsperoMgr" type="rss" xmlUrl="https://github.com/notmaj0r/ProsperoMgr" description="A Web-Based All-In-One homebrew manager for your PlayStation 5"/>
+      <outline text="BFplayer-standalone" title="BFplayer-standalone" type="rss" xmlUrl="https://github.com/ItsBlurf/BFplayer" description="BFplayer is a native media library and player for jailbroken PlayStation 5 consoles."/>
+      <outline text="ProsperoPlayer" title="ProsperoPlayer" type="rss" xmlUrl="https://github.com/KINGDKAK/ProsperoPlayer" description="A homebrew media player for jailbroken PS5."/>
+      <outline text="svtplay" title="svtplay" type="rss" xmlUrl="https://github.com/ps5-payload-dev/svtplay" description="This is an unofficial 10-foot UI for SVT Play, the Swedish public service television broadcaster."/>
+      <outline text="PS-Play" title="PS-Play" type="rss" xmlUrl="https://github.com/MounirHero/PS-Play" description="All-in-one media hub for jailbroken PlayStation 5"/>
+      <outline text="Nuvio-PS5" title="Nuvio-PS5" type="rss" xmlUrl="https://github.com/theghostonline/Nuvio-PS5" description="Nuvio, at home on the PlayStation 5"/>
+      <outline text="ps5-fan-control" title="ps5-fan-control" type="rss" xmlUrl="https://github.com/owendswang/ps5-fan-control" description="Small PS5 daemon payload ELF that sets the system fan temperature."/>
+      <outline text="fan_target" title="fan_target" type="rss" xmlUrl="https://github.com/drakmor/fan_target" description="fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console's automatic fan control enabled."/>
+      <outline text="ps5debug-NG" title="ps5debug-NG" type="rss" xmlUrl="https://github.com/OpenSourcereR-dev/ps5debug-NG" description="Next generation debugger payload for PS5."/>
+      <outline text="ps5-fw-spoof" title="ps5-fw-spoof" type="rss" xmlUrl="https://github.com/illusionyy/ps5-fw-spoof" description="Firmware spoofer utility for PS5."/>
+      <outline text="ps5-self-pager" title="ps5-self-pager" type="rss" xmlUrl="https://github.com/idlesauce/ps5-self-pager" description="SELF pager payload tool."/>
+      <outline text="PS5-SELF-Decrypter" title="PS5-SELF-Decrypter" type="rss" xmlUrl="https://github.com/idlesauce/PS5-SELF-Decrypter" description="SELF decrypter tool for PS5 binaries."/>
+      <outline text="ps5-remoteplay-get-pin" title="ps5-remoteplay-get-pin" type="rss" xmlUrl="https://github.com/idlesauce/ps5-remoteplay-get-pin" description="Utility to get Remote Play PIN."/>
+      <outline text="MemDBG" title="MemDBG" type="rss" xmlUrl="https://github.com/seregonwar/MemDBG" description="Memory debugging and inspection suite."/>
+      <outline text="ps5-hwinfo" title="ps5-hwinfo" type="rss" xmlUrl="https://github.com/drakmor/ps5-hwinfo" description="PS5 payload for collecting hardware and runtime telemetry."/>
+      <outline text="PS5 Debugger GUI" title="PS5 Debugger GUI" type="rss" xmlUrl="https://github.com/boazvdwansem/ps5-debugger" description="Graphical user interface for interacting with the debugger payload."/>
+      <outline text="ActRemoteLink-13.x" title="ActRemoteLink-13.x" type="rss" xmlUrl="https://github.com/StonedModder/ActRemoteLink-13.x" description="ActRemoteLink is a set of payloads and utilities for PS5 jailbreak workflows focused on offline activation of a local account and Remote Play"/>
+      <outline text="CheatRunner" title="CheatRunner" type="rss" xmlUrl="https://github.com/notmaj0r/CheatRunner" description="CheatRunner."/>
+      <outline text="kylin-core" title="kylin-core" type="rss" xmlUrl="https://github.com/aydencharles/kylin-core-release" description="kylin-core"/>
       <outline text="FGG-PlayPods-GUI" title="FGG-PlayPods-GUI" type="rss" xmlUrl="https://github.com/menfis911/FGG-PlayPods-GUI" description="AudioBridge GUI PS5 Bluetooth A2DP Web GUI, based on FGG-PlayPods by FathiGhanem."/>
       <outline text="FGG-PlayPods" title="FGG-PlayPods" type="rss" xmlUrl="https://github.com/FGGstore/FGG-PlayPods" description="Hear your PlayStation 5 on an ordinary Bluetooth headset."/>
+      <outline text="ps5-webkit-autoloader" title="ps5-webkit-autoloader" type="rss" xmlUrl="https://github.com/itsPLK/ps5-webkit-autoloader" description="Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00."/>
+      <outline text="Host-PSM pooP2JB" title="Host-PSM pooP2JB" type="rss" xmlUrl="https://github.com/ps4macedo/instalador-host-psm-poop2jb" description="Host-PSM pooP2JB."/>
+      <outline text="BFpilot" title="BFpilot" type="rss" xmlUrl="https://github.com/ItsBlurf/BFpilot" description="BFpilot is a lightweight PS5 payload that serves a browser-based file manager."/>
+      <outline text="Lapy JB Daemon" title="Lapy JB Daemon" type="rss" xmlUrl="https://raw.githubusercontent.com/ArkSama/PS5-Lapy-JB-Daemon/main/lapy_jb_daemon.elf" description="Daemon pour le jailbreak de Lapy"/>
+      <outline text="ps5-web-file-manager" title="ps5-web-file-manager" type="rss" xmlUrl="https://github.com/owendswang/ps5-web-file-manager" description="PS5 Web File Manager http://your-ps5-ip:8888."/>
+      <outline text="PS5-File-Explorer" title="PS5-File-Explorer" type="rss" xmlUrl="https://github.com/juma-sayeh/PS5-File-Explorer" description="PS5 File Explorer http://your-ps5-ip:5905."/>
       <outline text="kstuff_EchoStretch" title="kstuff_EchoStretch" type="rss" xmlUrl="https://github.com/EchoStretch/kstuff" description="Fnd Kstuff payload for PS5."/>
       <outline text="kstuff-lite_EchoStretch" title="kstuff-lite_EchoStretch" type="rss" xmlUrl="https://github.com/EchoStretch/kstuff-lite" description="Lightweight version of kstuff."/>
       <outline text="kstuff-toggle" title="kstuff-toggle" type="rss" xmlUrl="https://github.com/EchoStretch/kstuff-toggle" description="Utility to toggle kstuff features."/>
       <outline text="kstuff-lite_drakmor" title="kstuff-lite_drakmor" type="rss" xmlUrl="https://github.com/drakmor/kstuff-lite" description="Drakmor's variant of kstuff-lite."/>
       <outline text="kstuff-a53_SoNic" title="kstuff-a53_SoNic" type="rss" xmlUrl="https://github.com/Soonniicc/kstuff-a53" description="SoNic variant of kstuff-a53."/>
+      <outline text="snes9xPS5" title="snes9xPS5" type="rss" xmlUrl="https://github.com/MisterTemaki/snes9xPS5" description="snes9x emulator"/>
+      <outline text="genplusgxPS5" title="genplusgxPS5" type="rss" xmlUrl="https://github.com/MisterTemaki/genplusgxPS5" description="Port of Genesis-Plus-GX for PS55"/>
+      <outline text="ps5-romm" title="ps5-romm" type="rss" xmlUrl="https://github.com/s0liton/ps5-romm" description="ps5-romm for ps5"/>
+      <outline text="fbneo-ps5" title="fbneo-ps5" type="rss" xmlUrl="https://github.com/MisterTemaki/fbneo-ps5" description="FBNeo for ps5"/>
+      <outline text="PHU-Sandbox.Exit" title="PHU-Sandbox.Exit" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/PHU-Sandbox.Exit_v1.0.elf" description="addon for Markus-PHU Emupack"/>
+      <outline text="ChronicLoader-PS5-Payload" title="ChronicLoader-PS5-Payload" type="rss" xmlUrl="https://github.com/StonedModder/ChronicLoader-PS5-Payload" description="ChronicLoader utility payload for PS5."/>
+      <outline text="PS Game State Lib" title="PS Game State Lib" type="rss" xmlUrl="https://github.com/StonedModder/ps-game-state-lib" description="Standalone PS5 game-state detection payload - webui ps5ip:9877 ."/>
+      <outline text="PS-DiscordPresence" title="PS-DiscordPresence" type="rss" xmlUrl="https://github.com/StonedModder/PS-DiscordPresence" description="PS5 game activity service with a local status endpoint and a Python Discord RPC bridge."/>
+      <outline text="unrar-ps5" title="unrar-ps5" type="rss" xmlUrl="https://github.com/bizkut/unrar-ps5" description="PS5 ELF payload for extracting RAR and 7z archives on a jailbroken PS5 and installing extracted apps into a configurable layout.."/>
+      <outline text="PS5-Power-Payloads-Project" title="PS5-Power-Payloads-Project" type="rss" xmlUrl="https://github.com/MasterPS0/PS5-Power-Payloads-Project" description="PS5-Power-Payloads-Project utility."/>
+      <outline text="ps5-date-time-sync" title="ps5-date-time-sync" type="rss" xmlUrl="https://github.com/kerrdec97/ps5-date-time-sync" description="A lightweight, standalone PS5 payload that restores the console's system date and time using public NTP servers."/>
+      <outline text="FGG-Unpack" title="FGG-Unpack" type="rss" xmlUrl="https://github.com/FGGstore/FGG-Unpack" description="Extract .zip and .7z archives directly on a jailbroken PlayStation 5."/>
+      <outline text="PoorDS4" title="PoorDS4" type="rss" xmlUrl="https://github.com/ItsBlurf/PoorDS4" description="PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5."/>
+      <outline text="OmniPad-PS5" title="OmniPad-PS5" type="rss" xmlUrl="https://github.com/diegobarbosaa/OmniPad-PS5" description="Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60)."/>
+      <outline text="FGG-XSense" title="FGG-XSense" type="rss" xmlUrl="https://github.com/FGGstore/FGG-XSense" description="Use an Xbox controller on a jailbroken PlayStation 5."/>
+      <outline text="ghost-toothAPI" title="ghost-toothAPI" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/ps5_utility/ghost-toothAPI/ghost-toothAPI.elf" description="ghost-toothAPI."/>
+      <outline text="pad2c" title="pad2c" type="rss" xmlUrl="https://github.com/sub0x00001/pad2c" description="Use the 8BitDo Ultimate 2C Wireless controller on a jailbroken PS5 as a second DualSense, through its 2.4G USB dongle - no Bluetooth."/>
+      <outline text="Any-Pad-ps5" title="Any-Pad-ps5" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf" description="Connect your Bluetooth controllers to your PS5 console."/>
+      <outline text="ps5-pkg-manager" title="ps5-pkg-manager" type="rss" xmlUrl="https://github.com/itsPLK/ps5-pkg-manager" description="A clean and intuitive package manager for PlayStation 5"/>
+      <outline text="pkg-receiver" title="pkg-receiver" type="rss" xmlUrl="https://github.com/Loopayeh/pkg-sender" description="A package manager for PlayStation 5 need PkgSender android app or windows app"/>
+      <outline text="Common-FPS-for-PS5" title="Common-FPS-for-PS5" type="rss" xmlUrl="https://github.com/porhe911/Common-FPS-for-PS5" description="A lightweight, open-source real-time FPS counter for PlayStation 5."/>
+      <outline text="ps5-new-overlay" title="ps5-new-overlay" type="rss" xmlUrl="https://github.com/smoxa/ps5-new-overlay" description="A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+)."/>
+      <outline text="nanoDNS" title="nanoDNS" type="rss" xmlUrl="https://github.com/drakmor/nanoDNS" description="Un serveur DNS ultra-léger et rapide idéal pour rediriger les requêtes de la console vers votre hôte local d'exploits."/>
+      <outline text="Chukei DNS" title="Chukei DNS" type="rss" xmlUrl="https://github.com/Al-Azif/chukei-dns" description="Serveur DNS de redirection d'envergure conçu spécifiquement pour bloquer les mises à jour de Sony et rediriger le guide de l'utilisateur."/>
+      <outline text="Spectrum-Library" title="Spectrum-Library" type="rss" xmlUrl="https://github.com/Phoenixx1202/Spectrum-Library" description="free store webadmin http://your-ps5-ip:7575."/>
+      <outline text="pegasus-dl" title="pegasus-dl" type="rss" xmlUrl="https://github.com/pegasus-ps5/pegasus-dl" description="free store webadmin http://your-ps5-ip:6970."/>
+      <outline text="ps5shopappkg-dpi" title="ps5shopappkg-dpi" type="rss" xmlUrl="https://github.com/ps5xploit/ps5shopappkg/releases/download/ps5shopappkg/ps5shopappkg-dpi.elf" description="You need PS5-SHOP-APPKG.pkg DPI port 9040."/>
+      <outline text="PS5Library" title="PS5Library" type="rss" xmlUrl="https://github.com/rdiol12/PS5Library" description="You need PS5Library.pkg."/>
+      <outline text="orbit-store-ps5" title="orbit-store-ps5" type="rss" xmlUrl="https://github.com/saawant12/orbit-store-ps5" description="A modern, no-BS download manager for PS5."/>
+      <outline text="PS5-PHStore" title="PS5-PHStore" type="rss" xmlUrl="https://github.com/PratikHackTR/PS5-PHStore" description="Free PH Store client for PS5."/>
       <outline text="PS5-Game-Compressor" title="PS5-Game-Compressor" type="rss" xmlUrl="https://github.com/juma-sayeh/PS5-Game-Compressor" description="Tool to compress PS5 games."/>
       <outline text="ps5-app-dumper" title="ps5-app-dumper" type="rss" xmlUrl="https://github.com/EchoStretch/ps5-app-dumper" description="PS5 App Dumper payload."/>
       <outline text="dump_installer" title="dump_installer" type="rss" xmlUrl="https://github.com/EchoStretch/dump_installer" description="Dump Installer utility."/>
@@ -27,73 +92,6 @@
       <outline text="pgo_stub" title="pgo_stub" type="rss" xmlUrl="https://github.com/drakmor/pgo_stub" description="PGO stub utility."/>
       <outline text="apr-emu-updater" title="apr-emu-updater" type="rss" xmlUrl="https://github.com/tsuramatsu1/apr-emu-updater" description="APR Emu Updater must always be loaded."/>
       <outline text="PS5-Game-Compressor fork" title="PS5-Game-Compressor fork" type="rss" xmlUrl="https://github.com/gcoding97/PS5-Game-Compressor" description="Fork Tool to compress PS5 games."/>
-      <outline text="BFpilot" title="BFpilot" type="rss" xmlUrl="https://github.com/ItsBlurf/BFpilot" description="BFpilot is a lightweight PS5 payload that serves a browser-based file manager."/>
-      <outline text="Lapy JB Daemon" title="Lapy JB Daemon" type="rss" xmlUrl="https://raw.githubusercontent.com/ArkSama/PS5-Lapy-JB-Daemon/main/lapy_jb_daemon.elf" description="Daemon pour le jailbreak de Lapy"/>
-      <outline text="ps5-web-file-manager" title="ps5-web-file-manager" type="rss" xmlUrl="https://github.com/owendswang/ps5-web-file-manager" description="PS5 Web File Manager http://your-ps5-ip:8888."/>
-      <outline text="PS5-File-Explorer" title="PS5-File-Explorer" type="rss" xmlUrl="https://github.com/juma-sayeh/PS5-File-Explorer" description="PS5 File Explorer http://your-ps5-ip:5905."/>
-      <outline text="np-fake-signin" title="np-fake-signin" type="rss" xmlUrl="https://git.etawen.dev/earthonion/np-fake-signin" description="Fake activate PS5 without PSN."/>
-      <outline text="nanoDNS" title="nanoDNS" type="rss" xmlUrl="https://github.com/drakmor/nanoDNS" description="Un serveur DNS ultra-léger et rapide idéal pour rediriger les requêtes de la console vers votre hôte local d'exploits."/>
-      <outline text="Chukei DNS" title="Chukei DNS" type="rss" xmlUrl="https://github.com/Al-Azif/chukei-dns" description="Serveur DNS de redirection d'envergure conçu spécifiquement pour bloquer les mises à jour de Sony et rediriger le guide de l'utilisateur."/>
-      <outline text="ps5-linux-loader" title="ps5-linux-loader" type="rss" xmlUrl="https://github.com/ps5-linux/ps5-linux-loader" description="Linux loader payload for the PS5."/>
-      <outline text="ActRemoteLink-13.x" title="ActRemoteLink-13.x" type="rss" xmlUrl="https://github.com/StonedModder/ActRemoteLink-13.x" description="ActRemoteLink is a set of payloads and utilities for PS5 jailbreak workflows focused on offline activation of a local account and Remote Play"/>
-      <outline text="CheatRunner" title="CheatRunner" type="rss" xmlUrl="https://github.com/notmaj0r/CheatRunner" description="CheatRunner."/>
-      <outline text="kylin-core" title="kylin-core" type="rss" xmlUrl="https://github.com/aydencharles/kylin-core-release" description="kylin-core"/>
-      <outline text="ps5-webkit-autoloader" title="ps5-webkit-autoloader" type="rss" xmlUrl="https://github.com/itsPLK/ps5-webkit-autoloader" description="Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00."/>
-      <outline text="Host-PSM pooP2JB" title="Host-PSM pooP2JB" type="rss" xmlUrl="https://github.com/ps4macedo/instalador-host-psm-poop2jb" description="Host-PSM pooP2JB."/>
-      <outline text="PoorDS4" title="PoorDS4" type="rss" xmlUrl="https://github.com/ItsBlurf/PoorDS4" description="PoorDS4 lets a wireless DualShock 4 paired with a jailbroken PS5."/>
-      <outline text="OmniPad-PS5" title="OmniPad-PS5" type="rss" xmlUrl="https://github.com/diegobarbosaa/OmniPad-PS5" description="Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60)."/>
-      <outline text="FGG-XSense" title="FGG-XSense" type="rss" xmlUrl="https://github.com/FGGstore/FGG-XSense" description="Use an Xbox controller on a jailbroken PlayStation 5."/>
-      <outline text="ghost-toothAPI" title="ghost-toothAPI" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/ps5_utility/ghost-toothAPI/ghost-toothAPI.elf" description="ghost-toothAPI."/>
-      <outline text="pad2c" title="pad2c" type="rss" xmlUrl="https://github.com/sub0x00001/pad2c" description="Use the 8BitDo Ultimate 2C Wireless controller on a jailbroken PS5 as a second DualSense, through its 2.4G USB dongle - no Bluetooth."/>
-      <outline text="Any-Pad-ps5" title="Any-Pad-ps5" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf" description="Connect your Bluetooth controllers to your PS5 console."/>
-      <outline text="Common-FPS-for-PS5" title="Common-FPS-for-PS5" type="rss" xmlUrl="https://github.com/porhe911/Common-FPS-for-PS5" description="A lightweight, open-source real-time FPS counter for PlayStation 5."/>
-      <outline text="ps5-new-overlay" title="ps5-new-overlay" type="rss" xmlUrl="https://github.com/smoxa/ps5-new-overlay" description="A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+)."/>
-      <outline text="PS5-Custom-Tool-Manager-" title="PS5-Custom-Tool-Manager-" type="rss" xmlUrl="https://github.com/NikoBellikJR31/PS5-Custom-Tool-Manager-" description="Custom manager tool for PS5 personalization."/>
-      <outline text="ps5-wallpaper-modd" title="ps5-wallpaper-modd" type="rss" xmlUrl="https://github.com/hgr9519/ps5-wallpaper-modd" description="Wallpaper modification utility for PS5."/>
-      <outline text="A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental" title="A53-Kstuff-ShadowMountPlus-3in1_SoNic-AIO_Experimental" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/PS5_Beta/SoNic-AIO/A53-Kstuff-ShadowMountPlus-3in1.elf" description="Experimental AIO by SoNic credit to EchoStrech DrakMor"/>
-      <outline text="A53-kstuff-SMP_SoNic-AIO_Experimental" title="A53-kstuff-SMP_SoNic-AIO_Experimental" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/PS5_Beta/SoNic-AIO/A53-kstuff-SMP.elf" description="Experimental AIO by SoNic credit to EchoStrech DrakMor"/>
-      <outline text="Kstuff-NG_EchoStrech_Experimental" title="Kstuff-NG_EchoStrech_Experimental" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/PS5_Beta/Kstuff-NG/Kstuff-NG_v1.00.elf" description="Experimental Kstuff NG"/>
-      <outline text="kstuff_Drakmor_Experimental" title="kstuff_Drakmor_Experimental" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/PS5_Beta/Kstuff-Darkmor/kstuff-1.13-fpkg-dr-test5.elf" description="Experimental Kstuff DrakMor - kstuff-1.13-fpkg-dr-test3"/>
-      <outline text="A53 1.00-11.40 Experimental KS-D" title="A53 1.00-11.40 Experimental KS-D" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/PS5_Beta/a53_ppr/a53_ppr_install_1140_20.09.elf" description="a53_ppr_install_1140_20.09.elf - support 1.00-11.40"/>
-      <outline text="A53 11.60 only Experimental KS-D" title="A53 11.60 only Experimental KS-D" type="rss" xmlUrl="https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/PS5_Beta/a53_ppr/a53_ppr_install_1160_20.09.elf" description="a53_ppr_install_1160_20.09.elf - 11.60 only"/>
-      <outline text="garlic-savemgr" title="garlic-savemgr" type="rss" xmlUrl="https://git.etawen.dev/earthonion/garlic-savemgr" description="Save manager utility hosted on Forgejo."/>
-      <outline text="garlic-worker" title="garlic-worker" type="rss" xmlUrl="https://git.etawen.dev/earthonion/garlic-worker" description="Garlic worker payload component."/>
-      <outline text="Playstation-5-Save-Mounter" title="Playstation-5-Save-Mounter" type="rss" xmlUrl="https://github.com/n0llptr/Playstation-5-Save-Mounter" description="PS5 Save Mounter application."/>
-      <outline text="savemnt-offset-dumper" title="savemnt-offset-dumper" type="rss" xmlUrl="https://github.com/StonedModder/savemnt-offset-dumper" description="Offset dumper for save mounting utilities."/>
-      <outline text="Spectrum-Library" title="Spectrum-Library" type="rss" xmlUrl="https://github.com/Phoenixx1202/Spectrum-Library" description="free store webadmin http://your-ps5-ip:7575."/>
-      <outline text="pegasus-dl" title="pegasus-dl" type="rss" xmlUrl="https://github.com/pegasus-ps5/pegasus-dl" description="free store webadmin http://your-ps5-ip:6970."/>
-      <outline text="ps5shopappkg-dpi" title="ps5shopappkg-dpi" type="rss" xmlUrl="https://github.com/ps5xploit/ps5shopappkg/releases/download/ps5shopappkg/ps5shopappkg-dpi.elf" description="You need PS5-SHOP-APPKG.pkg DPI port 9040."/>
-      <outline text="PS5Library" title="PS5Library" type="rss" xmlUrl="https://github.com/rdiol12/PS5Library" description="You need PS5Library.pkg."/>
-      <outline text="orbit-store-ps5" title="orbit-store-ps5" type="rss" xmlUrl="https://github.com/saawant12/orbit-store-ps5" description="A modern, no-BS download manager for PS5."/>
-      <outline text="PS5-PHStore" title="PS5-PHStore" type="rss" xmlUrl="https://github.com/PratikHackTR/PS5-PHStore" description="Free PH Store client for PS5."/>
-      <outline text="etaHEN" title="etaHEN" type="rss" xmlUrl="https://github.com/etaHEN/etaHEN" description="Le Homebrew Enabler (HEN) de référence pour la PS5 avec serveurs de triche, plugins et gestionnaire de mémoire intégrés."/>
-      <outline text="PS5 Unified Autoloader" title="PS5 Unified Autoloader" type="rss" xmlUrl="https://github.com/itsPLK/ps5-unified-autoloader" description="Chargeur universel de payloads permettant de lancer automatiquement vos outils favoris au démarrage de l'exploit."/>
-      <outline text="PS5 Payload Manager" title="PS5 Payload Manager" type="rss" xmlUrl="https://github.com/itsPLK/ps5-payload-manager" description="Interface d'administration et de gestion réseau pour envoyer, activer et ordonner vos fichiers ELF/BIN sur la console."/>
-      <outline text="ELF Arsenal" title="ELF Arsenal" type="rss" xmlUrl="https://git.etawen.dev/soniciso/elf-arsenal" description="Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées."/>
-      <outline text="Kura" title="Kura" type="rss" xmlUrl="https://github.com/NookieAI/kura" description="Un loader de payloads moderne et épuré conçu pour optimiser l'injection de code sur PS5."/>
-      <outline text="PIZZA-HEN" title="PIZZA-HEN" type="rss" xmlUrl="https://github.com/Michele-M-Media/PIZZA-HEN" description="PIZZA HEN is an experimental all-in-one PS5 homebrew environment."/>
-      <outline text="onionHEN" title="onionHEN" type="rss" xmlUrl="https://github.com/aydencharles/onionHEN" description="An all-in-one HEN and Toolbox for PlayStation 5."/>
-      <outline text="etaHEN-Beta" title="etaHEN-Beta" type="rss" xmlUrl="https://github.com/zecoxao/zecoxao.github.io/raw/refs/heads/main/luasauce/payloads/etaHEN-2.6B.bin" description="etahen beta version experimental."/>
-      <outline text="ProsperoMgr" title="ProsperoMgr" type="rss" xmlUrl="https://github.com/notmaj0r/ProsperoMgr" description="A Web-Based All-In-One homebrew manager for your PlayStation 5"/>
-      <outline text="ps5-pkg-manager" title="ps5-pkg-manager" type="rss" xmlUrl="https://github.com/itsPLK/ps5-pkg-manager" description="A clean and intuitive package manager for PlayStation 5"/>
-      <outline text="pkg-receiver" title="pkg-receiver" type="rss" xmlUrl="https://github.com/Loopayeh/pkg-sender" description="A package manager for PlayStation 5 need PkgSender android app or windows app"/>
-      <outline text="ps5debug-NG" title="ps5debug-NG" type="rss" xmlUrl="https://github.com/OpenSourcereR-dev/ps5debug-NG" description="Next generation debugger payload for PS5."/>
-      <outline text="ps5-fw-spoof" title="ps5-fw-spoof" type="rss" xmlUrl="https://github.com/illusionyy/ps5-fw-spoof" description="Firmware spoofer utility for PS5."/>
-      <outline text="ps5-self-pager" title="ps5-self-pager" type="rss" xmlUrl="https://github.com/idlesauce/ps5-self-pager" description="SELF pager payload tool."/>
-      <outline text="PS5-SELF-Decrypter" title="PS5-SELF-Decrypter" type="rss" xmlUrl="https://github.com/idlesauce/PS5-SELF-Decrypter" description="SELF decrypter tool for PS5 binaries."/>
-      <outline text="ps5-remoteplay-get-pin" title="ps5-remoteplay-get-pin" type="rss" xmlUrl="https://github.com/idlesauce/ps5-remoteplay-get-pin" description="Utility to get Remote Play PIN."/>
-      <outline text="MemDBG" title="MemDBG" type="rss" xmlUrl="https://github.com/seregonwar/MemDBG" description="Memory debugging and inspection suite."/>
-      <outline text="ps5-hwinfo" title="ps5-hwinfo" type="rss" xmlUrl="https://github.com/drakmor/ps5-hwinfo" description="PS5 payload for collecting hardware and runtime telemetry."/>
-      <outline text="PS5 Debugger GUI" title="PS5 Debugger GUI" type="rss" xmlUrl="https://github.com/boazvdwansem/ps5-debugger" description="Graphical user interface for interacting with the debugger payload."/>
-      <outline text="ps5-fan-control" title="ps5-fan-control" type="rss" xmlUrl="https://github.com/owendswang/ps5-fan-control" description="Small PS5 daemon payload ELF that sets the system fan temperature."/>
-      <outline text="fan_target" title="fan_target" type="rss" xmlUrl="https://github.com/drakmor/fan_target" description="fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console's automatic fan control enabled."/>
-      <outline text="ChronicLoader-PS5-Payload" title="ChronicLoader-PS5-Payload" type="rss" xmlUrl="https://github.com/StonedModder/ChronicLoader-PS5-Payload" description="ChronicLoader utility payload for PS5."/>
-      <outline text="PS Game State Lib" title="PS Game State Lib" type="rss" xmlUrl="https://github.com/StonedModder/ps-game-state-lib" description="Standalone PS5 game-state detection payload - webui ps5ip:9877 ."/>
-      <outline text="PS-DiscordPresence" title="PS-DiscordPresence" type="rss" xmlUrl="https://github.com/StonedModder/PS-DiscordPresence" description="PS5 game activity service with a local status endpoint and a Python Discord RPC bridge."/>
-      <outline text="unrar-ps5" title="unrar-ps5" type="rss" xmlUrl="https://github.com/bizkut/unrar-ps5" description="PS5 ELF payload for extracting RAR and 7z archives on a jailbroken PS5 and installing extracted apps into a configurable layout.."/>
-      <outline text="PS5-Power-Payloads-Project" title="PS5-Power-Payloads-Project" type="rss" xmlUrl="https://github.com/MasterPS0/PS5-Power-Payloads-Project" description="PS5-Power-Payloads-Project utility."/>
-      <outline text="ps5-date-time-sync" title="ps5-date-time-sync" type="rss" xmlUrl="https://github.com/kerrdec97/ps5-date-time-sync" description="A lightweight, standalone PS5 payload that restores the console's system date and time using public NTP servers."/>
-      <outline text="FGG-Unpack" title="FGG-Unpack" type="rss" xmlUrl="https://github.com/FGGstore/FGG-Unpack" description="Extract .zip and .7z archives directly on a jailbroken PlayStation 5."/>
       <outline text="zftpd" title="zftpd" type="rss" xmlUrl="https://github.com/seregonwar/zftpd" description="FTP server payload for PS5. Port: 21"/>
       <outline text="elfldr" title="elfldr" type="rss" xmlUrl="https://github.com/ps5-payload-dev/elfldr" description="ELF Loader utility. Port: 9020 / 9021"/>
       <outline text="ftpsrv_ps5-payload" title="ftpsrv_ps5-payload" type="rss" xmlUrl="https://github.com/ps5-payload-dev/ftpsrv" description="FTP server background daemon. Port: 21"/>
@@ -105,11 +103,13 @@
       <outline text="ps5-ezremote-server" title="ps5-ezremote-server" type="rss" xmlUrl="https://github.com/cy33hc/ps5-ezremote-server" description="Easy remote server component. Port: 8080"/>
       <outline text="ps5upload" title="ps5upload" type="rss" xmlUrl="https://github.com/phantomptr/ps5upload" description="PS5 Upload server / tool. Port: 9025"/>
       <outline text="airpsx" title="airpsx" type="rss" xmlUrl="https://github.com/barisyild/airpsx" description="AirPSX server tool for PS5 ecosystem."/>
-      <outline text="BFplayer-standalone" title="BFplayer-standalone" type="rss" xmlUrl="https://github.com/ItsBlurf/BFplayer" description="BFplayer is a native media library and player for jailbroken PlayStation 5 consoles."/>
-      <outline text="ProsperoPlayer" title="ProsperoPlayer" type="rss" xmlUrl="https://github.com/KINGDKAK/ProsperoPlayer" description="A homebrew media player for jailbroken PS5."/>
-      <outline text="svtplay" title="svtplay" type="rss" xmlUrl="https://github.com/ps5-payload-dev/svtplay" description="This is an unofficial 10-foot UI for SVT Play, the Swedish public service television broadcaster."/>
-      <outline text="PS-Play" title="PS-Play" type="rss" xmlUrl="https://github.com/MounirHero/PS-Play" description="All-in-one media hub for jailbroken PlayStation 5"/>
-      <outline text="Nuvio-PS5" title="Nuvio-PS5" type="rss" xmlUrl="https://github.com/theghostonline/Nuvio-PS5" description="Nuvio, at home on the PlayStation 5"/>
+      <outline text="np-fake-signin" title="np-fake-signin" type="rss" xmlUrl="https://git.etawen.dev/earthonion/np-fake-signin" description="Fake activate PS5 without PSN."/>
+      <outline text="PS5-Custom-Tool-Manager-" title="PS5-Custom-Tool-Manager-" type="rss" xmlUrl="https://github.com/NikoBellikJR31/PS5-Custom-Tool-Manager-" description="Custom manager tool for PS5 personalization."/>
+      <outline text="ps5-wallpaper-modd" title="ps5-wallpaper-modd" type="rss" xmlUrl="https://github.com/hgr9519/ps5-wallpaper-modd" description="Wallpaper modification utility for PS5."/>
+      <outline text="garlic-savemgr" title="garlic-savemgr" type="rss" xmlUrl="https://git.etawen.dev/earthonion/garlic-savemgr" description="Save manager utility hosted on Forgejo."/>
+      <outline text="garlic-worker" title="garlic-worker" type="rss" xmlUrl="https://git.etawen.dev/earthonion/garlic-worker" description="Garlic worker payload component."/>
+      <outline text="Playstation-5-Save-Mounter" title="Playstation-5-Save-Mounter" type="rss" xmlUrl="https://github.com/n0llptr/Playstation-5-Save-Mounter" description="PS5 Save Mounter application."/>
+      <outline text="savemnt-offset-dumper" title="savemnt-offset-dumper" type="rss" xmlUrl="https://github.com/StonedModder/savemnt-offset-dumper" description="Offset dumper for save mounting utilities."/>
     </outline>
     <outline text="Pkg" title="Pkg">
       <outline text="PS5Webit-Nexgen999_Installer" title="PS5Webit-Nexgen999_Installer" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v1.0/PS5PKG_PS5Webit-Nexgen999_Installer_v1.00.pkg" description="PS5Webit-Nexgen999_Installer."/>
@@ -137,14 +137,6 @@
     <outline text="Apps" title="Apps">
       <outline text="pkg-viewer" title="pkg-viewer" type="rss" xmlUrl="https://github.com/Loopayeh/pkg-viewer" description="view PS3/PS4/PS5 package info and cover art"/>
       <outline text="Spectrum-Library-PC" title="Spectrum-Library-PC" type="rss" xmlUrl="https://github.com/Phoenixx1202/Spectrum-Library-PC" description="Spectrum-Library-PC"/>
-      <outline text="castation" title="castation" type="rss" xmlUrl="https://github.com/BrinooTk/castation" description="Dreamcast emulator based on Flycast PlayStation 5 homebrew"/>
-      <outline text="dump_installer" title="dump_installer" type="rss" xmlUrl="https://github.com/EchoStretch/dump_installer" description="Dump installer howmebrew"/>
-      <outline text="dump_runner" title="dump_runner" type="rss" xmlUrl="https://github.com/EchoStretch/dump_runner" description="Dump runner howmebrew"/>
-      <outline text="kodi-ps5" title="kodi-ps5" type="rss" xmlUrl="https://github.com/VivaLaVent/PS5MC" description="kodi-ps5"/>
-      <outline text="Prospero Multi Tools" title="Prospero Multi Tools" type="rss" xmlUrl="https://github.com/SvenGDK/Prospero-Multi-Tools" description="Backup manager for PS5"/>
-      <outline text="Prospero Explorer" title="Prospero Explorer" type="rss" xmlUrl="https://github.com/SvenGDK/Prospero-Explorer" description="File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network"/>
-      <outline text="ProsperoStore" title="ProsperoStore" type="rss" xmlUrl="https://github.com/darkxex/ProsperoStore" description="homebrew store"/>
-      <outline text="EmuStore-PS5" title="EmuStore-PS5" type="rss" xmlUrl="https://github.com/romanocry/EmuStore-PS5" description="hEmuStore-PS5"/>
       <outline text="flycast-ps5-libretro-core" title="flycast-ps5-libretro-core" type="rss" xmlUrl="https://github.com/rpf16rj/flycast-ps5-libretro-core" description="flycast-ps5-libretro-core"/>
       <outline text="PS5X360" title="PS5X360" type="rss" xmlUrl="https://github.com/BrinooTk/PS5X360" description="x360 emu for ps5, you need xpsemu_tools.elf"/>
       <outline text="XPSemu" title="XPSemu" type="rss" xmlUrl="https://github.com/ZiZc3/XPSemu" description="Xbox emulator (Xemu) port for the PS5"/>
@@ -166,6 +158,14 @@
       <outline text="EmuPack-NeoGeo.PS5" title="EmuPack-NeoGeo.PS5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-NeoGeo.PS5.rar" description="EmuPack-NeoGeo.PS5"/>
       <outline text="RPCS3" title="RPCS3" type="rss" xmlUrl="https://github.com/dmzebro/PS5_RPCS3" description="RPCS3 for PS5"/>
       <outline text="psp5" title="psp5" type="rss" xmlUrl="https://github.com/tsuramatsu1/psp5" description="ppsspp for PS5"/>
+      <outline text="castation" title="castation" type="rss" xmlUrl="https://github.com/BrinooTk/castation" description="Dreamcast emulator based on Flycast PlayStation 5 homebrew"/>
+      <outline text="dump_installer" title="dump_installer" type="rss" xmlUrl="https://github.com/EchoStretch/dump_installer" description="Dump installer howmebrew"/>
+      <outline text="dump_runner" title="dump_runner" type="rss" xmlUrl="https://github.com/EchoStretch/dump_runner" description="Dump runner howmebrew"/>
+      <outline text="kodi-ps5" title="kodi-ps5" type="rss" xmlUrl="https://github.com/VivaLaVent/PS5MC" description="kodi-ps5"/>
+      <outline text="Prospero Multi Tools" title="Prospero Multi Tools" type="rss" xmlUrl="https://github.com/SvenGDK/Prospero-Multi-Tools" description="Backup manager for PS5"/>
+      <outline text="Prospero Explorer" title="Prospero Explorer" type="rss" xmlUrl="https://github.com/SvenGDK/Prospero-Explorer" description="File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network"/>
+      <outline text="ProsperoStore" title="ProsperoStore" type="rss" xmlUrl="https://github.com/darkxex/ProsperoStore" description="homebrew store"/>
+      <outline text="EmuStore-PS5" title="EmuStore-PS5" type="rss" xmlUrl="https://github.com/romanocry/EmuStore-PS5" description="hEmuStore-PS5"/>
     </outline>
     <outline text="ProsperoStore" title="ProsperoStore">
       <outline text="Bounce Tales" title="Bounce Tales" type="rss" xmlUrl="https://github.com/youss17x/Bounce-Tales-PS5" description="Native PS5 port of the Nokia J2ME platformer Bounce Tales: 16:9 widescreen, sharp text, DualSense controls, 60 fps. Requires your own copy of the game (.jar)."/>

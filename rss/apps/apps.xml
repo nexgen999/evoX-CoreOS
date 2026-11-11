@@ -11,66 +11,6 @@
       <pubDate>1.0.4</pubDate>
     </item>
     <item>
-      <title>Castation-0.4.0</title>
-      <link>https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip</link>
-      <description>Dreamcast emulator based on Flycast PlayStation 5 homebrew</description>
-      <pubDate>v0.4.0</pubDate>
-    </item>
-    <item>
-      <title>Dump Installer</title>
-      <link>https://github.com/EchoStretch/dump_installer/releases/download/1.07/dump_installer.zip</link>
-      <description>Dump installer howmebrew</description>
-      <pubDate>1.07</pubDate>
-    </item>
-    <item>
-      <title>Dump Runner</title>
-      <link>https://github.com/EchoStretch/dump_runner/releases/download/v1.02/dump_runner.zip</link>
-      <description>Dump runner howmebrew</description>
-      <pubDate>v1.02</pubDate>
-    </item>
-    <item>
-      <title>Ps5Mc-1.2-Kodi21-Ppsa99421</title>
-      <link>https://github.com/VivaLaVent/PS5MC/releases/download/1.2/PS5MC-1.2-kodi21-PPSA99421.zip</link>
-      <description>kodi-ps5</description>
-      <pubDate>1.2</pubDate>
-    </item>
-    <item>
-      <title>Ps5Mc-1.2-Kodi22-Ppsa99420</title>
-      <link>https://github.com/VivaLaVent/PS5MC/releases/download/1.2/PS5MC-1.2-kodi22-PPSA99420.zip</link>
-      <description>kodi-ps5</description>
-      <pubDate>1.2</pubDate>
-    </item>
-    <item>
-      <title>Emulatorpack</title>
-      <link>https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/EmulatorPack.zip</link>
-      <description>Backup manager for PS5</description>
-      <pubDate>v1</pubDate>
-    </item>
-    <item>
-      <title>Prosperomultitools</title>
-      <link>https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/ProsperoMultiTools.zip</link>
-      <description>Backup manager for PS5</description>
-      <pubDate>v1</pubDate>
-    </item>
-    <item>
-      <title>Prosperoexplorer-V1</title>
-      <link>https://github.com/SvenGDK/Prospero-Explorer/releases/download/v1.0/ProsperoExplorer-v1.zip</link>
-      <description>File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network</description>
-      <pubDate>v1.0</pubDate>
-    </item>
-    <item>
-      <title>Ppsa99000</title>
-      <link>https://github.com/darkxex/ProsperoStore/releases/download/v1.000.116/PPSA99000.zip</link>
-      <description>homebrew store</description>
-      <pubDate>v1.000.116</pubDate>
-    </item>
-    <item>
-      <title>Emustore-Ps5-V0.4.0</title>
-      <link>https://github.com/romanocry/EmuStore-PS5/releases/download/v0.4.0/EmuStore-PS5-v0.4.0.zip</link>
-      <description>hEmuStore-PS5</description>
-      <pubDate>v0.4.0</pubDate>
-    </item>
-    <item>
       <title>Flycast-Ps5-2026.10.06</title>
       <link>https://github.com/rpf16rj/flycast-ps5-libretro-core/releases/download/v2026.10.06-run14/flycast-ps5-2026.10.06.zip</link>
       <description>flycast-ps5-libretro-core</description>
@@ -99,6 +39,12 @@
       <link>https://github.com/ZiZc3/XPSemu/releases/download/v3.4/PPSA97358.zip</link>
       <description>Xbox emulator (Xemu) port for the PS5</description>
       <pubDate>v3.4</pubDate>
+    </item>
+    <item>
+      <title>Castation-0.4.0</title>
+      <link>https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip</link>
+      <description>Dreamcast flycast emu for ps5</description>
+      <pubDate>v0.4.0</pubDate>
     </item>
     <item>
       <title>Porpoise-4.5-Source</title>
@@ -207,6 +153,60 @@
       <link>https://github.com/tsuramatsu1/psp5/releases/download/v1.000.100/PPSA99131.zip</link>
       <description>ppsspp for PS5</description>
       <pubDate>v1.000.100</pubDate>
+    </item>
+    <item>
+      <title>Dump Installer</title>
+      <link>https://github.com/EchoStretch/dump_installer/releases/download/1.07/dump_installer.zip</link>
+      <description>Dump installer howmebrew</description>
+      <pubDate>1.07</pubDate>
+    </item>
+    <item>
+      <title>Dump Runner</title>
+      <link>https://github.com/EchoStretch/dump_runner/releases/download/v1.02/dump_runner.zip</link>
+      <description>Dump runner howmebrew</description>
+      <pubDate>v1.02</pubDate>
+    </item>
+    <item>
+      <title>Ps5Mc-1.2-Kodi21-Ppsa99421</title>
+      <link>https://github.com/VivaLaVent/PS5MC/releases/download/1.2/PS5MC-1.2-kodi21-PPSA99421.zip</link>
+      <description>kodi-ps5</description>
+      <pubDate>1.2</pubDate>
+    </item>
+    <item>
+      <title>Ps5Mc-1.2-Kodi22-Ppsa99420</title>
+      <link>https://github.com/VivaLaVent/PS5MC/releases/download/1.2/PS5MC-1.2-kodi22-PPSA99420.zip</link>
+      <description>kodi-ps5</description>
+      <pubDate>1.2</pubDate>
+    </item>
+    <item>
+      <title>Emulatorpack</title>
+      <link>https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/EmulatorPack.zip</link>
+      <description>Backup manager for PS5</description>
+      <pubDate>v1</pubDate>
+    </item>
+    <item>
+      <title>Prosperomultitools</title>
+      <link>https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/ProsperoMultiTools.zip</link>
+      <description>Backup manager for PS5</description>
+      <pubDate>v1</pubDate>
+    </item>
+    <item>
+      <title>Prosperoexplorer-V1</title>
+      <link>https://github.com/SvenGDK/Prospero-Explorer/releases/download/v1.0/ProsperoExplorer-v1.zip</link>
+      <description>File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network</description>
+      <pubDate>v1.0</pubDate>
+    </item>
+    <item>
+      <title>Ppsa99000</title>
+      <link>https://github.com/darkxex/ProsperoStore/releases/download/v1.000.116/PPSA99000.zip</link>
+      <description>homebrew store</description>
+      <pubDate>v1.000.116</pubDate>
+    </item>
+    <item>
+      <title>Emustore-Ps5-V0.4.0</title>
+      <link>https://github.com/romanocry/EmuStore-PS5/releases/download/v0.4.0/EmuStore-PS5-v0.4.0.zip</link>
+      <description>hEmuStore-PS5</description>
+      <pubDate>v0.4.0</pubDate>
     </item>
   </channel>
 </rss>

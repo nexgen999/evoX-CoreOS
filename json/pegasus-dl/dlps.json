@@ -1976,7 +1976,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/69314e1cbb07183a13ae4eea275c934334386f6e13f389e9ddc76c313d2c9a4d",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/75c7f0efbc81e10d417f63f16188db190fb725474c2ed976f437b7397ad65135",
-      "description": "Region: USA\nRelease note: Works on 10.xx and higher",
+      "description": "Variant: USA 10.xx\nRegion: USA\nRelease note: Works on 10.xx and higher\n\nVariant: EUR exFAT 01.007\nRegion: EUR\nRelease note: exFAT format — FW 01.007 — 4.xx BackPort + 5.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/oxide-room-208-ps5/",
       "downloadLinks": [
         {
@@ -1990,6 +1990,22 @@
         {
           "name": "USA 10.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/zjKipp84sc"
+        },
+        {
+          "name": "EUR exFAT 01.007 Base - DataNodes",
+          "url": "https://datanodes.to/kx8ybyoahmid/PPSA28979.7z"
+        },
+        {
+          "name": "EUR exFAT 01.007 Base - FileKeeper",
+          "url": "https://filekeeper.net/97v1gq7wn3k7/PPSA28979.7z"
+        },
+        {
+          "name": "EUR exFAT 01.007 Base - Akirabox",
+          "url": "https://akirabox.to/LK0G1XVn9z91/file"
+        },
+        {
+          "name": "EUR exFAT 01.007 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/rsLMAvy9rp"
         }
       ]
     },
@@ -9771,6 +9787,30 @@
         {
           "name": "USA exFAT 01.004 Base - Akirabox - Part 5",
           "url": "https://akirabox.to/0PdzyM8vMzeA/file"
+        },
+        {
+          "name": "USA exFAT 01.004 Base - FileKeeper - Part 1",
+          "url": "https://filekeeper.net/k81ycoowgp9k/PPSA24263.7z.001"
+        },
+        {
+          "name": "USA exFAT 01.004 Base - FileKeeper - Part 2",
+          "url": "https://filekeeper.net/xqpa2s67uq9i/PPSA24263.7z.002"
+        },
+        {
+          "name": "USA exFAT 01.004 Base - FileKeeper - Part 3",
+          "url": "https://filekeeper.net/qj5g1na7w9is/PPSA24263.7z.003"
+        },
+        {
+          "name": "USA exFAT 01.004 Base - FileKeeper - Part 4",
+          "url": "https://filekeeper.net/tr082btzpjwv/PPSA24263.7z.004"
+        },
+        {
+          "name": "USA exFAT 01.004 Base - FileKeeper - Part 5",
+          "url": "https://filekeeper.net/42es52z3girc/PPSA24263.7z.005"
+        },
+        {
+          "name": "USA exFAT 01.004 Base - Vikingfile - Part 1",
+          "url": "https://vikingfile.com/f/HnMJ9XSs8U"
         }
       ]
     },
@@ -55288,6 +55328,42 @@
           "url": "https://www.rootz.so/d/heBtI"
         },
         {
+          "name": "EUR Base - 1fichier part 1",
+          "url": "https://1fichier.com/?kc5apprdmg76nrscjs3v"
+        },
+        {
+          "name": "EUR Base - 1fichier part 2",
+          "url": "https://1fichier.com/?9t9gdcqf9ncjj9kd06hf"
+        },
+        {
+          "name": "EUR Base - 1fichier part 3",
+          "url": "https://1fichier.com/?uc58gmxkufb7s82i59gx"
+        },
+        {
+          "name": "EUR Base - 1fichier part 4",
+          "url": "https://1fichier.com/?igyyq80elkcnsd8d5hfy"
+        },
+        {
+          "name": "EUR Base - 1fichier part 5",
+          "url": "https://1fichier.com/?2d3eiaay9djb4g8x3cs5"
+        },
+        {
+          "name": "EUR Base - 1fichier part 6",
+          "url": "https://1fichier.com/?7x90opqhe3oufls0ybcl"
+        },
+        {
+          "name": "EUR Base - 1fichier part 7",
+          "url": "https://1fichier.com/?3jm9v95vnlbd625pxpxg"
+        },
+        {
+          "name": "EUR Base - 1fichier part 8",
+          "url": "https://1fichier.com/?4vvaud9qwiwevkzj1ait"
+        },
+        {
+          "name": "EUR Base - 1fichier part 9",
+          "url": "https://1fichier.com/?untaujohqwxm1vbnszls"
+        },
+        {
           "name": "EUR Base - Vikingfile part 1",
           "url": "https://vikingfile.com/f/QTlxAIHGKT"
         },
@@ -55324,40 +55400,112 @@
           "url": "https://vikingfile.com/f/XaLvWohKnT"
         },
         {
-          "name": "EUR Base - 1fichier part 1",
-          "url": "https://1fichier.com/?kc5apprdmg76nrscjs3v"
+          "name": "EUR Game (v01.005) (DLC) - Akirabox part 1",
+          "url": "https://akirabox.com/9AqGQZnB8mMn/file"
         },
         {
-          "name": "EUR Base - 1fichier part 2",
-          "url": "https://1fichier.com/?9t9gdcqf9ncjj9kd06hf"
+          "name": "EUR Game (v01.005) (DLC) - Akirabox part 2",
+          "url": "https://akirabox.com/jJD3VDnRlGa5/file"
         },
         {
-          "name": "EUR Base - 1fichier part 3",
-          "url": "https://1fichier.com/?uc58gmxkufb7s82i59gx"
+          "name": "EUR Game (v01.005) (DLC) - Akirabox part 3",
+          "url": "https://akirabox.com/gXeGOAVg63Aa/file"
         },
         {
-          "name": "EUR Base - 1fichier part 4",
-          "url": "https://1fichier.com/?igyyq80elkcnsd8d5hfy"
+          "name": "EUR Game (v01.005) (DLC) - Akirabox part 4",
+          "url": "https://akirabox.com/N2p3DPbkn3Ma/file"
         },
         {
-          "name": "EUR Base - 1fichier part 5",
-          "url": "https://1fichier.com/?2d3eiaay9djb4g8x3cs5"
+          "name": "EUR Game (v01.005) (DLC) - Akirabox part 5",
+          "url": "https://akirabox.com/0rpmvpZrwzRg/file"
         },
         {
-          "name": "EUR Base - 1fichier part 6",
-          "url": "https://1fichier.com/?7x90opqhe3oufls0ybcl"
+          "name": "EUR Game (v01.005) (DLC) - Akirabox part 6",
+          "url": "https://akirabox.com/QN9mEqkbLm6d/file"
         },
         {
-          "name": "EUR Base - 1fichier part 7",
-          "url": "https://1fichier.com/?3jm9v95vnlbd625pxpxg"
+          "name": "EUR Game (v01.005) (DLC) - Akirabox part 7",
+          "url": "https://akirabox.com/M2BGwPK6Nmj4/file"
         },
         {
-          "name": "EUR Base - 1fichier part 8",
-          "url": "https://1fichier.com/?4vvaud9qwiwevkzj1ait"
+          "name": "EUR Game (v01.005) (DLC) - Akirabox part 8",
+          "url": "https://akirabox.com/2WVGrdbq43kx/file"
         },
         {
-          "name": "EUR Base - 1fichier part 9",
-          "url": "https://1fichier.com/?untaujohqwxm1vbnszls"
+          "name": "EUR Game (v01.005) (DLC) - Akirabox part 9",
+          "url": "https://akirabox.com/RMKGJKAX2m1o/file"
+        },
+        {
+          "name": "EUR Game (v01.005) (DLC) - Rootz part 1",
+          "url": "https://www.rootz.so/d/LWtBg"
+        },
+        {
+          "name": "EUR Game (v01.005) (DLC) - Rootz part 2",
+          "url": "https://www.rootz.so/d/HV2K8"
+        },
+        {
+          "name": "EUR Game (v01.005) (DLC) - Rootz part 3",
+          "url": "https://www.rootz.so/d/PYk3E"
+        },
+        {
+          "name": "EUR Game (v01.005) (DLC) - Rootz part 4",
+          "url": "https://www.rootz.so/d/1qTQgq"
+        },
+        {
+          "name": "EUR Game (v01.005) (DLC) - Rootz part 5",
+          "url": "https://www.rootz.so/d/1gGpc0"
+        },
+        {
+          "name": "EUR Game (v01.005) (DLC) - Rootz part 6",
+          "url": "https://www.rootz.so/d/lqtea"
+        },
+        {
+          "name": "EUR Game (v01.005) (DLC) - Rootz part 7",
+          "url": "https://www.rootz.so/d/hp2n2"
+        },
+        {
+          "name": "EUR Game (v01.005) (DLC) - Rootz part 8",
+          "url": "https://www.rootz.so/d/1cEykS"
+        },
+        {
+          "name": "EUR Game (v01.005) (DLC) - Rootz part 9",
+          "url": "https://www.rootz.so/d/Taaum"
+        },
+        {
+          "name": "EUR Game (v01.005) (DLC) - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/MTgSQs9CH3"
+        },
+        {
+          "name": "EUR Game (v01.005) (DLC) - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/ehZYj6oYDu"
+        },
+        {
+          "name": "EUR Game (v01.005) (DLC) - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/yTs6Tv7U8E"
+        },
+        {
+          "name": "EUR Game (v01.005) (DLC) - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/5Pbz6cHPPD"
+        },
+        {
+          "name": "EUR Game (v01.005) (DLC) - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/V1DEbMECor"
+        },
+        {
+          "name": "EUR Game (v01.005) (DLC) - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/WEDijzyz21"
+        },
+        {
+          "name": "EUR Game (v01.005) (DLC) - Vikingfile part 7",
+          "url": "https://vikingfile.com/f/Stch3SEHRE"
+        },
+        {
+          "name": "EUR Game (v01.005) (DLC) - Vikingfile part 8",
+          "url": "https://vikingfile.com/f/Xe9sAfZmgI"
+        },
+        {
+          "name": "EUR Game (v01.005) (DLC) - Vikingfile part 9",
+          "url": "https://vikingfile.com/f/DonjV2Fukp"
         }
       ]
     },
@@ -143320,6 +143468,93 @@
         {
           "name": "USA exFAT 01.004 Base - Vault (exFAT)",
           "url": "https://datavaults.co/6qmhde3tm198"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA35023",
+      "title": "[exFAT] YinYang Street",
+      "createdAt": "2026-11-11T12:48:10.836Z",
+      "version": "01.000.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/12d6fb29a7e30cd64c9a627262b7bbc503c7539397cf1aa204e20422815a870a",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/3b4845c2a2e8608082acab8f1365c947bc1e4769d3772b83577afe943b9ee2fd",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.000.002 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.000.002 Base - DataNodes",
+          "url": "https://datanodes.to/316z0otweo76/PPSA35023.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.002 Base - FileKeeper",
+          "url": "https://filekeeper.net/z8b5656ferss/PPSA35023.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.002 Base - Akirabox",
+          "url": "https://akirabox.to/l5YzMe9JezyO/file"
+        },
+        {
+          "name": "USA exFAT 01.000.002 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/D6HWYZuJcN"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA27102",
+      "title": "[exFAT] The Sinking Forest",
+      "createdAt": "2026-11-11T12:48:10.836Z",
+      "version": "01.000.008",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/71cfe3067b68ad807beda2bf5319941e36f4a3201bccabcfd7200800049527a3",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/134c28d06eccdd6f867992711a78836d63a9c3b2ceb11480cae9103b7d7c66cf",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.000.008 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.000.008 Base - DataNodes",
+          "url": "https://datanodes.to/t0039usp5l6y/PPSA27102.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.008 Base - FileKeeper",
+          "url": "https://filekeeper.net/xb0a6mglo4ou/PPSA27102.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.008 Base - Akirabox",
+          "url": "https://akirabox.to/qw1zeVxLZGXy/file"
+        },
+        {
+          "name": "USA exFAT 01.000.008 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/gLi4ROaZll"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA23172",
+      "title": "[exFAT] Keylocker",
+      "createdAt": "2026-11-11T12:48:10.836Z",
+      "version": "01.000.008",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/a08f7c312734c3b453640dcabc92f088d45a9dcbd64f2fa20955887a2dbc6c78",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/5204b6ac2ff615ab64a5fc3ae3a0eae14494f18723680e80d7b0657fdb583189",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.000.008 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.000.008 Base - DataNodes",
+          "url": "https://datanodes.to/ds08aqmr09az/PPSA23172.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.008 Base - FileKeeper",
+          "url": "https://filekeeper.net/tib2op6djb2d/PPSA23172.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.008 Base - Akirabox",
+          "url": "https://akirabox.to/Pbe3PeYp1zlX/file"
+        },
+        {
+          "name": "USA exFAT 01.000.008 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/DyGJZCbYPK"
         }
       ]
     },

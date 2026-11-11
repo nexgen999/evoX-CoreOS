@@ -64,7 +64,7 @@
       "description": "GDB Debugger server payload. Port: 1234",
       "version": "v0.9",
       "category": "PS5 Server",
-      "checksum": "fc91ea233cdbb47acd8087b93d557d9f8a663d0f47cb75908a05a024d07e7efb",
+      "checksum": "80952d75f423768b95385f0944e5a5c2f417dcc10c22c1bb6516a923ad8894e5",
       "source": "https://github.com/ps5-payload-dev/gdbsrv/releases"
     },
     {
@@ -75,7 +75,7 @@
       "description": "Kernel log server daemon. Port: 3232",
       "version": "v0.9",
       "category": "PS5 Server",
-      "checksum": "e828ec144231f81547cb58bc7d2c396fa984be0c2295f31364b58017816dcceb",
+      "checksum": "7e89c33eb90d44ea4644b80c56c29084d93faf415a9d64f1397a58ac7ca752d8",
       "source": "https://github.com/ps5-payload-dev/klogsrv/releases"
     },
     {
@@ -112,14 +112,14 @@
       "source": "https://github.com/cy33hc/ps5-ezremote-server/releases"
     },
     {
-      "name": "Ps5Upload V12.4.7",
-      "filename": "ps5upload_v12.4.7.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v12.4.7/ps5upload_v12.4.7.elf",
-      "local_path": "payloads/ps5_server/ps5upload/v12.4.7/ps5upload_v12.4.7.elf",
+      "name": "Ps5Upload V12.4.8",
+      "filename": "ps5upload_v12.4.8.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v12.4.8/ps5upload_v12.4.8.elf",
+      "local_path": "payloads/ps5_server/ps5upload/v12.4.8/ps5upload_v12.4.8.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v12.4.7",
+      "version": "v12.4.8",
       "category": "PS5 Server",
-      "checksum": "721d9dbca1e05c73aa58bdf4fe5093b4caf35f775a1d8702b080920ecb2111ab",
+      "checksum": "053154034ffdb5057a08a962b68a26708270c78da966ef0a9f433c3f6de860fc",
       "source": "https://github.com/phantomptr/ps5upload/releases"
     },
     {

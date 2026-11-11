@@ -1,5 +1,11 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 11/11/2026 à 13:51
+* **HOMEBREW_PAGE**
+  * `PC5` (2.3.10) - *Mise à jour (Précédent: 2.3.9)*
+  * `RommPS` (1.4.2) - *Mise à jour (Précédent: 1.4.1)*
+  * `TubeBlock` (01.000.204) - *Mise à jour (Précédent: 01.000.203)*
+
 ## Build du 11/11/2026 à 04:53
 * **PAYLOADS**
   * `Ps5-Romm V1.4.2` (v1.4.2) - *Nouveau*

@@ -2,17 +2,6 @@
   "name": "PS5 Remote",
   "payloads": [
     {
-      "name": "Actremotelink Agent V2.0",
-      "filename": "actremotelink_agent_v2.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Remote/ActRemoteLink-13.x/v2.0/actremotelink_agent_v2.0.elf",
-      "local_path": "payloads/PS5_Remote/ActRemoteLink-13.x/v2.0/actremotelink_agent_v2.0.elf",
-      "description": "ActRemoteLink is a set of payloads and utilities for PS5 jailbreak workflows focused on offline activation of a local account and Remote Play",
-      "version": "v2.0",
-      "category": "PS5 Remote",
-      "checksum": "c3a4195b86eaeb77ba64903e9280a0bb6d55e55fb1399a2f2c26310f09ca166a",
-      "source": "https://github.com/StonedModder/ActRemoteLink-13.x/releases"
-    },
-    {
       "name": "Actremotelink Pin Notify V2.0",
       "filename": "actremotelink_pin_notify_v2.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Remote/ActRemoteLink-13.x/v2.0/actremotelink_pin_notify_v2.0.elf",
@@ -21,6 +10,17 @@
       "version": "v2.0",
       "category": "PS5 Remote",
       "checksum": "707ea60d186b2b0b53ca379a740fef4b4a7c18558730e9f8c86868a1ab77b70c",
+      "source": "https://github.com/StonedModder/ActRemoteLink-13.x/releases"
+    },
+    {
+      "name": "Actremotelink Agent V2.0",
+      "filename": "actremotelink_agent_v2.0.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Remote/ActRemoteLink-13.x/v2.0/actremotelink_agent_v2.0.elf",
+      "local_path": "payloads/PS5_Remote/ActRemoteLink-13.x/v2.0/actremotelink_agent_v2.0.elf",
+      "description": "ActRemoteLink is a set of payloads and utilities for PS5 jailbreak workflows focused on offline activation of a local account and Remote Play",
+      "version": "v2.0",
+      "category": "PS5 Remote",
+      "checksum": "c3a4195b86eaeb77ba64903e9280a0bb6d55e55fb1399a2f2c26310f09ca166a",
       "source": "https://github.com/StonedModder/ActRemoteLink-13.x/releases"
     }
   ]

@@ -3,6 +3,190 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA35023",
+      "title": "YinYang Street",
+      "createdAt": "2026-11-11T10:51:35.430Z",
+      "version": "v01.000.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/12d6fb29a7e30cd64c9a627262b7bbc503c7539397cf1aa204e20422815a870a",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/3b4845c2a2e8608082acab8f1365c947bc1e4769d3772b83577afe943b9ee2fd",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA35023, v01.000.002, USA, 4.xx BackPort\nSize: 4GB\nCredits: Files: Zhengpai Yanba; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/316z0otweo76/PPSA35023.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/z8b5656ferss/PPSA35023.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/l5YzMe9JezyO/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/D6HWYZuJcN"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/l76mZvQ49man/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/7BjAy0OyKl"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/gbfstjbga0lc/PPSA35023-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/8ibeyot1biqb/PPSA35023-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 4294967296
+    },
+    {
+      "titleId": "PPSA28979",
+      "title": "Oxide Room 208",
+      "createdAt": "2026-11-11T10:51:35.430Z",
+      "version": "v01.007",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/69314e1cbb07183a13ae4eea275c934334386f6e13f389e9ddc76c313d2c9a4d",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/75c7f0efbc81e10d417f63f16188db190fb725474c2ed976f437b7397ad65135",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA28979, v01.007, EUR, 4.xx BackPort + 5.xx BackPort\nSize: 18GB\nCredits: Files: ChestCakes; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPorts Folder included. About FPKG: 5.xx BackPort already included on Base, 4.xx BackPort Only &amp; Original Files PKG included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/kx8ybyoahmid/PPSA28979.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/97v1gq7wn3k7/PPSA28979.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/LK0G1XVn9z91/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/rsLMAvy9rp"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/E9Qz96rnVGOL/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/oQS7ame8vB"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/0jsnbw3tfpyc/PPSA28979-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/yq3mtxuq80hz/PPSA28979-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 19327352832
+    },
+    {
+      "titleId": "PPSA27102",
+      "title": "The Sinking Forest",
+      "createdAt": "2026-11-11T10:51:35.430Z",
+      "version": "v01.000.008",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/71cfe3067b68ad807beda2bf5319941e36f4a3201bccabcfd7200800049527a3",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/134c28d06eccdd6f867992711a78836d63a9c3b2ceb11480cae9103b7d7c66cf",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA27102, v01.000.008, USA, 4.xx BackPort\nSize: 12GB\nCredits: Files: ChestCakes; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/t0039usp5l6y/PPSA27102.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/xb0a6mglo4ou/PPSA27102.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/qw1zeVxLZGXy/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/gLi4ROaZll"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/qPez4yOnYGOY/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/5teLobWrKj"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/btjqtpviqov3/PPSA27102-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/r9sd3lo2pkqh/PPSA27102-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 12884901888
+    },
+    {
+      "titleId": "PPSA23172",
+      "title": "Keylocker",
+      "createdAt": "2026-11-11T10:51:35.430Z",
+      "version": "v01.000.008",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/a08f7c312734c3b453640dcabc92f088d45a9dcbd64f2fa20955887a2dbc6c78",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/5204b6ac2ff615ab64a5fc3ae3a0eae14494f18723680e80d7b0657fdb583189",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA23172, v01.000.008, USA, 4.xx BackPort\nSize: 774MB\nCredits: Files: Salt; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/ds08aqmr09az/PPSA23172.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/tib2op6djb2d/PPSA23172.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/Pbe3PeYp1zlX/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/DyGJZCbYPK"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/0Kezk0PLRGD1/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/ZYcdYuuSw7"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/78613c8qva28/PPSA23172-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/b5px11mu6dpz/PPSA23172-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 811597824
+    },
+    {
       "titleId": "PPSA24263",
       "title": "Call of Duty Modern Warfare 3",
       "createdAt": "2026-11-10T20:28:39.958Z",

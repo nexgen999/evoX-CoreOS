@@ -74,7 +74,7 @@
       <title>PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.</description>
-      <pubDate>2.3.9</pubDate>
+      <pubDate>2.3.10</pubDate>
     </item>
     <item>
       <title>Home5</title>
@@ -284,7 +284,7 @@
       <title>RommPS</title>
       <link>https://github.com/s0liton/RommPS</link>
       <description>Syncs your emulator saves and states with a RomM server and downloads games from your RomM library.</description>
-      <pubDate>1.4.1</pubDate>
+      <pubDate>1.4.2</pubDate>
     </item>
     <item>
       <title>Parasite Eve PS5</title>
@@ -416,7 +416,7 @@
       <title>TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.203</pubDate>
+      <pubDate>01.000.204</pubDate>
     </item>
     <item>
       <title>CD Player</title>

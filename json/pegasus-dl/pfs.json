@@ -3,6 +3,40 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA16833",
+      "title": "LEGO® Batman™: Legacy of the Dark Knight",
+      "createdAt": "2026-11-11T12:53:14.498Z",
+      "version": "01.010.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/d5a04f8fa8c56a7a72642ab3c1405f24538e227fbcbc1027fa0e861defa96ce1",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/ed3abcbd316e0a401ac8bb5526640d73f11f25b4b90623b64a144a2d3af7490a",
+      "description": "Format: zstd\nFull base game includes: • Main Story - Bruce Wayne’s journey from origin to legend as he trains with The League of Shadows, becomes the hero of Gotham City, and forges a new family of allies with Jim Gordon, Catwoman, Robin, Nightwing, and Batgirl. Confront an ever-growing threat from across Batman’s Rogues Gallery as you face The Joker, The Penguin, Mr. Freeze, Poison Ivy, Bane, and more. • 7 Playable Characters - Batman, Jim Gordon, Robin, Nightwing, Batgirl, Catwoman, and Talia al Ghul each bring unique skills and signature gadgets as you uncover crimes, complete challenges, and explore an immersive Gotham City full of secrets and surprises. • 100 Suits - Inspired by Batman’s 86-year legacy, you’ll find an array of Batsuits alongside individual outfits for every playable character. • 20+ Vehicles - A range of Batmobiles and Batcycles to drive around Gotham City's open world in style. Including iconic rides like the legendary Tumbler. • 250+ Batcave Props &amp; Trophies - Customize and display a wide range of items to personalize your Batcave and celebrate your achievements. Are you ready to build the legacy of the Dark Knight?\nRegion: USA\nFirmware: 5.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and ampr emu in shadowmount!\nCredits: Thanks to MaggieRed79!!\nUpdated: 2026-11-11T12:49:40.294Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Gofile",
+          "url": "https://gofile.io/d/IdriyqKJ"
+        },
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/LSpI2JrCWT"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/oSf04q2yT4"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/ND4awV1ZJa"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/noloo0UdfP"
+        }
+      ],
+      "sizeBytes": 41263898296
+    },
+    {
       "titleId": "PPSA33286",
       "title": "Silent Hill Townfall",
       "createdAt": "2026-10-16T21:48:35.923Z",
@@ -109,31 +143,31 @@
         },
         {
           "name": "zstd · Viki - pt.1",
-          "url": "https://vikingfile.com/f/DtriB1DUxm"
+          "url": "https://vikingfile.com/f/JTx7JMEEBP"
         },
         {
           "name": "zstd · Viki - pt.2",
-          "url": "https://vikingfile.com/f/9hIkTKT4sq"
+          "url": "https://vikingfile.com/f/a7uc02SboT"
         },
         {
           "name": "zstd · Viki - pt.3",
-          "url": "https://vikingfile.com/f/BGsIoFQkpQ"
+          "url": "https://vikingfile.com/f/rh4SdZrvqH"
         },
         {
           "name": "zstd · Viki - pt.4",
-          "url": "https://vikingfile.com/f/DIBkBcQSoI"
+          "url": "https://vikingfile.com/f/HXji804G2g"
         },
         {
           "name": "zstd · Viki - pt.5",
-          "url": "https://vikingfile.com/f/P0OjUfvcr7"
+          "url": "https://vikingfile.com/f/XwmhYrEd4u"
         },
         {
           "name": "zstd · Viki - pt.6",
-          "url": "https://vikingfile.com/f/e71UYVkyCs"
+          "url": "https://vikingfile.com/f/iNRXgzEgKD"
         },
         {
           "name": "zstd · Viki - pt.7",
-          "url": "https://vikingfile.com/f/ljUbEIvz5S"
+          "url": "https://vikingfile.com/f/NPodXzUumi"
         }
       ],
       "sizeBytes": 65390877082

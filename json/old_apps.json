@@ -12,106 +12,6 @@
             "category": "Applications"
         },
         {
-            "name": "Castation-0.4.0",
-            "filename": "castation-0.4.0.zip",
-            "url": "https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip",
-            "local_path": "apps/castation/v0.4.0/castation-0.4.0.zip",
-            "description": "Dreamcast emulator based on Flycast PlayStation 5 homebrew",
-            "version": "v0.4.0",
-            "checksum": "6b17a8feaf3a51c82c5bf572ebd54346457057d78bb25e274e97692f04bfdf6d",
-            "category": "Applications"
-        },
-        {
-            "name": "Dump Installer",
-            "filename": "dump_installer.zip",
-            "url": "https://github.com/EchoStretch/dump_installer/releases/download/1.07/dump_installer.zip",
-            "local_path": "apps/dump_installer/1.07/dump_installer.zip",
-            "description": "Dump installer howmebrew",
-            "version": "1.07",
-            "checksum": "5096f5775236758803d2a4fc3c257973d27e0fb1429ecd5f75b0c74382c1403c",
-            "category": "Applications"
-        },
-        {
-            "name": "Dump Runner",
-            "filename": "dump_runner.zip",
-            "url": "https://github.com/EchoStretch/dump_runner/releases/download/v1.02/dump_runner.zip",
-            "local_path": "apps/dump_runner/v1.02/dump_runner.zip",
-            "description": "Dump runner howmebrew",
-            "version": "v1.02",
-            "checksum": "0ffc4af70b23f7a3c6e943732fab76a7b353f03048958df7699b40e2ec539b1d",
-            "category": "Applications"
-        },
-        {
-            "name": "Ps5Mc-1.2-Kodi21-Ppsa99421",
-            "filename": "PS5MC-1.2-kodi21-PPSA99421.zip",
-            "url": "https://github.com/VivaLaVent/PS5MC/releases/download/1.2/PS5MC-1.2-kodi21-PPSA99421.zip",
-            "local_path": "apps/kodi-ps5/1.2/PS5MC-1.2-kodi21-PPSA99421.zip",
-            "description": "kodi-ps5",
-            "version": "1.2",
-            "checksum": "a62af4451c0877b967acceb74889f8d0c8d268e5764ba4f299fe723f41df7ef0",
-            "category": "Applications"
-        },
-        {
-            "name": "Ps5Mc-1.2-Kodi22-Ppsa99420",
-            "filename": "PS5MC-1.2-kodi22-PPSA99420.zip",
-            "url": "https://github.com/VivaLaVent/PS5MC/releases/download/1.2/PS5MC-1.2-kodi22-PPSA99420.zip",
-            "local_path": "apps/kodi-ps5/1.2/PS5MC-1.2-kodi22-PPSA99420.zip",
-            "description": "kodi-ps5",
-            "version": "1.2",
-            "checksum": "5a9eeff4a0024a341a4924b8d283fe65b4ff94d7f5dbea446c8a677c4db157b6",
-            "category": "Applications"
-        },
-        {
-            "name": "Emulatorpack",
-            "filename": "EmulatorPack.zip",
-            "url": "https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/EmulatorPack.zip",
-            "local_path": "apps/Prospero_Multi_Tools/v1/EmulatorPack.zip",
-            "description": "Backup manager for PS5",
-            "version": "v1",
-            "checksum": "1107bc5a546a332b921f532c8cdde977c3598714b075286d3911cd0c717b6b02",
-            "category": "Applications"
-        },
-        {
-            "name": "Prosperomultitools",
-            "filename": "ProsperoMultiTools.zip",
-            "url": "https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/ProsperoMultiTools.zip",
-            "local_path": "apps/Prospero_Multi_Tools/v1/ProsperoMultiTools.zip",
-            "description": "Backup manager for PS5",
-            "version": "v1",
-            "checksum": "0e7c60d0e860cd0cafb939f668ccae57f53503f2c2371b4193a81ab306346d6b",
-            "category": "Applications"
-        },
-        {
-            "name": "Prosperoexplorer-V1",
-            "filename": "ProsperoExplorer-v1.zip",
-            "url": "https://github.com/SvenGDK/Prospero-Explorer/releases/download/v1.0/ProsperoExplorer-v1.zip",
-            "local_path": "apps/Prospero_Explorer/v1.0/ProsperoExplorer-v1.zip",
-            "description": "File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network",
-            "version": "v1.0",
-            "checksum": "3eaee706e8aca772fce734b494e56729ddedec218597ab9baf940094a0cdfc7e",
-            "category": "Applications"
-        },
-        {
-            "name": "Ppsa99000",
-            "filename": "PPSA99000.zip",
-            "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.116/PPSA99000.zip",
-            "local_path": "apps/ProsperoStore/v1.000.116/PPSA99000.zip",
-            "description": "homebrew store",
-            "version": "v1.000.116",
-            "checksum": "c2b5d18b9eba3daf1395729dd2b410ea6a6161542b49ce415d4b4c84b986cbb4",
-            "category": "Applications"
-        },
-        {
-            "name": "Emustore-Ps5-V0.4.0",
-            "filename": "EmuStore-PS5-v0.4.0.zip",
-            "url": "https://github.com/romanocry/EmuStore-PS5/releases/download/v0.4.0/EmuStore-PS5-v0.4.0.zip",
-            "local_path": "apps/EmuStore-PS5/v0.4.0/EmuStore-PS5-v0.4.0.zip",
-            "description": "hEmuStore-PS5",
-            "version": "v0.4.0",
-            "checksum": "bae913c18212e5ab9a178f2e5f71b3c883b2cacbdd3fffba49882d40bc60117f",
-            "category": "Applications"
-        },
-        {
             "name": "Flycast-Ps5-2026.10.06",
             "filename": "flycast-ps5-2026.10.06.zip",
             "url": "https://github.com/rpf16rj/flycast-ps5-libretro-core/releases/download/v2026.10.06-run14/flycast-ps5-2026.10.06.zip",
@@ -159,6 +59,16 @@
             "description": "Xbox emulator (Xemu) port for the PS5",
             "version": "v3.4",
             "checksum": "ddcc21d4d12270e4d122278719d816529671aa3781cb74c04b6e1ce969779249",
+            "category": "Applications"
+        },
+        {
+            "name": "Castation-0.4.0",
+            "filename": "castation-0.4.0.zip",
+            "url": "https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip",
+            "local_path": "apps/castation/v0.4.0/castation-0.4.0.zip",
+            "description": "Dreamcast flycast emu for ps5",
+            "version": "v0.4.0",
+            "checksum": "6b17a8feaf3a51c82c5bf572ebd54346457057d78bb25e274e97692f04bfdf6d",
             "category": "Applications"
         },
         {
@@ -339,6 +249,96 @@
             "description": "ppsspp for PS5",
             "version": "v1.000.100",
             "checksum": "7944efe11211fe0299d4c68234fe3739e0f43f5ef076ee02c55c314828762c97",
+            "category": "Applications"
+        },
+        {
+            "name": "Dump Installer",
+            "filename": "dump_installer.zip",
+            "url": "https://github.com/EchoStretch/dump_installer/releases/download/1.07/dump_installer.zip",
+            "local_path": "apps/dump_installer/1.07/dump_installer.zip",
+            "description": "Dump installer howmebrew",
+            "version": "1.07",
+            "checksum": "5096f5775236758803d2a4fc3c257973d27e0fb1429ecd5f75b0c74382c1403c",
+            "category": "Applications"
+        },
+        {
+            "name": "Dump Runner",
+            "filename": "dump_runner.zip",
+            "url": "https://github.com/EchoStretch/dump_runner/releases/download/v1.02/dump_runner.zip",
+            "local_path": "apps/dump_runner/v1.02/dump_runner.zip",
+            "description": "Dump runner howmebrew",
+            "version": "v1.02",
+            "checksum": "0ffc4af70b23f7a3c6e943732fab76a7b353f03048958df7699b40e2ec539b1d",
+            "category": "Applications"
+        },
+        {
+            "name": "Ps5Mc-1.2-Kodi21-Ppsa99421",
+            "filename": "PS5MC-1.2-kodi21-PPSA99421.zip",
+            "url": "https://github.com/VivaLaVent/PS5MC/releases/download/1.2/PS5MC-1.2-kodi21-PPSA99421.zip",
+            "local_path": "apps/kodi-ps5/1.2/PS5MC-1.2-kodi21-PPSA99421.zip",
+            "description": "kodi-ps5",
+            "version": "1.2",
+            "checksum": "a62af4451c0877b967acceb74889f8d0c8d268e5764ba4f299fe723f41df7ef0",
+            "category": "Applications"
+        },
+        {
+            "name": "Ps5Mc-1.2-Kodi22-Ppsa99420",
+            "filename": "PS5MC-1.2-kodi22-PPSA99420.zip",
+            "url": "https://github.com/VivaLaVent/PS5MC/releases/download/1.2/PS5MC-1.2-kodi22-PPSA99420.zip",
+            "local_path": "apps/kodi-ps5/1.2/PS5MC-1.2-kodi22-PPSA99420.zip",
+            "description": "kodi-ps5",
+            "version": "1.2",
+            "checksum": "5a9eeff4a0024a341a4924b8d283fe65b4ff94d7f5dbea446c8a677c4db157b6",
+            "category": "Applications"
+        },
+        {
+            "name": "Emulatorpack",
+            "filename": "EmulatorPack.zip",
+            "url": "https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/EmulatorPack.zip",
+            "local_path": "apps/Prospero_Multi_Tools/v1/EmulatorPack.zip",
+            "description": "Backup manager for PS5",
+            "version": "v1",
+            "checksum": "1107bc5a546a332b921f532c8cdde977c3598714b075286d3911cd0c717b6b02",
+            "category": "Applications"
+        },
+        {
+            "name": "Prosperomultitools",
+            "filename": "ProsperoMultiTools.zip",
+            "url": "https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/ProsperoMultiTools.zip",
+            "local_path": "apps/Prospero_Multi_Tools/v1/ProsperoMultiTools.zip",
+            "description": "Backup manager for PS5",
+            "version": "v1",
+            "checksum": "0e7c60d0e860cd0cafb939f668ccae57f53503f2c2371b4193a81ab306346d6b",
+            "category": "Applications"
+        },
+        {
+            "name": "Prosperoexplorer-V1",
+            "filename": "ProsperoExplorer-v1.zip",
+            "url": "https://github.com/SvenGDK/Prospero-Explorer/releases/download/v1.0/ProsperoExplorer-v1.zip",
+            "local_path": "apps/Prospero_Explorer/v1.0/ProsperoExplorer-v1.zip",
+            "description": "File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network",
+            "version": "v1.0",
+            "checksum": "3eaee706e8aca772fce734b494e56729ddedec218597ab9baf940094a0cdfc7e",
+            "category": "Applications"
+        },
+        {
+            "name": "Ppsa99000",
+            "filename": "PPSA99000.zip",
+            "url": "https://github.com/darkxex/ProsperoStore/releases/download/v1.000.116/PPSA99000.zip",
+            "local_path": "apps/ProsperoStore/v1.000.116/PPSA99000.zip",
+            "description": "homebrew store",
+            "version": "v1.000.116",
+            "checksum": "c2b5d18b9eba3daf1395729dd2b410ea6a6161542b49ce415d4b4c84b986cbb4",
+            "category": "Applications"
+        },
+        {
+            "name": "Emustore-Ps5-V0.4.0",
+            "filename": "EmuStore-PS5-v0.4.0.zip",
+            "url": "https://github.com/romanocry/EmuStore-PS5/releases/download/v0.4.0/EmuStore-PS5-v0.4.0.zip",
+            "local_path": "apps/EmuStore-PS5/v0.4.0/EmuStore-PS5-v0.4.0.zip",
+            "description": "hEmuStore-PS5",
+            "version": "v0.4.0",
+            "checksum": "bae913c18212e5ab9a178f2e5f71b3c883b2cacbdd3fffba49882d40bc60117f",
             "category": "Applications"
         }
     ]

@@ -13,17 +13,6 @@
       "source": "https://github.com/porhe911/Common-FPS-for-PS5/releases"
     },
     {
-      "name": "Ps5-Overlay-Kus V1.0.19",
-      "filename": "ps5-overlay-kus_v1.0.19.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.19/ps5-overlay-kus_v1.0.19.elf",
-      "local_path": "payloads/PS5_Overlay/ps5-new-overlay/v1.0.19/ps5-overlay-kus_v1.0.19.elf",
-      "description": "A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+).",
-      "version": "v1.0.19",
-      "category": "PS5 Overlay",
-      "checksum": "fbb798d01fa413ca0d04b81ff9c719e1da0535e4145858459d9982e163b975d1",
-      "source": "https://github.com/smoxa/ps5-new-overlay/releases"
-    },
-    {
       "name": "Overlay Payload",
       "filename": "overlay_payload.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.19/overlay_payload.elf",
@@ -32,6 +21,17 @@
       "version": "v1.0.19",
       "category": "PS5 Overlay",
       "checksum": "d663a8eb3756994a3f409a9a8624f838c4755f2924b8c936f62101920acfd285",
+      "source": "https://github.com/smoxa/ps5-new-overlay/releases"
+    },
+    {
+      "name": "Ps5-Overlay-Kus V1.0.19",
+      "filename": "ps5-overlay-kus_v1.0.19.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.19/ps5-overlay-kus_v1.0.19.elf",
+      "local_path": "payloads/PS5_Overlay/ps5-new-overlay/v1.0.19/ps5-overlay-kus_v1.0.19.elf",
+      "description": "A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+).",
+      "version": "v1.0.19",
+      "category": "PS5 Overlay",
+      "checksum": "fbb798d01fa413ca0d04b81ff9c719e1da0535e4145858459d9982e163b975d1",
       "source": "https://github.com/smoxa/ps5-new-overlay/releases"
     }
   ]

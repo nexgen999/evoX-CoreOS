@@ -24,28 +24,6 @@
       "source": "https://github.com/illusionyy/ps5-fw-spoof/releases"
     },
     {
-      "name": "Ps5-Self-Pager-System-Common-Lib",
-      "filename": "ps5-self-pager-system-common-lib.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-system-common-lib.elf",
-      "local_path": "payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-system-common-lib.elf",
-      "description": "SELF pager payload tool.",
-      "version": "v1.2",
-      "category": "PS5 Sdk Debug",
-      "checksum": "a86c3e69ed38656310b41af4f9221bdb2264ff4daf93fb4c2515fd54a216b701",
-      "source": "https://github.com/idlesauce/ps5-self-pager/releases"
-    },
-    {
-      "name": "Ps5-Self-Pager-Shellcore",
-      "filename": "ps5-self-pager-shellcore.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-shellcore.elf",
-      "local_path": "payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-shellcore.elf",
-      "description": "SELF pager payload tool.",
-      "version": "v1.2",
-      "category": "PS5 Sdk Debug",
-      "checksum": "2b500bc356b5bcfca5c3e5187bcec0a37c80ed05e39348b8f06bd2e5a6f3342b",
-      "source": "https://github.com/idlesauce/ps5-self-pager/releases"
-    },
-    {
       "name": "Ps5-Self-Pager-Game",
       "filename": "ps5-self-pager-game.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-game.elf",
@@ -68,26 +46,26 @@
       "source": "https://github.com/idlesauce/ps5-self-pager/releases"
     },
     {
-      "name": "Ps5-Self-Decrypter-Full-System",
-      "filename": "ps5-self-decrypter-full-system.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-full-system.elf",
-      "local_path": "payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-full-system.elf",
-      "description": "SELF decrypter tool for PS5 binaries.",
-      "version": "v0.5.2",
+      "name": "Ps5-Self-Pager-System-Common-Lib",
+      "filename": "ps5-self-pager-system-common-lib.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-system-common-lib.elf",
+      "local_path": "payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-system-common-lib.elf",
+      "description": "SELF pager payload tool.",
+      "version": "v1.2",
       "category": "PS5 Sdk Debug",
-      "checksum": "46340d3048a977f5603b3def0a0ba1c85b5c182891388442e51b39e281257b6a",
-      "source": "https://github.com/idlesauce/PS5-SELF-Decrypter/releases"
+      "checksum": "a86c3e69ed38656310b41af4f9221bdb2264ff4daf93fb4c2515fd54a216b701",
+      "source": "https://github.com/idlesauce/ps5-self-pager/releases"
     },
     {
-      "name": "Ps5-Self-Decrypter-Shellcore",
-      "filename": "ps5-self-decrypter-shellcore.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-shellcore.elf",
-      "local_path": "payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-shellcore.elf",
-      "description": "SELF decrypter tool for PS5 binaries.",
-      "version": "v0.5.2",
+      "name": "Ps5-Self-Pager-Shellcore",
+      "filename": "ps5-self-pager-shellcore.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-shellcore.elf",
+      "local_path": "payloads/ps5_sdk_debug/ps5-self-pager/v1.2/ps5-self-pager-shellcore.elf",
+      "description": "SELF pager payload tool.",
+      "version": "v1.2",
       "category": "PS5 Sdk Debug",
-      "checksum": "15050c691c21c790ae970a1ee99ad3918dd1065fe5512c762fccee6d521c8066",
-      "source": "https://github.com/idlesauce/PS5-SELF-Decrypter/releases"
+      "checksum": "2b500bc356b5bcfca5c3e5187bcec0a37c80ed05e39348b8f06bd2e5a6f3342b",
+      "source": "https://github.com/idlesauce/ps5-self-pager/releases"
     },
     {
       "name": "Ps5-Self-Decrypter-System-Common-Lib",
@@ -101,6 +79,17 @@
       "source": "https://github.com/idlesauce/PS5-SELF-Decrypter/releases"
     },
     {
+      "name": "Ps5-Self-Decrypter-Full-System",
+      "filename": "ps5-self-decrypter-full-system.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-full-system.elf",
+      "local_path": "payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-full-system.elf",
+      "description": "SELF decrypter tool for PS5 binaries.",
+      "version": "v0.5.2",
+      "category": "PS5 Sdk Debug",
+      "checksum": "46340d3048a977f5603b3def0a0ba1c85b5c182891388442e51b39e281257b6a",
+      "source": "https://github.com/idlesauce/PS5-SELF-Decrypter/releases"
+    },
+    {
       "name": "Ps5-Self-Decrypter-Game",
       "filename": "ps5-self-decrypter-game.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-game.elf",
@@ -109,6 +98,17 @@
       "version": "v0.5.2",
       "category": "PS5 Sdk Debug",
       "checksum": "190b350759b4f9d50949325e84d131e0953f37a9df271c329ba43c80c0ac7a57",
+      "source": "https://github.com/idlesauce/PS5-SELF-Decrypter/releases"
+    },
+    {
+      "name": "Ps5-Self-Decrypter-Shellcore",
+      "filename": "ps5-self-decrypter-shellcore.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-shellcore.elf",
+      "local_path": "payloads/ps5_sdk_debug/PS5-SELF-Decrypter/v0.5.2/ps5-self-decrypter-shellcore.elf",
+      "description": "SELF decrypter tool for PS5 binaries.",
+      "version": "v0.5.2",
+      "category": "PS5 Sdk Debug",
+      "checksum": "15050c691c21c790ae970a1ee99ad3918dd1065fe5512c762fccee6d521c8066",
       "source": "https://github.com/idlesauce/PS5-SELF-Decrypter/releases"
     },
     {
@@ -130,7 +130,7 @@
       "description": "Memory debugging and inspection suite.",
       "version": "nightly-20260930-g6e493c9",
       "category": "PS5 Sdk Debug",
-      "checksum": "2fbdc9f0b21043619b1c32b512df47b3ddf79a99f096243c0d48f5ffc14e1906",
+      "checksum": "d4ce3398d639a3164f63c8e5acecccccebb18e2086fec21adef762e57a724b13",
       "source": "https://github.com/seregonwar/MemDBG/releases"
     },
     {

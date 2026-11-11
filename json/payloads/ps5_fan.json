@@ -13,17 +13,6 @@
       "source": "https://github.com/owendswang/ps5-fan-control/releases"
     },
     {
-      "name": "Fan Target 70C V0.1",
-      "filename": "fan_target_70c_v0.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_70c_v0.1.elf",
-      "local_path": "payloads/ps5_fan/fan_target/0.1/fan_target_70c_v0.1.elf",
-      "description": "fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console",
-      "version": "0.1",
-      "category": "PS5 Fan",
-      "checksum": "a9ad8502123799d58f8ddd9882d842f524c4ecc3ea6743a73c6dcdffd0bf30e0",
-      "source": "https://github.com/drakmor/fan_target/releases"
-    },
-    {
       "name": "Fan Target 75C V0.1",
       "filename": "fan_target_75c_v0.1.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_75c_v0.1.elf",
@@ -53,18 +42,18 @@
       "description": "fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console",
       "version": "0.1",
       "category": "PS5 Fan",
-      "checksum": "a9ad8502123799d58f8ddd9882d842f524c4ecc3ea6743a73c6dcdffd0bf30e0",
+      "checksum": "0bedeb564947530d09d1dfb27df63c2a09eaa7f51faf3ddcc90b3fb2870e6312",
       "source": "https://github.com/drakmor/fan_target/releases"
     },
     {
-      "name": "Fan Target 80C V0.1",
-      "filename": "fan_target_80c_v0.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_80c_v0.1.elf",
-      "local_path": "payloads/ps5_fan/fan_target/0.1/fan_target_80c_v0.1.elf",
+      "name": "Fan Target 70C V0.1",
+      "filename": "fan_target_70c_v0.1.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_70c_v0.1.elf",
+      "local_path": "payloads/ps5_fan/fan_target/0.1/fan_target_70c_v0.1.elf",
       "description": "fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console",
       "version": "0.1",
       "category": "PS5 Fan",
-      "checksum": "ccf2e709218f31cd9e6a0705c99646b8f030b877687df8377982a2f6ca10216e",
+      "checksum": "a9ad8502123799d58f8ddd9882d842f524c4ecc3ea6743a73c6dcdffd0bf30e0",
       "source": "https://github.com/drakmor/fan_target/releases"
     },
     {
@@ -76,6 +65,17 @@
       "version": "0.1",
       "category": "PS5 Fan",
       "checksum": "0bedeb564947530d09d1dfb27df63c2a09eaa7f51faf3ddcc90b3fb2870e6312",
+      "source": "https://github.com/drakmor/fan_target/releases"
+    },
+    {
+      "name": "Fan Target 80C V0.1",
+      "filename": "fan_target_80c_v0.1.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_fan/fan_target/0.1/fan_target_80c_v0.1.elf",
+      "local_path": "payloads/ps5_fan/fan_target/0.1/fan_target_80c_v0.1.elf",
+      "description": "fan_target keeps the PS5 fan controller at a selected target temperature while leaving the console",
+      "version": "0.1",
+      "category": "PS5 Fan",
+      "checksum": "ccf2e709218f31cd9e6a0705c99646b8f030b877687df8377982a2f6ca10216e",
       "source": "https://github.com/drakmor/fan_target/releases"
     }
   ]
