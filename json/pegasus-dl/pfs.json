@@ -3,6 +3,72 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA19534",
+      "title": "Battlefield 6",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "1.000.016",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/05c17562f824a2454260422c07b06933faff82acb1e2c6797cc34fe856b5a306",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/2b77d8fa9ee221e2434a1200ae3884bcecfbdc554383ade7a6db375bafbaedef",
+      "description": "Format: zstd\nThe ultimate all-out warfare experience. Fight in high-intensity infantry combat. Rip through the skies in aerial dogfights. Demolish your environment for a strategic advantage. Harness complete control over every action and movement using the Kinesthetic Combat System. In a war of tanks, fighter jets, and massive combat arsenals—the deadliest weapon is your squad. This is Battlefield 6. MULTIPLAYER Victory, however you envision it. Battlefield 6 has more ways to win than ever before. Seize glory in iconic massive maps or jump into fast-paced close quarters combat. Change the rules of war with the revamped and refined Battlefield Portal. Fight in iconic locations all over the world including Cairo, Brooklyn, Gibraltar, Japan, and more. More ways to play. More paths to victory. GLOBAL SCALE CAMPAIGN Drive tanks across the Sahara. Storm the beaches of Gibraltar. Defend New York from invasion. Join an elite squad of Marine Raiders fighting relentlessly to save a world on the edge of collapse. PORTAL Redraw the lines of battle. Battlefield Portal is a massive sandbox where creators and players can push Battlefield to the limit. Take unprecedented control of your environment by moving, scaling, and duplicating objects. Create a completely unique game mode using NPC scripting and a customizable UI. Legendary Battlefield experiences are waiting to be created—show ‘em what you’re made of. This game includes optional in-game purchases of virtual currency that can be used to acquire virtual in-game items.\nRegion: USA to EUR Langs\nFirmware: 10.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nCredits: Thank you, Xan!!\nUpdated: 2026-11-11T23:05:03.512Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/elGLrPBpxg"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/ocGBtNPgJ5"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/4Eit7b5Zai"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/lLxZa2Js2G"
+        },
+        {
+          "name": "zstd · Viki - pt.5",
+          "url": "https://vikingfile.com/f/uCTTiEQgjc"
+        },
+        {
+          "name": "zstd · Viki - pt.6",
+          "url": "https://vikingfile.com/f/6QA2RAuo3k"
+        },
+        {
+          "name": "zstd · Viki - pt.7",
+          "url": "https://vikingfile.com/f/DkZZVBPemQ"
+        },
+        {
+          "name": "zstd · Viki - pt.8",
+          "url": "https://vikingfile.com/f/Ya9iMsjlIG"
+        },
+        {
+          "name": "zstd · Viki - pt.9",
+          "url": "https://vikingfile.com/f/nmSYpXAKmm"
+        },
+        {
+          "name": "zstd · Viki - pt.10",
+          "url": "https://vikingfile.com/f/s5aFtPWP7n"
+        },
+        {
+          "name": "zstd · Viki - pt.11",
+          "url": "https://vikingfile.com/f/GDfepq40dP"
+        },
+        {
+          "name": "zstd · Viki - pt.12",
+          "url": "https://vikingfile.com/f/p270RXgGj8"
+        },
+        {
+          "name": "zstd · Viki - pt.13",
+          "url": "https://vikingfile.com/f/myB3pFUaYY"
+        }
+      ],
+      "sizeBytes": 133143986176
+    },
+    {
       "titleId": "PPSA24884",
       "title": "Starfield",
       "createdAt": "2026-10-16T21:48:35.923Z",

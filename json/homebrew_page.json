@@ -746,15 +746,15 @@
     {
       "name": "SpeedBreaker (NFS: Most Wanted)",
       "filename": "PPSA90505.zip",
-      "url": "https://github.com/bystritskiy/speedbreaker-ps5/releases/download/01.000.002/PPSA90505.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA90505/01.000.002/PPSA90505.zip",
+      "url": "https://github.com/bystritskiy/speedbreaker-ps5/releases/download/01.000.003/PPSA90505.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA90505/01.000.003/PPSA90505.zip",
       "description": "Need for Speed: Most Wanted (2005), the Xbox 360 version statically recompiled to run natively on PS5. Bring your own disc.",
-      "version": "01.000.002",
+      "version": "01.000.003",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA90505",
       "author": "bystritskiy",
-      "checksum": "96f50f7322fe747293de3d5d09e408c2a322fdc6c7ed99c9ad58036e4b2da4dc",
+      "checksum": "291a6cb479ddd502e2224a03aa7a33aee6ab4edd0410ce84646a2f3c8612738a",
       "source": "https://github.com/bystritskiy/speedbreaker-ps5"
     },
     {
@@ -984,15 +984,15 @@
     {
       "name": "TubeBlock",
       "filename": "PPSA98260.zip",
-      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.205/SmartTube-PPSA98260.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.205/PPSA98260.zip",
+      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.206/SmartTube-PPSA98260.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.206/PPSA98260.zip",
       "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
-      "version": "01.000.205",
+      "version": "01.000.206",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98260",
       "author": "animatian112",
-      "checksum": "9ca142bbb9bc335f0ceb80295a6c49353c7da5cf7dd3c98d7f86bcc12bc38af8",
+      "checksum": "efb5ed5801e5b1f8a750cc8d198c0ad5da81293d89ecc662d9ca03ea3d7f6013",
       "source": "https://github.com/animatian112/ytps5-sponsorblock"
     },
     {
@@ -1180,15 +1180,15 @@
     {
       "name": "ProsperoAI",
       "filename": "PPSA99004.zip",
-      "url": "https://github.com/quatrixone/ProsperoAI/releases/download/01.006.000/PPSA99004.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99004/01.006.000/PPSA99004.zip",
+      "url": "https://github.com/quatrixone/ProsperoAI/releases/download/01.007.000/PPSA99004.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99004/01.007.000/PPSA99004.zip",
       "description": "Local LLM chat app for PS5.",
-      "version": "01.006.000",
+      "version": "01.007.000",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99004",
       "author": "BlackBearReloaded",
-      "checksum": "8b2241e003a22bffccee23e9424991533047e633e5ce337af60281b96868439e",
+      "checksum": "68759ee86af6a018c3a1b4203aa97b80ee12fcd9472f673ef177d3fb1dacc7aa",
       "source": "https://github.com/quatrixone/ProsperoAI"
     },
     {
@@ -1236,15 +1236,15 @@
     {
       "name": "Media Player Classic PS5",
       "filename": "PPSA99015.zip",
-      "url": "https://github.com/MisterTemaki/MediaPlayerClassicPS5/releases/download/v1.6.1/MediaPlayerClassicPS5-v1.6.1-PPSA99015.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99015/1.6.1/PPSA99015.zip",
+      "url": "https://github.com/MisterTemaki/MediaPlayerClassicPS5/releases/download/v1.6.2/MediaPlayerClassicPS5-v1.6.2-PPSA99015.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99015/1.6.2/PPSA99015.zip",
       "description": "Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.",
-      "version": "1.6.1",
+      "version": "1.6.2",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99015",
       "author": "MisterTemaki",
-      "checksum": "e514211773255f4b49fe1cf2ec1386140a60e384e2b1ab00afaf9a5c31bdb0a4",
+      "checksum": "4cec5bb89c91bc3a195ef426368803f298741c9db2c65ce6384d97ddda46c955",
       "source": "https://github.com/MisterTemaki/MediaPlayerClassicPS5"
     },
     {
@@ -1306,15 +1306,15 @@
     {
       "name": "reUndr 2 (NFS: Underground 2)",
       "filename": "PPSA99027.zip",
-      "url": "https://github.com/bystritskiy/reUndr2-ps5/releases/download/01.000.000/PPSA99027-01.000.000.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99027/01.000.000/PPSA99027.zip",
+      "url": "https://github.com/bystritskiy/reUndr2-ps5/releases/download/01.001.000/PPSA99027-01.001.000.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99027/01.001.000/PPSA99027.zip",
       "description": "Need for Speed: Underground 2, the Xbox version recompiled to run natively on PS5, in 4K at up to 60 fps. Bring your own disc.",
-      "version": "01.000.000",
+      "version": "01.001.000",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99027",
       "author": "bystritskiy",
-      "checksum": "072e5020a19e3533332efcde70d2980f4ba837af035d6caa35a3e26f1231154b",
+      "checksum": "6223d3d95f45d9d8710c3a17d788d2f8de47286800f810624417e6c0dc8c3120",
       "source": "https://github.com/bystritskiy/reUndr2-ps5"
     },
     {
@@ -2048,15 +2048,15 @@
     {
       "name": "ApricotGS",
       "filename": "PPSA99429.zip",
-      "url": "https://github.com/BaZZtian/PS5-ApricotGS/releases/download/v00.040.006/ApricotGS-v00.040.006-PS5.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99429/00.040.006/PPSA99429.zip",
+      "url": "https://github.com/BaZZtian/PS5-ApricotGS/releases/download/v00.040.007/ApricotGS-v00.040.007-PS5.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99429/00.040.007/PPSA99429.zip",
       "description": "Play supported German HeartGold and SoulSilver dumps on PS5. Add your own .nds file; the app prepares it locally and keeps separate saves. No game data included.",
-      "version": "00.040.006",
+      "version": "00.040.007",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99429",
       "author": "BaZZtian",
-      "checksum": "7c7b0ad716be8a6a7fbef738ce0e82fb79f43d9c8ee5a8a7e5b8cf5b7331d625",
+      "checksum": "a993f2b35ba991aa6e3dfc8a435eae87cfe1df6c631c239ae00bd215d2dca122",
       "source": "https://github.com/BaZZtian/PS5-ApricotGS"
     },
     {
@@ -2188,15 +2188,15 @@
     {
       "name": "FoxHollow",
       "filename": "PPSA99573.zip",
-      "url": "https://github.com/BaZZtian/PS5-FoxHollow/releases/download/v0.1.4/FoxHollow-0.1.4-PPSA99573.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99573/0.1.4/PPSA99573.zip",
+      "url": "https://github.com/BaZZtian/PS5-FoxHollow/releases/download/v00.001.005/FoxHollow-v00.001.005-PPSA99573.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99573/00.001.005/PPSA99573.zip",
       "description": "Native PS5 port of Star Fox Adventures; PAL release for firmware 12.40 with save/load and in-menu language selection. Requires your own disc image; no game data included.",
-      "version": "0.1.4",
+      "version": "00.001.005",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99573",
       "author": "BaZZtian",
-      "checksum": "3b4af2f5d24e8069558e9a3b4f7b47f10002b23965f5a3fdfa09dafed2fafba8",
+      "checksum": "dd5c47cc694e7415eee451c40acd13dfd2a48caa5c930bd44d6c57d162731ce3",
       "source": "https://github.com/BaZZtian/PS5-FoxHollow"
     },
     {
@@ -2524,15 +2524,15 @@
     {
       "name": "PhazonPrime",
       "filename": "PPSA99731.zip",
-      "url": "https://github.com/BaZZtian/PhazonPrime-PS5/releases/download/v00.001.036/PhazonPrime-v00.001.036-PS5.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99731/00.001.036/PPSA99731.zip",
+      "url": "https://github.com/BaZZtian/PhazonPrime-PS5/releases/download/v00.001.040/PhazonPrime-v00.001.040-PS5.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99731/00.001.040/PPSA99731.zip",
       "description": "Native PS5 Metaforce-classic port. Requires your own supported PAL GameCube ISO. Map geometry and door visuals have known issues.",
-      "version": "00.001.036",
+      "version": "00.001.040",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99731",
       "author": "BaZZtian",
-      "checksum": "a984613243e52bb6440b12c90f808c5ddace319d6d1dbb288793e76eeb26325d",
+      "checksum": "c3d080b5a92d40beb91edf0e0449a91b4d0126ca9a46bb58ced414adedcc34a7",
       "source": "https://github.com/BaZZtian/PhazonPrime-PS5"
     },
     {
@@ -2818,15 +2818,15 @@
     {
       "name": "Nuvio Pro",
       "filename": "PPSA99996.zip",
-      "url": "https://github.com/speed-y/nuvio-pro-ps5/releases/download/v0.2.0-alpha.1/PPSA99996.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99996/0.2.0-alpha.1/PPSA99996.zip",
+      "url": "https://github.com/speed-y/nuvio-pro-ps5/releases/download/pr-6-8a62b173aef4/PPSA99996.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99996/pr-6-8a62b173aef4/PPSA99996.zip",
       "description": "Nuvio Pro is a controller-first streaming app for jailbroken PS5s, with EVO Player playback, PS5 keyboard search, profiles and resume support. The console hosts its own UI. Tested on firmware 12.70.",
-      "version": "0.2.0-alpha.1",
+      "version": "pr-6-8a62b173aef4",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99996",
       "author": "Shashank",
-      "checksum": "98aafcebe32db94cca7622b4883eb90d8fec3f99ac5f0eb79ec2f05b2aa48c81",
+      "checksum": "a8fe4cffb1d3d64149c60912fcd09f87112453497ae330fde73887f60c94f639",
       "source": "https://github.com/speed-y/nuvio-pro-ps5"
     },
     {
@@ -2856,6 +2856,20 @@
       "author": "kvaps",
       "checksum": "687652cbc05c01db60410c357bc4322f05170de4829ace174d1d5628ba63b0b0",
       "source": "https://github.com/kvaps/ProsperoWeb"
+    },
+    {
+      "name": "PS Play 3.0",
+      "filename": "PSPL47000.zip",
+      "url": "https://github.com/MounirHero/PS-PLAY-3.0/releases/download/v1.005-beta-build103/PSPL47000.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PSPL47000/1.005-beta-build103/PSPL47000.zip",
+      "description": "All-in-one media, cloud gaming and homebrew hub for the PS5: YouTube, Spotify, Plex, Shop, Android Link, Xbox Cloud and VNC, emulators, file tools and PS Play Social in one app.",
+      "version": "1.005-beta-build103",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PSPL47000",
+      "author": "InsideMatrixDEV",
+      "checksum": "8c53a2d9d341d88c815721c4290bc30f5835dbf3ff50ef6baa46947fe2f18e18",
+      "source": "https://github.com/MounirHero/PS-PLAY-3.0"
     }
   ]
 }

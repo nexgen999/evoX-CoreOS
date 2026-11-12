@@ -326,7 +326,7 @@
       <title>SpeedBreaker (NFS: Most Wanted)</title>
       <link>https://github.com/bystritskiy/speedbreaker-ps5</link>
       <description>Need for Speed: Most Wanted (2005), the Xbox 360 version statically recompiled to run natively on PS5. Bring your own disc.</description>
-      <pubDate>01.000.002</pubDate>
+      <pubDate>01.000.003</pubDate>
     </item>
     <item>
       <title>RecompStore</title>
@@ -428,7 +428,7 @@
       <title>TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.205</pubDate>
+      <pubDate>01.000.206</pubDate>
     </item>
     <item>
       <title>CD Player</title>
@@ -512,7 +512,7 @@
       <title>ProsperoAI</title>
       <link>https://github.com/quatrixone/ProsperoAI</link>
       <description>Local LLM chat app for PS5.</description>
-      <pubDate>01.006.000</pubDate>
+      <pubDate>01.007.000</pubDate>
     </item>
     <item>
       <title>ProsperoEden</title>
@@ -536,7 +536,7 @@
       <title>Media Player Classic PS5</title>
       <link>https://github.com/MisterTemaki/MediaPlayerClassicPS5</link>
       <description>Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.</description>
-      <pubDate>1.6.1</pubDate>
+      <pubDate>1.6.2</pubDate>
     </item>
     <item>
       <title>ProsperoEden (Mirror)</title>
@@ -566,7 +566,7 @@
       <title>reUndr 2 (NFS: Underground 2)</title>
       <link>https://github.com/bystritskiy/reUndr2-ps5</link>
       <description>Need for Speed: Underground 2, the Xbox version recompiled to run natively on PS5, in 4K at up to 60 fps. Bring your own disc.</description>
-      <pubDate>01.000.000</pubDate>
+      <pubDate>01.001.000</pubDate>
     </item>
     <item>
       <title>Forever Launcher</title>
@@ -884,7 +884,7 @@
       <title>ApricotGS</title>
       <link>https://github.com/BaZZtian/PS5-ApricotGS</link>
       <description>Play supported German HeartGold and SoulSilver dumps on PS5. Add your own .nds file; the app prepares it locally and keeps separate saves. No game data included.</description>
-      <pubDate>00.040.006</pubDate>
+      <pubDate>00.040.007</pubDate>
     </item>
     <item>
       <title>Twispero</title>
@@ -944,7 +944,7 @@
       <title>FoxHollow</title>
       <link>https://github.com/BaZZtian/PS5-FoxHollow</link>
       <description>Native PS5 port of Star Fox Adventures; PAL release for firmware 12.40 with save/load and in-menu language selection. Requires your own disc image; no game data included.</description>
-      <pubDate>0.1.4</pubDate>
+      <pubDate>00.001.005</pubDate>
     </item>
     <item>
       <title>PS5LM</title>
@@ -1088,7 +1088,7 @@
       <title>PhazonPrime</title>
       <link>https://github.com/BaZZtian/PhazonPrime-PS5</link>
       <description>Native PS5 Metaforce-classic port. Requires your own supported PAL GameCube ISO. Map geometry and door visuals have known issues.</description>
-      <pubDate>00.001.036</pubDate>
+      <pubDate>00.001.040</pubDate>
     </item>
     <item>
       <title>Porpoise</title>
@@ -1214,7 +1214,7 @@
       <title>Nuvio Pro</title>
       <link>https://github.com/speed-y/nuvio-pro-ps5</link>
       <description>Nuvio Pro is a controller-first streaming app for jailbroken PS5s, with EVO Player playback, PS5 keyboard search, profiles and resume support. The console hosts its own UI. Tested on firmware 12.70.</description>
-      <pubDate>0.2.0-alpha.1</pubDate>
+      <pubDate>pr-6-8a62b173aef4</pubDate>
     </item>
     <item>
       <title>Nuvio PS5</title>
@@ -1227,6 +1227,12 @@
       <link>https://github.com/kvaps/ProsperoWeb</link>
       <description>A WebKit web browser for the PS5, driven by the controller: tabs, bookmarks, video playback, an ad blocker and SponsorBlock.</description>
       <pubDate>0.2.1</pubDate>
+    </item>
+    <item>
+      <title>PS Play 3.0</title>
+      <link>https://github.com/MounirHero/PS-PLAY-3.0</link>
+      <description>All-in-one media, cloud gaming and homebrew hub for the PS5: YouTube, Spotify, Plex, Shop, Android Link, Xbox Cloud and VNC, emulators, file tools and PS Play Social in one app.</description>
+      <pubDate>1.005-beta-build103</pubDate>
     </item>
   </channel>
 </rss>

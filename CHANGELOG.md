@@ -1,5 +1,20 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 12/11/2026 à 07:29
+* **PAYLOADS**
+  * `Ps5-Romm V1.4.3` (v1.4.3) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `SpeedBreaker (NFS: Most Wanted)` (01.000.003) - *Mise à jour (Précédent: 01.000.002)*
+  * `TubeBlock` (01.000.206) - *Mise à jour (Précédent: 01.000.205)*
+  * `ProsperoAI` (01.007.000) - *Mise à jour (Précédent: 01.006.000)*
+  * `Media Player Classic PS5` (1.6.2) - *Mise à jour (Précédent: 1.6.1)*
+  * `reUndr 2 (NFS: Underground 2)` (01.001.000) - *Mise à jour (Précédent: 01.000.000)*
+  * `ApricotGS` (00.040.007) - *Mise à jour (Précédent: 00.040.006)*
+  * `FoxHollow` (00.001.005) - *Mise à jour (Précédent: 0.1.4)*
+  * `PhazonPrime` (00.001.040) - *Mise à jour (Précédent: 00.001.036)*
+  * `Nuvio Pro` (pr-6-8a62b173aef4) - *Mise à jour (Précédent: 0.2.0-alpha.1)*
+  * `PS Play 3.0` (1.005-beta-build103) - *Nouveau*
+
 ## Build du 12/11/2026 à 00:29
 * **PAYLOADS**
   * `Garlic-Worker V1.5.6` (v1.5.6) - *Nouveau*

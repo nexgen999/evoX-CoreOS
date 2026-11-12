@@ -66,7 +66,7 @@
     <outline text="Kstuff-A53 Sonic V1.4" title="Kstuff-A53 Sonic V1.4" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_kstuff/kstuff-a53_SoNic/1.4/kstuff-a53_SoNic_v1.4.elf" description="SoNic variant of kstuff-a53."/>
     <outline text="Snes9Xps5 V2.9" title="Snes9Xps5 V2.9" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Genplusgxps5 V2.2" title="Genplusgxps5 V2.2" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
-    <outline text="Ps5-Romm V1.4.2" title="Ps5-Romm V1.4.2" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.4.2/ps5-romm_v1.4.2.elf" description="ps5-romm for ps5"/>
+    <outline text="Ps5-Romm V1.4.3" title="Ps5-Romm V1.4.3" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.4.3/ps5-romm_v1.4.3.elf" description="ps5-romm for ps5"/>
     <outline text="Fbneo-Ps5 V2.4" title="Fbneo-Ps5 V2.4" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/fbneo-ps5/v2.4/fbneo-ps5_v2.4.elf" description="FBNeo for ps5"/>
     <outline text="Phu-Sandbox.Exit V1.0" title="Phu-Sandbox.Exit V1.0" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/PHU-Sandbox.Exit/Source-Fixe/PHU-Sandbox.Exit_v1.0.elf" description="addon for Markus-PHU Emupack"/>
     <outline text="Chronicloader-Ps5-Payload V0.1" title="Chronicloader-Ps5-Payload V0.1" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_utility/ChronicLoader-PS5-Payload/0.1/ChronicLoader-PS5-Payload_v0.1.elf" description="ChronicLoader utility payload for PS5."/>

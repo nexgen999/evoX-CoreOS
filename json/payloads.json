@@ -674,14 +674,14 @@
       "checksum": "0acf4a5edd0443a1540ee509cb1fb16bd4ba6d7533a53bd0992e6eaa76508494"
     },
     {
-      "name": "Ps5-Romm V1.4.2",
-      "filename": "ps5-romm_v1.4.2.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.4.2/ps5-romm_v1.4.2.elf",
-      "local_path": "payloads/ps5_emulator/ps5-romm/v1.4.2/ps5-romm_v1.4.2.elf",
+      "name": "Ps5-Romm V1.4.3",
+      "filename": "ps5-romm_v1.4.3.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.4.3/ps5-romm_v1.4.3.elf",
+      "local_path": "payloads/ps5_emulator/ps5-romm/v1.4.3/ps5-romm_v1.4.3.elf",
       "description": "ps5-romm for ps5",
-      "version": "v1.4.2",
+      "version": "v1.4.3",
       "category": "PS5 Emulator",
-      "checksum": "6a7c13987c6a5a85431b920b4c47da735b8569055c0ecd98b13f233e3260d831",
+      "checksum": "bb91c4e3944ce71e4d552b7c81477e595a6391a7ff1c3bf4d1117a372e1be4a1",
       "source": "https://github.com/s0liton/ps5-romm/releases"
     },
     {
@@ -868,7 +868,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "38b7eb5d5b1265bac9e989a1012d1fe65e952726cd96a5230c330a403d4d71cb",
+      "checksum": "180a437e1b630dddcdd799bb156b706497fb67cf7b3e0bba0bf1fad3a378b9ae",
       "source": "https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf"
     },
     {

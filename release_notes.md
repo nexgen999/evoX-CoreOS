@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.12-0029)
+### 🚀 Synthèse de la mise à jour (v2026.11.12-0729)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -29,6 +29,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
 - `prosperostore-app_aio_part3_latest.zip`
 - `prosperostore-app_aio_part4_latest.zip`
 - `prosperostore-app_aio_part5_latest.zip`
+- `prosperostore-app_aio_part6_latest.zip`
 - `prosperostore-game_aio_part1_latest.zip`
 - `prosperostore-game_aio_part2_latest.zip`
 - `prosperostore-game_aio_part3_latest.zip`
@@ -106,7 +107,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `kstuff-a53_SoNic_v1.4.elf`
   * `snes9xPS5_v2.9.elf`
   * `genplusgxPS5_v2.2.elf`
-  * `ps5-romm_v1.4.2.elf`
+  * `ps5-romm_v1.4.3.elf`
   * `fbneo-ps5_v2.4.elf`
   * `PHU-Sandbox.Exit_v1.0.elf`
   * `ChronicLoader-PS5-Payload_v0.1.elf`
@@ -461,6 +462,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99996.zip`
   * `PPSA99997.zip`
   * `PRWB00001.zip`
+  * `PSPL47000.zip`
 
 </details>
 

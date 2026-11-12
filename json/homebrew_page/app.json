@@ -410,15 +410,15 @@
     {
       "name": "TubeBlock",
       "filename": "PPSA98260.zip",
-      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.205/SmartTube-PPSA98260.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.205/PPSA98260.zip",
+      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.206/SmartTube-PPSA98260.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.206/PPSA98260.zip",
       "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
-      "version": "01.000.205",
+      "version": "01.000.206",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98260",
       "author": "animatian112",
-      "checksum": "9ca142bbb9bc335f0ceb80295a6c49353c7da5cf7dd3c98d7f86bcc12bc38af8",
+      "checksum": "efb5ed5801e5b1f8a750cc8d198c0ad5da81293d89ecc662d9ca03ea3d7f6013",
       "source": "https://github.com/animatian112/ytps5-sponsorblock"
     },
     {
@@ -536,15 +536,15 @@
     {
       "name": "ProsperoAI",
       "filename": "PPSA99004.zip",
-      "url": "https://github.com/quatrixone/ProsperoAI/releases/download/01.006.000/PPSA99004.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99004/01.006.000/PPSA99004.zip",
+      "url": "https://github.com/quatrixone/ProsperoAI/releases/download/01.007.000/PPSA99004.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99004/01.007.000/PPSA99004.zip",
       "description": "Local LLM chat app for PS5.",
-      "version": "01.006.000",
+      "version": "01.007.000",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99004",
       "author": "BlackBearReloaded",
-      "checksum": "8b2241e003a22bffccee23e9424991533047e633e5ce337af60281b96868439e",
+      "checksum": "68759ee86af6a018c3a1b4203aa97b80ee12fcd9472f673ef177d3fb1dacc7aa",
       "source": "https://github.com/quatrixone/ProsperoAI"
     },
     {
@@ -578,15 +578,15 @@
     {
       "name": "Media Player Classic PS5",
       "filename": "PPSA99015.zip",
-      "url": "https://github.com/MisterTemaki/MediaPlayerClassicPS5/releases/download/v1.6.1/MediaPlayerClassicPS5-v1.6.1-PPSA99015.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99015/1.6.1/PPSA99015.zip",
+      "url": "https://github.com/MisterTemaki/MediaPlayerClassicPS5/releases/download/v1.6.2/MediaPlayerClassicPS5-v1.6.2-PPSA99015.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99015/1.6.2/PPSA99015.zip",
       "description": "Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.",
-      "version": "1.6.1",
+      "version": "1.6.2",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99015",
       "author": "MisterTemaki",
-      "checksum": "e514211773255f4b49fe1cf2ec1386140a60e384e2b1ab00afaf9a5c31bdb0a4",
+      "checksum": "4cec5bb89c91bc3a195ef426368803f298741c9db2c65ce6384d97ddda46c955",
       "source": "https://github.com/MisterTemaki/MediaPlayerClassicPS5"
     },
     {
@@ -1432,15 +1432,15 @@
     {
       "name": "Nuvio Pro",
       "filename": "PPSA99996.zip",
-      "url": "https://github.com/speed-y/nuvio-pro-ps5/releases/download/v0.2.0-alpha.1/PPSA99996.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99996/0.2.0-alpha.1/PPSA99996.zip",
+      "url": "https://github.com/speed-y/nuvio-pro-ps5/releases/download/pr-6-8a62b173aef4/PPSA99996.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99996/pr-6-8a62b173aef4/PPSA99996.zip",
       "description": "Nuvio Pro is a controller-first streaming app for jailbroken PS5s, with EVO Player playback, PS5 keyboard search, profiles and resume support. The console hosts its own UI. Tested on firmware 12.70.",
-      "version": "0.2.0-alpha.1",
+      "version": "pr-6-8a62b173aef4",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99996",
       "author": "Shashank",
-      "checksum": "98aafcebe32db94cca7622b4883eb90d8fec3f99ac5f0eb79ec2f05b2aa48c81",
+      "checksum": "a8fe4cffb1d3d64149c60912fcd09f87112453497ae330fde73887f60c94f639",
       "source": "https://github.com/speed-y/nuvio-pro-ps5"
     },
     {
@@ -1470,6 +1470,20 @@
       "author": "kvaps",
       "checksum": "687652cbc05c01db60410c357bc4322f05170de4829ace174d1d5628ba63b0b0",
       "source": "https://github.com/kvaps/ProsperoWeb"
+    },
+    {
+      "name": "PS Play 3.0",
+      "filename": "PSPL47000.zip",
+      "url": "https://github.com/MounirHero/PS-PLAY-3.0/releases/download/v1.005-beta-build103/PSPL47000.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PSPL47000/1.005-beta-build103/PSPL47000.zip",
+      "description": "All-in-one media, cloud gaming and homebrew hub for the PS5: YouTube, Spotify, Plex, Shop, Android Link, Xbox Cloud and VNC, emulators, file tools and PS Play Social in one app.",
+      "version": "1.005-beta-build103",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PSPL47000",
+      "author": "InsideMatrixDEV",
+      "checksum": "8c53a2d9d341d88c815721c4290bc30f5835dbf3ff50ef6baa46947fe2f18e18",
+      "source": "https://github.com/MounirHero/PS-PLAY-3.0"
     }
   ]
 }

@@ -372,6 +372,7 @@
       <outline text="Nuvio Pro" title="Nuvio Pro" type="rss" xmlUrl="https://github.com/speed-y/nuvio-pro-ps5" description="Nuvio Pro is a controller-first streaming app for jailbroken PS5s, with EVO Player playback, PS5 keyboard search, profiles and resume support. The console hosts its own UI. Tested on firmware 12.70."/>
       <outline text="Nuvio PS5" title="Nuvio PS5" type="rss" xmlUrl="https://github.com/bilawalriaz/nuvio-ps5-homebrew" description="Nuvio TV for a jailbroken PS5, with EVO native playback and the interface served by the console itself."/>
       <outline text="ProsperoWeb" title="ProsperoWeb" type="rss" xmlUrl="https://github.com/kvaps/ProsperoWeb" description="A WebKit web browser for the PS5, driven by the controller: tabs, bookmarks, video playback, an ad blocker and SponsorBlock."/>
+      <outline text="PS Play 3.0" title="PS Play 3.0" type="rss" xmlUrl="https://github.com/MounirHero/PS-PLAY-3.0" description="All-in-one media, cloud gaming and homebrew hub for the PS5: YouTube, Spotify, Plex, Shop, Android Link, Xbox Cloud and VNC, emulators, file tools and PS Play Social in one app."/>
     </outline>
   </body>
 </opml>

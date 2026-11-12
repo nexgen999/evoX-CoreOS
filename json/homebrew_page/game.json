@@ -410,15 +410,15 @@
     {
       "name": "SpeedBreaker (NFS: Most Wanted)",
       "filename": "PPSA90505.zip",
-      "url": "https://github.com/bystritskiy/speedbreaker-ps5/releases/download/01.000.002/PPSA90505.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA90505/01.000.002/PPSA90505.zip",
+      "url": "https://github.com/bystritskiy/speedbreaker-ps5/releases/download/01.000.003/PPSA90505.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA90505/01.000.003/PPSA90505.zip",
       "description": "Need for Speed: Most Wanted (2005), the Xbox 360 version statically recompiled to run natively on PS5. Bring your own disc.",
-      "version": "01.000.002",
+      "version": "01.000.003",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA90505",
       "author": "bystritskiy",
-      "checksum": "96f50f7322fe747293de3d5d09e408c2a322fdc6c7ed99c9ad58036e4b2da4dc",
+      "checksum": "291a6cb479ddd502e2224a03aa7a33aee6ab4edd0410ce84646a2f3c8612738a",
       "source": "https://github.com/bystritskiy/speedbreaker-ps5"
     },
     {
@@ -662,15 +662,15 @@
     {
       "name": "reUndr 2 (NFS: Underground 2)",
       "filename": "PPSA99027.zip",
-      "url": "https://github.com/bystritskiy/reUndr2-ps5/releases/download/01.000.000/PPSA99027-01.000.000.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99027/01.000.000/PPSA99027.zip",
+      "url": "https://github.com/bystritskiy/reUndr2-ps5/releases/download/01.001.000/PPSA99027-01.001.000.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99027/01.001.000/PPSA99027.zip",
       "description": "Need for Speed: Underground 2, the Xbox version recompiled to run natively on PS5, in 4K at up to 60 fps. Bring your own disc.",
-      "version": "01.000.000",
+      "version": "01.001.000",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99027",
       "author": "bystritskiy",
-      "checksum": "072e5020a19e3533332efcde70d2980f4ba837af035d6caa35a3e26f1231154b",
+      "checksum": "6223d3d95f45d9d8710c3a17d788d2f8de47286800f810624417e6c0dc8c3120",
       "source": "https://github.com/bystritskiy/reUndr2-ps5"
     },
     {
@@ -956,15 +956,15 @@
     {
       "name": "ApricotGS",
       "filename": "PPSA99429.zip",
-      "url": "https://github.com/BaZZtian/PS5-ApricotGS/releases/download/v00.040.006/ApricotGS-v00.040.006-PS5.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99429/00.040.006/PPSA99429.zip",
+      "url": "https://github.com/BaZZtian/PS5-ApricotGS/releases/download/v00.040.007/ApricotGS-v00.040.007-PS5.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99429/00.040.007/PPSA99429.zip",
       "description": "Play supported German HeartGold and SoulSilver dumps on PS5. Add your own .nds file; the app prepares it locally and keeps separate saves. No game data included.",
-      "version": "00.040.006",
+      "version": "00.040.007",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99429",
       "author": "BaZZtian",
-      "checksum": "7c7b0ad716be8a6a7fbef738ce0e82fb79f43d9c8ee5a8a7e5b8cf5b7331d625",
+      "checksum": "a993f2b35ba991aa6e3dfc8a435eae87cfe1df6c631c239ae00bd215d2dca122",
       "source": "https://github.com/BaZZtian/PS5-ApricotGS"
     },
     {
@@ -998,15 +998,15 @@
     {
       "name": "FoxHollow",
       "filename": "PPSA99573.zip",
-      "url": "https://github.com/BaZZtian/PS5-FoxHollow/releases/download/v0.1.4/FoxHollow-0.1.4-PPSA99573.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99573/0.1.4/PPSA99573.zip",
+      "url": "https://github.com/BaZZtian/PS5-FoxHollow/releases/download/v00.001.005/FoxHollow-v00.001.005-PPSA99573.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99573/00.001.005/PPSA99573.zip",
       "description": "Native PS5 port of Star Fox Adventures; PAL release for firmware 12.40 with save/load and in-menu language selection. Requires your own disc image; no game data included.",
-      "version": "0.1.4",
+      "version": "00.001.005",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99573",
       "author": "BaZZtian",
-      "checksum": "3b4af2f5d24e8069558e9a3b4f7b47f10002b23965f5a3fdfa09dafed2fafba8",
+      "checksum": "dd5c47cc694e7415eee451c40acd13dfd2a48caa5c930bd44d6c57d162731ce3",
       "source": "https://github.com/BaZZtian/PS5-FoxHollow"
     },
     {
@@ -1222,15 +1222,15 @@
     {
       "name": "PhazonPrime",
       "filename": "PPSA99731.zip",
-      "url": "https://github.com/BaZZtian/PhazonPrime-PS5/releases/download/v00.001.036/PhazonPrime-v00.001.036-PS5.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99731/00.001.036/PPSA99731.zip",
+      "url": "https://github.com/BaZZtian/PhazonPrime-PS5/releases/download/v00.001.040/PhazonPrime-v00.001.040-PS5.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99731/00.001.040/PPSA99731.zip",
       "description": "Native PS5 Metaforce-classic port. Requires your own supported PAL GameCube ISO. Map geometry and door visuals have known issues.",
-      "version": "00.001.036",
+      "version": "00.001.040",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99731",
       "author": "BaZZtian",
-      "checksum": "a984613243e52bb6440b12c90f808c5ddace319d6d1dbb288793e76eeb26325d",
+      "checksum": "c3d080b5a92d40beb91edf0e0449a91b4d0126ca9a46bb58ced414adedcc34a7",
       "source": "https://github.com/BaZZtian/PhazonPrime-PS5"
     },
     {
