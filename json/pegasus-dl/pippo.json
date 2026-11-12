@@ -3,6 +3,190 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA33829",
+      "title": "Lost Ember Rekindled Edition",
+      "createdAt": "2026-11-12T13:21:58.063Z",
+      "version": "v01.100.011",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/7f64fb115b4d99df0037f3ae8363f19b5c24d8eff04493da546755c94c511848",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/150e0fb6bac12dde5433b30967a087a12c1b372f6b6882bbf39e7648f8a006e8",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA33829, v01.100.011, EUR, DLCs Merged, 4.xx BackPort + 5.xx BackPort\nSize: 17GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPorts Folder included. About FPKG: 5.xx BackPort already included on Base, 4.xx BackPort Only &amp; Original Files PKG included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/b00r0ow8z9cu/PPSA33829.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/8d5axw99fgx1/PPSA33829.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/0JgG7aoQZ3oY/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/cupjJKcJgB"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/0PdzyM1l0zeA/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/8BgmuepbLi"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/p1gju7z04s91/PPSA33829-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/q6kkgc9dm9q5/PPSA33829-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 18253611008
+    },
+    {
+      "titleId": "PPSA31665",
+      "title": "Neon Inferno",
+      "createdAt": "2026-11-12T13:21:58.063Z",
+      "version": "v01.000.003",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/63eefc43576a04f46349c34147391472d6ebd159e5f44898218928d430cd8c7e",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/0f029780f3e0408a85202f857a4041211b9cd517f619b0b7e42179aa465a0ae6",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA31665, v01.000.003, USA, 4.xx BackPort\nSize: 3GB\nCredits: Files: Biogames; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/iicnqguevsjk/PPSA31665.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/e24f3sfijtjb/PPSA31665.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/LJlGnZwkbG15/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/adzyQuNqwM"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/5pVzNo15VG7w/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/YXCK4HFDIr"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/ehtnfkm6b0sq/PPSA31665-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/iaip43pbf05w/PPSA31665-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 3221225472
+    },
+    {
+      "titleId": "PPSA29934",
+      "title": "Planet Zoo 2 Deluxe Edition",
+      "createdAt": "2026-11-12T13:21:58.063Z",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e79771471ac5f0b0af9204fbf26f4daf8bae932b18fc1196edc50187641fcbb0",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/14726af49a2379ac9a034ec427798b7d7a1852ed89e571bea79f29f3f84f41e6",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA29934, v01.000, EUR, DLCs Merged, 4.xx BackPort\nSize: 49GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/iz0moz1km3ms/PPSA29934.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/oq4m9xohdiba/PPSA29934.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/ex5z2XPQymKq/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/BEfP2qkoON"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/jJD3Ve657ma5/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/jY582ny9hX"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/wkm84coepdmq/PPSA29934-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/0zixjp5xfs91/PPSA29934-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 52613349376
+    },
+    {
+      "titleId": "PPSA26145",
+      "title": "EVERYBODYS GOLF Hot Shots",
+      "createdAt": "2026-11-12T13:21:58.063Z",
+      "version": "v01.0017",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/a337c8fe2a8b4e3775b4d5535b82876396f0bfc164f9242780b1e8f26e99752f",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/a337c8fe2a8b4e3775b4d5535b82876396f0bfc164f9242780b1e8f26e99752f",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA26145, v01.0017, EUR, 4.xx BackPort\nSize: 45GB\nCredits: Files: Xan; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/0az9jqa4w2hd/PPSA26145.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/lit2nemers3q/PPSA26145.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/gXeGOeY5j3Aa/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/JiYtvGtrfH"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/qLQ36XeQlG19/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/EzDTTP4eVo"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/ppqp1wowfplv/PPSA26145-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/pshimo0twfvm/PPSA26145-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 48318382080
+    },
+    {
       "titleId": "PPSA35023",
       "title": "YinYang Street",
       "createdAt": "2026-11-11T10:51:35.430Z",

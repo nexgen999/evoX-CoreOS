@@ -3,6 +3,92 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA34015",
+      "title": "FC 27",
+      "createdAt": "2026-11-12T14:22:24.114Z",
+      "version": "1.000.004",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/dea1880482efc7c482e8467512e0761323c793801af2e0eaeb6abfa9fb7dc440",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/a1796da317c18e2b355e38016f5ac877246f9085152285be2ff88f5c9fedf193",
+      "description": "Format: zstd\nEA SPORTS FC™ 27 includes PS4 &amp; PS5 versions. Welcome to The World’s Game in EA SPORTS FC™ 27. Step into The Grounds‡‡, a social football playground where the streets meet the stadium. From Kickabouts and 1v1s to teaming up with friends in Clubs, connect with renowned football mentors, improve your abilities, and express yourself on and off the pitch. Feel greater control in every game mode with more fluid, true-to-life gameplay, featuring dynamic corners, enhanced attacking awareness, player-focused defending tailored for competitive play, and more community-driven innovations. Sign your next star in Manager Career through a rebuilt Transfer Market with realistic player values and active club bidding. Master new negotiation tactics, including performance and buy-back clauses, as Dynamic OVRs reflect player form, morale, and fitness across every club. Immortalise your dream club in Football Ultimate Team™ with the brand-new FUT Gallery. Curate your favourite Player Items to grow your Gallery Level, earn rewards, and build your Club’s identity throughout the new football season. Experience unrivalled authenticity in EA SPORTS FC™ 27, with match data from the world’s top leagues powering 21,000+ licensed players. ‡‡The Grounds mode, including Clubs, only available on PlayStation 5 version.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: Install the unlocker before launching the game. It installs like any other pkg. Technically, squad updates can also be installed, although I haven't tested it.\nCredits: This is the unlocker; Thank you, @RafaelJFonseca!\nUpdated: 2026-11-12T14:19:01.835Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data - pt.1",
+          "url": "https://datanodes.to/rgmba81fofww"
+        },
+        {
+          "name": "zstd · Data - pt.2",
+          "url": "https://datanodes.to/2oyrhglzxbnh"
+        },
+        {
+          "name": "zstd · Data - pt.3",
+          "url": "https://datanodes.to/z5ryav7en1cl"
+        },
+        {
+          "name": "zstd · Data - pt.4",
+          "url": "https://datanodes.to/ebl06zv4jdob"
+        },
+        {
+          "name": "zstd · Data - pt.5",
+          "url": "https://datanodes.to/aa2ejamnorxk"
+        },
+        {
+          "name": "zstd · Data - pt.6",
+          "url": "https://datanodes.to/p3sp8oybt1de"
+        },
+        {
+          "name": "zstd · Data - pt.7",
+          "url": "https://datanodes.to/36uxnxazcv9x"
+        },
+        {
+          "name": "zstd · Data - pt.8",
+          "url": "https://datanodes.to/7vgxlj3j7prw"
+        },
+        {
+          "name": "zstd · Data - DLC",
+          "url": "https://datanodes.to/ka0g7rups4vx"
+        },
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/QAZASyo3ir"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/r1MTM2bLhN"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/wBFOTi725I"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/6KnJxJS3G7"
+        },
+        {
+          "name": "zstd · Viki - pt.5",
+          "url": "https://vikingfile.com/f/UYeU0awT4U"
+        },
+        {
+          "name": "zstd · Viki - pt.6",
+          "url": "https://vikingfile.com/f/OyXyPAvtks"
+        },
+        {
+          "name": "zstd · Viki - pt.7",
+          "url": "https://vikingfile.com/f/ufV7VFXc3w"
+        },
+        {
+          "name": "zstd · Viki - pt.8",
+          "url": "https://vikingfile.com/f/fpa0QZl7D1"
+        },
+        {
+          "name": "zstd · Viki - DLC",
+          "url": "https://vikingfile.com/f/ZAUbdaL7sJ"
+        }
+      ],
+      "sizeBytes": 74839805133
+    },
+    {
       "titleId": "PPSA19534",
       "title": "Battlefield 6",
       "createdAt": "2026-10-16T21:48:35.923Z",

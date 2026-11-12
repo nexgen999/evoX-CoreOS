@@ -515,18 +515,6 @@
       <pubDate>01.007.000</pubDate>
     </item>
     <item>
-      <title>ProsperoEden</title>
-      <link>https://github.com/Swordpdf/ProsperoEden</link>
-      <description>Unofficial Eden emulator port for PS5.</description>
-      <pubDate>1.005.000</pubDate>
-    </item>
-    <item>
-      <title>PS5_Lichii</title>
-      <link>https://github.com/mihawk-99/PS5_Lichii</link>
-      <description>Experimental NS2 Emulator for the PS5</description>
-      <pubDate>1.20.00</pubDate>
-    </item>
-    <item>
       <title>vkQuake</title>
       <link>https://github.com/mihawk-99/PS5_vkQuake</link>
       <description>Native PS5 port of vkQuake, the Vulkan Quake engine, at up to 120 FPS and 4K with DualSense input. Needs your own Quake game data.</description>
@@ -1214,7 +1202,7 @@
       <title>Nuvio Pro</title>
       <link>https://github.com/speed-y/nuvio-pro-ps5</link>
       <description>Nuvio Pro is a controller-first streaming app for jailbroken PS5s, with EVO Player playback, PS5 keyboard search, profiles and resume support. The console hosts its own UI. Tested on firmware 12.70.</description>
-      <pubDate>pr-6-8a62b173aef4</pubDate>
+      <pubDate>0.2.0-alpha.3</pubDate>
     </item>
     <item>
       <title>Nuvio PS5</title>
@@ -1232,7 +1220,7 @@
       <title>PS Play 3.0</title>
       <link>https://github.com/MounirHero/PS-PLAY-3.0</link>
       <description>All-in-one media, cloud gaming and homebrew hub for the PS5: YouTube, Spotify, Plex, Shop, Android Link, Xbox Cloud and VNC, emulators, file tools and PS Play Social in one app.</description>
-      <pubDate>1.005-beta-build103</pubDate>
+      <pubDate>1.005-beta-build106</pubDate>
     </item>
   </channel>
 </rss>

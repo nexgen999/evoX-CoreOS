@@ -253,8 +253,6 @@
       <outline text="ProsperoLight" title="ProsperoLight" type="rss" xmlUrl="https://github.com/LedyBacer/ProsperoLight" description="Unofficial Moonlight game streaming port for PS5."/>
       <outline text="ProsperoTV" title="ProsperoTV" type="rss" xmlUrl="https://github.com/ThatGuyKalvin/ProsperoTV" description="Native IPTV client for PS5."/>
       <outline text="ProsperoAI" title="ProsperoAI" type="rss" xmlUrl="https://github.com/quatrixone/ProsperoAI" description="Local LLM chat app for PS5."/>
-      <outline text="ProsperoEden" title="ProsperoEden" type="rss" xmlUrl="https://github.com/Swordpdf/ProsperoEden" description="Unofficial Eden emulator port for PS5."/>
-      <outline text="PS5_Lichii" title="PS5_Lichii" type="rss" xmlUrl="https://github.com/mihawk-99/PS5_Lichii" description="Experimental NS2 Emulator for the PS5"/>
       <outline text="vkQuake" title="vkQuake" type="rss" xmlUrl="https://github.com/mihawk-99/PS5_vkQuake" description="Native PS5 port of vkQuake, the Vulkan Quake engine, at up to 120 FPS and 4K with DualSense input. Needs your own Quake game data."/>
       <outline text="Media Player Classic PS5" title="Media Player Classic PS5" type="rss" xmlUrl="https://github.com/MisterTemaki/MediaPlayerClassicPS5" description="Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg."/>
       <outline text="ProsperoEden (Mirror)" title="ProsperoEden (Mirror)" type="rss" xmlUrl="https://github.com/heydemoura/ProsperoEden" description="Unofficial Eden emulator port for PS5."/>

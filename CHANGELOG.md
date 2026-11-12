@@ -1,5 +1,13 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 12/11/2026 à 19:57
+* **FFPFSC**
+  * `Evoplayer-V0.13.7-Ppsa99039-Pro` (v0.13.7) - *Nouveau*
+  * `Evoplayer-V0.13.7-Ppsa99039` (v0.13.7) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `Nuvio Pro` (0.2.0-alpha.3) - *Mise à jour (Précédent: pr-6-8a62b173aef4)*
+  * `PS Play 3.0` (1.005-beta-build106) - *Mise à jour (Précédent: 1.005-beta-build103)*
+
 ## Build du 12/11/2026 à 07:29
 * **PAYLOADS**
   * `Ps5-Romm V1.4.3` (v1.4.3) - *Nouveau*

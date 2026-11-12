@@ -2,23 +2,23 @@
   "name": "AIO Store FFPFSC",
   "files": [
     {
-      "name": "Evoplayer-V0.13.5-Ppsa99039-Pro",
-      "filename": "EVOPlayer-v0.13.5-PPSA99039-pro.ffpfsc",
-      "url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.13.5/EVOPlayer-v0.13.5-PPSA99039-pro.ffpfsc",
-      "local_path": "ffpfsc/EVO-PLAYER-PS5/v0.13.5/EVOPlayer-v0.13.5-PPSA99039-pro.ffpfsc",
+      "name": "Evoplayer-V0.13.7-Ppsa99039-Pro",
+      "filename": "EVOPlayer-v0.13.7-PPSA99039-pro.ffpfsc",
+      "url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.13.7/EVOPlayer-v0.13.7-PPSA99039-pro.ffpfsc",
+      "local_path": "ffpfsc/EVO-PLAYER-PS5/v0.13.7/EVOPlayer-v0.13.7-PPSA99039-pro.ffpfsc",
       "description": "A media player for jailbroken PS5",
-      "version": "v0.13.5",
-      "checksum": "4b199abe0a9addaa9f64f259b5cc91fb455ed7283894fe910b8ef7aecc1d8b3a",
+      "version": "v0.13.7",
+      "checksum": "7ab31616d1fdd9a5e030a03c379159e28d5d3c4e236e8e3f3dcdee425caa2076",
       "category": "FFPFSC"
     },
     {
-      "name": "Evoplayer-V0.13.5-Ppsa99039",
-      "filename": "EVOPlayer-v0.13.5-PPSA99039.ffpfsc",
-      "url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.13.5/EVOPlayer-v0.13.5-PPSA99039.ffpfsc",
-      "local_path": "ffpfsc/EVO-PLAYER-PS5/v0.13.5/EVOPlayer-v0.13.5-PPSA99039.ffpfsc",
+      "name": "Evoplayer-V0.13.7-Ppsa99039",
+      "filename": "EVOPlayer-v0.13.7-PPSA99039.ffpfsc",
+      "url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.13.7/EVOPlayer-v0.13.7-PPSA99039.ffpfsc",
+      "local_path": "ffpfsc/EVO-PLAYER-PS5/v0.13.7/EVOPlayer-v0.13.7-PPSA99039.ffpfsc",
       "description": "A media player for jailbroken PS5",
-      "version": "v0.13.5",
-      "checksum": "0e1412682b8883065b0a43f62e475d48b4342a4a71a8c83cb97b4d2ed54ea72c",
+      "version": "v0.13.7",
+      "checksum": "0fdc403228da38a6edda6840f5f5609741a13fb7401ef2fee484a1769b51c984",
       "category": "FFPFSC"
     },
     {

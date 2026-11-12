@@ -1192,34 +1192,6 @@
             "source": "https://github.com/quatrixone/ProsperoAI"
         },
         {
-            "name": "ProsperoEden",
-            "filename": "PPSA99008.zip",
-            "url": "https://github.com/Swordpdf/ProsperoEden/releases/download/v1.005.000/ProsperoEden-v1.005.000.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99008/1.005.000/PPSA99008.zip",
-            "description": "Unofficial Eden emulator port for PS5.",
-            "version": "1.005.000",
-            "category": "Apps",
-            "kind": "app",
-            "titleid": "PPSA99008",
-            "author": "BlackBearReloaded",
-            "checksum": "9a726c3a4238bfc9651a8c2bd3952cf07972495a3f930cc6d0a5b487140a5991",
-            "source": "https://github.com/Swordpdf/ProsperoEden"
-        },
-        {
-            "name": "PS5_Lichii",
-            "filename": "PPSA99008.zip",
-            "url": "https://github.com/mihawk-99/PS5_Lichii/releases/download/v1.20.00/PS5_Lichii-v1.20.00.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99008/1.20.00/PPSA99008.zip",
-            "description": "Experimental NS2 Emulator for the PS5",
-            "version": "1.20.00",
-            "category": "Apps",
-            "kind": "app",
-            "titleid": "PPSA99008",
-            "author": "Mihawk",
-            "checksum": "f2377248477cd8c09af76c59ed687a9ff0f553a8266d53e6c3ebba87f8778938",
-            "source": "https://github.com/mihawk-99/PS5_Lichii"
-        },
-        {
             "name": "vkQuake",
             "filename": "PPSA99010.zip",
             "url": "https://github.com/mihawk-99/PS5_vkQuake/releases/download/1.0/PPSA99010.zip",
@@ -2818,15 +2790,15 @@
         {
             "name": "Nuvio Pro",
             "filename": "PPSA99996.zip",
-            "url": "https://github.com/speed-y/nuvio-pro-ps5/releases/download/pr-6-8a62b173aef4/PPSA99996.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99996/pr-6-8a62b173aef4/PPSA99996.zip",
+            "url": "https://github.com/speed-y/nuvio-pro-ps5/releases/download/v0.2.0-alpha.3/PPSA99996.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99996/0.2.0-alpha.3/PPSA99996.zip",
             "description": "Nuvio Pro is a controller-first streaming app for jailbroken PS5s, with EVO Player playback, PS5 keyboard search, profiles and resume support. The console hosts its own UI. Tested on firmware 12.70.",
-            "version": "pr-6-8a62b173aef4",
+            "version": "0.2.0-alpha.3",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99996",
             "author": "Shashank",
-            "checksum": "a8fe4cffb1d3d64149c60912fcd09f87112453497ae330fde73887f60c94f639",
+            "checksum": "7d61544c102922e71b319e5ad981b995021d999f53ac7329bf53dca9c9770084",
             "source": "https://github.com/speed-y/nuvio-pro-ps5"
         },
         {
@@ -2860,15 +2832,15 @@
         {
             "name": "PS Play 3.0",
             "filename": "PSPL47000.zip",
-            "url": "https://github.com/MounirHero/PS-PLAY-3.0/releases/download/v1.005-beta-build103/PSPL47000.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PSPL47000/1.005-beta-build103/PSPL47000.zip",
+            "url": "https://github.com/MounirHero/PS-PLAY-3.0/releases/download/v1.005-beta-build106/PSPL47000.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PSPL47000/1.005-beta-build106/PSPL47000.zip",
             "description": "All-in-one media, cloud gaming and homebrew hub for the PS5: YouTube, Spotify, Plex, Shop, Android Link, Xbox Cloud and VNC, emulators, file tools and PS Play Social in one app.",
-            "version": "1.005-beta-build103",
+            "version": "1.005-beta-build106",
             "category": "Apps",
             "kind": "app",
             "titleid": "PSPL47000",
             "author": "InsideMatrixDEV",
-            "checksum": "8c53a2d9d341d88c815721c4290bc30f5835dbf3ff50ef6baa46947fe2f18e18",
+            "checksum": "c84244204ff98eada063148d3cfa160bfee15a0cf495fafcfe24638eb7672a49",
             "source": "https://github.com/MounirHero/PS-PLAY-3.0"
         }
     ]
