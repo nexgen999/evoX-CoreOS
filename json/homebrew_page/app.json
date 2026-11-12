@@ -144,15 +144,15 @@
     {
       "name": "ProsperoSunshine",
       "filename": "PPSA47989.zip",
-      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.6.0/PPSA47989.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.6.0/PPSA47989.zip",
+      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.6.5/PPSA47989.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.6.5/PPSA47989.zip",
       "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.",
-      "version": "0.6.0",
+      "version": "0.6.5",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA47989",
       "author": "Darkatek7",
-      "checksum": "31d777d95429284585ccdac8fcd4bf651260f24640f6dd4cf84fc2062e00967c",
+      "checksum": "66788e0ac1be7c614a990682820af927351650ebbb6b65b31a38ad7199a6ba3b",
       "source": "https://github.com/Darkatek7/ProsperoSunshine"
     },
     {
@@ -368,15 +368,15 @@
     {
       "name": "XPSemu",
       "filename": "PPSA97358.zip",
-      "url": "https://github.com/ZiZc3/XPSemu/releases/download/v3.4/PPSA97358.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA97358/v3.4/PPSA97358.zip",
+      "url": "https://github.com/ZiZc3/XPSemu/releases/download/v3.5/PPSA97358.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA97358/v3.5/PPSA97358.zip",
       "description": "Original Xbox emulator for PS5, based on xemu.",
-      "version": "v3.4",
+      "version": "v3.5",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA97358",
       "author": "AZiZ",
-      "checksum": "ddcc21d4d12270e4d122278719d816529671aa3781cb74c04b6e1ce969779249",
+      "checksum": "3d762870f8c7b517f4fc2cee2513714787f698748bdc605f7163933724275183",
       "source": "https://github.com/ZiZc3/XPSemu"
     },
     {
@@ -410,15 +410,15 @@
     {
       "name": "TubeBlock",
       "filename": "PPSA98260.zip",
-      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.204/SmartTube-PPSA98260.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.204/PPSA98260.zip",
+      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.205/SmartTube-PPSA98260.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.205/PPSA98260.zip",
       "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
-      "version": "01.000.204",
+      "version": "01.000.205",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98260",
       "author": "animatian112",
-      "checksum": "9fc9a05d1749655e05e0237aadc3cbb595e096f5c543cf5ed4290f6d236cd6d4",
+      "checksum": "9ca142bbb9bc335f0ceb80295a6c49353c7da5cf7dd3c98d7f86bcc12bc38af8",
       "source": "https://github.com/animatian112/ytps5-sponsorblock"
     },
     {
@@ -448,6 +448,20 @@
       "author": "AngelXex",
       "checksum": "b80cb91527afaff31e5af39ca1df444c7313200735849db84a503c1c7845e510",
       "source": "https://github.com/darkxex/SwanStationPS5"
+    },
+    {
+      "name": "EglantinePS5",
+      "filename": "PPSA98515.zip",
+      "url": "https://github.com/heydemoura/EglantinePS5/releases/download/v1.000.001/EglantinePS5-v1.000.001.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98515/1.000.001/PPSA98515.zip",
+      "description": "VERY experimental Nintendo Switch 2 emulator port for PS5",
+      "version": "1.000.001",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA98515",
+      "author": "Heyde Moura",
+      "checksum": "02209c322ade58151e958932489ff163b90624436b77d390652a9bb61403d604",
+      "source": "https://github.com/heydemoura/EglantinePS5"
     },
     {
       "name": "Breath of the Wild VR",
@@ -942,15 +956,15 @@
     {
       "name": "Nuvio Max'd",
       "filename": "PPSA99288.zip",
-      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.17-native/PPSA99288.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.17-native/PPSA99288.zip",
+      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.18-native/PPSA99288.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.18-native/PPSA99288.zip",
       "description": "Experimental Nuvio Max'd for PS5 with an optional privileged USB playlist reader for sandbox access failures (unconfirmed fix), private mount diagnostics, profiles, IPTV and media servers.",
-      "version": "1.0.0.17-native",
+      "version": "1.0.0.18-native",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99288",
       "author": "HandshakeHackin",
-      "checksum": "d9e30887bda7888f497dde50762c6bef633e5f5402950f6c87bf391d8759d7d0",
+      "checksum": "02dca19b5ecb52c051af179c5d04d0e015b838b2b1f92d5249cee3624d755243",
       "source": "https://github.com/HandshakeHackin/Nuvio-maxd-releases"
     },
     {
@@ -1152,15 +1166,15 @@
     {
       "name": "Alembic",
       "filename": "PPSA99594.zip",
-      "url": "https://github.com/fthdgn-gh/Alembic/releases/download/v0.6.3/alembic-app-v0.6.3.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99594/0.6.3/PPSA99594.zip",
+      "url": "https://github.com/fthdgn-gh/Alembic/releases/download/v0.6.4/alembic-app-v0.6.4.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99594/0.6.4/PPSA99594.zip",
       "description": "Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC, also on SMB, NFS, WebDAV and FTP servers.",
-      "version": "0.6.3",
+      "version": "0.6.4",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99594",
       "author": "Fatih Doğan",
-      "checksum": "42f6f87e0c6ecc35633fa06119bdadf0cf1d66da44b3e79d348c8cf6e172e65e",
+      "checksum": "41423b7e825b46a9e21e4d5aa2a0ebe41326e7ab6645b8a7e330e10ae5e83e1c",
       "source": "https://github.com/fthdgn-gh/Alembic"
     },
     {

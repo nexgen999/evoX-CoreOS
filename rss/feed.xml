@@ -677,10 +677,10 @@
       <pubDate>garlic-savemgr</pubDate>
     </item>
     <item>
-      <title>[Payloads] Garlic-Worker V1.5.5</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.5.5/garlic-worker_v1.5.5.elf</link>
+      <title>[Payloads] Garlic-Worker V1.5.6</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.5.6/garlic-worker_v1.5.6.elf</link>
       <description>Garlic worker payload component.</description>
-      <pubDate>v1.5.5</pubDate>
+      <pubDate>v1.5.6</pubDate>
     </item>
     <item>
       <title>[Payloads] Savemnt-Offset-Dumper V1.0.0</title>
@@ -954,9 +954,9 @@
     </item>
     <item>
       <title>[Applications] Ppsa97358</title>
-      <link>https://github.com/ZiZc3/XPSemu/releases/download/v3.4/PPSA97358.zip</link>
+      <link>https://github.com/ZiZc3/XPSemu/releases/download/v3.5/PPSA97358.zip</link>
       <description>Xbox emulator (Xemu) port for the PS5</description>
-      <pubDate>v3.4</pubDate>
+      <pubDate>v3.5</pubDate>
     </item>
     <item>
       <title>[Applications] Castation-0.4.0</title>
@@ -1280,7 +1280,7 @@
       <title>[ProsperoStore] ProsperoSunshine</title>
       <link>https://github.com/Darkatek7/ProsperoSunshine</link>
       <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.</description>
-      <pubDate>0.6.0</pubDate>
+      <pubDate>0.6.5</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] SudokuZen</title>
@@ -1475,6 +1475,18 @@
       <pubDate>01.001.000</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] Brogue CE</title>
+      <link>https://github.com/plutobox/ps5-BrogueCE</link>
+      <description>Brogue is a single-player strategy game set in the halls of a mysterious and randomly-generated dungeon.</description>
+      <pubDate>01.000.000</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] Towelket</title>
+      <link>https://github.com/plutobox/ps5-Towelket</link>
+      <description>A collection of surreal RPGs made by Kanao runnning on a native port of EasyRPG.</description>
+      <pubDate>01.000.003</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] Capy Mobile</title>
       <link>https://github.com/khalifa007/CapyMobile</link>
       <description>Java phone games (J2ME) on the PS5: a native homebrew emulator app</description>
@@ -1514,7 +1526,7 @@
       <title>[ProsperoStore] XPSemu</title>
       <link>https://github.com/ZiZc3/XPSemu</link>
       <description>Original Xbox emulator for PS5, based on xemu.</description>
-      <pubDate>v3.4</pubDate>
+      <pubDate>v3.5</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PSXS5</title>
@@ -1538,7 +1550,7 @@
       <title>[ProsperoStore] TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.204</pubDate>
+      <pubDate>01.000.205</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] CD Player</title>
@@ -1575,6 +1587,12 @@
       <link>https://github.com/darkxex/DevilutionXPS5</link>
       <description>native PS5 build of DevilutionX, as an installed title (PPSA98514). It is a separate port from the payload one in Packaging/ps5 and does not replace it.</description>
       <pubDate>ps5-v1.0.0</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] EglantinePS5</title>
+      <link>https://github.com/heydemoura/EglantinePS5</link>
+      <description>VERY experimental Nintendo Switch 2 emulator port for PS5</description>
+      <pubDate>1.000.001</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Breath of the Wild VR</title>
@@ -1856,7 +1874,7 @@
       <title>[ProsperoStore] Nuvio Max'd</title>
       <link>https://github.com/HandshakeHackin/Nuvio-maxd-releases</link>
       <description>Experimental Nuvio Max'd for PS5 with an optional privileged USB playlist reader for sandbox access failures (unconfirmed fix), private mount diagnostics, profiles, IPTV and media servers.</description>
-      <pubDate>1.0.0.17-native</pubDate>
+      <pubDate>1.0.0.18-native</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Spider-Man: Edge of Time</title>
@@ -2078,7 +2096,7 @@
       <title>[ProsperoStore] Alembic</title>
       <link>https://github.com/fthdgn-gh/Alembic</link>
       <description>Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC, also on SMB, NFS, WebDAV and FTP servers.</description>
-      <pubDate>0.6.3</pubDate>
+      <pubDate>0.6.4</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Cloud Play</title>

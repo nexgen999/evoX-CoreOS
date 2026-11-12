@@ -1,5 +1,20 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 12/11/2026 à 00:29
+* **PAYLOADS**
+  * `Garlic-Worker V1.5.6` (v1.5.6) - *Nouveau*
+* **APPS**
+  * `Ppsa97358` (v3.5) - *Mise à jour (Précédent: v3.4)*
+* **HOMEBREW_PAGE**
+  * `ProsperoSunshine` (0.6.5) - *Mise à jour (Précédent: 0.6.0)*
+  * `Brogue CE` (01.000.000) - *Nouveau*
+  * `Towelket` (01.000.003) - *Nouveau*
+  * `XPSemu` (v3.5) - *Mise à jour (Précédent: v3.4)*
+  * `TubeBlock` (01.000.205) - *Mise à jour (Précédent: 01.000.204)*
+  * `EglantinePS5` (1.000.001) - *Nouveau*
+  * `Nuvio Max'd` (1.0.0.18-native) - *Mise à jour (Précédent: 1.0.0.17-native)*
+  * `Alembic` (0.6.4) - *Mise à jour (Précédent: 0.6.3)*
+
 ## Build du 11/11/2026 à 13:51
 * **HOMEBREW_PAGE**
   * `PC5` (2.3.10) - *Mise à jour (Précédent: 2.3.9)*

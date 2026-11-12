@@ -464,6 +464,34 @@
       "source": "https://github.com/plutobox/ps5-NetHack"
     },
     {
+      "name": "Brogue CE",
+      "filename": "PPSA92043.zip",
+      "url": "https://github.com/plutobox/ps5-BrogueCE/releases/download/01.000.000/PPSA92043.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA92043/01.000.000/PPSA92043.zip",
+      "description": "Brogue is a single-player strategy game set in the halls of a mysterious and randomly-generated dungeon.",
+      "version": "01.000.000",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA92043",
+      "author": "plutobox",
+      "checksum": "8c5801eb8c22c1ec497d5b21736845c005b1daa46b3fff3cec766b379a964536",
+      "source": "https://github.com/plutobox/ps5-BrogueCE"
+    },
+    {
+      "name": "Towelket",
+      "filename": "PPSA92046.zip",
+      "url": "https://github.com/plutobox/ps5-Towelket/releases/download/01.000.003/PPSA92046.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA92046/01.000.003/PPSA92046.zip",
+      "description": "A collection of surreal RPGs made by Kanao runnning on a native port of EasyRPG.",
+      "version": "01.000.003",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA92046",
+      "author": "plutobox",
+      "checksum": "4c8db407d5f40e6405323a0ba98e0a4d61b16ec4660c7ae30c6131839c28f9ed",
+      "source": "https://github.com/plutobox/ps5-Towelket"
+    },
+    {
       "name": "Shining Force III",
       "filename": "PPSA93303.zip",
       "url": "https://github.com/damiantw/sfiii-ps5/releases/download/v1.0.0/PPSA93303.zip",
