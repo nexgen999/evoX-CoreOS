@@ -3,6 +3,222 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA24913",
+      "title": "Ace Combat 8: Wings of Theve",
+      "createdAt": "2026-11-12T22:36:17.865Z",
+      "version": "1.001.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e57a557103688def0036333d3c383f5820f1ff2bdb34cebc6bc81d5586c121e0",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/146f83b40ce74fae6994732d557e269bbd45b82dfef5993db6d59359ed486010",
+      "description": "Format: zstd\n※本商品は「STANDARD EDITION」です。他に「DELUXE EDITION」がございます。重複購入にご注意ください。 本製品をプレイするには、ゲーム内に表示されるサービス利用規約に同意する必要があります。 詳しくはhttps://bandainamcoent.co.jp/cs/kiyaku/eula/をご確認ください。 「ACE COMBAT」シリーズは、プレイヤーがエースパイロットとなり、リアルな空を追求したグラフィック空間を戦闘機で自由自在に飛び回る爽快感、自身の状況判断で敵を次々と撃墜・破壊・一掃する快感、そして課せられた難局を打破する達成感を楽しめる、ドラマティックフライトシューティングです。 開発は歴代シリーズを手掛けてきた「PROJECT ACES」が担当。 ■最高峰のグラフィックで体感するフライトシューティング キャンペーンモードでは、精細なグラフィックに加えて、立体的かつ多層構造の雲によって自然現象の美しさや情緒あふれる空を実現。 アーケードライクな操作で臨場感ある世界を自由自在に飛び回り、様々な種類の兵装を使い分けながら敵機・敵兵器を次々に撃墜・破壊・一掃するフライトシューティング体験を提供します。 ■圧倒的な没入感で描かれるエースパイロットの物語 空でのパイロット体験に加え、一人称視点で展開される没入感の高いシネマティックシーンでは、地上でのパイロット体験を新たに提供。 個性豊かな仲間たちと絆を育み、難局を乗り越えて本物のエースパイロットとなっていく達成感を味わえます。 ■シリーズ最大規模のオンラインモード オンラインモード「ACE COMBAT ONLINE」では、 シリーズ初のオンラインビジュアルロビーを導入。航空基地を模したロビーにアバターの姿で降り立ち、世界中のプレイヤーとともにマルチプレイミッションに出撃します。\nRegion: EUR\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount.\nUpdated: 2026-11-12T22:00:23.481Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · viking",
+          "url": "https://vikingfile.com/f/dW37NrxX2r"
+        },
+        {
+          "name": "zstd · Data - pt.1",
+          "url": "https://datanodes.to/o6j7a3jcc0qw"
+        },
+        {
+          "name": "zstd · Data - pt.2",
+          "url": "https://datanodes.to/butphhejfkyq"
+        },
+        {
+          "name": "zstd · Data - pt.3",
+          "url": "https://datanodes.to/s2e1rpyi6gqx"
+        },
+        {
+          "name": "zstd · Data - pt.4",
+          "url": "https://datanodes.to/iz38zhjeq92a"
+        },
+        {
+          "name": "zstd · Data - pt.5",
+          "url": "https://datanodes.to/m1nsycqr7elb"
+        },
+        {
+          "name": "zstd · Data - pt.6",
+          "url": "https://datanodes.to/xlmnqvukseh7"
+        },
+        {
+          "name": "zstd · Data - pt.7",
+          "url": "https://datanodes.to/fw5wlpsocsv2"
+        },
+        {
+          "name": "zstd · Data - pt.8",
+          "url": "https://datanodes.to/tybnit2q1zxv"
+        },
+        {
+          "name": "zstd · Data - pt.9",
+          "url": "https://datanodes.to/yaj36wc7m1g3"
+        },
+        {
+          "name": "zstd · Data - pt.10",
+          "url": "https://datanodes.to/v87o0msnfzb0"
+        },
+        {
+          "name": "zstd · Data - pt.11",
+          "url": "https://datanodes.to/vgmtmfrpxmf6"
+        },
+        {
+          "name": "zstd · Data - pt.12",
+          "url": "https://datanodes.to/36te3dnbhdv6"
+        },
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/VMy0dleca3"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/tLj4Ccq6dq"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/yr4kqmejf4"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/F5CsKWzJFY"
+        },
+        {
+          "name": "zstd · Viki - pt.5",
+          "url": "https://vikingfile.com/f/Xn2lF7TFRN"
+        },
+        {
+          "name": "zstd · Viki - pt.6",
+          "url": "https://vikingfile.com/f/rRe8qtaY6H"
+        },
+        {
+          "name": "zstd · Viki - pt.7",
+          "url": "https://vikingfile.com/f/9WpA7izIMM"
+        },
+        {
+          "name": "zstd · Viki - pt.8",
+          "url": "https://vikingfile.com/f/6NO2uAOKsD"
+        },
+        {
+          "name": "zstd · Viki - pt.9",
+          "url": "https://vikingfile.com/f/oAv2cN2EP2"
+        },
+        {
+          "name": "zstd · Viki - pt.10",
+          "url": "https://vikingfile.com/f/1zFcwhjOuv"
+        },
+        {
+          "name": "zstd · Viki - pt.11",
+          "url": "https://vikingfile.com/f/M1eMEXm6Al"
+        },
+        {
+          "name": "zstd · Viki - pt.12",
+          "url": "https://vikingfile.com/f/CklE3L9zsu"
+        }
+      ],
+      "sizeBytes": 118004226458
+    },
+    {
+      "titleId": "PPSA03671",
+      "title": "Wolverine",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "1.001.005",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/273f00aa302d3c10eb6d358c5d2bbeef98a5b73ca2bf3ed799eee1cc76d30b16",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/64347106c81a93e239a68a94a4bf0bb0e349cdaa3769a792036579ce8d4bcda9",
+      "description": "Format: zstd\nCreated in collaboration with Marvel Games, it delivers an all-new original story based on the legendary comic book character. Logan thought he was finished being Wolverine, but the past wasn’t finished with him yet. Three years after walking out on his team, Wolverine rejoins the mutant task force, Team X, in their darkest hour. Driven by his fanatical belief in human superiority, Bolivar Trask is kidnapping mutants. Only Wolverine has what it takes to save them. In his fight for the future, Wolverine must team up with fellow mutants across the globe through locations like Canada, Japan, and the Marvel island nation of Madripoor. With the fate of humans and mutants hanging in the balance, Logan knows the world needs a hero; however, they’ll have to settle for Wolverine. Play as Wolverine Ravage enemies with explosive brutality and unleash razor-sharp adamantium claws to deploy fast, fluid attacks and overcome impossible odds. Evolve with unique, swappable Techniques and Adaptations to stalk, ambush, or overpower foes from Bolivar Trask’s guns-for-hire Reavers to iconic villains like the boorish Omega Red. Build aggressive momentum to gain Rage and eviscerate the opposition, because what he does isn’t very nice. An Original, Emotionally Charged Story Beneath Wolverine’s gruff exterior and violent temperament is a man fighting for a cause greater than himself. Mutants face the threat of annihilation and he’s the best chance they’ve got. Confront a dark past and experience an emotionally charged story driven by identity, loyalty, and the struggle within to uncover the truth of Wolverine’s forgotten past. A Global, Adrenaline-Fueled Journey Slice into enemies across detailed locales such as the frosted Canadian Wilderness, the narrow streets of Tokyo, and the high and low districts of the island nation of Madripoor. Experience thrilling set pieces throughout Wolverine’s journey in this global fight for mutant survival.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nCredits: Thank you, Lineker!\nUpdated: 2026-11-12T21:08:30.368Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data - pt.1",
+          "url": "https://datanodes.to/xnw3p7nk7qer"
+        },
+        {
+          "name": "zstd · Data - pt.2",
+          "url": "https://datanodes.to/kkgru4th3rhx"
+        },
+        {
+          "name": "zstd · Data - pt.3",
+          "url": "https://datanodes.to/1uj8vnjy7eoi"
+        },
+        {
+          "name": "zstd · Data - pt.4",
+          "url": "https://datanodes.to/sjcq0mm9wdd8"
+        },
+        {
+          "name": "zstd · Data - pt.5",
+          "url": "https://datanodes.to/jkkkh0qspqcb"
+        },
+        {
+          "name": "zstd · Data - pt.6",
+          "url": "https://datanodes.to/sj8e5nkysh3k"
+        },
+        {
+          "name": "zstd · Data - pt.7",
+          "url": "https://datanodes.to/eo0hzy9azekx"
+        },
+        {
+          "name": "zstd · Data - pt.8",
+          "url": "https://datanodes.to/q5rwt6n1a04s"
+        },
+        {
+          "name": "zstd · Data - pt.9",
+          "url": "https://datanodes.to/nlsnj25ovvbh"
+        },
+        {
+          "name": "zstd · Data - pt.10",
+          "url": "https://datanodes.to/aduthx5s2sow"
+        },
+        {
+          "name": "zstd · Data - pt.11",
+          "url": "https://datanodes.to/nw0y7mm8imiq"
+        },
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/qAT88ZHOZk"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/6igtVsGGJm"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/wCO01DfhDR"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/1AgiNPSmzs"
+        },
+        {
+          "name": "zstd · Viki - pt.5",
+          "url": "https://vikingfile.com/f/jv2YDd4ZEC"
+        },
+        {
+          "name": "zstd · Viki - pt.6",
+          "url": "https://vikingfile.com/f/zu0JffW0Tn"
+        },
+        {
+          "name": "zstd · Viki - pt.7",
+          "url": "https://vikingfile.com/f/0Pevwow6Cd"
+        },
+        {
+          "name": "zstd · Viki - pt.8",
+          "url": "https://vikingfile.com/f/LM7waaVB3T"
+        },
+        {
+          "name": "zstd · Viki - pt.9",
+          "url": "https://vikingfile.com/f/zwr441OuIA"
+        },
+        {
+          "name": "zstd · Viki - pt.10",
+          "url": "https://vikingfile.com/f/37ecnMfNTo"
+        },
+        {
+          "name": "zstd · Viki - pt.11",
+          "url": "https://vikingfile.com/f/O5oRpzgPto"
+        }
+      ],
+      "sizeBytes": 109521666048
+    },
+    {
       "titleId": "PPSA34015",
       "title": "FC 27",
       "createdAt": "2026-11-12T14:22:24.114Z",
@@ -550,7 +766,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/a135fe87b09af10a3c21ac560376936bd052a9f6b018960c7f6c6a2b4c650a1c",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/68da35dc092c403cf7701d0126db1c35ff2a3d4f41f47c14b053783de4963b56",
-      "description": "Format: zstd\n脅威から身を潜める緊張、死と隣り合わせの戦闘、そして物語に密接に絡みつくパズルが、霧に沈んだ真実を静かに暴き出していく。 全編を通して一人称視点で描かれる本作では、不安定に信号を拾うポケットテレビをはじめ、限られたアイテムや武器を駆使しながら生き延びることが求められる。 スコットランドの冷たい海に浮かぶ架空の孤島を舞台とした、新たなサイコロジカルホラー。 【あらすじ】 灰色の海に流され、冷たい海に浮かぶ孤島セントアメリアへ漂着したサイモン・オーデル。 しかし町に人の姿はなく、深い霧と静寂に支配されていた。「状況を正す」という目的だけを頼りに、町や住民と自身との繋がりを探しながら彷徨うサイモンは、やがて町の深淵へと足を踏み入れていく。 散りばめられた謎と断片的な物語が結び付き、徐々に明かされていく凄惨な過去。 だが、町の深淵を覗くことは、皮肉にもサイモン自身の覚悟と向き合うことだった......。 1996年のセントアメリアでの探索 霧に沈んだ通り、人が消えた憩いの場、忘れ去られた町角。町が持つ空気と歴史が、静かに物語を紡ぎ出します。 真実と虚構が曖昧に混ざり合う、まるで現実に息づいているかのようなセントアメリアの町がプレイヤーを深みへと誘(いざな)います。 脳裏に深く刻まれる新しいSILENT HILL 美しく霧に包まれたスコットランドの町並みを舞台に、忘れがたい物語が紡がれます。本作は単なる恐怖演出にとどまらず、喪失や内省、そしてその陰に潜む代償を描く物語です。静かなひとときや些細な違和感、サイモンの過去が落とす長い影から、恐怖がじわりと滲み出していきます。 判断が試されるステルスとコンバット体験 近接武器による攻撃とガードを駆使して立ち向かうか、距離を保ち、銃火器を用いて応戦するか。状況に応じた判断が求められるコンバット体験となっています。 プレイヤーは、手持ちの装備や周囲の環境を活かしながら、敵にどのように対峙するかを選択できます。 CRTVが導く、ナラティブに紐づいた謎解き体験 シリーズの定番であったラジオは、「CRTV」というポケットテレビに生まれ変わります。周囲に潜む脅威や物語の断片、そして謎解きのヒントは、不安定なアナログ信号となって漂い、CRTVをチューニングすることで拾うことができます。 一人称視点で描かれる「SILENT HILL」 本作は「SILENT HILL」シリーズのフルレングス作品として初めて、一人称視点を採用しています。プレイヤーは主人公サイモンの視点を通して、霧に包まれた町や迫り来る異変を、より間近に体験することになります。 マルチエンディング プレイヤーの取ってきた行動が反映されたエンディングは、クリア後もなおプレイヤーの心に長い余韻を刻み込みます。 緊張を高めるサウンド 軋む音や歪んだ信号、遠くで響く呻き声。創意工夫に富んだサウンドデザインが、濃密で恐ろしい音の世界を描き出します。Pilotpriestが手がける本作のダイナミックなサウンドトラックは、プレイヤーや敵の挙動に応じて変化し、アクションとステルスの緩急に合わせて緊張と解放感を演出します。\nRegion: USA\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nCredits: Thank you, @yared_cf, for this one!\nUpdated: 2026-11-11T00:42:15.110Z",
+      "description": "Format: zstd\n脅威から身を潜める緊張、死と隣り合わせの戦闘、そして物語に密接に絡みつくパズルが、霧に沈んだ真実を静かに暴き出していく。 全編を通して一人称視点で描かれる本作では、不安定に信号を拾うポケットテレビをはじめ、限られたアイテムや武器を駆使しながら生き延びることが求められる。 スコットランドの冷たい海に浮かぶ架空の孤島を舞台とした、新たなサイコロジカルホラー。 【あらすじ】 灰色の海に流され、冷たい海に浮かぶ孤島セントアメリアへ漂着したサイモン・オーデル。 しかし町に人の姿はなく、深い霧と静寂に支配されていた。「状況を正す」という目的だけを頼りに、町や住民と自身との繋がりを探しながら彷徨うサイモンは、やがて町の深淵へと足を踏み入れていく。 散りばめられた謎と断片的な物語が結び付き、徐々に明かされていく凄惨な過去。 だが、町の深淵を覗くことは、皮肉にもサイモン自身の覚悟と向き合うことだった......。 1996年のセントアメリアでの探索 霧に沈んだ通り、人が消えた憩いの場、忘れ去られた町角。町が持つ空気と歴史が、静かに物語を紡ぎ出します。 真実と虚構が曖昧に混ざり合う、まるで現実に息づいているかのようなセントアメリアの町がプレイヤーを深みへと誘(いざな)います。 脳裏に深く刻まれる新しいSILENT HILL 美しく霧に包まれたスコットランドの町並みを舞台に、忘れがたい物語が紡がれます。本作は単なる恐怖演出にとどまらず、喪失や内省、そしてその陰に潜む代償を描く物語です。静かなひとときや些細な違和感、サイモンの過去が落とす長い影から、恐怖がじわりと滲み出していきます。 判断が試されるステルスとコンバット体験 近接武器による攻撃とガードを駆使して立ち向かうか、距離を保ち、銃火器を用いて応戦するか。状況に応じた判断が求められるコンバット体験となっています。 プレイヤーは、手持ちの装備や周囲の環境を活かしながら、敵にどのように対峙するかを選択できます。 CRTVが導く、ナラティブに紐づいた謎解き体験 シリーズの定番であったラジオは、「CRTV」というポケットテレビに生まれ変わります。周囲に潜む脅威や物語の断片、そして謎解きのヒントは、不安定なアナログ信号となって漂い、CRTVをチューニングすることで拾うことができます。 一人称視点で描かれる「SILENT HILL」 本作は「SILENT HILL」シリーズのフルレングス作品として初めて、一人称視点を採用しています。プレイヤーは主人公サイモンの視点を通して、霧に包まれた町や迫り来る異変を、より間近に体験することになります。 マルチエンディング プレイヤーの取ってきた行動が反映されたエンディングは、クリア後もなおプレイヤーの心に長い余韻を刻み込みます。 緊張を高めるサウンド 軋む音や歪んだ信号、遠くで響く呻き声。創意工夫に富んだサウンドデザインが、濃密で恐ろしい音の世界を描き出します。Pilotpriestが手がける本作のダイナミックなサウンドトラックは、プレイヤーや敵の挙動に応じて変化し、アクションとステルスの緩急に合わせて緊張と解放感を演出します。\nRegion: USA\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nCredits: Thank you, @Lineker, for this one!\nUpdated: 2026-11-11T00:42:15.110Z",
       "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
       "downloadLinks": [
         {

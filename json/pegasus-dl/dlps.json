@@ -313,7 +313,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/e79771471ac5f0b0af9204fbf26f4daf8bae932b18fc1196edc50187641fcbb0",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/14726af49a2379ac9a034ec427798b7d7a1852ed89e571bea79f29f3f84f41e6",
-      "description": "Variant: EUR 13.xx\nRegion: EUR\nRelease note: Works on 13.xx and higher\n\nVariant: EUR exFAT 01.000\nRegion: EUR\nRelease note: exFAT format — FW 01.000 — 4.xx BackPort\nContributor: pippo",
+      "description": "Variant: EUR 13.xx\nRegion: EUR\nRelease note: Works on 13.xx and higher\nContributor: Thanks to DUPLEX for the Files with DLCs, drakmor for ampr-emu and DecKerr97 GUI for the BackPort.\n\nVariant: EUR exFAT 01.000\nRegion: EUR\nRelease note: exFAT format — FW 01.000 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/planet-zoo-2-deluxe-edition-ps5/",
       "downloadLinks": [
         {
@@ -365,7 +365,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/7f64fb115b4d99df0037f3ae8363f19b5c24d8eff04493da546755c94c511848",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/150e0fb6bac12dde5433b30967a087a12c1b372f6b6882bbf39e7648f8a006e8",
-      "description": "Variant: EUR 12.xx\nRegion: EUR\nRelease note: Works on 12.xx and higher\n\nVariant: EUR exFAT 01.100.011\nRegion: EUR\nRelease note: exFAT format — FW 01.100.011 — 4.xx BackPort + 5.xx BackPort\nContributor: pippo",
+      "description": "Variant: EUR 12.xx\nRegion: EUR\nRelease note: Works on 12.xx and higher\nContributor: Thanks to DUPLEX for the Files with DLCs, drakmor for ampr-emu and DecKerr97 GUI for the BackPort.\n\nVariant: EUR exFAT 01.100.011\nRegion: EUR\nRelease note: exFAT format — FW 01.100.011 — 4.xx BackPort + 5.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/lost-ember-rekindled-edition-ps5/",
       "downloadLinks": [
         {
@@ -979,7 +979,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/63eefc43576a04f46349c34147391472d6ebd159e5f44898218928d430cd8c7e",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/0f029780f3e0408a85202f857a4041211b9cd517f619b0b7e42179aa465a0ae6",
-      "description": "Variant: USA 12.xx\nRegion: USA\nRelease note: Works on 12.xx and higher\n\nVariant: USA exFAT 01.000.003\nRegion: USA\nRelease note: exFAT format — FW 01.000.003 — 4.xx BackPort\nContributor: pippo",
+      "description": "Variant: USA 12.xx\nRegion: USA\nRelease note: Works on 12.xx and higher\nContributor: Thanks to Biogames for the Files, drakmor for ampr-emu and DecKerr97 GUI for the BackPort.\n\nVariant: USA exFAT 01.000.003\nRegion: USA\nRelease note: exFAT format — FW 01.000.003 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/neon-inferno-ps5/",
       "downloadLinks": [
         {
@@ -15696,16 +15696,28 @@
       "downloadSource": "https://dlpsgame.com/lego-voyagers-ps5/",
       "downloadLinks": [
         {
-          "name": "EUR Base - Akirabox",
+          "name": "EUR Base - Akirabox part 1",
           "url": "https://akirabox.com/qLQ36qPMPm19/file"
         },
         {
-          "name": "EUR Base - Vikingfile",
+          "name": "EUR Base - Vikingfile part 1",
           "url": "https://vikingfile.com/f/TU5PduiguI"
         },
         {
           "name": "EUR Base - 1fichier",
           "url": "https://1fichier.com/?ujkrfwc8fpmicqaysh8y"
+        },
+        {
+          "name": "EUR Base - Akirabox part 2",
+          "url": "https://akirabox.com/l76mZredZman/file"
+        },
+        {
+          "name": "EUR Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/DfladOIyLq"
+        },
+        {
+          "name": "EUR Base - Rootz",
+          "url": "https://www.rootz.so/d/1p4FaS"
         },
         {
           "name": "USA exFAT 01.000.004 Base - AKIA (exFAT)",
@@ -116333,6 +116345,14 @@
           "url": "https://buzzheavier.com/bvpuz8zrrica"
         },
         {
+          "name": "EUR 9.xx Base - Akirabox part 31",
+          "url": "https://akirabox.com/gXeGOoobJGAa/file"
+        },
+        {
+          "name": "EUR 9.xx Base - Rootz part 12",
+          "url": "https://rootz.so/d/DSb2"
+        },
+        {
           "name": "EUR 9.xx Base - Mediafire part 1",
           "url": "https://www.mediafire.com/file/qclywwsoc0f0ciw/[DLPSGAME.COM]-+01.021+PPSA23226.part01.rar/file"
         },
@@ -116373,14 +116393,6 @@
           "url": "https://www.mediafire.com/file/4gj8e2x05m7lb2v/[DLPSGAME.COM]-+01.021+PPSA23226.part10.rar/file"
         },
         {
-          "name": "EUR 9.xx Base - Mediafire part 11",
-          "url": "https://www.mediafire.com/file/ajp3e7mhev6ksvs/[DLPSGAME.COM]-+01.021+PPSA23226.part11.rar/file"
-        },
-        {
-          "name": "EUR 9.xx Base - Akirabox part 31",
-          "url": "https://akirabox.com/gXeGOoobJGAa/file"
-        },
-        {
           "name": "EUR 9.xx Base - Vikingfile part 1",
           "url": "https://vikingfile.com/f/KQcnyQdL7e"
         },
@@ -116419,14 +116431,6 @@
         {
           "name": "EUR 9.xx Base - Vikingfile part 10",
           "url": "https://vikingfile.com/f/6Owu1S7Qvz"
-        },
-        {
-          "name": "EUR 9.xx Base - Vikingfile part 11",
-          "url": "https://vikingfile.com/f/LQlbnHRPv1"
-        },
-        {
-          "name": "EUR 9.xx Base - Rootz part 12",
-          "url": "https://rootz.so/d/DSb2"
         },
         {
           "name": "EUR 9.xx Base - Mediafire part 1",
@@ -116849,12 +116853,92 @@
           "url": "https://rapidgator.net/file/9ca1b9537c12385bec154796520f6fe2/PPSA23226.(v1.10).-.(PKG.GAMES)-PS5.rar.html"
         },
         {
-          "name": "Release 2 Base - Akirabox",
+          "name": "Release 2 Base - Akirabox part 1",
           "url": "https://akirabox.com/Y2xm01ygq3RO/file"
         },
         {
           "name": "Release 2 Base - Vikingfile",
           "url": "https://vikingfile.com/f/oc98GXf3s5"
+        },
+        {
+          "name": "Release 2 Base - Akirabox part 2",
+          "url": "https://akirabox.com/obj3j7RZozDx/file"
+        },
+        {
+          "name": "Release 2 Base - Akirabox part 3",
+          "url": "https://akirabox.com/b5OzdVdZRmB8/file"
+        },
+        {
+          "name": "Release 2 Base - Akirabox part 4",
+          "url": "https://akirabox.com/qPez44b6YzOY/file"
+        },
+        {
+          "name": "Release 2 Base - Akirabox part 5",
+          "url": "https://akirabox.com/qw1zebjZZGXy/file"
+        },
+        {
+          "name": "Release 2 Base - Akirabox part 6",
+          "url": "https://akirabox.com/dZxG5okO63Vj/file"
+        },
+        {
+          "name": "Release 2 Base - Akirabox part 7",
+          "url": "https://akirabox.com/jar3Xl2NY32d/file"
+        },
+        {
+          "name": "Release 2 Base - Akirabox part 8",
+          "url": "https://akirabox.com/Zvqzl7ZWn3aD/file"
+        },
+        {
+          "name": "Release 2 Base - Akirabox part 9",
+          "url": "https://akirabox.com/qLQ36qRDYm19/file"
+        },
+        {
+          "name": "Release 2 Base - Akirabox part 10",
+          "url": "https://akirabox.com/Pbe3Pa2D1zlX/file"
+        },
+        {
+          "name": "Release 2 Base - Akirabox part 11",
+          "url": "https://akirabox.com/k0embbBWVmVb/file"
+        },
+        {
+          "name": "Release 2 Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1M1Rku"
+        },
+        {
+          "name": "Release 2 Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1Q3IcS"
+        },
+        {
+          "name": "Release 2 Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/HOumm"
+        },
+        {
+          "name": "Release 2 Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/1U59U0"
+        },
+        {
+          "name": "Release 2 Base - Rootz part 5",
+          "url": "https://www.rootz.so/d/2KDIjw"
+        },
+        {
+          "name": "Release 2 Base - Rootz part 6",
+          "url": "https://www.rootz.so/d/1BYuq8"
+        },
+        {
+          "name": "Release 2 Base - Rootz part 7",
+          "url": "https://www.rootz.so/d/1JccZE"
+        },
+        {
+          "name": "Release 2 Base - Rootz part 8",
+          "url": "https://www.rootz.so/d/1Falhg"
+        },
+        {
+          "name": "Release 2 Base - Rootz part 9",
+          "url": "https://www.rootz.so/d/2uX0S"
+        },
+        {
+          "name": "Release 2 Base - Rootz part 10",
+          "url": "https://www.rootz.so/d/AyEfQ"
         }
       ]
     },

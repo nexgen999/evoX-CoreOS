@@ -1,5 +1,25 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 13/11/2026 à 05:22
+* **PAYLOADS**
+  * `Memdbg Vnightly-20261112-G6E31144` (nightly-20261112-g6e31144) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `Cyberworld Endless` (0.21.0) - *Mise à jour (Précédent: 0.20.0)*
+  * `Playden` (0.11.0-beta.4) - *Mise à jour (Précédent: 0.11.0-beta.3)*
+  * `PC5` (2.3.11) - *Mise à jour (Précédent: 2.3.10)*
+  * `ProsperoSunshine` (0.6.6) - *Mise à jour (Précédent: 0.6.5)*
+  * `RommPS` (1.4.3) - *Mise à jour (Précédent: 1.4.2)*
+  * `TubeBlock` (01.000.207) - *Mise à jour (Précédent: 01.000.206)*
+  * `EglantinePS5` (1.000.002) - *Mise à jour (Précédent: 1.000.001)*
+  * `EVO Player` (0.13.7) - *Mise à jour (Précédent: 0.13.5)*
+  * `OGBox` (1.0.0) - *Mise à jour (Précédent: 0.0.8)*
+  * `Nuvio Max'd` (1.0.0.22-native-experimental) - *Mise à jour (Précédent: 1.0.0.18-native)*
+  * `PS5MC (Kodi)` (22.000.004) - *Mise à jour (Précédent: 22.000.002)*
+  * `PS5SD` (1.1.1) - *Mise à jour (Précédent: 1.0.0)*
+  * `PSBox Cloud Gaming` (1.7.1) - *Mise à jour (Précédent: 1.6.9)*
+  * `PS5 Backup Center` (2.98.4) - *Nouveau*
+  * `Nuvio Pro` (0.2.0-alpha.5) - *Mise à jour (Précédent: 0.2.0-alpha.3)*
+
 ## Build du 12/11/2026 à 19:57
 * **FFPFSC**
   * `Evoplayer-V0.13.7-Ppsa99039-Pro` (v0.13.7) - *Nouveau*

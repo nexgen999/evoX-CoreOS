@@ -233,10 +233,10 @@
       <pubDate>v0.1.1</pubDate>
     </item>
     <item>
-      <title>[Payloads] Memdbg Vnightly-20260930-G6E493C9</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/MemDBG/nightly-20260930-g6e493c9/MemDBG_vnightly-20260930-g6e493c9.elf</link>
+      <title>[Payloads] Memdbg Vnightly-20261112-G6E31144</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/MemDBG/nightly-20261112-g6e31144/MemDBG_vnightly-20261112-g6e31144.elf</link>
       <description>Memory debugging and inspection suite.</description>
-      <pubDate>nightly-20260930-g6e493c9</pubDate>
+      <pubDate>nightly-20261112-g6e31144</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-Hwinfo V0.1</title>
@@ -651,12 +651,6 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/airpsx/0.19/airpsx_v0.19.elf</link>
       <description>AirPSX server tool for PS5 ecosystem.</description>
       <pubDate>0.19</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Np-Fake-Signin-Ps5</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf</link>
-      <description>Fake activate PS5 without PSN.</description>
-      <pubDate>v1.4</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-Custom-Tool-Manager- Vcustom</title>
@@ -1136,13 +1130,13 @@
       <title>[ProsperoStore] Cyberworld Endless</title>
       <link>https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless</link>
       <description>A roguelike built on the real Mega Man Battle Network 6, from your own ROM: every run jacks MegaMan into a newly generated net of battles, loot and guardian Navis.</description>
-      <pubDate>0.20.0</pubDate>
+      <pubDate>0.21.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Playden</title>
       <link>https://github.com/leolobato/playden-ps5</link>
       <description>Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.</description>
-      <pubDate>0.11.0-beta.3</pubDate>
+      <pubDate>0.11.0-beta.4</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PS5Term</title>
@@ -1196,7 +1190,7 @@
       <title>[ProsperoStore] PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.</description>
-      <pubDate>2.3.10</pubDate>
+      <pubDate>2.3.11</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Home5</title>
@@ -1280,7 +1274,7 @@
       <title>[ProsperoStore] ProsperoSunshine</title>
       <link>https://github.com/Darkatek7/ProsperoSunshine</link>
       <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.</description>
-      <pubDate>0.6.5</pubDate>
+      <pubDate>0.6.6</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] SudokuZen</title>
@@ -1406,7 +1400,7 @@
       <title>[ProsperoStore] RommPS</title>
       <link>https://github.com/s0liton/RommPS</link>
       <description>Syncs your emulator saves and states with a RomM server and downloads games from your RomM library.</description>
-      <pubDate>1.4.2</pubDate>
+      <pubDate>1.4.3</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Parasite Eve PS5</title>
@@ -1550,7 +1544,7 @@
       <title>[ProsperoStore] TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.206</pubDate>
+      <pubDate>01.000.207</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] CD Player</title>
@@ -1592,7 +1586,7 @@
       <title>[ProsperoStore] EglantinePS5</title>
       <link>https://github.com/heydemoura/EglantinePS5</link>
       <description>VERY experimental Nintendo Switch 2 emulator port for PS5</description>
-      <pubDate>1.000.001</pubDate>
+      <pubDate>1.000.002</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Breath of the Wild VR</title>
@@ -1688,7 +1682,7 @@
       <title>[ProsperoStore] EVO Player</title>
       <link>https://github.com/sainsaji/EVO-PLAYER-PS5</link>
       <description>Media player for PS5 that plays video from USB or internal storage, with hardware decoding up to 4K, 10-bit HDR and surround audio.</description>
-      <pubDate>0.13.5</pubDate>
+      <pubDate>0.13.7</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Surround Sound Studio</title>
@@ -1838,7 +1832,7 @@
       <title>[ProsperoStore] OGBox</title>
       <link>https://github.com/Press5elect/OGBox</link>
       <description>XBOX emulator for PS5</description>
-      <pubDate>0.0.8</pubDate>
+      <pubDate>1.0.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PS5 Browser</title>
@@ -1862,7 +1856,7 @@
       <title>[ProsperoStore] Nuvio Max'd</title>
       <link>https://github.com/HandshakeHackin/Nuvio-maxd-releases</link>
       <description>Experimental Nuvio Max'd for PS5 with an optional privileged USB playlist reader for sandbox access failures (unconfirmed fix), private mount diagnostics, profiles, IPTV and media servers.</description>
-      <pubDate>1.0.0.18-native</pubDate>
+      <pubDate>1.0.0.22-native-experimental</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Spider-Man: Edge of Time</title>
@@ -1962,7 +1956,7 @@
     </item>
     <item>
       <title>[ProsperoStore] PS5-ECAM</title>
-      <link>https://github.com/premohq/PS5-ECAM</link>
+      <link>https://github.com/premohq/PlayTendoh</link>
       <description>Wii U, 3DS, DS and Switch emulation for jailbroken PS5, built on Cemu, Azahar, melonDS and Eden, with one launcher for all four.</description>
       <pubDate>5.1.0</pubDate>
     </item>
@@ -1988,7 +1982,7 @@
       <title>[ProsperoStore] PS5MC (Kodi)</title>
       <link>https://github.com/Notedop/xbmc-ps5</link>
       <description>PS5MC, an unofficial port of the Kodi 22 media center for PS5, with a 4K GPU interface, hardware H.264, HEVC and VP9 decoding and HDR output.</description>
-      <pubDate>22.000.002</pubDate>
+      <pubDate>22.000.004</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] ApricotGS</title>
@@ -2066,7 +2060,7 @@
       <title>[ProsperoStore] PS5SD</title>
       <link>https://github.com/Darkatek7/PS5SD</link>
       <description>Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.</description>
-      <pubDate>1.0.0</pubDate>
+      <pubDate>1.1.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PS5MG</title>
@@ -2228,7 +2222,7 @@
       <title>[ProsperoStore] PSBox Cloud Gaming</title>
       <link>https://github.com/RafaelNGP/psbox-cloud-gaming</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
-      <pubDate>1.6.9</pubDate>
+      <pubDate>1.7.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Estante</title>
@@ -2297,6 +2291,12 @@
       <pubDate>00.001.006</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] PS5 Backup Center</title>
+      <link>https://github.com/consolecenterstudio/ps5-backup-center</link>
+      <description>Back up, compare and sync your PS5 games, saves, apps and DLC across two PS5s, USB drives, a NAS, Switch and Switch 2 emulators, from the TV or any browser.</description>
+      <pubDate>2.98.4</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] Arcade Gallery</title>
       <link>https://github.com/zomavich-netizen/Arcade-PS5</link>
       <description>Native PS5 arcade emulator with per-game save states, controller navigation, detailed game information, and automatic screen orientation. No games or BIOS files are included.</description>
@@ -2324,7 +2324,7 @@
       <title>[ProsperoStore] Nuvio Pro</title>
       <link>https://github.com/speed-y/nuvio-pro-ps5</link>
       <description>Nuvio Pro is a controller-first streaming app for jailbroken PS5s, with EVO Player playback, PS5 keyboard search, profiles and resume support. The console hosts its own UI. Tested on firmware 12.70.</description>
-      <pubDate>0.2.0-alpha.3</pubDate>
+      <pubDate>0.2.0-alpha.5</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Nuvio PS5</title>

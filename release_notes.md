@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.12-1957)
+### 🚀 Synthèse de la mise à jour (v2026.11.13-0522)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -83,7 +83,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5-self-decrypter-game.elf`
   * `ps5-self-decrypter-shellcore.elf`
   * `ps5-remoteplay-get-pin_v0.1.1.elf`
-  * `MemDBG_vnightly-20260930-g6e493c9.elf`
+  * `MemDBG_vnightly-20261112-g6e31144.elf`
   * `ps5-hwinfo_v0.1.elf`
   * `actremotelink_pin_notify_v2.0.elf`
   * `actremotelink_agent_v2.0.elf`
@@ -153,7 +153,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5-ezremote-server_v1.13.elf`
   * `ps5upload_v9.5.1.elf`
   * `airpsx_v0.19.elf`
-  * `np-fake-signin-ps5.elf`
   * `PS5-Custom-Tool-Manager-_vCustom.elf`
   * `ps5-wallpaper-modd_v1.0.elf`
   * `garlic-savemgr_v1.15-beta9.elf`
@@ -454,6 +453,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99925.zip`
   * `PPSA99927.zip`
   * `PPSA99930.zip`
+  * `PPSA99950.zip`
   * `PPSA99984.zip`
   * `PPSA99991.zip`
   * `PPSA99993.zip`

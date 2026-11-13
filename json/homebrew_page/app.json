@@ -4,15 +4,15 @@
     {
       "name": "Playden",
       "filename": "FAKE77031.zip",
-      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.11.0-beta.3/playden-ps5-0.11.0-beta.3.zip",
-      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.11.0-beta.3/FAKE77031.zip",
+      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.11.0-beta.4/playden-ps5-0.11.0-beta.4.zip",
+      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.11.0-beta.4/FAKE77031.zip",
       "description": "Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.",
-      "version": "0.11.0-beta.3",
+      "version": "0.11.0-beta.4",
       "category": "Apps",
       "kind": "app",
       "titleid": "FAKE77031",
       "author": "leolobato",
-      "checksum": "3410fe87020b0b88ee6e0da9fd1afad6cd95374056eadf4a00e54fc2399dcce7",
+      "checksum": "67068803e68ee60a21b6b75da1c0be24b7bf1dad4a6829248601c39b926e2405",
       "source": "https://github.com/leolobato/playden-ps5"
     },
     {
@@ -74,15 +74,15 @@
     {
       "name": "PC5",
       "filename": "PPSA11018.zip",
-      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.3.10/PPSA11018.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.3.10/PPSA11018.zip",
+      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.3.11/PPSA11018.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.3.11/PPSA11018.zip",
       "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.",
-      "version": "2.3.10",
+      "version": "2.3.11",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA11018",
       "author": "bornaradusin",
-      "checksum": "ea6149a539cc1d0026ea85b642d5a761546209414e63a011d6d0ddb825557616",
+      "checksum": "a1d42651475a5026cb3422469a658a6d733dffc8734d508cedeb0353f0550874",
       "source": "https://github.com/bornaradusin/PC5"
     },
     {
@@ -144,15 +144,15 @@
     {
       "name": "ProsperoSunshine",
       "filename": "PPSA47989.zip",
-      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.6.5/PPSA47989.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.6.5/PPSA47989.zip",
+      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.6.6/PPSA47989.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.6.6/PPSA47989.zip",
       "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.",
-      "version": "0.6.5",
+      "version": "0.6.6",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA47989",
       "author": "Darkatek7",
-      "checksum": "66788e0ac1be7c614a990682820af927351650ebbb6b65b31a38ad7199a6ba3b",
+      "checksum": "447a1afc7820fd73878078aa89100c4cf624f5807c6d23e695089be0c6bb669f",
       "source": "https://github.com/Darkatek7/ProsperoSunshine"
     },
     {
@@ -270,15 +270,15 @@
     {
       "name": "RommPS",
       "filename": "PPSA76677.zip",
-      "url": "https://github.com/s0liton/RommPS/releases/download/v1.4.2/PPSA76677.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA76677/1.4.2/PPSA76677.zip",
+      "url": "https://github.com/s0liton/RommPS/releases/download/v1.4.3/PPSA76677.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA76677/1.4.3/PPSA76677.zip",
       "description": "Syncs your emulator saves and states with a RomM server and downloads games from your RomM library.",
-      "version": "1.4.2",
+      "version": "1.4.3",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA76677",
       "author": "s0liton",
-      "checksum": "beb546f4444fa93c9d00ed58d5097db3be51d029ead72cfc4dffc7e95c064913",
+      "checksum": "789449f36a12dad79fe9ee608c8c835db1d7e1458a7e804d12e25e93fa09afd1",
       "source": "https://github.com/s0liton/RommPS"
     },
     {
@@ -410,15 +410,15 @@
     {
       "name": "TubeBlock",
       "filename": "PPSA98260.zip",
-      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.206/SmartTube-PPSA98260.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.206/PPSA98260.zip",
+      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.207/SmartTube-PPSA98260.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.207/PPSA98260.zip",
       "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
-      "version": "01.000.206",
+      "version": "01.000.207",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98260",
       "author": "animatian112",
-      "checksum": "efb5ed5801e5b1f8a750cc8d198c0ad5da81293d89ecc662d9ca03ea3d7f6013",
+      "checksum": "a78a3d61ebd38dd2c5677b9f4d15760f5e51f10f3bff82ef09edd478b987b3b8",
       "source": "https://github.com/animatian112/ytps5-sponsorblock"
     },
     {
@@ -452,15 +452,15 @@
     {
       "name": "EglantinePS5",
       "filename": "PPSA98515.zip",
-      "url": "https://github.com/heydemoura/EglantinePS5/releases/download/v1.000.001/EglantinePS5-v1.000.001.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98515/1.000.001/PPSA98515.zip",
+      "url": "https://github.com/heydemoura/EglantinePS5/releases/download/v1.000.002/EglantinePS5-v1.000.002.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98515/1.000.002/PPSA98515.zip",
       "description": "VERY experimental Nintendo Switch 2 emulator port for PS5",
-      "version": "1.000.001",
+      "version": "1.000.002",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98515",
       "author": "Heyde Moura",
-      "checksum": "02209c322ade58151e958932489ff163b90624436b77d390652a9bb61403d604",
+      "checksum": "780c170e6a24f6321fe2d0311ddb8eb2d03d1017181fddfcf87fbf47b1bb88cb",
       "source": "https://github.com/heydemoura/EglantinePS5"
     },
     {
@@ -592,15 +592,15 @@
     {
       "name": "EVO Player",
       "filename": "PPSA99039.zip",
-      "url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.13.5/EVOPlayer-v0.13.5-PPSA99039.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99039/0.13.5/PPSA99039.zip",
+      "url": "https://github.com/sainsaji/EVO-PLAYER-PS5/releases/download/v0.13.7/EVOPlayer-v0.13.7-PPSA99039.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99039/0.13.7/PPSA99039.zip",
       "description": "Media player for PS5 that plays video from USB or internal storage, with hardware decoding up to 4K, 10-bit HDR and surround audio.",
-      "version": "0.13.5",
+      "version": "0.13.7",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99039",
       "author": "Sain Saji",
-      "checksum": "c4a60ffa4c364cc4990a5bf637e004289b3de95dd9b538cb88372321b52cb256",
+      "checksum": "27b9011f80c9a3020ce77244b9d6c5116fcf67b174f624256c7bc59f6b334f0c",
       "source": "https://github.com/sainsaji/EVO-PLAYER-PS5"
     },
     {
@@ -886,15 +886,15 @@
     {
       "name": "OGBox",
       "filename": "PPSA99251.zip",
-      "url": "https://github.com/Press5elect/OGBox/releases/download/v0.0.8/OGBox-v0.0.8.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99251/0.0.8/PPSA99251.zip",
+      "url": "https://github.com/Press5elect/OGBox/releases/download/v1.0.0/OGBox-v1.0.0.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99251/1.0.0/PPSA99251.zip",
       "description": "XBOX emulator for PS5",
-      "version": "0.0.8",
+      "version": "1.0.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99251",
       "author": "Press5elect",
-      "checksum": "082d6f78de1b37ab60054a625db84759453472e8518786486f5e127f2da78dc2",
+      "checksum": "f332e696bb5cf810dd46f9b56a67a18660eedceca1999fbd01ed2d8d9cd902e3",
       "source": "https://github.com/Press5elect/OGBox"
     },
     {
@@ -928,15 +928,15 @@
     {
       "name": "Nuvio Max'd",
       "filename": "PPSA99288.zip",
-      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.18-native/PPSA99288.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.18-native/PPSA99288.zip",
+      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.22-native-experimental/PPSA99288.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.22-native-experimental/PPSA99288.zip",
       "description": "Experimental Nuvio Max'd for PS5 with an optional privileged USB playlist reader for sandbox access failures (unconfirmed fix), private mount diagnostics, profiles, IPTV and media servers.",
-      "version": "1.0.0.18-native",
+      "version": "1.0.0.22-native-experimental",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99288",
       "author": "HandshakeHackin",
-      "checksum": "02dca19b5ecb52c051af179c5d04d0e015b838b2b1f92d5249cee3624d755243",
+      "checksum": "bf5670b71b7d439057919d0d5d7abe54820b793721c65e08dca294969e2e5077",
       "source": "https://github.com/HandshakeHackin/Nuvio-maxd-releases"
     },
     {
@@ -970,7 +970,7 @@
     {
       "name": "PS5-ECAM",
       "filename": "PPSA99360.zip",
-      "url": "https://github.com/premohq/PS5-ECAM/releases/download/v5.1.0/PS5-ECAM-v5.1.0.zip",
+      "url": "https://github.com/premohq/PlayTendoh/releases/download/v5.1.0/PS5-ECAM-v5.1.0.zip",
       "local_path": "downloads/apps/homebrew_page/app/PPSA99360/5.1.0/PPSA99360.zip",
       "description": "Wii U, 3DS, DS and Switch emulation for jailbroken PS5, built on Cemu, Azahar, melonDS and Eden, with one launcher for all four.",
       "version": "5.1.0",
@@ -979,20 +979,20 @@
       "titleid": "PPSA99360",
       "author": "premohq",
       "checksum": "c6a0c0b50617d923a5e7a5cb37d799c746118342cd850d5bca634c3670a6562f",
-      "source": "https://github.com/premohq/PS5-ECAM"
+      "source": "https://github.com/premohq/PlayTendoh"
     },
     {
       "name": "PS5MC (Kodi)",
       "filename": "PPSA99420.zip",
-      "url": "https://github.com/Notedop/xbmc-ps5/releases/download/22.000.002/PPSA99420.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99420/22.000.002/PPSA99420.zip",
+      "url": "https://github.com/Notedop/xbmc-ps5/releases/download/22.000.004/PPSA99420.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99420/22.000.004/PPSA99420.zip",
       "description": "PS5MC, an unofficial port of the Kodi 22 media center for PS5, with a 4K GPU interface, hardware H.264, HEVC and VP9 decoding and HDR output.",
-      "version": "22.000.002",
+      "version": "22.000.004",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99420",
       "author": "Notedop",
-      "checksum": "e4b3f7c8f0d9ee913db129825c7e4efdc555d4f77324a91783ba9817e79fc26f",
+      "checksum": "f16e841940f7187edf1fb8aafb4e4430d53e7253a708fc57757eaf98b9d6531b",
       "source": "https://github.com/Notedop/xbmc-ps5"
     },
     {
@@ -1096,15 +1096,15 @@
     {
       "name": "PS5SD",
       "filename": "PPSA99576.zip",
-      "url": "https://github.com/Darkatek7/PS5SD/releases/download/v1.0.0/PPSA99576.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99576/1.0.0/PPSA99576.zip",
+      "url": "https://github.com/Darkatek7/PS5SD/releases/download/v1.1.1/PPSA99576.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99576/1.1.1/PPSA99576.zip",
       "description": "Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.",
-      "version": "1.0.0",
+      "version": "1.1.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99576",
       "author": "Darkatek7",
-      "checksum": "a10177438a284fc2335325c52e84e2c5705c272fd25a85b5dab5853d11624f89",
+      "checksum": "c151d8396cec1a2cf53c010780eabd50aa334c447c4b0e33b9f0e52a9830b675",
       "source": "https://github.com/Darkatek7/PS5SD"
     },
     {
@@ -1236,15 +1236,15 @@
     {
       "name": "PSBox Cloud Gaming",
       "filename": "PPSA99810.zip",
-      "url": "https://github.com/RafaelNGP/psbox-cloud-gaming/releases/download/v1.6.9/PPSA99810.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.6.9/PPSA99810.zip",
+      "url": "https://github.com/RafaelNGP/psbox-cloud-gaming/releases/download/v1.7.1/PPSA99810.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.7.1/PPSA99810.zip",
       "description": "Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.",
-      "version": "1.6.9",
+      "version": "1.7.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99810",
       "author": "RafaelNGP",
-      "checksum": "45fdaceca7a8e1a89c1a5f507ba88f029536ad2645bfbe5ba0527b40d3442079",
+      "checksum": "ac7ca2da78027af2e29491298ce276a8ad71c3a1b43020f26a7af0a15b49c5b4",
       "source": "https://github.com/RafaelNGP/psbox-cloud-gaming"
     },
     {
@@ -1360,6 +1360,20 @@
       "source": "https://github.com/MisterTemaki/stellaPS5"
     },
     {
+      "name": "PS5 Backup Center",
+      "filename": "PPSA99950.zip",
+      "url": "https://github.com/consolecenterstudio/ps5-backup-center/releases/download/v2.98.4/PPSA99950.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99950/2.98.4/PPSA99950.zip",
+      "description": "Back up, compare and sync your PS5 games, saves, apps and DLC across two PS5s, USB drives, a NAS, Switch and Switch 2 emulators, from the TV or any browser.",
+      "version": "2.98.4",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99950",
+      "author": "Console Center Studio",
+      "checksum": "ca023a0ec7aea88f5ca64c6b803b3e18aa1fdb6528d3423ef64e61eafc31f049",
+      "source": "https://github.com/consolecenterstudio/ps5-backup-center"
+    },
+    {
       "name": "Arcade Gallery",
       "filename": "PPSA99984.zip",
       "url": "https://github.com/zomavich-netizen/Arcade-PS5/releases/download/v0.2.1/Arcade-v0.2.1-PS5.zip",
@@ -1404,15 +1418,15 @@
     {
       "name": "Nuvio Pro",
       "filename": "PPSA99996.zip",
-      "url": "https://github.com/speed-y/nuvio-pro-ps5/releases/download/v0.2.0-alpha.3/PPSA99996.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99996/0.2.0-alpha.3/PPSA99996.zip",
+      "url": "https://github.com/speed-y/nuvio-pro-ps5/releases/download/v0.2.0-alpha.5/PPSA99996.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99996/0.2.0-alpha.5/PPSA99996.zip",
       "description": "Nuvio Pro is a controller-first streaming app for jailbroken PS5s, with EVO Player playback, PS5 keyboard search, profiles and resume support. The console hosts its own UI. Tested on firmware 12.70.",
-      "version": "0.2.0-alpha.3",
+      "version": "0.2.0-alpha.5",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99996",
       "author": "Shashank",
-      "checksum": "7d61544c102922e71b319e5ad981b995021d999f53ac7329bf53dca9c9770084",
+      "checksum": "efc58367066a2f1aff2dca60cdaf6bbc6ec1eec1a427acd9b0d8d51445b1dd28",
       "source": "https://github.com/speed-y/nuvio-pro-ps5"
     },
     {

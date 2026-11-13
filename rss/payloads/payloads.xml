@@ -233,10 +233,10 @@
       <pubDate>v0.1.1</pubDate>
     </item>
     <item>
-      <title>Memdbg Vnightly-20260930-G6E493C9</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/MemDBG/nightly-20260930-g6e493c9/MemDBG_vnightly-20260930-g6e493c9.elf</link>
+      <title>Memdbg Vnightly-20261112-G6E31144</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_sdk_debug/MemDBG/nightly-20261112-g6e31144/MemDBG_vnightly-20261112-g6e31144.elf</link>
       <description>Memory debugging and inspection suite.</description>
-      <pubDate>nightly-20260930-g6e493c9</pubDate>
+      <pubDate>nightly-20261112-g6e31144</pubDate>
     </item>
     <item>
       <title>Ps5-Hwinfo V0.1</title>
@@ -651,12 +651,6 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/airpsx/0.19/airpsx_v0.19.elf</link>
       <description>AirPSX server tool for PS5 ecosystem.</description>
       <pubDate>0.19</pubDate>
-    </item>
-    <item>
-      <title>Np-Fake-Signin-Ps5</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf</link>
-      <description>Fake activate PS5 without PSN.</description>
-      <pubDate>v1.4</pubDate>
     </item>
     <item>
       <title>Ps5-Custom-Tool-Manager- Vcustom</title>
