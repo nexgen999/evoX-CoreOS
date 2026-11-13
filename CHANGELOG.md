@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 13/11/2026 à 14:14
+* **PAYLOADS**
+  * `Pad2C V2.0.0` (v2.0.0) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `PS5 Backup Center` (2.99.5) - *Mise à jour (Précédent: 2.98.4)*
+  * `Nuvio Pro` (0.2.0-alpha.6) - *Mise à jour (Précédent: 0.2.0-alpha.5)*
+
 ## Build du 13/11/2026 à 05:22
 * **PAYLOADS**
   * `Memdbg Vnightly-20261112-G6E31144` (nightly-20261112-g6e31144) - *Nouveau*

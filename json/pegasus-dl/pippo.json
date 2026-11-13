@@ -3,6 +3,190 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA35245",
+      "title": "Godzilla Destroy All Monsters Melee Remastered",
+      "createdAt": "2026-11-13T11:48:58.638Z",
+      "version": "v01.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/eb36d8498a77c1e88cbd9a3378acb9fafa2b39a15fa073b0814535e1fccf840f",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/eb36d8498a77c1e88cbd9a3378acb9fafa2b39a15fa073b0814535e1fccf840f",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA35245, v01.000, USA, 4.xx BackPort + 5.xx BackPort\nSize: 10GB\nCredits: Files: DespairOfHarmony; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPorts Folder included. About FPKG: 5.xx BackPort already included on Base, 4.xx BackPort Only &amp; Original Files PKG included.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/7amjcjx0pbvc/PPSA35245.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/5u8dm0xlas9e/PPSA35245.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/k0emb9g9VGVb/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/0PQPNflhRO"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/Pbe3Pk0k1mlX/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/5b2Z7gKKZV"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/v18dfw91ug4m/PPSA35245-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/calhb0cp0x9y/PPSA35245-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 10737418240
+    },
+    {
+      "titleId": "PPSA23566",
+      "title": "EA SPORTS UFC 6 Ultimate Edition",
+      "createdAt": "2026-11-13T11:48:58.638Z",
+      "version": "v01.005",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e802bd09345a740a158e70d2bb11b4c5a42493e4cce2d7b3759620b851b7c655",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/7450b3213f5afb175d42de366333e0c9f84015f2c111f0c6015979e907a36f47",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA23566, v01.005, EUR, DLCs Merged, 4.xx BackPort\nSize: 167GB\nCredits: Files: Desesperado3; Backport: dunaevnick; DLC: dunaevnick\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 4.xx, BackPort already included. About FPKG: BackPort already included on Base.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/fwzpbwn3dbm3/PPSA23566.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/si5mb0gdqxny/PPSA23566.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/gXeGOb0NazAa/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/6QIDSRI6uh"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/qLQ365d01m19/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/o27AA9al55"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/kxg0swwywnse/PPSA23566-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/9n86g6xxa2un/PPSA23566-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 179314884608
+    },
+    {
+      "titleId": "PPSA02957",
+      "title": "Shing!",
+      "createdAt": "2026-11-13T11:48:58.638Z",
+      "version": "v01.003",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/0e6b045b737f692d0fa40940e41de7d25d98dfac85937c212e2b7cb29414820e",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/88165f7d1ca81038ad5daf61101c1ddc569e4e2533d18c41f426e9084bbb1a7e",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA02957, v01.003, USA, 2.xx and beyond\nSize: 7GB\nCredits: Files: D0ng3r\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/16gpmjhghdh7/PPSA02957.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/dpmhx1err907/PPSA02957.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/obj3jK9KozDx/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/ErG27f7p3S"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/9QWmpO0OgGEB/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/r3tfmqCtCq"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/qzd0qlqasetc/PPSA02957-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/awuvlv6gl2qi/PPSA02957-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 7516192768
+    },
+    {
+      "titleId": "PPSA02483",
+      "title": "Foreclosed",
+      "createdAt": "2026-11-13T11:48:58.638Z",
+      "version": "v01.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/fe8c7f2d66fa62611925eef8a6a69c8d37e183745eda46fc4ab46ccf4e3ce48f",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/5a29c417653ae8f6968eecb8689c5cfd3ee679e0eef5ff4ba848668229295110",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA02483, v01.002, USA, 2.xx and beyond\nSize: 1GB\nCredits: Files: D0ng3r\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/wtb7dduoq32m/PPSA02483.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/kd6fegwfl861/PPSA02483.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/b5OzdAwARGB8/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/3OoSzyDrLr"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/RMKGJ0E0X31o/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/Sc35zqaUi7"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/a0t6b4n6w26y/PPSA02483-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/1kjpc6zs3hhj/PPSA02483-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 1073741824
+    },
+    {
       "titleId": "PPSA33829",
       "title": "Lost Ember Rekindled Edition",
       "createdAt": "2026-11-12T13:21:58.063Z",

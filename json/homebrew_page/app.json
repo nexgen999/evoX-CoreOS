@@ -1362,15 +1362,15 @@
     {
       "name": "PS5 Backup Center",
       "filename": "PPSA99950.zip",
-      "url": "https://github.com/consolecenterstudio/ps5-backup-center/releases/download/v2.98.4/PPSA99950.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99950/2.98.4/PPSA99950.zip",
+      "url": "https://github.com/consolecenterstudio/ps5-backup-center/releases/download/v2.99.5/PPSA99950.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99950/2.99.5/PPSA99950.zip",
       "description": "Back up, compare and sync your PS5 games, saves, apps and DLC across two PS5s, USB drives, a NAS, Switch and Switch 2 emulators, from the TV or any browser.",
-      "version": "2.98.4",
+      "version": "2.99.5",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99950",
       "author": "Console Center Studio",
-      "checksum": "ca023a0ec7aea88f5ca64c6b803b3e18aa1fdb6528d3423ef64e61eafc31f049",
+      "checksum": "12ea416b70c9dafc5895f7edf0c5c202a45b8a67f4379d1770a6e8bd538decd1",
       "source": "https://github.com/consolecenterstudio/ps5-backup-center"
     },
     {
@@ -1418,15 +1418,15 @@
     {
       "name": "Nuvio Pro",
       "filename": "PPSA99996.zip",
-      "url": "https://github.com/speed-y/nuvio-pro-ps5/releases/download/v0.2.0-alpha.5/PPSA99996.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99996/0.2.0-alpha.5/PPSA99996.zip",
+      "url": "https://github.com/speed-y/nuvio-pro-ps5/releases/download/v0.2.0-alpha.6/PPSA99996.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99996/0.2.0-alpha.6/PPSA99996.zip",
       "description": "Nuvio Pro is a controller-first streaming app for jailbroken PS5s, with EVO Player playback, PS5 keyboard search, profiles and resume support. The console hosts its own UI. Tested on firmware 12.70.",
-      "version": "0.2.0-alpha.5",
+      "version": "0.2.0-alpha.6",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99996",
       "author": "Shashank",
-      "checksum": "efc58367066a2f1aff2dca60cdaf6bbc6ec1eec1a427acd9b0d8d51445b1dd28",
+      "checksum": "ac9a1bd2bb65a43da747b425a1fdf64e728ca349d2f9382323a958623ccf6efc",
       "source": "https://github.com/speed-y/nuvio-pro-ps5"
     },
     {

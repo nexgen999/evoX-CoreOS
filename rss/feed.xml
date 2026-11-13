@@ -473,10 +473,10 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Payloads] Pad2C V1.3.1</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v1.3.1/pad2c_v1.3.1.elf</link>
+      <title>[Payloads] Pad2C V2.0.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v2.0.0/pad2c_v2.0.0.elf</link>
       <description>Use the 8BitDo Ultimate 2C Wireless controller on a jailbroken PS5 as a second DualSense, through its 2.4G USB dongle - no Bluetooth.</description>
-      <pubDate>v1.3.1</pubDate>
+      <pubDate>v2.0.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Anypad-Ps5 V0.6.0</title>
@@ -2294,7 +2294,7 @@
       <title>[ProsperoStore] PS5 Backup Center</title>
       <link>https://github.com/consolecenterstudio/ps5-backup-center</link>
       <description>Back up, compare and sync your PS5 games, saves, apps and DLC across two PS5s, USB drives, a NAS, Switch and Switch 2 emulators, from the TV or any browser.</description>
-      <pubDate>2.98.4</pubDate>
+      <pubDate>2.99.5</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Arcade Gallery</title>
@@ -2324,7 +2324,7 @@
       <title>[ProsperoStore] Nuvio Pro</title>
       <link>https://github.com/speed-y/nuvio-pro-ps5</link>
       <description>Nuvio Pro is a controller-first streaming app for jailbroken PS5s, with EVO Player playback, PS5 keyboard search, profiles and resume support. The console hosts its own UI. Tested on firmware 12.70.</description>
-      <pubDate>0.2.0-alpha.5</pubDate>
+      <pubDate>0.2.0-alpha.6</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Nuvio PS5</title>

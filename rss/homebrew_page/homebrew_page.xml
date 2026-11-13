@@ -1178,7 +1178,7 @@
       <title>PS5 Backup Center</title>
       <link>https://github.com/consolecenterstudio/ps5-backup-center</link>
       <description>Back up, compare and sync your PS5 games, saves, apps and DLC across two PS5s, USB drives, a NAS, Switch and Switch 2 emulators, from the TV or any browser.</description>
-      <pubDate>2.98.4</pubDate>
+      <pubDate>2.99.5</pubDate>
     </item>
     <item>
       <title>Arcade Gallery</title>
@@ -1208,7 +1208,7 @@
       <title>Nuvio Pro</title>
       <link>https://github.com/speed-y/nuvio-pro-ps5</link>
       <description>Nuvio Pro is a controller-first streaming app for jailbroken PS5s, with EVO Player playback, PS5 keyboard search, profiles and resume support. The console hosts its own UI. Tested on firmware 12.70.</description>
-      <pubDate>0.2.0-alpha.5</pubDate>
+      <pubDate>0.2.0-alpha.6</pubDate>
     </item>
     <item>
       <title>Nuvio PS5</title>

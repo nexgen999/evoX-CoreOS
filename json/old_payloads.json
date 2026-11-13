@@ -850,14 +850,14 @@
             "source": "https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/ps5_utility/ghost-toothAPI/ghost-toothAPI.elf"
         },
         {
-            "name": "Pad2C V1.3.1",
-            "filename": "pad2c_v1.3.1.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v1.3.1/pad2c_v1.3.1.elf",
-            "local_path": "payloads/ps5_pad_utility/pad2c/v1.3.1/pad2c_v1.3.1.elf",
+            "name": "Pad2C V2.0.0",
+            "filename": "pad2c_v2.0.0.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v2.0.0/pad2c_v2.0.0.elf",
+            "local_path": "payloads/ps5_pad_utility/pad2c/v2.0.0/pad2c_v2.0.0.elf",
             "description": "Use the 8BitDo Ultimate 2C Wireless controller on a jailbroken PS5 as a second DualSense, through its 2.4G USB dongle - no Bluetooth.",
-            "version": "v1.3.1",
+            "version": "v2.0.0",
             "category": "PS5 Pad Utility",
-            "checksum": "b2608887bbea8f1bf74c2fcb6888a475b80c89a53266f4fe0f7dc96e828d738d",
+            "checksum": "bcf6075492e3d8bbea0e417b0ec6ab7337d83816bb57f34859152b1d60dad7fc",
             "source": "https://github.com/sub0x00001/pad2c/releases"
         },
         {
@@ -868,7 +868,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "7699438aa20723ec4b4ac85d0e5dee956ca5b71082066c05c853b574194d4597",
+            "checksum": "21229937dcf8d5a366d5a2ffbd144323d80d93515a7920533ef1940145d4e55d",
             "source": "https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf"
         },
         {

@@ -153,7 +153,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/0e6b045b737f692d0fa40940e41de7d25d98dfac85937c212e2b7cb29414820e",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/88165f7d1ca81038ad5daf61101c1ddc569e4e2533d18c41f426e9084bbb1a7e",
-      "description": "Region: USA\nRelease note: Works on 6.xx and higher",
+      "description": "Variant: USA 6.xx\nRegion: USA\nRelease note: Works on 6.xx and higher\n\nVariant: USA exFAT 01.003\nRegion: USA\nRelease note: exFAT format — FW 01.003 — 2.xx and beyond\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/shing-ps5/",
       "downloadLinks": [
         {
@@ -167,6 +167,22 @@
         {
           "name": "USA 6.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/ywbmHeKy0c"
+        },
+        {
+          "name": "USA exFAT 01.003 Base - DataNodes",
+          "url": "https://datanodes.to/16gpmjhghdh7/PPSA02957.7z"
+        },
+        {
+          "name": "USA exFAT 01.003 Base - FileKeeper",
+          "url": "https://filekeeper.net/dpmhx1err907/PPSA02957.7z"
+        },
+        {
+          "name": "USA exFAT 01.003 Base - Akirabox",
+          "url": "https://akirabox.to/obj3jK9KozDx/file"
+        },
+        {
+          "name": "USA exFAT 01.003 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/ErG27f7p3S"
         }
       ]
     },
@@ -225,7 +241,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/fe8c7f2d66fa62611925eef8a6a69c8d37e183745eda46fc4ab46ccf4e3ce48f",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/5a29c417653ae8f6968eecb8689c5cfd3ee679e0eef5ff4ba848668229295110",
-      "description": "Region: USA\nRelease note: Works on 3.xx and higher",
+      "description": "Variant: USA 3.xx\nRegion: USA\nRelease note: Works on 3.xx and higher\n\nVariant: USA exFAT 01.002\nRegion: USA\nRelease note: exFAT format — FW 01.002 — 2.xx and beyond\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/foreclosed-ps5/",
       "downloadLinks": [
         {
@@ -239,6 +255,22 @@
         {
           "name": "USA 3.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/8nb9JLCSAk"
+        },
+        {
+          "name": "USA exFAT 01.002 Base - DataNodes",
+          "url": "https://datanodes.to/wtb7dduoq32m/PPSA02483.7z"
+        },
+        {
+          "name": "USA exFAT 01.002 Base - FileKeeper",
+          "url": "https://filekeeper.net/kd6fegwfl861/PPSA02483.7z"
+        },
+        {
+          "name": "USA exFAT 01.002 Base - Akirabox",
+          "url": "https://akirabox.to/b5OzdAwARGB8/file"
+        },
+        {
+          "name": "USA exFAT 01.002 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/3OoSzyDrLr"
         }
       ]
     },
@@ -745,7 +777,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/eb36d8498a77c1e88cbd9a3378acb9fafa2b39a15fa073b0814535e1fccf840f",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/eb36d8498a77c1e88cbd9a3378acb9fafa2b39a15fa073b0814535e1fccf840f",
-      "description": "Region: USA\nRelease note: Credits DespairOfHarmony Works on 12.xx and higher",
+      "description": "Variant: USA 12.xx\nRegion: USA\nRelease note: Credits DespairOfHarmony Works on 12.xx and higher\n\nVariant: USA exFAT 01.000\nRegion: USA\nRelease note: exFAT format — FW 01.000 — 4.xx BackPort + 5.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/godzilla-destroy-all-monsters-melee-remastered-ps5/",
       "downloadLinks": [
         {
@@ -759,6 +791,22 @@
         {
           "name": "USA 12.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/9jbgmyCRhp"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - DataNodes",
+          "url": "https://datanodes.to/7amjcjx0pbvc/PPSA35245.7z"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - FileKeeper",
+          "url": "https://filekeeper.net/5u8dm0xlas9e/PPSA35245.7z"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - Akirabox",
+          "url": "https://akirabox.to/k0emb9g9VGVb/file"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/0PQPNflhRO"
         }
       ]
     },
@@ -96387,6 +96435,10 @@
           "url": "https://www.mediafire.com/file/ekblyjh8jzg8q0h/[DLPSGAME.COM]-FW_4xx_PPSA05521_PAW_Patrol_Grand_Prix_01_000_000_backport_files.zip/file"
         },
         {
+          "name": "EUR 5.xx BackPort 4.xx - Mediafire part 3",
+          "url": "https://www.mediafire.com/file/z1ueue0kdoo8cbg/4.XX+PPSA05521+%E2%80%93+EUR+BACKPORT++BY+BADERLINK-[DLPSGAME.COM].zip/file"
+        },
+        {
           "name": "Release 2 Base - Rapidgator",
           "url": "https://rapidgator.net/file/d7fb86cdc98d0f0eda995b5271d7caf4/PAW.Patrol.Grand.Prix.01.000.PPSA05521-PS5.rar.html"
         },
@@ -97871,6 +97923,14 @@
         {
           "name": "EUR 7.xx BackPort 4.xx - Mediafire part 3",
           "url": "https://www.mediafire.com/file/jueygg2dz0vlmsb/[DLPSGAME.COM]-FW+4xx+PPSA06426+The+Invincible+(01.000.000)+backport+files.zip/file"
+        },
+        {
+          "name": "EUR 7.xx BackPort 4.xx - Mediafire part 4",
+          "url": "https://www.mediafire.com/file/r0vjbzeke02iqdy/4XX+PPSA06426+%E2%80%93+EUR+V1.00++The+Invincible++By+BADERLINK-[DLPSGAME.COM].zip/file"
+        },
+        {
+          "name": "EUR 7.xx BackPort 4.xx - Mediafire part 5",
+          "url": "https://www.mediafire.com/file/7sz12im2w39mrj6/5XX+PPSA06426+%E2%80%93+EUR+V1.00++The+Invincible++By+BADERLINK-[DLPSGAME.COM].zip/file"
         },
         {
           "name": "Release 2 Base - Rapidgator",
@@ -99857,6 +99917,14 @@
           "url": "https://www.mediafire.com/file/u5eajhovt1qbc7f/[DLPSGAME.COM]-FW+4xx+PPSA06389+System+Shock+(01.000.000)+backport+files.zip/file"
         },
         {
+          "name": "USA 8.xx BackPort 4.xx - Mediafire part 4",
+          "url": "https://www.mediafire.com/file/8r9lutg37oaaxqb/Backport_4XX+PPSA06389_%E2%80%93_USA_v01_000_System_Shock__By_BADERLINK-[DLPSGAME.COM].zip/file"
+        },
+        {
+          "name": "USA 8.xx BackPort 4.xx - Mediafire part 5",
+          "url": "https://www.mediafire.com/file/3fybg1lwtyya2j3/Backport_5XX+PPSA06389_%E2%80%93_USA_v01_000_System_Shock__By_BADERLINK-[DLPSGAME.COM].zip/file"
+        },
+        {
           "name": "Release 2 Base - Rapidgator",
           "url": "https://rapidgator.net/file/00c85347b1162f97b9504ec7adbf1d86/System.Shock.01.000.PPSA06389-PS5.rar.html"
         },
@@ -99963,6 +100031,14 @@
         {
           "name": "USA 7.xx BackPort 4.xx - Mediafire part 3",
           "url": "https://www.mediafire.com/file/s3gwaivzzr7mbep/[DLPSGAME.COM]-FW_4xx_PPSA18037_Star_Trek_Resurgence_01_000_000_backport_files.zip/file"
+        },
+        {
+          "name": "USA 7.xx BackPort 4.xx - Mediafire part 4",
+          "url": "https://www.mediafire.com/file/8090gfuskbmkbfo/4XX+PPSA18037+%E2%80%93+USA++V1.00++Star+Trek+Resurgence++By+BADERLINK-[DLPSGAME.COM].zip/file"
+        },
+        {
+          "name": "USA 7.xx BackPort 4.xx - Mediafire part 5",
+          "url": "https://www.mediafire.com/file/wohlo6jukiig4if/5XX+PPSA18037+%E2%80%93+USA++V1.00++Star+Trek+Resurgence++By+BADERLINK-[DLPSGAME.COM].zip/file"
         },
         {
           "name": "Release 2 Base - Rapidgator",
@@ -123197,7 +123273,7 @@
           "url": "https://www.rootz.so/d/1F0lIO"
         },
         {
-          "name": "JPN 6.xx BackPort 5.xx - Mediafire",
+          "name": "JPN 6.xx BackPort 4.xx - Mediafire part 5",
           "url": "https://www.mediafire.com/file/zhac92mb5l20kzy/5XX+PPSA11079+%E2%80%93+JPN++v01.007+Ed+0+Zombie+Uprising++By+BADERLINK-[DLPSGAME.COM].zip/file"
         },
         {
@@ -129934,34 +130010,6 @@
           "url": "https://akirabox.com/E1x3AVOjXzyk/file"
         },
         {
-          "name": "USA 10.xx Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/G2MlA2AjMb"
-        },
-        {
-          "name": "USA 10.xx Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/kRnqIA3NEc"
-        },
-        {
-          "name": "USA 10.xx Base - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/QuVW0t76QQ"
-        },
-        {
-          "name": "USA 10.xx Base - Vikingfile part 4",
-          "url": "https://vikingfile.com/f/BqDilrsuYW"
-        },
-        {
-          "name": "USA 10.xx Base - Vikingfile part 5",
-          "url": "https://vikingfile.com/f/dorNZs0AwL"
-        },
-        {
-          "name": "USA 10.xx Base - Vikingfile part 6",
-          "url": "https://vikingfile.com/f/nE7QRfahzV"
-        },
-        {
-          "name": "USA 10.xx Base - Vikingfile part 7",
-          "url": "https://vikingfile.com/f/ymyFBAIYB4"
-        },
-        {
           "name": "USA 10.xx Base - Rootz part 2",
           "url": "https://www.rootz.so/d/11ZfQu"
         },
@@ -129988,6 +130036,30 @@
         {
           "name": "USA 10.xx Base - Rootz part 8",
           "url": "https://rootz.so/d/xXoZM"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/G2MlA2AjMb"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/kRnqIA3NEc"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/QuVW0t76QQ"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/BqDilrsuYW"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/dorNZs0AwL"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/nE7QRfahzV"
         },
         {
           "name": "USA 10.xx BackPort 4.xx - Mediafire part 1",
@@ -133338,30 +133410,6 @@
           "url": "https://akirabox.com/obj3j7ORAzDx/file"
         },
         {
-          "name": "USA 4.xx Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/4qBnmRLZKV"
-        },
-        {
-          "name": "USA 4.xx Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/xV90RXmF5w"
-        },
-        {
-          "name": "USA 4.xx Base - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/TLglG8HxoR"
-        },
-        {
-          "name": "USA 4.xx Base - Vikingfile part 4",
-          "url": "https://vikingfile.com/f/KzPKeOkpRP"
-        },
-        {
-          "name": "USA 4.xx Base - Vikingfile part 5",
-          "url": "https://vikingfile.com/f/cJrwBNromX"
-        },
-        {
-          "name": "USA 4.xx Base - Vikingfile part 6",
-          "url": "https://vikingfile.com/f/FOjotURYP3"
-        },
-        {
           "name": "USA 4.xx Base - Rootz part 1",
           "url": "https://www.rootz.so/d/1b9Gr2"
         },
@@ -133408,6 +133456,26 @@
         {
           "name": "USA 4.xx Base - 1fichier part 10",
           "url": "https://1fichier.com/?34d8zd5d32rss8igqmp1"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/4qBnmRLZKV"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/xV90RXmF5w"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/TLglG8HxoR"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/KzPKeOkpRP"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/cJrwBNromX"
         }
       ]
     },
@@ -142468,16 +142536,40 @@
       "downloadSource": "https://dlpsgame.com/grand-theft-auto-san-andreas-the-definitive-edition-ps5/",
       "downloadLinks": [
         {
-          "name": "USA Base - Akirabox",
+          "name": "USA Base - Akirabox part 1",
           "url": "https://akirabox.com/qw1zekoVmXyn/file"
         },
         {
-          "name": "USA Base - Vikingfile",
+          "name": "USA Base - Vikingfile part 1",
           "url": "https://vikingfile.com/f/Z9jaRtaDvE"
         },
         {
           "name": "USA Base - 1fichier",
           "url": "https://1fichier.com/?pwk1opcyyd5em1bkcgnc&af=4186346"
+        },
+        {
+          "name": "USA Base - Akirabox part 2",
+          "url": "https://akirabox.to/E9Qz96J90GOL/file"
+        },
+        {
+          "name": "USA Base - Akirabox part 3",
+          "url": "https://akirabox.to/LK0G1XDr4z91/file"
+        },
+        {
+          "name": "USA Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/AbtCKp9IMi"
+        },
+        {
+          "name": "USA Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/rtx63mnk3w"
+        },
+        {
+          "name": "USA Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1QJRZo"
+        },
+        {
+          "name": "USA Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/Lgubg"
         },
         {
           "name": "Release 2 Base - Akirabox part 1",
@@ -144146,6 +144238,35 @@
         {
           "name": "USA exFAT 01.004 Base - Vault (exFAT)",
           "url": "https://datavaults.co/6qmhde3tm198"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA23566",
+      "title": "[exFAT] EA SPORTS UFC 6 Ultimate Edition",
+      "createdAt": "2026-11-13T12:39:23.280Z",
+      "version": "01.005",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e802bd09345a740a158e70d2bb11b4c5a42493e4cce2d7b3759620b851b7c655",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/7450b3213f5afb175d42de366333e0c9f84015f2c111f0c6015979e907a36f47",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.005 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.005 Base - DataNodes",
+          "url": "https://datanodes.to/fwzpbwn3dbm3/PPSA23566.7z"
+        },
+        {
+          "name": "EUR exFAT 01.005 Base - FileKeeper",
+          "url": "https://filekeeper.net/si5mb0gdqxny/PPSA23566.7z"
+        },
+        {
+          "name": "EUR exFAT 01.005 Base - Akirabox",
+          "url": "https://akirabox.to/gXeGOb0NazAa/file"
+        },
+        {
+          "name": "EUR exFAT 01.005 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/6QIDSRI6uh"
         }
       ]
     },

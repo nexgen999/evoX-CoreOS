@@ -1,5 +1,5 @@
 {
-    "updated_at": "2026-11-13T05:22:52.256645",
+    "updated_at": "2026-11-13T14:14:23.724097",
     "packs": [
         {
             "filename": "PS5_apps_aio_part1_latest.zip",
@@ -29,7 +29,7 @@
             "filename": "PS5_payloads_aio_latest.zip",
             "display_name": "PS5 PAYLOADS AIO",
             "pack_type": "payloads",
-            "size_bytes": 416329570,
+            "size_bytes": 416329561,
             "size_mb": 397.04,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_payloads_aio_latest.zip"
         },
@@ -85,23 +85,23 @@
             "filename": "PS5_ultimate_pack_part14_latest.zip",
             "display_name": "PS5 ULTIMATE PACK PART14",
             "pack_type": "ultimate",
-            "size_bytes": 1249676881,
-            "size_mb": 1191.78,
+            "size_bytes": 1249910285,
+            "size_mb": 1192.01,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part14_latest.zip"
         },
         {
             "filename": "PS5_ultimate_pack_part15_latest.zip",
             "display_name": "PS5 ULTIMATE PACK PART15",
             "pack_type": "ultimate",
-            "size_bytes": 780803684,
-            "size_mb": 744.63,
+            "size_bytes": 780808727,
+            "size_mb": 744.64,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part15_latest.zip"
         },
         {
             "filename": "PS5_ultimate_pack_part1_latest.zip",
             "display_name": "PS5 ULTIMATE PACK PART1",
             "pack_type": "ultimate",
-            "size_bytes": 955250297,
+            "size_bytes": 955250288,
             "size_mb": 911.0,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/PS5_ultimate_pack_part1_latest.zip"
         },
@@ -205,8 +205,8 @@
             "filename": "prosperostore-app_aio_part5_latest.zip",
             "display_name": "PROSPEROSTORE-APP AIO PART5",
             "pack_type": "homebrew_page",
-            "size_bytes": 1320357074,
-            "size_mb": 1259.19,
+            "size_bytes": 1320595521,
+            "size_mb": 1259.42,
             "url": "https://github.com/nexgen999/evoX-CoreOS/releases/download/latest/prosperostore-app_aio_part5_latest.zip"
         },
         {
