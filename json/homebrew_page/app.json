@@ -18,15 +18,15 @@
     {
       "name": "PS5Term",
       "filename": "FAKE99260.zip",
-      "url": "https://github.com/phantomptr/ps5term/releases/download/00.001.004/PS5Term-00.001.004.zip",
-      "local_path": "downloads/apps/homebrew_page/app/FAKE99260/00.001.004/FAKE99260.zip",
+      "url": "https://github.com/phantomptr/ps5term/releases/download/00.001.005/PS5Term-00.001.005.zip",
+      "local_path": "downloads/apps/homebrew_page/app/FAKE99260/00.001.005/FAKE99260.zip",
       "description": "Terminal for jailbroken PS5: a built-in shell, SSH and SFTP, optional Alpine or Ubuntu Linux, and PS5 programs. Controller, keyboard or mouse.",
-      "version": "00.001.004",
+      "version": "00.001.005",
       "category": "Apps",
       "kind": "app",
       "titleid": "FAKE99260",
       "author": "phantomptr",
-      "checksum": "f8099c1f98ee62f63e8ad51595358c65bcf1fcfffc0e5704da7dba6dcceb2122",
+      "checksum": "148c7327d84a742c3da6596eb5f0b35932b42f8a90e1ecc6fea1b4acc464e96a",
       "source": "https://github.com/phantomptr/ps5term"
     },
     {
@@ -396,15 +396,15 @@
     {
       "name": "MKWII Retro Rewind Patcher",
       "filename": "PPSA97531.zip",
-      "url": "https://github.com/melvindevries/Retro-Rewind-PS5-Patcher/releases/download/01.000.003/PPSA97531.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA97531/01.000.003/PPSA97531.zip",
+      "url": "https://github.com/melvindevries/Retro-Rewind-PS5-Patcher/releases/download/01.000.004/PPSA97531.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA97531/01.000.004/PPSA97531.zip",
       "description": "Installs and updates Retro Rewind and patches your own Mario Kart Wii image directly on the console, with a controller.",
-      "version": "01.000.003",
+      "version": "01.000.004",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA97531",
       "author": "Melvin de Vries",
-      "checksum": "08ac5e372c097f0572b5dd35abd0c1d08c933dc45e981daeb615a4c252054eb5",
+      "checksum": "0308a44c2f441f15fd743657c7fc68e0bef5af4b903190f360d1efc3f2d65fcc",
       "source": "https://github.com/melvindevries/Retro-Rewind-PS5-Patcher"
     },
     {
@@ -886,15 +886,15 @@
     {
       "name": "OGBox",
       "filename": "PPSA99251.zip",
-      "url": "https://github.com/Press5elect/OGBox/releases/download/v1.0.0/OGBox-v1.0.0.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99251/1.0.0/PPSA99251.zip",
+      "url": "https://github.com/Press5elect/OGBox/releases/download/v1.0.1/OGBox-v1.0.1.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99251/1.0.1/PPSA99251.zip",
       "description": "XBOX emulator for PS5",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99251",
       "author": "Press5elect",
-      "checksum": "f332e696bb5cf810dd46f9b56a67a18660eedceca1999fbd01ed2d8d9cd902e3",
+      "checksum": "f0fc19c55bf7d1c0213cd9d1c485ec981729bb1c96a15bd9af9a05a55529a2fc",
       "source": "https://github.com/Press5elect/OGBox"
     },
     {
@@ -928,15 +928,15 @@
     {
       "name": "Nuvio Max'd",
       "filename": "PPSA99288.zip",
-      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.22-native-experimental/PPSA99288.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.22-native-experimental/PPSA99288.zip",
-      "description": "Experimental Nuvio Max'd for PS5 with an optional privileged USB playlist reader for sandbox access failures (unconfirmed fix), private mount diagnostics, profiles, IPTV and media servers.",
-      "version": "1.0.0.22-native-experimental",
+      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.24-native-experimental/PPSA99288.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.24-native-experimental/PPSA99288.zip",
+      "description": "Experimental PS5 media app with profiles, IPTV, media servers and an optional privileged USB reader. Updated playback/network/text dependencies need console confirmation.",
+      "version": "1.0.0.24-native-experimental",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99288",
       "author": "HandshakeHackin",
-      "checksum": "bf5670b71b7d439057919d0d5d7abe54820b793721c65e08dca294969e2e5077",
+      "checksum": "100329ceff6f576a9c122e7441535328dffa7df5ce75bd8758f237b5179f18fb",
       "source": "https://github.com/HandshakeHackin/Nuvio-maxd-releases"
     },
     {

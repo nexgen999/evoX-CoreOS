@@ -3,6 +3,210 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA26679",
+      "title": "NINJA GAIDEN 2 Black",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "01.003.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/49f5383d33db017c9793e36836ac2488da4afc257aa682596601a0cbb2f30198",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/1c56fc01dad3da1b0ed992edd20be981ab0c9ca17c5c5f3453101048e6a44913",
+      "description": "Format: zstd\n伝説の刀“龍剣”を継承した忍者のリュウ・ハヤブサとなり、世界各地で戦いに挑むハイスピード忍者アクションが好評を博した一作が、15年の時を経てグラフィックリマスターでよみがえる！ ①『NINJA GAIDEN 2』の世界をリッチなビジュアル表現でリマスター！ ステージ、キャラクター、エフェクトとライティングを一新し、リアリティ溢れるビジュアル表現でリマスター。 ゲームエンジン「Unreal Engine 5」を採用した現世代の美しいグラフィックで、 より物語の世界に没入できるように進化しています。 ②最新グラフィック表現でさらに進化した、ハイスピード×バイオレンスアクション！ 肢体の欠損（※）や血などのゴア表現もリマスターされ、アクション体験がさらに進化。 日本刀や手裏剣など忍者らしい武器はもちろん、鎖鎌（くさりがま）やトンファーなど、 多種多様な武器や技を用いた、ハイスピード×バイオレンスアクションが楽しめます。 （※欠損表現は、オプションで表現の有無を切り替えることが可能です） ③追加キャラクターや難易度など、後続の派生作品の追加要素も収録！ 原作以降に発売された派生作品の追加要素も収録しています。 「紅葉」「あやね」「レイチェル」の追加キャラクター3名が操作できるほか、 ピンチのときにオートでサポートしてくれる難易度「最強の忍」も選択可能。どなたでもアクションの楽しさを体験できます。\nRegion: USA\nFirmware: 9.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nCredits: Thank you, MaggieRed79!\nUpdated: 2026-11-13T14:25:46.399Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Gofile",
+          "url": "https://gofile.io/d/sJ1RkNZW"
+        },
+        {
+          "name": "zstd · Data - pt.1",
+          "url": "https://datanodes.to/fdccs23hzsr9"
+        },
+        {
+          "name": "zstd · Data - pt.2",
+          "url": "https://datanodes.to/8gs07paym3ad"
+        },
+        {
+          "name": "zstd · Data - pt.3",
+          "url": "https://datanodes.to/t1niw1jq8p4h"
+        },
+        {
+          "name": "zstd · Data - pt.4",
+          "url": "https://datanodes.to/exp8vv0kxm5k"
+        },
+        {
+          "name": "zstd · Data - pt.5",
+          "url": "https://datanodes.to/mxr4bv7exg2r"
+        },
+        {
+          "name": "zstd · Data - pt.6",
+          "url": "https://datanodes.to/h6m4oqz6pp15"
+        },
+        {
+          "name": "zstd · Data - pt.7",
+          "url": "https://datanodes.to/zyj552x50n98"
+        },
+        {
+          "name": "zstd · Data - pt.8",
+          "url": "https://datanodes.to/0ra0lkrivsqy"
+        },
+        {
+          "name": "zstd · Data - pt.9",
+          "url": "https://datanodes.to/7jr1ekg6a1ak"
+        },
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/595wC15JUo"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/W1nhRfazvi"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/oOG2ebpvnQ"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/5tcyrbR3Hr"
+        },
+        {
+          "name": "zstd · Viki - pt.5",
+          "url": "https://vikingfile.com/f/YHaEp6XXcw"
+        },
+        {
+          "name": "zstd · Viki - pt.6",
+          "url": "https://vikingfile.com/f/2ItCYa66v0"
+        },
+        {
+          "name": "zstd · Viki - pt.7",
+          "url": "https://vikingfile.com/f/tpmKPw8vtv"
+        },
+        {
+          "name": "zstd · Viki - pt.8",
+          "url": "https://vikingfile.com/f/cQnC3F33Z0"
+        },
+        {
+          "name": "zstd · Viki - pt.9",
+          "url": "https://vikingfile.com/f/VcJ8BGS2Ax"
+        }
+      ],
+      "sizeBytes": 92889405194
+    },
+    {
+      "titleId": "PPSA15304",
+      "title": "METAL GEAR SOLID Δ: SNAKE EATER",
+      "createdAt": "2026-11-13T14:51:23.746Z",
+      "version": "01.002.004",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/71960ecb9af9651fefa5fac29d468cc4d402704bdc6e197b3f87f988b77f6bab",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/ca00bc16aaa3998f7c2c9872286a4ee4cf1318772240d3a09cb57e75085a4350",
+      "description": "Format: zstd\nThe Beginning of it All. A remake of the 2004 game METAL GEAR SOLID 3: SNAKE EATER, with the same gripping story and engrossing world, now with all new graphics and 3D audio that enhance the jungle atmosphere. Get ready for the ultimate survival stealth action experience. Everything you love, and more The story, characters, voice acting, gameplay, and music that made the original a sensation return, remade for modern consoles. This evolutionary leap breathes new life into every cutscene, and rebuilds every corner of the world. Authentic to life portrayals The battle damage system has been upgraded, with the wear and tear of Snake's clothes, as well as bruises and bullet wounds on his body, reflected in real time. Injuries will leave their mark on Snake's body permanently, telling a story of each player's unique journey through the game. Deeply immersive experiences Players can elect for a newly added, more modern control style. These intuitive controls let you focus entirely on the game, and the immersive thrills of the survival stealth experience. You can also choose to play with a classic control style that more closely recreates the feel of the original game. Additional Game Modes: ・SNAKE VS MONKEY In this mode, you'll play as Snake, and round up all the escaped apes running amok in each stage! ・FOX HUNT An all-new online multiplayer mode, set in the same world as the main story. This new mode makes use of stealth and survival elements to deliver exciting hide-and-seek-style back-and-forth gameplay. ・Secret Theater Find 8mm film canisters, secretly carried by enemy soldiers, to unlock these humorous takes on certain scenes. You can find scenes from the original Secret Theater, as well as newly created videos. *Secret Theater will be unlocked after finishing the game. *Film canisters carried by soldiers can be collected during initial playthrough. ・GUY SAVAGE Δ The \"Guy Savage\" nightmare game returns in a fully reimagined version that captures the essence of the original while providing a fresh new look from PlatinumGames. Trigger the nightmare sequence during gameplay or clear the entire story mode to unlock it as a bonus mode. *GUY SAVAGE Δ will be unlocked after finishing the game. *A Digital Deluxe Edition of the game is also available, listed separately. Please take care to avoid unintended duplicate transactions.\nRegion: USA\nFirmware: 8.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and Emu updates in shadowmount!\nCredits: High-Speed007 for the dump, PIPPO for the emu dlc, and MaggieRed79 for the ZSTD!\nUpdated: 2026-11-13T13:52:38.399Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Gofile",
+          "url": "https://gofile.io/d/CxdDLuEN"
+        },
+        {
+          "name": "zstd · Data - pt.1",
+          "url": "https://datanodes.to/iq2od54bahgb"
+        },
+        {
+          "name": "zstd · Data - pt.2",
+          "url": "https://datanodes.to/3jlt0g3c4npb"
+        },
+        {
+          "name": "zstd · Data - pt.3",
+          "url": "https://datanodes.to/smhwg2iq2d1p"
+        },
+        {
+          "name": "zstd · Data - pt.4",
+          "url": "https://datanodes.to/4r62nue5rq54"
+        },
+        {
+          "name": "zstd · Data - pt.5",
+          "url": "https://datanodes.to/0b2ld326mkkr"
+        },
+        {
+          "name": "zstd · Data - pt.6",
+          "url": "https://datanodes.to/btldak9jbf44"
+        },
+        {
+          "name": "zstd · Data - pt.7",
+          "url": "https://datanodes.to/1wlukj9fd4wg"
+        },
+        {
+          "name": "zstd · Data - pt.8",
+          "url": "https://datanodes.to/7fxodi0vmac5"
+        },
+        {
+          "name": "zstd · Data - pt.9",
+          "url": "https://datanodes.to/kxuixy6rn3c2"
+        },
+        {
+          "name": "zstd · Data - pt.10",
+          "url": "https://datanodes.to/76v6682qk1sl"
+        },
+        {
+          "name": "zstd · Data - pt.11",
+          "url": "https://datanodes.to/1rp6atebdci3"
+        },
+        {
+          "name": "zstd · Data - pt.12",
+          "url": "https://datanodes.to/dvzqnvsc6u79"
+        },
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/1OQ5WKEWYG"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/H3AbPCP5ij"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/72x0v47cIP"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/eWo2COcdz2"
+        },
+        {
+          "name": "zstd · Viki - pt.5",
+          "url": "https://vikingfile.com/f/sVYBx35KC3"
+        },
+        {
+          "name": "zstd · Viki - pt.6",
+          "url": "https://vikingfile.com/f/cKk3M3eMFz"
+        },
+        {
+          "name": "zstd · Viki - pt.7",
+          "url": "https://vikingfile.com/f/vmlpyZ9mbP"
+        },
+        {
+          "name": "zstd · Viki - pt.8",
+          "url": "https://vikingfile.com/f/siYCkspVF9"
+        },
+        {
+          "name": "zstd · Viki - pt.9",
+          "url": "https://vikingfile.com/f/82zS2zPxRh"
+        },
+        {
+          "name": "zstd · Viki - pt.10",
+          "url": "https://vikingfile.com/f/NZ1D7hiFCm"
+        },
+        {
+          "name": "zstd · Viki - pt.11",
+          "url": "https://vikingfile.com/f/23Xu7quEmn"
+        },
+        {
+          "name": "zstd · Viki - pt.12",
+          "url": "https://vikingfile.com/f/47LTcAYyVm"
+        }
+      ],
+      "sizeBytes": 125488206971
+    },
+    {
       "titleId": "PPSA08329 & PPSA08330",
       "title": "God of War Ragnarok",
       "createdAt": "2026-11-13T13:50:24.664Z",

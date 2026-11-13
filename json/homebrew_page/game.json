@@ -662,15 +662,15 @@
     {
       "name": "reUndr 2 (NFS: Underground 2)",
       "filename": "PPSA99027.zip",
-      "url": "https://github.com/bystritskiy/reUndr2-ps5/releases/download/01.001.000/PPSA99027-01.001.000.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99027/01.001.000/PPSA99027.zip",
+      "url": "https://github.com/bystritskiy/reUndr2-ps5/releases/download/01.002.000/PPSA99027-01.002.000.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99027/01.002.000/PPSA99027.zip",
       "description": "Need for Speed: Underground 2, the Xbox version recompiled to run natively on PS5, in 4K at up to 60 fps. Bring your own disc.",
-      "version": "01.001.000",
+      "version": "01.002.000",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99027",
       "author": "bystritskiy",
-      "checksum": "6223d3d95f45d9d8710c3a17d788d2f8de47286800f810624417e6c0dc8c3120",
+      "checksum": "3744f9f80819746724fd80fe54b86f2b542146d6284f055073199bf800e381ce",
       "source": "https://github.com/bystritskiy/reUndr2-ps5"
     },
     {
@@ -704,15 +704,15 @@
     {
       "name": "BattleShip Remix",
       "filename": "PPSA99264.zip",
-      "url": "https://github.com/lucasliet/BattleShip-remix/releases/download/v2.0.1-port.11/BattleShip-Remix-ps5-PPSA99264.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99264/v2.0.1-port.11/PPSA99264.zip",
+      "url": "https://github.com/lucasliet/BattleShip-remix/releases/download/v2.0.1-port.12/BattleShip-Remix-ps5-PPSA99264.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99264/v2.0.1-port.12/PPSA99264.zip",
       "description": "Native PS5 port of Smash Remix, the Super Smash Bros. 64 mod, built on the SSB64 decompilation and libultraship. Bring your own Smash Remix ROM.",
-      "version": "v2.0.1-port.11",
+      "version": "v2.0.1-port.12",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99264",
       "author": "Lucas Oliveira",
-      "checksum": "a0c28abaa076d2ad4513dd566457f2e50b9e13aa0a21b3809c2a246370858719",
+      "checksum": "8e07b9030e939c818935ccc9973952721be63f60c9956d84830cb754fe9c378f",
       "source": "https://github.com/lucasliet/BattleShip-remix"
     },
     {

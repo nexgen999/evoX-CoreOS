@@ -540,9 +540,9 @@
     </item>
     <item>
       <title>Orbit Store</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.8.5/orbit_store.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.9.0/orbit_store.elf</link>
       <description>A modern, no-BS download manager for PS5.</description>
-      <pubDate>v1.8.5</pubDate>
+      <pubDate>v1.9.0</pubDate>
     </item>
     <item>
       <title>Ps5-Game-Compressor V1.0.4</title>
@@ -651,6 +651,12 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/airpsx/0.19/airpsx_v0.19.elf</link>
       <description>AirPSX server tool for PS5 ecosystem.</description>
       <pubDate>0.19</pubDate>
+    </item>
+    <item>
+      <title>Np-Fake-Signin-Ps5</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf</link>
+      <description>Fake activate PS5 without PSN.</description>
+      <pubDate>v1.4</pubDate>
     </item>
     <item>
       <title>Ps5-Custom-Tool-Manager- Vcustom</title>

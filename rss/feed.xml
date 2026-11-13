@@ -540,9 +540,9 @@
     </item>
     <item>
       <title>[Payloads] Orbit Store</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.8.5/orbit_store.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.9.0/orbit_store.elf</link>
       <description>A modern, no-BS download manager for PS5.</description>
-      <pubDate>v1.8.5</pubDate>
+      <pubDate>v1.9.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-Game-Compressor V1.0.4</title>
@@ -651,6 +651,12 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/airpsx/0.19/airpsx_v0.19.elf</link>
       <description>AirPSX server tool for PS5 ecosystem.</description>
       <pubDate>0.19</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Np-Fake-Signin-Ps5</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf</link>
+      <description>Fake activate PS5 without PSN.</description>
+      <pubDate>v1.4</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-Custom-Tool-Manager- Vcustom</title>
@@ -1142,7 +1148,7 @@
       <title>[ProsperoStore] PS5Term</title>
       <link>https://github.com/phantomptr/ps5term</link>
       <description>Terminal for jailbroken PS5: a built-in shell, SSH and SFTP, optional Alpine or Ubuntu Linux, and PS5 programs. Controller, keyboard or mouse.</description>
-      <pubDate>00.001.004</pubDate>
+      <pubDate>00.001.005</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Forgotten Warrior Remastered</title>
@@ -1532,7 +1538,7 @@
       <title>[ProsperoStore] MKWII Retro Rewind Patcher</title>
       <link>https://github.com/melvindevries/Retro-Rewind-PS5-Patcher</link>
       <description>Installs and updates Retro Rewind and patches your own Mario Kart Wii image directly on the console, with a controller.</description>
-      <pubDate>01.000.003</pubDate>
+      <pubDate>01.000.004</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PokeMMO Prospero</title>
@@ -1670,7 +1676,7 @@
       <title>[ProsperoStore] reUndr 2 (NFS: Underground 2)</title>
       <link>https://github.com/bystritskiy/reUndr2-ps5</link>
       <description>Need for Speed: Underground 2, the Xbox version recompiled to run natively on PS5, in 4K at up to 60 fps. Bring your own disc.</description>
-      <pubDate>01.001.000</pubDate>
+      <pubDate>01.002.000</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Forever Launcher</title>
@@ -1832,7 +1838,7 @@
       <title>[ProsperoStore] OGBox</title>
       <link>https://github.com/Press5elect/OGBox</link>
       <description>XBOX emulator for PS5</description>
-      <pubDate>1.0.0</pubDate>
+      <pubDate>1.0.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PS5 Browser</title>
@@ -1844,7 +1850,7 @@
       <title>[ProsperoStore] BattleShip Remix</title>
       <link>https://github.com/lucasliet/BattleShip-remix</link>
       <description>Native PS5 port of Smash Remix, the Super Smash Bros. 64 mod, built on the SSB64 decompilation and libultraship. Bring your own Smash Remix ROM.</description>
-      <pubDate>v2.0.1-port.11</pubDate>
+      <pubDate>v2.0.1-port.12</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Prospero Hi-Fi</title>
@@ -1855,8 +1861,8 @@
     <item>
       <title>[ProsperoStore] Nuvio Max'd</title>
       <link>https://github.com/HandshakeHackin/Nuvio-maxd-releases</link>
-      <description>Experimental Nuvio Max'd for PS5 with an optional privileged USB playlist reader for sandbox access failures (unconfirmed fix), private mount diagnostics, profiles, IPTV and media servers.</description>
-      <pubDate>1.0.0.22-native-experimental</pubDate>
+      <description>Experimental PS5 media app with profiles, IPTV, media servers and an optional privileged USB reader. Updated playback/network/text dependencies need console confirmation.</description>
+      <pubDate>1.0.0.24-native-experimental</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Spider-Man: Edge of Time</title>

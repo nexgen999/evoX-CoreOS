@@ -1,5 +1,17 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 13/11/2026 à 23:40
+* **PAYLOADS**
+  * `Orbit Store` (v1.9.0) - *Mise à jour (Précédent: v1.8.5)*
+  * `Np-Fake-Signin-Ps5` (v1.4) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `PS5Term` (00.001.005) - *Mise à jour (Précédent: 00.001.004)*
+  * `MKWII Retro Rewind Patcher` (01.000.004) - *Mise à jour (Précédent: 01.000.003)*
+  * `reUndr 2 (NFS: Underground 2)` (01.002.000) - *Mise à jour (Précédent: 01.001.000)*
+  * `OGBox` (1.0.1) - *Mise à jour (Précédent: 1.0.0)*
+  * `BattleShip Remix` (v2.0.1-port.12) - *Mise à jour (Précédent: v2.0.1-port.11)*
+  * `Nuvio Max'd` (1.0.0.24-native-experimental) - *Mise à jour (Précédent: 1.0.0.22-native-experimental)*
+
 ## Build du 13/11/2026 à 14:14
 * **PAYLOADS**
   * `Pad2C V2.0.0` (v2.0.0) - *Nouveau*
