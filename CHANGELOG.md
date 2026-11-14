@@ -1,5 +1,14 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 14/11/2026 à 13:24
+* **HOMEBREW_PAGE**
+  * `SpeedBreaker (NFS: Most Wanted)` (01.000.004) - *Mise à jour (Précédent: 01.000.003)*
+  * `wiliwili` (1.6.0.7) - *Mise à jour (Précédent: 1.6.0.6)*
+  * `Halo: Combat Evolved` (build-142) - *Mise à jour (Précédent: build-141)*
+  * `PS5SD` (1.2.1) - *Mise à jour (Précédent: 1.1.1)*
+  * `PSBox Cloud Gaming` (1.7.2) - *Mise à jour (Précédent: 1.7.1)*
+  * `ProsperoCraft` (01.000.281) - *Mise à jour (Précédent: 01.000.279)*
+
 ## Build du 14/11/2026 à 05:13
 * **HOMEBREW_PAGE**
   * `Cyberworld Endless` (0.21.2) - *Mise à jour (Précédent: 0.21.0)*

@@ -3,6 +3,206 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA31246",
+      "title": "RESIDENT EVIL requiem Deluxe Edition",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "v01.310",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/87f178b9f65cc49358d41980dc0fabeb6448cfea8d2a5ddc22e8cf6eb18018e7",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/676eb71886fbbc1f917ef4a4a1f10df2e8905b8f85932c00940de39120a55f1c",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA31246, v01.310, EUR, 4.xx BackPort\nSize: 133GB\nCredits: Files: dunaevnick; Backport: DecKerr97 GUI; DLC: dunaevnick\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/50xvktcjim7x/DLCs_dunaevnick.rar"
+        },
+        {
+          "name": "DLC - AkiraBox",
+          "url": "https://akirabox.to/E9Qz9Av1bzOL/file"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/npv2pp25tc05/PPSA31246.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/ejlzy0u1lrpv/PPSA31246.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/l76mZ962ZGan/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/NHG583YHmG"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/E1x3AZdaRzyk/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/i0UsKKt2BJ"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/j889gbkx9l0f/PPSA31246-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/evqjzk0dtv1e/PPSA31246-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 142807662592
+    },
+    {
+      "titleId": "PPSA28608",
+      "title": "Darwins Paradox",
+      "createdAt": "2026-11-14T11:19:04.334Z",
+      "version": "v01.000.003",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/09a7dbcd144a37ff6d5ccad26b84d9dc78ba38f895e8d2b2b32ec03a2773589d",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/f44c4f09e02e860ce852b41d8bbc52cb125f496e5889c63bb74d1228d6609f24",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA28608, v01.000.003, EUR, 4.xx BackPort\nSize: 17GB\nCredits: Files: Scene; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/5d6hwi8am726/PPSA28608.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/d7e1ihb79dz8/PPSA28608.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/l5YzMl1183yO/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/Hb3wZEl1V1"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/1RgzR0VV8mbp/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/Awdv1bojCe"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/9wb5ekimttqt/PPSA28608-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/1llbdnf2el94/PPSA28608-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 18253611008
+    },
+    {
+      "titleId": "PPSA19411",
+      "title": "Tainted Grail Fall of Avalon Excalibur Edition",
+      "createdAt": "2026-11-14T11:19:04.334Z",
+      "version": "v01.025",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/8410342f75a980aded7a936a08ce3292c4c59f63ef6b27a436750fadcca7a0ce",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/bf58b8c00e5151193de40f7c7abea85d849c595eede397f78a38607007b93472",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA19411, v01.025, EUR, 4.xx BackPort\nSize: 43GB\nCredits: Files: SHA3X2; Backport: SHA3X2; DLC: Pkykzhack\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 4.xx, BackPort already included. About FPKG: BackPort already included on Base.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://datanodes.to/3vftzbi0txp0/DLCs_Pkykzhack.rar"
+        },
+        {
+          "name": "DLC - AkiraBox",
+          "url": "https://akirabox.to/2bJG8lKp5GOB/file"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/zu1x1oylz52g/PPSA19411.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/8qhp0j9u2qxg/PPSA19411.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/LK0G1aqqZG91/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/wV1LHfqYqx"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/E9Qz9AvvDzOL/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/fQhqBlPG0z"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/d6v68xwnumez/PPSA19411-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/312r48juubzf/PPSA19411-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 46170898432
+    },
+    {
+      "titleId": "PPSA14322",
+      "title": "Patapon 3",
+      "createdAt": "2026-11-14T11:19:04.334Z",
+      "version": "v01.000.003",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/ab9c8b63e6ba25ee9ff7c1d3d63598d02171701bbfdd95d3b18d5d10c9752be8",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/a56a16111346a936e3dedbac538b698a46ff2a8cf82b451cb0efba53d08b02ef",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA14322, v01.000.003, USA, 4.xx BackPort\nSize: 2GB\nCredits: Files: dunaevnick; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 9.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/3r4b4js7zotx/PPSA14322.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/sv867rhdb8tf/PPSA14322.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/k0emb9xx9GVb/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/WWFmkiPJaL"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/0KezkK991zD1/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/gN1hlSzixu"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/83k4kafblbyt/PPSA14322-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/1qyb2w1ytm57/PPSA14322-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 2147483648
+    },
+    {
       "titleId": "PPSA35245",
       "title": "Godzilla Destroy All Monsters Melee Remastered",
       "createdAt": "2026-11-13T11:48:58.638Z",
@@ -11357,48 +11557,6 @@
         }
       ],
       "sizeBytes": 386547056640
-    },
-    {
-      "titleId": "PPSA31246",
-      "title": "Resident Evil Requiem Deluxe Edition",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "version": "v01.200",
-      "category": "game",
-      "posterUrl": "https://pegasus-dl.dev/api/posters/87f178b9f65cc49358d41980dc0fabeb6448cfea8d2a5ddc22e8cf6eb18018e7",
-      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/676eb71886fbbc1f917ef4a4a1f10df2e8905b8f85932c00940de39120a55f1c",
-      "description": "Builds: Fpkg\nTags: PPSA31246, v01.200, EUR, DLCs Merged, 4.xx BackPork\nSize: 123GB\nCredits: Files: DUPLEX; Backport: BestPig; DLC: High-Speed007\nHow to play: FPKG atm is only working up to 11.60, use exFAT if you are above.",
-      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/b5OzdpX14zB8/file"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/8309wmzhalqs"
-        },
-        {
-          "name": "Fpkg - AkiraBox",
-          "url": "https://akirabox.com/EL73g7Bg939B/file"
-        },
-        {
-          "name": "Fpkg - VikingFile",
-          "url": "https://vikingfile.com/f/Ac3J00OVNH"
-        },
-        {
-          "name": "Fpkg - DataNodes",
-          "url": "https://datanodes.to/zzurgb230iai"
-        },
-        {
-          "name": "Fpkg - Filek",
-          "url": "https://filekeeper.net/v71xa9avy0jp"
-        },
-        {
-          "name": "Fpkg - Filed",
-          "url": "https://fileditchfiles.st/balpha21/8170b36d08658a12b664/PPSA31246-Compressed.7z"
-        }
-      ],
-      "sizeBytes": 132070244352
     },
     {
       "titleId": "PPSA28420",

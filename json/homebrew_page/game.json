@@ -410,15 +410,15 @@
     {
       "name": "SpeedBreaker (NFS: Most Wanted)",
       "filename": "PPSA90505.zip",
-      "url": "https://github.com/bystritskiy/speedbreaker-ps5/releases/download/01.000.003/PPSA90505.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA90505/01.000.003/PPSA90505.zip",
+      "url": "https://github.com/bystritskiy/speedbreaker-ps5/releases/download/01.000.004/PPSA90505.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA90505/01.000.004/PPSA90505.zip",
       "description": "Need for Speed: Most Wanted (2005), the Xbox 360 version statically recompiled to run natively on PS5. Bring your own disc.",
-      "version": "01.000.003",
+      "version": "01.000.004",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA90505",
       "author": "bystritskiy",
-      "checksum": "291a6cb479ddd502e2224a03aa7a33aee6ab4edd0410ce84646a2f3c8612738a",
+      "checksum": "e573f69fce53eeeb2d0433d8457005a55565398c2ba57b4a51d0aa3804e8d582",
       "source": "https://github.com/bystritskiy/speedbreaker-ps5"
     },
     {
@@ -984,15 +984,15 @@
     {
       "name": "Halo: Combat Evolved",
       "filename": "PPSA99500.zip",
-      "url": "https://github.com/thelinkin3000/SlipstreamCE/releases/download/build-141/halo-ps5-release.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-141/PPSA99500.zip",
+      "url": "https://github.com/thelinkin3000/SlipstreamCE/releases/download/build-142/halo-ps5-release.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-142/PPSA99500.zip",
       "description": "Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.",
-      "version": "build-141",
+      "version": "build-142",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99500",
       "author": "thelinkin3000",
-      "checksum": "8d3c30201a2cc283955b44ac9a7f3047a9f9beecabfc0fb9a7c73c53302c9298",
+      "checksum": "ff34d2c0647f2717c0ebc60e02cd34819f7a657df1a6a47226505fe31886903a",
       "source": "https://github.com/thelinkin3000/SlipstreamCE"
     },
     {
@@ -1250,15 +1250,15 @@
     {
       "name": "ProsperoCraft",
       "filename": "PPSA99874.zip",
-      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.279/PPSA99874.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.279/PPSA99874.zip",
+      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.281/PPSA99874.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.281/PPSA99874.zip",
       "description": "Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.",
-      "version": "01.000.279",
+      "version": "01.000.281",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99874",
       "author": "mateo-cogeanu",
-      "checksum": "60a354e39a3a11b4bf0a4a4f62cba80220ea961781c846233929122197159cd2",
+      "checksum": "ab92eafe8a1569d90a6a6e26339ec29ba69f149f6bd3e4f3567eeb2215c770a9",
       "source": "https://github.com/mateo-cogeanu/ProsperoCraft"
     },
     {

@@ -760,15 +760,15 @@
         {
             "name": "SpeedBreaker (NFS: Most Wanted)",
             "filename": "PPSA90505.zip",
-            "url": "https://github.com/bystritskiy/speedbreaker-ps5/releases/download/01.000.003/PPSA90505.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA90505/01.000.003/PPSA90505.zip",
+            "url": "https://github.com/bystritskiy/speedbreaker-ps5/releases/download/01.000.004/PPSA90505.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA90505/01.000.004/PPSA90505.zip",
             "description": "Need for Speed: Most Wanted (2005), the Xbox 360 version statically recompiled to run natively on PS5. Bring your own disc.",
-            "version": "01.000.003",
+            "version": "01.000.004",
             "category": "Games",
             "kind": "game",
             "titleid": "PPSA90505",
             "author": "bystritskiy",
-            "checksum": "291a6cb479ddd502e2224a03aa7a33aee6ab4edd0410ce84646a2f3c8612738a",
+            "checksum": "e573f69fce53eeeb2d0433d8457005a55565398c2ba57b4a51d0aa3804e8d582",
             "source": "https://github.com/bystritskiy/speedbreaker-ps5"
         },
         {
@@ -1418,15 +1418,15 @@
         {
             "name": "wiliwili",
             "filename": "PPSA99099.zip",
-            "url": "https://github.com/carlchina/wiliwili/releases/download/v1.6.0.6/wiliwili-PS5-v1.6.0.6.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99099/1.6.0.6/PPSA99099.zip",
+            "url": "https://github.com/carlchina/wiliwili/releases/download/v1.6.0.7/wiliwili-PS5-v1.6.0.7.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99099/1.6.0.7/PPSA99099.zip",
             "description": "Bilibili client for PS5 with 1080P/4K playback, danmaku and DLNA casting.",
-            "version": "1.6.0.6",
+            "version": "1.6.0.7",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99099",
             "author": "xfangfang, carlchina",
-            "checksum": "f45aa1f66205b164da8611cad529480b76e0885ffe0ebf681ef544b6e9a77682",
+            "checksum": "e9a9c2e69863b3f5c5fba207421aabcd32fa2f90f46bb7a3ae5efe68a6f278a4",
             "source": "https://github.com/carlchina/wiliwili"
         },
         {
@@ -2076,15 +2076,15 @@
         {
             "name": "Halo: Combat Evolved",
             "filename": "PPSA99500.zip",
-            "url": "https://github.com/thelinkin3000/SlipstreamCE/releases/download/build-141/halo-ps5-release.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-141/PPSA99500.zip",
+            "url": "https://github.com/thelinkin3000/SlipstreamCE/releases/download/build-142/halo-ps5-release.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA99500/build-142/PPSA99500.zip",
             "description": "Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.",
-            "version": "build-141",
+            "version": "build-142",
             "category": "Games",
             "kind": "game",
             "titleid": "PPSA99500",
             "author": "thelinkin3000",
-            "checksum": "8d3c30201a2cc283955b44ac9a7f3047a9f9beecabfc0fb9a7c73c53302c9298",
+            "checksum": "ff34d2c0647f2717c0ebc60e02cd34819f7a657df1a6a47226505fe31886903a",
             "source": "https://github.com/thelinkin3000/SlipstreamCE"
         },
         {
@@ -2216,15 +2216,15 @@
         {
             "name": "PS5SD",
             "filename": "PPSA99576.zip",
-            "url": "https://github.com/Darkatek7/PS5SD/releases/download/v1.1.1/PPSA99576.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99576/1.1.1/PPSA99576.zip",
+            "url": "https://github.com/Darkatek7/PS5SD/releases/download/v1.2.1/PPSA99576.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99576/1.2.1/PPSA99576.zip",
             "description": "Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.",
-            "version": "1.1.1",
+            "version": "1.2.1",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99576",
             "author": "Darkatek7",
-            "checksum": "c151d8396cec1a2cf53c010780eabd50aa334c447c4b0e33b9f0e52a9830b675",
+            "checksum": "68b3c340edd19c6404253be27a6e494fb161f7adee79f68a8c6c68bdd4373d75",
             "source": "https://github.com/Darkatek7/PS5SD"
         },
         {
@@ -2594,15 +2594,15 @@
         {
             "name": "PSBox Cloud Gaming",
             "filename": "PPSA99810.zip",
-            "url": "https://github.com/RafaelNGP/psbox-cloud-gaming/releases/download/v1.7.1/PPSA99810.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.7.1/PPSA99810.zip",
+            "url": "https://github.com/RafaelNGP/psbox-cloud-gaming/releases/download/v1.7.2/PPSA99810.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.7.2/PPSA99810.zip",
             "description": "Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.",
-            "version": "1.7.1",
+            "version": "1.7.2",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99810",
             "author": "RafaelNGP",
-            "checksum": "ac7ca2da78027af2e29491298ce276a8ad71c3a1b43020f26a7af0a15b49c5b4",
+            "checksum": "6beab05e81beaa90a9027f7386d4370365ec3a5128d3600ddcb62f68c44497ed",
             "source": "https://github.com/RafaelNGP/psbox-cloud-gaming"
         },
         {
@@ -2650,15 +2650,15 @@
         {
             "name": "ProsperoCraft",
             "filename": "PPSA99874.zip",
-            "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.279/PPSA99874.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.279/PPSA99874.zip",
+            "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.281/PPSA99874.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.281/PPSA99874.zip",
             "description": "Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.",
-            "version": "01.000.279",
+            "version": "01.000.281",
             "category": "Games",
             "kind": "game",
             "titleid": "PPSA99874",
             "author": "mateo-cogeanu",
-            "checksum": "60a354e39a3a11b4bf0a4a4f62cba80220ea961781c846233929122197159cd2",
+            "checksum": "ab92eafe8a1569d90a6a6e26339ec29ba69f149f6bd3e4f3567eeb2215c770a9",
             "source": "https://github.com/mateo-cogeanu/ProsperoCraft"
         },
         {

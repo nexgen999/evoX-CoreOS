@@ -332,7 +332,7 @@
       <title>SpeedBreaker (NFS: Most Wanted)</title>
       <link>https://github.com/bystritskiy/speedbreaker-ps5</link>
       <description>Need for Speed: Most Wanted (2005), the Xbox 360 version statically recompiled to run natively on PS5. Bring your own disc.</description>
-      <pubDate>01.000.003</pubDate>
+      <pubDate>01.000.004</pubDate>
     </item>
     <item>
       <title>RecompStore</title>
@@ -614,7 +614,7 @@
       <title>wiliwili</title>
       <link>https://github.com/carlchina/wiliwili</link>
       <description>Bilibili client for PS5 with 1080P/4K playback, danmaku and DLNA casting.</description>
-      <pubDate>1.6.0.6</pubDate>
+      <pubDate>1.6.0.7</pubDate>
     </item>
     <item>
       <title>Codex PS5 - Prototype</title>
@@ -896,7 +896,7 @@
       <title>Halo: Combat Evolved</title>
       <link>https://github.com/thelinkin3000/SlipstreamCE</link>
       <description>Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.</description>
-      <pubDate>build-141</pubDate>
+      <pubDate>build-142</pubDate>
     </item>
     <item>
       <title>Jelly5</title>
@@ -956,7 +956,7 @@
       <title>PS5SD</title>
       <link>https://github.com/Darkatek7/PS5SD</link>
       <description>Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.</description>
-      <pubDate>1.1.1</pubDate>
+      <pubDate>1.2.1</pubDate>
     </item>
     <item>
       <title>PS5MG</title>
@@ -1118,7 +1118,7 @@
       <title>PSBox Cloud Gaming</title>
       <link>https://github.com/RafaelNGP/psbox-cloud-gaming</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
-      <pubDate>1.7.1</pubDate>
+      <pubDate>1.7.2</pubDate>
     </item>
     <item>
       <title>Estante</title>
@@ -1142,7 +1142,7 @@
       <title>ProsperoCraft</title>
       <link>https://github.com/mateo-cogeanu/ProsperoCraft</link>
       <description>Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.</description>
-      <pubDate>01.000.279</pubDate>
+      <pubDate>01.000.281</pubDate>
     </item>
     <item>
       <title>Genesis Plus GX PS5</title>

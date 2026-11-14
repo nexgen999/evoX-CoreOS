@@ -690,15 +690,15 @@
     {
       "name": "wiliwili",
       "filename": "PPSA99099.zip",
-      "url": "https://github.com/carlchina/wiliwili/releases/download/v1.6.0.6/wiliwili-PS5-v1.6.0.6.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99099/1.6.0.6/PPSA99099.zip",
+      "url": "https://github.com/carlchina/wiliwili/releases/download/v1.6.0.7/wiliwili-PS5-v1.6.0.7.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99099/1.6.0.7/PPSA99099.zip",
       "description": "Bilibili client for PS5 with 1080P/4K playback, danmaku and DLNA casting.",
-      "version": "1.6.0.6",
+      "version": "1.6.0.7",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99099",
       "author": "xfangfang, carlchina",
-      "checksum": "f45aa1f66205b164da8611cad529480b76e0885ffe0ebf681ef544b6e9a77682",
+      "checksum": "e9a9c2e69863b3f5c5fba207421aabcd32fa2f90f46bb7a3ae5efe68a6f278a4",
       "source": "https://github.com/carlchina/wiliwili"
     },
     {
@@ -1110,15 +1110,15 @@
     {
       "name": "PS5SD",
       "filename": "PPSA99576.zip",
-      "url": "https://github.com/Darkatek7/PS5SD/releases/download/v1.1.1/PPSA99576.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99576/1.1.1/PPSA99576.zip",
+      "url": "https://github.com/Darkatek7/PS5SD/releases/download/v1.2.1/PPSA99576.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99576/1.2.1/PPSA99576.zip",
       "description": "Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.",
-      "version": "1.1.1",
+      "version": "1.2.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99576",
       "author": "Darkatek7",
-      "checksum": "c151d8396cec1a2cf53c010780eabd50aa334c447c4b0e33b9f0e52a9830b675",
+      "checksum": "68b3c340edd19c6404253be27a6e494fb161f7adee79f68a8c6c68bdd4373d75",
       "source": "https://github.com/Darkatek7/PS5SD"
     },
     {
@@ -1250,15 +1250,15 @@
     {
       "name": "PSBox Cloud Gaming",
       "filename": "PPSA99810.zip",
-      "url": "https://github.com/RafaelNGP/psbox-cloud-gaming/releases/download/v1.7.1/PPSA99810.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.7.1/PPSA99810.zip",
+      "url": "https://github.com/RafaelNGP/psbox-cloud-gaming/releases/download/v1.7.2/PPSA99810.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.7.2/PPSA99810.zip",
       "description": "Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.",
-      "version": "1.7.1",
+      "version": "1.7.2",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99810",
       "author": "RafaelNGP",
-      "checksum": "ac7ca2da78027af2e29491298ce276a8ad71c3a1b43020f26a7af0a15b49c5b4",
+      "checksum": "6beab05e81beaa90a9027f7386d4370365ec3a5128d3600ddcb62f68c44497ed",
       "source": "https://github.com/RafaelNGP/psbox-cloud-gaming"
     },
     {
