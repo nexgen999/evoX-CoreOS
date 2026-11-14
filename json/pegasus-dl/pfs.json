@@ -3,6 +3,584 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA03977",
+      "title": "The Witcher 3: Wildhunt - Complete Edition",
+      "createdAt": "2026-11-14T21:48:29.997Z",
+      "version": "4.040.100",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/d220edf00b19888880cf13d4c71196d1e0c5b41f98be124b40b78831e55be8eb",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/a09ac83fc20f192b81c1216c7c55798c0f85796534877aa4d0518beff9ff5f9d",
+      "description": "Format: zstd\nThe Witcher 3: Wild Hunt — Remastered modernizes the generation-defining RPG with a range of upgrades and enhancements to visuals, performance, gameplay, and more. Become monster slayer for hire Geralt of Rivia and journey across the war-torn Northern Kingdoms to find your adopted daughter, Ciri, before the spectral forces of the Wild Hunt take her incredible power for their own. Included in Remastered are two critically acclaimed expansions — Hearts of Stone and Blood and Wine — to expand the legendary story even further. Explore a Dark Fantasy World — Journey through the war-torn Northern Kingdoms and explore richly detailed regions, from bustling cities to forgotten ancient ruins and superstitious villages. Experience an Unforgettable Story — Traverse the Continent in search of Geralt’s adopted daughter Ciri, the Child of Prophecy, who is being ruthlessly hunted by the spectral Wild Hunt. Master a Witcher’s Arsenal — Embody the White Wolf and show your foes what it means to be a witcher with a variety of swords, potions, bombs, combat magic, and more. Modernized and Upgraded — Refined with an upgraded skill system, revamped combat, improved visuals, and more, Remastered is the definitive way to enjoy this acclaimed RPG. Includes Two Acclaimed Expansions — Discover unforgettable adventures in both Hearts of Stone and Blood and Wine expansions. Travel across the wilds of the Continent and the noble realm of Toussaint as new stories, characters, and choices await.\nRegion: EUR\nFirmware: 5.xx+\nAPR: ampr-emu ng 0.4 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount! It's NOT the remastered version! I couldn't find the cover for the\nUpdated: 2026-11-14T21:30:42.299Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data - pt.1",
+          "url": "https://datanodes.to/honcwnul7wkg"
+        },
+        {
+          "name": "zstd · Data - pt.2",
+          "url": "https://datanodes.to/057ieesvd6mq"
+        },
+        {
+          "name": "zstd · Data - pt.3",
+          "url": "https://datanodes.to/8gi7w4vsswgv"
+        },
+        {
+          "name": "zstd · Data - pt.4",
+          "url": "https://datanodes.to/f85hbff0bfo1"
+        },
+        {
+          "name": "zstd · Data - pt.5",
+          "url": "https://datanodes.to/ko3161b8bfhr"
+        },
+        {
+          "name": "zstd · Data - pt.6",
+          "url": "https://datanodes.to/5y5ofls1b7ku"
+        },
+        {
+          "name": "zstd · Data - pt.7",
+          "url": "https://datanodes.to/vrx7ukuksyms"
+        },
+        {
+          "name": "zstd · Data - pt.8",
+          "url": "https://datanodes.to/hxtny3d8ltms"
+        },
+        {
+          "name": "zstd · Data - pt.9",
+          "url": "https://datanodes.to/hdqy7mkwczt0"
+        },
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/3CXqe2h7S3"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/VJPagOYDs3"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/e3IIwaPP46"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/XYNRATlx6F"
+        },
+        {
+          "name": "zstd · Viki - pt.5",
+          "url": "https://vikingfile.com/f/1teNGOy4G1"
+        },
+        {
+          "name": "zstd · Viki - pt.6",
+          "url": "https://vikingfile.com/f/ETr03ylNTt"
+        },
+        {
+          "name": "zstd · Viki - pt.7",
+          "url": "https://vikingfile.com/f/jTyAnkqAFl"
+        },
+        {
+          "name": "zstd · Viki - pt.8",
+          "url": "https://vikingfile.com/f/kxd0hyR5OA"
+        },
+        {
+          "name": "zstd · Viki - pt.9",
+          "url": "https://vikingfile.com/f/uMRm2jx34z"
+        }
+      ],
+      "sizeBytes": 85899345920
+    },
+    {
+      "titleId": "PPSA05684",
+      "title": "Uncharted Legacy of Thieves",
+      "createdAt": "2026-11-14T21:48:29.997Z",
+      "version": "1.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/92a031653f5fbd8c0467aebe699c4b2cbeba1f4a48fad399da539bb1c90f2622",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/b288f2c44264646b9471d4eb87be448521f8fb3b1c941242ea60dee804166a1c",
+      "description": "Format: zstd\nPlayers who purchased UNCHARTED 4: A Thief’s End, UNCHARTED: The Lost Legacy, or UNCHARTED 4: A Thief’s End &amp; UNCHARTED: The Lost Legacy Digital Bundle have the option to pay $10 USD to upgrade to UNCHARTED: Legacy of Thieves Collection. The upgrade will be available starting at launch on 28 January 2022. Leave your mark on the map in UNCHARTED: Legacy of Thieves Collection. In an experience delivered by award winning developer Naughty Dog, UNCHARTED: Legacy of Thieves Collection includes the two critically acclaimed, single player adventures: UNCHARTED 4: A Thief’s End and UNCHARTED: The Lost Legacy. Discover lost history with the charismatic yet complex thieves, Nathan Drake and Chloe Frazer, as they travel the world with a sense of wonder, pursuing extraordinary adventures and lost lore – remastered in stunning detail for the PS5™ console with improved visuals and frame rate. Unmissable PlayStation®5 console features: • DualSense™ wireless controller features: Feel the action unfold with the DualSense™ wireless controller's haptic feedback through punches, vaults, and vehicular traversal. Experience the tension in rope swings via dynamic adaptive triggers. • Fast loading: Jump back into the adventure quickly with the PS5™ console’s ultra-high speed SSD and near-instant load times. • 3D Audio: Hear the world of UNCHARTED™: Legacy of Thieves Collection come to life around you with 3D Audio.¹ • Fidelity mode: Play in a super sharp native 4K resolution with a 30fps target frame rate.² • Performance mode: Play with a smooth 60fps target frame rate. o 4K TV players will experience a 4K resolution upscaled from a 1440p base resolution. o 1080p HD TV players will experience a 1080p resolution super sampled from a 1440p base with improved anti-aliasing. • Performance+ mode: Play with a high impact 120fps target frame rate³ and a 1080p resolution. Owners of PS4 disc copies must insert them into the PS5 every time they want to download or play the PS5 digital versions. PS4 game disc owners who buy the PS5 Digital Edition disc-free console will not be able to get the PS5 version for the discounted price. PlayStation®Plus members who claimed UNCHARTED 4: A Thief’s End via their PlayStation Plus subscription are not eligible for the $10 digital PS5 upgrade. ¹ 3D Audio via built-in TV speakers (setup and update to the latest system software required) or analogue/USB stereo headphones. ² Requires a 4K compatible TV or display. ³ Requires a compatible 120hz display.\nRegion: EUR\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.4 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nUpdated: 2026-11-14T20:45:22.187Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data - pt.1",
+          "url": "https://datanodes.to/8of2blp1w5sb"
+        },
+        {
+          "name": "zstd · Data - pt.2",
+          "url": "https://datanodes.to/h0qw0bjwqapr"
+        },
+        {
+          "name": "zstd · Data - pt.3",
+          "url": "https://datanodes.to/mvl3kldnau34"
+        },
+        {
+          "name": "zstd · Data - pt.4",
+          "url": "https://datanodes.to/hd80oq42k5oe"
+        },
+        {
+          "name": "zstd · Data - pt.5",
+          "url": "https://datanodes.to/hviokvonsbfw"
+        },
+        {
+          "name": "zstd · Data - pt.6",
+          "url": "https://datanodes.to/ek031q6omeb9"
+        },
+        {
+          "name": "zstd · Data - pt.7",
+          "url": "https://datanodes.to/thr3ufp24n1d"
+        },
+        {
+          "name": "zstd · Data - pt.8",
+          "url": "https://datanodes.to/4glmxqfr8ste"
+        },
+        {
+          "name": "zstd · Data - pt.9",
+          "url": "https://datanodes.to/i8qg7l1fk85p"
+        },
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/B47cJd16R3"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/yT9T0EQoTb"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/JVAAZb2o0C"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/dccAbSgikm"
+        },
+        {
+          "name": "zstd · Viki - pt.5",
+          "url": "https://vikingfile.com/f/CrbNOLmm2P"
+        },
+        {
+          "name": "zstd · Viki - pt.6",
+          "url": "https://vikingfile.com/f/8wp3s0aUvG"
+        },
+        {
+          "name": "zstd · Viki - pt.7",
+          "url": "https://vikingfile.com/f/2mnLZSGYvJ"
+        },
+        {
+          "name": "zstd · Viki - pt.8",
+          "url": "https://vikingfile.com/f/EZN9P6lWKo"
+        },
+        {
+          "name": "zstd · Viki - pt.9",
+          "url": "https://vikingfile.com/f/W0J2yyBzE0"
+        }
+      ],
+      "sizeBytes": 90086939034
+    },
+    {
+      "titleId": "PPSA03396",
+      "title": "The Last of Us Part I",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "2.0",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/8cbe57efde309c82c9a2c0fbb6348ea3ba90fb4a2ea9b908ba0fac7c7f1da2ee",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/0a2ba16b462c6a2f4682e55318f50238ceba2d12e7dde2d7750ae4728ad57719",
+      "description": "Format: zstd\n- Celebrated prequel chapter, Left Behind, which explores the events that changed the lives of Ellie and her best friend Riley forever. Experience the emotional storytelling and unforgettable characters in The Last of Us, winner of over 200 Game of the Year awards, now rebuilt from the ground up for the PlayStation®5 console. In a ravaged civilization, where infected and hardened survivors run rampant, Joel, a weary protagonist, is hired to smuggle 14-year-old Ellie out of a military quarantine zone. However, what starts as a small job soon transforms into a brutal cross-country journey. - Completely rebuilt using Naughty Dog’s latest PS5 engine technology with advanced visual fidelity, fully integrated DualSense™ wireless controller features and more. - A total overhaul of the original experience, faithfully reproduced but incorporating modernized gameplay mechanics, improved controls and expanded accessibility options. - Feel immersed in improved environmental storytelling, effects, facial animations and enhanced exploration and combat.\nRegion: USA\nFirmware: 9.xx+\nAPR: ampr-emu ng 0.4 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nCredits: Thank you, @yared_cf !\nUpdated: 2026-11-14T20:11:50.322Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data - pt.1",
+          "url": "https://datanodes.to/htl3dqp11g3r"
+        },
+        {
+          "name": "zstd · Data - pt.2",
+          "url": "https://datanodes.to/r11vw42unbx9"
+        },
+        {
+          "name": "zstd · Data - pt.3",
+          "url": "https://datanodes.to/atf1mlgnifre"
+        },
+        {
+          "name": "zstd · Data - pt.4",
+          "url": "https://datanodes.to/wse9m4gkkh6x"
+        },
+        {
+          "name": "zstd · Data - pt.5",
+          "url": "https://datanodes.to/ehtd4w7wp0nc"
+        },
+        {
+          "name": "zstd · Data - pt.6",
+          "url": "https://datanodes.to/1i6zhqywthl1"
+        },
+        {
+          "name": "zstd · Data - pt.7",
+          "url": "https://datanodes.to/tuw6j3b5ljyf"
+        },
+        {
+          "name": "zstd · Data - pt.8",
+          "url": "https://datanodes.to/08zz6sfnlcue"
+        },
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/q6lhD9bjE3"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/IjQ1oiHAAN"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/OiiPK7L3MF"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/XP1fxi9rLh"
+        },
+        {
+          "name": "zstd · Viki - pt.5",
+          "url": "https://vikingfile.com/f/LeTFUotL3T"
+        },
+        {
+          "name": "zstd · Viki - pt.6",
+          "url": "https://vikingfile.com/f/03lhCG8RAo"
+        },
+        {
+          "name": "zstd · Viki - pt.7",
+          "url": "https://vikingfile.com/f/ATYI57jPC0"
+        },
+        {
+          "name": "zstd · Viki - pt.8",
+          "url": "https://vikingfile.com/f/dbBskv3Hjn"
+        }
+      ],
+      "sizeBytes": 84396107366
+    },
+    {
+      "titleId": "PPSA34008",
+      "title": "Mortal Shell 2",
+      "createdAt": "2026-11-14T19:46:28.628Z",
+      "version": "1.000.010",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/89651e518a4a78635a7da5e767364d6c099c74f313e84c67f44cc5e3ae3f0bb4",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/0fd132dd754163e9f23773e3b7626d67e52bce0d11e1aaf9bb990251ed0ab9bd",
+      "description": "Format: zstd\nMortal Shell II is a standalone sequel to Mortal Shell that significantly expands on the original with faster and unforgiving combat, deeper weapon design with extensive upgrade options, and an emphasis on free exploration within a compact open-world. The corpses of exceptional warriors are scattered throughout Mortal Shell II’s destroyed world. Once discovered, each warrior can be possessed, awakening their innate strengths and mastered abilities. Evolve your own style of combat by harnessing the unique abilities of each warrior, and unlock their secrets through the discovery of lost memories. Mortal Shell II’s compact open-world connects over winding footpaths guarded by desperate and fanatical adversaries. Players who wander are rewarded with new warriors to possess, additional story elements, powerful and strange weaponry, upgrades, curiosities and more. Step through derelict temples of ancient deities, across forbidden forests and icy graves, into citadels carved out of bone. Scattered between these lost landmarks are more than 80 dungeons, each providing a challenging test of the talents and weaponry you have collected on your journey. You control the Harbinger, a being that must reclaim the Undermether’s stolen eggs that are now ruthlessly guarded by grotesque, dangerous creatures. Mortal Shell II’s combat system is agile and expressive. Stamina gauges are removed, and execution options have been enhanced, delivering a kinetic and chaotic dark power fantasy. Precision meets intensity in high-stakes combat.\nRegion: USA to EUR Langs\nFirmware: 12.xx+\nAPR: ampr-emu ng 0.4 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nCredits: Thank you, @Lineker!\nUpdated: 2026-11-14T19:26:54.046Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data - pt.1",
+          "url": "https://datanodes.to/37mdnmoxu037"
+        },
+        {
+          "name": "zstd · Data - pt.2",
+          "url": "https://datanodes.to/k22azp95tcwi"
+        },
+        {
+          "name": "zstd · Data - pt.3",
+          "url": "https://datanodes.to/btnb6vzzhlkr"
+        },
+        {
+          "name": "zstd · Data - pt.4",
+          "url": "https://datanodes.to/dgv7atjlvwur"
+        },
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/XWUHsQI8hP"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/yfxwAuAp6M"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/kj4KhTTLm8"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/UO7GS5gt4V"
+        }
+      ],
+      "sizeBytes": 34789235098
+    },
+    {
+      "titleId": "PPSA32785",
+      "title": "Nioh 3",
+      "createdAt": "2026-11-14T19:46:28.628Z",
+      "version": "1.040.020",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/148475594fade5028e7372ee631e8dc011cf386cdfc156635431e420951c8b49",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/04671a0d8eb36edcd84968bd02b2c59fd3073a56cd8ec61aa77ac93b5a43b56d",
+      "description": "Format: zstd\nConquer the Crucible, Become Shogun Nioh 3 is the eagerly anticipated continuation of the dark samurai action RPG series Nioh. A deadly struggle unfolds amidst the devastation of an alternate Warring States period where bandits run rampant and yokai skulk about. Key Elements of the Game: • An open field that challenges you to the fullest This game features an open field filled with the sense of tension characteristic of the Nioh series while also allowing you to explore to your heart's content. In this dark samurai world, you will encounter formidable yokai, explore menacing villages where darkness lurks, and struggle against the ominous presence of \"the Crucible.\" • Samurai and Ninja combat styles You can enjoy an instantaneous and seamless switch between two combat styles during battle, facing your enemies head-on with Samurai Style and using quick movements and Ninjutsu techniques with Ninja Style. Note: The product Nioh 3 Digital Deluxe Edition is also being sold. Please confirm that you have selected the correct product before making your purchase. - Demo save data will be automatically carried over upon launching the full game. (The demo save data must be saved on the same device used to play the full game.) - If the full game is started even once and save data is created, you will no longer be able to play the demo. - The demo completion bonus Twin-Snake Helmet, which can be obtained upon completing the demo by February 15, 2026, can also be obtained as a guaranteed item drop upon defeating Jakotsu-baba in the full game by February 15, 2026. Starting February 16, 2026, the item will become a rare drop from Jakotsu-baba.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.4 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nCredits: Thank you, @Lineker!!\nUpdated: 2026-11-14T18:58:33.168Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data - pt.1",
+          "url": "https://datanodes.to/iird65w1celi"
+        },
+        {
+          "name": "zstd · Data - pt.2",
+          "url": "https://datanodes.to/3my8w4prb7mw"
+        },
+        {
+          "name": "zstd · Data - pt.3",
+          "url": "https://datanodes.to/z9kwz3mw8usk"
+        },
+        {
+          "name": "zstd · Data - pt.4",
+          "url": "https://datanodes.to/aghjcqcor4x5"
+        },
+        {
+          "name": "zstd · Data - pt.5",
+          "url": "https://datanodes.to/qwp3s78j5vla"
+        },
+        {
+          "name": "zstd · Data - pt.6",
+          "url": "https://datanodes.to/xlb61l46mwqd"
+        },
+        {
+          "name": "zstd · Data - pt.7",
+          "url": "https://datanodes.to/xnae3yl9p92p"
+        },
+        {
+          "name": "zstd · Data - pt.8",
+          "url": "https://datanodes.to/d9j2clm9d5ps"
+        },
+        {
+          "name": "zstd · Data - pt.9",
+          "url": "https://datanodes.to/6n2nn11t4i29"
+        },
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/jYUWAdyyi9"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/77oWmPlSWd"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/CgC3c127In"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/IpbxFgbkrM"
+        },
+        {
+          "name": "zstd · Viki - pt.5",
+          "url": "https://vikingfile.com/f/LIFShkxHCP"
+        },
+        {
+          "name": "zstd · Viki - pt.6",
+          "url": "https://vikingfile.com/f/CTitCg2tVO"
+        },
+        {
+          "name": "zstd · Viki - pt.7",
+          "url": "https://vikingfile.com/f/XTaWMbY3GW"
+        },
+        {
+          "name": "zstd · Viki - pt.8",
+          "url": "https://vikingfile.com/f/5DmWg7WglZ"
+        },
+        {
+          "name": "zstd · Viki - pt.9",
+          "url": "https://vikingfile.com/f/XIm9FZx9QP"
+        }
+      ],
+      "sizeBytes": 87080461926
+    },
+    {
+      "titleId": "PPSA21159",
+      "title": "Silent hill F",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "1.003",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/899c68629185bbbc6e3b6e5c063b818fad8b0cd0d7ed6169a3332223d259f68b",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/0040891360c173fcb84ecef9ea3bf6db7aea8c471103106750c4f505df342fd1",
+      "description": "Format: zstd\n未練。葛藤。後悔。避けられぬ選択。そして己の罪。 それに向き合えぬ者たちは、深き霧の世界にて彷徨う……。 おぞましき心象風景が具現化した世界とクリーチャーが特徴の、 恐怖と狂気のサイコロジカルホラー「SILENT HILL」シリーズ最新作。 日本を舞台とした新たな“サイコロジカルホラー”が始まる。 ＜あらすじ＞ 昭和の古い時代。とある地方の山間部にある寂れた田舎町、戎ヶ丘に住む高校生、深水雛子（しみず ひなこ）。 彼女の日常は、ぼんやりとした灰色ではあっても、思春期相応の平凡なものだった。 だが、そのいつもの日常は唐突に崩れ去る。 見慣れた町は霧に包まれ、おぞましく変貌していく。 人の気配は消え、代わって、霧の中に奇怪な何かが蠢く。 変貌していく町を探索し、謎を解き、身を守る為に戦い、生き残れ。 向かい合わなければならなかった選択と、向き合う為に。 そして、殺さなければならない者を、殺す為に。 彼女が選ぶのは、美しき選択か。 それとも、おぞましき選択か。 美しくも、おぞましい選択の、物語。\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.4 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nCredits: Thank you, @yared_cf!\nUpdated: 2026-11-14T18:20:17.222Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data - pt.1",
+          "url": "https://datanodes.to/796v1rq1yca4"
+        },
+        {
+          "name": "zstd · Data - pt.2",
+          "url": "https://datanodes.to/wyhzmwpcs2tn"
+        },
+        {
+          "name": "zstd · Data - pt.3",
+          "url": "https://datanodes.to/zpkgq9uxq147"
+        },
+        {
+          "name": "zstd · Data - pt.4",
+          "url": "https://datanodes.to/vunjf735siin"
+        },
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/EWWp7vZIq2"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/GszJfds7RC"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/A9ecXjkwQj"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/GbHErmT50c"
+        }
+      ],
+      "sizeBytes": 38547331482
+    },
+    {
+      "titleId": "PPSA02100",
+      "title": "Stray",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "1.005",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/3904888bf9cc5f0dcfbf91c0084280410bffb84b3d014694f03125e31c2e1d1f",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/8a311c379d440e1ace158b8384d269eaf2e232e2527c4971f7a6f4e772bfb7de",
+      "description": "Format: zstd\nLost, alone and separated from family, a stray cat must untangle an ancient mystery to escape a long-forgotten city. Stray is a third-person cat adventure game set amidst the detailed, neon-lit alleys of a decaying cybercity and the murky environments of its seedy underbelly. Roam surroundings high and low, defend against unforeseen threats and solve the mysteries of this unwelcoming place inhabited by curious droids and dangerous creatures. See the world through the eyes of a cat and interact with the environment in playful ways. Be stealthy, nimble, silly, and sometimes as annoying as possible with the strange inhabitants of this mysterious world. Along the way, the cat befriends a small flying drone, known only as B-12. With the help of this newfound companion, the duo must find a way out. Stray is developed by BlueTwelve Studio, a small team from the south of France mostly made up of cats and a handful of humans.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.4 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nCredits: Thank you, @Yupboiii!\nUpdated: 2026-11-14T18:18:00.845Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data",
+          "url": "https://datanodes.to/dsu93gblutfx"
+        },
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/PuuVNHWgyo"
+        }
+      ],
+      "sizeBytes": 7730941133
+    },
+    {
+      "titleId": "PPSA25258",
+      "title": "NINJA GAIDEN 4",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "01.004",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/d65d6e065330fe39265aeaa163bcb7f6a97d48e13d322966a3c77b1786bf295a",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/4625f2e9aebdb5836186bfa0e7c18e630aa7d075e5a6dd32a954d24b6221bf56",
+      "description": "Format: zstd\nThe definitive ninja hack &amp; slash franchise returns with NINJA GAIDEN 4! Embark on a cutting-edge adventure where legacy meets innovation in this high-octane blend of style and no-holds-barred combat. Return of the Legend Experience a return to the intense, high-speed combat that established NINJA GAIDEN as a premier action game series. Prepare for a legacy reborn with captivating style for a new generation of players. Epic Hack and Slash Combat, Evolved NINJA GAIDEN 4 fuses Team NINJA’s tempered combat philosophy with the stylish, dynamic action gameplay of PlatinumGames. Engage in visually stunning combat that rewards precision and strategy. Use Bloodbind Ninjutsu to transform your weapons and unleash devastation upon your enemies, alongside legacy techniques like the Izuna Drop and Flying Swallow. The legendary Ryu Hayabusa also returns with a revamped yet familiar set of tools to master. With a customizable player experience, NINJA GAIDEN 4 will push action game veterans to their limits while allowing newcomers to enjoy a heart-pounding adventure full of twists and turns. An Ancient Enemy Returns An endless rain of miasma hangs over a near-future Tokyo in the wake of an ancient enemy’s resurrection. The fate of the city lies in the hands of young ninja prodigy, Yakumo. Fighting his way through cybernetic ninja soldiers and otherworldly creatures, Yakumo must reconcile a destiny he shares with the legendary Ryu Hayabusa himself and free Tokyo from the ancient curse that brought the city to its knees.\nRegion: USA\nFirmware: 10.xx+\nAPR: ampr-emu ng 0.4 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nCredits: This one has ampr emu ng 0.3.4; Thank you, @hazelly3!\nUpdated: 2026-11-14T18:15:44.249Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/GxKTUxK8IG"
+        },
+        {
+          "name": "zstd · Data - pt.1",
+          "url": "https://datanodes.to/ydmgjsyl1t51"
+        },
+        {
+          "name": "zstd · Data - pt.2",
+          "url": "https://datanodes.to/nj7o2hcvclg3"
+        },
+        {
+          "name": "zstd · Data - pt.3",
+          "url": "https://datanodes.to/8oz8hgnyio46"
+        },
+        {
+          "name": "zstd · Data - pt.4",
+          "url": "https://datanodes.to/rkpn6izfqiy1"
+        },
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/A5ska6P3VV"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/2MaX70XdYQ"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/gR6yPghFD0"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/R4q0e2t0GK"
+        }
+      ],
+      "sizeBytes": 32212254720
+    },
+    {
+      "titleId": "PPSA23372",
+      "title": "REANIMAL",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "1.000.012",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/f1a245d68d6b5ffd775ede701bcca8c7d3b4cbc03a9cf939a7e598ea4ca1ef52",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/03b72b919bfa86b20ee60172f06d861f7c3e653505449c3762ebf25f5a5a0d20",
+      "description": "Format: zstd\nWHAT IS REANIMAL? The original creators of Little Nightmares™ &amp; Little Nightmares™ II have returned to take you on a more terrifying journey than ever before. In this co-op horror adventure game, you play as a brother &amp; sister who go through hell to rescue their missing friends. Exploring by boat and on land, you must use your wits to survive, work together to escape the hellish island, and the dark secret that haunts you. HORROR WITH HOPE In this unsettling tale, the emphasis is on tension and thick atmosphere, as you join the two orphans on a desperate search for hope and redemption in the direst of circumstances. ACROSS A DARK AND TWISTED WORLD Traverse an intriguing but terrifying world, where the main path is only one part of the fragmented story. Discover all sorts of mysterious locations on your perilous journey, each with its own story to tell. A DREAD-FILLED ADVENTURE Tarsier Studios is bringing their unique visual style to bear on a whole host of new twisted monsters and broken, yet resilient, child characters. Fragments of the children's troubled past have been used as inspiration for their character design, and for the monsters that now torment them. SHARE THE SCARE Nobody should be forced to go through hell alone! Fully playable in single player and local &amp; online co-op, REANIMAL has a shared, directed camera, designed to maximise claustrophobia and tension. FRIEND'S PASS Download the Trial and play the entire game with your bestie FOR FREE! REANIMAL's Trial feature is your Friend's Pass. As long as one of you owns the full game, you can share the scare together in both Online AND Couch Co-op! So grab someone you love, turn the lights down low, and go through hell together!\nRegion: EUR\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.4 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nCredits: This one has ampr emu ng 0.3.4; Thank you, @CrisCo!\nUpdated: 2026-11-14T18:13:34.975Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/CQSX7B7Ybv"
+        },
+        {
+          "name": "zstd · Data - pt.1",
+          "url": "https://datanodes.to/quje7td11nol"
+        },
+        {
+          "name": "zstd · Data - pt.2",
+          "url": "https://datanodes.to/jkemxprx2qo5"
+        },
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/bHuk0CnUe9"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/w9KkwAbXe9"
+        }
+      ],
+      "sizeBytes": 15139759718
+    },
+    {
+      "titleId": "PPSA03643",
+      "title": "Mighty Goose",
+      "createdAt": "2026-11-14T15:42:28.234Z",
+      "version": "2.000.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/a3f0ed2af6f85c8cd5e086e7a40ff44125ad19771bb74934f7948ef105a66e6f",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/a3f0ed2af6f85c8cd5e086e7a40ff44125ad19771bb74934f7948ef105a66e6f",
+      "description": "Format: zstd\nAssume the role of Mighty Goose and bring the fight to the Void King. This galaxy conquering monarch commands a vast army of minions and mechanised monsters. Dealing with these baddies means traveling to distant worlds and facing all kinds of dangers. But not to worry, this is no problem for the legendary Mighty Goose! Mighty Goose is a fast paced run &amp; gun shooter starring a bounty hunter Goose. Use epic weapons and devastating warmachines to battle against screen filling bosses and hordes of enemies! Apart from that solid arcade formula, the game has a ton of crazy weapons, companions, upgrades and secrets for you to discover. ・Fast-paced run-and-gun experience with tight controls. ・Battle against screen filling bosses that will test your skill, timing, and dodging ・Customize your playing style using a combination of upgrade chips, secondary weapons and assist characters. ・Pilot devastating war-machine vehicles to decimate large groups of enemies. ・Beautifully crafted vibrant pixel art worlds, vehicles and characters. ・An amazing soundtrack featuring crunchy synth-rock and funky jazz-fusion melodies. Composed by Dominic Ninmark (Moonrider, Blazing Chrome, Gravity Circuit).\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nCredits: Thank you, b0mba1992, for the dump!\nUpdated: 2026-11-14T15:34:30.797Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data",
+          "url": "https://datanodes.to/jleyn5be69av"
+        },
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/CnSv0yFUOR"
+        }
+      ],
+      "sizeBytes": 252329329
+    },
+    {
+      "titleId": "PPSA03463",
+      "title": "Laika Aged Through Blood",
+      "createdAt": "2026-11-14T15:42:28.234Z",
+      "version": "4.0",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/35167bcce0e6f71ba5684a5466e679239a9714c2122f86efd3ef71bd8563bc2d",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/35167bcce0e6f71ba5684a5466e679239a9714c2122f86efd3ef71bd8563bc2d",
+      "description": "Format: zstd\nLaika: Aged Through Blood is a thrilling action-adventure Metroidvania set in a dystopian, post-apocalyptic western world. Take on the role of Laika, a coyote mother and relentless warrior on a quest to avenge her fallen people from the tyrannical Birds, who have claimed superiority and conquered the land. Fueled by vengeance, Laika rides out on her motorbike on a perilous and emotional journey. Carve and shred through rugged, hand-painted landscapes as you uncover the dark secrets of a fractured world ravaged by power, betrayal, and loss. Engage in breakneck vehicular combat mechanics that demand precision, strategy, and skill. Utilize a variety of weapons, master close-range tactics, and unlock deadly abilities to defeat your enemies, upgrade your gear, and take back what your people have lost. Key Features: - Fast-paced 2D motorbike combat in the first ever “Motorvania”. - Challenging gameplay that rewards precision and strategic thinking. - Emotional and thought-provoking narrative about vengeance and loss. - Striking hand-drawn landscapes teeming with danger and hidden secrets to explore. - A hauntingly beautiful ambient soundtrack.\nRegion: USA to EUR Langs\nFirmware: 7.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nCredits: Thank you, b0mba1992, for the dump!\nUpdated: 2026-11-14T15:33:09.756Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data",
+          "url": "https://datanodes.to/gm5r794cmpuf"
+        },
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/6uISleAFm0"
+        }
+      ],
+      "sizeBytes": 1224065679
+    },
+    {
       "titleId": "PPSA17905",
       "title": "Horizon Forbidden West Complete Edition",
       "createdAt": "2026-11-14T00:27:21.110Z",

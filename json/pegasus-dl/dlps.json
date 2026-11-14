@@ -3,6 +3,250 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA17775",
+      "title": "Laika Aged Through Blood",
+      "createdAt": "2026-11-14T21:11:33.517Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/959f4ea42fdee731f05551edd39b568dbf26cb991466e21f3838fb903bf412f3",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/f87e92dab70ae79ee9d176137094de6357ec2083e6e2f011258d6b122b62d257",
+      "description": "Region: EUR\nRelease note: Works on 7.xx and higher\nContributor: @b0mba1992",
+      "downloadSource": "https://dlpsgame.com/laika-aged-through-blood-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 7.xx Base - Akirabox",
+          "url": "https://akirabox.to/7d5GLW1XjzxR/file"
+        },
+        {
+          "name": "EUR 7.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/23gdBQ"
+        },
+        {
+          "name": "EUR 7.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/1ygKxEYBAR"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA03463",
+      "title": "Mighty Goose",
+      "createdAt": "2026-11-14T21:11:33.517Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/35167bcce0e6f71ba5684a5466e679239a9714c2122f86efd3ef71bd8563bc2d",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/35167bcce0e6f71ba5684a5466e679239a9714c2122f86efd3ef71bd8563bc2d",
+      "description": "Region: EUR\nRelease note: Works on 4.xx and higher\nContributor: @b0mba1992",
+      "downloadSource": "https://dlpsgame.com/mighty-goose-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/jar3XbVk7G2d/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1zemJs"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/vHHLvgTXXb"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA35106",
+      "title": "Adorable Adventures",
+      "createdAt": "2026-11-14T21:11:33.517Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/35d50ad2ae262c17b9f0f21958ae79737460fa9fce79475c933973401b57e675",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/f0687f28c746362ddbf91c19f701f03cf450e64d5679a068bfe052804e2e8d19",
+      "description": "Region: USA\nRelease note: Works on 13.xx and higher\nContributor: @LiGHTFORCE",
+      "downloadSource": "https://dlpsgame.com/adorable-adventures-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 13.xx Base - Akirabox",
+          "url": "https://akirabox.to/LJlGnK1bVm15/file"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/v2FHc"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/ZHKPjVYSJD"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA30785",
+      "title": "Hyperviolent",
+      "createdAt": "2026-11-14T21:11:33.517Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/0ce8f42d8035bfc7e8c30cd75ffa79ddda7ea03509e5f3d04e87abda15472263",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/105530712b50886aa5aea329380ac6ad4d4e66e30818c3115ac8b8ced80b13df",
+      "description": "Region: USA\nRelease note: Works on 13.xx and higher\nContributor: @LiGHTFORCE",
+      "downloadSource": "https://dlpsgame.com/hyperviolent-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 13.xx Base - Akirabox",
+          "url": "https://akirabox.to/5pVzNKW8WG7w/file"
+        },
+        {
+          "name": "USA 13.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/r0OQ4"
+        },
+        {
+          "name": "USA 13.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/cXgIc3NbgC"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA06822",
+      "title": "Drunken Fist 2 Zombie Hangover",
+      "createdAt": "2026-11-14T21:11:33.517Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/c1e78f954d4e984afbc88878abb6c83d89497a4568d5f1c6bd58a79b4e382918",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/cf5ea89589a18bf0c38247774853418f04d773bce87deecd87ad9e97e7509869",
+      "description": "Region: USA\nRelease note: Works on 5.xx and higher",
+      "downloadSource": "https://dlpsgame.com/drunken-fist-2-zombie-hangover-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 5.xx Base - Akirabox",
+          "url": "https://akirabox.to/jar3XO7P8m2d/file"
+        },
+        {
+          "name": "USA 5.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1OsaRs"
+        },
+        {
+          "name": "USA 5.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/04nrL5kn56"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA04914",
+      "title": "Demoniaca Everlasting Night",
+      "createdAt": "2026-11-14T21:11:33.517Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/9ea41ba741da44e0388aaf8fa653ac1cde0667a279307132304e727b39c5f511",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/cfa8313ccbbb3661d816dbd5a0fe60f7b524d10495858219de88b2af45210cb4",
+      "description": "Variant: USA 4.xx\nRegion: USA\nRelease note: Works on 4.xx and higher\n\nVariant: USA 4.xx\nRegion: USA\nRelease note: Credits @Biogames Works on 4.xx and higher",
+      "downloadSource": "https://dlpsgame.com/demoniaca-everlasting-night-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/E9Qz96rMbGOL/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/GECcC"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/652LFxnvV7"
+        },
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/QN9mEn4Eo36d/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/f5LHc"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/4MJc14S3rU"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA04294",
+      "title": "Enter Digiton Heart of Corruption",
+      "createdAt": "2026-11-14T21:11:33.517Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/041ee4a0430223c41efde738dc58cef7a9ab478afd84691b55d5487abfb4a46b",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/289aff8bc31e6ad62ea1eb5fd073486cd704debf1f7b44c9e6784f252a94b67b",
+      "description": "Region: USA\nRelease note: Works on 3.xx and higher",
+      "downloadSource": "https://dlpsgame.com/enter-digiton-heart-of-corruption-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 3.xx Base - Akirabox",
+          "url": "https://akirabox.to/l76mZvQkZman/file"
+        },
+        {
+          "name": "USA 3.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1Ae8Zc"
+        },
+        {
+          "name": "USA 3.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/XSQ9WCBxlm"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA04239",
+      "title": "One Gun Guy",
+      "createdAt": "2026-11-14T21:11:33.517Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/9d6b85d5eaa562ede8dc027d26092e6688b34830a9c06e2d430b0a33cce8bfde",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/430c7c8521a11a00e952547a751d438fc5639911db7414835e9615bab6dfd960",
+      "description": "Region: USA\nRelease note: Works on 4.xx and higher",
+      "downloadSource": "https://dlpsgame.com/one-gun-guy-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/2bJG8XwR5GOB/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/2FGfXk"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/EY2Kc73tsB"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA14322",
+      "title": "Patapon 3",
+      "createdAt": "2026-11-14T21:11:33.517Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/ab9c8b63e6ba25ee9ff7c1d3d63598d02171701bbfdd95d3b18d5d10c9752be8",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/a56a16111346a936e3dedbac538b698a46ff2a8cf82b451cb0efba53d08b02ef",
+      "description": "Variant: USA\nRegion: USA\nRelease note: Credits @Dunaevnick\nContributor: Thanks to dunaevnick for the Files and DecKerr97 GUI for the BackPort.\n\nVariant: USA exFAT 01.000.003\nRegion: USA\nRelease note: exFAT format — FW 01.000.003 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/patapon-3-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA Base - Akirabox",
+          "url": "https://akirabox.to/N2p3D0EQ93Ma/file"
+        },
+        {
+          "name": "USA Base - Rootz",
+          "url": "https://www.rootz.so/d/MuSzg"
+        },
+        {
+          "name": "USA Base - Vikingfile",
+          "url": "https://vikingfile.com/f/bUgfHdramk"
+        },
+        {
+          "name": "USA exFAT 01.000.003 Base - DataNodes",
+          "url": "https://datanodes.to/3r4b4js7zotx/PPSA14322.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.003 Base - FileKeeper",
+          "url": "https://filekeeper.net/sv867rhdb8tf/PPSA14322.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.003 Base - Akirabox",
+          "url": "https://akirabox.to/k0emb9xx9GVb/file"
+        },
+        {
+          "name": "USA exFAT 01.000.003 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/WWFmkiPJaL"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA04125",
       "title": "Shantae Riskys Revenge Directors Cut",
       "createdAt": "2026-11-12T07:06:22.503Z",
@@ -13088,7 +13332,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/09a7dbcd144a37ff6d5ccad26b84d9dc78ba38f895e8d2b2b32ec03a2773589d",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/f44c4f09e02e860ce852b41d8bbc52cb125f496e5889c63bb74d1228d6609f24",
-      "description": "Region: USA\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: USA 10.xx\nRegion: USA\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.000.003\nRegion: EUR\nRelease note: exFAT format — FW 01.000.003 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/darwins-paradox-ps5/",
       "downloadLinks": [
         {
@@ -13114,6 +13358,22 @@
         {
           "name": "USA 10.xx Base - Vikingfile part 4",
           "url": "https://vikingfile.com/f/1ggQjkG5aK#Darwins"
+        },
+        {
+          "name": "EUR exFAT 01.000.003 Base - DataNodes",
+          "url": "https://datanodes.to/5d6hwi8am726/PPSA28608.7z"
+        },
+        {
+          "name": "EUR exFAT 01.000.003 Base - FileKeeper",
+          "url": "https://filekeeper.net/d7e1ihb79dz8/PPSA28608.7z"
+        },
+        {
+          "name": "EUR exFAT 01.000.003 Base - Akirabox",
+          "url": "https://akirabox.to/l5YzMl1183yO/file"
+        },
+        {
+          "name": "EUR exFAT 01.000.003 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Hb3wZEl1V1"
         }
       ]
     },
@@ -144242,6 +144502,64 @@
       ]
     },
     {
+      "titleId": "PPSA31246",
+      "title": "[exFAT] RESIDENT EVIL requiem Deluxe Edition",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "01.310",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/87f178b9f65cc49358d41980dc0fabeb6448cfea8d2a5ddc22e8cf6eb18018e7",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/676eb71886fbbc1f917ef4a4a1f10df2e8905b8f85932c00940de39120a55f1c",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.310 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.310 Base - DataNodes",
+          "url": "https://datanodes.to/npv2pp25tc05/PPSA31246.7z"
+        },
+        {
+          "name": "EUR exFAT 01.310 Base - FileKeeper",
+          "url": "https://filekeeper.net/ejlzy0u1lrpv/PPSA31246.7z"
+        },
+        {
+          "name": "EUR exFAT 01.310 Base - Akirabox",
+          "url": "https://akirabox.to/l76mZ962ZGan/file"
+        },
+        {
+          "name": "EUR exFAT 01.310 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/NHG583YHmG"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA19411",
+      "title": "[exFAT] Tainted Grail Fall of Avalon Excalibur Edition",
+      "createdAt": "2026-11-14T13:03:55.703Z",
+      "version": "01.025",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/8410342f75a980aded7a936a08ce3292c4c59f63ef6b27a436750fadcca7a0ce",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/bf58b8c00e5151193de40f7c7abea85d849c595eede397f78a38607007b93472",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.025 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.025 Base - DataNodes",
+          "url": "https://datanodes.to/zu1x1oylz52g/PPSA19411.7z"
+        },
+        {
+          "name": "EUR exFAT 01.025 Base - FileKeeper",
+          "url": "https://filekeeper.net/8qhp0j9u2qxg/PPSA19411.7z"
+        },
+        {
+          "name": "EUR exFAT 01.025 Base - Akirabox",
+          "url": "https://akirabox.to/LK0G1aqqZG91/file"
+        },
+        {
+          "name": "EUR exFAT 01.025 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/wV1LHfqYqx"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA23566",
       "title": "[exFAT] EA SPORTS UFC 6 Ultimate Edition",
       "createdAt": "2026-11-13T12:39:23.280Z",
@@ -146241,27 +146559,6 @@
         {
           "name": "USA to EUR Langs exFAT 01.055 Base - Vault (exFAT)",
           "url": "https://datavaults.co/u419tbmidcyb"
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA31246",
-      "title": "[exFAT] Resident Evil Requiem Deluxe Edition",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "version": "01.200",
-      "category": "game",
-      "posterUrl": "https://pegasus-dl.dev/api/posters/87f178b9f65cc49358d41980dc0fabeb6448cfea8d2a5ddc22e8cf6eb18018e7",
-      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/676eb71886fbbc1f917ef4a4a1f10df2e8905b8f85932c00940de39120a55f1c",
-      "description": "Region: EUR\nRelease note: exFAT format — FW 01.200 — DLCs Merged\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
-      "downloadLinks": [
-        {
-          "name": "EUR exFAT 01.200 Base - AKIA (exFAT)",
-          "url": "https://akirabox.com/b5OzdpX14zB8/file"
-        },
-        {
-          "name": "EUR exFAT 01.200 Base - DATA (exFAT)",
-          "url": "https://datanodes.to/8309wmzhalqs"
         }
       ]
     },

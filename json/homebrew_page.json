@@ -102,15 +102,15 @@
     {
       "name": "PS64",
       "filename": "PPSA06464.zip",
-      "url": "https://github.com/dantaipan/PS64/releases/download/01.000.005/PPSA06464.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA06464/01.000.005/PPSA06464.zip",
+      "url": "https://github.com/dantaipan/PS64/releases/download/01.000.006/PPSA06464.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA06464/01.000.006/PPSA06464.zip",
       "description": "Play the Commodore 64 on PS5: stream and control a C64 Ultimate, or use the built-in VICE emulator, with Assembly64 search.",
-      "version": "01.000.005",
+      "version": "01.000.006",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA06464",
       "author": "dantaipan",
-      "checksum": "bcff57347d2c7baf6852661e3f2f4648dec1343eab2951b2d3d54cc4f0fd44ce",
+      "checksum": "fb07fe04039bb50938b62f5639f31be69ffdde1bf1dd8ff3469ec8d9daeee161",
       "source": "https://github.com/dantaipan/PS64"
     },
     {
@@ -2762,15 +2762,15 @@
     {
       "name": "PS5 Backup Center",
       "filename": "PPSA99950.zip",
-      "url": "https://github.com/consolecenterstudio/ps5-backup-center/releases/download/v2.99.5/PPSA99950.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99950/2.99.5/PPSA99950.zip",
+      "url": "https://github.com/consolecenterstudio/ps5-backup-center/releases/download/v3.0.0/PPSA99950.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99950/3.0.0/PPSA99950.zip",
       "description": "Back up, compare and sync your PS5 games, saves, apps and DLC across two PS5s, USB drives, a NAS, Switch and Switch 2 emulators, from the TV or any browser.",
-      "version": "2.99.5",
+      "version": "3.0.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99950",
       "author": "Console Center Studio",
-      "checksum": "12ea416b70c9dafc5895f7edf0c5c202a45b8a67f4379d1770a6e8bd538decd1",
+      "checksum": "60cbb9e0e1e8657513ae30038114115c743fa2772c932f1c44e3a28f8c771b84",
       "source": "https://github.com/consolecenterstudio/ps5-backup-center"
     },
     {

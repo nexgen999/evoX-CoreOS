@@ -1,5 +1,10 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 14/11/2026 à 22:18
+* **HOMEBREW_PAGE**
+  * `PS64` (01.000.006) - *Mise à jour (Précédent: 01.000.005)*
+  * `PS5 Backup Center` (3.0.0) - *Mise à jour (Précédent: 2.99.5)*
+
 ## Build du 14/11/2026 à 13:24
 * **HOMEBREW_PAGE**
   * `SpeedBreaker (NFS: Most Wanted)` (01.000.004) - *Mise à jour (Précédent: 01.000.003)*
