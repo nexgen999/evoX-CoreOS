@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.13-2340)
+### 🚀 Synthèse de la mise à jour (v2026.11.14-0513)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -14,7 +14,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
 - `PS5_ultimate_pack_part12_latest.zip`
 - `PS5_ultimate_pack_part13_latest.zip`
 - `PS5_ultimate_pack_part14_latest.zip`
-- `PS5_ultimate_pack_part15_latest.zip`
 - `PS5_ultimate_pack_part1_latest.zip`
 - `PS5_ultimate_pack_part2_latest.zip`
 - `PS5_ultimate_pack_part3_latest.zip`
@@ -34,7 +33,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
 - `prosperostore-game_aio_part2_latest.zip`
 - `prosperostore-game_aio_part3_latest.zip`
 - `prosperostore-game_aio_part4_latest.zip`
-- `prosperostore-game_aio_part5_latest.zip`
 - `prosperostore-tool_aio_latest.zip`
 
 #### 📂 Fichiers inclus / mis à jour :
@@ -310,6 +308,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA77022.zip`
   * `PPSA77305.zip`
   * `PPSA77711.zip`
+  * `PPSA84840.zip`
   * `PPSA85300.zip`
   * `PPSA90210.zip`
   * `PPSA90212.zip`
@@ -320,6 +319,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA92042.zip`
   * `PPSA92043.zip`
   * `PPSA92046.zip`
+  * `PPSA92064.zip`
   * `PPSA92280.zip`
   * `PPSA92878.zip`
   * `PPSA93303.zip`

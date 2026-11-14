@@ -74,15 +74,15 @@
     {
       "name": "PC5",
       "filename": "PPSA11018.zip",
-      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.3.11/PPSA11018.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.3.11/PPSA11018.zip",
+      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.3.13/PPSA11018.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.3.13/PPSA11018.zip",
       "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.",
-      "version": "2.3.11",
+      "version": "2.3.13",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA11018",
       "author": "bornaradusin",
-      "checksum": "a1d42651475a5026cb3422469a658a6d733dffc8734d508cedeb0353f0550874",
+      "checksum": "b7ddd64b76f602e83e5f89cfaf9afa5e14dd90e2e2a601370c11f4fe7ed6e45f",
       "source": "https://github.com/bornaradusin/PC5"
     },
     {
@@ -294,6 +294,20 @@
       "author": "Argyris Vazaios",
       "checksum": "eec6ef7d9a173fce4e0fdca8521e57a9d789742cb1257262d23bc834c3ef4fa7",
       "source": "https://github.com/Sp9nky/unofficial-stremio-ps5-port"
+    },
+    {
+      "name": "FLEX",
+      "filename": "PPSA84840.zip",
+      "url": "https://github.com/MrRobotto512/FLEX/releases/download/v0.8.4/PPSA84840.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA84840/0.8.4/PPSA84840.zip",
+      "description": "Player for the movies and TV shows on your own Windows PC running the FLEX media server (required): poster grid, themed home rows, search, resume, and updates from the PC.",
+      "version": "0.8.4",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA84840",
+      "author": "MrRobotto512",
+      "checksum": "0e2d551e015f940616199d0b0635309ce0cda947ce8bc05baed9793c88883ffc",
+      "source": "https://github.com/MrRobotto512/FLEX"
     },
     {
       "name": "VLC",
@@ -928,15 +942,15 @@
     {
       "name": "Nuvio Max'd",
       "filename": "PPSA99288.zip",
-      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.24-native-experimental/PPSA99288.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.24-native-experimental/PPSA99288.zip",
+      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.25-native/PPSA99288.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.25-native/PPSA99288.zip",
       "description": "Experimental PS5 media app with profiles, IPTV, media servers and an optional privileged USB reader. Updated playback/network/text dependencies need console confirmation.",
-      "version": "1.0.0.24-native-experimental",
+      "version": "1.0.0.25-native",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99288",
       "author": "HandshakeHackin",
-      "checksum": "100329ceff6f576a9c122e7441535328dffa7df5ce75bd8758f237b5179f18fb",
+      "checksum": "304b1ce679089cca614fdcbe7e9c4860255d7d035dd097db1d42abfb77a71dcd",
       "source": "https://github.com/HandshakeHackin/Nuvio-maxd-releases"
     },
     {

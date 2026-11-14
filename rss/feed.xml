@@ -1136,7 +1136,7 @@
       <title>[ProsperoStore] Cyberworld Endless</title>
       <link>https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless</link>
       <description>A roguelike built on the real Mega Man Battle Network 6, from your own ROM: every run jacks MegaMan into a newly generated net of battles, loot and guardian Navis.</description>
-      <pubDate>0.21.0</pubDate>
+      <pubDate>0.21.2</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Playden</title>
@@ -1196,7 +1196,7 @@
       <title>[ProsperoStore] PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.</description>
-      <pubDate>2.3.11</pubDate>
+      <pubDate>2.3.13</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Home5</title>
@@ -1427,6 +1427,12 @@
       <pubDate>1.2</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] FLEX</title>
+      <link>https://github.com/MrRobotto512/FLEX</link>
+      <description>Player for the movies and TV shows on your own Windows PC running the FLEX media server (required): poster grid, themed home rows, search, resume, and updates from the PC.</description>
+      <pubDate>0.8.4</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] VLC</title>
       <link>https://github.com/ZiZc3/VLC</link>
       <description>VLC media player for PS5: videos, music, photos, subtitles, DVD images and more</description>
@@ -1485,6 +1491,12 @@
       <link>https://github.com/plutobox/ps5-Towelket</link>
       <description>A collection of surreal RPGs made by Kanao runnning on a native port of EasyRPG.</description>
       <pubDate>01.000.003</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] Conker's Bad Fur Day Recompiled</title>
+      <link>https://github.com/DevOldSchool/conkers-bfd-recomp-ps</link>
+      <description>Native recompilation of Conker’s Bad Fur Day for PS5, with widescreen, online multiplayer, and more. Requires your own ROM.</description>
+      <pubDate>00.001.000</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Capy Mobile</title>
@@ -1658,7 +1670,7 @@
       <title>[ProsperoStore] Second Coat: London</title>
       <link>https://github.com/SecondCoat/second-coat-london</link>
       <description>The Getaway (PS2) remastered with modern graphics, reworked controls and driving, mods and online free roam; you bring your own disc image.</description>
-      <pubDate>0.3.1</pubDate>
+      <pubDate>0.4.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] reSOT (Prince of Persia: The Sands of Time)</title>
@@ -1862,7 +1874,7 @@
       <title>[ProsperoStore] Nuvio Max'd</title>
       <link>https://github.com/HandshakeHackin/Nuvio-maxd-releases</link>
       <description>Experimental PS5 media app with profiles, IPTV, media servers and an optional privileged USB reader. Updated playback/network/text dependencies need console confirmation.</description>
-      <pubDate>1.0.0.24-native-experimental</pubDate>
+      <pubDate>1.0.0.25-native</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Spider-Man: Edge of Time</title>

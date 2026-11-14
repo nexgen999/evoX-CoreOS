@@ -18,15 +18,15 @@
     {
       "name": "Cyberworld Endless",
       "filename": "CWEN00001.zip",
-      "url": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless/releases/download/v0.21.0/cyberworld-endless-ps5.zip",
-      "local_path": "downloads/apps/homebrew_page/game/CWEN00001/0.21.0/CWEN00001.zip",
+      "url": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless/releases/download/v0.21.2/cyberworld-endless-ps5.zip",
+      "local_path": "downloads/apps/homebrew_page/game/CWEN00001/0.21.2/CWEN00001.zip",
       "description": "A roguelike built on the real Mega Man Battle Network 6, from your own ROM: every run jacks MegaMan into a newly generated net of battles, loot and guardian Navis.",
-      "version": "0.21.0",
+      "version": "0.21.2",
       "category": "Games",
       "kind": "game",
       "titleid": "CWEN00001",
       "author": "Saschb2b",
-      "checksum": "e765fc160d35e99cc519726acd5b75d5ca876626f08266d021d2993865a9b668",
+      "checksum": "bdf56004de23495f108ceb9e42d5e51beb3b911d40210df1d11f56ab1cce877d",
       "source": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless"
     },
     {
@@ -492,6 +492,20 @@
       "source": "https://github.com/plutobox/ps5-Towelket"
     },
     {
+      "name": "Conker's Bad Fur Day Recompiled",
+      "filename": "PPSA92064.zip",
+      "url": "https://github.com/DevOldSchool/conkers-bfd-recomp-ps/releases/download/00.001.000/PPSA92064.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA92064/00.001.000/PPSA92064.zip",
+      "description": "Native recompilation of Conker’s Bad Fur Day for PS5, with widescreen, online multiplayer, and more. Requires your own ROM.",
+      "version": "00.001.000",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA92064",
+      "author": "DevOldSchool",
+      "checksum": "86906fcba6a59b45c1cdbc724aa28f8f1c5c640376b455cc034c29857b4cddc4",
+      "source": "https://github.com/DevOldSchool/conkers-bfd-recomp-ps"
+    },
+    {
       "name": "Shining Force III",
       "filename": "PPSA93303.zip",
       "url": "https://github.com/damiantw/sfiii-ps5/releases/download/v1.0.0/PPSA93303.zip",
@@ -620,15 +634,15 @@
     {
       "name": "Second Coat: London",
       "filename": "PPSA99020.zip",
-      "url": "https://github.com/SecondCoat/second-coat-london/releases/download/v0.3.1/getaway-ps5-PPSA99020.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99020/0.3.1/PPSA99020.zip",
+      "url": "https://github.com/SecondCoat/second-coat-london/releases/download/v0.4.0/getaway-ps5-PPSA99020.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99020/0.4.0/PPSA99020.zip",
       "description": "The Getaway (PS2) remastered with modern graphics, reworked controls and driving, mods and online free roam; you bring your own disc image.",
-      "version": "0.3.1",
+      "version": "0.4.0",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99020",
       "author": "Second Coat",
-      "checksum": "8039f0763ffe7c8a348958887bb2e2770cf9659e61d0a658fd26c661948a6113",
+      "checksum": "48058b5f51784341e7525ba28b8395daf5014ecbf21f009748798232caa1b849",
       "source": "https://github.com/SecondCoat/second-coat-london"
     },
     {

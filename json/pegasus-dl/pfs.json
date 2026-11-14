@@ -3,6 +3,132 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA17905",
+      "title": "Horizon Forbidden West Complete Edition",
+      "createdAt": "2026-11-14T00:27:21.110Z",
+      "version": "1.030",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/2ce648840173bb42542d96732c981f0a08afdfd7a08d54c3f974333523eb524e",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/0e6c030fd65850a5c80b0948fd9472f38b729495671fcdc70e43be35fc7ea6f2",
+      "description": "Format: zstd\nBuy the Horizon Forbidden West™ digital version for PS4™ from PlayStation™Store to get the Horizon Forbidden West digital version for PS5™ at no extra cost. Edition includes: - Full game (PS5 and PS4). Join Aloy as she braves the Forbidden West, a deadly frontier that conceals mysterious new threats. PlayStation®5 features: - Fast-travel and get back into the game almost instantly with the PS5 console’s ultra-high-speed SSD and fast load times. - Play in stunning 4K, HDR and with a Performance Mode targeting 60FPS.* - Feel impact from attacks with the DualSense™ wireless controller’s haptic feedback and feel the resistance of your bow, grappling tool and other weapons with the DualSense wireless controller’s adaptive triggers. - Hear sounds from all around you with the PS5 console’s Tempest 3D AudioTech with stereo headphones (analogue or USB). *4K and HDR require a 4K and HDR compatible TV or display. If you already own the PS4 version of this game, you can get the PS5 digital version at no extra cost and you do not need to purchase this product. Owners of a PS4 disc copy must insert it into the PS5 every time they want to download or play the PS5 digital version. PS4 game disc owners who buy the PS5 Digital Edition disc-free console will not be able to get the PS5 version at no extra cost.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.4 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nCredits: Thank you, @Yupboiii!\nUpdated: 2026-11-13T23:43:17.756Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data - pt.1",
+          "url": "https://datanodes.to/zl6ekxbj36je"
+        },
+        {
+          "name": "zstd · Data - pt.2",
+          "url": "https://datanodes.to/t5pr0ekwvemf"
+        },
+        {
+          "name": "zstd · Data - pt.3",
+          "url": "https://datanodes.to/xf5ndak7knby"
+        },
+        {
+          "name": "zstd · Data - pt.4",
+          "url": "https://datanodes.to/2cplu0gocwa1"
+        },
+        {
+          "name": "zstd · Data - pt.5",
+          "url": "https://datanodes.to/hfpru52uy6xa"
+        },
+        {
+          "name": "zstd · Data - pt.6",
+          "url": "https://datanodes.to/0yllgfgq14e7"
+        },
+        {
+          "name": "zstd · Data - pt.7",
+          "url": "https://datanodes.to/jft4hne1jvph"
+        },
+        {
+          "name": "zstd · Data - pt.8",
+          "url": "https://datanodes.to/av0pn1eyx6gx"
+        },
+        {
+          "name": "zstd · Data - pt.9",
+          "url": "https://datanodes.to/apoji9ccwvvx"
+        },
+        {
+          "name": "zstd · Data - pt.10",
+          "url": "https://datanodes.to/j1t48j2fmihx"
+        },
+        {
+          "name": "zstd · Data - pt.11",
+          "url": "https://datanodes.to/q6est2a5mtyd"
+        },
+        {
+          "name": "zstd · Data - pt.12",
+          "url": "https://datanodes.to/a4lv8q60h7j4"
+        },
+        {
+          "name": "zstd · Data - pt.13",
+          "url": "https://datanodes.to/exr217wb2dtc"
+        },
+        {
+          "name": "zstd · Data - pt.14",
+          "url": "https://datanodes.to/m5fx7qipiaqz"
+        },
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/ZXephHj2LO"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/FbYIjl0kBv"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/RyFcsiyKda"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/a8ZFs6FGa3"
+        },
+        {
+          "name": "zstd · Viki - pt.5",
+          "url": "https://vikingfile.com/f/pnjXzuccNA"
+        },
+        {
+          "name": "zstd · Viki - pt.6",
+          "url": "https://vikingfile.com/f/rVI1FstOON"
+        },
+        {
+          "name": "zstd · Viki - pt.7",
+          "url": "https://vikingfile.com/f/n5OUP2xy1w"
+        },
+        {
+          "name": "zstd · Viki - pt.8",
+          "url": "https://vikingfile.com/f/4xKnrOtFiV"
+        },
+        {
+          "name": "zstd · Viki - pt.9",
+          "url": "https://vikingfile.com/f/sTABQFw9UC"
+        },
+        {
+          "name": "zstd · Viki - pt.10",
+          "url": "https://vikingfile.com/f/bdY7b30Gm9"
+        },
+        {
+          "name": "zstd · Viki - pt.11",
+          "url": "https://vikingfile.com/f/Nf61OHCiu0"
+        },
+        {
+          "name": "zstd · Viki - pt.12",
+          "url": "https://vikingfile.com/f/0Svx13Tkfe"
+        },
+        {
+          "name": "zstd · Viki - pt.13",
+          "url": "https://vikingfile.com/f/DMb5YPepC7"
+        },
+        {
+          "name": "zstd · Viki - pt.14",
+          "url": "https://vikingfile.com/f/waqNBwAWOA"
+        }
+      ],
+      "sizeBytes": 139371688755
+    },
+    {
       "titleId": "PPSA26679",
       "title": "NINJA GAIDEN 2 Black",
       "createdAt": "2026-10-16T21:48:35.923Z",

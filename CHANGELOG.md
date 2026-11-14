@@ -1,5 +1,14 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 14/11/2026 à 05:13
+* **HOMEBREW_PAGE**
+  * `Cyberworld Endless` (0.21.2) - *Mise à jour (Précédent: 0.21.0)*
+  * `PC5` (2.3.13) - *Mise à jour (Précédent: 2.3.11)*
+  * `FLEX` (0.8.4) - *Nouveau*
+  * `Conker's Bad Fur Day Recompiled` (00.001.000) - *Nouveau*
+  * `Second Coat: London` (0.4.0) - *Mise à jour (Précédent: 0.3.1)*
+  * `Nuvio Max'd` (1.0.0.25-native) - *Mise à jour (Précédent: 1.0.0.24-native-experimental)*
+
 ## Build du 13/11/2026 à 23:40
 * **PAYLOADS**
   * `Orbit Store` (v1.9.0) - *Mise à jour (Précédent: v1.8.5)*

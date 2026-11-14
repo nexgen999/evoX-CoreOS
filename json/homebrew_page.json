@@ -18,15 +18,15 @@
     {
       "name": "Cyberworld Endless",
       "filename": "CWEN00001.zip",
-      "url": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless/releases/download/v0.21.0/cyberworld-endless-ps5.zip",
-      "local_path": "downloads/apps/homebrew_page/game/CWEN00001/0.21.0/CWEN00001.zip",
+      "url": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless/releases/download/v0.21.2/cyberworld-endless-ps5.zip",
+      "local_path": "downloads/apps/homebrew_page/game/CWEN00001/0.21.2/CWEN00001.zip",
       "description": "A roguelike built on the real Mega Man Battle Network 6, from your own ROM: every run jacks MegaMan into a newly generated net of battles, loot and guardian Navis.",
-      "version": "0.21.0",
+      "version": "0.21.2",
       "category": "Games",
       "kind": "game",
       "titleid": "CWEN00001",
       "author": "Saschb2b",
-      "checksum": "e765fc160d35e99cc519726acd5b75d5ca876626f08266d021d2993865a9b668",
+      "checksum": "bdf56004de23495f108ceb9e42d5e51beb3b911d40210df1d11f56ab1cce877d",
       "source": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless"
     },
     {
@@ -158,15 +158,15 @@
     {
       "name": "PC5",
       "filename": "PPSA11018.zip",
-      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.3.11/PPSA11018.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.3.11/PPSA11018.zip",
+      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.3.13/PPSA11018.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.3.13/PPSA11018.zip",
       "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.",
-      "version": "2.3.11",
+      "version": "2.3.13",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA11018",
       "author": "bornaradusin",
-      "checksum": "a1d42651475a5026cb3422469a658a6d733dffc8734d508cedeb0353f0550874",
+      "checksum": "b7ddd64b76f602e83e5f89cfaf9afa5e14dd90e2e2a601370c11f4fe7ed6e45f",
       "source": "https://github.com/bornaradusin/PC5"
     },
     {
@@ -702,6 +702,20 @@
       "source": "https://github.com/Sp9nky/unofficial-stremio-ps5-port"
     },
     {
+      "name": "FLEX",
+      "filename": "PPSA84840.zip",
+      "url": "https://github.com/MrRobotto512/FLEX/releases/download/v0.8.4/PPSA84840.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA84840/0.8.4/PPSA84840.zip",
+      "description": "Player for the movies and TV shows on your own Windows PC running the FLEX media server (required): poster grid, themed home rows, search, resume, and updates from the PC.",
+      "version": "0.8.4",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA84840",
+      "author": "MrRobotto512",
+      "checksum": "0e2d551e015f940616199d0b0635309ce0cda947ce8bc05baed9793c88883ffc",
+      "source": "https://github.com/MrRobotto512/FLEX"
+    },
+    {
       "name": "VLC",
       "filename": "PPSA85300.zip",
       "url": "https://github.com/ZiZc3/VLC/releases/download/v0.6.1/PPSA85300.zip",
@@ -840,6 +854,20 @@
       "author": "plutobox",
       "checksum": "4c8db407d5f40e6405323a0ba98e0a4d61b16ec4660c7ae30c6131839c28f9ed",
       "source": "https://github.com/plutobox/ps5-Towelket"
+    },
+    {
+      "name": "Conker's Bad Fur Day Recompiled",
+      "filename": "PPSA92064.zip",
+      "url": "https://github.com/DevOldSchool/conkers-bfd-recomp-ps/releases/download/00.001.000/PPSA92064.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA92064/00.001.000/PPSA92064.zip",
+      "description": "Native recompilation of Conker’s Bad Fur Day for PS5, with widescreen, online multiplayer, and more. Requires your own ROM.",
+      "version": "00.001.000",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA92064",
+      "author": "DevOldSchool",
+      "checksum": "86906fcba6a59b45c1cdbc724aa28f8f1c5c640376b455cc034c29857b4cddc4",
+      "source": "https://github.com/DevOldSchool/conkers-bfd-recomp-ps"
     },
     {
       "name": "Capy Mobile",
@@ -1236,15 +1264,15 @@
     {
       "name": "Second Coat: London",
       "filename": "PPSA99020.zip",
-      "url": "https://github.com/SecondCoat/second-coat-london/releases/download/v0.3.1/getaway-ps5-PPSA99020.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99020/0.3.1/PPSA99020.zip",
+      "url": "https://github.com/SecondCoat/second-coat-london/releases/download/v0.4.0/getaway-ps5-PPSA99020.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99020/0.4.0/PPSA99020.zip",
       "description": "The Getaway (PS2) remastered with modern graphics, reworked controls and driving, mods and online free roam; you bring your own disc image.",
-      "version": "0.3.1",
+      "version": "0.4.0",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99020",
       "author": "Second Coat",
-      "checksum": "8039f0763ffe7c8a348958887bb2e2770cf9659e61d0a658fd26c661948a6113",
+      "checksum": "48058b5f51784341e7525ba28b8395daf5014ecbf21f009748798232caa1b849",
       "source": "https://github.com/SecondCoat/second-coat-london"
     },
     {
@@ -1712,15 +1740,15 @@
     {
       "name": "Nuvio Max'd",
       "filename": "PPSA99288.zip",
-      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.24-native-experimental/PPSA99288.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.24-native-experimental/PPSA99288.zip",
+      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.25-native/PPSA99288.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.25-native/PPSA99288.zip",
       "description": "Experimental PS5 media app with profiles, IPTV, media servers and an optional privileged USB reader. Updated playback/network/text dependencies need console confirmation.",
-      "version": "1.0.0.24-native-experimental",
+      "version": "1.0.0.25-native",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99288",
       "author": "HandshakeHackin",
-      "checksum": "100329ceff6f576a9c122e7441535328dffa7df5ce75bd8758f237b5179f18fb",
+      "checksum": "304b1ce679089cca614fdcbe7e9c4860255d7d035dd097db1d42abfb77a71dcd",
       "source": "https://github.com/HandshakeHackin/Nuvio-maxd-releases"
     },
     {
