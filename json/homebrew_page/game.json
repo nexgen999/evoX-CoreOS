@@ -634,15 +634,15 @@
     {
       "name": "Second Coat: London",
       "filename": "PPSA99020.zip",
-      "url": "https://github.com/SecondCoat/second-coat-london/releases/download/v0.4.0/getaway-ps5-PPSA99020.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99020/0.4.0/PPSA99020.zip",
+      "url": "https://github.com/SecondCoat/second-coat-london/releases/download/v0.4.1/getaway-ps5-PPSA99020.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99020/0.4.1/PPSA99020.zip",
       "description": "The Getaway (PS2) remastered with modern graphics, reworked controls and driving, mods and online free roam; you bring your own disc image.",
-      "version": "0.4.0",
+      "version": "0.4.1",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99020",
       "author": "Second Coat",
-      "checksum": "48058b5f51784341e7525ba28b8395daf5014ecbf21f009748798232caa1b849",
+      "checksum": "f2ce727e8af7b1453b0ff0646d0023bdd279adea3a46b9eb7efbed2d0c9c9563",
       "source": "https://github.com/SecondCoat/second-coat-london"
     },
     {

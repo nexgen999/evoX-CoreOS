@@ -1574,7 +1574,7 @@
       <title>[ProsperoStore] SwanStationPS5</title>
       <link>https://github.com/darkxex/SwanStationPS5</link>
       <description>SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.</description>
-      <pubDate>1.6.2</pubDate>
+      <pubDate>1.6.3</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] ReKHCoM</title>
@@ -1670,7 +1670,7 @@
       <title>[ProsperoStore] Second Coat: London</title>
       <link>https://github.com/SecondCoat/second-coat-london</link>
       <description>The Getaway (PS2) remastered with modern graphics, reworked controls and driving, mods and online free roam; you bring your own disc image.</description>
-      <pubDate>0.4.0</pubDate>
+      <pubDate>0.4.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] reSOT (Prince of Persia: The Sands of Time)</title>
@@ -1832,13 +1832,13 @@
       <title>[ProsperoStore] PSFlyCast</title>
       <link>https://github.com/Press5elect/PSFlycast</link>
       <description>Flycast (Dreamcast, NAOMI and Atomiswave) as a standalone PS5 title on RADV, with a controller-only interface.</description>
-      <pubDate>1.3.5</pubDate>
+      <pubDate>1.3.9</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PSSwanStation</title>
       <link>https://github.com/Press5elect/PSSwanStation</link>
       <description>A PlayStation (PS1) emulator built on SwanStation, with a controller-first library, ES-DE themes and game videos, network shares, USB disc drives, CRT shaders and RetroAchievements.</description>
-      <pubDate>build26</pubDate>
+      <pubDate>build27</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Crux2</title>
@@ -2096,7 +2096,7 @@
       <title>[ProsperoStore] Alembic</title>
       <link>https://github.com/fthdgn-gh/Alembic</link>
       <description>Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC, also on SMB, NFS, WebDAV and FTP servers.</description>
-      <pubDate>0.6.5</pubDate>
+      <pubDate>0.7.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Cloud Play</title>
@@ -2199,6 +2199,12 @@
       <link>https://github.com/VenezuelanBiggie24/MacheteSVG-PS5-Save-Manager</link>
       <description>PS5/PS4 save manager in active development. PS5 root keys unreleased; cross-console saves use local dummy injection. Compatibility varies; share logs and feedback to help improve and fix titles.</description>
       <pubDate>1.3.17</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] Punktfunk</title>
+      <link>https://github.com/punktfunk/client-ps5</link>
+      <description>Low-latency game and desktop streaming from a Punktfunk host, up to 4K at 120 Hz with HDR10 and DualSense rumble and adaptive triggers.</description>
+      <pubDate>0.1.2</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] OpenRCT2 Native Port</title>
@@ -2342,7 +2348,7 @@
       <title>[ProsperoStore] Nuvio Pro</title>
       <link>https://github.com/speed-y/nuvio-pro-ps5</link>
       <description>Nuvio Pro is a controller-first streaming app for jailbroken PS5s, with EVO Player playback, PS5 keyboard search, profiles and resume support. The console hosts its own UI. Tested on firmware 12.70.</description>
-      <pubDate>0.2.0-alpha.6</pubDate>
+      <pubDate>0.2.0-alpha.7</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Nuvio PS5</title>

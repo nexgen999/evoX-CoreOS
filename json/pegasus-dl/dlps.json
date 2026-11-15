@@ -3,6 +3,130 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA26767",
+      "title": "Deadzone Rogue",
+      "createdAt": "2026-11-15T20:34:38.712Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/b5528652c85d64036a9e1949d097caf5b70345b1d0e1fc34a721d3f5fa0820e6",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/575e4318d8d95996468929e40139578343b94177968ec4cab6406a99dcf948ac",
+      "description": "Variant: USA 4.xx\nRegion: USA\nRelease note: Works on 4.xx and higher (with backport)\nContributor: @vincenzoz85\n\nVariant: USA exFAT 01.001.022\nRegion: USA\nRelease note: exFAT format — FW 01.001.022 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/deadzone-rogue-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/N2p3D0EYk3Ma/file"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/PDHltp8OAY"
+        },
+        {
+          "name": "USA exFAT 01.001.022 Base - DataNodes",
+          "url": "https://datanodes.to/dhk5328eba6w/PPSA26767.7z"
+        },
+        {
+          "name": "USA exFAT 01.001.022 Base - FileKeeper",
+          "url": "https://filekeeper.net/2xm7nvljq0mb/PPSA26767.7z"
+        },
+        {
+          "name": "USA exFAT 01.001.022 Base - Akirabox",
+          "url": "https://akirabox.to/0JgG7AjdK3oY/file"
+        },
+        {
+          "name": "USA exFAT 01.001.022 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/bCe5VUMbIB"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA18690",
+      "title": "Lost Ruins",
+      "createdAt": "2026-11-15T20:34:38.712Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/d132c01d575b3b0df6d737d51db3335e6c3af93dd2c820b8bc03713641612e58",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/c49d717f163ea3e25b46f6044f36c3b30d983a027c1895c90a1d69de5b3291ed",
+      "description": "Region: USA\nRelease note: Works on 10.xx and higher",
+      "downloadSource": "https://dlpsgame.com/lost-ruins-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 10.xx Base - Akirabox",
+          "url": "https://akirabox.to/RMKGJWZr8m1o/file"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/imWsi"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/IicI1KldNC"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA06207",
+      "title": "What Remains of Edith Finch",
+      "createdAt": "2026-11-15T20:34:38.712Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/37d0705a3894b06f021108bab7c26d8017068b046f8d98d575af30e18e3f4dfe",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/fa5f36ff5c95f767e0fa9b8e5633042e3558859caf59a406176b5d6f1fc14bcb",
+      "description": "Variant: USA 4.xx\nRegion: USA\nRelease note: Works on 4.xx and higher (with backport)\nContributor: @vincenzoz85\n\nVariant: USA exFAT 01.001\nRegion: USA\nRelease note: exFAT format — FW 01.001 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/what-remains-of-edith-finch-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/jar3XbVjgG2d/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/MztRY"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/KhnkPcoCzJ"
+        },
+        {
+          "name": "USA exFAT 01.001 Base - DataNodes",
+          "url": "https://datanodes.to/vu7snfa189bn/PPSA06207.7z"
+        },
+        {
+          "name": "USA exFAT 01.001 Base - FileKeeper",
+          "url": "https://filekeeper.net/jn6ysdxy348q/PPSA06207.7z"
+        },
+        {
+          "name": "USA exFAT 01.001 Base - Akirabox",
+          "url": "https://akirabox.to/dkD3Y2lMezLQ/file"
+        },
+        {
+          "name": "USA exFAT 01.001 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/LXhaxLUZt3"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA15753",
+      "title": "Nightmare Reaper",
+      "createdAt": "2026-11-15T20:34:38.712Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/fb9f6ae93c0fea0c9ee48adfa9001e5269ae2f31c1497c7280ecb11094aaec38",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/f4e145dba4f785eb13cd751b3b1945464a1cd1b0c08837cee539e93dacf24d54",
+      "description": "Region: USA\nRelease note: Works on 8.xx and higher",
+      "downloadSource": "https://dlpsgame.com/nightmare-reaper-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 8.xx Base - Akirabox",
+          "url": "https://akirabox.to/1RgzRLq2Xmbp/file"
+        },
+        {
+          "name": "USA 8.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1uwtu4"
+        },
+        {
+          "name": "USA 8.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Qou70IGjHi"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA14650",
       "title": "Afterlife VR",
       "createdAt": "2026-11-15T12:26:38.773Z",
@@ -2174,7 +2298,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/7b4d8c38c5001dbd43cc63ae83109beb6918dec3ece1b896af3fd16ed4dd5e8b",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/a16e98e313f9ae10250a33c50696901727fd59f81bc99d09a10cd6e3eb06c6ab",
-      "description": "Region: USA\nRelease note: Works on 4.xx and higher (with backport)",
+      "description": "Variant: USA 4.xx\nRegion: USA\nRelease note: Works on 4.xx and higher (with backport)\n\nVariant: USA exFAT 01.000.002\nRegion: USA\nRelease note: exFAT format — FW 01.000.002 — 4.xx and beyond\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/serious-sam-siberian-mayhem-ps5/",
       "downloadLinks": [
         {
@@ -2224,6 +2348,22 @@
         {
           "name": "USA 4.xx Base - Vikingfile part 4",
           "url": "https://vikingfile.com/f/Fn57pmDF5V"
+        },
+        {
+          "name": "USA exFAT 01.000.002 Base - DataNodes",
+          "url": "https://datanodes.to/pbl2zumig0un/PPSA07020.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.002 Base - FileKeeper",
+          "url": "https://filekeeper.net/15npqjvcspjo/PPSA07020.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.002 Base - Akirabox",
+          "url": "https://akirabox.to/jJD3V1Wb0ma5/file"
+        },
+        {
+          "name": "USA exFAT 01.000.002 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/SRg5lWjudo"
         }
       ]
     },
@@ -144570,6 +144710,35 @@
         {
           "name": "USA exFAT 01.004 Base - Vault (exFAT)",
           "url": "https://datavaults.co/6qmhde3tm198"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA08668",
+      "title": "[exFAT] FINAL FANTASY VII REBIRTH Deluxe Edition",
+      "createdAt": "2026-11-15T20:34:38.712Z",
+      "version": "01.080",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/ff75d4a7bd97e4ecd1e922df0b7a44f56f30cb3e680f44472dbe8ada9dc29a9c",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/816f5916442beae8d282d32b687dca78e1e48b85b83ce5480629e41be354969f",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.080 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.080 Base - DataNodes",
+          "url": "https://datanodes.to/35xxingndbam/PPSA08668.7z"
+        },
+        {
+          "name": "EUR exFAT 01.080 Base - FileKeeper",
+          "url": "https://filekeeper.net/udzaccva7mxh/PPSA08668.7z"
+        },
+        {
+          "name": "EUR exFAT 01.080 Base - Akirabox",
+          "url": "https://akirabox.to/5pVzNKWyAG7w/file"
+        },
+        {
+          "name": "EUR exFAT 01.080 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/3DVXb9ABM9"
         }
       ]
     },

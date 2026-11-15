@@ -1,5 +1,15 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 15/11/2026 à 22:49
+* **HOMEBREW_PAGE**
+  * `SwanStationPS5` (1.6.3) - *Mise à jour (Précédent: 1.6.2)*
+  * `Second Coat: London` (0.4.1) - *Mise à jour (Précédent: 0.4.0)*
+  * `PSFlyCast` (1.3.9) - *Mise à jour (Précédent: 1.3.5)*
+  * `PSSwanStation` (build27) - *Mise à jour (Précédent: build26)*
+  * `Alembic` (0.7.0) - *Mise à jour (Précédent: 0.6.5)*
+  * `Punktfunk` (0.1.2) - *Nouveau*
+  * `Nuvio Pro` (0.2.0-alpha.7) - *Mise à jour (Précédent: 0.2.0-alpha.6)*
+
 ## Build du 15/11/2026 à 13:52
 * **PAYLOADS**
   * `Prosperomgr` (v1.2.1) - *Mise à jour (Précédent: v1.2)*

@@ -3,6 +3,28 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA09114",
+      "title": "Green Hell VR",
+      "createdAt": "2026-11-15T21:11:35.775Z",
+      "version": "2.050.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/43544587a2fd2ab12fca6f73ae8e3d48137a13f24fb40aca688d6c9ede5e2803",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/43544587a2fd2ab12fca6f73ae8e3d48137a13f24fb40aca688d6c9ede5e2803",
+      "description": "Format: zstd\n4 PLAYER CO-OP MODE AND NEW MAPS Brave the rainforest with up to three friends in co-op! Construct shelters from wood, bamboo, and mud. Band together to hunt and defend against the dangers of the rainforest. Now you can even care for wildlife with the new Animal Husbandry Update – earn their trust, build enclosures, and pet your befriended capybaras. Green Hell VR is the most authentic story-driven VR survival game, where you must use real-life wilderness skills. Collect, craft, and carry everything you need while defending against wild animals inside a hostile Amazon jungle to feel like an elite survivalist. Survive and follow the thrilling story of anthropologist Jake Higgins in search of his missing wife in the full story campaign for Green Hell VR. The game also features \"\"Spirits of Amazonia: Part 1\"\" - a free prequel story expansion, with an additional 10+ hours of challenging gameplay.\nRegion: USA to EUR Langs\nFirmware: 10.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nCredits: Thank you, @b0mba1992, for the dump!\nUpdated: 2026-11-15T20:59:45.907Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data",
+          "url": "https://datanodes.to/l4g0cc5k6rvd"
+        },
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/7d3mn1jtoO"
+        }
+      ],
+      "sizeBytes": 5368709120
+    },
+    {
       "titleId": "PPSA03977",
       "title": "The Witcher 3: Wildhunt - Complete Edition",
       "createdAt": "2026-11-14T21:48:29.997Z",
