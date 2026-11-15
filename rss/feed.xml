@@ -96,9 +96,9 @@
     </item>
     <item>
       <title>[Payloads] Prosperomgr</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/v1.2/ProsperoMgr.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/v1.2.1/ProsperoMgr.elf</link>
       <description>A Web-Based All-In-One homebrew manager for your PlayStation 5</description>
-      <pubDate>v1.2</pubDate>
+      <pubDate>v1.2.1</pubDate>
     </item>
     <item>
       <title>[Payloads] Bfplayer-Standalone</title>
@@ -1874,7 +1874,7 @@
       <title>[ProsperoStore] Nuvio Max'd</title>
       <link>https://github.com/HandshakeHackin/Nuvio-maxd-releases</link>
       <description>Experimental PS5 media app with profiles, IPTV, media servers and an optional privileged USB reader. Updated playback/network/text dependencies need console confirmation.</description>
-      <pubDate>1.0.0.25-native</pubDate>
+      <pubDate>1.0.0.26-native</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Spider-Man: Edge of Time</title>
@@ -2018,7 +2018,7 @@
       <title>[ProsperoStore] Halo: Combat Evolved</title>
       <link>https://github.com/thelinkin3000/SlipstreamCE</link>
       <description>Halo: Combat Evolved, built from the decompilation of the Xbox game. Needs your own disc image.</description>
-      <pubDate>build-142</pubDate>
+      <pubDate>build-143</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Jelly5</title>
@@ -2096,7 +2096,7 @@
       <title>[ProsperoStore] Alembic</title>
       <link>https://github.com/fthdgn-gh/Alembic</link>
       <description>Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC, also on SMB, NFS, WebDAV and FTP servers.</description>
-      <pubDate>0.6.4</pubDate>
+      <pubDate>0.6.5</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Cloud Play</title>
@@ -2264,7 +2264,7 @@
       <title>[ProsperoStore] ProsperoCraft</title>
       <link>https://github.com/mateo-cogeanu/ProsperoCraft</link>
       <description>Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.</description>
-      <pubDate>01.000.281</pubDate>
+      <pubDate>01.000.285</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Genesis Plus GX PS5</title>

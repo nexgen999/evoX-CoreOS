@@ -1,5 +1,14 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 15/11/2026 à 13:52
+* **PAYLOADS**
+  * `Prosperomgr` (v1.2.1) - *Mise à jour (Précédent: v1.2)*
+* **HOMEBREW_PAGE**
+  * `Nuvio Max'd` (1.0.0.26-native) - *Mise à jour (Précédent: 1.0.0.25-native)*
+  * `Halo: Combat Evolved` (build-143) - *Mise à jour (Précédent: build-142)*
+  * `Alembic` (0.6.5) - *Mise à jour (Précédent: 0.6.4)*
+  * `ProsperoCraft` (01.000.285) - *Mise à jour (Précédent: 01.000.281)*
+
 ## Build du 15/11/2026 à 05:04
 * **PAYLOADS**
   * `Orbit Store` (v1.9.1) - *Mise à jour (Précédent: v1.9.0)*

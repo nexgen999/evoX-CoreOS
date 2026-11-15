@@ -942,15 +942,15 @@
     {
       "name": "Nuvio Max'd",
       "filename": "PPSA99288.zip",
-      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.25-native/PPSA99288.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.25-native/PPSA99288.zip",
+      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.26-native/PPSA99288.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.26-native/PPSA99288.zip",
       "description": "Experimental PS5 media app with profiles, IPTV, media servers and an optional privileged USB reader. Updated playback/network/text dependencies need console confirmation.",
-      "version": "1.0.0.25-native",
+      "version": "1.0.0.26-native",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99288",
       "author": "HandshakeHackin",
-      "checksum": "304b1ce679089cca614fdcbe7e9c4860255d7d035dd097db1d42abfb77a71dcd",
+      "checksum": "bd4150bb0b220cfd52875f553e389a077eb138bc68c4799a426b98b0dba95b94",
       "source": "https://github.com/HandshakeHackin/Nuvio-maxd-releases"
     },
     {
@@ -1152,15 +1152,15 @@
     {
       "name": "Alembic",
       "filename": "PPSA99594.zip",
-      "url": "https://github.com/fthdgn-gh/Alembic/releases/download/v0.6.4/alembic-app-v0.6.4.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99594/0.6.4/PPSA99594.zip",
+      "url": "https://github.com/fthdgn-gh/Alembic/releases/download/v0.6.5/alembic-app-v0.6.5.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99594/0.6.5/PPSA99594.zip",
       "description": "Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC, also on SMB, NFS, WebDAV and FTP servers.",
-      "version": "0.6.4",
+      "version": "0.6.5",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99594",
       "author": "Fatih Doğan",
-      "checksum": "41423b7e825b46a9e21e4d5aa2a0ebe41326e7ab6645b8a7e330e10ae5e83e1c",
+      "checksum": "e27a8e7c2f0f89a4a95b5ee7ea16f50c3d729dcb423e9e4446c359ff701449cd",
       "source": "https://github.com/fthdgn-gh/Alembic"
     },
     {

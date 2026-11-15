@@ -169,12 +169,12 @@
         {
             "name": "Prosperomgr",
             "filename": "ProsperoMgr.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/v1.2/ProsperoMgr.elf",
-            "local_path": "payloads/ps5_hen_loader/ProsperoMgr/v1.2/ProsperoMgr.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/v1.2.1/ProsperoMgr.elf",
+            "local_path": "payloads/ps5_hen_loader/ProsperoMgr/v1.2.1/ProsperoMgr.elf",
             "description": "A Web-Based All-In-One homebrew manager for your PlayStation 5",
-            "version": "v1.2",
+            "version": "v1.2.1",
             "category": "PS5 HEN Loader",
-            "checksum": "127394cc4f1ac7347fea509e010e80bab7b5ee13d820665474cdc3928d173bce",
+            "checksum": "f9240e53ac5f035b36fb6eca2845dd49827eddfb133d1bbb2810b1a025db9c5b",
             "source": "https://github.com/notmaj0r/ProsperoMgr/releases"
         },
         {
@@ -868,7 +868,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "a886126a66a4a4789f557cc52346700c9c18866836bf1dc6904e89295deac542",
+            "checksum": "9dcfca8e28bc6f379a7bd3dd72a2a561966ffb09ad342661b118130e52c6b4bb",
             "source": "https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf"
         },
         {
