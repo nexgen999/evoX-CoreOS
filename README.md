@@ -192,7 +192,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Orbit Store | [v1.9.0](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.9.0/orbit_store.elf) | `4d2b78ad4c0d...` | A modern, no-BS download manager for PS5. |
+| Orbit Store | [v1.9.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.9.1/orbit_store.elf) | `88caf08827cd...` | A modern, no-BS download manager for PS5. |
 | Ps5Library-Agent | [v0.2.91](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.91/ps5library-agent.elf) | `ac78389a6284...` | You need PS5Library.pkg. |
 | Ps5Shopappkg-Dpi | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/ps5shopappkg-dpi/Source-Fixe/ps5shopappkg-dpi.elf) | `c4672cfa9094...` | You need PS5-SHOP-APPKG.pkg DPI port 9040. |
 
@@ -266,7 +266,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 
 | Application | Version | Empreinte SHA-256 | Description |
 | :--- | :--- | :--- | :--- |
-| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `b38c5277f41c...` | Connect your Bluetooth controllers to your PS5 console. |
+| Anypad-Ps5 V0.6.0 | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/Any-Pad-ps5/Source-Fixe/AnyPad-PS5_v0.6.0.elf) | `a886126a66a4...` | Connect your Bluetooth controllers to your PS5 console. |
 | Fgg-Xsense V1.1 | [1.1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/FGG-XSense/1.1/FGG-XSense_v1.1.elf) | `55195ccb02fb...` | Use an Xbox controller on a jailbroken PlayStation 5. |
 | Ghost-Toothapi | [Source-Fixe](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/ghost-toothAPI/Source-Fixe/ghost-toothAPI.elf) | `744277a72a26...` | ghost-toothAPI. |
 | Omnipad-Ps5 V1.0.4-Hotfix1 | [v1.0.4-hotfix1](https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/OmniPad-PS5/v1.0.4-hotfix1/OmniPad-PS5_v1.0.4-hotfix1.elf) | `00677d6cfac7...` | Universal controller engine and Web Dashboard for PlayStation 5 (FW 7.00 - 13.60). |
@@ -537,7 +537,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Nuvio Max'd | HandshakeHackin | [1.0.0.25-native](https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.25-native/PPSA99288.zip) | `304b1ce67908...` | Experimental PS5 media app with profiles, IPTV, media servers and an optional privileged USB reader. Updated playback/network/text dependencies need console confirmation. |
 | Nuvio Pro | Shashank | [0.2.0-alpha.6](https://github.com/speed-y/nuvio-pro-ps5/releases/download/v0.2.0-alpha.6/PPSA99996.zip) | `ac9a1bd2bb65...` | Nuvio Pro is a controller-first streaming app for jailbroken PS5s, with EVO Player playback, PS5 keyboard search, profiles and resume support. The console hosts its own UI. Tested on firmware 12.70. |
 | Nuvio PS5 | Bilawal Riaz | [0.1.0-alpha.7](https://github.com/bilawalriaz/nuvio-ps5-homebrew/releases/download/v0.1.0-alpha.7/PPSA99997.zip) | `8c56ca5149d3...` | Nuvio TV for a jailbroken PS5, with EVO native playback and the interface served by the console itself. |
-| OGBox | Press5elect | [1.0.1](https://github.com/Press5elect/OGBox/releases/download/v1.0.1/OGBox-v1.0.1.zip) | `f0fc19c55bf7...` | XBOX emulator for PS5 |
+| OGBox | Press5elect | [1.0.2](https://github.com/Press5elect/OGBox/releases/download/v1.0.2/OGBox-v1.0.2.zip) | `3e3366af4a39...` | XBOX emulator for PS5 |
 | OliSe Player | Marice | [02.001.000](https://github.com/Marice/OliSePlayer/releases/download/02.001.000/PPSA01153.zip) | `3711b359f91f...` | Tracker music radio in FastTracker II style, streaming MOD, XM, S3M and IT from The Mod Archive. |
 | OpenNOW PS5 - Prototype | OpenCloudGaming | [0.3.1](https://github.com/OpenCloudGaming/OpenNOW-PS5/releases/download/0.3.1/OpenNOW-PS5-0.3.1.zip) | `2711e4a345c1...` | Experimental native PS5 GeForce NOW client: a working, console-tested prototype with hardware decoding and GPU presentation. |
 | ORION Media Center | XeN-Made | [01.107.000](https://github.com/XeN-Made/Orion-Media-Center/releases/download/01.107.000/PPSA99062.zip) | `e38f72806f90...` | A launcher that shows your PS5 and PS4 games, homebrew, media apps and emulated games in one library, with box art, tabs, themes and autoboot. |
@@ -551,7 +551,7 @@ Les flux RSS et fichiers OPML générés automatiquement permettent de suivre en
 | Playden | leolobato | [0.11.0-beta.4](https://github.com/leolobato/playden-ps5/releases/download/v0.11.0-beta.4/playden-ps5-0.11.0-beta.4.zip) | `67068803e68e...` | Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title. |
 | Porpoise | Ruben Ripalda | [4.5](https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v4.5/Porpoise-4.5.zip) | `e772faa79b9e...` | A native GameCube and Wii emulator for jailbroken PS5, powered by Dolphin. Cover-flow library, box art, memory cards, original music. |
 | Prospero Hi-Fi | Anime0t4ku | [2.2.0](https://github.com/Anime0t4ku/Prospero-Hi-Fi/releases/download/v2.2.0/prospero-hifi.zip) | `9925a19f57a0...` | A Music Player for hombrew enabled PS5 with lossless audio as the main focus. It's heavily based on my MiSTer Hi-FI project. |
-| Prospero Themes | Darkatek7 | [01.000.041](https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.041/PPSA90210.zip) | `7c08f27caf1f...` | Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals. |
+| Prospero Themes | Darkatek7 | [01.000.042](https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.042/PPSA90210.zip) | `37fc6e68303d...` | Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals. |
 | Prospero Win | mpereiraesaa | [0.3.0](https://github.com/mpereiraesaa/prospero-win/releases/download/v0.3.0/prospero-win-v0.3.0.zip) | `b17c5daf19e5...` | Windows compatibility runtime for native PlayStation 5 homebrew. |
 | ProsperoAI | BlackBearReloaded | [01.007.000](https://github.com/quatrixone/ProsperoAI/releases/download/01.007.000/PPSA99004.zip) | `68759ee86af6...` | Local LLM chat app for PS5. |
 | ProsperoEden (Mirror) | BlackBearReloaded | [1.000.111](https://github.com/heydemoura/ProsperoEden/releases/download/v1.000.111/ProsperoEden-v1.000.111.zip) | `5177d7cfa47b...` | Unofficial Eden emulator port for PS5. |

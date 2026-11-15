@@ -732,15 +732,15 @@
         {
             "name": "Prospero Themes",
             "filename": "PPSA90210.zip",
-            "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.041/PPSA90210.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.041/PPSA90210.zip",
+            "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.042/PPSA90210.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.042/PPSA90210.zip",
             "description": "Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.",
-            "version": "01.000.041",
+            "version": "01.000.042",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA90210",
             "author": "Darkatek7",
-            "checksum": "7c08f27caf1fbedf90e84af50f8d9d59b26e1ebf5b9281c402176b9fe560ae0b",
+            "checksum": "37fc6e68303d7806ef883682f54c24044648c4b662f02b491fbc84efb109ed25",
             "source": "https://github.com/Darkatek7/ProsperoThemes"
         },
         {
@@ -1684,15 +1684,15 @@
         {
             "name": "OGBox",
             "filename": "PPSA99251.zip",
-            "url": "https://github.com/Press5elect/OGBox/releases/download/v1.0.1/OGBox-v1.0.1.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99251/1.0.1/PPSA99251.zip",
+            "url": "https://github.com/Press5elect/OGBox/releases/download/v1.0.2/OGBox-v1.0.2.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99251/1.0.2/PPSA99251.zip",
             "description": "XBOX emulator for PS5",
-            "version": "1.0.1",
+            "version": "1.0.2",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99251",
             "author": "Press5elect",
-            "checksum": "f0fc19c55bf7d1c0213cd9d1c485ec981729bb1c96a15bd9af9a05a55529a2fc",
+            "checksum": "3e3366af4a3906a6728605ff817f61aa64aa731d7d5f23260de40741adfb6182",
             "source": "https://github.com/Press5elect/OGBox"
         },
         {

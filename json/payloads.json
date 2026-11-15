@@ -868,7 +868,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "b38c5277f41c2cc2dea6a92664b098246042cc478e787e650b1884ef1589f804",
+      "checksum": "a886126a66a4a4789f557cc52346700c9c18866836bf1dc6904e89295deac542",
       "source": "https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf"
     },
     {
@@ -973,12 +973,12 @@
     {
       "name": "Orbit Store",
       "filename": "orbit_store.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.9.0/orbit_store.elf",
-      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.9.0/orbit_store.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.9.1/orbit_store.elf",
+      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.9.1/orbit_store.elf",
       "description": "A modern, no-BS download manager for PS5.",
-      "version": "v1.9.0",
+      "version": "v1.9.1",
       "category": "PS5 Freeshop",
-      "checksum": "4d2b78ad4c0de1211b93664d5401beb1e19e54452fccc74886d4cb63b659439a",
+      "checksum": "88caf08827cd8141fc18e1d293480633343e0f6f92aa9a43e07de8ee5a497738",
       "source": "https://github.com/saawant12/orbit-store-ps5/releases"
     },
     {

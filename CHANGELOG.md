@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 15/11/2026 à 05:04
+* **PAYLOADS**
+  * `Orbit Store` (v1.9.1) - *Mise à jour (Précédent: v1.9.0)*
+* **HOMEBREW_PAGE**
+  * `Prospero Themes` (01.000.042) - *Mise à jour (Précédent: 01.000.041)*
+  * `OGBox` (1.0.2) - *Mise à jour (Précédent: 1.0.1)*
+
 ## Build du 14/11/2026 à 22:18
 * **HOMEBREW_PAGE**
   * `PS64` (01.000.006) - *Mise à jour (Précédent: 01.000.005)*
