@@ -20,7 +20,7 @@
       <title>Playden</title>
       <link>https://github.com/leolobato/playden-ps5</link>
       <description>Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.</description>
-      <pubDate>0.11.0-beta.4</pubDate>
+      <pubDate>0.11.0</pubDate>
     </item>
     <item>
       <title>PS5Term</title>
@@ -320,7 +320,7 @@
       <title>Prospero Themes</title>
       <link>https://github.com/Darkatek7/ProsperoThemes</link>
       <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
-      <pubDate>01.000.042</pubDate>
+      <pubDate>01.000.043</pubDate>
     </item>
     <item>
       <title>Breath of the Wild</title>
@@ -722,7 +722,7 @@
       <title>Crux2</title>
       <link>https://github.com/Press5elect/Crux2</link>
       <description>PCSX2 (PlayStation 2) as a standalone PS5 title on RADV, with a controller-first Big Picture library, network shares, USB disc drives and RetroAchievements.</description>
-      <pubDate>v1.0.19</pubDate>
+      <pubDate>v1.0.20</pubDate>
     </item>
     <item>
       <title>OGBox</title>

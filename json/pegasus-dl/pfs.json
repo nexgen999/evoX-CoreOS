@@ -3,6 +3,204 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA14364",
+      "title": "Metal Gear Solid Master Collection Version",
+      "createdAt": "2026-11-16T12:26:42.307Z",
+      "version": "1.500",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/1bc475430ec42593940042d3fd2242dca95a65bff9a525961f4aef487f4abfbe",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/1bc475430ec42593940042d3fd2242dca95a65bff9a525961f4aef487f4abfbe",
+      "description": "Format: zstd\nReleased in 1998, this was the first 3D title in the METAL GEAR series. The game pioneers 3D stealth action against the threat of war and global nuclear weapons, using live action footage, cinematic cut scenes, interwoven with innovative gameplay. The storyline, a whirlwind of intrigue and betrayal, has been hailed as the greatest story of the 20th century and was the third title in the METAL GEAR series to become a hit in subsequent years. Also included: an exclusive digital Screenplay Book and Master Book that details the story and characters in Metal Gear Solid and Metal Gear &amp; Metal Gear 2: Solid Snake. [Title lineup] Metal Gear Metal Gear 2: Solid Snake Metal Gear Solid (Including VR Missions/Special Missions) Regional versions of the titles are available as additional downloads. [Digital book] Metal Gear Solid: Screenplay Book Metal Gear Solid: Master Book Metal Gear &amp; Metal Gear 2: Screenplay Book Metal Gear &amp; Metal Gear 2: Master Book The digital books can be accessed from the game's main menu screen. If you already own the PS4™ version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product.\nRegion: EUR\nFirmware: 7.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nUpdated: 2026-11-16T12:00:37.083Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data",
+          "url": "https://datanodes.to/7t0rqv4netcj"
+        },
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/2UxMkUkX1f"
+        }
+      ],
+      "sizeBytes": 5905580032
+    },
+    {
+      "titleId": "PPSA07571",
+      "title": "Mortal Kombat 1 + DLCs",
+      "createdAt": "2026-11-16T12:26:42.307Z",
+      "version": "1.010.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/75a30c50c028ece0817d5c48c9a48f66f3c031e51f5ab6b2e04b35d5b3bb0694",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/5be8af239f09c28dd3f49034b1eb25e5517849da456c70388a073ddaad0d7eb9",
+      "description": "Format: zstd\nNew to Mortal Kombat 1? Get started with the Definitive Edition for the most extensive Mortal Kombat 1 Experience! Includes: Base Game Khaos Reigns Story Expansion Kombat Pack 2* Noob Saibot Cyrax Sektor Ghostface (Scream Franchise) T-1000 (Terminator 2) Conan the Barbarian Madam Bo Kameo Fighter Kombat Pack: Omni-Man (Invincible) Quan Chi Peacemaker (DC’s Peacemaker) Ermac Homelander (The Boys) Takeda Takahashi Kameo Fighters: Tremor Khameleon Janet Cage Mavado Ferra Jean-Claude Van Damme Skin for Johnny Cage 1250 Dragon Krystals Mortal Kombat Movie Skins for Johnny Cage, Shao Kahn, Kitana, Scorpion, and Sub-Zero Tournament Liu Kang Skin Havik Instant Unlock Kameo Unlock Pack Shang Tsung Fighter Khaos Reigns Pre-Order Skins (Wedding Scorpion, Ultimate MK3 Sub-Zero, Empress Mileena, Ultimate MK3 Noob Saibot) *Separate Kombat Pack 2 character bundle not available\nRegion: EUR\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.4 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nUpdated: 2026-11-16T11:56:55.733Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data - pt.1",
+          "url": "https://datanodes.to/ub77y8h7snuj"
+        },
+        {
+          "name": "zstd · Data - pt.2",
+          "url": "https://datanodes.to/iilrkxz6mua3"
+        },
+        {
+          "name": "zstd · Data - pt.3",
+          "url": "https://datanodes.to/82w3ka4g2bnh"
+        },
+        {
+          "name": "zstd · Data - pt.4",
+          "url": "https://datanodes.to/0tt2ixrvt7lx"
+        },
+        {
+          "name": "zstd · Data - pt.5",
+          "url": "https://datanodes.to/cmqfhong1ao7"
+        },
+        {
+          "name": "zstd · Data - pt.6",
+          "url": "https://datanodes.to/v9zdj03t3tpa"
+        },
+        {
+          "name": "zstd · Data - pt.7",
+          "url": "https://datanodes.to/qmr1o5db9x68"
+        },
+        {
+          "name": "zstd · Data - pt.8",
+          "url": "https://datanodes.to/7fnh2kggv17b"
+        },
+        {
+          "name": "zstd · Data - pt.9",
+          "url": "https://datanodes.to/111o3lkn1ygc"
+        },
+        {
+          "name": "zstd · Data - pt.10",
+          "url": "https://datanodes.to/r8xpfu02f88u"
+        },
+        {
+          "name": "zstd · Data - pt.11",
+          "url": "https://datanodes.to/buuwa7ycaclf"
+        },
+        {
+          "name": "zstd · Data - pt.12",
+          "url": "https://datanodes.to/2ggj8rvhc3q2"
+        },
+        {
+          "name": "zstd · Data - pt.13",
+          "url": "https://datanodes.to/qnu3ea3vcn1o"
+        },
+        {
+          "name": "zstd · Data - pt.14",
+          "url": "https://datanodes.to/rj5312nlgscj"
+        },
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/7E9gePiiN1"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/LlmVZXnOy8"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/FSJViPj62E"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/F8adRO9CBp"
+        },
+        {
+          "name": "zstd · Viki - pt.5",
+          "url": "https://vikingfile.com/f/D1whgzw8KA"
+        },
+        {
+          "name": "zstd · Viki - pt.6",
+          "url": "https://vikingfile.com/f/mJ17niXebQ"
+        },
+        {
+          "name": "zstd · Viki - pt.7",
+          "url": "https://vikingfile.com/f/Q6eYnDs85S"
+        },
+        {
+          "name": "zstd · Viki - pt.8",
+          "url": "https://vikingfile.com/f/8WZtRZQ7nr"
+        },
+        {
+          "name": "zstd · Viki - pt.9",
+          "url": "https://vikingfile.com/f/zoX1Cq92pM"
+        },
+        {
+          "name": "zstd · Viki - pt.10",
+          "url": "https://vikingfile.com/f/x8f7O0ddIk"
+        },
+        {
+          "name": "zstd · Viki - pt.11",
+          "url": "https://vikingfile.com/f/nv3mIUXapu"
+        },
+        {
+          "name": "zstd · Viki - pt.12",
+          "url": "https://vikingfile.com/f/pNDAkBqQ3V"
+        },
+        {
+          "name": "zstd · Viki - pt.13",
+          "url": "https://vikingfile.com/f/gJCRqScTvf"
+        },
+        {
+          "name": "zstd · Viki - pt.14",
+          "url": "https://vikingfile.com/f/tGyyJaepr9"
+        },
+        {
+          "name": "zstd · Viki - DLC",
+          "url": "https://vikingfile.com/f/NtAT9u4CdM"
+        }
+      ],
+      "sizeBytes": 143344533504
+    },
+    {
+      "titleId": "PPSA15210",
+      "title": "Dragon Ball Sparking! Zero NEO + DLCs!",
+      "createdAt": "2026-11-16T11:25:42.463Z",
+      "version": "3.000.005",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/284cfef346aac826d65e0cea5b9b988fc6c0b4c125261253d5f9f41aafb18880",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/265e9fe8d1843b05eb2a684bb3f517500f8342c7096549d0ca3e4c2d18b0d20b",
+      "description": "Format: zstd\nDRAGON BALL: Sparking! ZERO takes the legendary gameplay of the Budokai Tenkaichi series and raises it to whole new levels. Become a super warrior and experience the earth-shaking, limit-breaking power of Dragon Ball battles! THE BIGGEST ROSTER IN HISTORY Unleash the strength of over 180 fighters from Dragon Ball Z, Dragon Ball Super, Dragon Ball GT, and selected Dragon Ball movies, all in the base game! Each character comes with their own signature abilities, transformations, and techniques. Make the destructive power of the strongest fighters ever to appear in Dragon Ball yours! BREATHTAKING 3D FIGHTS Engage in heart-pounding, high-speed 3D battles that stay true to the anime and video game series, with breathtaking visuals and authentic combat moves like beam clashes, rush attacks, movements too quick for the eyes to see, and planet-razing ultimate attacks. RIVALS MAKE YOU STRONGER Challenge other players online to test your skills, or sit down with friends offline to hone your skills! Fight your way to become a champion across various tournament modes and victory conditions. BLAZE A NEW PATH Conquer the action-packed battles from the beloved original story, or discover and unlock new encounters for your favorite Z-Fighters and more. Relive your favorite moments from the series through cutscenes you can experience from the perspectives of eight characters! CREATE, PLAY, AND SHARE Recreate your favorite battles from throughout the Dragon Ball story, or set up your dream story battle with your favorite characters! Share your creations with other fans and experience the battles brought to life by imaginations around the world. *In addition to this edition, Deluxe Edition and Ultimate Edition are also available. Please be careful not to purchase the same content twice.\nRegion: USA to EUR Langs\nFirmware: 9.xx+\nAPR: ampr-emu ng 0.4 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nUpdated: 2026-11-16T10:27:22.859Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data - pt.1",
+          "url": "https://datanodes.to/ez0rxeqdcww0"
+        },
+        {
+          "name": "zstd · Data - pt.2",
+          "url": "https://datanodes.to/fr57lrkcdptc"
+        },
+        {
+          "name": "zstd · Data - pt.3",
+          "url": "https://datanodes.to/ll8ogtyiej9i"
+        },
+        {
+          "name": "zstd · Data - pt.4",
+          "url": "https://datanodes.to/6z8m4ujig6ea"
+        },
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/L7qYZEyOG9"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/xUtsr0BPOu"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/Uddw7GRqOn"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/uP6jL60JdA"
+        }
+      ],
+      "sizeBytes": 37473589658
+    },
+    {
       "titleId": "PPSA09114",
       "title": "Green Hell VR",
       "createdAt": "2026-11-15T21:11:35.775Z",

@@ -32,15 +32,15 @@
         {
             "name": "Playden",
             "filename": "FAKE77031.zip",
-            "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.11.0-beta.4/playden-ps5-0.11.0-beta.4.zip",
-            "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.11.0-beta.4/FAKE77031.zip",
+            "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.11.0/playden-ps5-0.11.0.zip",
+            "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.11.0/FAKE77031.zip",
             "description": "Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.",
-            "version": "0.11.0-beta.4",
+            "version": "0.11.0",
             "category": "Apps",
             "kind": "app",
             "titleid": "FAKE77031",
             "author": "leolobato",
-            "checksum": "67068803e68ee60a21b6b75da1c0be24b7bf1dad4a6829248601c39b926e2405",
+            "checksum": "e7a5579a693c4d7f48f1f66fd3339f9f27ef503de56809e1950cb036d77736d3",
             "source": "https://github.com/leolobato/playden-ps5"
         },
         {
@@ -732,15 +732,15 @@
         {
             "name": "Prospero Themes",
             "filename": "PPSA90210.zip",
-            "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.042/PPSA90210.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.042/PPSA90210.zip",
+            "url": "https://github.com/Darkatek7/ProsperoThemes/releases/download/01.000.043/PPSA90210.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA90210/01.000.043/PPSA90210.zip",
             "description": "Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.",
-            "version": "01.000.042",
+            "version": "01.000.043",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA90210",
             "author": "Darkatek7",
-            "checksum": "37fc6e68303d7806ef883682f54c24044648c4b662f02b491fbc84efb109ed25",
+            "checksum": "72411848fec3bc22fce4e0958b4083a447fd21da0af7ee1842129967966945fe",
             "source": "https://github.com/Darkatek7/ProsperoThemes"
         },
         {
@@ -1670,15 +1670,15 @@
         {
             "name": "Crux2",
             "filename": "PPSA99249.zip",
-            "url": "https://github.com/Press5elect/Crux2/releases/download/v1.0.19/Crux2-v1.0.19.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99249/v1.0.19/PPSA99249.zip",
+            "url": "https://github.com/Press5elect/Crux2/releases/download/v1.0.20/Crux2-v1.0.20.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99249/v1.0.20/PPSA99249.zip",
             "description": "PCSX2 (PlayStation 2) as a standalone PS5 title on RADV, with a controller-first Big Picture library, network shares, USB disc drives and RetroAchievements.",
-            "version": "v1.0.19",
+            "version": "v1.0.20",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99249",
             "author": "Press5elect",
-            "checksum": "3352e46699f41838b51853ea95f019f3fef0846be80df68cfae00ffb953a7c86",
+            "checksum": "7feff5c68446db184c0b3af92cb3ded539f5cd45ce6e09683a1f0d4dbf859f65",
             "source": "https://github.com/Press5elect/Crux2"
         },
         {

@@ -1,5 +1,13 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 16/11/2026 à 15:03
+* **PAYLOADS**
+  * `Orbit Store` (v1.9.2) - *Mise à jour (Précédent: v1.9.1)*
+* **HOMEBREW_PAGE**
+  * `Playden` (0.11.0) - *Mise à jour (Précédent: 0.11.0-beta.4)*
+  * `Prospero Themes` (01.000.043) - *Mise à jour (Précédent: 01.000.042)*
+  * `Crux2` (v1.0.20) - *Mise à jour (Précédent: v1.0.19)*
+
 ## Build du 16/11/2026 à 05:05
 * **HOMEBREW_PAGE**
   * `Cyberworld Endless` (0.22.0) - *Mise à jour (Précédent: 0.21.2)*

@@ -3,6 +3,114 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA06732",
+      "title": "Teenage Mutant Ninja Turtles Shredders Revenge",
+      "createdAt": "2026-11-16T12:50:53.364Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/a1767b1c56d5061afa25a00b484959b143ead2e56a6c2dcc21219c56caa04967",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/650cc0f7fbd9f3c5f584a4210ccfb0289fe816bcaeb658bcfad2be521dea637d",
+      "description": "Region: USA\nRelease note: Works on 7.xx and higher",
+      "downloadSource": "https://dlpsgame.com/teenage-mutant-ninja-turtles-shredders-revenge-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 7.xx Base - Akirabox",
+          "url": "https://akirabox.to/9QWmpO0xrGEB/file"
+        },
+        {
+          "name": "USA 7.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/22E6tc"
+        },
+        {
+          "name": "USA 7.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Jih4CyH3j0"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA31536",
+      "title": "Save Room The Merchant",
+      "createdAt": "2026-11-16T12:50:53.364Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/135bcf4b98fc1c75f8ebd5af39b7a90cab3b55da98dabffe808c1b2c204f6834",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/298be9529d8a824efd3b7ce2371886dc93865032dd757c2aff16f69a0f52cb3e",
+      "description": "Region: EUR\nRelease note: Works on 12.xx and higher",
+      "downloadSource": "https://dlpsgame.com/save-room-the-merchant-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 12.xx Base - Akirabox",
+          "url": "https://akirabox.to/ZvqzlKM8y3aD/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/28PYGW"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/mlcAMDjIfP"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA22948",
+      "title": "Mister Mosquito",
+      "createdAt": "2026-11-16T06:44:45.149Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/4c581bfa230ed4e615aefeac85d8797f14e25c9658db1c5f7ec5a247109187af",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/db000b27d55a9517181043d4e56861ac9d60891e772c0315e757e8dfed71ec1b",
+      "description": "Region: USA\nRelease note: Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/mister-mosquito-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/vgKGxBrY638Q/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/YPQTw"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/3HypfOJ3X4"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA22947",
+      "title": "Siren",
+      "createdAt": "2026-11-16T06:44:45.149Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/75675726d3645867a2ef65f072fa26c032bba0ca1d92e339bc3989aacb2e38f9",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/ae324b00c2ad69e511467748cc7114b2a6fd2f72c1a44443f19ec6105b02d309",
+      "description": "Region: USA\nRelease note: Works on 10.xx and higher",
+      "downloadSource": "https://dlpsgame.com/siren-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 10.xx Base - Akirabox part 1",
+          "url": "https://akirabox.to/2bJG8lDWdGOB/file"
+        },
+        {
+          "name": "USA 10.xx Base - Akirabox part 2",
+          "url": "https://akirabox.to/dkD3Y20g9zLQ/file"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/gT88u"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1xBDlo"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/kycd9eEEbH"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/q7TaCL11RG"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA26767",
       "title": "Deadzone Rogue",
       "createdAt": "2026-11-15T20:34:38.712Z",
@@ -181,7 +289,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/bf3bc6ef61831be790b9215fc0c4da15bb255000876cdadb201faaefe59ce0b0",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/23eb5962ccf383b613e5efb1c7cac65114a46193e3f390d3bd30e708eba3ee1f",
-      "description": "Region: USA\nRelease note: Works on 7.xx and higher",
+      "description": "Variant: USA 7.xx\nRegion: USA\nRelease note: Works on 7.xx and higher\n\nVariant: USA exFAT 01.001\nRegion: USA\nRelease note: exFAT format — FW 01.001 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/forest-grove-ps5/",
       "downloadLinks": [
         {
@@ -195,6 +303,22 @@
         {
           "name": "USA 7.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/8sFaGmRLlT"
+        },
+        {
+          "name": "USA exFAT 01.001 Base - DataNodes",
+          "url": "https://datanodes.to/vbuecygo3vaz/PPSA07663.7z"
+        },
+        {
+          "name": "USA exFAT 01.001 Base - FileKeeper",
+          "url": "https://filekeeper.net/5tyoqqplvl93/PPSA07663.7z"
+        },
+        {
+          "name": "USA exFAT 01.001 Base - Akirabox",
+          "url": "https://akirabox.to/9QWmpOYkXGEB/file"
+        },
+        {
+          "name": "USA exFAT 01.001 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/jRMpvJ8dwc"
         }
       ]
     },
@@ -29323,18 +29447,6 @@
           "url": "https://1fichier.com/?zog9vv5vcimzy4ikg52v"
         },
         {
-          "name": "USA 12.xx Base - Mediafire part 1",
-          "url": "https://www.mediafire.com/file/4rmmbz2hw18n4qe/[DLPSGAME.COM]-PPSA07421.part1.rar/file"
-        },
-        {
-          "name": "USA 12.xx Base - Mediafire part 2",
-          "url": "https://www.mediafire.com/file/ivpnptgm6dnzfxp/[DLPSGAME.COM]-PPSA07421.part2.rar/file"
-        },
-        {
-          "name": "USA 12.xx Base - Mediafire part 3",
-          "url": "https://www.mediafire.com/file/w2h1v3d9wli6tg3/[DLPSGAME.COM]-PPSA07421.part3.rar/file"
-        },
-        {
           "name": "USA 12.xx Base - Akirabox part 3",
           "url": "https://akirabox.com/XkrzokRkPzBO/file"
         },
@@ -29345,6 +29457,14 @@
         {
           "name": "USA 12.xx Base - 1fichier part 3",
           "url": "https://1fichier.com/?h59w2olf6axed8cfpczv"
+        },
+        {
+          "name": "USA 12.xx Base - Mediafire part 1",
+          "url": "https://www.mediafire.com/file/4rmmbz2hw18n4qe/[DLPSGAME.COM]-PPSA07421.part1.rar/file"
+        },
+        {
+          "name": "USA 12.xx Base - Mediafire part 2",
+          "url": "https://www.mediafire.com/file/ivpnptgm6dnzfxp/[DLPSGAME.COM]-PPSA07421.part2.rar/file"
         },
         {
           "name": "USA 12.xx BackPort 4.xx - Akirabox",
@@ -109176,7 +109296,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/c3cb336b5f6e2007d22d3cccef02661bdb71fbc88bcbdd5b74eb09be6e75da2c",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/63f595500233834c2e362bbb38a1667f3465b2ef4c12d46ec136e7b6ff28c31e",
-      "description": "Variant: USA 10.xx\nRegion: USA\nRelease note: Working 11. xx — 10.xx — 9.xx — 8.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: Release 2\nContributor: pkg.games\n\nVariant: USA exFAT 01.044\nRegion: USA\nRelease note: exFAT format — FW 01.044\nContributor: pippo",
+      "description": "Variant: USA 10.xx\nRegion: USA\nRelease note: Working 11. xx — 10.xx — 9.xx — 8.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: Release 2\nContributor: pkg.games\n\nVariant: USA exFAT 01.059\nRegion: USA\nRelease note: exFAT format — FW 01.059 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/minecraft-ps5/",
       "downloadLinks": [
         {
@@ -109240,24 +109360,20 @@
           "url": "https://akirabox.com/0JgG75YMN3oY/file"
         },
         {
-          "name": "USA exFAT 01.044 Base - AKIA (exFAT)",
-          "url": "https://akirabox.com/0JgG75YMN3oY/file"
+          "name": "USA exFAT 01.059 Base - DataNodes",
+          "url": "https://datanodes.to/whrnx1jqr54a/PPSA17221.7z"
         },
         {
-          "name": "USA exFAT 01.044 Base - VIKI (exFAT)",
-          "url": "https://vikingfile.com/f/ahR3o6gRIT"
+          "name": "USA exFAT 01.059 Base - FileKeeper",
+          "url": "https://filekeeper.net/snjhdv0pzmkd/PPSA17221.7z"
         },
         {
-          "name": "USA exFAT 01.044 Base - DATA (exFAT)",
-          "url": "https://datanodes.to/ms39ikjlybvx"
+          "name": "USA exFAT 01.059 Base - Akirabox",
+          "url": "https://akirabox.to/obj3jKbJ1zDx/file"
         },
         {
-          "name": "USA exFAT 01.044 Base - FileK (exFAT)",
-          "url": "https://filekeeper.net/bff8r67t0ynr"
-        },
-        {
-          "name": "USA exFAT 01.044 Base - Vault (exFAT)",
-          "url": "https://datavaults.co/2izykrwkq2pc"
+          "name": "USA exFAT 01.059 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/96C5A7Ilv2"
         }
       ]
     },
@@ -144714,6 +144830,64 @@
       ]
     },
     {
+      "titleId": "PPSA06246",
+      "title": "[exFAT] QUBE 2 Ultimate Edition",
+      "createdAt": "2026-11-16T12:50:53.364Z",
+      "version": "01.000.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/2780f26ce15cf2d337a84aca8479420abdbd2563f7ac685a7d3738086f3c4b9a",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/0c2906a4fc6bcb2dc676c0cfe98dfdef06876238c2db3b215838e664b052d023",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.000.001 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.000.001 Base - DataNodes",
+          "url": "https://datanodes.to/1uzvq5ozz4y4/PPSA06246.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - FileKeeper",
+          "url": "https://filekeeper.net/89tqm76als50/PPSA06246.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - Akirabox",
+          "url": "https://akirabox.to/1RgzR0jvvmbp/file"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/b3jg08JigE"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA04609",
+      "title": "[exFAT] ELDEN RING NIGHTREIGN Deluxe Edition",
+      "createdAt": "2026-11-16T12:50:53.364Z",
+      "version": "01.018.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/9d84d485d7a1c21e1ec2fd999f882f10e9872acb59fd91a5f5a7cb06c0b83d2e",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/35537c6bbd41e40e35894c6208b481dffe54e09b5c10e7fd8ca570f9f645082f",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.018.001 — 3.xx and beyond\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.018.001 Base - DataNodes",
+          "url": "https://datanodes.to/ga7xoltwpaja/PPSA04609.7z"
+        },
+        {
+          "name": "EUR exFAT 01.018.001 Base - FileKeeper",
+          "url": "https://filekeeper.net/ykgfe90nf244/PPSA04609.7z"
+        },
+        {
+          "name": "EUR exFAT 01.018.001 Base - Akirabox",
+          "url": "https://akirabox.to/BnkmWbqj6GR0/file"
+        },
+        {
+          "name": "EUR exFAT 01.018.001 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/BzpDVVCVup"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA08668",
       "title": "[exFAT] FINAL FANTASY VII REBIRTH Deluxe Edition",
       "createdAt": "2026-11-15T20:34:38.712Z",
@@ -149366,39 +149540,6 @@
         {
           "name": "EUR exFAT 01.302 Base - Vault (exFAT)",
           "url": "https://datavaults.co/zd2ajte9y6jr"
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA25381",
-      "title": "[exFAT] ELDEN RING NIGHTREIGN Deluxe Edition",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "version": "01.003.002",
-      "category": "game",
-      "posterUrl": "https://pegasus-dl.dev/api/posters/fd73a3f59cfa5c1f52b1a6b03eb16e91a54ec5912bc971c275ce6eb2a7c5db28",
-      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/213cb05672eba35c125ab116516df0b174e672baa4d7c45718e63a04e462fa0a",
-      "description": "Region: EUR\nRelease note: exFAT format — FW 01.003.002 — 4.xx BackPort\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
-      "downloadLinks": [
-        {
-          "name": "EUR exFAT 01.003.002 Base - AKIA (exFAT)",
-          "url": "https://akirabox.com/qLQ36KY1dz19/file"
-        },
-        {
-          "name": "EUR exFAT 01.003.002 Base - VIKI (exFAT)",
-          "url": "https://vikingfile.com/f/9m4yPVgjQz"
-        },
-        {
-          "name": "EUR exFAT 01.003.002 Base - DATA (exFAT)",
-          "url": "https://datanodes.to/wihmakcmt19w"
-        },
-        {
-          "name": "EUR exFAT 01.003.002 Base - FileK (exFAT)",
-          "url": "https://filekeeper.net/jc5aiuzel3gm"
-        },
-        {
-          "name": "EUR exFAT 01.003.002 Base - Vault (exFAT)",
-          "url": "https://datavaults.co/8j2km010ythm"
         }
       ]
     },

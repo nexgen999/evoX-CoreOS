@@ -540,9 +540,9 @@
     </item>
     <item>
       <title>[Payloads] Orbit Store</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.9.1/orbit_store.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.9.2/orbit_store.elf</link>
       <description>A modern, no-BS download manager for PS5.</description>
-      <pubDate>v1.9.1</pubDate>
+      <pubDate>v1.9.2</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-Game-Compressor V1.0.4</title>
@@ -1142,7 +1142,7 @@
       <title>[ProsperoStore] Playden</title>
       <link>https://github.com/leolobato/playden-ps5</link>
       <description>Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.</description>
-      <pubDate>0.11.0-beta.4</pubDate>
+      <pubDate>0.11.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PS5Term</title>
@@ -1442,7 +1442,7 @@
       <title>[ProsperoStore] Prospero Themes</title>
       <link>https://github.com/Darkatek7/ProsperoThemes</link>
       <description>Theme manager for the PS5 home screen: download community themes, preview and apply .p5theme packs, import them from USB and restore the originals.</description>
-      <pubDate>01.000.042</pubDate>
+      <pubDate>01.000.043</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Breath of the Wild</title>
@@ -1844,7 +1844,7 @@
       <title>[ProsperoStore] Crux2</title>
       <link>https://github.com/Press5elect/Crux2</link>
       <description>PCSX2 (PlayStation 2) as a standalone PS5 title on RADV, with a controller-first Big Picture library, network shares, USB disc drives and RetroAchievements.</description>
-      <pubDate>v1.0.19</pubDate>
+      <pubDate>v1.0.20</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] OGBox</title>
