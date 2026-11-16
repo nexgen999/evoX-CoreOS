@@ -1,5 +1,14 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 16/11/2026 à 05:05
+* **HOMEBREW_PAGE**
+  * `Cyberworld Endless` (0.22.0) - *Mise à jour (Précédent: 0.21.2)*
+  * `SwanStationPS5` (1.6.5) - *Mise à jour (Précédent: 1.6.3)*
+  * `PS5SX2` (vk-285-321) - *Mise à jour (Précédent: vk-285-190)*
+  * `Crux2` (v1.0.19) - *Mise à jour (Précédent: v1.0.18)*
+  * `Emby5` (1.3.2) - *Mise à jour (Précédent: 1.3.1)*
+  * `PSBox Cloud Gaming` (1.7.6) - *Mise à jour (Précédent: 1.7.2)*
+
 ## Build du 15/11/2026 à 22:49
 * **HOMEBREW_PAGE**
   * `SwanStationPS5` (1.6.3) - *Mise à jour (Précédent: 1.6.2)*

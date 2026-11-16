@@ -452,15 +452,15 @@
     {
       "name": "SwanStationPS5",
       "filename": "PPSA98510.zip",
-      "url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.6.3/PPSA98510.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98510/1.6.3/PPSA98510.zip",
+      "url": "https://github.com/darkxex/SwanStationPS5/releases/download/1.6.5/PPSA98510.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98510/1.6.5/PPSA98510.zip",
       "description": "SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.",
-      "version": "1.6.3",
+      "version": "1.6.5",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98510",
       "author": "AngelXex",
-      "checksum": "8965cc97abbbdb1d6acbab067938d306476510b22adffef1bc9d22a17416fe47",
+      "checksum": "b864380913d99c2d979deb0608d83d428ef9a403518d5adcc94bdaba6bd41cff",
       "source": "https://github.com/darkxex/SwanStationPS5"
     },
     {
@@ -830,15 +830,15 @@
     {
       "name": "PS5SX2",
       "filename": "PPSA99203.zip",
-      "url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-190/PS5SX2-vk-285-190.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99203/vk-285-190/PPSA99203.zip",
+      "url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-321/PS5SX2-vk-285-321.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99203/vk-285-321/PPSA99203.zip",
       "description": "PCSX2 port for PS5 that runs PS2 games natively with a Vulkan renderer, up to 6x resolution and settings from your phone. Bring your own BIOS and games.",
-      "version": "vk-285-190",
+      "version": "vk-285-321",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99203",
       "author": "Sword",
-      "checksum": "8cec2731ac94a4b0001bc42f502d1f2eab128574cad6e9736238ca20557a55ed",
+      "checksum": "2c72e77a4e58583d6e42909e3d7b82deb5321f39b17776ff4954c05b4825d241",
       "source": "https://github.com/Swordpdf/PS5SX2"
     },
     {
@@ -886,15 +886,15 @@
     {
       "name": "Crux2",
       "filename": "PPSA99249.zip",
-      "url": "https://github.com/Press5elect/Crux2/releases/download/v1.0.18/Crux2-v1.0.18.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99249/v1.0.18/PPSA99249.zip",
+      "url": "https://github.com/Press5elect/Crux2/releases/download/v1.0.19/Crux2-v1.0.19.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99249/v1.0.19/PPSA99249.zip",
       "description": "PCSX2 (PlayStation 2) as a standalone PS5 title on RADV, with a controller-first Big Picture library, network shares, USB disc drives and RetroAchievements.",
-      "version": "v1.0.18",
+      "version": "v1.0.19",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99249",
       "author": "Press5elect",
-      "checksum": "9b585c6d46f855db0eb0b8d50910bc7fef6ed5f113733c218ea7e007deec2471",
+      "checksum": "3352e46699f41838b51853ea95f019f3fef0846be80df68cfae00ffb953a7c86",
       "source": "https://github.com/Press5elect/Crux2"
     },
     {
@@ -1040,15 +1040,15 @@
     {
       "name": "Emby5",
       "filename": "PPSA99515.zip",
-      "url": "https://github.com/bornaradusin/Emby5/releases/download/1.3.1/Emby5-1.3.1.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99515/1.3.1/PPSA99515.zip",
+      "url": "https://github.com/bornaradusin/Emby5/releases/download/1.3.2/Emby5-1.3.2.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99515/1.3.2/PPSA99515.zip",
       "description": "A native Emby/Jellyfin client for PlayStation 5 with media playback, optional Seerr requests, IPTV and VOD",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99515",
       "author": "bornaradusin",
-      "checksum": "c5194742de8118cfce029535e9ddcf4819af5799bbdf84b3cdfe85571ff43339",
+      "checksum": "4fd82194b70ed41e26d897d420dfbe6231ab06cefb9294d586e59519d1447e66",
       "source": "https://github.com/bornaradusin/Emby5"
     },
     {
@@ -1264,15 +1264,15 @@
     {
       "name": "PSBox Cloud Gaming",
       "filename": "PPSA99810.zip",
-      "url": "https://github.com/RafaelNGP/psbox-cloud-gaming/releases/download/v1.7.2/PPSA99810.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.7.2/PPSA99810.zip",
+      "url": "https://github.com/RafaelNGP/psbox-cloud-gaming/releases/download/v1.7.6/PPSA99810.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.7.6/PPSA99810.zip",
       "description": "Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.",
-      "version": "1.7.2",
+      "version": "1.7.6",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99810",
       "author": "RafaelNGP",
-      "checksum": "6beab05e81beaa90a9027f7386d4370365ec3a5128d3600ddcb62f68c44497ed",
+      "checksum": "9dcc366cae29e12c1f94ec8f623fa57843b4a258f14070d918a7e5c4c95a2ef5",
       "source": "https://github.com/RafaelNGP/psbox-cloud-gaming"
     },
     {

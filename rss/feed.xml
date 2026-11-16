@@ -1136,7 +1136,7 @@
       <title>[ProsperoStore] Cyberworld Endless</title>
       <link>https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless</link>
       <description>A roguelike built on the real Mega Man Battle Network 6, from your own ROM: every run jacks MegaMan into a newly generated net of battles, loot and guardian Navis.</description>
-      <pubDate>0.21.2</pubDate>
+      <pubDate>0.22.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Playden</title>
@@ -1574,7 +1574,7 @@
       <title>[ProsperoStore] SwanStationPS5</title>
       <link>https://github.com/darkxex/SwanStationPS5</link>
       <description>SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.</description>
-      <pubDate>1.6.3</pubDate>
+      <pubDate>1.6.5</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] ReKHCoM</title>
@@ -1808,7 +1808,7 @@
       <title>[ProsperoStore] PS5SX2</title>
       <link>https://github.com/Swordpdf/PS5SX2</link>
       <description>PCSX2 port for PS5 that runs PS2 games natively with a Vulkan renderer, up to 6x resolution and settings from your phone. Bring your own BIOS and games.</description>
-      <pubDate>vk-285-190</pubDate>
+      <pubDate>vk-285-321</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Parallax Browser</title>
@@ -1844,7 +1844,7 @@
       <title>[ProsperoStore] Crux2</title>
       <link>https://github.com/Press5elect/Crux2</link>
       <description>PCSX2 (PlayStation 2) as a standalone PS5 title on RADV, with a controller-first Big Picture library, network shares, USB disc drives and RetroAchievements.</description>
-      <pubDate>v1.0.18</pubDate>
+      <pubDate>v1.0.19</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] OGBox</title>
@@ -2036,7 +2036,7 @@
       <title>[ProsperoStore] Emby5</title>
       <link>https://github.com/bornaradusin/Emby5</link>
       <description>A native Emby/Jellyfin client for PlayStation 5 with media playback, optional Seerr requests, IPTV and VOD</description>
-      <pubDate>1.3.1</pubDate>
+      <pubDate>1.3.2</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Régie5</title>
@@ -2246,7 +2246,7 @@
       <title>[ProsperoStore] PSBox Cloud Gaming</title>
       <link>https://github.com/RafaelNGP/psbox-cloud-gaming</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
-      <pubDate>1.7.2</pubDate>
+      <pubDate>1.7.6</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Estante</title>

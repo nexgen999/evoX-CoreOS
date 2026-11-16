@@ -18,15 +18,15 @@
     {
       "name": "Cyberworld Endless",
       "filename": "CWEN00001.zip",
-      "url": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless/releases/download/v0.21.2/cyberworld-endless-ps5.zip",
-      "local_path": "downloads/apps/homebrew_page/game/CWEN00001/0.21.2/CWEN00001.zip",
+      "url": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless/releases/download/v0.22.0/cyberworld-endless-ps5.zip",
+      "local_path": "downloads/apps/homebrew_page/game/CWEN00001/0.22.0/CWEN00001.zip",
       "description": "A roguelike built on the real Mega Man Battle Network 6, from your own ROM: every run jacks MegaMan into a newly generated net of battles, loot and guardian Navis.",
-      "version": "0.21.2",
+      "version": "0.22.0",
       "category": "Games",
       "kind": "game",
       "titleid": "CWEN00001",
       "author": "Saschb2b",
-      "checksum": "bdf56004de23495f108ceb9e42d5e51beb3b911d40210df1d11f56ab1cce877d",
+      "checksum": "7ce48c4ff30558e1fefe9a6c6ccd8d51bc7474c536b30c8e07f32ada64bb4a50",
       "source": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless"
     },
     {
