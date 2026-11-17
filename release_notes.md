@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.16-1503)
+### 🚀 Synthèse de la mise à jour (v2026.11.17-0153)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -222,6 +222,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA50011.zip`
   * `PS5X360-Helper.elf`
   * `PS5X360-source-1.0.2-changes.zip`
+  * `PPSA97358-EvoX.zip`
   * `PPSA97358.zip`
   * `castation-0.4.0.zip`
   * `Porpoise-4.5-source.zip`

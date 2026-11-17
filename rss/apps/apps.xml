@@ -35,10 +35,16 @@
       <pubDate>v1.0.2</pubDate>
     </item>
     <item>
-      <title>Ppsa97358</title>
-      <link>https://github.com/ZiZc3/XPSemu/releases/download/v3.5/PPSA97358.zip</link>
+      <title>Ppsa97358-Evox</title>
+      <link>https://github.com/ZiZc3/XPSemu/releases/download/v3.6/PPSA97358-EvoX.zip</link>
       <description>Xbox emulator (Xemu) port for the PS5</description>
-      <pubDate>v3.5</pubDate>
+      <pubDate>v3.6</pubDate>
+    </item>
+    <item>
+      <title>Ppsa97358</title>
+      <link>https://github.com/ZiZc3/XPSemu/releases/download/v3.6/PPSA97358.zip</link>
+      <description>Xbox emulator (Xemu) port for the PS5</description>
+      <pubDate>v3.6</pubDate>
     </item>
     <item>
       <title>Castation-0.4.0</title>
@@ -198,9 +204,9 @@
     </item>
     <item>
       <title>Ppsa99000</title>
-      <link>https://github.com/darkxex/ProsperoStore/releases/download/v1.000.116/PPSA99000.zip</link>
+      <link>https://github.com/darkxex/ProsperoStore/releases/download/v1.000.120/PPSA99000.zip</link>
       <description>homebrew store</description>
-      <pubDate>v1.000.116</pubDate>
+      <pubDate>v1.000.120</pubDate>
     </item>
     <item>
       <title>Emustore-Ps5-V0.4.0</title>

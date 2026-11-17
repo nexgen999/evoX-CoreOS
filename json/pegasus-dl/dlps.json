@@ -3,6 +3,62 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA06246",
+      "title": "QUBE 2 Ultimate Edition",
+      "createdAt": "2026-11-16T20:58:47.843Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/2780f26ce15cf2d337a84aca8479420abdbd2563f7ac685a7d3738086f3c4b9a",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/0c2906a4fc6bcb2dc676c0cfe98dfdef06876238c2db3b215838e664b052d023",
+      "description": "Variant: USA 4.xx\nRegion: USA\nRelease note: Works on 4.xx and higher (with backport)\nContributor: @vincenzoz85\n\nVariant: USA exFAT 01.000.001\nRegion: USA\nRelease note: exFAT format — FW 01.000.001 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/qube-2-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/2WVGrvqwMGkx/file"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/MsanLBy4Ka"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - DataNodes",
+          "url": "https://datanodes.to/1uzvq5ozz4y4/PPSA06246.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - FileKeeper",
+          "url": "https://filekeeper.net/89tqm76als50/PPSA06246.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - Akirabox",
+          "url": "https://akirabox.to/1RgzR0jvvmbp/file"
+        },
+        {
+          "name": "USA exFAT 01.000.001 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/b3jg08JigE"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA09114",
+      "title": "Green Hell VR",
+      "createdAt": "2026-11-16T20:58:47.843Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/43544587a2fd2ab12fca6f73ae8e3d48137a13f24fb40aca688d6c9ede5e2803",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/43544587a2fd2ab12fca6f73ae8e3d48137a13f24fb40aca688d6c9ede5e2803",
+      "description": "Region: EUR\nRelease note: Works on 10.xx and higher\nContributor: @b0mba1992 for the dump!",
+      "downloadSource": "https://dlpsgame.com/green-hell-vr-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 10.xx Base - Akirabox",
+          "url": "https://akirabox.to/jJD3V1RkNma5/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Zrkf8hJwWX"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA06732",
       "title": "Teenage Mutant Ninja Turtles Shredders Revenge",
       "createdAt": "2026-11-16T12:50:53.364Z",
@@ -289,7 +345,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/bf3bc6ef61831be790b9215fc0c4da15bb255000876cdadb201faaefe59ce0b0",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/23eb5962ccf383b613e5efb1c7cac65114a46193e3f390d3bd30e708eba3ee1f",
-      "description": "Variant: USA 7.xx\nRegion: USA\nRelease note: Works on 7.xx and higher\n\nVariant: USA exFAT 01.001\nRegion: USA\nRelease note: exFAT format — FW 01.001 — 4.xx BackPort\nContributor: pippo",
+      "description": "Variant: USA 7.xx\nRegion: USA\nRelease note: Works on 7.xx and higher\nContributor: Thanks to D0ng3r for the Files, drakmor for ampr-emu and DecKerr97 GUI for the BackPort.\n\nVariant: USA exFAT 01.001\nRegion: USA\nRelease note: exFAT format — FW 01.001 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/forest-grove-ps5/",
       "downloadLinks": [
         {
@@ -144830,38 +144886,9 @@
       ]
     },
     {
-      "titleId": "PPSA06246",
-      "title": "[exFAT] QUBE 2 Ultimate Edition",
-      "createdAt": "2026-11-16T12:50:53.364Z",
-      "version": "01.000.001",
-      "category": "game",
-      "posterUrl": "https://pegasus-dl.dev/api/posters/2780f26ce15cf2d337a84aca8479420abdbd2563f7ac685a7d3738086f3c4b9a",
-      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/0c2906a4fc6bcb2dc676c0cfe98dfdef06876238c2db3b215838e664b052d023",
-      "description": "Region: USA\nRelease note: exFAT format — FW 01.000.001 — 4.xx BackPort\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
-      "downloadLinks": [
-        {
-          "name": "USA exFAT 01.000.001 Base - DataNodes",
-          "url": "https://datanodes.to/1uzvq5ozz4y4/PPSA06246.7z"
-        },
-        {
-          "name": "USA exFAT 01.000.001 Base - FileKeeper",
-          "url": "https://filekeeper.net/89tqm76als50/PPSA06246.7z"
-        },
-        {
-          "name": "USA exFAT 01.000.001 Base - Akirabox",
-          "url": "https://akirabox.to/1RgzR0jvvmbp/file"
-        },
-        {
-          "name": "USA exFAT 01.000.001 Base - Vikingfile",
-          "url": "https://vikingfile.com/f/b3jg08JigE"
-        }
-      ]
-    },
-    {
       "titleId": "PPSA04609",
-      "title": "[exFAT] ELDEN RING NIGHTREIGN Deluxe Edition",
-      "createdAt": "2026-11-16T12:50:53.364Z",
+      "title": "[exFAT] ELDEN RING Deluxe Edition",
+      "createdAt": "2026-11-16T20:58:47.843Z",
       "version": "01.018.001",
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/9d84d485d7a1c21e1ec2fd999f882f10e9872acb59fd91a5f5a7cb06c0b83d2e",
@@ -144884,6 +144911,39 @@
         {
           "name": "EUR exFAT 01.018.001 Base - Vikingfile",
           "url": "https://vikingfile.com/f/BzpDVVCVup"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA25381",
+      "title": "[exFAT] Elden Ring Nightreign Deluxe Edition",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "01.003.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/fd73a3f59cfa5c1f52b1a6b03eb16e91a54ec5912bc971c275ce6eb2a7c5db28",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/213cb05672eba35c125ab116516df0b174e672baa4d7c45718e63a04e462fa0a",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.003.002 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.003.002 Base - AKIA (exFAT)",
+          "url": "https://akirabox.com/qLQ36KY1dz19/file"
+        },
+        {
+          "name": "EUR exFAT 01.003.002 Base - DATA (exFAT)",
+          "url": "https://datanodes.to/wihmakcmt19w"
+        },
+        {
+          "name": "EUR exFAT 01.003.002 Base - VIKI (exFAT)",
+          "url": "https://vikingfile.com/f/9m4yPVgjQz"
+        },
+        {
+          "name": "EUR exFAT 01.003.002 Base - Vault (exFAT)",
+          "url": "https://datavaults.co/8j2km010ythm"
+        },
+        {
+          "name": "EUR exFAT 01.003.002 Base - FileK (exFAT)",
+          "url": "https://filekeeper.net/jc5aiuzel3gm"
         }
       ]
     },
@@ -144924,7 +144984,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/87f178b9f65cc49358d41980dc0fabeb6448cfea8d2a5ddc22e8cf6eb18018e7",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/676eb71886fbbc1f917ef4a4a1f10df2e8905b8f85932c00940de39120a55f1c",
-      "description": "Region: EUR\nRelease note: exFAT format — FW 01.310 — 4.xx BackPort\nContributor: pippo",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.310 — 6.xx BackPort\nContributor: pippo",
       "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
       "downloadLinks": [
         {
@@ -145445,7 +145505,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/23f2f2154ffd2a7a6fd204c89ef82ec39a251400407318313485b8260bac344d",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/23f2f2154ffd2a7a6fd204c89ef82ec39a251400407318313485b8260bac344d",
-      "description": "Region: EUR\nRelease note: exFAT format — FW 02.100 — 4.xx BackPort\nContributor: pippo",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 02.100 — 6.xx BackPort\nContributor: pippo",
       "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
       "downloadLinks": [
         {
@@ -150702,31 +150762,6 @@
         {
           "name": "EUR exFAT 01.015 Base - DATA (exFAT)",
           "url": "https://datanodes.to/fgktq89ce42z"
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA04609",
-      "title": "[exFAT] ELDEN RING Shadow of the Erdtree Edition",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "version": "01.017",
-      "category": "game",
-      "posterUrl": "https://pegasus-dl.dev/api/posters/9d84d485d7a1c21e1ec2fd999f882f10e9872acb59fd91a5f5a7cb06c0b83d2e",
-      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/35537c6bbd41e40e35894c6208b481dffe54e09b5c10e7fd8ca570f9f645082f",
-      "description": "Region: EUR\nRelease note: exFAT format — FW 01.017 — 3.xx and beyond\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
-      "downloadLinks": [
-        {
-          "name": "EUR exFAT 01.017 Base - AKIA (exFAT)",
-          "url": "https://akirabox.com/ex5z2qJwo3Kq/file"
-        },
-        {
-          "name": "EUR exFAT 01.017 Base - VIKI (exFAT)",
-          "url": "https://vikingfile.com/f/Yx2oOmhZWA"
-        },
-        {
-          "name": "EUR exFAT 01.017 Base - Buzz (exFAT)",
-          "url": "https://buzzheavier.com/eqfjuyld9vxm"
         }
       ]
     },

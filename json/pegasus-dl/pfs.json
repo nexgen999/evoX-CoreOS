@@ -3,6 +3,386 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA20612",
+      "title": "DRAGON QUEST III HD-2D Remake",
+      "createdAt": "2026-10-30T22:38:21.178Z",
+      "version": "01.001.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/ad8dc4aa1351c035c9f74a946339ccb6187b57d337a5913fe647d6e7d87be783",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/33b77f15bc575f0cc6b986febeeeedb63a17005d7353cc0b040acd29bc60ca61",
+      "description": "Format: Folder\nDRAGON QUEST III HD-2D Remake is a stunning reimagining of the beloved masterpiece and narrative beginning to The Erdrick Trilogy. Story: Years ago, the great hero Ortega bid farewell to his wife and child as he set off on a quest to defeat the villainous Archfiend, Baramos. Ortega failed his quest, and Baramos still threatens the world. Now, on their sixteenth birthday, Ortega’s only child is summoned by the king of Aliahan and entrusted with a mission of the highest import: to take on Ortega’s quest, vanquish Baramos, and save the world. Build your perfect party: Recruit a variety of allies, with three able to join your party to aid you on your quest. Choose their vocations, appearances and their voices. There's even a brand new vocation exclusive to this remake: the monster wrangler! Travel across an expansive open world: Explore a wealth of towns, castles, caves, towers and dungeons to explore on your adventure, with hidden secrets waiting to be discovered. Strategic, turn-based battles: Battle a vast array of monsters in classic DRAGON QUEST turn-based battles. Set party tactics and switch up weapons, abilities and spells to take on all of the challenging foes that await you.\nRegion: USA\nFirmware: 8.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: This one needs libsceAMPR and fakelib folder; Thank you, Xan!!\nUpdated: 2026-11-16T23:45:21.225Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/o44QCByrJc"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/v5ttby2cz9k4"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/GBNh82NWHw"
+        }
+      ],
+      "sizeBytes": 47126528655
+    },
+    {
+      "titleId": "PPSA24689",
+      "title": "Romancing SaGa -Minstrel Song- Remastered International",
+      "createdAt": "2026-11-16T23:37:44.230Z",
+      "version": "01.000.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/134990b72801bd777b317bc2d11c2f9306645f0e331a44ff4655e68949551ca4",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/134990b72801bd777b317bc2d11c2f9306645f0e331a44ff4655e68949551ca4",
+      "description": "Format: Folder\nThe gods created man and man created stories. The primordial creator Marda brought forth the land of Mardias. In ages past a mighty battle rocked this land, when Elore, the king of the gods, fought three malicious deities: Death, Saruin and Schirach. After a long and drawn-out struggle, Death and Schirach were sealed away and rendered powerless, with the final deity Saruin also trapped through the power of the Fatestones and the noble sacrifice of the hero Mirsa. Now 1,000 years have passed since that titanic battle. The Fatestones lie scattered across the world and the gods of evil are resurgent once more. Eight heroes set off on their own journeys, as if guided by the hand of fate. What tales will these adventurers weave across the vast tapestry of Mardias? You are the only one who can decide! The original Romancing SaGa -Minstrel Song- included many of the SaGa series trademark elements, such as the Glimmer and Combo mechanics and was considered to be the epitome of the series when it first released. The free scenario system that lets you create your own storyline remains at the core of the game, letting you select one of eight protagonists with completely different origins and backstories, then set off on a unique journey. This remastered edition has evolved in all areas, featuring upgraded HD graphics and numerous enhancements to improve playability. And for the first time ever, the game will be fully playable in French, German, Italian and Spanish. This makes it highly recommended for both fans of the original and newcomers to the SaGa series. Features • Brand new localization in French, German, Italian and Spanish (English also included) • Full HD graphical update • Schiele, Marina, Monica and Flammar can now be recruited • Enhanced and more difficult bosses • High speed mode • Mini Maps • New Game+ mode *This game software supports Japanese, English, French, Italian, German, and Spanish. *Please note that there is also a version of “Romancing SaGa -Minstrel Song- Remastered” that only supports Japanese and English, so be careful not to purchase it twice or by mistake. *Save data from versions that only support Japanese and English cannot be transferred to this game software.\nRegion: USA\nFirmware: 5.xx+\nAPR: Yes\nCredits: This one needs libsceAMPR in a fakelib folder; Thank you, Xan!\nUpdated: 2026-11-16T23:23:19.571Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/rPyQnjLikF"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/z6fgpe8ltud4"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/RWJkNQmkeQ"
+        }
+      ],
+      "sizeBytes": 12627203850
+    },
+    {
+      "titleId": "PPSA06812",
+      "title": "Ys VIII Lacrimosa of Dana",
+      "createdAt": "2026-11-16T23:37:44.230Z",
+      "version": "01.001.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/4bfa2bd3d0d2d40a32e8bca1f0b746d83013ceb9cd8be70e9b461d6cd335b0ab",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/4bfa2bd3d0d2d40a32e8bca1f0b746d83013ceb9cd8be70e9b461d6cd335b0ab",
+      "description": "Format: Folder\nEmbark on an exciting Ys adventure! When Adol awakens shipwrecked and stranded on a cursed island, he and the other castaways form a village to survive and seek a way off the isle. Amidst this, Adol begins to dream of a mysterious blue-haired maiden…\nRegion: USA\nFirmware: 5.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: This one needs libsceAMPR.sprx in a fakelib folder; Thank you, Xan!\nUpdated: 2026-11-16T23:14:48.764Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/og8DzXWKuk"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/31t4jgatxn8f"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/kUFryWjgLb"
+        }
+      ],
+      "sizeBytes": 22119081574
+    },
+    {
+      "titleId": "PPSA07528",
+      "title": "Ys IX: Monstrum Nox",
+      "createdAt": "2026-11-16T23:37:44.230Z",
+      "version": "01.001.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/5c1f58a4f426451694d37c13db5729c10d8ee1ca88ddec66f2d41a958ede11f3",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/5c1f58a4f426451694d37c13db5729c10d8ee1ca88ddec66f2d41a958ede11f3",
+      "description": "Format: Folder\nExperience the thrilling adventure of Ys IX: Monstrum Nox as it pierces through the shadows onto PS5™! After being cursed by a mysterious woman, Adol Christin becomes a Monstrum—a powerful being who can exorcize monsters. To escape from the prison city of Balduq, Adol must ally with five other Monstrums, each with their own unique Gifts, and stop the Grimwald Nox, a shadowy dimension on the brink of overflowing into the real world! The following content is included for free: Doll's \"Erdlingen Gothic\" Costume Raging Bull's \"Holstein Ranch\" Costume Item Set: \"Monstrum Box A\" Item Set: \"Monstrum Box B\" White Cat's \"Eternian Blue\" Costume Crimson King's \"Ecliptic Errant\" Costume Crimson King's \"Monstrum Troupe\" Costume White Cat's \"Monstrum Troupe\" Costume Hawk's \"Monstrum Troupe\" Costume Doll's \"Monstrum Troupe\" Costume Raging Bull's \"Monstrum Troupe\" Costume Renegade's \"Monstrum Troupe\" Costume Ride-Along Aprilis Ride-Along Morbihan Ride-Along Geis Ride-Along White Cat Ride-Along Raging Bull Monstrum Musings Set Eyewear Set A Eyewear Set B Unique Mask Set Variety Mask Set Haute Cuisine Weapon Set\nRegion: EU\nFirmware: 5.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: This one needs fakelib folder with libsceAMPR.sprx; Thank you, Xan!\nUpdated: 2026-11-16T23:02:29.124Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Vik1",
+          "url": "https://vikingfile.com/f/UJgppjTGlT"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/5j3vs9zbr3e8"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/Wi49qGpBQG"
+        }
+      ],
+      "sizeBytes": 9867687363
+    },
+    {
+      "titleId": "PPSA09797",
+      "title": "OCTOPATH TRAVELER II",
+      "createdAt": "2026-11-16T23:37:44.230Z",
+      "version": "01.001.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/2adf048da6a7379506040331ebafc974482bc3d41f5900fadf87012cd591a0a0",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/2adf048da6a7379506040331ebafc974482bc3d41f5900fadf87012cd591a0a0",
+      "description": "Format: Folder\n【Product Information】 This game is a brand-new entry in the OCTOPATH TRAVELER series, the first installment of which was initially released in 2018 and sold over 3 million copies worldwide. It takes the series’ HD-2D graphics, a fusion of retro pixel art and 3DCG, to even greater heights. In the world of Solistia, eight new travelers venture forth into an exciting new era. Where will you go? What will you do? Whose tale will you bring to life? Every path is yours to take. Embark on an adventure all your own. 【Features】 1. Begin your adventure as one of eight new travelers, each with their own origins, motivations, and unique skills. 2. The series’ HD-2D graphics, a fusion of retro pixel art and 3DCG, have reached even greater heights. 3. The story takes place in Solistia, where diverse cultures thrive from east to west and the industries of the new era flourish. You can sail the seas and explore every corner of a world that changes from day to night. 4. Each traveler has a unique set of Path Actions they can use to battle townspeople, obtain items, take others along in their travels, and more. Where will you go? What will you do? Every path is yours to take. 5. Familiar mechanics from the original game have been preserved, like the freedom to develop your travelers’ jobs and skills, as well as the Break and Boost system that made battles so exhilarating. New mechanics have also been added.\nRegion: USA\nFirmware: 5.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: This one needs fakelib folder and libsceAmpr.sprx; Thank you, Xan!\nUpdated: 2026-11-16T22:55:20.238Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/Dh5hdI7lMf"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/dvwajghk4wch"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/TENq5XmZEt"
+        }
+      ],
+      "sizeBytes": 21893595791
+    },
+    {
+      "titleId": "PPSA28492",
+      "title": "OCTOPATH TRAVELER 0",
+      "createdAt": "2026-11-16T23:37:44.230Z",
+      "version": "01.003.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/63e0d3806f0ca957f14543d2aa8b354d684e8a501ea0e2d222eeba45eeab64f2",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/63e0d3806f0ca957f14543d2aa8b354d684e8a501ea0e2d222eeba45eeab64f2",
+      "description": "Format: Folder\nPS4®ダウンロード版とPS5®ダウンロード版の両方をダウンロードできるタイトルです 【商品概要】 全世界500万本を突破したRPG「オクトパストラベラー」シリーズ最新作。 オルステラ大陸を舞台に、神の指輪を巡る復讐と復興の物語が描かれる。 ドット絵と3DCGを融合したグラフィック表現「HD-2D」や、プレイヤーごとのロールプレイを楽しめる「フィールドコマンド」、プレイヤーの腕で戦局を覆す「ブレイク＆ブースト」など、シリーズでおなじみの特徴は健在。 さらに、あなた自身が主人公となる「キャラクターメイク」や、故郷を復興する「タウンビルド」など、シリーズ初の新システムも。 復讐の道を進むのか、復興の旅を拓くのか 全ては君に託される。 旅立とう、君が創る物語へ―― 【特徴】 (1)本作の主人公はあなた自身。見た目や声、髪型に加えて仕草や好きな食べ物まで。キャラクターメイクで、自分の分身を創ろう！ (2)故郷の町を復興する「タウンビルド」が新登場！仲間たちや旅先で出会った人々を町に移住させて、君だけの町を創ろう！ (3)戦略的かつ爽快な「8人編成コマンドバトル」。30人以上の仲間たちから、君だけのパーティを編成しよう！ (4)「フィールドコマンド」を使って、自分の町に招いたり、町の人々とバトルをしたり、アイテムを入手したり……。何処に行くのか、何をするのか――全ては君に託される。 (5)アビリティを装備のように付け替えられる「セレクトアビリティ」システムが新登場。仲間を育てて得られる技を、他の仲間が覚えることも。\nRegion: JPN to EUR Languages\nFirmware: 10.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: Thank you, Xan!\nUpdated: 2026-11-16T22:44:34.550Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Viki",
+          "url": "https://vik1ngfile.site/f/JuXvQDsy8L"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/50nwdmlw937s"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/3zivZuIe1X"
+        }
+      ],
+      "sizeBytes": 32770600468
+    },
+    {
+      "titleId": "PPSA13715",
+      "title": "STAR OCEAN THE SECOND STORY R",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "01.010.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/4c618bc6c05331c0124c869ddb30dde915e22384dad929e8fb0b3dc7ee850788",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/ff6b5271b8775e92174ca44d010331ab61c89d12000733319d4a1c574dff2630",
+      "description": "Format: Folder\nSave data played in the PS4® download version can be transferred to the PS5® download version within the game. Subtitles also available in French, Italian, German and Spanish with software update The highly acclaimed second instalment in the STAR OCEAN series, returns as STAR OCEAN THE SECOND STORY R. Brought to life with a unique 2.5D aesthetic, which fuses 2D pixel characters and 3D environments, this remake includes everything that made the original release so great while adding new elements too! Experience new battle mechanics, full Japanese and English voice overs, original and re-arranged music, fast-travel and so much more! Discover the definitive version of a classic but modernized JRPG that’s perfect for newcomers and long-time fans alike. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4® game disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.\nRegion: US\nFirmware: 6.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: Create a fakelib folder and put libsceAmpr.sprx in it for this one; Thank you, Xan!\nUpdated: 2026-11-16T22:29:56.446Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/Vxjr1qb9id"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/igx7z065h0hu"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/O3XXWF5R0Y"
+        }
+      ],
+      "sizeBytes": 16986595656
+    },
+    {
+      "titleId": "PPSA22320",
+      "title": "DRAGON QUEST I & II HD-2D Remake",
+      "createdAt": "2026-11-16T22:36:43.246Z",
+      "version": "01.000.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/2a850c80d0278861fa92ece37a4704042eec26646de8cf2cfc2fc1715f57665e",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/b788f917fab575e2605bbc15332a9913f35032386c6f4596bb65ed8284d6251a",
+      "description": "Format: Folder\nDRAGON QUEST I &amp; II HD-2D Remake is a stunning reimagination of the first two legendary adventures in The Erdrick Trilogy, brought together in one package. DRAGON QUEST I Story: Thanks to the heroic efforts of the legendary Erdrick, the Lord of the Underworld was defeated and peace returned to the land of Alefgard. Yet this peace was not to last, as the diabolical Dragonlord has risen and unleashed hordes of monsters on the realm once more. Now, descendant of Erdrick, it is your destiny to defeat this new evil and rescue the world from its plight! DRAGON QUEST II Story: Many years have passed since Alefgard was saved at the hero's hand, earning him the same title as his storied forebear. The descendants of this Erdrick and his scions founded three kingdoms that thrived in peacetime. Yet, darkness stirs once more and a sudden invasion of malicious monsters plunges the world into shadow again. All that stands between the forces of evil and their wicked ambitions is a band of young princes and princesses of Erdrick's lineage. The time has come for them to venture forth and honor their ancestor's legacy! ---------- Players with existing save data for DRAGON QUEST III HD-2D Remake are entitled to the following bonus in-game items in both DRAGON QUEST I and DRAGON QUEST II*. The marvellous makeover kit contains: • DRAGON QUEST I: One dog suit • DRAGON QUEST II: One cat suit *These items can also be obtained by playing the game. These bonus in-game items can be acquired by: DRAGON QUEST I: Opening the chest inside the inn in Tantegel. DRAGON QUEST II: Opening the chest inside the inn in Midenhall. Your save data for DRAGON QUEST III HD-2D Remake must be tied to the same account that you play DRAGON QUEST I &amp; II HD-2D Remake with for you to claim these rewards. You are still eligible for these rewards if you start playing DRAGON QUEST III HD-2D Remake after you have begun playing DRAGON QUEST I &amp; II HD-2D Remake. This only applies to save data for DRAGON QUEST III HD-2D Remake (2024), not DRAGON QUEST III: The Seeds of Salvation (2019). These rewards are subject to change without notice.)\nRegion: USA to EUR Langs\nFirmware: 10.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: Create a fakelib folder and put libsceAmpr.sprx in it for this one; Thank you, Xan!\nUpdated: 2026-11-16T22:08:25.002Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Viki",
+          "url": "https://vik1ngfile.site/f/spm3DdCXLc"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/rkha29w9ka86"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/Vr9EdBA9wk"
+        }
+      ],
+      "sizeBytes": 51324859187
+    },
+    {
+      "titleId": "PPSA13427",
+      "title": "Horizon Zero Dawn Remastered",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "1.009",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e6f341a05ed186d5d486382c6eb1277224ed6538ee0ff0b865d23bdfcb00e1d3",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/bda865153338a16c9698af47a8dee08a41c4495c5295f6feda6f5e634288f671",
+      "description": "Format: zstd\nExperience the critically acclaimed Horizon Zero Dawn™ with stunning new visuals and upgraded features. In a far future where colossal machines roam and rule the Earth, pockets of humanity survive in unique tribes among the lush, overgrown ruins of our long-lost civilization. Take up bow and spear as Aloy, a young machine hunter and outcast of her tribe, as she discovers her origins, the truth of this mysterious world, and her own destiny to save it from impending doom. On her journey, Aloy will come across unique tribes, lively settlements, and compelling characters and companions. But this open world is also teeming with wildlife and danger. Awe-inspiring yet deadly hostile machines patrol the majestic landscape, corrupted by an unknown force. In combat, you will unleash devastating, tactical attacks utilizing an exciting arsenal of weapons against fearsome machines and nefarious rival factions. Horizon Zero Dawn™ is a multi-award-winning action role-playing game and this Remastered Edition brings to life the beloved wilds of Aloy’s world in even higher fidelity with the power and potential of the PlayStation®5 console. PlayStation®5 Features • Breathtaking visuals with 4K and HDR support • Near-instant load times with Ultra High-Speed SSD • Fully immersive sound via PS5® Tempest 3D AudioTech1 • Feel every thrill with the DualSense® wireless controller’s adaptive triggers and haptic feedback Existing owners of Horizon Zero Dawn (PS4)* and/or Horizon Zero Dawn Complete Edition (PS4, PS5) can upgrade to the digital version of Horizon Zero Dawn Remastered on PlayStation 5 console. This includes fans who added the game to their libraries during PlayStation’s Play At Home initiative.**[1] *Owners of the Horizon Zero Dawn PS4 game disc can access this offer by inserting the game disc into their PS5 console (and will need to keep the disc inserted each time to play the game). PS4 game disc owners who buy the PS5 Digital Edition disc-free console will not be able to access the upgrade offer.[1][2] **Redemptions via PlayStation Plus are not eligible to upgrade.\nRegion: EUR\nFirmware: 9.xx+\nAPR: ampr-emu ng 0.4 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nUpdated: 2026-11-16T18:16:11.114Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data - pt.1",
+          "url": "https://datanodes.to/77q6bl7wy8vz"
+        },
+        {
+          "name": "zstd · Data - pt.2",
+          "url": "https://datanodes.to/q7jlelxmy9ip"
+        },
+        {
+          "name": "zstd · Data - pt.3",
+          "url": "https://datanodes.to/2peyrnjffgqw"
+        },
+        {
+          "name": "zstd · Data - pt.4",
+          "url": "https://datanodes.to/juqm0if2af6y"
+        },
+        {
+          "name": "zstd · Data - pt.5",
+          "url": "https://datanodes.to/dkgj3ki0ve7r"
+        },
+        {
+          "name": "zstd · Data - pt.6",
+          "url": "https://datanodes.to/0ii6rk83n95o"
+        },
+        {
+          "name": "zstd · Data - pt.7",
+          "url": "https://datanodes.to/hyh61m2gj7f2"
+        },
+        {
+          "name": "zstd · Data - pt.8",
+          "url": "https://datanodes.to/sq609gnxk9wf"
+        },
+        {
+          "name": "zstd · Data - pt.9",
+          "url": "https://datanodes.to/jbx1mfpmojqk"
+        },
+        {
+          "name": "zstd · Data - pt.10",
+          "url": "https://datanodes.to/tzw564twl6wx"
+        },
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/ZqVlKkfzdk"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/QCFxcKN9VF"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/61AnLbOOfK"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/bW99QPF1GO"
+        },
+        {
+          "name": "zstd · Viki - pt.5",
+          "url": "https://vikingfile.com/f/UMMEEoBD67"
+        },
+        {
+          "name": "zstd · Viki - pt.6",
+          "url": "https://vikingfile.com/f/Gk6pcPoEvY"
+        },
+        {
+          "name": "zstd · Viki - pt.7",
+          "url": "https://vikingfile.com/f/TGIg1V9YjH"
+        },
+        {
+          "name": "zstd · Viki - pt.8",
+          "url": "https://vikingfile.com/f/TfjBbmr9SD"
+        },
+        {
+          "name": "zstd · Viki - pt.9",
+          "url": "https://vikingfile.com/f/DfpLc7W9ra"
+        },
+        {
+          "name": "zstd · Viki - pt.10",
+          "url": "https://vikingfile.com/f/e2SIVY7cn9"
+        }
+      ],
+      "sizeBytes": 99106370355
+    },
+    {
+      "titleId": "PPSA31246",
+      "title": "Resident Evil Requiem",
+      "createdAt": "2026-11-16T17:31:42.953Z",
+      "version": "1.310",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/87f178b9f65cc49358d41980dc0fabeb6448cfea8d2a5ddc22e8cf6eb18018e7",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/676eb71886fbbc1f917ef4a4a1f10df2e8905b8f85932c00940de39120a55f1c",
+      "description": "Format: zstd\nA new era of survival horror arrives with Resident Evil Requiem, the latest and most immersive entry yet in the iconic Resident Evil series. Experience terrifying survival horror with FBI analyst Grace Ashcroft, and dive into pulse-pounding action with legendary agent Leon S. Kennedy. Both of their journeys and unique gameplay styles intertwine into a heart-stopping, emotional experience that will chill you to your core. *There are other bundles that include this product. Please be careful of duplicate purchases.\nRegion: EUR\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.4 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nUpdated: 2026-11-16T17:00:49.798Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data - pt.1",
+          "url": "https://datanodes.to/fclkyv53w9th"
+        },
+        {
+          "name": "zstd · Data - pt.2",
+          "url": "https://datanodes.to/5lqx7dm9ibmz"
+        },
+        {
+          "name": "zstd · Data - pt.3",
+          "url": "https://datanodes.to/85nx077od1ih"
+        },
+        {
+          "name": "zstd · Data - pt.4",
+          "url": "https://datanodes.to/gb2cuv39xmdc"
+        },
+        {
+          "name": "zstd · Data - pt.5",
+          "url": "https://datanodes.to/7ehbqejwr1gs"
+        },
+        {
+          "name": "zstd · Data - pt.6",
+          "url": "https://datanodes.to/rpwzam2d67za"
+        },
+        {
+          "name": "zstd · Data - pt.7",
+          "url": "https://datanodes.to/yuox1of18s3q"
+        },
+        {
+          "name": "zstd · Data - pt.8",
+          "url": "https://datanodes.to/6ba09t6lg3lu"
+        },
+        {
+          "name": "zstd · Viki - pt.1",
+          "url": "https://vikingfile.com/f/xQXifF6sjS"
+        },
+        {
+          "name": "zstd · Viki - pt.2",
+          "url": "https://vikingfile.com/f/vrCYv2cWoA"
+        },
+        {
+          "name": "zstd · Viki - pt.3",
+          "url": "https://vikingfile.com/f/X4u4H3kjdm"
+        },
+        {
+          "name": "zstd · Viki - pt.4",
+          "url": "https://vikingfile.com/f/Rt96a71u0k"
+        },
+        {
+          "name": "zstd · Viki - pt.5",
+          "url": "https://vikingfile.com/f/aRyzEY7AdI"
+        },
+        {
+          "name": "zstd · Viki - pt.6",
+          "url": "https://vikingfile.com/f/x5J8dftl4F"
+        },
+        {
+          "name": "zstd · Viki - pt.7",
+          "url": "https://vikingfile.com/f/fKpudPMTee"
+        },
+        {
+          "name": "zstd · Viki - pt.8",
+          "url": "https://vikingfile.com/f/BX0OkZHCAS"
+        }
+      ],
+      "sizeBytes": 82570746266
+    },
+    {
       "titleId": "PPSA14364",
       "title": "Metal Gear Solid Master Collection Version",
       "createdAt": "2026-11-16T12:26:42.307Z",

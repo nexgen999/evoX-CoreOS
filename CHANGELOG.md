@@ -1,5 +1,23 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 17/11/2026 à 01:53
+* **APPS**
+  * `Ppsa97358-Evox` (v3.6) - *Nouveau*
+  * `Ppsa97358` (v3.6) - *Mise à jour (Précédent: v3.5)*
+  * `Ppsa99000` (v1.000.120) - *Mise à jour (Précédent: v1.000.116)*
+* **HOMEBREW_PAGE**
+  * `Cyberworld Endless` (0.22.2) - *Mise à jour (Précédent: 0.22.0)*
+  * `PC5` (2.4.2) - *Mise à jour (Précédent: 2.3.13)*
+  * `XPSemu` (v3.6) - *Mise à jour (Précédent: v3.5)*
+  * `SwanStationPS5` (1.6.6) - *Mise à jour (Précédent: 1.6.5)*
+  * `ProsperoStore` (1.000.120) - *Mise à jour (Précédent: 1.000.116)*
+  * `PSFlyCast` (1.4.1) - *Mise à jour (Précédent: 1.3.9)*
+  * `PSSwanStation` (build28) - *Mise à jour (Précédent: build27)*
+  * `Crux2` (v1.0.22) - *Mise à jour (Précédent: v1.0.20)*
+  * `BattleShip Remix` (v2.0.1-port.13) - *Mise à jour (Précédent: v2.0.1-port.12)*
+  * `ProsperoCraft` (01.000.286) - *Mise à jour (Précédent: 01.000.285)*
+  * `PS5 Backup Center` (3.1.0) - *Mise à jour (Précédent: 3.0.0)*
+
 ## Build du 16/11/2026 à 15:03
 * **PAYLOADS**
   * `Orbit Store` (v1.9.2) - *Mise à jour (Précédent: v1.9.1)*

@@ -9,7 +9,8 @@
     <outline text="Ppsa50011" title="Ppsa50011" type="rss" xmlUrl="https://github.com/BrinooTk/PS5X360/releases/download/v1.0.2/PPSA50011.zip" description="x360 emu for ps5, you need xpsemu_tools.elf"/>
     <outline text="Ps5X360-Helper" title="Ps5X360-Helper" type="rss" xmlUrl="https://github.com/BrinooTk/PS5X360/releases/download/v1.0.2/PS5X360-Helper.elf" description="x360 emu for ps5, you need xpsemu_tools.elf"/>
     <outline text="Ps5X360-Source-1.0.2-Changes" title="Ps5X360-Source-1.0.2-Changes" type="rss" xmlUrl="https://github.com/BrinooTk/PS5X360/releases/download/v1.0.2/PS5X360-source-1.0.2-changes.zip" description="x360 emu for ps5, you need xpsemu_tools.elf"/>
-    <outline text="Ppsa97358" title="Ppsa97358" type="rss" xmlUrl="https://github.com/ZiZc3/XPSemu/releases/download/v3.5/PPSA97358.zip" description="Xbox emulator (Xemu) port for the PS5"/>
+    <outline text="Ppsa97358-Evox" title="Ppsa97358-Evox" type="rss" xmlUrl="https://github.com/ZiZc3/XPSemu/releases/download/v3.6/PPSA97358-EvoX.zip" description="Xbox emulator (Xemu) port for the PS5"/>
+    <outline text="Ppsa97358" title="Ppsa97358" type="rss" xmlUrl="https://github.com/ZiZc3/XPSemu/releases/download/v3.6/PPSA97358.zip" description="Xbox emulator (Xemu) port for the PS5"/>
     <outline text="Castation-0.4.0" title="Castation-0.4.0" type="rss" xmlUrl="https://github.com/BrinooTk/castation/releases/download/v0.4.0/castation-0.4.0.zip" description="Dreamcast flycast emu for ps5"/>
     <outline text="Porpoise-4.5-Source" title="Porpoise-4.5-Source" type="rss" xmlUrl="https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v4.5/Porpoise-4.5-source.zip" description="GameCube and Wii Dolphin emu for ps5"/>
     <outline text="Porpoise-4.5" title="Porpoise-4.5" type="rss" xmlUrl="https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5/releases/download/v4.5/Porpoise-4.5.zip" description="GameCube and Wii Dolphin emu for ps5"/>
@@ -36,7 +37,7 @@
     <outline text="Emulatorpack" title="Emulatorpack" type="rss" xmlUrl="https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/EmulatorPack.zip" description="Backup manager for PS5"/>
     <outline text="Prosperomultitools" title="Prosperomultitools" type="rss" xmlUrl="https://github.com/SvenGDK/Prospero-Multi-Tools/releases/download/v1/ProsperoMultiTools.zip" description="Backup manager for PS5"/>
     <outline text="Prosperoexplorer-V1" title="Prosperoexplorer-V1" type="rss" xmlUrl="https://github.com/SvenGDK/Prospero-Explorer/releases/download/v1.0/ProsperoExplorer-v1.zip" description="File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network"/>
-    <outline text="Ppsa99000" title="Ppsa99000" type="rss" xmlUrl="https://github.com/darkxex/ProsperoStore/releases/download/v1.000.116/PPSA99000.zip" description="homebrew store"/>
+    <outline text="Ppsa99000" title="Ppsa99000" type="rss" xmlUrl="https://github.com/darkxex/ProsperoStore/releases/download/v1.000.120/PPSA99000.zip" description="homebrew store"/>
     <outline text="Emustore-Ps5-V0.4.0" title="Emustore-Ps5-V0.4.0" type="rss" xmlUrl="https://github.com/romanocry/EmuStore-PS5/releases/download/v0.4.0/EmuStore-PS5-v0.4.0.zip" description="hEmuStore-PS5"/>
   </body>
 </opml>

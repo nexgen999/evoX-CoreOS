@@ -953,10 +953,16 @@
       <pubDate>v1.0.2</pubDate>
     </item>
     <item>
-      <title>[Applications] Ppsa97358</title>
-      <link>https://github.com/ZiZc3/XPSemu/releases/download/v3.5/PPSA97358.zip</link>
+      <title>[Applications] Ppsa97358-Evox</title>
+      <link>https://github.com/ZiZc3/XPSemu/releases/download/v3.6/PPSA97358-EvoX.zip</link>
       <description>Xbox emulator (Xemu) port for the PS5</description>
-      <pubDate>v3.5</pubDate>
+      <pubDate>v3.6</pubDate>
+    </item>
+    <item>
+      <title>[Applications] Ppsa97358</title>
+      <link>https://github.com/ZiZc3/XPSemu/releases/download/v3.6/PPSA97358.zip</link>
+      <description>Xbox emulator (Xemu) port for the PS5</description>
+      <pubDate>v3.6</pubDate>
     </item>
     <item>
       <title>[Applications] Castation-0.4.0</title>
@@ -1116,9 +1122,9 @@
     </item>
     <item>
       <title>[Applications] Ppsa99000</title>
-      <link>https://github.com/darkxex/ProsperoStore/releases/download/v1.000.116/PPSA99000.zip</link>
+      <link>https://github.com/darkxex/ProsperoStore/releases/download/v1.000.120/PPSA99000.zip</link>
       <description>homebrew store</description>
-      <pubDate>v1.000.116</pubDate>
+      <pubDate>v1.000.120</pubDate>
     </item>
     <item>
       <title>[Applications] Emustore-Ps5-V0.4.0</title>
@@ -1136,7 +1142,7 @@
       <title>[ProsperoStore] Cyberworld Endless</title>
       <link>https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless</link>
       <description>A roguelike built on the real Mega Man Battle Network 6, from your own ROM: every run jacks MegaMan into a newly generated net of battles, loot and guardian Navis.</description>
-      <pubDate>0.22.0</pubDate>
+      <pubDate>0.22.2</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Playden</title>
@@ -1196,7 +1202,7 @@
       <title>[ProsperoStore] PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.</description>
-      <pubDate>2.3.13</pubDate>
+      <pubDate>2.4.2</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Home5</title>
@@ -1538,7 +1544,7 @@
       <title>[ProsperoStore] XPSemu</title>
       <link>https://github.com/ZiZc3/XPSemu</link>
       <description>Original Xbox emulator for PS5, based on xemu.</description>
-      <pubDate>v3.5</pubDate>
+      <pubDate>v3.6</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PSXS5</title>
@@ -1574,7 +1580,7 @@
       <title>[ProsperoStore] SwanStationPS5</title>
       <link>https://github.com/darkxex/SwanStationPS5</link>
       <description>SwanStationPS5 is a PlayStation 1 emulator that runs all games using SwanStation core.</description>
-      <pubDate>1.6.5</pubDate>
+      <pubDate>1.6.6</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] ReKHCoM</title>
@@ -1622,7 +1628,7 @@
       <title>[ProsperoStore] ProsperoStore</title>
       <link>https://github.com/darkxex/ProsperoStore</link>
       <description>Native app store for PS5 homebrew: browse this catalog, install apps and keep them up to date.</description>
-      <pubDate>1.000.116</pubDate>
+      <pubDate>1.000.120</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] ProsperoRadio</title>
@@ -1832,19 +1838,19 @@
       <title>[ProsperoStore] PSFlyCast</title>
       <link>https://github.com/Press5elect/PSFlycast</link>
       <description>Flycast (Dreamcast, NAOMI and Atomiswave) as a standalone PS5 title on RADV, with a controller-only interface.</description>
-      <pubDate>1.3.9</pubDate>
+      <pubDate>1.4.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PSSwanStation</title>
       <link>https://github.com/Press5elect/PSSwanStation</link>
       <description>A PlayStation (PS1) emulator built on SwanStation, with a controller-first library, ES-DE themes and game videos, network shares, USB disc drives, CRT shaders and RetroAchievements.</description>
-      <pubDate>build27</pubDate>
+      <pubDate>build28</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Crux2</title>
       <link>https://github.com/Press5elect/Crux2</link>
       <description>PCSX2 (PlayStation 2) as a standalone PS5 title on RADV, with a controller-first Big Picture library, network shares, USB disc drives and RetroAchievements.</description>
-      <pubDate>v1.0.20</pubDate>
+      <pubDate>v1.0.22</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] OGBox</title>
@@ -1862,7 +1868,7 @@
       <title>[ProsperoStore] BattleShip Remix</title>
       <link>https://github.com/lucasliet/BattleShip-remix</link>
       <description>Native PS5 port of Smash Remix, the Super Smash Bros. 64 mod, built on the SSB64 decompilation and libultraship. Bring your own Smash Remix ROM.</description>
-      <pubDate>v2.0.1-port.12</pubDate>
+      <pubDate>v2.0.1-port.13</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Prospero Hi-Fi</title>
@@ -2270,7 +2276,7 @@
       <title>[ProsperoStore] ProsperoCraft</title>
       <link>https://github.com/mateo-cogeanu/ProsperoCraft</link>
       <description>Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.</description>
-      <pubDate>01.000.285</pubDate>
+      <pubDate>01.000.286</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Genesis Plus GX PS5</title>
@@ -2317,8 +2323,8 @@
     <item>
       <title>[ProsperoStore] PS5 Backup Center</title>
       <link>https://github.com/consolecenterstudio/ps5-backup-center</link>
-      <description>Back up, compare and sync your PS5 games, saves, apps and DLC across two PS5s, USB drives, a NAS, Switch and Switch 2 emulators, from the TV or any browser.</description>
-      <pubDate>3.0.0</pubDate>
+      <description>Download games from a paired PS5, then install or transfer them. Back up, compare, sync and restore saves across PS5, USB, NAS and cloud. Manage PS5 apps, DLC, Switch and emulator saves.</description>
+      <pubDate>3.1.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Arcade Gallery</title>

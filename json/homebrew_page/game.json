@@ -18,15 +18,15 @@
     {
       "name": "Cyberworld Endless",
       "filename": "CWEN00001.zip",
-      "url": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless/releases/download/v0.22.0/cyberworld-endless-ps5.zip",
-      "local_path": "downloads/apps/homebrew_page/game/CWEN00001/0.22.0/CWEN00001.zip",
+      "url": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless/releases/download/v0.22.2/cyberworld-endless-ps5.zip",
+      "local_path": "downloads/apps/homebrew_page/game/CWEN00001/0.22.2/CWEN00001.zip",
       "description": "A roguelike built on the real Mega Man Battle Network 6, from your own ROM: every run jacks MegaMan into a newly generated net of battles, loot and guardian Navis.",
-      "version": "0.22.0",
+      "version": "0.22.2",
       "category": "Games",
       "kind": "game",
       "titleid": "CWEN00001",
       "author": "Saschb2b",
-      "checksum": "7ce48c4ff30558e1fefe9a6c6ccd8d51bc7474c536b30c8e07f32ada64bb4a50",
+      "checksum": "60d0535a4e04ab3480d6eb26d2a057d7c5fc46bdd6c3f79689185c24e9591a24",
       "source": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless"
     },
     {
@@ -718,15 +718,15 @@
     {
       "name": "BattleShip Remix",
       "filename": "PPSA99264.zip",
-      "url": "https://github.com/lucasliet/BattleShip-remix/releases/download/v2.0.1-port.12/BattleShip-Remix-ps5-PPSA99264.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99264/v2.0.1-port.12/PPSA99264.zip",
+      "url": "https://github.com/lucasliet/BattleShip-remix/releases/download/v2.0.1-port.13/BattleShip-Remix-ps5-PPSA99264.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99264/v2.0.1-port.13/PPSA99264.zip",
       "description": "Native PS5 port of Smash Remix, the Super Smash Bros. 64 mod, built on the SSB64 decompilation and libultraship. Bring your own Smash Remix ROM.",
-      "version": "v2.0.1-port.12",
+      "version": "v2.0.1-port.13",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99264",
       "author": "Lucas Oliveira",
-      "checksum": "8e07b9030e939c818935ccc9973952721be63f60c9956d84830cb754fe9c378f",
+      "checksum": "c1aaec69e4aa8aea456b07ce2509e208cabed5345059ab7d114fc851df4008bf",
       "source": "https://github.com/lucasliet/BattleShip-remix"
     },
     {
@@ -1250,15 +1250,15 @@
     {
       "name": "ProsperoCraft",
       "filename": "PPSA99874.zip",
-      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.285/PPSA99874.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.285/PPSA99874.zip",
+      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.286/PPSA99874.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.286/PPSA99874.zip",
       "description": "Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.",
-      "version": "01.000.285",
+      "version": "01.000.286",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99874",
       "author": "mateo-cogeanu",
-      "checksum": "c46d07bb0ca56988e83cacc7f5b2b495f8ff70f36c4dbaca134d5ba15f505ae4",
+      "checksum": "6c7e019ec85cfc74085fe1de1e7213a589dc9e0ce3c8d8271feee0a88aa3c031",
       "source": "https://github.com/mateo-cogeanu/ProsperoCraft"
     },
     {
