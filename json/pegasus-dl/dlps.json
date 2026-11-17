@@ -3,6 +3,446 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA35929",
+      "title": "Rebooted Fate",
+      "createdAt": "2026-11-17T13:15:37.554Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/d82ade3787e888c6aae8196fcb85936613d701edb203d3ebd2ec3842cf0b8b5a",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/87fe10c211df2096a276688dbe1162f2fb66dd68dc6e493e62eef10b8fe6dfec",
+      "description": "Region: ASIA\nRelease note: Works on 13.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/rebooted-fate-ps5/",
+      "downloadLinks": [
+        {
+          "name": "ASIA 13.xx Base - Akirabox part 1",
+          "url": "https://akirabox.to/obj3jKb7rzDx/file"
+        },
+        {
+          "name": "ASIA 13.xx Base - Akirabox part 2",
+          "url": "https://akirabox.to/9QWmpOYANGEB/file"
+        },
+        {
+          "name": "ASIA 13.xx Base - Akirabox part 3",
+          "url": "https://akirabox.to/b5OzdABVlGB8/file"
+        },
+        {
+          "name": "ASIA 13.xx Base - Akirabox part 4",
+          "url": "https://akirabox.to/RMKGJ0XKV31o/file"
+        },
+        {
+          "name": "ASIA 13.xx Base - Akirabox part 5",
+          "url": "https://akirabox.to/5pVzNKaAbG7w/file"
+        },
+        {
+          "name": "ASIA 13.xx Base - Akirabox part 6",
+          "url": "https://akirabox.to/LJlGnKV7Rm15/file"
+        },
+        {
+          "name": "ASIA 13.xx Base - Akirabox part 7",
+          "url": "https://akirabox.to/APVma1gMVmXo/file"
+        },
+        {
+          "name": "ASIA 13.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1ogNf6"
+        },
+        {
+          "name": "ASIA 13.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/1keWnY"
+        },
+        {
+          "name": "ASIA 13.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/k3qcq"
+        },
+        {
+          "name": "ASIA 13.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/1wk5OC"
+        },
+        {
+          "name": "ASIA 13.xx Base - Rootz part 5",
+          "url": "https://www.rootz.so/d/o5hUO"
+        },
+        {
+          "name": "ASIA 13.xx Base - Rootz part 6",
+          "url": "https://www.rootz.so/d/2AyXKa"
+        },
+        {
+          "name": "ASIA 13.xx Base - Rootz part 7",
+          "url": "https://www.rootz.so/d/1siEWe"
+        },
+        {
+          "name": "ASIA 13.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/YJTqrHH89C"
+        },
+        {
+          "name": "ASIA 13.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/dTjaz2qJiO"
+        },
+        {
+          "name": "ASIA 13.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/nIsEyQCeLY"
+        },
+        {
+          "name": "ASIA 13.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/oElF2V9NnB"
+        },
+        {
+          "name": "ASIA 13.xx Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/1bigtj1O1H"
+        },
+        {
+          "name": "ASIA 13.xx Base - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/5LqTzSBDbU"
+        },
+        {
+          "name": "ASIA 13.xx Base - Vikingfile part 7",
+          "url": "https://vikingfile.com/f/21u42cvQbj"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA37582",
+      "title": "Summers Heartbeat",
+      "createdAt": "2026-11-17T13:15:37.554Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/ac15ae9c0766e246701e1d5579e764afe935540781e0f9827d9751445c0d0853",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/72eeaeebad12eec7c50b10e1e3ba4f339c95fbc11bc9314b4dbfbf85dc11fc2a",
+      "description": "Region: ASIA\nRelease note: Works on 12.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/summers-heartbeat-ps5/",
+      "downloadLinks": [
+        {
+          "name": "ASIA 12.xx Base - Akirabox part 1",
+          "url": "https://akirabox.to/APVma1g0wmXo/file"
+        },
+        {
+          "name": "ASIA 12.xx Base - Akirabox part 2",
+          "url": "https://akirabox.to/0PdzyJkQdGeA/file"
+        },
+        {
+          "name": "ASIA 12.xx Base - Akirabox part 3",
+          "url": "https://akirabox.to/jJD3V1RL0ma5/file"
+        },
+        {
+          "name": "ASIA 12.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/g1zpQ"
+        },
+        {
+          "name": "ASIA 12.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/XyI6K"
+        },
+        {
+          "name": "ASIA 12.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/c08xs"
+        },
+        {
+          "name": "ASIA 12.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/bjp6JB70Ab"
+        },
+        {
+          "name": "ASIA 12.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/FVHJbCuDLj"
+        },
+        {
+          "name": "ASIA 12.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/Nix1ZJVXt0"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA26324",
+      "title": "Vanity Fair The Pursuit",
+      "createdAt": "2026-11-17T13:15:37.554Z",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA26324_308da9b4a1df0baabc23706243147383a7343c5c82c9034e51b198139abc59d1/icon0.webp",
+      "description": "Region: ASIA\nRelease note: Works on 10.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/vanity-fair-the-pursuit-ps5/",
+      "downloadLinks": [
+        {
+          "name": "ASIA 10.xx Base - Akirabox",
+          "url": "https://akirabox.to/dkD3Y2qRezLQ/file"
+        },
+        {
+          "name": "ASIA 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/FC7cW"
+        },
+        {
+          "name": "ASIA 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Fx9OD1Fqp7"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA39185",
+      "title": "A Love Letter in Snowfall",
+      "createdAt": "2026-11-17T13:15:37.554Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/ce778de299cace1173445d03e0253c980db63a673cc4cfa13fbaf358e0fa6553",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/c6ced4338012e3ec72dc10e070e3846619d9b6e997cf453827e3816f765bf38b",
+      "description": "Region: ASIA\nRelease note: Works on 13.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/a-love-letter-in-snowfall-ps5/",
+      "downloadLinks": [
+        {
+          "name": "ASIA 13.xx Base - Akirabox part 1",
+          "url": "https://akirabox.to/BnkmWbwlYGR0/file"
+        },
+        {
+          "name": "ASIA 13.xx Base - Akirabox part 2",
+          "url": "https://akirabox.to/ZvqzlKo4B3aD/file"
+        },
+        {
+          "name": "ASIA 13.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1Y36X2"
+        },
+        {
+          "name": "ASIA 13.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/POihM"
+        },
+        {
+          "name": "ASIA 13.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/S1TySXFud1"
+        },
+        {
+          "name": "ASIA 13.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/C1NlhKciR8"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA37308",
+      "title": "Heroines Through My Lens",
+      "createdAt": "2026-11-17T13:15:37.554Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/40f24f8801a6ea55ab7be2ec1353bb23f9c7707ff1c37c240dda19c9c9f1bb23",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/99ed7029e5123fb1a40ee1429aff3d78ebb80b5896cd29f589bf3fbcc74d7bb5",
+      "description": "Region: ASIA\nRelease note: Works on 12.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/heroines-through-my-lens-ps5/",
+      "downloadLinks": [
+        {
+          "name": "ASIA 12.xx Base - Akirabox part 1",
+          "url": "https://akirabox.to/l76mZ96pxGan/file"
+        },
+        {
+          "name": "ASIA 12.xx Base - Akirabox part 2",
+          "url": "https://akirabox.to/l5YzMl1693yO/file"
+        },
+        {
+          "name": "ASIA 12.xx Base - Akirabox part 3",
+          "url": "https://akirabox.to/E1x3AZdKdzyk/file"
+        },
+        {
+          "name": "ASIA 12.xx Base - Akirabox part 4",
+          "url": "https://akirabox.to/rk9zK0YX4G0l/file"
+        },
+        {
+          "name": "ASIA 12.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/36Z1s"
+        },
+        {
+          "name": "ASIA 12.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/LMrpo"
+        },
+        {
+          "name": "ASIA 12.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/1Joeae"
+        },
+        {
+          "name": "ASIA 12.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/78PtQ"
+        },
+        {
+          "name": "ASIA 12.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/6fqCmqGDSu"
+        },
+        {
+          "name": "ASIA 12.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/giPuv3bxlI"
+        },
+        {
+          "name": "ASIA 12.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/qmqkssDemN"
+        },
+        {
+          "name": "ASIA 12.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/lbe3P7NCSF"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA31578",
+      "title": "The Loves Ordeal",
+      "createdAt": "2026-11-17T13:15:37.554Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/27cfd7b049cea8c69115b9e6e92b7f50642b742bcc1901cc9af5ea3d06c0d6c1",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/5eef873efda26ecc49d61476919b16ce1d403a006e9d10aa613d0dc8d025c38e",
+      "description": "Region: ASIA\nRelease note: Works on 11.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/the-loves-ordeal-ps5/",
+      "downloadLinks": [
+        {
+          "name": "ASIA 11.xx Base - Akirabox part 1",
+          "url": "https://akirabox.to/wgWGqDJbqz4o/file"
+        },
+        {
+          "name": "ASIA 11.xx Base - Akirabox part 2",
+          "url": "https://akirabox.to/APVma1D7lmXo/file"
+        },
+        {
+          "name": "ASIA 11.xx Base - Akirabox part 3",
+          "url": "https://akirabox.to/9AqGQ8xA0zMn/file"
+        },
+        {
+          "name": "ASIA 11.xx Base - Akirabox part 4",
+          "url": "https://akirabox.to/0JgG7Aj2l3oY/file"
+        },
+        {
+          "name": "ASIA 11.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/17j648"
+        },
+        {
+          "name": "ASIA 11.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/2CLd6O"
+        },
+        {
+          "name": "ASIA 11.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/13hFCa"
+        },
+        {
+          "name": "ASIA 11.xx Base - Rootz part 4",
+          "url": "https://www.rootz.so/d/2GNTto"
+        },
+        {
+          "name": "ASIA 11.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/ub8JcN64p7"
+        },
+        {
+          "name": "ASIA 11.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/Q81BsPgKjD"
+        },
+        {
+          "name": "ASIA 11.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/1PIvfB8suh"
+        },
+        {
+          "name": "ASIA 11.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/wURqQ7TD14"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA06537",
+      "title": "Sword and Fairy Together Forever",
+      "createdAt": "2026-11-17T13:15:37.554Z",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA06537_21500b46d4e2aadb1c6d4ece89afa473901d9e38f3dce16976a5373b4dd4f80a/icon0.webp",
+      "description": "Region: ASIA\nRelease note: Works on 4.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/sword-and-fairy-together-forever-ps5/",
+      "downloadLinks": [
+        {
+          "name": "ASIA 4.xx Base - Akirabox part 1",
+          "url": "https://akirabox.to/Z9dzBXVyMmk1/file"
+        },
+        {
+          "name": "ASIA 4.xx Base - Akirabox part 2",
+          "url": "https://akirabox.to/b5OzdAJxaGB8/file"
+        },
+        {
+          "name": "ASIA 4.xx Base - Akirabox part 3",
+          "url": "https://akirabox.to/RMKGJ0Ry131o/file"
+        },
+        {
+          "name": "ASIA 4.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/21t67U"
+        },
+        {
+          "name": "ASIA 4.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/pCrQG"
+        },
+        {
+          "name": "ASIA 4.xx Base - Rootz part 3",
+          "url": "https://www.rootz.so/d/25uwz2"
+        },
+        {
+          "name": "ASIA 4.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/pTYzor8C09"
+        },
+        {
+          "name": "ASIA 4.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/zuWNzR4ig9"
+        },
+        {
+          "name": "ASIA 4.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/i3eRbfTmEO"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA24061",
+      "title": "FAIRY TAIL 2",
+      "createdAt": "2026-11-17T13:15:37.554Z",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA24061_e4259139ea25f0441484a6f70c36a49d2f272f5fb0a5f9e64cdab1e0c4e9227e/icon0.webp",
+      "description": "Region: ASIA\nRelease note: Works on 9.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/fairy-tail-2-ps5/",
+      "downloadLinks": [
+        {
+          "name": "ASIA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/l76mZ96opGan/file"
+        },
+        {
+          "name": "ASIA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1Qflw0"
+        },
+        {
+          "name": "ASIA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/aFVzOifj44"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA26573",
+      "title": "Class of Heroes 3 Remaster",
+      "createdAt": "2026-11-17T07:09:00.118Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/430d223683fce46a0de49cb15b81762b68cc89fba344d26b47dcb4fb4f6de4e4",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/a120edfab5c32e665d8e8995b1e1bda98eeeaaf4b4e939a5b8bf1d05ef0fa6e1",
+      "description": "Region: EUR\nRelease note: Works on 12.xx and higher",
+      "downloadSource": "https://dlpsgame.com/class-of-heroes-3-remaster-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 12.xx Base - Akirabox",
+          "url": "https://akirabox.to/0JgG7AqRn3oY/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/2EEaY4"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/RZNTKakZoh"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA08202",
+      "title": "Shantae",
+      "createdAt": "2026-11-17T07:09:00.118Z",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA08202_064e7f3f860509092b97ec9365a89412e3ce608935f1efc66728f4395635d6dc/icon0.webp",
+      "description": "Region: USA\nRelease note: Works on 7.xx and higher",
+      "downloadSource": "https://dlpsgame.com/shantae-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 7.xx Base - Akirabox",
+          "url": "https://akirabox.to/7d5GLWryLzxR/file"
+        },
+        {
+          "name": "USA 7.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/2ACjke"
+        },
+        {
+          "name": "USA 7.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/PEi8Rp12r2"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA06246",
       "title": "QUBE 2 Ultimate Edition",
       "createdAt": "2026-11-16T20:58:47.843Z",
@@ -58510,58 +58950,6 @@
           "url": "https://akirabox.com/Z9dzBKbJqGk1/file"
         },
         {
-          "name": "USA 12.xx Base - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/sqQ1QzvDaA"
-        },
-        {
-          "name": "USA 12.xx Base - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/vXD6aaiYJF"
-        },
-        {
-          "name": "USA 12.xx Base - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/69M3x7FVDi"
-        },
-        {
-          "name": "USA 12.xx Base - Vikingfile part 4",
-          "url": "https://vikingfile.com/f/R3ULWnAfie"
-        },
-        {
-          "name": "USA 12.xx Base - Vikingfile part 5",
-          "url": "https://vikingfile.com/f/8RPR7x4ir4"
-        },
-        {
-          "name": "USA 12.xx Base - Vikingfile part 6",
-          "url": "https://vikingfile.com/f/httKCsrbot"
-        },
-        {
-          "name": "USA 12.xx Base - Vikingfile part 7",
-          "url": "https://vikingfile.com/f/HC4c8WNpT6"
-        },
-        {
-          "name": "USA 12.xx Base - Vikingfile part 8",
-          "url": "https://vikingfile.com/f/HcoW8v7DdG"
-        },
-        {
-          "name": "USA 12.xx Base - Vikingfile part 9",
-          "url": "https://vikingfile.com/f/QneQJ3Q09a"
-        },
-        {
-          "name": "USA 12.xx Base - Vikingfile part 10",
-          "url": "https://vikingfile.com/f/Kjtop3gAtE"
-        },
-        {
-          "name": "USA 12.xx Base - Vikingfile part 11",
-          "url": "https://vikingfile.com/f/JYahXoLGM0"
-        },
-        {
-          "name": "USA 12.xx Base - Vikingfile part 12",
-          "url": "https://vikingfile.com/f/XW9GEBe0e8"
-        },
-        {
-          "name": "USA 12.xx Base - Vikingfile part 13",
-          "url": "https://vikingfile.com/f/sYm08Goepg"
-        },
-        {
           "name": "USA 12.xx Base - 1fichier part 2",
           "url": "https://1fichier.com/?auxulltvblqa7yf6t6p3"
         },
@@ -58612,6 +59000,54 @@
         {
           "name": "USA 12.xx Base - 1fichier part 14",
           "url": "https://1fichier.com/?ruttqum3a3mwlnd5w0gi"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/sqQ1QzvDaA"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/vXD6aaiYJF"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/69M3x7FVDi"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 4",
+          "url": "https://vikingfile.com/f/R3ULWnAfie"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 5",
+          "url": "https://vikingfile.com/f/8RPR7x4ir4"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 6",
+          "url": "https://vikingfile.com/f/httKCsrbot"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 7",
+          "url": "https://vikingfile.com/f/HC4c8WNpT6"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 8",
+          "url": "https://vikingfile.com/f/HcoW8v7DdG"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 9",
+          "url": "https://vikingfile.com/f/QneQJ3Q09a"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 10",
+          "url": "https://vikingfile.com/f/Kjtop3gAtE"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 11",
+          "url": "https://vikingfile.com/f/JYahXoLGM0"
+        },
+        {
+          "name": "USA 12.xx Base - Vikingfile part 12",
+          "url": "https://vikingfile.com/f/XW9GEBe0e8"
         },
         {
           "name": "USA 12.xx Base - Mediafire part 1",

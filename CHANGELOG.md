@@ -1,5 +1,13 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 17/11/2026 à 15:50
+* **PAYLOADS**
+  * `Ps5-Ezremote-Client V2.21` (2.21) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `TubeBlock` (01.000.208) - *Mise à jour (Précédent: 01.000.207)*
+  * `Second Coat: London` (0.4.2) - *Mise à jour (Précédent: 0.4.1)*
+  * `Emby5` (1.3.3) - *Mise à jour (Précédent: 1.3.2)*
+
 ## Build du 17/11/2026 à 01:53
 * **APPS**
   * `Ppsa97358-Evox` (v3.6) - *Nouveau*

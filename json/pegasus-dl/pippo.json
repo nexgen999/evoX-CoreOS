@@ -3,6 +3,190 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA29727",
+      "title": "Goodnight Universe",
+      "createdAt": "2026-11-17T13:50:00.064Z",
+      "version": "v01.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/2f9ec4bee3894bcfeadcbd4fa8d28b8d95b5ab3c873aa0a3124e929eeae844a6",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/8798df24ab29fc22468e09b9d0d11482b8327a681e2473f89ec0526befefd709",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA29727, v01.002, USA, 4.xx BackPort\nSize: 5GB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/595fe0tq8k5l/PPSA29727.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/t7edubtrrmqe/PPSA29727.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/gXeGObB6JzAa/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/B5MMkV2jch"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/N2p3D0Vrk3Ma/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/24ms8zUKj4"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/71w5ngz25yvj/PPSA29727-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/uyqqk1vk6zh3/PPSA29727-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 5368709120
+    },
+    {
+      "titleId": "PPSA18144",
+      "title": "POSTAL Brain Damaged",
+      "createdAt": "2026-11-17T13:50:00.064Z",
+      "version": "v01.000.007",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/2bc62bf28e492a94581f41d9ba3c716392d746d5c099b841056243cb0f98a73b",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/cd7d57cb9933f8efc2c0e642ea9321071fe0ddd9ec1aba90b63fc7b2ada5d80b",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA18144, v01.000.007, USA, 4.xx BackPort\nSize: 13GB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 7.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/k2e1rzh5v7eb/PPSA18144.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/jx01oq2nkt5p/PPSA18144.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/0rpmvg8e73Rg/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/DxYLqHVwt4"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/QN9mEn6gw36d/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/DJ1kAHhuU5"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/x62k8tt721ia/PPSA18144-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/63q6c4yjaxgt/PPSA18144-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 13958643712
+    },
+    {
+      "titleId": "PPSA09663",
+      "title": "Dragons Dogma 2 Dark Arisen",
+      "createdAt": "2026-11-17T13:50:00.064Z",
+      "version": "v04.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/9795aa24caa52f8bc7a8ff9f58be56eb003575747fc914b9293b75c65aa4f886",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/7662f005c664c609a2e295c9b9167743c0433f88fa35aa19cd092e0aab80f890",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA09663, v04.000, USA, DLCs Merged, 4.xx BackPort\nSize: 154GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX\nHow to play: Black Screen Fix (Ignore this if you already played this game): Send klogsrv-ps5.elf, launch the game and keep the black screen after intro and check &amp; wait for this log appear -&gt; &lt;118&gt;[NoticeScreenSkip] NoticeScreenSkipFlag is true by System Auto. TitleId: PPSA09663. When appear this you can close the game and launch again. (Only one time) FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/o4jq5ph3i8jd/PPSA09663.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/fkdl0ykn5x67/PPSA09663.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/2WVGrvB99Gkx/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/ZLcGQa91Dh"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/M2BGwxq85mj4/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/fRbz2IkG87"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/keyvb4m7fs36/PPSA09663-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/vrtxnry2lgij/PPSA09663-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 165356240896
+    },
+    {
+      "titleId": "PPSA03463",
+      "title": "Mighty Goose",
+      "createdAt": "2026-11-17T13:50:00.064Z",
+      "version": "v02.000.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/35167bcce0e6f71ba5684a5466e679239a9714c2122f86efd3ef71bd8563bc2d",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/35167bcce0e6f71ba5684a5466e679239a9714c2122f86efd3ef71bd8563bc2d",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA03463, v02.000.001, EUR, 4.xx and beyond\nSize: 224MB\nCredits: Files: b0mba1992\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://datanodes.to/rjqd3mqvoqzk/PPSA03463.7z"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://filekeeper.net/3lc4oeb7lt4r/PPSA03463.7z"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://akirabox.to/ZvqzlKvQO3aD/file"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://vikingfile.com/f/Pl62AO6VK3"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://akirabox.to/qLQ365WMdm19/file"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://vikingfile.com/f/nmlFKNCS0J"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://datanodes.to/8fvz1nt38ws4/PPSA03463-Compressed.7z"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://filekeeper.net/ageqlpwnxd7e/PPSA03463-Compressed.7z"
+        }
+      ],
+      "sizeBytes": 234881024
+    },
+    {
       "titleId": "PPSA17221",
       "title": "Minecraft",
       "createdAt": "2026-10-16T21:48:35.923Z",
@@ -10,7 +194,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/c3cb336b5f6e2007d22d3cccef02661bdb71fbc88bcbdd5b74eb09be6e75da2c",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/63f595500233834c2e362bbb38a1667f3465b2ef4c12d46ec136e7b6ff28c31e",
-      "description": "Builds: Dump, Fpkg\nTags: PPSA17221, v01.059, USA, 4.xx BackPort\nSize: 1GB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA17221, v01.059, USA, 7.xx BackPort\nSize: 1GB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
@@ -20008,40 +20192,6 @@
         }
       ],
       "sizeBytes": 124554051584
-    },
-    {
-      "titleId": "PPSA09664",
-      "title": "Dragons Dogma 2 Deluxe Edition",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "version": "v03.000",
-      "category": "game",
-      "posterUrl": "https://pegasus-dl.dev/api/posters/9795aa24caa52f8bc7a8ff9f58be56eb003575747fc914b9293b75c65aa4f886",
-      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/7662f005c664c609a2e295c9b9167743c0433f88fa35aa19cd092e0aab80f890",
-      "description": "Tags: PPSA09664, v03.000, EUR, DLCs Merged, 4.xx BackPort\nSize: 136GB\nCredits: Files: DUPLEX; Backport: DecKerr97; DLC: DUPLEX",
-      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/QN9mEqKwLm6d/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/BKnCImqWit"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/igtsg387gv6q"
-        },
-        {
-          "name": "Filek",
-          "url": "https://filekeeper.net/g2zqf2to6y1g"
-        },
-        {
-          "name": "Vault",
-          "url": "https://datavaults.co/e92offgfahjg"
-        }
-      ],
-      "sizeBytes": 146028888064
     },
     {
       "titleId": "PPSA06225",

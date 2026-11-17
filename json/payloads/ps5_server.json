@@ -90,14 +90,14 @@
       "source": "https://github.com/drakmor/ftpsrv/releases"
     },
     {
-      "name": "Ps5-Ezremote-Client V2.20",
-      "filename": "ps5-ezremote-client_v2.20.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.20/ps5-ezremote-client_v2.20.elf",
-      "local_path": "payloads/ps5_server/ps5-ezremote-client/2.20/ps5-ezremote-client_v2.20.elf",
+      "name": "Ps5-Ezremote-Client V2.21",
+      "filename": "ps5-ezremote-client_v2.21.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-client/2.21/ps5-ezremote-client_v2.21.elf",
+      "local_path": "payloads/ps5_server/ps5-ezremote-client/2.21/ps5-ezremote-client_v2.21.elf",
       "description": "Easy remote client application for PS5.",
-      "version": "2.20",
+      "version": "2.21",
       "category": "PS5 Server",
-      "checksum": "eda226e008efae5f14bd9e4fb0dd27ee198d1e3b525aa4ab1079e410e66f5e3c",
+      "checksum": "0c9375629c3f5535ba4037e588ef9d1e2ae25a23db5697703564517ee324c84c",
       "source": "https://github.com/cy33hc/ps5-ezremote-client/releases"
     },
     {
@@ -112,14 +112,14 @@
       "source": "https://github.com/cy33hc/ps5-ezremote-server/releases"
     },
     {
-      "name": "Ps5Upload V12.6.0",
-      "filename": "ps5upload_v12.6.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v12.6.0/ps5upload_v12.6.0.elf",
-      "local_path": "payloads/ps5_server/ps5upload/v12.6.0/ps5upload_v12.6.0.elf",
+      "name": "Ps5Upload V12.6.3",
+      "filename": "ps5upload_v12.6.3.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v12.6.3/ps5upload_v12.6.3.elf",
+      "local_path": "payloads/ps5_server/ps5upload/v12.6.3/ps5upload_v12.6.3.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v12.6.0",
+      "version": "v12.6.3",
       "category": "PS5 Server",
-      "checksum": "a57fe14b5c3ec449208a90b68a798498653fce259a36f691f366376aa2b93df1",
+      "checksum": "9e640b760fe7ae79f2dd7a7dfefda6720bbbf79ac4219a02b6f199df71e74c5d",
       "source": "https://github.com/phantomptr/ps5upload/releases"
     },
     {
