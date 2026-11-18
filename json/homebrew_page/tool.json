@@ -30,6 +30,20 @@
       "source": "https://github.com/Herbrax/Chiral-FTP"
     },
     {
+      "name": "Home Screen Manager",
+      "filename": "PPSA97979.zip",
+      "url": "https://github.com/lazyboy6791/PS5HomeScreenManager/releases/download/v2.2.3/PPSA97979.zip",
+      "local_path": "downloads/apps/homebrew_page/tool/PPSA97979/2.2.3/PPSA97979.zip",
+      "description": "It only does everything you want with your PS5 home screen. Create Folders, Wallpapers, Edit & Modify App/Game Icons & Backgrounds, Change App/Game Names, Hide Apps/Games, Rearrange Tiles and much mor",
+      "version": "2.2.3",
+      "category": "Tools",
+      "kind": "tool",
+      "titleid": "PPSA97979",
+      "author": "lazyboy6791",
+      "checksum": "fe7e6b37f674a16d38981df6f69cc4151c63bc7e06da6758fbe51fb917051913",
+      "source": "https://github.com/lazyboy6791/PS5HomeScreenManager"
+    },
+    {
       "name": "DriftCheck",
       "filename": "PPSA98766.zip",
       "url": "https://github.com/felipemelchior/driftcheck5/releases/download/01.000.000/PPSA98766.zip",

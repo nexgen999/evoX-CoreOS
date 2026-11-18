@@ -3,6 +3,294 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA21006",
+      "title": "Forward To The Sky",
+      "createdAt": "2026-11-18T12:48:37.871Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/35082aff1ad8b8ba4ada7b674fd675584847793e08a343edb00e7ae3c34e2f27",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/35082aff1ad8b8ba4ada7b674fd675584847793e08a343edb00e7ae3c34e2f27",
+      "description": "Region: JPN\nRelease note: Works on 11.xx and higher\nContributor: Rapunzel!",
+      "downloadSource": "https://dlpsgame.com/forward-to-the-sky-ps5/",
+      "downloadLinks": [
+        {
+          "name": "JPN 11.xx Base - Akirabox",
+          "url": "https://akirabox.to/7d5GLWekLzxR/file"
+        },
+        {
+          "name": "JPN 11.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/10WcQy"
+        },
+        {
+          "name": "JPN 11.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/dp0NAOjojH"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA34577",
+      "title": "Majogami",
+      "createdAt": "2026-11-18T12:48:37.871Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e5d98efd260183cd9b474662448c54425944b3a83dfe9206fccc66a642083c58",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/e5d98efd260183cd9b474662448c54425944b3a83dfe9206fccc66a642083c58",
+      "description": "Region: JPN\nRelease note: Works on 12.xx and higher\nContributor: Rapunzel!",
+      "downloadSource": "https://dlpsgame.com/majogami-ps5/",
+      "downloadLinks": [
+        {
+          "name": "JPN 12.xx Base - Akirabox",
+          "url": "https://akirabox.to/gXeGObBZdzAa/file"
+        },
+        {
+          "name": "JPN 12.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/28v4Qi"
+        },
+        {
+          "name": "JPN 12.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/UbDQdZcuyP"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA20246",
+      "title": "Sky Oceans Wings For Hire",
+      "createdAt": "2026-11-18T12:48:37.871Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/b3cf9685a473674a303a72438e947e1a6865ee8f03a617ab34f81b22165073bb",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/b3cf9685a473674a303a72438e947e1a6865ee8f03a617ab34f81b22165073bb",
+      "description": "Region: USA\nRelease note: Works on 9.xx and higher\nContributor: Rapunzel!",
+      "downloadSource": "https://dlpsgame.com/sky-oceans-wings-for-hire-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/9AqGQ8lAJzMn/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/dyWvY"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/WRGp9aO9ZI"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA10144",
+      "title": "Vacation Simulator",
+      "createdAt": "2026-11-18T12:48:37.871Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/97f2a4ba8fd0f1e6eeb874436ed0275907f0d146361eba3d3817637308a5a9dc",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/97f2a4ba8fd0f1e6eeb874436ed0275907f0d146361eba3d3817637308a5a9dc",
+      "description": "Region: USA\nRelease note: Works on 5.xx and higher\nContributor: you to whoever submitted it!",
+      "downloadSource": "https://dlpsgame.com/vacation-simulator-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 5.xx Base - Akirabox",
+          "url": "https://akirabox.to/0PdzyJq4rGeA/file"
+        },
+        {
+          "name": "USA 5.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/YJeSG"
+        },
+        {
+          "name": "USA 5.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/hRJWMeZfBd"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA10146",
+      "title": "Job Simulator",
+      "createdAt": "2026-11-18T12:48:37.871Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/52419ca210bd677603f9dafb1f5ae0bc89b5ca8433d294d5b22476dd17d160f1",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/52419ca210bd677603f9dafb1f5ae0bc89b5ca8433d294d5b22476dd17d160f1",
+      "description": "Region: USA\nRelease note: Works on 5.xx and higher\nContributor: you to whoever submitted it!",
+      "downloadSource": "https://dlpsgame.com/job-simulator-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 5.xx Base - Akirabox",
+          "url": "https://akirabox.to/5pVzNKBMZG7w/file"
+        },
+        {
+          "name": "USA 5.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/2HEhzk"
+        },
+        {
+          "name": "USA 5.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/KinETeFv5U"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA23044",
+      "title": "Snow Scout",
+      "createdAt": "2026-11-18T12:48:37.871Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/1883d4317cea7cc4f0342ece6f5f7c7e7c6fd3b0f7d0b504748c1018dcb422be",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/1883d4317cea7cc4f0342ece6f5f7c7e7c6fd3b0f7d0b504748c1018dcb422be",
+      "description": "Region: USA\nRelease note: Works on 9.xx and higher\nContributor: Xan!!",
+      "downloadSource": "https://dlpsgame.com/snow-scout-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/ZvqzlKvJa3aD/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1ugcUK"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Oqt8EjJVaZ"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA08715",
+      "title": "Not For Broadcast VR",
+      "createdAt": "2026-11-18T12:48:37.871Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/0803278bfc13a0ed08421d9d0641c49883c98b2186bf008745305ba70b8dccb1",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/0803278bfc13a0ed08421d9d0641c49883c98b2186bf008745305ba70b8dccb1",
+      "description": "Region: USA\nRelease note: Works on 7.xx and higher\nContributor: Xan!!",
+      "downloadSource": "https://dlpsgame.com/not-for-broadcast-vr-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 7.xx Base - Akirabox",
+          "url": "https://akirabox.to/dkD3Y2gYJzLQ/file"
+        },
+        {
+          "name": "USA 7.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/wUlZQ"
+        },
+        {
+          "name": "USA 7.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/lmu2FCjGKL"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA17014",
+      "title": "Ghost Signal A Stellaris Game",
+      "createdAt": "2026-11-18T12:48:37.871Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/341a38dfc466794adec4e3b0bc3597f37d79e3f8ddb8fefac02792a0cad53be8",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/341a38dfc466794adec4e3b0bc3597f37d79e3f8ddb8fefac02792a0cad53be8",
+      "description": "Region: USA\nRelease note: Works on 7.xx and higher\nContributor: Xan!!",
+      "downloadSource": "https://dlpsgame.com/ghost-signal-a-stellaris-game-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 7.xx Base - Akirabox",
+          "url": "https://akirabox.to/BnkmWbP1QGR0/file"
+        },
+        {
+          "name": "USA 7.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1qelcm"
+        },
+        {
+          "name": "USA 7.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/v6b5bzVocu"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA10719",
+      "title": "Cities VR Enhanced Edition",
+      "createdAt": "2026-11-18T12:48:37.871Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e9e674b31e638656e7db5466b8451708d7c332c8d799ae215842204663a49a21",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/e9e674b31e638656e7db5466b8451708d7c332c8d799ae215842204663a49a21",
+      "description": "Region: USA\nRelease note: Works on 5.xx and higher\nContributor: Xan!!",
+      "downloadSource": "https://dlpsgame.com/cities-vr-enhanced-edition-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 5.xx Base - Akirabox",
+          "url": "https://akirabox.to/qLQ365W27m19/file"
+        },
+        {
+          "name": "USA 5.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/m2Eee"
+        },
+        {
+          "name": "USA 5.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/RDuHIjIqiv"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA13688",
+      "title": "Waltz of The Wizard",
+      "createdAt": "2026-11-18T12:48:37.871Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/52dbe7e89e0da43bd0253d8499892a54a3be4be62a7f79e16830708577f0ea29",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/52dbe7e89e0da43bd0253d8499892a54a3be4be62a7f79e16830708577f0ea29",
+      "description": "Region: USA\nRelease note: Works on 10.xx and higher\nContributor: DespairOfHarmony!!",
+      "downloadSource": "https://dlpsgame.com/waltz-of-the-wizard-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 10.xx Base - Akirabox",
+          "url": "https://akirabox.to/ex5z2LgWDmKq/file"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/i0Nn6"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/S1HJp5AWqY"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA11199",
+      "title": "Kizuna AI Touch The Beat",
+      "createdAt": "2026-11-18T12:48:37.871Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e83c21160a8ead7c9bb602cc80c18193461894b32d4af2580f5f3df30e642c69",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/e83c21160a8ead7c9bb602cc80c18193461894b32d4af2580f5f3df30e642c69",
+      "description": "Region: USA\nRelease note: Works on 5.xx and higher\nContributor: DespairOfHarmony!!",
+      "downloadSource": "https://dlpsgame.com/kizuna-ai-touch-the-beat-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 5.xx Base - Akirabox",
+          "url": "https://akirabox.to/jJD3V1p95ma5/file"
+        },
+        {
+          "name": "USA 5.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1mculE"
+        },
+        {
+          "name": "USA 5.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/LQhtuTgJOy"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA03120",
+      "title": "Sir Lovelot",
+      "createdAt": "2026-11-18T12:48:37.871Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/9b373cb1c49d57c9a46aaaf5bcfb325a964c3bb2e99b20c4ff5d2523d5e46a56",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/df8a6c6101cd2fff02e5a8f07db9ef937a2d6f9983ff628b204ab4a3a7f5308e",
+      "description": "Region: USA\nRelease note: Credits Biogames Works on 2.xx and higher",
+      "downloadSource": "https://dlpsgame.com/sir-lovelot-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 2.xx Base - Akirabox",
+          "url": "https://akirabox.to/dZxG5RW29mVj/file"
+        },
+        {
+          "name": "USA 2.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/2DCr8C"
+        },
+        {
+          "name": "USA 2.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/hG11tiIW4A"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA03771",
       "title": "HUMANITY",
       "createdAt": "2026-11-17T20:21:52.530Z",
@@ -1737,7 +2025,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/4bff419a7ba5e49c0e5fc8cf461c293fbb395bb76955d5b826ab8f3cb0d80452",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/4bff419a7ba5e49c0e5fc8cf461c293fbb395bb76955d5b826ab8f3cb0d80452",
-      "description": "Region: USA\nRelease note: Credits to Xan!! Works on 12.xx and higher",
+      "description": "Variant: USA 12.xx\nRegion: USA\nRelease note: Credits to Xan!! Works on 12.xx and higher\n\nVariant: USA exFAT 01.300\nRegion: USA\nRelease note: exFAT format — FW 01.300 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/tcg-card-shop-simulator-ps5/",
       "downloadLinks": [
         {
@@ -1751,6 +2039,22 @@
         {
           "name": "USA 12.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/WhvxaSfRz2"
+        },
+        {
+          "name": "USA exFAT 01.300 Base - DATA (exFAT)",
+          "url": "https://link-vault.org/c/szv-k-9X#DataNodes"
+        },
+        {
+          "name": "USA exFAT 01.300 Base - FileK (exFAT)",
+          "url": "https://link-vault.org/c/szv-k-9X#FileKeeper"
+        },
+        {
+          "name": "USA exFAT 01.300 Base - AKIA (exFAT)",
+          "url": "https://link-vault.org/c/szv-k-9X#AkiraBox"
+        },
+        {
+          "name": "USA exFAT 01.300 Base - VIKI (exFAT)",
+          "url": "https://link-vault.org/c/szv-k-9X#VikingFile"
         }
       ]
     },
@@ -15612,7 +15916,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/374de40b756d0f0560ad286b1e792a262b67f892081b9023fdb3720c17b9293b",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/88a986f44c1c63746ea6dfbfcd93464c23a46f63135c2ffdb693614717830dda",
-      "description": "Region: EUR\nRelease note: Works on 8.xx and higher\nContributor: @VanBuuren for Upload\nPassword: DLPSGAME.COM",
+      "description": "Variant: EUR 8.xx\nRegion: EUR\nRelease note: Works on 8.xx and higher\nContributor: @VanBuuren for Upload\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.410\nRegion: EUR\nRelease note: exFAT format — FW 01.410 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/kunitsu-gami-path-of-the-goddess-ps5/",
       "downloadLinks": [
         {
@@ -15642,6 +15946,22 @@
         {
           "name": "EUR 8.xx Base - Rootz part 2",
           "url": "https://www.rootz.so/d/1A50NM"
+        },
+        {
+          "name": "EUR exFAT 01.410 Base - DATA (exFAT)",
+          "url": "https://link-vault.org/c/1Mg7xHGj#DataNodes"
+        },
+        {
+          "name": "EUR exFAT 01.410 Base - FileK (exFAT)",
+          "url": "https://link-vault.org/c/1Mg7xHGj#FileKeeper"
+        },
+        {
+          "name": "EUR exFAT 01.410 Base - AKIA (exFAT)",
+          "url": "https://link-vault.org/c/1Mg7xHGj#AkiraBox"
+        },
+        {
+          "name": "EUR exFAT 01.410 Base - VIKI (exFAT)",
+          "url": "https://link-vault.org/c/1Mg7xHGj#VikingFile"
         }
       ]
     },
@@ -92242,6 +92562,14 @@
         {
           "name": "6.xx BackPort 4.xx - 1fichier part 3",
           "url": "https://1fichier.com/?0b07i9dcogz3fnn34wpk"
+        },
+        {
+          "name": "6.xx BackPort 4.xx - Mediafire part 4",
+          "url": "https://www.mediafire.com/file/l5p8moxfz4j94x2/4XX+PPSA03644_%E2%80%93_EUR_V1_29_Two_Point_Campus_Bckport__By_BADERLINK_-[DLPSGAME.COM].zip/file"
+        },
+        {
+          "name": "6.xx BackPort 4.xx - Mediafire part 5",
+          "url": "https://www.mediafire.com/file/c4cwqytjjmdy9cf/5XX+PPSA03644_%E2%80%93_EUR_V1_29_Two_Point_Campus_Bckport__By_BADERLINK_-[DLPSGAME.COM].zip/file"
         }
       ]
     },
@@ -145534,6 +145862,64 @@
         {
           "name": "USA exFAT 01.004 Base - Vault (exFAT)",
           "url": "https://datavaults.co/6qmhde3tm198"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA30035",
+      "title": "[exFAT] Haste",
+      "createdAt": "2026-11-18T12:48:37.871Z",
+      "version": "01.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/dda327bbd44821fdbe6510dcfa11977611c5f09787e742e8ec745584c3a52660",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/d7cefcc976ea0cfeaa467e0031c43116793f13a29472a50a35db0824a6d4dc0b",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.002 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.002 Base - DATA (exFAT)",
+          "url": "https://link-vault.org/c/IqYc4nYD#DataNodes"
+        },
+        {
+          "name": "EUR exFAT 01.002 Base - FileK (exFAT)",
+          "url": "https://link-vault.org/c/IqYc4nYD#FileKeeper"
+        },
+        {
+          "name": "EUR exFAT 01.002 Base - AKIA (exFAT)",
+          "url": "https://link-vault.org/c/IqYc4nYD#AkiraBox"
+        },
+        {
+          "name": "EUR exFAT 01.002 Base - VIKI (exFAT)",
+          "url": "https://link-vault.org/c/IqYc4nYD#VikingFile"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA06516",
+      "title": "[exFAT] Risk of Rain 2",
+      "createdAt": "2026-11-18T12:48:37.871Z",
+      "version": "01.004.100",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e7408b02685abdefb003468ed19655e06c686a4d06ed1e145c9b582bf1567cb5",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/2a7ec3d20565e451da1d379f24fb9a89391da1df4caea8c77d5d829e285c3442",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.004.100 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.004.100 Base - DATA (exFAT)",
+          "url": "https://link-vault.org/c/8Xb-35BN#DataNodes"
+        },
+        {
+          "name": "USA exFAT 01.004.100 Base - FileK (exFAT)",
+          "url": "https://link-vault.org/c/8Xb-35BN#FileKeeper"
+        },
+        {
+          "name": "USA exFAT 01.004.100 Base - AKIA (exFAT)",
+          "url": "https://link-vault.org/c/8Xb-35BN#AkiraBox"
+        },
+        {
+          "name": "USA exFAT 01.004.100 Base - VIKI (exFAT)",
+          "url": "https://link-vault.org/c/8Xb-35BN#VikingFile"
         }
       ]
     },

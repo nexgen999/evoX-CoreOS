@@ -653,6 +653,12 @@
       <pubDate>0.19</pubDate>
     </item>
     <item>
+      <title>Np-Fake-Signin-Ps5</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf</link>
+      <description>Fake activate PS5 without PSN.</description>
+      <pubDate>v1.4</pubDate>
+    </item>
+    <item>
       <title>Ps5-Custom-Tool-Manager- Vcustom</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_themes-avatars/PS5-Custom-Tool-Manager-/Custom/PS5-Custom-Tool-Manager-_vCustom.elf</link>
       <description>Custom manager tool for PS5 personalization.</description>
@@ -663,6 +669,18 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_themes-avatars/ps5-wallpaper-modd/v1.0/ps5-wallpaper-modd_v1.0.elf</link>
       <description>Wallpaper modification utility for PS5.</description>
       <pubDate>v1.0</pubDate>
+    </item>
+    <item>
+      <title>Garlic-Savemgr V1.15-Beta9</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>garlic-savemgr</pubDate>
+    </item>
+    <item>
+      <title>Garlic-Worker V1.5.6</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.5.6/garlic-worker_v1.5.6.elf</link>
+      <description>Garlic worker payload component.</description>
+      <pubDate>v1.5.6</pubDate>
     </item>
     <item>
       <title>Savemnt-Offset-Dumper V1.0.0</title>
@@ -705,24 +723,6 @@
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>ps5-new-overlay</pubDate>
-    </item>
-    <item>
-      <title>Garlic-Worker V1.5.6</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>garlic-worker</pubDate>
-    </item>
-    <item>
-      <title>Garlic-Savemgr V1.15-Beta9</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>garlic-savemgr</pubDate>
-    </item>
-    <item>
-      <title>Np-Fake-Signin-Ps5</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>np-fake-signin</pubDate>
     </item>
     <item>
       <title>Web-File-Mgr-V1.10</title>

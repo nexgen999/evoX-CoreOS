@@ -653,6 +653,12 @@
       <pubDate>0.19</pubDate>
     </item>
     <item>
+      <title>[Payloads] Np-Fake-Signin-Ps5</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf</link>
+      <description>Fake activate PS5 without PSN.</description>
+      <pubDate>v1.4</pubDate>
+    </item>
+    <item>
       <title>[Payloads] Ps5-Custom-Tool-Manager- Vcustom</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_themes-avatars/PS5-Custom-Tool-Manager-/Custom/PS5-Custom-Tool-Manager-_vCustom.elf</link>
       <description>Custom manager tool for PS5 personalization.</description>
@@ -663,6 +669,18 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_themes-avatars/ps5-wallpaper-modd/v1.0/ps5-wallpaper-modd_v1.0.elf</link>
       <description>Wallpaper modification utility for PS5.</description>
       <pubDate>v1.0</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Garlic-Savemgr V1.15-Beta9</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>garlic-savemgr</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Garlic-Worker V1.5.6</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.5.6/garlic-worker_v1.5.6.elf</link>
+      <description>Garlic worker payload component.</description>
+      <pubDate>v1.5.6</pubDate>
     </item>
     <item>
       <title>[Payloads] Savemnt-Offset-Dumper V1.0.0</title>
@@ -705,24 +723,6 @@
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>ps5-new-overlay</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Garlic-Worker V1.5.6</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>garlic-worker</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Garlic-Savemgr V1.15-Beta9</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>garlic-savemgr</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Np-Fake-Signin-Ps5</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>np-fake-signin</pubDate>
     </item>
     <item>
       <title>[Payloads] Web-File-Mgr-V1.10</title>
@@ -1559,6 +1559,12 @@
       <pubDate>01.000.004</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] Home Screen Manager</title>
+      <link>https://github.com/lazyboy6791/PS5HomeScreenManager</link>
+      <description>It only does everything you want with your PS5 home screen. Create Folders, Wallpapers, Edit &amp; Modify App/Game Icons &amp; Backgrounds, Change App/Game Names, Hide Apps/Games, Rearrange Tiles and much mor</description>
+      <pubDate>2.2.3</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] PokeMMO Prospero</title>
       <link>https://github.com/Shabbypenguin/PokeMMO-Prospero</link>
       <description>Runs the official, unmodified PokeMMO Linux client natively on a jailbroken PS5.</description>
@@ -1568,7 +1574,7 @@
       <title>[ProsperoStore] TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.210</pubDate>
+      <pubDate>01.000.213</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] CD Player</title>
@@ -1819,8 +1825,8 @@
     <item>
       <title>[ProsperoStore] Parallax Browser</title>
       <link>https://github.com/rikleigh/parallax-browser</link>
-      <description>A WebKit browser for the PS5 with tabs, ad blocking and hardware video decoding, which can play the video on a page in the PS VR2.</description>
-      <pubDate>0.1.0</pubDate>
+      <description>A fast Web browser for the PS5 with WebGL, WebGPU, Gamepad API, hardware video decoding up to 8K, and PS VR2 video playback.</description>
+      <pubDate>0.2.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Lost Odyssey</title>
@@ -2276,7 +2282,7 @@
       <title>[ProsperoStore] ProsperoCraft</title>
       <link>https://github.com/mateo-cogeanu/ProsperoCraft</link>
       <description>Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.</description>
-      <pubDate>01.000.286</pubDate>
+      <pubDate>01.000.287</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Genesis Plus GX PS5</title>

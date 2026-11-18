@@ -3,6 +3,32 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "CUSA58609",
+      "title": "TCG Card Shop Simulator",
+      "createdAt": "2026-11-18T13:56:37.429Z",
+      "version": "1.05",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/4bff419a7ba5e49c0e5fc8cf461c293fbb395bb76955d5b826ab8f3cb0d80452",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/4bff419a7ba5e49c0e5fc8cf461c293fbb395bb76955d5b826ab8f3cb0d80452",
+      "description": "Format: ps4\nTCG Card Shop Simulator is a trading card shop simulation where you sell card booster packs to earn money and build your card shop business. Manage Your Shop: Design your own TCG shop. Organize shelves and card packs to make customer shopping experience smooth and easy. Card Collection: Open the booster packs yourself and collect the cards. Find rare cards and sell them to make a fortune, or keep them to complete your card collection. Host Game: Set your card game format and fee, invite players to play card games in your shop. Be sure to keep your store clean and hygienic for the players or they might leave! Order Products: Stock up on different booster card packs and card game products. Keep track of popular trends and adjust your inventory to cater to the ever-changing demands of your customers. Expand Your Business: Earn profits to reinvest in your shop. Expand your space, unlock new card sets, and upgrade your facilities to attract even more customers and increase revenue.\nRegion: USA to EUR Langs\nFirmware: 12.xx+\nNotes: PS4 12.50 and above required\nCredits: Thank you, Xan!!\nUpdated: 2026-11-18T13:34:06.814Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Vik1",
+          "url": "https://vikingfile.com/f/BBeSXFqIn7"
+        },
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/t0y1koru7dmq"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/KJnWxbeesS"
+        }
+      ],
+      "sizeBytes": 1664299827
+    },
+    {
       "titleId": "PPSA11199",
       "title": "Kizuna AI - Touch the Beat!",
       "createdAt": "2026-11-17T23:00:49.501Z",

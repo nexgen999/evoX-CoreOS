@@ -1,5 +1,15 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 18/11/2026 à 15:32
+* **PAYLOADS**
+  * `Np-Fake-Signin-Ps5` (v1.4) - *Mise à jour (Précédent: np-fake-signin)*
+  * `Garlic-Worker V1.5.6` (v1.5.6) - *Mise à jour (Précédent: garlic-worker)*
+* **HOMEBREW_PAGE**
+  * `Home Screen Manager` (2.2.3) - *Nouveau*
+  * `TubeBlock` (01.000.213) - *Mise à jour (Précédent: 01.000.210)*
+  * `Parallax Browser` (0.2.1) - *Mise à jour (Précédent: 0.1.0)*
+  * `ProsperoCraft` (01.000.287) - *Mise à jour (Précédent: 01.000.286)*
+
 ## Build du 18/11/2026 à 00:51
 * **PAYLOADS**
   * `Garlic-Worker V1.5.6` (garlic-worker) - *Mise à jour (Précédent: v1.5.6)*

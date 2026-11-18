@@ -424,15 +424,15 @@
     {
       "name": "TubeBlock",
       "filename": "PPSA98260.zip",
-      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.210/SmartTube-PPSA98260.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.210/PPSA98260.zip",
+      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.213/SmartTube-PPSA98260.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.213/PPSA98260.zip",
       "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
-      "version": "01.000.210",
+      "version": "01.000.213",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98260",
       "author": "animatian112",
-      "checksum": "6740f43d82747c56825e614ffae16251f06a83b93c26e6992674bd42ab96792c",
+      "checksum": "35cd7d4c34ad2128c53a8e11ab66da52ea2151a22499d7aafd53fc6042bc3a7b",
       "source": "https://github.com/animatian112/ytps5-sponsorblock"
     },
     {
@@ -844,15 +844,15 @@
     {
       "name": "Parallax Browser",
       "filename": "PPSA99207.zip",
-      "url": "https://github.com/rikleigh/parallax-browser/releases/download/v0.1.0/parallax-browser-0.1.0.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99207/0.1.0/PPSA99207.zip",
-      "description": "A WebKit browser for the PS5 with tabs, ad blocking and hardware video decoding, which can play the video on a page in the PS VR2.",
-      "version": "0.1.0",
+      "url": "https://github.com/rikleigh/parallax-browser/releases/download/v0.2.1/parallax-browser-0.2.1.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99207/0.2.1/PPSA99207.zip",
+      "description": "A fast Web browser for the PS5 with WebGL, WebGPU, Gamepad API, hardware video decoding up to 8K, and PS VR2 video playback.",
+      "version": "0.2.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99207",
       "author": "Rik Leigh",
-      "checksum": "c4b21e929cea260a0e408cbdda3797e3aecb71c60ed250d5f320fd27d00344d6",
+      "checksum": "fb0b3fc2e86b6899670122d9a5bb1b0d3c4ec4de6fcb4ecd160b24b8c21ff1f9",
       "source": "https://github.com/rikleigh/parallax-browser"
     },
     {

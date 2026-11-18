@@ -431,6 +431,12 @@
       <pubDate>01.000.004</pubDate>
     </item>
     <item>
+      <title>Home Screen Manager</title>
+      <link>https://github.com/lazyboy6791/PS5HomeScreenManager</link>
+      <description>It only does everything you want with your PS5 home screen. Create Folders, Wallpapers, Edit &amp; Modify App/Game Icons &amp; Backgrounds, Change App/Game Names, Hide Apps/Games, Rearrange Tiles and much mor</description>
+      <pubDate>2.2.3</pubDate>
+    </item>
+    <item>
       <title>PokeMMO Prospero</title>
       <link>https://github.com/Shabbypenguin/PokeMMO-Prospero</link>
       <description>Runs the official, unmodified PokeMMO Linux client natively on a jailbroken PS5.</description>
@@ -440,7 +446,7 @@
       <title>TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.210</pubDate>
+      <pubDate>01.000.213</pubDate>
     </item>
     <item>
       <title>CD Player</title>
@@ -691,8 +697,8 @@
     <item>
       <title>Parallax Browser</title>
       <link>https://github.com/rikleigh/parallax-browser</link>
-      <description>A WebKit browser for the PS5 with tabs, ad blocking and hardware video decoding, which can play the video on a page in the PS VR2.</description>
-      <pubDate>0.1.0</pubDate>
+      <description>A fast Web browser for the PS5 with WebGL, WebGPU, Gamepad API, hardware video decoding up to 8K, and PS VR2 video playback.</description>
+      <pubDate>0.2.1</pubDate>
     </item>
     <item>
       <title>Lost Odyssey</title>
@@ -1148,7 +1154,7 @@
       <title>ProsperoCraft</title>
       <link>https://github.com/mateo-cogeanu/ProsperoCraft</link>
       <description>Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.</description>
-      <pubDate>01.000.286</pubDate>
+      <pubDate>01.000.287</pubDate>
     </item>
     <item>
       <title>Genesis Plus GX PS5</title>

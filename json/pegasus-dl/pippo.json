@@ -3,6 +3,198 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA36301",
+      "title": "TCG Card Shop Simulator",
+      "createdAt": "2026-11-18T11:25:39.556Z",
+      "version": "v01.300",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/4bff419a7ba5e49c0e5fc8cf461c293fbb395bb76955d5b826ab8f3cb0d80452",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/4bff419a7ba5e49c0e5fc8cf461c293fbb395bb76955d5b826ab8f3cb0d80452",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA36301, v01.300, USA, 4.xx BackPort\nSize: 6GB\nCredits: Files: Xan; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/szv-k-9X#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/szv-k-9X#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/szv-k-9X#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/szv-k-9X#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/GKTXbKyL#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/GKTXbKyL#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/GKTXbKyL#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/GKTXbKyL#FileKeeper"
+        }
+      ],
+      "sizeBytes": 6442450944
+    },
+    {
+      "titleId": "PPSA30035",
+      "title": "Haste",
+      "createdAt": "2026-11-18T11:25:39.556Z",
+      "version": "v01.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/dda327bbd44821fdbe6510dcfa11977611c5f09787e742e8ec745584c3a52660",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/d7cefcc976ea0cfeaa467e0031c43116793f13a29472a50a35db0824a6d4dc0b",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA30035, v01.002, EUR, 4.xx BackPort\nSize: 6GB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 4.xx, BackPort already included. About FPKG: BackPort already included on Base.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/IqYc4nYD#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/IqYc4nYD#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/IqYc4nYD#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/IqYc4nYD#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/gIPLflky#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/gIPLflky#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/gIPLflky#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/gIPLflky#FileKeeper"
+        }
+      ],
+      "sizeBytes": 6442450944
+    },
+    {
+      "titleId": "PPSA19577",
+      "title": "Kunitsu-Gami Path of the Goddess",
+      "createdAt": "2026-11-18T11:25:39.556Z",
+      "version": "v01.410",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/374de40b756d0f0560ad286b1e792a262b67f892081b9023fdb3720c17b9293b",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/88a986f44c1c63746ea6dfbfcd93464c23a46f63135c2ffdb693614717830dda",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA19577, v01.410, EUR, DLCs Merged, 4.xx BackPort\nSize: 36GB\nCredits: Files: DUPLEX; Backport: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 4.xx, BackPort already included. About FPKG: BackPort already included on Base.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/1Mg7xHGj#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/1Mg7xHGj#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/1Mg7xHGj#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/1Mg7xHGj#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/JY8rT2Tq#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/JY8rT2Tq#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/JY8rT2Tq#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/JY8rT2Tq#FileKeeper"
+        }
+      ],
+      "sizeBytes": 38654705664
+    },
+    {
+      "titleId": "PPSA06516",
+      "title": "Risk of Rain 2",
+      "createdAt": "2026-11-18T11:25:39.556Z",
+      "version": "v01.004.100",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e7408b02685abdefb003468ed19655e06c686a4d06ed1e145c9b582bf1567cb5",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/2a7ec3d20565e451da1d379f24fb9a89391da1df4caea8c77d5d829e285c3442",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA06516, v01.004.100, USA, 4.xx BackPort\nSize: 3GB\nCredits: Files: vincenzoz85; Backport: DecKerr97; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 4.xx, BackPort already included. About FPKG: BackPort already included on Base.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/Mm9BoKxG#DataNodes"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://link-vault.org/c/Mm9BoKxG#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/8Xb-35BN#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/8Xb-35BN#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/8Xb-35BN#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/8Xb-35BN#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/mNhba_Z8#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/mNhba_Z8#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/mNhba_Z8#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/mNhba_Z8#FileKeeper"
+        }
+      ],
+      "sizeBytes": 3221225472
+    },
+    {
       "titleId": "PPSA29727",
       "title": "Goodnight Universe",
       "createdAt": "2026-11-17T13:50:00.064Z",
