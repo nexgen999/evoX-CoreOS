@@ -3,6 +3,374 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA11199",
+      "title": "Kizuna AI - Touch the Beat!",
+      "createdAt": "2026-11-17T23:00:49.501Z",
+      "version": "01.000.005",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e83c21160a8ead7c9bb602cc80c18193461894b32d4af2580f5f3df30e642c69",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/e83c21160a8ead7c9bb602cc80c18193461894b32d4af2580f5f3df30e642c69",
+      "description": "Format: Folder\nSay hello (morning!) to a new kind of rhythm game, and hang out in a virtual space with Kizuna AI! ■Game Overview Kizuna AI: Touch the Beat is a rhythm game that features Kizuna AI. Play in VR mode, or in a non-VR mode that does not require PlayStation®VR2 / PlayStation®VR. This edition also includes a View Mode, which lets you travel through the game's stages free as a bird. If you want to hang out with Kizuna AI in VR, Kizuna AI: Touch the Beat is for you! ■PlayStation®VR2 / PlayStation®VR Compatible! It goes without saying that this game can be played on both your TV and with PlayStation®VR2. *Also supports PlayStation®VR ■Songs &amp; DLC Includes 15 popular songs performed by Kizuna AI, including her massive hit \"Hello, Morning,\" which has garnered over 2,170,000 views. Post-launch DLC is in the works, including additional songs and outfits, and other content.\nRegion: USA\nFirmware: 5.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: PSVR2 Required\nCredits: Thank you, DespairOfHarmony!!\nUpdated: 2026-11-17T22:08:24.873Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Akirabox",
+          "url": "https://akirabox.to/EL73gk9gW39B/file"
+        },
+        {
+          "name": "Folder · Vikingfile",
+          "url": "https://vikingfile.com/f/7HOnFCmbJU"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/l5ylz8dm637b"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/gCEo2cJUGn"
+        }
+      ],
+      "sizeBytes": 3221225472
+    },
+    {
+      "titleId": "PPSA13688",
+      "title": "Waltz of the Wizard",
+      "createdAt": "2026-11-17T23:00:49.501Z",
+      "version": "01.000.017",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/52dbe7e89e0da43bd0253d8499892a54a3be4be62a7f79e16830708577f0ea29",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/52dbe7e89e0da43bd0253d8499892a54a3be4be62a7f79e16830708577f0ea29",
+      "description": "Format: Folder\nA truly unique wizarding experience inspired by classical fantasy fiction that lets you feel what it’s like to have magical powers. Waltz of the Wizard includes hours of content, humorous characters, ultra-interactive details and many curious secrets to discover. Your journey begins in a magical tower where you combine arcane ingredients into a boiling cauldron with the help of your strange skull assistant, Skully. For those who wish for even stranger things, embark on a mysterious adventure beyond the wizard's tower and explore more of the highly detailed, handcrafted world. HIGHLIGHT FEATURES 🖥️ Fully playable on PS5 (VR optional). 💀 Chat with your assistant Skully, who can talk and has thousands of reactions! 🧞 Discover absurdly detailed secrets in every corner, scavenger hunts and riddles. 💥 Unleash dozens of magical powers to bend the laws of physics to your will! 🚀 Try out some truly strange activities with Skully, including medieval rockets. ⚔️ Large campaign with storyline and challenges when you venture outside your tower. 🎙️ Hundreds of voice interactions, where you can use your natural voice. 🏰 Infinite level generation mode for endless fun in the fortress exploration. 🖐️ Full hand tracking support for PS VR2 players. This version of Waltz of the Wizard contains all major updates and expansions: - Skully's Fantastic Fails - Riddles Ramblings &amp; Robots - Skully’s Unruly Reactions - Fast Voice Powers &amp; Local Co-Op - Change the World - Powers in Natural Magic - Natural Magic - Scavenger Hunt - Extended Edition\nRegion: USA\nFirmware: 10.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: PSVR2 Required\nCredits: Thank you, DespairOfHarmony!\nUpdated: 2026-11-17T22:06:27.193Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Akirabox",
+          "url": "https://akirabox.to/obj3jkYJrzDx/file"
+        },
+        {
+          "name": "Folder · Vikingfile",
+          "url": "https://vikingfile.com/f/UpLGhwbaHp"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/2xfb4ytu3o92"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/2q7LvTYkLG"
+        }
+      ],
+      "sizeBytes": 5529770394
+    },
+    {
+      "titleId": "PPSA10719",
+      "title": "Cities: VR Enhanced Edition",
+      "createdAt": "2026-11-17T23:00:49.501Z",
+      "version": "01.000.006",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e9e674b31e638656e7db5466b8451708d7c332c8d799ae215842204663a49a21",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/e9e674b31e638656e7db5466b8451708d7c332c8d799ae215842204663a49a21",
+      "description": "Format: Folder\nBe the mayor in Cities: VR, the ultimate VR city-building and management simulator. Design neighborhoods, construct buildings, direct the flow of traffic - all while you handle economics, emergency services, and more. Step inside this VR adaptation of the leading city-builder, Cities: Skylines. BUILD AND MANAGE YOUR IDEAL CITY Control every aspect of city planning, from construction to utility planning, and provide healthcare, education, and more to your population. From cozy suburbs to massive metropolises, only your imagination is the limit. AN IMMERSIVE &amp; SCENIC SIMULATOR Cities: VR allows for an unparalleled level of presence, immersion and hands-on gameplay. See your skyline rise from an expansive bird's eye view, or watch your city come alive from the streets. THE DEFINITIVE CITY-BUILDING VR GAME Cities: VR is both a great entry-point to the franchise and a compelling new experience for Cities: Skylines veterans. Precise and tactile feedback and a palette of tools at your fingertips makes for an easy-to-use control system.\nRegion: USA\nFirmware: 5.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: PSVR2 Required\nCredits: Thank you, Xan!!\nUpdated: 2026-11-17T22:04:05.323Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Viki",
+          "url": "https://vik1ngfile.site/f/iP4ZCheERf"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/2sfxcr9xldmq"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/fxnvpPdGey"
+        }
+      ],
+      "sizeBytes": 5282809774
+    },
+    {
+      "titleId": "PPSA17014",
+      "title": "Ghost Signal: A Stellaris Game",
+      "createdAt": "2026-11-17T23:00:49.501Z",
+      "version": "01.000.200",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/341a38dfc466794adec4e3b0bc3597f37d79e3f8ddb8fefac02792a0cad53be8",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/341a38dfc466794adec4e3b0bc3597f37d79e3f8ddb8fefac02792a0cad53be8",
+      "description": "Format: Folder\nGhost Signal is a VR action roguelite set in the Stellaris universe, where you captain your ship to battle a multitude of alien species. Partake in dynamic space wars, encounter planet sized creatures, gather valuable loot to conduct research, and more. No journey is the same. Will you find the origins of the mysterious Ghost Signal? INTERSTELLAR SPACE BATTLES Use the full artillery of the Aurora against enemy armadas. Loot or purchase power-ups like freeze rays, atomic missiles or even dragon companions - the choice is yours. UPGRADE &amp; CUSTOMIZE Scan exotic creatures for your logbook and conduct research in multiple tech trees. Asynchronous multiplayer allows you to scavenge other players' deserted ships for valuables. A NEVER ENDING JOURNEY Alongside the story mode where randomized maps make every session unique, Ghost Signal includes Daily Challenges with both global and local leaderboards to climb. A UNIVERSE FULL OF WONDERS As captain of the Aurora, encounter strange aliens in their home worlds and enter lost temples in the pursuit of the mysterious signal that seems to defy even death.\nRegion: USA to EUR Langs\nFirmware: 7.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: PSVR2 Required\nCredits: Thank you, Xan!!!\nUpdated: 2026-11-17T22:02:36.038Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Vik1",
+          "url": "https://vikingfile.com/f/b062XhGscZ"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/y46thm0zvclf"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/BlgyuEBcP1"
+        }
+      ],
+      "sizeBytes": 5336496865
+    },
+    {
+      "titleId": "PPSA08715",
+      "title": "Not For Broadcast VR",
+      "createdAt": "2026-11-17T23:00:49.501Z",
+      "version": "01.010.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/0803278bfc13a0ed08421d9d0641c49883c98b2186bf008745305ba70b8dccb1",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/0803278bfc13a0ed08421d9d0641c49883c98b2186bf008745305ba70b8dccb1",
+      "description": "Format: Folder\nWelcome to Not For Broadcast VR! The award-winning darkly comedic game of televised chaos that critics have called a “Bizarre masterpiece” and “Quite possibly the best FMV game ever\"\" is now available in VR! Not For Broadcast VR takes the gameplay, story, and gripping dark comedy of the original award-winning FMV adventure and brings you closer to the news than ever. Get a full view of the entire newsroom, interact with your equipment and punch, slap and grab anything that dares to get between you and the truth. We promise it’s so immersive you’ll feel like you’re really being electrocuted by your poorly maintained equipment! Egotistical celebrities, dishonest politicians, and strange sponsors clash on the airwaves. You’re in the chair to ensure that the show goes on uninterrupted. Or at least, that’s what you’re getting paid for. There’s now nothing stopping you from spending all day hitting yourself on the head with VHS tapes, we suppose. Hand-pick the headlines… with your ACTUAL hands! Experience the lost art of inserting a VHS tape into a deck through the magic of virtual reality. Carefully position your “air-conditioning” so the news doesn’t overheat and turn spin wildly around your desk during the adverts (watch the cables, though). Plus, shake your fist in rage at whatever political ideology you don’t agree with (Or at everyone, it’s OK, they can’t see you). Frame the picture; frame the debate Keep the general public entertained with your editing skills, and keep an eye on those ratings. Make politicians look greedy or brave, make resistance leaders look noble or violent, and make news anchors look charming or unhinged. Who and what you decide to show on screen might change the course of history. No pressure. Keep it PG If VR was invented for anything, it was the simulation of pushing important-looking red buttons. Smash it (or gently tap it; it’ll work fine either way) to keep rude words (and other sensitive information) off the air. Keep the news safe for children and oppressive political regimes alike. Tune out the chaos, load up the ads, crank up the volume and immerse yourself in the dreams, fears, hopes and neurosis of an entire nation, all while sitting on your floor.\nRegion: USA to EUR Languages\nFirmware: 7.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: PSVR2 Required\nCredits: Thank you, Xan!!\nUpdated: 2026-11-17T22:01:12.440Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Viki",
+          "url": "https://vik1ngfile.site/f/9h1tYhbLpZ"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/3wig2g2b3s7j"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/vcu6DhvKa0"
+        }
+      ],
+      "sizeBytes": 29892972380
+    },
+    {
+      "titleId": "PPSA23044",
+      "title": "Snow Scout",
+      "createdAt": "2026-11-17T21:59:50.091Z",
+      "version": "01.000.015",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/1883d4317cea7cc4f0342ece6f5f7c7e7c6fd3b0f7d0b504748c1018dcb422be",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/1883d4317cea7cc4f0342ece6f5f7c7e7c6fd3b0f7d0b504748c1018dcb422be",
+      "description": "Format: Folder\nIn this exploration adventure on skis, you start a one-week stint as a volunteer for the Snow Scouts. Your task is to prepare a small ski resort in the German-speaking Alps for re-opening. You are guided by radio, through instructions from Vreni – a very likeable member of the organisation. During your seven-day stint in this remote and majestic mountain wilderness, you will get to know more about her … and maybe even about yourself. FEATURES: • Get away from it all through the power of virtual reality – instead of impersonating a character, you play as yourself, trying to leave behind the energy-sapping pressures of the recent past. • The life-like simulation of skiing makes movement through vast landscapes feel natural and real – even in limited VR playspaces. • Cross-country skiing as well as descent runs are featured as competitive events with online leaderboards. • Communicate with your friendly superior through an innovative communications system. • The game offers a full story mode with over three hours of recorded narration, 20 ski races and lots of side-tasks to complete.\nRegion: USA\nFirmware: 9.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: Thank you, Xan!\nUpdated: 2026-11-17T21:58:43.639Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/QRnYnyEN9K"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/xz7x7i416uv6"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/QnlUjXIODE"
+        }
+      ],
+      "sizeBytes": 17534203986
+    },
+    {
+      "titleId": "PPSA10146",
+      "title": "Job Simulator",
+      "createdAt": "2026-11-17T21:59:50.091Z",
+      "version": "01.001.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/52419ca210bd677603f9dafb1f5ae0bc89b5ca8433d294d5b22476dd17d160f1",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/52419ca210bd677603f9dafb1f5ae0bc89b5ca8433d294d5b22476dd17d160f1",
+      "description": "Format: Folder\n*NEW UPDATE!* All Jobs + Infinite Overtime now include subtitles and additional language support! In a world where robots have replaced all human jobs, step into the 'Job Simulator' to learn what it was like 'to job'. Players can relive the glory days of work by simulating the ins and outs of being a gourmet chef, an office worker, a convenience store clerk, and more. Key Jobbing Features: ● Throw a stapler at your boss! Experience jobbing in fully immersive visuals rendered in 4K at 90fps. ● Learn to 'job' in four not-so historically accurate representations of work life before society was automated by robots! ● Use your hands to stack, manipulate, throw, and smash physics objects in an inexplicably satisfying way! ● Aggressively chug coffee and eat questionable food from the trash! ● Able to juggle tomatoes in real life? Do it in VR! Unable to juggle? There's no cleanup required in VR! ● Work the never-ending night shift with the new Infinite Overtime mode! In addition, on PS5™ consoles: PlayStation Camera adaptor for PS Camera is required (no purchase necessary) go to Playstation.com/camera-adaptor. If you already own the PlayStation®VR version of this game, you can get the PlayStation®VR2 digital version at no extra cost, and you do not need to purchase this product. Owners of a PlayStation®VR disc copy must insert it into the PS5™ every time they want to download or play the PlayStation®VR2 digital version. PlayStation®VR game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PlayStation®VR2 version at no extra cost.\nRegion: USA\nFirmware: 5.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: PSVR2 Required\nCredits: This one's a FPKG. 840MB; Thank you to whoever submitted it!\nUpdated: 2026-11-17T21:57:08.352Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/UsYq6HP2mZ"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/u1nki3ebx3b0"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/w1q6O1sasr"
+        }
+      ],
+      "sizeBytes": 2179695903
+    },
+    {
+      "titleId": "PPSA10144",
+      "title": "Vacation Simulator",
+      "createdAt": "2026-11-17T21:59:50.091Z",
+      "version": "01.000.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/97f2a4ba8fd0f1e6eeb874436ed0275907f0d146361eba3d3817637308a5a9dc",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/97f2a4ba8fd0f1e6eeb874436ed0275907f0d146361eba3d3817637308a5a9dc",
+      "description": "Format: Folder\n*NEW UPDATE* Welcome to the Gig Economy, Human! Provide 5-Star service and enjoy endless tasks in new DLC ‘Vacation Simulator: Back to Job’! The latest VR sensation from the creators of platinum hit ‘Job Simulator’! Welcome to the Vacation Simulator: a rough approximation of VACATION inspired by real human NOT JOBBING. Reallocate your bandwidth and get ready to splash, s’more, snowball, and selfie your way to optimal relaxation! The year is 2060. Following record enrollment in the Job Simulator, robots set out to uncover what else humans did besides ‘job’. After years of balancing buoyancy levels, cataloguing campfire chronicles, and securing ski slope safety protocols, their research led to the creation of a rough approximation of ‘not jobbing’: the Vacation Simulator. Amenities: ● Experience Vacation Island, your destination for optimal relaxation and/or efficient memory-making! ● Customize a virtual YOU for picture-perfect selfies! ● Wave to interact with a colorful cast of Bots! ● Enjoy RECREATION beyond the theoretical limit in immersion-inspiring destinations! ● Splash in the silicon sea and bask in simulated sunlight, all without getting sand in your… hands! ● Get lost connecting with your roots, nodes, and branches... then get actually lost on a hike! ● Elevate your ice-sculpting skills to new heights and reach peak cozy by knitting mittens for a snowhuman! ● Exist in a comfortable, all-inclusive VR experience— free of motion sickness AND seasickness! If you already own the PlayStation®VR version of this game, you can get the PlayStation®VR2 digital version at no extra cost and you do not need to purchase this product. Owners of a PlayStation®VR disc copy must insert it into the PS5® every time they want to download or play the PlayStation®VR2 digital version. PlayStation®VR game disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PlayStation®VR2 version at no extra cost. In addition, on PS5® consoles: PlayStation Camera adaptor for PlayStation®Camera is required (no purchase necessary) go to Playstation.com/camera-adaptor.\nRegion: USA\nFirmware: 5.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: PSVR2 Required\nCredits: This one's a FPKG, 1.5GB; Thank you to whoever submitted it!\nUpdated: 2026-11-17T21:55:20.069Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/IeHjw51Nv2"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/aunogmbrkx36"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/mBYQ9q7yaR"
+        }
+      ],
+      "sizeBytes": 3435973837
+    },
+    {
+      "titleId": "PPSA34063",
+      "title": "NHL 27",
+      "createdAt": "2026-11-17T21:59:50.091Z",
+      "version": "01.003.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/6f2be948495be810ea1eb511b5e63dc87cedc6ef854e046f14cc9e3fbf8bfd35",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/d3aa3c4cd3c6e6c3d2c621e87e47a1f598796d5753558292a3df7d1469abc3f6",
+      "description": "Format: zstd\nLimited time offer until November 18: Gavin McKenna World of Chel limited loadout* Purchase EA SPORTS™ NHL® 27 Standard Edition and receive 250 NHL Points. EA SPORTS™ NHL® 27 brings the identity of every NHL team to life on the ice, in the arena, and through the broadcast. Experience Authentic Atmospheres across all 32 NHL arenas, each designed to capture the sound, spectacle, and identity of its home team. Real-world goal songs, new pregame introductions, and a fully overhauled crowd bring every building closer to its real-world counterpart. A fully refreshed broadcast package featuring John Buccigross and Darren Pang brings new voices, modern broadcast graphics, updated visuals, and more contextual storytelling to every matchup, giving games a cleaner, more authentic NHL feel from puck drop to final horn. Connected Franchise lets you create your league, build your team, manage your roster, and spark new and old rivalries with friends across a full online season. With up to 32 human-controlled teams, league customization, flexible scheduling, roster management, and commissioner tools, your group has the foundation to run the league your way. On the ice, gameplay is driven by true team identity through 32 unique NHL Team Playbooks powered by NHL EDGE data. Teams now play with more recognizable structure, from how they break out of their zone to how they pressure on special teams and adjust late in close games. The result is more authentic matchups where each team feels different and strategy matters every shift. This game includes optional in-game purchases of virtual currency that can be used to acquire virtual in-game items, including a random selection of virtual in-game items.\nRegion: USA\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.4 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nCredits: Thank you, CrisCo!\nUpdated: 2026-11-17T21:25:28.408Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/DFL6fTDSMa"
+        },
+        {
+          "name": "zstd · Data",
+          "url": "https://datanodes.to/5il2v08o8voh"
+        },
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/L7nOs8VYWI"
+        }
+      ],
+      "sizeBytes": 62813896704
+    },
+    {
+      "titleId": "PPSA02225",
+      "title": "Ghost of Tsushima",
+      "createdAt": "2026-11-17T19:57:50.076Z",
+      "version": "02.024.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/33968a4d91024ee564853f2bf02588fa8ffc42999829cddde978cdfb33cb627a",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/c40f727027d3a7b3b608707f3ed795b6aef69c526696492fbd860df3045943fb",
+      "description": "Format: zstd\n99 from 20 August 2021. If you already own the Ghost of Tsushima DIRECTOR’S CUT on PS4, you can upgrade to the PS5 Ghost of Tsushima DIRECTOR’S CUT for $10.00 from 20 August 2021. Edition includes: - Iki Island expansion.* - Legends online co-op mode.** - Digital mini art book. - Director’s commentary. - One Technique Point.* - Charm of Hachiman’s Favour.* - Hero of Tsushima Skin Set.* PS5 features: - Dynamic 4K resolution targeting 60fps (requires compatible 4K TV or display). - DualSense™ wireless controller haptic feedback and adaptive trigger resistance. - 3D Audio with stereo headphones (analogue or USB). - Lip sync for Japanese voiceover. - Ability to transfer PS4 saved progress to PS5 game. Owners of a PS4 disc copy must insert it into the PS5 every time they want to download or play the PS5 digital version. PS4 game disc owners who buy the PS5 Digital Edition disc-free console will not be able to get the PS5 version for the discounted price.\nRegion: USA\nFirmware: 5.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: Remember to disable global fakelib and emu updates in shadowmount! This version includes Brazilian Portuguese 🇧🇷 voice-overs.\nCredits: Thank you, Hdjackson!\nUpdated: 2026-11-17T19:18:58.541Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Viki",
+          "url": "https://vik1ngfile.site/f/dzEP5XlaB3"
+        },
+        {
+          "name": "zstd · Data",
+          "url": "https://datanodes.to/1z28xp9v84vu"
+        },
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/Yj9uJIU91h"
+        }
+      ],
+      "sizeBytes": 69868380488
+    },
+    {
+      "titleId": "PPSA20246",
+      "title": "Sky Oceans: Wings For Hire",
+      "createdAt": "2026-11-17T18:56:49.402Z",
+      "version": "01.000.005",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/b3cf9685a473674a303a72438e947e1a6865ee8f03a617ab34f81b22165073bb",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/b3cf9685a473674a303a72438e947e1a6865ee8f03a617ab34f81b22165073bb",
+      "description": "Format: Folder\n\"The Age of Sky Pirates Returns!\" A Touching Narrative, A Heartfelt Message... Relive the charm of classic RPGs with a touching story about the search for purpose. Take the role of Glenn Windwalker as you assemble your team of pirates and fight against the Alliance. Thrilling Turn-Based Dog Fights Fight adversaries within the open blue skies in strategic turn-based dog fights. Tactically plan attacks and adapt your strategy to the ever-changing scenarios! Build your party and customise your airships Assemble a party of rag-tag air pirates and upgrade airships with new special abilities as you progress through a winding narrative! Manage resources and expand your airship departments strategically. Do you have what it takes to be captain?! A Beautiful World Filled With Wonder Stunning Studio Ghibli-inspired visuals make for diverse environments and memorable character design. Discover new towns, and cultures and help solve local problems to gain their support and loyalty Original Orchestral Soundtrack A beautifully orchestrated original soundtrack accompanies you along your journey.\nRegion: USA\nFirmware: 9.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: RAR password: 20246\nCredits: Thank you, Rapunzel!\nUpdated: 2026-11-17T18:00:06.881Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Gofile",
+          "url": "https://gofile.io/d/TwoVIp26"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/xgkklk4kbuaa"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/IVUUbgClUg"
+        }
+      ],
+      "sizeBytes": 9792525435
+    },
+    {
+      "titleId": "PPSA34577",
+      "title": "Majogami",
+      "createdAt": "2026-11-17T17:55:49.710Z",
+      "version": "01.002.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e5d98efd260183cd9b474662448c54425944b3a83dfe9206fccc66a642083c58",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/e5d98efd260183cd9b474662448c54425944b3a83dfe9206fccc66a642083c58",
+      "description": "Format: Folder\n『魔女ガミ』は記憶喪失の魔女「シロハ」が紙キレの姿となったシロハの父「シオリ」と共に、 その手に持つ刀「カミキリ」でカミの化け物たちを斬って 奇々怪々の世界を駆け抜けていく2D横スクロールアクションゲームです。 プレイヤーはシロハを操り、高速移動（スラッシュ）攻撃「セツナ」を駆使して敵やステージを攻略していきます。 その先々ではシロハの記憶が宿ったカード「追憶譜（レカルタ）」を持つ、 個性豊かなマジョガミたちが立ちはだかります。 彼女たちは狂った心と様々な能力を持ち、 その凶悪な攻撃によってシロハは苦戦を強いられますが「セツナ」によって活路を斬り開いたり、時にはシオリの「防御陣」や道中で出会う守護神「星神」の能力強化「色ナ星（いろなぼし）」など、仲間の力を借りてその窮地を乗り越えていきます。 マジョガミを倒すたびシロハはシオリに関する記憶を思い出してゆき、物語の進行と共に二人の交流も増えていきます。 狂った世界での心温まる家族との触れ合い、そして一人の少女の決断を見届けてください。 妖艶で魅力的な世界観を舞台に、激しい戦いを繰り広げよう！ シロハに襲い来る独特で魅惑的なデザインのマジョガミと呼ばれる少女たち。 インティ・クリエイツの数々の作品に参加しているアートディレクターの夏目裕司（代表作：『Bloodstained: Curse of the Moon』、『ブラスターマスター ゼロ』シリーズなど）が手がけた全く新しい世界観の『魔女ガミ』は、ペーパークラフト風のグラフィックとダークな雰囲気を融合させた独特で魅惑的な世界となっています。 本格的な2D横スクロールアクションの攻略に没頭しながら、美しく作り込まれた世界観とアートワークをお楽しみください。 迫力のフルスクリーンアニメーション、フルボイスで彩られる少女たちの物語の結末とは？ 【出演】 シロハ…富田美憂、シオリ…浜田賢二、語り部…野沢雅子 ファイルーズあい、杉山里穂、宮下早紀、愛原ありさ、上永紗也華、陶山恵実里、ブリドカットセーラ恵美、古木のぞみ、西川舞、秋谷啓斗、狩野翔、大西綺華、井澤詩織\nRegion: JPN to EUR Languages\nFirmware: 12.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: RAR Password: 34577\nCredits: Thank you, Rapunzel!\nUpdated: 2026-11-17T17:55:17.868Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · GoFile",
+          "url": "https://gofile.io/d/m9pQO20L"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/kb6a1lvuhme1"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/zLBLVf3uZN"
+        }
+      ],
+      "sizeBytes": 4498978243
+    },
+    {
+      "titleId": "PPSA21006",
+      "title": "Forward To The Sky",
+      "createdAt": "2026-11-17T17:55:49.710Z",
+      "version": "01.000.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/35082aff1ad8b8ba4ada7b674fd675584847793e08a343edb00e7ae3c34e2f27",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/35082aff1ad8b8ba4ada7b674fd675584847793e08a343edb00e7ae3c34e2f27",
+      "description": "Format: Folder\nThe second 3D action title brought to you by the Animu Game × COSEN team. Guide our princess knight as she races toward the top of the Tower of the Sky, collecting crystals that are said to reveal the whereabouts of the legendary witch. Dive in and enjoy this 3D action-adventure packed with engaging puzzle elements! [Story] Determined to defeat the legendary witch and become a true hero, the princess boards her hot-air balloon and sets foot into the Tower of the Sky. According to ancient lore, gathering the crystals hidden within will unveil the tower's history—and expose the witch's lair. Dismissed by those around her as a troublemaker, this tomboy princess grabs her massive sword and braves a tower crawling with monsters, ready to prove everyone wrong! [Voice Cast] The Princess: Tamako Miyazaki The Witch / Crystals: Tsugumi Sakuragi\nRegion: JPN\nFirmware: 11.xx+\nAPR: ampr-emu ng 0.4 (latest: apr-emu-v0.4.2.1)\nNotes: RAR Password: 21006\nCredits: Rapunzel\nUpdated: 2026-11-17T17:50:56.101Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Gofile",
+          "url": "https://gofile.io/d/CiEdEP60"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/byxk0fb32oha"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/sg6uG5xcfV"
+        }
+      ],
+      "sizeBytes": 1524713390
+    },
+    {
+      "titleId": "PPSA17221",
+      "title": "Minecraft",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "1.008",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/c3cb336b5f6e2007d22d3cccef02661bdb71fbc88bcbdd5b74eb09be6e75da2c",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/63f595500233834c2e362bbb38a1667f3465b2ef4c12d46ec136e7b6ff28c31e",
+      "description": "Format: zstd\nCREATE Build whatever you can imagine in your own infinite world that’s unique in every playthrough. EXPLORE Discover biomes, resources and mobs, and craft your way through a world filled with surprises in the ultimate sandbox game. SURVIVE Experience unforgettable adventures as you face mysterious foes, traverse exciting landscapes, and travel to perilous dimensions. PLAY TOGETHER Have a blast with friends, whether you’re sitting on the same couch in split screen or miles apart in cross-platform play for console, mobile and PC. Connect with millions of players on community servers or subscribe to Realms Plus to play with up to 10 friends on your own private server. VIBRANT VISUALS Vibrant Visuals is Minecraft’s biggest official visual enhancement – delivering a dazzling cosmetic upgrade with a new modern graphics pipeline and an array of visual improvements. Sunrises are more vivid, water reflects, forests become shaded, and more! EXPERIENCE MORE Get creator-made add-ons, thrilling worlds, and stylish cosmetics on the Minecraft Store. Subscribe to Marketplace Pass (or Realms Plus) to access 150+ worlds, skin &amp; textures packs, and more – refreshed monthly. Marketplace Add-Ons, Skins, and Persona items will work with Vibrant Visuals, however, Worlds and Texture Packs are not compatible with the new mode at this time. Splitscreen multiplayer is not supported with Vibrant Visuals and the game will switch to Fancy or Simple rendering if multiple players are joined locally.\nRegion: USA to EUR Langs\nFirmware: 8.xx+\nAPR: ampr-emu ng 0.4 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nCredits: Thank you, Cloud X, for submitting this one!\nUpdated: 2026-11-17T17:48:31.408Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data",
+          "url": "https://datanodes.to/fdwxqgq9pjad"
+        },
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/0XuBuebJz1"
+        }
+      ],
+      "sizeBytes": 955630223
+    },
+    {
       "titleId": "PPSA16439",
       "title": "Front Mission 1st Remake",
       "createdAt": "2026-11-17T01:39:44.884Z",

@@ -653,12 +653,6 @@
       <pubDate>0.19</pubDate>
     </item>
     <item>
-      <title>[Payloads] Np-Fake-Signin-Ps5</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf</link>
-      <description>Fake activate PS5 without PSN.</description>
-      <pubDate>v1.4</pubDate>
-    </item>
-    <item>
       <title>[Payloads] Ps5-Custom-Tool-Manager- Vcustom</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_themes-avatars/PS5-Custom-Tool-Manager-/Custom/PS5-Custom-Tool-Manager-_vCustom.elf</link>
       <description>Custom manager tool for PS5 personalization.</description>
@@ -669,18 +663,6 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_themes-avatars/ps5-wallpaper-modd/v1.0/ps5-wallpaper-modd_v1.0.elf</link>
       <description>Wallpaper modification utility for PS5.</description>
       <pubDate>v1.0</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Garlic-Savemgr V1.15-Beta9</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>garlic-savemgr</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Garlic-Worker V1.5.6</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.5.6/garlic-worker_v1.5.6.elf</link>
-      <description>Garlic worker payload component.</description>
-      <pubDate>v1.5.6</pubDate>
     </item>
     <item>
       <title>[Payloads] Savemnt-Offset-Dumper V1.0.0</title>
@@ -723,6 +705,24 @@
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>ps5-new-overlay</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Garlic-Worker V1.5.6</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>garlic-worker</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Garlic-Savemgr V1.15-Beta9</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>garlic-savemgr</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Np-Fake-Signin-Ps5</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>np-fake-signin</pubDate>
     </item>
     <item>
       <title>[Payloads] Web-File-Mgr-V1.10</title>
@@ -1148,7 +1148,7 @@
       <title>[ProsperoStore] Playden</title>
       <link>https://github.com/leolobato/playden-ps5</link>
       <description>Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.</description>
-      <pubDate>0.11.0</pubDate>
+      <pubDate>0.12.0-beta.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PS5Term</title>
@@ -1568,7 +1568,7 @@
       <title>[ProsperoStore] TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.208</pubDate>
+      <pubDate>01.000.210</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] CD Player</title>
@@ -1664,7 +1664,7 @@
       <title>[ProsperoStore] Media Player Classic PS5</title>
       <link>https://github.com/MisterTemaki/MediaPlayerClassicPS5</link>
       <description>Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.</description>
-      <pubDate>1.6.2</pubDate>
+      <pubDate>1.6.3</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] ProsperoEden (Mirror)</title>
@@ -1862,7 +1862,7 @@
       <title>[ProsperoStore] PS5 Browser</title>
       <link>https://github.com/Vibe-Code-Jesus/PS5Browser-Releases</link>
       <description>A PS5 web browser with tabbed browsing, a download manager, archive extraction, supported exFAT conversion, TorBox integration, media playback, CAPTCHA tools and in-app updates.</description>
-      <pubDate>native-v01.000.009</pubDate>
+      <pubDate>native-v01.000.010</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] BattleShip Remix</title>
@@ -2084,7 +2084,7 @@
       <title>[ProsperoStore] PS5SD</title>
       <link>https://github.com/Darkatek7/PS5SD</link>
       <description>Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.</description>
-      <pubDate>1.2.1</pubDate>
+      <pubDate>1.3.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PS5MG</title>

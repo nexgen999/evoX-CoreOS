@@ -3,6 +3,206 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA03771",
+      "title": "HUMANITY",
+      "createdAt": "2026-11-17T20:21:52.530Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/b69f39a9cfaf1707f2cff0c3bc09d67ea2698751400384c658fd527b1294b1dd",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/87087b858189884fdf99e62e21c53ef8a23e4f0e1a9244e896fbbf2771b9f617",
+      "description": "Region: USA\nRelease note: Credits @Uchiha Dare Nial Works on 4.xx and higher",
+      "downloadSource": "https://dlpsgame.com/humanity-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/5pVzNKBepG7w/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1BaRXc"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/CDnI4FRs2A"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07528",
+      "title": "Ys IX Monstrum Nox",
+      "createdAt": "2026-11-17T20:21:52.530Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/5c1f58a4f426451694d37c13db5729c10d8ee1ca88ddec66f2d41a958ede11f3",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/5c1f58a4f426451694d37c13db5729c10d8ee1ca88ddec66f2d41a958ede11f3",
+      "description": "Region: EUR\nRelease note: Works on 5.xx and higher\nContributor: Xan!!",
+      "downloadSource": "https://dlpsgame.com/ys-ix-monstrum-nox-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 5.xx Base - Akirabox",
+          "url": "https://akirabox.to/9QWmpOlEXGEB/file"
+        },
+        {
+          "name": "EUR 5.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1ezeKG"
+        },
+        {
+          "name": "EUR 5.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/BdDDluVG0x"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA06812",
+      "title": "Ys VIII Lacrimosa of Dana",
+      "createdAt": "2026-11-17T20:21:52.530Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/4bfa2bd3d0d2d40a32e8bca1f0b746d83013ceb9cd8be70e9b461d6cd335b0ab",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/4bfa2bd3d0d2d40a32e8bca1f0b746d83013ceb9cd8be70e9b461d6cd335b0ab",
+      "description": "Region: USA\nRelease note: Works on 5.xx and higher\nContributor: Xan!!",
+      "downloadSource": "https://dlpsgame.com/ys-viii-lacrimosa-of-dana-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 5.xx Base - Akirabox",
+          "url": "https://akirabox.to/2WVGrv1dBGkx/file"
+        },
+        {
+          "name": "USA 5.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/UCN4i"
+        },
+        {
+          "name": "USA 5.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/iV8GMhbaa9"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA24689",
+      "title": "Romancing SaGa Minstrel Song Remastered International",
+      "createdAt": "2026-11-17T20:21:52.530Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/134990b72801bd777b317bc2d11c2f9306645f0e331a44ff4655e68949551ca4",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/134990b72801bd777b317bc2d11c2f9306645f0e331a44ff4655e68949551ca4",
+      "description": "Region: USA\nRelease note: Works on 5.xx and higher\nContributor: Xan!!",
+      "downloadSource": "https://dlpsgame.com/romancing-saga-minstrel-song-remastered-international-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 5.xx Base - Akirabox",
+          "url": "https://akirabox.to/7d5GLWaNbzxR/file"
+        },
+        {
+          "name": "USA 5.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/M8fPk"
+        },
+        {
+          "name": "USA 5.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Kdno8IkotU"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA16439",
+      "title": "Front Mission 1st Remake",
+      "createdAt": "2026-11-17T20:21:52.530Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e3adddc3015e6734654f605bffd6865c78f5da3c70714068217c5369286edf6c",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/e3adddc3015e6734654f605bffd6865c78f5da3c70714068217c5369286edf6c",
+      "description": "Region: USA\nRelease note: Works on 6.xx and higher\nContributor: Xan!!",
+      "downloadSource": "https://dlpsgame.com/front-mission-1st-remake-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 6.xx Base - Akirabox",
+          "url": "https://akirabox.to/E1x3AZaevzyk/file"
+        },
+        {
+          "name": "USA 6.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/26wgT2"
+        },
+        {
+          "name": "USA 6.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/YRMqlvZN2r"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA29727",
+      "title": "Goodnight Universe",
+      "createdAt": "2026-11-17T20:21:52.530Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/2f9ec4bee3894bcfeadcbd4fa8d28b8d95b5ab3c873aa0a3124e929eeae844a6",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/8798df24ab29fc22468e09b9d0d11482b8327a681e2473f89ec0526befefd709",
+      "description": "Variant: USA 11.xx\nRegion: USA\nRelease note: Works on 11.xx and higher\nContributor: @vincenzoz85\n\nVariant: USA exFAT 01.002\nRegion: USA\nRelease note: exFAT format — FW 01.002 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/goodnight-universe-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 11.xx Base - Akirabox",
+          "url": "https://akirabox.to/Z9dzBXW0gmk1/file"
+        },
+        {
+          "name": "USA 11.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1m735M"
+        },
+        {
+          "name": "USA 11.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/LjUx46CE7o"
+        },
+        {
+          "name": "USA exFAT 01.002 Base - DataNodes",
+          "url": "https://datanodes.to/595fe0tq8k5l/PPSA29727.7z"
+        },
+        {
+          "name": "USA exFAT 01.002 Base - FileKeeper",
+          "url": "https://filekeeper.net/t7edubtrrmqe/PPSA29727.7z"
+        },
+        {
+          "name": "USA exFAT 01.002 Base - Akirabox",
+          "url": "https://akirabox.to/gXeGObB6JzAa/file"
+        },
+        {
+          "name": "USA exFAT 01.002 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/B5MMkV2jch"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA18144",
+      "title": "Postal Brain Damaged",
+      "createdAt": "2026-11-17T20:21:52.530Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/2bc62bf28e492a94581f41d9ba3c716392d746d5c099b841056243cb0f98a73b",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/cd7d57cb9933f8efc2c0e642ea9321071fe0ddd9ec1aba90b63fc7b2ada5d80b",
+      "description": "Variant: USA 7.xx\nRegion: USA\nRelease note: Works on 7.xx and higher\nContributor: @vincenzoz85\n\nVariant: USA exFAT 01.000.007\nRegion: USA\nRelease note: exFAT format — FW 01.000.007 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://dlpsgame.com/postal-brain-damaged-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 7.xx Base - Akirabox",
+          "url": "https://akirabox.to/Z9dzBXW05mk1/file"
+        },
+        {
+          "name": "USA 7.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1q8twu"
+        },
+        {
+          "name": "USA 7.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/B7tHR1kTSZ"
+        },
+        {
+          "name": "USA exFAT 01.000.007 Base - DataNodes",
+          "url": "https://datanodes.to/k2e1rzh5v7eb/PPSA18144.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.007 Base - FileKeeper",
+          "url": "https://filekeeper.net/jx01oq2nkt5p/PPSA18144.7z"
+        },
+        {
+          "name": "USA exFAT 01.000.007 Base - Akirabox",
+          "url": "https://akirabox.to/0rpmvg8e73Rg/file"
+        },
+        {
+          "name": "USA exFAT 01.000.007 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/DxYLqHVwt4"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA35929",
       "title": "Rebooted Fate",
       "createdAt": "2026-11-17T13:15:37.554Z",
@@ -849,7 +1049,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/35167bcce0e6f71ba5684a5466e679239a9714c2122f86efd3ef71bd8563bc2d",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/35167bcce0e6f71ba5684a5466e679239a9714c2122f86efd3ef71bd8563bc2d",
-      "description": "Region: EUR\nRelease note: Works on 4.xx and higher\nContributor: @b0mba1992",
+      "description": "Variant: EUR 4.xx\nRegion: EUR\nRelease note: Works on 4.xx and higher\nContributor: @b0mba1992\n\nVariant: EUR exFAT 02.000.001\nRegion: EUR\nRelease note: exFAT format — FW 02.000.001 — 4.xx and beyond\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/mighty-goose-ps5/",
       "downloadLinks": [
         {
@@ -863,6 +1063,22 @@
         {
           "name": "EUR 4.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/vHHLvgTXXb"
+        },
+        {
+          "name": "EUR exFAT 02.000.001 Base - DataNodes",
+          "url": "https://datanodes.to/rjqd3mqvoqzk/PPSA03463.7z"
+        },
+        {
+          "name": "EUR exFAT 02.000.001 Base - FileKeeper",
+          "url": "https://filekeeper.net/3lc4oeb7lt4r/PPSA03463.7z"
+        },
+        {
+          "name": "EUR exFAT 02.000.001 Base - Akirabox",
+          "url": "https://akirabox.to/ZvqzlKvQO3aD/file"
+        },
+        {
+          "name": "EUR exFAT 02.000.001 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Pl62AO6VK3"
         }
       ]
     },
@@ -109788,7 +110004,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/c3cb336b5f6e2007d22d3cccef02661bdb71fbc88bcbdd5b74eb09be6e75da2c",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/63f595500233834c2e362bbb38a1667f3465b2ef4c12d46ec136e7b6ff28c31e",
-      "description": "Variant: USA 10.xx\nRegion: USA\nRelease note: Working 11. xx — 10.xx — 9.xx — 8.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: Release 2\nContributor: pkg.games\n\nVariant: USA exFAT 01.059\nRegion: USA\nRelease note: exFAT format — FW 01.059 — 4.xx BackPort\nContributor: pippo",
+      "description": "Variant: USA 10.xx\nRegion: USA\nRelease note: Working 11. xx — 10.xx — 9.xx — 8.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: Release 2\nContributor: pkg.games\n\nVariant: USA exFAT 01.059\nRegion: USA\nRelease note: exFAT format — FW 01.059 — 7.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/minecraft-ps5/",
       "downloadLinks": [
         {
@@ -145322,6 +145538,35 @@
       ]
     },
     {
+      "titleId": "PPSA09663",
+      "title": "[exFAT] Dragons Dogma 2 Dark Arisen",
+      "createdAt": "2026-11-17T20:21:52.530Z",
+      "version": "04.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/9795aa24caa52f8bc7a8ff9f58be56eb003575747fc914b9293b75c65aa4f886",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/7662f005c664c609a2e295c9b9167743c0433f88fa35aa19cd092e0aab80f890",
+      "description": "Region: USA\nRelease note: exFAT format — FW 04.000 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 04.000 Base - DataNodes",
+          "url": "https://datanodes.to/o4jq5ph3i8jd/PPSA09663.7z"
+        },
+        {
+          "name": "USA exFAT 04.000 Base - FileKeeper",
+          "url": "https://filekeeper.net/fkdl0ykn5x67/PPSA09663.7z"
+        },
+        {
+          "name": "USA exFAT 04.000 Base - Akirabox",
+          "url": "https://akirabox.to/2WVGrvB99Gkx/file"
+        },
+        {
+          "name": "USA exFAT 04.000 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/ZLcGQa91Dh"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA04609",
       "title": "[exFAT] ELDEN RING Deluxe Edition",
       "createdAt": "2026-11-16T20:58:47.843Z",
@@ -148909,39 +149154,6 @@
         {
           "name": "EUR exFAT 01.000.006 Base - Vault (exFAT)",
           "url": "https://datavaults.co/x2xq8ng9p8jq"
-        }
-      ]
-    },
-    {
-      "titleId": "PPSA09664",
-      "title": "[exFAT] Dragons Dogma 2 Deluxe Edition",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "version": "03.000",
-      "category": "game",
-      "posterUrl": "https://pegasus-dl.dev/api/posters/9795aa24caa52f8bc7a8ff9f58be56eb003575747fc914b9293b75c65aa4f886",
-      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/7662f005c664c609a2e295c9b9167743c0433f88fa35aa19cd092e0aab80f890",
-      "description": "Region: EUR\nRelease note: exFAT format — FW 03.000 — 4.xx BackPort\nContributor: pippo",
-      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
-      "downloadLinks": [
-        {
-          "name": "EUR exFAT 03.000 Base - AKIA (exFAT)",
-          "url": "https://akirabox.com/QN9mEqKwLm6d/file"
-        },
-        {
-          "name": "EUR exFAT 03.000 Base - VIKI (exFAT)",
-          "url": "https://vikingfile.com/f/BKnCImqWit"
-        },
-        {
-          "name": "EUR exFAT 03.000 Base - DATA (exFAT)",
-          "url": "https://datanodes.to/igtsg387gv6q"
-        },
-        {
-          "name": "EUR exFAT 03.000 Base - FileK (exFAT)",
-          "url": "https://filekeeper.net/g2zqf2to6y1g"
-        },
-        {
-          "name": "EUR exFAT 03.000 Base - Vault (exFAT)",
-          "url": "https://datavaults.co/e92offgfahjg"
         }
       ]
     },

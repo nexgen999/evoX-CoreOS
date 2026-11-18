@@ -1,5 +1,16 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 18/11/2026 à 00:51
+* **PAYLOADS**
+  * `Garlic-Worker V1.5.6` (garlic-worker) - *Mise à jour (Précédent: v1.5.6)*
+  * `Np-Fake-Signin-Ps5` (np-fake-signin) - *Mise à jour (Précédent: v1.4)*
+* **HOMEBREW_PAGE**
+  * `Playden` (0.12.0-beta.1) - *Mise à jour (Précédent: 0.11.0)*
+  * `TubeBlock` (01.000.210) - *Mise à jour (Précédent: 01.000.208)*
+  * `Media Player Classic PS5` (1.6.3) - *Mise à jour (Précédent: 1.6.2)*
+  * `PS5 Browser` (native-v01.000.010) - *Mise à jour (Précédent: native-v01.000.009)*
+  * `PS5SD` (1.3.1) - *Mise à jour (Précédent: 1.2.1)*
+
 ## Build du 17/11/2026 à 15:50
 * **PAYLOADS**
   * `Ps5-Ezremote-Client V2.21` (2.21) - *Nouveau*

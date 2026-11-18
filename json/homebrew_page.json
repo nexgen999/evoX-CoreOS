@@ -32,15 +32,15 @@
     {
       "name": "Playden",
       "filename": "FAKE77031.zip",
-      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.11.0/playden-ps5-0.11.0.zip",
-      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.11.0/FAKE77031.zip",
+      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.12.0-beta.1/playden-ps5-0.12.0-beta.1.zip",
+      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.12.0-beta.1/FAKE77031.zip",
       "description": "Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.",
-      "version": "0.11.0",
+      "version": "0.12.0-beta.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "FAKE77031",
       "author": "leolobato",
-      "checksum": "e7a5579a693c4d7f48f1f66fd3339f9f27ef503de56809e1950cb036d77736d3",
+      "checksum": "a4ee41d8c9350db5fcbd82dc400cfcc7c1847a1eb103f51464d5f948b6fb253d",
       "source": "https://github.com/leolobato/playden-ps5"
     },
     {
@@ -1012,15 +1012,15 @@
     {
       "name": "TubeBlock",
       "filename": "PPSA98260.zip",
-      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.208/SmartTube-PPSA98260.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.208/PPSA98260.zip",
+      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.210/SmartTube-PPSA98260.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.210/PPSA98260.zip",
       "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
-      "version": "01.000.208",
+      "version": "01.000.210",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98260",
       "author": "animatian112",
-      "checksum": "b67e9c4f2eb65cd06b3d01d95ae65a068bfcb2e4b6fdb6ed6214b739cc4e0280",
+      "checksum": "6740f43d82747c56825e614ffae16251f06a83b93c26e6992674bd42ab96792c",
       "source": "https://github.com/animatian112/ytps5-sponsorblock"
     },
     {
@@ -1236,15 +1236,15 @@
     {
       "name": "Media Player Classic PS5",
       "filename": "PPSA99015.zip",
-      "url": "https://github.com/MisterTemaki/MediaPlayerClassicPS5/releases/download/v1.6.2/MediaPlayerClassicPS5-v1.6.2-PPSA99015.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99015/1.6.2/PPSA99015.zip",
+      "url": "https://github.com/MisterTemaki/MediaPlayerClassicPS5/releases/download/v1.6.3/MediaPlayerClassicPS5-v1.6.3-PPSA99015.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99015/1.6.3/PPSA99015.zip",
       "description": "Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.",
-      "version": "1.6.2",
+      "version": "1.6.3",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99015",
       "author": "MisterTemaki",
-      "checksum": "4cec5bb89c91bc3a195ef426368803f298741c9db2c65ce6384d97ddda46c955",
+      "checksum": "6a6eedf66360ef35b4999c0e0323fb113d19771d43f897d10314befb7073d801",
       "source": "https://github.com/MisterTemaki/MediaPlayerClassicPS5"
     },
     {
@@ -1698,15 +1698,15 @@
     {
       "name": "PS5 Browser",
       "filename": "PPSA99257.zip",
-      "url": "https://github.com/Vibe-Code-Jesus/PS5Browser-Releases/releases/download/native-v01.000.009/PS5Browser-Native-01.000.009-Preview.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99257/native-v01.000.009/PPSA99257.zip",
+      "url": "https://github.com/Vibe-Code-Jesus/PS5Browser-Releases/releases/download/native-v01.000.010/PS5Browser-Native-01.000.010-Preview.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99257/native-v01.000.010/PPSA99257.zip",
       "description": "A PS5 web browser with tabbed browsing, a download manager, archive extraction, supported exFAT conversion, TorBox integration, media playback, CAPTCHA tools and in-app updates.",
-      "version": "native-v01.000.009",
+      "version": "native-v01.000.010",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99257",
       "author": "Vibe-Code-Jesus",
-      "checksum": "b127e7e3ffb8386fcd2f613a6d3d8bf57d067bc55820f074346f699d75a67e80",
+      "checksum": "44fc31c3d7a80ed285c804070c399f992b61d7c623067ac2eba4ef44a43e26e5",
       "source": "https://github.com/Vibe-Code-Jesus/PS5Browser-Releases"
     },
     {
@@ -2216,15 +2216,15 @@
     {
       "name": "PS5SD",
       "filename": "PPSA99576.zip",
-      "url": "https://github.com/Darkatek7/PS5SD/releases/download/v1.2.1/PPSA99576.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99576/1.2.1/PPSA99576.zip",
+      "url": "https://github.com/Darkatek7/PS5SD/releases/download/v1.3.1/PPSA99576.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99576/1.3.1/PPSA99576.zip",
       "description": "Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.",
-      "version": "1.2.1",
+      "version": "1.3.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99576",
       "author": "Darkatek7",
-      "checksum": "68b3c340edd19c6404253be27a6e494fb161f7adee79f68a8c6c68bdd4373d75",
+      "checksum": "fc8381eb7602b64d0cf766b4f34ec8ed12e0afcf05227a559194c7fafacf83dd",
       "source": "https://github.com/Darkatek7/PS5SD"
     },
     {

@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.17-1550)
+### 🚀 Synthèse de la mise à jour (v2026.11.18-0051)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -151,11 +151,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5-ezremote-server_v1.13.elf`
   * `ps5upload_v9.5.1.elf`
   * `airpsx_v0.19.elf`
-  * `np-fake-signin-ps5.elf`
   * `PS5-Custom-Tool-Manager-_vCustom.elf`
   * `ps5-wallpaper-modd_v1.0.elf`
-  * `garlic-savemgr_v1.15-beta9.elf`
-  * `garlic-worker_v1.5.6.elf`
   * `savemnt-offset-dumper_v1.0.0.elf`
   * `PoorDS4rc51_v0.1.0-rc51.elf`
   * `zftpd-ps5-v1.6.0.elf`
@@ -163,6 +160,9 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PS5X360_v0.5.7.elf`
   * `ps5_overlay.elf`
   * `ps5_overlay_shellui.elf`
+  * `garlic-worker_v1.5.6.elf`
+  * `garlic-savemgr_v1.15-beta9.elf`
+  * `np-fake-signin-ps5.elf`
   * `web-file-mgr-v1.10.elf`
   * `web-file-mgr-v1.11.elf`
   * `web-file-mgr-v1.12.elf`
