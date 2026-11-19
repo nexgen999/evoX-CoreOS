@@ -3,6 +3,98 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA16439",
+      "title": "Front Mission 1st Remake",
+      "createdAt": "2026-11-19T10:02:41.643Z",
+      "version": "v03.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e3adddc3015e6734654f605bffd6865c78f5da3c70714068217c5369286edf6c",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/e3adddc3015e6734654f605bffd6865c78f5da3c70714068217c5369286edf6c",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA16439, v03.001, USA, 4.xx BackPort\nSize: 15GB\nCredits: Files: Xan; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 6.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/bYixT7s9#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/bYixT7s9#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/bYixT7s9#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/bYixT7s9#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/yIotQbWR#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/yIotQbWR#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/yIotQbWR#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/yIotQbWR#FileKeeper"
+        }
+      ],
+      "sizeBytes": 16106127360
+    },
+    {
+      "titleId": "PPSA02429",
+      "title": "Human Fall Flat",
+      "createdAt": "2026-11-19T10:02:41.643Z",
+      "version": "v01.017",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/3102b60810b64c2537052a49e7b18c2aa411cd74f0215d098bce8447f60ea142",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/d58598e572630122abd2dd1e851cc72d723f43e0db3a3ff98a0e87256036d9cd",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA02429, v01.017, EUR, 2.xx and beyond\nSize: 4GB\nCredits: Files: DecKerr97\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/OHIbrgF6#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/OHIbrgF6#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/OHIbrgF6#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/OHIbrgF6#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/yPF39lhY#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/yPF39lhY#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/yPF39lhY#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/yPF39lhY#FileKeeper"
+        }
+      ],
+      "sizeBytes": 4294967296
+    },
+    {
       "titleId": "PPSA01911",
       "title": "Final Fantasy VII Remake Intergrade Deluxe Edition",
       "createdAt": "2026-10-16T21:48:35.923Z",
@@ -440,7 +532,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/c3cb336b5f6e2007d22d3cccef02661bdb71fbc88bcbdd5b74eb09be6e75da2c",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/63f595500233834c2e362bbb38a1667f3465b2ef4c12d46ec136e7b6ff28c31e",
-      "description": "Builds: Dump, Fpkg\nTags: PPSA17221, v01.059, USA, 7.xx BackPort\nSize: 1GB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA17221, v01.059, USA, 9.xx BackPort\nSize: 1GB\nCredits: Files: vincenzoz85; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 12.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {

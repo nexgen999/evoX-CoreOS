@@ -473,7 +473,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/e3adddc3015e6734654f605bffd6865c78f5da3c70714068217c5369286edf6c",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/e3adddc3015e6734654f605bffd6865c78f5da3c70714068217c5369286edf6c",
-      "description": "Region: USA\nRelease note: Works on 6.xx and higher\nContributor: Xan!!",
+      "description": "Variant: USA 6.xx\nRegion: USA\nRelease note: Works on 6.xx and higher\nContributor: Xan!!\n\nVariant: USA exFAT 03.001\nRegion: USA\nRelease note: exFAT format — FW 03.001 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/front-mission-1st-remake-ps5/",
       "downloadLinks": [
         {
@@ -487,6 +487,22 @@
         {
           "name": "USA 6.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/YRMqlvZN2r"
+        },
+        {
+          "name": "USA exFAT 03.001 Base - DATA (exFAT)",
+          "url": "https://link-vault.org/c/bYixT7s9#DataNodes"
+        },
+        {
+          "name": "USA exFAT 03.001 Base - FileK (exFAT)",
+          "url": "https://link-vault.org/c/bYixT7s9#FileKeeper"
+        },
+        {
+          "name": "USA exFAT 03.001 Base - AKIA (exFAT)",
+          "url": "https://link-vault.org/c/bYixT7s9#AkiraBox"
+        },
+        {
+          "name": "USA exFAT 03.001 Base - VIKI (exFAT)",
+          "url": "https://link-vault.org/c/bYixT7s9#VikingFile"
         }
       ]
     },
@@ -9335,7 +9351,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/3102b60810b64c2537052a49e7b18c2aa411cd74f0215d098bce8447f60ea142",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/d58598e572630122abd2dd1e851cc72d723f43e0db3a3ff98a0e87256036d9cd",
-      "description": "Region: EUR\nRelease note: Dump by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM",
+      "description": "Variant: EUR 4.xx\nRegion: EUR\nRelease note: Dump by Deckerr97 Works on 4.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.017\nRegion: EUR\nRelease note: exFAT format — FW 01.017 — 2.xx and beyond\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/human-fall-flat-ps5/",
       "downloadLinks": [
         {
@@ -9345,6 +9361,22 @@
         {
           "name": "EUR 4.xx Base - Rootz",
           "url": "https://www.rootz.so/d/1n9tpY"
+        },
+        {
+          "name": "EUR exFAT 01.017 Base - DATA (exFAT)",
+          "url": "https://link-vault.org/c/OHIbrgF6#DataNodes"
+        },
+        {
+          "name": "EUR exFAT 01.017 Base - FileK (exFAT)",
+          "url": "https://link-vault.org/c/OHIbrgF6#FileKeeper"
+        },
+        {
+          "name": "EUR exFAT 01.017 Base - AKIA (exFAT)",
+          "url": "https://link-vault.org/c/OHIbrgF6#AkiraBox"
+        },
+        {
+          "name": "EUR exFAT 01.017 Base - VIKI (exFAT)",
+          "url": "https://link-vault.org/c/OHIbrgF6#VikingFile"
         }
       ]
     },
@@ -110412,7 +110444,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/c3cb336b5f6e2007d22d3cccef02661bdb71fbc88bcbdd5b74eb09be6e75da2c",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/63f595500233834c2e362bbb38a1667f3465b2ef4c12d46ec136e7b6ff28c31e",
-      "description": "Variant: USA 10.xx\nRegion: USA\nRelease note: Working 11. xx — 10.xx — 9.xx — 8.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: Release 2\nContributor: pkg.games\n\nVariant: USA exFAT 01.059\nRegion: USA\nRelease note: exFAT format — FW 01.059 — 7.xx BackPort\nContributor: pippo",
+      "description": "Variant: USA 10.xx\nRegion: USA\nRelease note: Working 11. xx — 10.xx — 9.xx — 8.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: Release 2\nContributor: pkg.games\n\nVariant: USA exFAT 01.059\nRegion: USA\nRelease note: exFAT format — FW 01.059 — 9.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/minecraft-ps5/",
       "downloadLinks": [
         {

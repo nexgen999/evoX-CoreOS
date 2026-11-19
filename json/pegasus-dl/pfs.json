@@ -3,6 +3,40 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA26050",
+      "title": "Gothic II Complete Classic",
+      "createdAt": "2026-11-19T12:43:01.954Z",
+      "version": "01.000.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/df5989527e29b4812df9ba8aadda3bac233c716316236e302303df9939fba7ad",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/df5989527e29b4812df9ba8aadda3bac233c716316236e302303df9939fba7ad",
+      "description": "Format: Folder\nGothic II Complete Classic brings together the excitement of Gothic II and the expansion Night of the Raven. You have torn down the magical barrier and freed the prisoners of the Valley of Mines. Now the former convicts roam the forests and mountains, causing trouble around the city of Khorinis. The town militia is stretched thin, and outside the city walls, travelers are largely defenseless against bandit attacks. FEATURES: • Gripping storyline that continues the adventures of the first game, while still being enjoyable for players who have not experienced the original Gothic. • Three different character guilds to join, each with their own allies and enemies within the world, as well as unique skills that improve through practice. • Over 100 thrilling quests and more than 50 hours of gameplay. • A detailed, lively game world featuring over 500 individual characters, each with their own daily routine. • Multiple ways to complete quests, offering strong replay value. • Fight using more than 200 different weapons and magical spells.\nRegion: EUR\nFirmware: 4.xx+\nNotes: NO SPANISH VOICES If game doesn't save, delete savedata libs in fakelib folder.\nCredits: Thank you, maddy7!\nUpdated: 2026-11-19T12:07:51.633Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Yandex",
+          "url": "https://disk.yandex.ru/d/4ey0WAJBu891VQ"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/javkqdwpwsgl"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/ExUAkyymPy"
+        },
+        {
+          "name": "Folder · Data - Backport",
+          "url": "https://datanodes.to/2ze5pvkomeq9"
+        },
+        {
+          "name": "Folder · Viki - Backport",
+          "url": "https://vikingfile.com/f/8p9GT0fBxY"
+        }
+      ],
+      "sizeBytes": 9932111872
+    },
+    {
       "titleId": "PPSA28000",
       "title": "The Blood of Dawnwalker",
       "createdAt": "2026-10-16T21:48:35.923Z",

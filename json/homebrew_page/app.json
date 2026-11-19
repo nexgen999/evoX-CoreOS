@@ -144,15 +144,15 @@
     {
       "name": "ProsperoSunshine",
       "filename": "PPSA47989.zip",
-      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.6.6/PPSA47989.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.6.6/PPSA47989.zip",
+      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.6.7-beta.1/PPSA47989.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.6.7-beta.1/PPSA47989.zip",
       "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.",
-      "version": "0.6.6",
+      "version": "0.6.7-beta.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA47989",
       "author": "Darkatek7",
-      "checksum": "447a1afc7820fd73878078aa89100c4cf624f5807c6d23e695089be0c6bb669f",
+      "checksum": "1cc54e3b6ae087c864bbc07af8e5671d6d970fc19c08a177b58b3ce1147c84cd",
       "source": "https://github.com/Darkatek7/ProsperoSunshine"
     },
     {
@@ -844,15 +844,15 @@
     {
       "name": "Parallax Browser",
       "filename": "PPSA99207.zip",
-      "url": "https://github.com/rikleigh/parallax-browser/releases/download/v0.2.2/parallax-browser-0.2.2.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99207/0.2.2/PPSA99207.zip",
+      "url": "https://github.com/rikleigh/parallax-browser/releases/download/v0.2.3/parallax-browser-0.2.3.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99207/0.2.3/PPSA99207.zip",
       "description": "A fast Web browser for the PS5 with WebGL, WebGPU, Gamepad API, hardware video decoding up to 8K, and PS VR2 video playback.",
-      "version": "0.2.2",
+      "version": "0.2.3",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99207",
       "author": "Rik Leigh",
-      "checksum": "ac68d03112014af6045714cfd10a5b3df893c908e0befe9778e028be9628a8b5",
+      "checksum": "7dd590553f8afd675ffb7e0389bedcd76473f9570cc73e59c85a1210c6c09eb5",
       "source": "https://github.com/rikleigh/parallax-browser"
     },
     {
@@ -1264,15 +1264,15 @@
     {
       "name": "PSBox Cloud Gaming",
       "filename": "PPSA99810.zip",
-      "url": "https://github.com/RafaelNGP/psbox-cloud-gaming/releases/download/v1.7.6/PPSA99810.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.7.6/PPSA99810.zip",
+      "url": "https://github.com/RafaelNGP/psbox-cloud-gaming/releases/download/v1.7.7/PPSA99810.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99810/1.7.7/PPSA99810.zip",
       "description": "Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.",
-      "version": "1.7.6",
+      "version": "1.7.7",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99810",
       "author": "RafaelNGP",
-      "checksum": "9dcc366cae29e12c1f94ec8f623fa57843b4a258f14070d918a7e5c4c95a2ef5",
+      "checksum": "2925e1182cc6ba95c32e56b847110c66c1691c5f199ca0fab8dd8a6fa09f9b30",
       "source": "https://github.com/RafaelNGP/psbox-cloud-gaming"
     },
     {

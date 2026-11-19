@@ -158,7 +158,7 @@
       <title>ProsperoSunshine</title>
       <link>https://github.com/Darkatek7/ProsperoSunshine</link>
       <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.</description>
-      <pubDate>0.6.6</pubDate>
+      <pubDate>0.6.7-beta.1</pubDate>
     </item>
     <item>
       <title>SudokuZen</title>
@@ -704,7 +704,7 @@
       <title>Parallax Browser</title>
       <link>https://github.com/rikleigh/parallax-browser</link>
       <description>A fast Web browser for the PS5 with WebGL, WebGPU, Gamepad API, hardware video decoding up to 8K, and PS VR2 video playback.</description>
-      <pubDate>0.2.2</pubDate>
+      <pubDate>0.2.3</pubDate>
     </item>
     <item>
       <title>Lost Odyssey</title>
@@ -1136,7 +1136,7 @@
       <title>PSBox Cloud Gaming</title>
       <link>https://github.com/RafaelNGP/psbox-cloud-gaming</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
-      <pubDate>1.7.6</pubDate>
+      <pubDate>1.7.7</pubDate>
     </item>
     <item>
       <title>Estante</title>

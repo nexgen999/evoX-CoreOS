@@ -1,5 +1,14 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 19/11/2026 à 15:31
+* **PAYLOADS**
+  * `Np-Fake-Signin-Ps5` (v1.4) - *Mise à jour (Précédent: np-fake-signin)*
+  * `Garlic-Worker V1.5.6` (v1.5.6) - *Mise à jour (Précédent: garlic-worker)*
+* **HOMEBREW_PAGE**
+  * `ProsperoSunshine` (0.6.7-beta.1) - *Mise à jour (Précédent: 0.6.6)*
+  * `Parallax Browser` (0.2.3) - *Mise à jour (Précédent: 0.2.2)*
+  * `PSBox Cloud Gaming` (1.7.7) - *Mise à jour (Précédent: 1.7.6)*
+
 ## Build du 19/11/2026 à 06:09
 * **PAYLOADS**
   * `Garlic-Worker V1.5.6` (garlic-worker) - *Mise à jour (Précédent: v1.5.6)*
