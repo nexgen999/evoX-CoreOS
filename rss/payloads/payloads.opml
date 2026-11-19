@@ -112,11 +112,8 @@
     <outline text="Ps5-Ezremote-Server V1.13" title="Ps5-Ezremote-Server V1.13" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5-ezremote-server/1.13/ps5-ezremote-server_v1.13.elf" description="Easy remote server component. Port: 8080"/>
     <outline text="Ps5Upload V9.5.1" title="Ps5Upload V9.5.1" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Airpsx V0.19" title="Airpsx V0.19" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/airpsx/0.19/airpsx_v0.19.elf" description="AirPSX server tool for PS5 ecosystem."/>
-    <outline text="Np-Fake-Signin-Ps5" title="Np-Fake-Signin-Ps5" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf" description="Fake activate PS5 without PSN."/>
     <outline text="Ps5-Custom-Tool-Manager- Vcustom" title="Ps5-Custom-Tool-Manager- Vcustom" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_themes-avatars/PS5-Custom-Tool-Manager-/Custom/PS5-Custom-Tool-Manager-_vCustom.elf" description="Custom manager tool for PS5 personalization."/>
     <outline text="Ps5-Wallpaper-Modd V1.0" title="Ps5-Wallpaper-Modd V1.0" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_themes-avatars/ps5-wallpaper-modd/v1.0/ps5-wallpaper-modd_v1.0.elf" description="Wallpaper modification utility for PS5."/>
-    <outline text="Garlic-Savemgr V1.15-Beta9" title="Garlic-Savemgr V1.15-Beta9" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
-    <outline text="Garlic-Worker V1.5.6" title="Garlic-Worker V1.5.6" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.5.6/garlic-worker_v1.5.6.elf" description="Garlic worker payload component."/>
     <outline text="Savemnt-Offset-Dumper V1.0.0" title="Savemnt-Offset-Dumper V1.0.0" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf" description="Offset dumper for save mounting utilities."/>
     <outline text="Poords4Rc51 V0.1.0-Rc51" title="Poords4Rc51 V0.1.0-Rc51" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Zftpd-Ps5-V1.6.0" title="Zftpd-Ps5-V1.6.0" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
@@ -124,6 +121,9 @@
     <outline text="Ps5X360 V0.5.7" title="Ps5X360 V0.5.7" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Ps5 Overlay" title="Ps5 Overlay" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Ps5 Overlay Shellui" title="Ps5 Overlay Shellui" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
+    <outline text="Garlic-Worker V1.5.6" title="Garlic-Worker V1.5.6" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
+    <outline text="Garlic-Savemgr V1.15-Beta9" title="Garlic-Savemgr V1.15-Beta9" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
+    <outline text="Np-Fake-Signin-Ps5" title="Np-Fake-Signin-Ps5" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Web-File-Mgr-V1.10" title="Web-File-Mgr-V1.10" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Web-File-Mgr-V1.11" title="Web-File-Mgr-V1.11" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Web-File-Mgr-V1.12" title="Web-File-Mgr-V1.12" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>

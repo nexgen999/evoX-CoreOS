@@ -1,5 +1,12 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 19/11/2026 à 06:09
+* **PAYLOADS**
+  * `Garlic-Worker V1.5.6` (garlic-worker) - *Mise à jour (Précédent: v1.5.6)*
+  * `Np-Fake-Signin-Ps5` (np-fake-signin) - *Mise à jour (Précédent: v1.4)*
+* **HOMEBREW_PAGE**
+  * `Playden` (0.12.0-beta.2) - *Mise à jour (Précédent: 0.12.0-beta.1)*
+
 ## Build du 19/11/2026 à 00:13
 * **PAYLOADS**
   * `Ps5-Ezremote-Client V2.22` (2.22) - *Nouveau*

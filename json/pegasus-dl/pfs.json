@@ -3,6 +3,72 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA28000",
+      "title": "The Blood of Dawnwalker",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "1.005",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/05e9a60a7e1be9183cae85b017c2283d155708c78facfcb8c6e0107ebc67fd42",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/3ac5aa34f6d5a521b41aaf739fd81da0c304818db051b3c72c998e491daf8e4e",
+      "description": "Format: zstd\n14th-century Europe. Bloody conflicts sweep the lands, and the Black Death comes for the survivors. It's a moment of weakness - and that's all they needed. Vampires seize their opportunity to walk out of the shadows and claim what they've been denied for centuries: freedom, and the power that comes with it. Other creatures of the night follow their lead. Legends turn into reality, and history as we know it will never be the same. You play as Coen, a young man turned into a Dawnwalker, forever treading the line between the world of day and the realm of night. Fight for your humanity or embrace the cursed powers to save your family. Whatever your choice, the question stands: is your soul worth the lives of those you love? Make The Story Your Own - Experience and shape the plot the way you want. Embark on the quest to save your family, or swear revenge on your sire and destroy everyone standing in your way. Discover ancient secrets lurking in the valley. Rush in head first or risk taking time to prepare. Go alone or search for friends and forge unlikely alliances. Day And Night - Experience two different gameplay loops, offering distinct abilities to choose from, mysteries to uncover, and varying ways to achieve your goals. Experiment with different approaches and discover how the world reacts to your actions. Every Action Matters - Every action - and inaction - shapes the world around you. Your family’s days are numbered, and every time you take on a quest, time moves forward, compelling you closer to the end. Choose carefully whom to help and whom to leave behind. You will not have time for everyone. The world waits for no one. And neither does the villain. Sword, Claws, And Rage - Defy gravity, become a brutal force of nature, and use your supernatural skills as a vampire. Or raise your sword, and employ powerful magic to take on opponents as a human. Experiment and adapt as your form changes during the day and night; each has its strengths and weaknesses. Open World Brimming With Adventure - Venture through the hand-crafted open world and discover all it has to offer. Roam through the lush forests, the vast plains, the treacherous swamps, the steep mountaintops, and the medieval settlements. Explore forgotten ruins, find remnants of an ancient civilization, and uncover truths that should probably remain hidden. Become The Dawnwalker - Experience the beginning of a brand-new saga built with love for the role-playing genre. Immerse yourself in a visually stunning world powered by the next-gen Unreal Engine 5.\nRegion: EUR\nFirmware: 12.xx+\nAPR: ampr-emu ng 0.4 (latest: apr-emu-v0.4.2.1)\nCredits: Thank you, @yared_cf!\nUpdated: 2026-11-19T01:11:51.204Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data",
+          "url": "https://datanodes.to/buu6osg2iorx"
+        },
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/xAFHw7hZwm"
+        }
+      ],
+      "sizeBytes": 51357071442
+    },
+    {
+      "titleId": "PPSA02785",
+      "title": "A Plague Tale: Requiem",
+      "createdAt": "2026-11-19T01:18:33.753Z",
+      "version": "1.006",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/565768bba6e8e83b421b6c2f3268495d1ad70243ad2b306350ad8d0034e59d96",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/7156be93c7b95fe177ceaaab586050a0ec7819e1bc9299ab03f8c2677e95b015",
+      "description": "Format: zstd\nFar across the sea, an island calls… Embark on a heartrending journey into a brutal, breathtaking world twisted by supernatural forces. After escaping their devastated homeland, Amicia and Hugo travel far south, to new regions and vibrant cities. There, they attempt to start a new life and control Hugo’s curse. But, when Hugo’s powers reawaken, death and destruction return in a flood of devouring rats. Forced to flee once more, the siblings place their hopes in a prophesized island that may hold the key to saving Hugo. Discover the cost of saving those you love in a desperate struggle for survival. Strike from the shadows or unleash hell, overcoming foes and challenges with a variety of weapons, tools and unearthly powers. ● Sequel to the award-winning adventure A Plague Tale: Innocence ● A spectacular grounded tale twisted by supernatural forces ● Use a variety of tools, sneak, fight, or unleash hell and rats ● Stunning visuals combine with an enthralling score\nRegion: EUR\nFirmware: 5.xx+\nAPR: ampr-emu ng 0.4 (latest: apr-emu-v0.4.2.1)\nCredits: Thank you, abdo!\nUpdated: 2026-11-19T00:47:35.584Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data",
+          "url": "https://datanodes.to/wxml93t0pw7w"
+        },
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/rW8KwihINs"
+        }
+      ],
+      "sizeBytes": 51163797914
+    },
+    {
+      "titleId": "PPSA25286",
+      "title": "Crimson Desert Enhanced Edition",
+      "createdAt": "2026-11-03T13:59:41.056Z",
+      "version": "1.000.568",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/4f61233970fb403babf79ce6af6e672e01ab79b5d0664c272643efd51fcd2457",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/850ac9ee8cf8d5508555401267af14454777aa3fa9b8d66d2f1582cafed3bcae",
+      "description": "Format: zstd\n■ Items [Crimson Desert (Full Game)] [PS5 Exclusive Bonus] - Grotevant Plate Set (Helm, Armor, Cloak, Gloves, Boots) * Go to Menu → Others → Options → Add-On/Add-Ons to claim the rewards. ■ THE GREYMANE'S JOURNEY, ENHANCED​ Discover an enhanced Crimson Desert, featuring new cutscenes and story moments, plus expanded voice-over and language support. ​ Begin the adventure loved by millions, refined since launch with a wealth of updates, including new content, mounts, pets, customization options, various quality-of-life improvements, and more. ■ EXPLORE A WORLD OF DISCOVERY Welcome to Pywel. Here you'll find stretches of natural beauty and wilderness—from green plains and woods to arid deserts and rugged mountains. Between destinations, you will come across landmarks, ancient ruins, hidden treasures, and other points of interest that will draw your curisoity to wander. Your journey will also inevitably take you skyward to the mysterious realm known as the Abyss, where a mystical imbalance endangering the world must be restored. The world is yours to explore as you will and there are many paths for you to uncover. Experience the continent's stories and tales through quests, encounters, challenges, and battles. Roam the lands on various mounts from horses to even a dragon and mechs, and scale cliffsides and walls which you can leap from to glide. ■ FORGE YOUR OWN COMBAT On the unforgiving battlefields of Crimson Desert, there is no single path to victory.​ Grow your arsenal of skills, weapons, and equipment—and decide how you want to use them. Wield weapons like swords, spears, greatswords, axes, dual wields, various ranged weapons, and more, and unleash powerful abilities and elemental enhancements through lethal combinations. With every strike and move, forge your own way in a world where a split second can decide your fate in fast-paced, visceral battles. From ruthless warriors to fearsome beasts, there are those in Pywel who will seek your downfall. Encounter a diverse array of challenging enemies and bosses in brutal one-on-one duels, large-scale battle clashes, and quick skirmishes, and prevail against the threats that stand in your way. ■ LIFE IN PYWEL In Pywel, many of the smaller moments also shape your journey and make up your day-to-day life. Gather resources, cook, fish, hunt, and partake in the other various activities of Pywel for stat replenishment, making your equipment stronger, and more. Along the way, enjoy some leisure time by playing minigames with the locals. And shaping your daily life also extends to customization. Adjust hairstyles, tattoos, outfits, and more using dyes you brew or pick up along your journey.\nRegion: USA to EUR Langs\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.4 (latest: apr-emu-v0.4.2.1)\nCredits: Thank you, abdo!!\nUpdated: 2026-11-19T00:23:12.327Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data",
+          "url": "https://datanodes.to/wg0k53wv1jl7"
+        },
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/d8sgd7patC"
+        }
+      ],
+      "sizeBytes": 106407814758
+    },
+    {
       "titleId": "PPSA16004",
       "title": "Rubberduck Wave Racer",
       "createdAt": "2026-11-18T21:36:20.919Z",

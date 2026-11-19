@@ -32,15 +32,15 @@
     {
       "name": "Playden",
       "filename": "FAKE77031.zip",
-      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.12.0-beta.1/playden-ps5-0.12.0-beta.1.zip",
-      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.12.0-beta.1/FAKE77031.zip",
+      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.12.0-beta.2/playden-ps5-0.12.0-beta.2.zip",
+      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.12.0-beta.2/FAKE77031.zip",
       "description": "Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.",
-      "version": "0.12.0-beta.1",
+      "version": "0.12.0-beta.2",
       "category": "Apps",
       "kind": "app",
       "titleid": "FAKE77031",
       "author": "leolobato",
-      "checksum": "a4ee41d8c9350db5fcbd82dc400cfcc7c1847a1eb103f51464d5f948b6fb253d",
+      "checksum": "3420ff30328d825e24291ed0c027d6eb9e3b355f50147dd50a420c27afa87573",
       "source": "https://github.com/leolobato/playden-ps5"
     },
     {
