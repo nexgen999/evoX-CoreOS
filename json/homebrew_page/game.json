@@ -380,6 +380,20 @@
       "source": "https://github.com/GUMMIBRI/parasite-eve-ps5"
     },
     {
+      "name": "ClanBomber",
+      "filename": "PPSA77028.zip",
+      "url": "https://github.com/GUMMIBRI/ClanBomber-PS5/releases/download/v0.1.0/ClanBomber-PS5-v0.1.0.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA77028/0.1.0/PPSA77028.zip",
+      "description": "Native PS5 port of the open-source ClanBomber game, with local CPU matches, controller pause/resume, Normal/Easy CPU difficulty and custom character skins.",
+      "version": "0.1.0",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA77028",
+      "author": "GUMMIBRI",
+      "checksum": "fcaad10071d98ec50b29f7e1b8b8b6784edf8200cf3fb58b30cb93a32b1a5300",
+      "source": "https://github.com/GUMMIBRI/ClanBomber-PS5"
+    },
+    {
       "name": "PSteroid5",
       "filename": "PPSA77305.zip",
       "url": "https://github.com/futurepr0n/PSteroid5/releases/download/01.004.002/PPSA77305.zip",

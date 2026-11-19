@@ -3,6 +3,692 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA16004",
+      "title": "Rubberduck Wave Racer",
+      "createdAt": "2026-11-18T21:36:20.919Z",
+      "version": "1.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/fb970cdba59abadbe59994ef45c2481b3d099c4510e530c7efd6cda3cce272e4",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/fb970cdba59abadbe59994ef45c2481b3d099c4510e530c7efd6cda3cce272e4",
+      "description": "Format: zstd\nBe a duckling - a squeaky duckling! An incredibly fast ride over raging rivers and thundering white-water rapids. But your duckling also floats on lava, fruit juice and the Milky Way! The ducklings are just as wacky as the tracks: Diver Duck, Superduck, Unicorn Duck, Beauty Duck and many more are available for you to choose from. With up to four friends you can compete against each other - and everyone can be as cute as they like. But don't be fooled - there are also nasty power-ups that can really bother you and your opponents! Now get out on the water! Features: • Official Schnabels® licensed product • 16 fast-paced tracks in four exciting cups • 12 cute squeaky ducklings • Multiplayer mode for 2 to 4 players\nRegion: EUR\nFirmware: 6.xx+\nAPR: ampr-emu ng 0.4 (latest: apr-emu-v0.4.2.1)\nCredits: Thank you for the dump, @b0mba1992!\nUpdated: 2026-11-18T20:41:04.873Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data",
+          "url": "https://datanodes.to/8zl9by2fr1fl"
+        },
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/50JbtHm3VF"
+        }
+      ],
+      "sizeBytes": 2061584302
+    },
+    {
+      "titleId": "CUSA08133",
+      "title": "Mars Alive",
+      "createdAt": "2026-11-18T21:36:20.919Z",
+      "version": "1.01",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/347db5d3fff240549710858d6c64835d46f1593d7e27a67860b11951ab30b5b2",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/347db5d3fff240549710858d6c64835d46f1593d7e27a67860b11951ab30b5b2",
+      "description": "Format: ps4\n《Mars Alive》is a survival PS VR game in the open world. After a terrifying explosion, the whole colony was destroyed. As an astronaut staying on Mars, You need to explore the planet and collect resources, in order to survive in this brutal world. In 2045, all the cultures, technologies and innovations on Mars have vanished under a terrorist attack. The player would face the severe weather, day and night, and other challenges in nature conditions through the first-person view. In this game, you need to manage your resources wisely to survive as long as you can. Just like the description of Martian. The player will reveal the truth behind the civilization on this red planet, which is full of mystery and conspiracy.\nRegion: ASIA to EUR Languages\nFirmware: 5.xx+\nNotes: PSVR Required\nUpdated: 2026-11-18T20:23:40.211Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/kzf5apvsp0wy"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/ppZNKSYFJR"
+        }
+      ],
+      "sizeBytes": 1685774664
+    },
+    {
+      "titleId": "CUSA09049",
+      "title": "Lunar Stone Origin of Blood",
+      "createdAt": "2026-11-18T20:22:57.492Z",
+      "version": "1.06",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/697febab1b2ddd549c3ed6c38b1423658ea2d12d28af087c7902507bd9f4a7d5",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/697febab1b2ddd549c3ed6c38b1423658ea2d12d28af087c7902507bd9f4a7d5",
+      "description": "Format: ps4\nLunar Stone is first-person shooter plus role play exclusively designed for virtual reality. There are four levels of combats for you to explore and an unique dodging system empowers your combat against monsters and lords specialized by dark force. The magical stones lead your adventure in magnificent scenes to find the answers along with your beloved companions. Feast your ears with film made original music and boil your blood in a world where mystery creatures and mankind industry collide. It is a combat for survive, it is a journey for young to grow and seek the answers through and it is a also wholly new experience to adventure together with enhanced AI Non-Player-Controlled Character. 1 player PlayStation®VR Required PlayStation®Camera Required 2 PS®Move controllers required Software subject to license (us.playstation.com/softwarelicense). Online features require an account and are subject to terms of service and applicable privacy policy (playstationnetwork.com/terms-of-service &amp; playstationnetwork.com/privacy-policy). One-time license fee for play on account’s designated primary PS4™ system and other PS4™ systems when signed in with that account. Copyright©2017 GQJoy Co.,Ltd All right reserved.\nRegion: ASIA to EUR Languages\nFirmware: 4.xx+\nNotes: PSVR Required\nUpdated: 2026-11-18T20:20:26.249Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/wujax1rfceqh"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/KVB2UFOxt8"
+        }
+      ],
+      "sizeBytes": 1793148846
+    },
+    {
+      "titleId": "CUSA09412",
+      "title": "Dark Legion",
+      "createdAt": "2026-11-18T20:22:57.492Z",
+      "version": "1.0",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/196dfc7e5593945b723a2953c6933c109df4feabd58bf5a2b3dc7e69589a57a0",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/196dfc7e5593945b723a2953c6933c109df4feabd58bf5a2b3dc7e69589a57a0",
+      "description": "Format: ps4\nDark Legion is a VR first person shooter (FPS) and magic game. The player plays a chief officer on a space mission. The spaceship breaks down on the way back to earth, causing a forced landing onto a mysterious planet. In order to return back to earth, the player starts an expedition to search for energy source, only to find a huge conspiracy that a military troop on this planet is making mutant creatures in secret, that will be a catastrophe for human race. To protect your own race and your own planet, load your weapons and go destroy the dark legion! Huge battle scenes, advanced game level design, and smart AI, making you indulged in the game for a dozen hours (which we wouldn’t suggest you to go for that long, that’s why we have archives). 1 player DUALSHOCK®4 PlayStation®VR Required PlayStation®Camera Required Enhanced play with 2 PS Move controllers Software subject to license (us.playstation.com/softwarelicense). Online features require an account and are subject to terms of service and applicable privacy policy (playstationnetwork.com/terms-of-service &amp; playstationnetwork.com/privacy-policy). One-time license fee for play on account’s designated primary PS4™ system and other PS4™ systems when signed in with that account. © Ice World Ltd. All Rights Reserved\nRegion: ASIA to EUR Languages\nFirmware: 4.xx+\nNotes: PSVR Required\nUpdated: 2026-11-18T20:18:50.393Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/eyg4vlvhg8gj"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/g7lIXGWOqZ"
+        }
+      ],
+      "sizeBytes": 1610612736
+    },
+    {
+      "titleId": "CUSA53574",
+      "title": "Bendy - Lone Wolf",
+      "createdAt": "2026-11-18T20:22:57.492Z",
+      "version": "01.03",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/242ace1184be12df76a42cca433c4849c2b19000aa6d9865bac6a5338204dc36",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/242ace1184be12df76a42cca433c4849c2b19000aa6d9865bac6a5338204dc36",
+      "description": "Format: ps4\nStep into the inky nightmare of Bendy: Lone Wolf®, a thrilling survival adventure set in the twisted, rubberhose world of Joey Drew Studios. As Boris, the lone wolf, you’ll brave endlessly shifting corridors filled with monstrous cartoon creeps, deadly traps, and the relentless pursuit of the Ink Demon. Every day brings new challenges in this heart-pounding quest for survival and truth. • SURVIVE THE ODDS: Test your skills against ever-increasing dangers. Navigate treacherous halls where enemies and obstacles lurk around every corner. Scavenge for supplies, craft weapons, and uncover the dark secrets of the animation studio’s mysterious machine. • FIGHT THE DARKNESS: Battle the grotesque creatures of the Dark Puddles with precise, timed attacks and clever trap strategies. Smash them back into the shadows before they overwhelm you in this unforgiving cartoon horror. • ESCAPE THE INK DEMON: The Ink Demon stalks your every move, his inky heartbeat signaling imminent danger. Run, hide, and outsmart this unstoppable force in a tense game of cat and mouse where nowhere is safe. • A WORLD OF ENDLESS TERROR: Explore procedurally generated environments that keep every playthrough fresh and unpredictable. From haunted studio rooms to nightmarish cartoon realms, the ever-changing world of Bendy: Lone Wolf® ensures no two journeys are the same. • OPTIMIZED EXPERIENCE: Immerse yourself in stunning visuals and responsive controls tailored for Console. Experience smooth gameplay, chilling audio, and intuitive mechanics designed to draw you deeper into the ink-soaked horror. Dare to uncover the secrets of Joey Drew Studios. Will you outwit the darkness, or be consumed by the ink? Play Bendy: Lone Wolf® today and face the ultimate survival challenge.\" If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4® game disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.\nRegion: EUR\nFirmware: 12.xx+\nCredits: Thank you, Samuel-Michaelss!\nUpdated: 2026-11-18T20:15:25.572Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Archive",
+          "url": "https://archive.org/details/qmvuzhkgtg9uzsbxb2xmievvicsgugf0y2ggkenvu0e1mzu3nck"
+        },
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/gtz8nyhfaojm"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/X04nmoKfi2"
+        }
+      ],
+      "sizeBytes": 2254857830
+    },
+    {
+      "titleId": "CUSA57722",
+      "title": "Chorus of Carcosa",
+      "createdAt": "2026-11-18T20:22:57.492Z",
+      "version": "1.03",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/9d71cdf2215c352c435f362a27255460863a7bfacf172ef31c25e61e58802d19",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/9d71cdf2215c352c435f362a27255460863a7bfacf172ef31c25e61e58802d19",
+      "description": "Format: ps4\nChorus of Carcosa is a first-person psychological horror game about an anxious sculptor who is trapped in a dark and ever-changing building. Stay silent, survive its twisted labyrinths and escape the monsters. Just don’t lose your way in the shadows or within your own mind.\nRegion: USA to EUR Langs\nFirmware: 12.xx+\nNotes: FW 12.50+\nUpdated: 2026-11-18T20:07:31.343Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/f8uzjge4fivd"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/zi4lsnD7f6"
+        }
+      ],
+      "sizeBytes": 10114647982
+    },
+    {
+      "titleId": "CUSA53342",
+      "title": "Absolum",
+      "createdAt": "2026-11-18T20:22:57.492Z",
+      "version": "1.10",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/b462a01910c46c5e3e2ea994b99ba30baec9d4baea96cc7a3a2e609c6c3910ae",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/b462a01910c46c5e3e2ea994b99ba30baec9d4baea96cc7a3a2e609c6c3910ae",
+      "description": "Format: ps4\nCrafted with passion by the dream team that redefined side-scrolling beat 'em ups, Absolum mixes top-of-the-class combat action with modern roguelite elements, bringing all the vibes of the fantasy arcade hits of the past into an immersive adventure set in the original world of Talamh. AN EPIC ADVENTURE IN AN ORIGINAL FANTASY WORLD Talamh has been shattered by a magical cataclysm caused by ambitious wizards, leaving magic mistrusted by the common folk. Sun King Azra took advantage of this panic, enslaving wizards through his Crimson Order and placing loyal princes to rule over the conquered realms. As Azra’s forces claim more and more lands, the high enchantress Uchawi and a small group of rebels rise from the shadows, wielding forbidden magic to challenge his oppressive regime and defy his absolute magic power. FROM THE DESTRUCTION, NEW HEROES RISE Meet the outcast heroes of Talamh, each with their unique fighting style. From the shadows of Yeldrim, Galandra emerges as an unstoppable force of nature. Her colossal sword strikes with deadly precision, combined with chilling, destructive necromantic powers. Her calm demeanor is a thin veil, barely concealing the furious anger brewing inside her. Karl is the last free dwarf of Talamh. Armed with an ancestral blunderbuss and his bare fists, he’s a master of close-range brawls and explosive tactics. What he lacks in reach at mid-range, he makes up for with raw strength and quick thinking, making him a stalwart ally in the revolt against Azra's oppression. During their ordeals, two mysterious heroes will join them on a quest to overthrow the Sun King: Brome, a wizard prodigy on a mission to preserve the future generations of his people, and the enigmatic Cider, a nimble skirmisher in search of answers among the scattered fragments of their own soul. THE ROGUE ‘EM UP ORIGINAL BY DOTEMU Absolum combines Dotemu and Guard Crush’s mastery in beat ‘em up gameplay with Supamonks' best-in-class art and animation. With its fast-paced action and endless replayability, Absolum will challenge you with multiple paths to explore and unpredictable encounters for a new experience each time you play. A NEW THRILLING GAMEPLAY TO MASTER Take down Azra’s elite guard with a mix of rapid combo chains and spellcasting powers, unleashing moves that feel as raw as they are strategic. Use magical counters and rare items to turn the tide in your favor and experience a combat system that demands skill and timing, pushing you to craft new strategies at every run to wreak havoc among the enemy ranks. THE BEAT ‘EM UP GENRE AT ITS VERY BEST Lead the uprising against Azra's regime as a lone hero, or team up with a friend on your couch or online. Combine your elemental powers and synchronize your attacks into incredible chained combos! The world of Talamh is an intricate tapestry brimming with secrets, stories, and betrayals. From the majestic mines of Grandery to the lush forests of Jaroba, every step of your odyssey will be accompanied by a magnificent soundtrack by composer Gareth Coker (Ori, Halo Infinite, Prince of Persia), with collaborations from Yuka Kitamura (Dark Souls, Elden Ring), Mick Gordon (Doom Eternal, Atomic Heart), and more!\nRegion: EUR\nFirmware: 12.xx+\nUpdated: 2026-11-18T20:03:10.549Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/ca4ocqus9bim"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/qwzXUGCoL5"
+        }
+      ],
+      "sizeBytes": 4187593114
+    },
+    {
+      "titleId": "CUSA41456",
+      "title": "That Time I Got Reincarnated as a Slime ISEKAI Chronicles",
+      "createdAt": "2026-11-18T20:22:57.492Z",
+      "version": "1.03",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/34c3d8ebdca76419eecd9abeb42436736bf30aa9d4c886269765bcfac894a714",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/34c3d8ebdca76419eecd9abeb42436736bf30aa9d4c886269765bcfac894a714",
+      "description": "Format: ps4\nSpin a new tale of the Jura Tempest Federation together with all your favorite characters from the animated series! • Action-Packed Battles with Exhilarating Combo Attacks Players can enjoy thrilling action battles that combine flashy special moves and powerful combos. Through leveling up bonds with friends, Rimuru will learn Special Attacks, and even have allies join in to back up Rimuru’s attack. Finish off formidable enemies that are coming to destroy Tempest with Secret Skills animated in retro 8-bit style! • Experience Stories from the Anime, as well as All-New Adventures Relive the original story from the encounter with the Kijin to the battle against the Kingdom of Falmuth fully voiced! In addition, there are two brand new adventures from the original author for fans to enjoy! Goblin's Revenge Arc: Kataki is a Bugbear who lost his friends in an attack by the Direwolves. The story of his revenge begins when he discovers that his former enemies and the Hobgoblins coexist in Tempest. Religious Nation Arc: The Theocracy of Angels is a mysterious religious nation that believes in angels. Aiming to take the power of the Storm Dragon, they face off with Tempest. • Exciting City-Building As players progress through the story and meet new allies, their community will grow from a small village to a great nation. Build a wide variety of buildings to take advantage of the Tempest Resonance which strengthens residents as you create more structures in your village! There are even modern Japanese-style buildings that make use of Rimuru's memory from the world before his reincarnation. There are also more than 50 original subquests to enjoy! Enjoy the daily life in Tempest with laughter and tears as Rimuru and his friends work together to solve residents' problems and make the country a better place.\nRegion: EUR\nFirmware: 10.xx+\nNotes: FW 10.50+ Update included!\nUpdated: 2026-11-18T19:58:20.366Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/i3vrsb7jpz1i"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/ok6XM3pFZp"
+        }
+      ],
+      "sizeBytes": 8912057139
+    },
+    {
+      "titleId": "CUSA17421",
+      "title": "Fujii",
+      "createdAt": "2026-11-18T20:22:57.492Z",
+      "version": "1.01",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/67e6a78a404fe71bade683a96c2c0ac7e1241c22f97ada988d84259a22fc75f0",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/67e6a78a404fe71bade683a96c2c0ac7e1241c22f97ada988d84259a22fc75f0",
+      "description": "Format: ps4\nExplore a colorful and magical world, lovingly nurture seeds, and introduce gentle critters to the verdant landscape you'll manifest with your very own hands. A meditative and rejuvenating VR adventure in which you cultivate the garden of your dreams. In addition, on PS5™ consoles: PlayStation Camera adaptor for PS Camera is required (no purchase necessary) go to www.playstation.com/camera-adaptor\nRegion: EUR\nFirmware: 6.xx+\nNotes: FW 6.50+ PSVR Required\nUpdated: 2026-11-18T19:42:29.044Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/uvf13mpj01h8"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/TbsFhuS8IE"
+        }
+      ],
+      "sizeBytes": 763430437
+    },
+    {
+      "titleId": "CUSA15739",
+      "title": "Telefrag VR",
+      "createdAt": "2026-11-18T20:22:57.492Z",
+      "version": "1.11",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/4f6db4a7eb9f5d2bbed9422a0c996861b41e556f55e7bdb00b1c5756191958a3",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/4f6db4a7eb9f5d2bbed9422a0c996861b41e556f55e7bdb00b1c5756191958a3",
+      "description": "Format: ps4\nTelefrag VR is a hellishly fast-paced, competitive arena shooter with visceral movement and combat mechanics inspired by classic FPS. As a space gladiator, dash, run, shoot and teleport around unique arenas that feature impossible geometry where there is no right side up, and where death can come from any direction. It’s time to fight for the glory of the Eternal Roman Empire! Tools of Doom – Pick the best one, including classic arena shooter weapons, such as Rocket Launchers, Flak Cannons, as well as futuristic Plasma Rifles. Each weapon features two firing modes and a unique teleportation attack mechanic! Fluid Movement – Combat in VR has never been so dynamic! Choose between Dash or Smooth Movement and take your enemy by surprise. Short and fast jumps from place to place allow you to constantly control the area. Impossible spaces – Fight in unique arenas arranged with no regard for gravity, opening up various angles of attack and movement.\nRegion: EUR\nFirmware: 6.xx+\nNotes: PSVR Required\nUpdated: 2026-11-18T19:37:54.359Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/wou5cxznpxyo"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/f66DldHRNr"
+        }
+      ],
+      "sizeBytes": 12713103196
+    },
+    {
+      "titleId": "CUSA14845",
+      "title": "Darkness Roller Coaster Ultimate Edition",
+      "createdAt": "2026-11-18T20:22:57.492Z",
+      "version": "1.77",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/2f5cdab4a3229bd65cb14932012bf41acd9bd8b327c268da6039ea21174b5d55",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/2f5cdab4a3229bd65cb14932012bf41acd9bd8b327c268da6039ea21174b5d55",
+      "description": "Format: ps4\nRollercoaster Darkness - Ultimate Shooter Edition is an amazing adventure where action is ubiquitous! Shoot enemies with your PS Moves or DUALSHOCK®4 (3D Rudder Compatible), block their attacks with your shield or slow down time. But beware of the pitfalls and obstacles you will need to avoid when moving your vehicle at any time! Activate your special vision to recover all the secrets and defeat the final boss ... Compare your score with your friends and win the best shooter trophies! Do you want to live a fantastic experience that will hook you to your seat? Do you like action, emotions and sensations? Try Rollercoaster Darkness - The Ultimate Shooter Edition!\nRegion: EUR\nFirmware: 5.xx+\nNotes: FW 5.50+ PSVR Required\nUpdated: 2026-11-18T19:27:31.533Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/y4w0ywzjhxdc"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/tAZY3uWZ7c"
+        }
+      ],
+      "sizeBytes": 9771050598
+    },
+    {
+      "titleId": "CUSA11492",
+      "title": "Detached",
+      "createdAt": "2026-11-18T20:22:57.492Z",
+      "version": "1.02",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/6157d781f2974ca4a2a5e20b4fcdb86c56d383b393f3f0ff7bcd778d79dc3b16",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/6157d781f2974ca4a2a5e20b4fcdb86c56d383b393f3f0ff7bcd778d79dc3b16",
+      "description": "Format: ps4\nEnter space and become an astronaut in zero-G. Detached is a space exploration VR game that demands tactics and skill to survive. Strap yourself in for hardcore gameplay uniquely designed for VR headsets. Trapped in an abandoned space station, you must race against borrowed time to find your crew before your oxygen supply runs out. As you solve puzzles to open airlocks, locate power cores and disable transmitters, something tells you that you won’t be alone when you finally escape into the universe’s deep infinity. Challenge your friend to a PvP duel in one of two multiplayer modes: fight for precious cargo in Package Extraction, or Race between pieces of broken shuttle and asteroid. Two maps await in each mode. Warning! This is an extreme VR experience that simulates sudden and dramatic acceleration, freefalling, twisting and rolling. It is not for VR-sensitive players.\nRegion: EUR\nFirmware: 5.xx+\nNotes: Update included! PSVR Required\nUpdated: 2026-11-18T19:20:29.190Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/qq0ml2suoeoi"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/EImZAf5wRr"
+        }
+      ],
+      "sizeBytes": 21109764260
+    },
+    {
+      "titleId": "CUSA09874",
+      "title": "Football Nation VR Tournament 2018",
+      "createdAt": "2026-11-18T20:22:57.492Z",
+      "version": "1.14",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/c30152f11e4c29ac2fc60fdfeb4d27e75a17def3ecccb45f650c0ab7becc997b",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/c30152f11e4c29ac2fc60fdfeb4d27e75a17def3ecccb45f650c0ab7becc997b",
+      "description": "Format: ps4\nFootball Nation VR™, brining virtual football to life. NEW 2018 Tournaments inspired by the World Cup. For the first time ever, you can physically feel the rush of playing in Football's biggest VR tournament as the vast stadium surrounds you the virtual grass underfoot, the crowd cheering, the excitement and the undeniable patriotism for your country - a childhood dream come true. Play solo against the A.I, join up to 16 player matches (8 Player online lobbies), or invite your friends into a private match for a little friendly competition. With a choice of pitches to play on, players can choose to play in the International league Stadium, or just have a Five A Side kick around with friends. However you play, Football Nation VR™ brings to life the players, teams, and atmosphere of competitive football like no other game can celebrate together as you and your team run, kick and tackle your way to the top spot on the global leaderboards.\nRegion: EUR\nFirmware: 5.xx+\nNotes: Updates and DLC included! PSVR Required\nUpdated: 2026-11-18T19:09:11.994Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/g1m62o4wevah"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/ZgN8EPmJy2"
+        }
+      ],
+      "sizeBytes": 7516192768
+    },
+    {
+      "titleId": "CUSA16049",
+      "title": "Five Nights at Freddy's Help Wanted",
+      "createdAt": "2026-11-18T19:08:36.576Z",
+      "version": "1.22",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/052366e6e53c495aba2187392f9f672b46697dfa1cdcbae16d06f01bb9650255",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/052366e6e53c495aba2187392f9f672b46697dfa1cdcbae16d06f01bb9650255",
+      "description": "Format: ps4\nFive Nights at Freddy’s: Help Wanted is a collection of classic and original mini-games set in the five nights universe. Survive terrifying encounters with your favorite killer animatronics in a collection of new and classic FIVE NIGHTS AT FREDDY’S™ experiences. “Where fantasy and fun come to life!” Standard non-VR and VR modes included. YOU’RE HIRED - Time to get your hands dirty. Repair claustrophobic ventilation systems, troubleshoot broken animatronics that could activate at any moment, or spend your evenings cowering in the nighttime security guard office. PIZZA PARTY - Scenes from classic titles have been updated and remade for a fully immersive experience including Five Nights at Freddy’s, Five Nights at Freddy’s 2, Five Nights at Freddy’s 3, Five Nights at Freddy’s 4, and Five Nights at Freddy’s: Sister Location.\nRegion: EUR\nFirmware: 6.xx+\nNotes: FW 6.50+ PSVR is NOT required, although recommended :D Update and DLC included!\nUpdated: 2026-11-18T18:43:58.805Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/rdrh92xsssle"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/tK74chyqxS"
+        }
+      ],
+      "sizeBytes": 23622320128
+    },
+    {
+      "titleId": "CUSA04606",
+      "title": "Gal Gun Double Peace Ultimate Edition",
+      "createdAt": "2026-11-18T19:08:36.576Z",
+      "version": "1.02",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/117ed2b0c725a243f12c29f0cf4277d2862333991f55d4a92a713f06100a8803",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/117ed2b0c725a243f12c29f0cf4277d2862333991f55d4a92a713f06100a8803",
+      "description": "Format: ps4\nWhen Houdai is shot by cupid angel Ekoro, he becomes immensely popular and suddenly every girl at the academy becomes hot for him. But being irresistible is hardly a dream come true! Every love letter, shout of adulation, and advancing kisses drains his energy! And worse - if he doesn't find his one true love by the end of the day, he will become cursed and forever alone! •Gorgeous anime-styled rail-shooter action. Use your targeting cursor to fend off the advancing girls! •Story Mode: Play through the story and see if you can successfully confess your feelings to the girl of your dreams. •Score Attack: Play specific levels to achieve the highest scores. •Collection: Take a look at your achievements, image gallery and information on all the lovely ladies at the Academy! •Choose your own love interest. Your choices will change the story and the path you take throughout the game. Additional hardware required for Remote Play. 1 player 3GB minimum save size Remote Play Software subject to license (us.playstation.com/softwarelicense). Online activity subject to Terms of Services and User Agreement (www.playstationnetwork.com/terms-of-service). One-time license fee for play on account’s designated primary PS4™ system and other PS4™ systems when signed in with that account. ©2016 INTI CREATES CO. LTD. All Rights Reserved. Licensed to published by PQube Limited.\nRegion: EUR\nFirmware: 2.xx+\nNotes: Update and DLCs included!\nUpdated: 2026-11-18T18:18:05.413Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/yj9iwv4kt8pv"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/1vkd6pwimZ"
+        }
+      ],
+      "sizeBytes": 6238439997
+    },
+    {
+      "titleId": "CUSA11341",
+      "title": "Gal Gun 2",
+      "createdAt": "2026-11-18T19:08:36.576Z",
+      "version": "1.02",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/1f2b95c086d71305cd99562a4003f479bf79eb5b253fce27a71c1fc6aa4d1ac9",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/1f2b95c086d71305cd99562a4003f479bf79eb5b253fce27a71c1fc6aa4d1ac9",
+      "description": "Format: ps4\nThe Craziest Shooter Yet! Help swarms of girls escape their demon possessions by using your Pheromone Shot gadget for euphoric exorcisms. A Gorgeous New Cast! Woo the girl of your dreams in a twisting, turning story full of surprises. With the aid of alluring angel Risu, become romantically entangled with girl-next-door Chiru and childhood sweetheart Nanako. Become a Knight in Shining Armor! Manage your schedule to receive quests from the academy's love-struck girls, and satisfy their demands to unlock new missions and story scenes. Harness the Power of Vacuuming! Equip the awesome Demon Sweeper gadget, capable of sucking up Gal*Gun 2's pesky demon menaces… and perhaps some clothing too!\nRegion: EUR\nFirmware: 4.xx+\nNotes: Includes update and DLCs!\nUpdated: 2026-11-18T18:13:11.397Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/u9iajsnaxnv3"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/dZs6LMHL4W"
+        }
+      ],
+      "sizeBytes": 2405181686
+    },
+    {
+      "titleId": "CUSA03067",
+      "title": "Agents of Mayhem",
+      "createdAt": "2026-11-18T17:51:46.363Z",
+      "version": "1.05",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/d3e3f55e776664e7d9e5ba3fa7bd1d4c7261b37cee2ddb0956c4961fa1e12e02",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/d3e3f55e776664e7d9e5ba3fa7bd1d4c7261b37cee2ddb0956c4961fa1e12e02",
+      "description": "Format: ps4\n'Agents of MAYHEM is the latest open-world, third-person action game from the creators of the Saints Row franchise! In Agents of MAYHEM, you run a no-holds barred operation against a shadowy super-villain organization known only as LEGION and their mysterious leader, the Morningstar. Following the global attacks on Devil’s Night, cities of the world are held by the LEGION’s Ministries, bands of powerful villains named for the Seven Deadly Sins. Seoul is the personal domain of LEGION’s mad scientists, the Ministry of Pride – Doctor Babylon and his rogue’s gallery of supporting villains. You play as a variety of Super Agents – each with their own distinct look, personality, weapons, and skills. Explore the city of Seoul to rout out LEGION operatives and their vile plans to take over the world. MAYHEM’s Agents have a license to do what the hell they want, so long as they do whatever it takes to grow the agency and ultimately defeat LEGION.'\nRegion: EUR\nFirmware: 3.xx+\nNotes: Updates and DLC included!\nUpdated: 2026-11-18T17:01:04.706Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/otkf7e2hw8ti"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/iBhnha7QHo"
+        }
+      ],
+      "sizeBytes": 48318382080
+    },
+    {
+      "titleId": "CUSA11646",
+      "title": "Arca's Path",
+      "createdAt": "2026-11-18T17:51:46.363Z",
+      "version": "1.0",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/f56a67d665289e9124487c095397af049d0c8928c56c5e846565080819a64cdd",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/f56a67d665289e9124487c095397af049d0c8928c56c5e846565080819a64cdd",
+      "description": "Format: ps4\nTrapped in the enchanting simulated world of Arca, it is up to you to find a path through the labyrinth and break free. With intuitive hands-free gameplay, Arca’s Path is an atmospheric VR gaming experience. A Dark Fairytale – Enter the simulated world of Arca and unlock the truth, in a truly immersive VR gaming experience. Challenging Physics-based Gameplay – Find your path through 25 levels of stunning crystalline landscapes. Hands-free Control – Head tracking VR technology uses your gaze to intuitively lead the character’s sphere with skill and precision. Ambient Soundtrack – Experience the chilled experimental electro music of Ninja Tunes artist, Raffertie. 1 player 500MB minimum save size DUALSHOCK®4 PlayStation®VR Required PlayStation®Camera Required Software subject to license (us.playstation.com/softwarelicense). Online features require an account and are subject to terms of service and applicable privacy policy (playstationnetwork.com/terms-of-service &amp; playstationnetwork.com/privacy-policy). One-time license fee for play on account’s designated primary PS4™ system and other PS4™ systems when signed in with that account. © 2018 Rebellion. The Rebellion name and logo, and the Arca name and logo are trademarks of Rebellion and may be registered trademarks in certain countries. All rights reserved.\nRegion: EUR\nFirmware: 5.xx+\nNotes: FW is 5.50+ PSVR Required\nUpdated: 2026-11-18T16:40:49.213Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/7ix0h6hqbhcj"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/Hekl1JFb2K"
+        }
+      ],
+      "sizeBytes": 517543559
+    },
+    {
+      "titleId": "CUSA12741",
+      "title": "Eden Tomorrow",
+      "createdAt": "2026-11-18T16:40:09.568Z",
+      "version": "1.03",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/5103302a6c792996c2f4e50ea17417b513d6945e01b4fa1f6c20ddf74ec77d9f",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/5103302a6c792996c2f4e50ea17417b513d6945e01b4fa1f6c20ddf74ec77d9f",
+      "description": "Format: ps4\nDeveloped exclusively for PlayStation®VR, Eden-Tomorrow is a story-driven, sci-fi action-adventure. It is a fantastic journey through an unknown world in Virtual Reality, taking the player on an odyssey full of suspense and mystery. The main characters of Eden-Tomorrow are a duo of a human being plagued by amnesia and a drone that calls itself 'Newton', both with different powers and skills. They must work together to survive on this alien and hostile planet. In the course of the game the player gets more and more indications as to what might have happened to human, Newton and this world. 1 player 7GB minimum save size DUALSHOCK®4 PlayStation®VR Required PlayStation®Camera Required Software subject to license (us.playstation.com/softwarelicense). Online features require an account and are subject to terms of service and applicable privacy policy (playstationnetwork.com/terms-of-service &amp; playstationnetwork.com/privacy-policy). One-time license fee for play on account’s designated primary PS4™ system and other PS4™ systems when signed in with that account. © 2019 Soulpix. All rights reserved. EDEN-TOMORROW is a trademark of Soulpix\nRegion: EUR\nFirmware: 5.xx+\nNotes: FW is 5.50+ PSVR is Required\nUpdated: 2026-11-18T16:37:22.259Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/u4iw54n34pl2"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/2vnIa4lkvz"
+        }
+      ],
+      "sizeBytes": 13486197309
+    },
+    {
+      "titleId": "CUSA16362",
+      "title": "The Rabbit Hole",
+      "createdAt": "2026-11-18T16:40:09.568Z",
+      "version": "1.03",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/cf0f7e2c273912306ac5d34f0a6a8e872500703d2595bdfee200be985c42f8b9",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/cf0f7e2c273912306ac5d34f0a6a8e872500703d2595bdfee200be985c42f8b9",
+      "description": "Format: ps4\nSolve puzzles to find your way out of the room before it is too late - Something lurks deep in the shadows. Welcome to a place where everything you ever imagined can be true, even your worst nightmare. “Who in the world am I? Ah, that's the great puzzle.” - Lewis Caroll “Imagination is the only weapon in the war against reality.” ― Lewis Carroll, Alice in Wonderland The Rabbit Hole is an immersive, intense and mind-bending game built for Virtual Reality which contains: - A Dark Environment Built With Unreal 4 - Live an Escape the Room experience in Virtual Reality - Room exploration with collectibles and logical thinking to find the way out - The Room evolves and get darker and darker as you push forward, experience The Old Room in three different layouts: Night, Day and Nightmare. - Change your size with cakes and potions mechanics to find and explore new places. - More than 5 unique puzzles challenges - Incredible virtual sound effects 1 player 350MB minimum save size DUALSHOCK®4 PlayStation®VR Required PlayStation®Camera Required Enhanced play with 2 PS Move controllers Software subject to license (us.playstation.com/softwarelicense). Online features require an account and are subject to terms of service and applicable privacy policy (playstationnetwork.com/terms-of-service &amp; playstationnetwork.com/privacy-policy). One-time license fee for play on account’s designated primary PS4™ system and other PS4™ systems when signed in with that account. All rights reserved - VR Monkey.\nRegion: EUR\nFirmware: 5.xx+\nNotes: FW 5.50+ PSVR Required\nUpdated: 2026-11-18T16:30:08.805Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/b7gy1xj7sda4"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/m2HqKPD1Om"
+        }
+      ],
+      "sizeBytes": 1331439862
+    },
+    {
+      "titleId": "CUSA16509",
+      "title": "Apocalypse Rider",
+      "createdAt": "2026-11-18T16:40:09.568Z",
+      "version": "1.03",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/480b63402b8011f48b39431ccb2d74f9ae1ba510b9896f689c6ee0907f04091a",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/480b63402b8011f48b39431ccb2d74f9ae1ba510b9896f689c6ee0907f04091a",
+      "description": "Format: ps4\nIn the scorched wasteland speed is all that matters! Apocalypse Rider is a VR arcade motorcycle game where you must prevail the high-speed wasteland roads, avoid the hostile traffic and keep surviving, speeding and RIDING! - 20 levels of pure VR adrenaline - 5 motorcycles available with dozens of upgrades - Full virtual reality environment - Gamepad and motion controller support. 1 player DUALSHOCK®4 PlayStation®VR Required PlayStation®Camera Required Enhanced play with 2 PS Move controllers Software subject to license (us.playstation.com/softwarelicense). Online features require an account and are subject to terms of service and applicable privacy policy (playstationnetwork.com/terms-of-service &amp; playstationnetwork.com/privacy-policy). One-time license fee for play on account’s designated primary PS4™ system and other PS4™ systems when signed in with that account. All rights reserved - VR Monkey.\nRegion: EUR\nFirmware: 5.xx+\nNotes: FW is 5.50+ PSVR Required\nUpdated: 2026-11-18T16:28:08.435Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/8h8eo8w6d68o"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/3scrFQ7VvR"
+        }
+      ],
+      "sizeBytes": 1009317315
+    },
+    {
+      "titleId": "CUSA17619",
+      "title": "Azur Lane Crosswave",
+      "createdAt": "2026-11-18T16:40:09.568Z",
+      "version": "1.04",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/fa78f44c4b71920f52163232b42f02e96f1bd3e19e013917e000770d3f34d6f9",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/fa78f44c4b71920f52163232b42f02e96f1bd3e19e013917e000770d3f34d6f9",
+      "description": "Format: ps4\nNow in 3D – Azur Lane is now retrofitted for the PS4 as a 3D action shooter! Choose from 25+ playable and 30+ support characters, including newcomers, Shimakaze and Suruga, to help lead your fleet to victory. 4 Game Modes – Story Mode goes through 7 riveting chapters. In Extreme Battle Mode, battle against 100+ fleets for special materials. Pose characters in Photo Mode! Episode Mode includes 50+ additional sub-stories! Arm Your Armada – Exchange blueprints to create new gear, convert materials into rare items, and earn rewards. Experiment with various fleet arrangements to gain special in-game bonuses! Take Aim - Control, aim, and fire at will! Dash to evade attacks or activate defensive shields, unleash torpedoes or aircrafts, and switch-on character-specific special attacks!\nRegion: EUR\nFirmware: 6.xx+\nNotes: DLCS and update included!\nUpdated: 2026-11-18T16:23:53.400Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/y900wp4ir9we"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/xXPHoBZ9nm"
+        }
+      ],
+      "sizeBytes": 10136122819
+    },
+    {
+      "titleId": "CUSA23661",
+      "title": "Brain Beats",
+      "createdAt": "2026-11-18T16:40:09.568Z",
+      "version": "1.01",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/704b98a21b9b55da47030d32cf6e7477e01d443a2cb947b511d43a49193d2ca6",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/704b98a21b9b55da47030d32cf6e7477e01d443a2cb947b511d43a49193d2ca6",
+      "description": "Format: ps4\nBrain Beats is a musical VR game driven by rhythm, designed by a team of psychophysical wellness professionals. Relieve your stress with exciting and immersive gameplay and combine synchronized physical exercises with music in 3 different modes. Follow the rhythm and hit globes with the correct hand at the right time or cut cubes with swords to get the best score! Fight back against stress with slow, calm music or be captivated by exciting, energizing and fast-paced tracks! Organize your training with custom playlists: fast-paced, relaxing, or a combination of both! Keep track of the calories burned with your movements. Choose your rhythm and enjoy a flowing experience with no interruptions. Each category of music has different atmospheres and colors to help you get the best results in a complete and immersive experience. 27 music tracks included! More tracks will be added in upcoming DLCs!\nRegion: EUR\nFirmware: 7.xx+\nNotes: Update included! PSVR Required\nUpdated: 2026-11-18T16:15:45.276Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/10i6w1d19dyc"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/WEZ4Z9n42m"
+        }
+      ],
+      "sizeBytes": 1020054733
+    },
+    {
+      "titleId": "CUSA29261",
+      "title": "Wraith the Oblivion Afterlife",
+      "createdAt": "2026-11-18T16:40:09.568Z",
+      "version": "1.02",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/fb82f96e5d30f03c27bc89b822be1720d3b35bac46d79fb3d1e5f9a52ceae0d3",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/fb82f96e5d30f03c27bc89b822be1720d3b35bac46d79fb3d1e5f9a52ceae0d3",
+      "description": "Format: ps4\nYou died in a mysterious seance and have become a Wraith, one of the restless undead. In this VR horror game, use your supernatural abilities to solve the mystery behind your death. But beware of the sinister Spectres lurking in the shadows... BECOME A WRAITH Move through walls, track the movement of other spirits, and manipulate objects at a distance to uncover the truth of how you met your end. EXPLORE THE BARCLAY MANSION The Barclay Mansion is an opulent residence filled with Hollywood decadence, occult research, and terrifying monsters. Using Relic Items and Wraith abilities to explore and hunt for clues. BEWARE OF SPECTRES Hostile spirits, each connected to the bigger mystery, roam the mansion’s halls. With few ways to defend yourself, you must avoid and outwit these lost souls. EXPERIENCE THE WORLD OF DARKNESS IN VR Wraith: The Oblivion - Afterlife is set in the World of Darkness, the shared universe containing Vampire: The Masquerade, Werewolf: The Apocalypse, and more. In addition, on PS5™ consoles: PlayStation Camera adaptor for PS Camera is required (no purchase necessary) go to Playstation.com/camera-adaptor.\nRegion: EUR\nFirmware: 7.xx+\nNotes: FW is 7.50+ Update included! PSVR Required\nUpdated: 2026-11-18T16:13:18.360Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/je9lqx8ay25h"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/GoI7cLkMuE"
+        }
+      ],
+      "sizeBytes": 3543348019
+    },
+    {
+      "titleId": "CUSA31615",
+      "title": "Super Bullet Break",
+      "createdAt": "2026-11-18T16:40:09.568Z",
+      "version": "1.03",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/872008c8036ac598323d889beaf9a795dbdaff8f907c8c80bf32ec637793eeb6",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/872008c8036ac598323d889beaf9a795dbdaff8f907c8c80bf32ec637793eeb6",
+      "description": "Format: ps4\nSuper Bullet Break is a one-of-a-kind strategy deck builder filled with a wild bunch of cute and colorful characters – ‘Bullets’ – each and every one of them unique in their own way. Rescue online games from total destruction in a world where online multiplayer games have been taken over by a rogue AI! Can you save the world, defeat enemies in strategic turn-based battles, and beat Super Bullet Break? Collect over 160 Bullets No two girls are alike! Get to know the Bullets you collect along the way, all of them featuring original artwork and character designs, and build the perfect team. Gather a wide variety of items and bullets to make them work together to your advantage! From Common to Legendary, Active to Passive, each item will be useful to you in its own way. Choose Your Character Play as either Akari, Hikaru, or Sumire! Each of them comes with different features and may be of advantage to you depending on your playstyle. Do you prefer a stable playstyle or defeating your enemies with technical combos? Super Bullet Break has a character for everyone. 7 unique game maps From Seasons of Love to The Aquarhythm Deep and Phoenix Gunner, each of the 7 game maps has been inspired by classic game genres from dating sims to rhythm games and dungeon crawlers. Gacha without microtransactions Although inspired by classic gacha games, Super Bullet Break takes the microtransactions out of it! Purchase items in the shop with in-game currency, receive them as a battle reward, or find them in the treasure chests scattered around the map to improve your deck! Super Bullet Break is all about strategy after all … and a little bit of luck. With your character determining your starting deck, it's now up to you to take the risk to swap cartridges, find items, and scout Bullets - a deck builder with a twist, if you will. Improve your strategy with every replay!\nRegion: EUR\nFirmware: 9.xx+\nNotes: Update included!\nUpdated: 2026-11-18T16:06:20.239Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/hdzj352cp9k6"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/v733fUi1xg"
+        }
+      ],
+      "sizeBytes": 747324310
+    },
+    {
+      "titleId": "CUSA17393",
+      "title": "Astroneer",
+      "createdAt": "2026-11-18T16:40:09.568Z",
+      "version": "1.87",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/fe476861297911e69db834b5fedc190a0f0bdc3a73962f65f0d050a0a85489cf",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/fe476861297911e69db834b5fedc190a0f0bdc3a73962f65f0d050a0a85489cf",
+      "description": "Format: ps4\nIn Astroneer you can: Reshape the ground under your feet as though it were made of clay. In Astroneer, players use their deform tool to dig, collect, shape and build anything they wish. Survive on and explore carefully crafted planets that can be entirely deformed and traversed. Our vast solar system includes 7 wondrous planets that players can travel between and explore every inch of, from the entire spherical surface, through treacherous layers of caves, all the way down to mysterious the core. Snap together components and objects to build bases and vehicles. Items that Astroneers craft and find in the world can all be snapped and connected together to create unique creations for any situation. Customize and decorate your bases, vehicles, and Astroneer. Play with friends in 4 player online drop-in/drop-out co-op. Astroneer is better with friends. Group up with other players and work together to create massive industrial bases or to create fun games in the extensive creative sandbox.\nRegion: EUR\nFirmware: 12.xx+\nNotes: FW is 12.50+ I WANT TO THINK DLCS WORK. They're unlockers, but since I made them manually, Idk if they'd work :c\nUpdated: 2026-11-18T16:02:45.005Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/f3n7pyddbljd"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/fqlXFEYfGU"
+        }
+      ],
+      "sizeBytes": 3350074491
+    },
+    {
+      "titleId": "CUSA56821",
+      "title": "Who's at the Door",
+      "createdAt": "2026-11-18T16:40:09.568Z",
+      "version": "1.01",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/b8febf465545b7b36e3da8e832d5cf6785c1672fd0056488e933da70370a3214",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/b8febf465545b7b36e3da8e832d5cf6785c1672fd0056488e933da70370a3214",
+      "description": "Format: ps4\nGAME OVERVIEW IS IT SAFE, OR IS IT DANGEROUS? - If the hallucinations don't persist, you're safe. Open the door and get the medication from the visitor. OPEN THE DOOR OR TAKE YOUR PILL - If the hallucinations remain, take the medicine by the door. - Follow this routine for 8 days, and your condition may begin to improve. GAME INTRODUCTION I am a psychiatric patient. I don't remember when it started—or even the moment the headaches began. Hallucinations are nothing new to me. But when they linger and begin to overtake reality, it's a whole different story. I have to take the medication. Caught between hallucination and reality— Are you ready to face the truth? MULTIPLE ENDINGS The story doesn't end with just one playthrough. Replay the game to find hidden doll pieces. Each piece is a key that brings you closer to the truth. There are three main endings. And when all pieces are collected, the true final ending is unlocked. Who's at the Door? is a short psychological horror game inspired by surreal titles like The Exit 8. It offers roughly 60–120+ minutes of immersive gameplay, letting players experience the world of a patient suffering from hallucinations. CONTENT WARNING This game includes themes or visuals not appropriate for all ages or workplace environments : Violence, general mature content-Graphic depictions of blood, portrayals of psychological distress, disturbing imagery and sound design.\nRegion: ASIA to EUR Languages\nFirmware: 12.xx+\nNotes: FW is 12.50+ Update included in the link!\nUpdated: 2026-11-18T15:55:45.161Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/xljjzth2faou"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/5awqsXNC0w"
+        }
+      ],
+      "sizeBytes": 3725884129
+    },
+    {
+      "titleId": "CUSA08364",
+      "title": "Okami HD",
+      "createdAt": "2026-11-18T16:40:09.568Z",
+      "version": "1.0",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/6dce6a8c6768e5a3fb231959f9167c01456ea5472d812f52999618c69c48764d",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/6dce6a8c6768e5a3fb231959f9167c01456ea5472d812f52999618c69c48764d",
+      "description": "Format: ps4\nExperience the critically acclaimed masterpiece with its renowned Sumi-e ink art style in breathtaking high resolution. Take on the role of Amaterasu, the Japanese sun goddess who inhabits the form of a legendary white wolf, on a quest to defeat Orochi, an eight-headed demon and tyrannical monster responsible for turning the world of Nippon into a ruined wasteland. Players will be able to choose between modern widescreen format or the original release’s 4:3 ratio. Interactive loading game screens from the original game are also included.\nRegion: EUR\nFirmware: 4.xx+\nUpdated: 2026-11-18T15:46:10.178Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/1ac8x3smsjvb"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/tEaJaEsuJy"
+        }
+      ],
+      "sizeBytes": 18253611008
+    },
+    {
+      "titleId": "CUSA06675",
+      "title": "How we Soar",
+      "createdAt": "2026-11-18T16:40:09.568Z",
+      "version": "1.01",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/c86f0afb10250618c9f93867ae38b5d5ece29ec288d536bedefa09afa4c0b9bc",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/c86f0afb10250618c9f93867ae38b5d5ece29ec288d536bedefa09afa4c0b9bc",
+      "description": "Format: ps4\nHow We Soar is a VR flight experience that lets you take up the reins of a beautiful, giant Phoenix and explore an enchanting papercraft world. Seated on the back of this mythical creature, fly throughout the diaries and works of the 'Author'. Reconstruct and bring life to the pages of his creations, uncovering his personal story as you soar. How We Soar is powered by Unreal Engine 4 and exclusive to Sony PlayStation®VR. VR Games may cause some players to experience motion sickness. 1 player PlayStation®VR Required Software subject to license (us.playstation.com/softwarelicense). Online features require an account and are subject to terms of service and applicable privacy policy (playstationnetwork.com/terms-of-service &amp; playstationnetwork.com/privacy-policy). One-time license fee for play on account’s designated primary PS4™ system and other PS4™ systems when signed in with that account. ©2016 Penny Black Studios LTD. All rights reserved.\nRegion: EUR\nFirmware: 3.xx+\nNotes: PSVR Required\nUpdated: 2026-11-18T15:36:09.607Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/bapv2b9fyqwu"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/QETAAixvrM"
+        }
+      ],
+      "sizeBytes": 9341553869
+    },
+    {
+      "titleId": "CUSA17093",
+      "title": "Hatsune Miku VR + Song Packs",
+      "createdAt": "2026-11-18T16:40:09.568Z",
+      "version": "1.04",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/d9a408528330ada509febcc89a635f392e41f42297cffcf99cf6b697614ddebd",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/d9a408528330ada509febcc89a635f392e41f42297cffcf99cf6b697614ddebd",
+      "description": "Format: ps4\nWorld-famous virtual singer Hatsune Miku invites you to join her on stage in in this VR music game! Simply put on your headset, choose a song then catch the musical notes pumping out of the speakers with your glow sticks. Long riff symbols and other challenges will make it harder to reach fever mode and the perfect score! The following popular Hatsune Miku songs are included in the base game: - Stella - Ievan Polkka - Singularity - Amagoi Miseinen - Sharing The World - Ghost Rule - SenbonZakura - Hibikase - SLoWMoTIoN Key Features: - Enjoy unique dance routines - Customise the game with two difficulty settings, outfits and sticks - Music video mode: direct your own music video! In addition, on PS5™ consoles: PlayStation Camera adaptor for PS Camera is required (no purchase necessary) go to Playstation.com/camera-adaptor; for the best PlayStation®VR experience on PS5™ we recommend using a DUALSHOCK®4 wireless controller.\nRegion: EUR\nFirmware: 12.xx+\nNotes: FW is 12.50+ Link includes DLC and Update, along with the Base Game. Base Game is 6.50+ PSVR Required\nUpdated: 2026-11-18T15:28:08.924Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/nszhnr6akmnd"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/Qs8zQW7OSz"
+        }
+      ],
+      "sizeBytes": 3758096384
+    },
+    {
+      "titleId": "CUSA17678",
+      "title": "Yu Gi Oh Legacy of the Duelist Link Evolution",
+      "createdAt": "2026-11-18T16:40:09.568Z",
+      "version": "1.01",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/c64dfd81cfeef7f912274bb0add5a6fc4561bd5290e993db5aa7874bf9026f0c",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/c64dfd81cfeef7f912274bb0add5a6fc4561bd5290e993db5aa7874bf9026f0c",
+      "description": "Format: ps4\nIt’s Time to Duel! Experience over 20 years of Yu-Gi-Oh! history with Yu-Gi-Oh! Legacy of the Duelist: Link Evolution! Build your Deck from over 10,000 cards and take on the most iconic Duelists from the Yu-Gi-Oh! universe. Relive the stories from the original animated Yu-Gi-Oh! series through Yu-Gi-Oh! ARC-V and challenge the newest generation of Duelists from the virtual world of Yu-Gi-Oh! VRAINS! • New Link Monster cards, not only changing the way how seasoned Duelists play their cards, but where they play them • Faithful to the TV show, relive moments and Duels from every version of the animated series • New Duelists can learn the Yu-Gi-Oh! TRADING CARD GAME with the beginner’s tutorial • Take on the roles of the animated series villains with Reverse Duels • Compete in Battle Pack Sealed Pack and Draft play! • Includes all the downloadable content from the previously released Yu-Gi-Oh! Legacy of the Duelist\nRegion: EUR\nFirmware: 7.xx+\nUpdated: 2026-11-18T15:18:52.497Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/dmdbbi0u438b"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/lSRGvJ2Wrl"
+        }
+      ],
+      "sizeBytes": 1728724337
+    },
+    {
       "titleId": "CUSA58609",
       "title": "TCG Card Shop Simulator",
       "createdAt": "2026-11-18T13:56:37.429Z",
@@ -784,72 +1470,72 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/87f178b9f65cc49358d41980dc0fabeb6448cfea8d2a5ddc22e8cf6eb18018e7",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/676eb71886fbbc1f917ef4a4a1f10df2e8905b8f85932c00940de39120a55f1c",
-      "description": "Format: zstd\nA new era of survival horror arrives with Resident Evil Requiem, the latest and most immersive entry yet in the iconic Resident Evil series. Experience terrifying survival horror with FBI analyst Grace Ashcroft, and dive into pulse-pounding action with legendary agent Leon S. Kennedy. Both of their journeys and unique gameplay styles intertwine into a heart-stopping, emotional experience that will chill you to your core. *There are other bundles that include this product. Please be careful of duplicate purchases.\nRegion: EUR\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.4 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nUpdated: 2026-11-16T17:00:49.798Z",
+      "description": "Format: zstd\nA new era of survival horror arrives with Resident Evil Requiem, the latest and most immersive entry yet in the iconic Resident Evil series. Experience terrifying survival horror with FBI analyst Grace Ashcroft, and dive into pulse-pounding action with legendary agent Leon S. Kennedy. Both of their journeys and unique gameplay styles intertwine into a heart-stopping, emotional experience that will chill you to your core. *There are other bundles that include this product. Please be careful of duplicate purchases.\nRegion: EUR\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.4 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount! Edit 1: Fixed issue with saving and \"waiting for download\". DLCs included in this version now, too!\nUpdated: 2026-11-16T17:00:49.798Z",
       "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
       "downloadLinks": [
         {
           "name": "zstd · Data - pt.1",
-          "url": "https://datanodes.to/fclkyv53w9th"
+          "url": "https://datanodes.to/z50o3vtm0sz2"
         },
         {
           "name": "zstd · Data - pt.2",
-          "url": "https://datanodes.to/5lqx7dm9ibmz"
+          "url": "https://datanodes.to/4o25y42918rv"
         },
         {
           "name": "zstd · Data - pt.3",
-          "url": "https://datanodes.to/85nx077od1ih"
+          "url": "https://datanodes.to/0hmhs13yo0ja"
         },
         {
           "name": "zstd · Data - pt.4",
-          "url": "https://datanodes.to/gb2cuv39xmdc"
+          "url": "https://datanodes.to/an05a5kye70a"
         },
         {
           "name": "zstd · Data - pt.5",
-          "url": "https://datanodes.to/7ehbqejwr1gs"
+          "url": "https://datanodes.to/n8g398aj2u9a"
         },
         {
           "name": "zstd · Data - pt.6",
-          "url": "https://datanodes.to/rpwzam2d67za"
+          "url": "https://datanodes.to/lv6v06zwxtj3"
         },
         {
           "name": "zstd · Data - pt.7",
-          "url": "https://datanodes.to/yuox1of18s3q"
+          "url": "https://datanodes.to/jw7z7t2tmmnm"
         },
         {
           "name": "zstd · Data - pt.8",
-          "url": "https://datanodes.to/6ba09t6lg3lu"
+          "url": "https://datanodes.to/f91elfbf3ctb"
         },
         {
           "name": "zstd · Viki - pt.1",
-          "url": "https://vikingfile.com/f/xQXifF6sjS"
+          "url": "https://vikingfile.com/f/DtHMW3XygX"
         },
         {
           "name": "zstd · Viki - pt.2",
-          "url": "https://vikingfile.com/f/vrCYv2cWoA"
+          "url": "https://vikingfile.com/f/O4oFFEizsd"
         },
         {
           "name": "zstd · Viki - pt.3",
-          "url": "https://vikingfile.com/f/X4u4H3kjdm"
+          "url": "https://vikingfile.com/f/K8ZlsNJCEW"
         },
         {
           "name": "zstd · Viki - pt.4",
-          "url": "https://vikingfile.com/f/Rt96a71u0k"
+          "url": "https://vikingfile.com/f/JUrnOamC8Y"
         },
         {
           "name": "zstd · Viki - pt.5",
-          "url": "https://vikingfile.com/f/aRyzEY7AdI"
+          "url": "https://vikingfile.com/f/h9qTqdkKNI"
         },
         {
           "name": "zstd · Viki - pt.6",
-          "url": "https://vikingfile.com/f/x5J8dftl4F"
+          "url": "https://vikingfile.com/f/3dZGASw0Hi"
         },
         {
           "name": "zstd · Viki - pt.7",
-          "url": "https://vikingfile.com/f/fKpudPMTee"
+          "url": "https://vikingfile.com/f/c7INUPKBNG"
         },
         {
           "name": "zstd · Viki - pt.8",
-          "url": "https://vikingfile.com/f/BX0OkZHCAS"
+          "url": "https://vikingfile.com/f/MvMF1ZD9IG"
         }
       ],
       "sizeBytes": 82570746266

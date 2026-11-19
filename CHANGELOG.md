@@ -1,5 +1,14 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 19/11/2026 à 00:13
+* **PAYLOADS**
+  * `Ps5-Ezremote-Client V2.22` (2.22) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `ClanBomber` (0.1.0) - *Nouveau*
+  * `TubeBlock` (01.000.214) - *Mise à jour (Précédent: 01.000.213)*
+  * `Breath of the Wild VR` (0.5.1) - *Mise à jour (Précédent: 0.1.1)*
+  * `Parallax Browser` (0.2.2) - *Mise à jour (Précédent: 0.2.1)*
+
 ## Build du 18/11/2026 à 15:32
 * **PAYLOADS**
   * `Np-Fake-Signin-Ps5` (v1.4) - *Mise à jour (Précédent: np-fake-signin)*

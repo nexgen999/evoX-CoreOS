@@ -424,15 +424,15 @@
     {
       "name": "TubeBlock",
       "filename": "PPSA98260.zip",
-      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.213/SmartTube-PPSA98260.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.213/PPSA98260.zip",
+      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.214/SmartTube-PPSA98260.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.214/PPSA98260.zip",
       "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
-      "version": "01.000.213",
+      "version": "01.000.214",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98260",
       "author": "animatian112",
-      "checksum": "35cd7d4c34ad2128c53a8e11ab66da52ea2151a22499d7aafd53fc6042bc3a7b",
+      "checksum": "5edfb990790a7ecb4d5e027754ecf242109670240ad1bd5802b2309572a284ce",
       "source": "https://github.com/animatian112/ytps5-sponsorblock"
     },
     {
@@ -480,15 +480,15 @@
     {
       "name": "Breath of the Wild VR",
       "filename": "PPSA98720.zip",
-      "url": "https://github.com/Papyszoo/botw-bettervr-ps5/releases/download/v0.1.1/BotW-VR-v0.1.1.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98720/0.1.1/PPSA98720.zip",
-      "description": "Plays your own Breath of the Wild dump in PS VR2 with Sense controllers via Crementif's BetterVR mod in Cemu (experimental; firmware 5.50, 7.61, 8.40, 9.00, 10.00, 11.60, 12.40, 13.60; tested 13.60).",
-      "version": "0.1.1",
+      "url": "https://github.com/Papyszoo/botw-bettervr-ps5/releases/download/v0.5.1/BotW-VR-v0.5.1.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98720/0.5.1/PPSA98720.zip",
+      "description": "Plays your Breath of the Wild dump in PS VR2 with Sense controllers via Crementif's BetterVR 1.0.0 in Cemu (experimental; firmware 5.50, 7.61, 8.40, 9.00, 10.00, 11.60, 12.40, 13.60; tested 13.60).",
+      "version": "0.5.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98720",
       "author": "Papyszoo",
-      "checksum": "8130bd87df4f8fd9ecf0b900b419b69c97b0a71abf0ea51c26eae172b7fa39d3",
+      "checksum": "f674ac16edcaf59b12bee40dfe4f06f9c5b608caac8b3ba8a15af7902c29d887",
       "source": "https://github.com/Papyszoo/botw-bettervr-ps5"
     },
     {
@@ -844,15 +844,15 @@
     {
       "name": "Parallax Browser",
       "filename": "PPSA99207.zip",
-      "url": "https://github.com/rikleigh/parallax-browser/releases/download/v0.2.1/parallax-browser-0.2.1.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99207/0.2.1/PPSA99207.zip",
+      "url": "https://github.com/rikleigh/parallax-browser/releases/download/v0.2.2/parallax-browser-0.2.2.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99207/0.2.2/PPSA99207.zip",
       "description": "A fast Web browser for the PS5 with WebGL, WebGPU, Gamepad API, hardware video decoding up to 8K, and PS VR2 video playback.",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99207",
       "author": "Rik Leigh",
-      "checksum": "fb0b3fc2e86b6899670122d9a5bb1b0d3c4ec4de6fcb4ecd160b24b8c21ff1f9",
+      "checksum": "ac68d03112014af6045714cfd10a5b3df893c908e0befe9778e028be9628a8b5",
       "source": "https://github.com/rikleigh/parallax-browser"
     },
     {
