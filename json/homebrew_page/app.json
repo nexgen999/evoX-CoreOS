@@ -480,15 +480,15 @@
     {
       "name": "Breath of the Wild VR",
       "filename": "PPSA98720.zip",
-      "url": "https://github.com/Papyszoo/botw-bettervr-ps5/releases/download/v0.5.1/BotW-VR-v0.5.1.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98720/0.5.1/PPSA98720.zip",
+      "url": "https://github.com/Papyszoo/botw-bettervr-ps5/releases/download/v0.6.0/BotW-VR-v0.6.0.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98720/0.6.0/PPSA98720.zip",
       "description": "Plays your Breath of the Wild dump in PS VR2 with Sense controllers via Crementif's BetterVR 1.0.0 in Cemu (experimental; firmware 5.50, 7.61, 8.40, 9.00, 10.00, 11.60, 12.40, 13.60; tested 13.60).",
-      "version": "0.5.1",
+      "version": "0.6.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98720",
       "author": "Papyszoo",
-      "checksum": "f674ac16edcaf59b12bee40dfe4f06f9c5b608caac8b3ba8a15af7902c29d887",
+      "checksum": "2815405a62f0fa4ee9f679a201db2b312217568880ea5c1cf08f95f2dd530929",
       "source": "https://github.com/Papyszoo/botw-bettervr-ps5"
     },
     {
@@ -1474,15 +1474,15 @@
     {
       "name": "ProsperoWeb",
       "filename": "PRWB00001.zip",
-      "url": "https://github.com/kvaps/ProsperoWeb/releases/download/v0.2.1/PRWB00001.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PRWB00001/0.2.1/PRWB00001.zip",
+      "url": "https://github.com/kvaps/ProsperoWeb/releases/download/v0.3.0/PRWB00001.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PRWB00001/0.3.0/PRWB00001.zip",
       "description": "A WebKit web browser for the PS5, driven by the controller: tabs, bookmarks, video playback, an ad blocker and SponsorBlock.",
-      "version": "0.2.1",
+      "version": "0.3.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PRWB00001",
       "author": "kvaps",
-      "checksum": "687652cbc05c01db60410c357bc4322f05170de4829ace174d1d5628ba63b0b0",
+      "checksum": "e73f186b53c653490f322f98f263a671b97e96e42c8b1cbb704c613e2f5b9688",
       "source": "https://github.com/kvaps/ProsperoWeb"
     },
     {

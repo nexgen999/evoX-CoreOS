@@ -1,5 +1,15 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 20/11/2026 à 15:24
+* **PAYLOADS**
+  * `Webkit-Autoloader-Installer V0.8.2` (v0.8.2) - *Nouveau*
+  * `Garlic-Worker V1.5.6` (garlic-worker) - *Mise à jour (Précédent: v1.5.6)*
+  * `Np-Fake-Signin-Ps5` (np-fake-signin) - *Mise à jour (Précédent: v1.4)*
+* **HOMEBREW_PAGE**
+  * `Conker's Bad Fur Day Recompiled` (00.001.001) - *Mise à jour (Précédent: 00.001.000)*
+  * `Breath of the Wild VR` (0.6.0) - *Mise à jour (Précédent: 0.5.1)*
+  * `ProsperoWeb` (0.3.0) - *Mise à jour (Précédent: 0.2.1)*
+
 ## Build du 20/11/2026 à 00:39
 * **PAYLOADS**
   * `Orbit Store` (v1.9.5) - *Mise à jour (Précédent: v1.9.2)*

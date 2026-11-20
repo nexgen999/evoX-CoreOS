@@ -2,26 +2,15 @@
   "name": "Ps5-Webkit-Autoloader",
   "payloads": [
     {
-      "name": "Webkit-Autoloader-Installer V0.7.1",
-      "filename": "webkit-autoloader-installer_v0.7.1.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.7.1/webkit-autoloader-installer_v0.7.1.elf",
-      "local_path": "payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.7.1/webkit-autoloader-installer_v0.7.1.elf",
+      "name": "Webkit-Autoloader-Installer V0.8.2",
+      "filename": "webkit-autoloader-installer_v0.8.2.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.8.2/webkit-autoloader-installer_v0.8.2.elf",
+      "local_path": "payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.8.2/webkit-autoloader-installer_v0.8.2.elf",
       "description": "Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00.",
-      "version": "v0.7.1",
+      "version": "v0.8.2",
       "category": "Ps5-Webkit-Autoloader",
-      "checksum": "df60538570e9811bb0b4652a3fdb3e1a35ec3455b3ca7c80edc4140c5bb47ce2",
+      "checksum": "1c415bc124944c85b86a4751006b98010b977f142142d67306d13804899bad54",
       "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases"
-    },
-    {
-      "name": "Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr-En V1.2.0",
-      "filename": "Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf",
-      "local_path": "payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf",
-      "description": "Host-PSM pooP2JB.",
-      "version": "v1.2.0",
-      "category": "Ps5-Webkit-Autoloader",
-      "checksum": "3ccc45938dcc1bb6ee766195106c928049fd632993828bcf73b5368fdebfc496",
-      "source": "https://github.com/ps4macedo/instalador-host-psm-poop2jb/releases"
     },
     {
       "name": "Host-Psm-Poop2Jb-V1.2.0-Instala-Onionhen V1.2.0",
@@ -32,6 +21,17 @@
       "version": "v1.2.0",
       "category": "Ps5-Webkit-Autoloader",
       "checksum": "894432bb3161559a272bbdd07cc66dd80ac487f6ddbcc9ae5718090dc0f6e716",
+      "source": "https://github.com/ps4macedo/instalador-host-psm-poop2jb/releases"
+    },
+    {
+      "name": "Host-Psm-Poop2Jb-V1.2.0-Instala-Pldmgr-En V1.2.0",
+      "filename": "Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf",
+      "local_path": "payloads/ps5-webkit-autoloader/Host-PSM_pooP2JB/v1.2.0/Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf",
+      "description": "Host-PSM pooP2JB.",
+      "version": "v1.2.0",
+      "category": "Ps5-Webkit-Autoloader",
+      "checksum": "3ccc45938dcc1bb6ee766195106c928049fd632993828bcf73b5368fdebfc496",
       "source": "https://github.com/ps4macedo/instalador-host-psm-poop2jb/releases"
     },
     {

@@ -3,6 +3,30 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA16004",
+      "title": "Rubberduck Wave Racer",
+      "createdAt": "2026-11-20T07:33:14.027Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/fb970cdba59abadbe59994ef45c2481b3d099c4510e530c7efd6cda3cce272e4",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/fb970cdba59abadbe59994ef45c2481b3d099c4510e530c7efd6cda3cce272e4",
+      "description": "Region: EUR\nRelease note: Works on 6.xx and higher\nContributor: @b0mba1992",
+      "downloadSource": "https://dlpsgame.com/rubberduck-wave-racer-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 6.xx Base - Akirabox",
+          "url": "https://akirabox.to/vgKGxBQNR38Q/file"
+        },
+        {
+          "name": "EUR 6.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/21cTC4"
+        },
+        {
+          "name": "EUR 6.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/WAB8y7C6zm"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA26050",
       "title": "Gothic 2 Complete Classic",
       "createdAt": "2026-11-19T20:52:20.888Z",
@@ -1433,7 +1457,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/959f4ea42fdee731f05551edd39b568dbf26cb991466e21f3838fb903bf412f3",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/f87e92dab70ae79ee9d176137094de6357ec2083e6e2f011258d6b122b62d257",
-      "description": "Region: EUR\nRelease note: Works on 7.xx and higher\nContributor: @b0mba1992",
+      "description": "Variant: EUR 7.xx\nRegion: EUR\nRelease note: Works on 7.xx and higher\nContributor: @b0mba1992\n\nVariant: EUR exFAT 04.000\nRegion: EUR\nRelease note: exFAT format — FW 04.000 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/laika-aged-through-blood-ps5/",
       "downloadLinks": [
         {
@@ -1447,6 +1471,22 @@
         {
           "name": "EUR 7.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/1ygKxEYBAR"
+        },
+        {
+          "name": "EUR exFAT 04.000 Base - DATA (exFAT)",
+          "url": "https://link-vault.org/c/mAempS5d#DataNodes"
+        },
+        {
+          "name": "EUR exFAT 04.000 Base - FileK (exFAT)",
+          "url": "https://link-vault.org/c/mAempS5d#FileKeeper"
+        },
+        {
+          "name": "EUR exFAT 04.000 Base - AKIA (exFAT)",
+          "url": "https://link-vault.org/c/mAempS5d#AkiraBox"
+        },
+        {
+          "name": "EUR exFAT 04.000 Base - VIKI (exFAT)",
+          "url": "https://link-vault.org/c/mAempS5d#VikingFile"
         }
       ]
     },
@@ -146002,6 +146042,35 @@
         {
           "name": "USA exFAT 01.004 Base - Vault (exFAT)",
           "url": "https://datavaults.co/6qmhde3tm198"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA06732",
+      "title": "[exFAT] Teenage Mutant Ninja Turtles Shredders Revenge Ultimate Edition",
+      "createdAt": "2026-11-20T13:21:08.651Z",
+      "version": "01.010",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/a1767b1c56d5061afa25a00b484959b143ead2e56a6c2dcc21219c56caa04967",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/650cc0f7fbd9f3c5f584a4210ccfb0289fe816bcaeb658bcfad2be521dea637d",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.010 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.010 Base - DATA (exFAT)",
+          "url": "https://link-vault.org/c/RLVtbkCc#DataNodes"
+        },
+        {
+          "name": "USA exFAT 01.010 Base - FileK (exFAT)",
+          "url": "https://link-vault.org/c/RLVtbkCc#FileKeeper"
+        },
+        {
+          "name": "USA exFAT 01.010 Base - AKIA (exFAT)",
+          "url": "https://link-vault.org/c/RLVtbkCc#AkiraBox"
+        },
+        {
+          "name": "USA exFAT 01.010 Base - VIKI (exFAT)",
+          "url": "https://link-vault.org/c/RLVtbkCc#VikingFile"
         }
       ]
     },

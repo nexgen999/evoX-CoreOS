@@ -380,7 +380,7 @@
       <title>Conker's Bad Fur Day Recompiled</title>
       <link>https://github.com/DevOldSchool/conkers-bfd-recomp-ps</link>
       <description>Native recompilation of Conker’s Bad Fur Day for PS5, with widescreen, online multiplayer, and more. Requires your own ROM.</description>
-      <pubDate>00.001.000</pubDate>
+      <pubDate>00.001.001</pubDate>
     </item>
     <item>
       <title>Capy Mobile</title>
@@ -500,7 +500,7 @@
       <title>Breath of the Wild VR</title>
       <link>https://github.com/Papyszoo/botw-bettervr-ps5</link>
       <description>Plays your Breath of the Wild dump in PS VR2 with Sense controllers via Crementif's BetterVR 1.0.0 in Cemu (experimental; firmware 5.50, 7.61, 8.40, 9.00, 10.00, 11.60, 12.40, 13.60; tested 13.60).</description>
-      <pubDate>0.5.1</pubDate>
+      <pubDate>0.6.0</pubDate>
     </item>
     <item>
       <title>DriftCheck</title>
@@ -1250,7 +1250,7 @@
       <title>ProsperoWeb</title>
       <link>https://github.com/kvaps/ProsperoWeb</link>
       <description>A WebKit web browser for the PS5, driven by the controller: tabs, bookmarks, video playback, an ad blocker and SponsorBlock.</description>
-      <pubDate>0.2.1</pubDate>
+      <pubDate>0.3.0</pubDate>
     </item>
     <item>
       <title>PS Play 3.0</title>

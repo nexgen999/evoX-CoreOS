@@ -508,15 +508,15 @@
     {
       "name": "Conker's Bad Fur Day Recompiled",
       "filename": "PPSA92064.zip",
-      "url": "https://github.com/DevOldSchool/conkers-bfd-recomp-ps/releases/download/00.001.000/PPSA92064.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA92064/00.001.000/PPSA92064.zip",
+      "url": "https://github.com/DevOldSchool/conkers-bfd-recomp-ps/releases/download/00.001.001/PPSA92064.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA92064/00.001.001/PPSA92064.zip",
       "description": "Native recompilation of Conker’s Bad Fur Day for PS5, with widescreen, online multiplayer, and more. Requires your own ROM.",
-      "version": "00.001.000",
+      "version": "00.001.001",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA92064",
       "author": "DevOldSchool",
-      "checksum": "86906fcba6a59b45c1cdbc724aa28f8f1c5c640376b455cc034c29857b4cddc4",
+      "checksum": "efb1298feb87996a2ce49ea309d572b8347bd6254939ed9e552a898aeedcc85f",
       "source": "https://github.com/DevOldSchool/conkers-bfd-recomp-ps"
     },
     {

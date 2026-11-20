@@ -3,6 +3,138 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA18887",
+      "title": "Five Nights at Freddy's Help Wanted 2",
+      "createdAt": "2026-11-20T14:37:02.013Z",
+      "version": "1.009",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/ef520c024072dec9a124cc482cd9015b2c52603cc6b363d7ec2642b9bd3a0c9f",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/a0553ef4f3c48441e2b90221978fc77a4a78cd235669bf71be620cb6ffed347b",
+      "description": "Format: Folder\nFive Nights at Freddy’s: Help Wanted 2 is the sequel to the terrifying VR experience that brought new life to the iconic horror franchise. As a brand new Fazbear employee you’ll have to prove you have what it takes to excel in all aspects of Pizzeria management and maintenance. Go Backstage as a VIP to help Roxanne Wolf &amp; the S.T.A.F.F Bots get ready for their performances in the Pizzaplex Salon! Head into the Fazcade and enjoy classic games like Bonk-a-Bon and Fazerblast! See if you can top all the high scores! Take care of things behind the scenes in the Staff Only section of the Pizzeria. Deliver First Aid to patients who aren’t quite feeling themselves, and help animatronics perform routine diagnostics &amp; maintenance. Our Food Prep courses will help you get the federally mandated amount of value preparing food in the Pizzaplex. Experience all the joys of high-speed food service &amp; get ready to feed some hungry bots! Head over to the Ticket Booth to test out our E-ticket attractions, such as Captain Foxy’s Cowboy Adventure! On this lighthearted log ride, you’ll float through the old West as a gunslinger in search of booty! And finally, if you’re short on dread, dive into the world of our Sister Location! These special minigames are VR versions of classic experiences from Five Nights at Freddy’s: Sister Location. These fan-favorites brought to life promise to be as fun as they are terrifying! So what are you waiting for?!? Five Nights at Freddy’s: Help Wanted 2 is now accepting applicants for all positions, effective immediately.\nRegion: EUR\nFirmware: 7.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: Me, Desesperado3!\nUpdated: 2026-11-20T13:40:55.503Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/01mujy031mw7"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/ALfn4UCJrF"
+        }
+      ],
+      "sizeBytes": 30633854239
+    },
+    {
+      "titleId": "PPSA18431",
+      "title": "Five Nights at Freddy's Into The Pit",
+      "createdAt": "2026-11-20T14:37:02.013Z",
+      "version": "2.000.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/a091f7d49b863c1fead79684e09e060e60da4fbb9c6eb0b7a2e28e41ab54366a",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/a091f7d49b863c1fead79684e09e060e60da4fbb9c6eb0b7a2e28e41ab54366a",
+      "description": "Format: Folder\nJump into the pit and immerse yourself in a new chapter in the Five Nights at Freddy’s universe. Oswald wishes his town, and his life, weren’t so boring. That all changes when he explores the ball pit in a rundown pizzeria and finds himself in the past. However, Oswald’s deepest desire will have an unexpected cost…\nRegion: EUR\nFirmware: 9.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: Me, Desesperado3!\nUpdated: 2026-11-20T13:37:32.122Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/z48q3mjjjfog"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/5z3RlKToWn"
+        }
+      ],
+      "sizeBytes": 4101693768
+    },
+    {
+      "titleId": "PPSA18329",
+      "title": "Five Nights at Freddy's Help Wanted Full Time Edition",
+      "createdAt": "2026-11-20T14:37:02.013Z",
+      "version": "1.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/dbc750ac98a3a399d1950f55e7de146b643a3903285092dc376ece64a391bfd4",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/dbc750ac98a3a399d1950f55e7de146b643a3903285092dc376ece64a391bfd4",
+      "description": "Format: Folder\nFive Nights at Freddy’s: Help Wanted - Full Time Edition is a combined version of the best selling Five Nights at Freddy’s: Help Wanted, and it’s DLC, Curse of Dreadbear EXCLUSIVELY for the PS5 &amp; PSVR2. This new edition includes all content from the original Help Wanted, plus the Halloween DLC, Curse of Dreadbear, giving you over 50 scary-fun minigames in one terrifying package. Face your fears in VR or Standard non-VR modes, and see if you’ve got what it takes to be an upstanding, committed member of the Fazbear team! **Upgrade available for owners of Five Nights at Freddy's: Help Wanted on the PS4\nRegion: EUR\nFirmware: 7.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: Me, Desesperado3!\nUpdated: 2026-11-20T13:35:47.469Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/ioteeh3142ln"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/UlxntTowMw"
+        }
+      ],
+      "sizeBytes": 25651692175
+    },
+    {
+      "titleId": "PPSA14636",
+      "title": "Red Matter 2",
+      "createdAt": "2026-11-20T14:37:02.013Z",
+      "version": "1.000.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/56c1adb9c698d75f321e19d986aaa0a6e32f1a75a2273fbb973476c14de3e476",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/56c1adb9c698d75f321e19d986aaa0a6e32f1a75a2273fbb973476c14de3e476",
+      "description": "Format: Folder\nA friend thought lost. A distress signal from the edge of the solar system. A conspiracy that should have stayed buried. Play as Agent Sasha Riss in this award-winning, full-length sci-fi campaign. Follow a mysterious signal across moons, orbital stations, and abandoned Volgravian facilities. Every discovery draws you closer to the dangerous force known as Red Matter. (Note: The story continues after the original game, but no prior knowledge is required to jump in.) BUILT FOR PLAYSTATION®VR2 Experience a retro-futuristic world brought into extraordinary focus, with exceptional rendering resolution and image sharpness, while making full use of PlayStation®VR2’s unique capabilities: • Next-Gen Visuals: Experience exceptionally crisp image quality with ultra-high-resolution rendering, 4K-remastered textures, eye-tracked foveated rendering, and buttery-smooth native 120 fps performance with zero reprojection. • Tactile Immersion: Feel ships launch, machinery move, and weapons fire through advanced headset feedback, controller haptics, and adaptive triggers. CORE GAMEPLAY • Solve &amp; Hack: Think your way through physics and logic puzzles, and slice into secure terminals. • Master the Jetpack: Cross low-gravity environments and navigate hazardous platforms. • Defend Yourself: Use your tools to manipulate the environment and fight back against Volgravian security drones. • Play Your Way: Features intuitive, realistic VR physics, plus comprehensive comfort settings including teleportation, smooth locomotion, and seated modes to suit all players.\nRegion: EUR\nFirmware: 6.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: PSVR2 Required VOCES Y TEXTOS EN ESPAÑOL!\nCredits: Me, Desesperado3!\nUpdated: 2026-11-20T13:33:47.857Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/6nwjroixgm3u"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/8AGuN716WJ"
+        }
+      ],
+      "sizeBytes": 17566416241
+    },
+    {
+      "titleId": "CUSA13441",
+      "title": "PaperDolls",
+      "createdAt": "2026-11-20T13:08:47.004Z",
+      "version": "1.0",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/072e7a95ca132239d436cb9c245b5b460e5dd16e9653d3a59d2bbaae55058455",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/072e7a95ca132239d436cb9c245b5b460e5dd16e9653d3a59d2bbaae55058455",
+      "description": "Format: ps4\nPaper Dolls is a first-person VR horror game with a hint of Asian culture. The story begins with a man driving his daughter to his estranged wife's house. On the road, this man, tortured by depression, was deeply immersed in his past memories. Suddenly, his car crashed and he lost consciousness. When the man woke up, he found himself, daughter-less, in a deserted ancient Chinese house. - Exploring an eerie ancient house with caution, in search of your daughter - Challenge your logical reasoning as the story becomes twisted - The enemy who haunts the place is mysterious, evil, and is behind every danger. - Only by conquering fear can you survive, but when you think it's over, the real story begins.\nRegion: EUR\nFirmware: 6.xx+\nNotes: FW 6.72+ PSVR Required\nCredits: Thank you, Opoisso893!\nUpdated: 2026-11-20T11:45:05.090Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/zj5xo3n40y2u"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/Kne7q0RQQK"
+        }
+      ],
+      "sizeBytes": 1825361101
+    },
+    {
+      "titleId": "CUSA05736",
+      "title": "Weeping Doll",
+      "createdAt": "2026-11-20T13:08:47.004Z",
+      "version": "1.0",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e58470b8c1b5091bc8da2c2a00010a3499ff153175dcba9413528ee6597572d5",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/e58470b8c1b5091bc8da2c2a00010a3499ff153175dcba9413528ee6597572d5",
+      "description": "Format: ps4\nAn ordinary family. A beautiful home. But, who’s crying? Search the home, scour every room and scrutinize over every detail to piece together the story that has been kept locked away all this time. Key Features - A hidden secret: Weeping Doll is immersed in a deep, intriguing narrative that rewards the players’ curiosity. The more you explore, listen and discover, the more you will decipher through the layers of story. The more you think about the narrative the more you will unearth. - An interactive investigation: You will need to be aware of every object and every sound to discover what has happened to the family. Your curiosity will drive you onwards, re-evaluating everything you thought to be true as you unravel more and more of the mystery. - A new age of VR: No motion sickness, thanks to the Shadow Step system. This allows the player to move around the environment using the controller while seated comfortably. VR games may cause some players to experience motion sickness.\nRegion: ASIA\nFirmware: 6.xx+\nNotes: FW 6.72+ PSVR Required\nUpdated: 2026-11-20T11:41:05.619Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/h5v7pfqoyarc"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/c7tiz3tpWC"
+        }
+      ],
+      "sizeBytes": 1073741824
+    },
+    {
       "titleId": "PPSA26050",
       "title": "Gothic II Complete Classic",
       "createdAt": "2026-11-19T12:43:01.954Z",
