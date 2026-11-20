@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.19-1531)
+### 🚀 Synthèse de la mise à jour (v2026.11.20-0039)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -53,7 +53,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `etaHEN_v2.5B.bin`
   * `PS5_Unified_Autoloader_v0.1.7-abc3b82.elf`
   * `pldmgr_v0.6.3.elf`
-  * `ELF_Arsenal_v1.6.23.elf`
   * `Kura_v1.6.51.elf`
   * `PIZZA-HEN_v2.00.elf`
   * `onionHEN_v0.9.0.elf`
@@ -141,7 +140,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PS5-Game-Compressor_fork_v1.1.1.elf`
   * `zftpd-ps5-v1.7.0.elf`
   * `zftpd-ps5-zhttp-v1.7.0.elf`
-  * `elfldr_v0.27.elf`
+  * `elfldr_v0.28.elf`
   * `ftpsrv_ps5-payload_v0.22.elf`
   * `websrv_v0.34.elf`
   * `gdbsrv_v0.9.elf`
@@ -158,6 +157,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `garlic-worker_v1.5.6.elf`
   * `savemnt-offset-dumper_v1.0.0.elf`
   * `PoorDS4rc51_v0.1.0-rc51.elf`
+  * `ELF_Arsenal_v1.6.23.elf`
   * `zftpd-ps5-v1.6.0.elf`
   * `zftpd-ps5-zhttp-v1.6.0.elf`
   * `PS5X360_v0.5.7.elf`

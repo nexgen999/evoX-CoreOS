@@ -1,5 +1,19 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 20/11/2026 à 00:39
+* **PAYLOADS**
+  * `Orbit Store` (v1.9.5) - *Mise à jour (Précédent: v1.9.2)*
+  * `Elfldr V0.28` (v0.28) - *Nouveau*
+  * `Elf Arsenal V1.6.23` (ELF_Arsenal) - *Mise à jour (Précédent: v1.6.23)*
+* **HOMEBREW_PAGE**
+  * `Cyberworld Endless` (0.23.0) - *Mise à jour (Précédent: 0.22.2)*
+  * `PS64` (01.000.007) - *Mise à jour (Précédent: 01.000.006)*
+  * `PC5` (2.4.3) - *Mise à jour (Précédent: 2.4.2)*
+  * `TubeBlock` (01.000.215) - *Mise à jour (Précédent: 01.000.214)*
+  * `PS5SD` (1.7.0) - *Mise à jour (Précédent: 1.3.1)*
+  * `PSBox Cloud Gaming` (1.8.0) - *Mise à jour (Précédent: 1.7.7)*
+  * `ProsperoCraft` (01.000.288) - *Mise à jour (Précédent: 01.000.287)*
+
 ## Build du 19/11/2026 à 15:31
 * **PAYLOADS**
   * `Np-Fake-Signin-Ps5` (v1.4) - *Mise à jour (Précédent: np-fake-signin)*

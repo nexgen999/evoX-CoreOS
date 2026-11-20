@@ -65,12 +65,6 @@
       <pubDate>v0.6.3</pubDate>
     </item>
     <item>
-      <title>[Payloads] Elf Arsenal V1.6.23</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf</link>
-      <description>Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées.</description>
-      <pubDate>v1.6.23</pubDate>
-    </item>
-    <item>
       <title>[Payloads] Kura V1.6.51</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/Kura/v1.6.51/Kura_v1.6.51.elf</link>
       <description>Un loader de payloads moderne et épuré conçu pour optimiser l</description>
@@ -540,9 +534,9 @@
     </item>
     <item>
       <title>[Payloads] Orbit Store</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.9.2/orbit_store.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.9.5/orbit_store.elf</link>
       <description>A modern, no-BS download manager for PS5.</description>
-      <pubDate>v1.9.2</pubDate>
+      <pubDate>v1.9.5</pubDate>
     </item>
     <item>
       <title>[Payloads] Ps5-Game-Compressor V1.0.4</title>
@@ -593,10 +587,10 @@
       <pubDate>v1.7.0</pubDate>
     </item>
     <item>
-      <title>[Payloads] Elfldr V0.27</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/elfldr/v0.27/elfldr_v0.27.elf</link>
+      <title>[Payloads] Elfldr V0.28</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/elfldr/v0.28/elfldr_v0.28.elf</link>
       <description>ELF Loader utility. Port: 9020 / 9021</description>
-      <pubDate>v0.27</pubDate>
+      <pubDate>v0.28</pubDate>
     </item>
     <item>
       <title>[Payloads] Ftpsrv Ps5-Payload V0.22</title>
@@ -693,6 +687,12 @@
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>PoorDS4</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Elf Arsenal V1.6.23</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ELF_Arsenal</pubDate>
     </item>
     <item>
       <title>[Payloads] Zftpd-Ps5-V1.6.0</title>
@@ -1141,8 +1141,8 @@
     <item>
       <title>[ProsperoStore] Cyberworld Endless</title>
       <link>https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless</link>
-      <description>A roguelike built on the real Mega Man Battle Network 6, from your own ROM: every run jacks MegaMan into a newly generated net of battles, loot and guardian Navis.</description>
-      <pubDate>0.22.2</pubDate>
+      <description>A Battle Network roguelike: a new net every run, with viruses, Navis and chips from BN4, BN5 and BN6, and the Net Square online. It plays the original games from your own ROMs.</description>
+      <pubDate>0.23.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Playden</title>
@@ -1178,7 +1178,7 @@
       <title>[ProsperoStore] PS64</title>
       <link>https://github.com/dantaipan/PS64</link>
       <description>Play the Commodore 64 on PS5: stream and control a C64 Ultimate, or use the built-in VICE emulator, with Assembly64 search.</description>
-      <pubDate>01.000.006</pubDate>
+      <pubDate>01.000.007</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Class of '09</title>
@@ -1202,7 +1202,7 @@
       <title>[ProsperoStore] PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.</description>
-      <pubDate>2.4.2</pubDate>
+      <pubDate>2.4.3</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Home5</title>
@@ -1580,7 +1580,7 @@
       <title>[ProsperoStore] TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.214</pubDate>
+      <pubDate>01.000.215</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] CD Player</title>
@@ -2096,7 +2096,7 @@
       <title>[ProsperoStore] PS5SD</title>
       <link>https://github.com/Darkatek7/PS5SD</link>
       <description>Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.</description>
-      <pubDate>1.3.1</pubDate>
+      <pubDate>1.7.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PS5MG</title>
@@ -2264,7 +2264,7 @@
       <title>[ProsperoStore] PSBox Cloud Gaming</title>
       <link>https://github.com/RafaelNGP/psbox-cloud-gaming</link>
       <description>Unofficial Xbox Cloud Gaming client: stream the cloud catalog, your own games and your own Xbox (Remote Play) at 1080p60 with sound, using the DualSense as an Xbox controller.</description>
-      <pubDate>1.7.7</pubDate>
+      <pubDate>1.8.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Estante</title>
@@ -2288,7 +2288,7 @@
       <title>[ProsperoStore] ProsperoCraft</title>
       <link>https://github.com/mateo-cogeanu/ProsperoCraft</link>
       <description>Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.</description>
-      <pubDate>01.000.287</pubDate>
+      <pubDate>01.000.288</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Genesis Plus GX PS5</title>

@@ -3,6 +3,30 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA26050",
+      "title": "Gothic 2 Complete Classic",
+      "createdAt": "2026-11-19T20:52:20.888Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/df5989527e29b4812df9ba8aadda3bac233c716316236e302303df9939fba7ad",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/df5989527e29b4812df9ba8aadda3bac233c716316236e302303df9939fba7ad",
+      "description": "Region: EUR\nRelease note: Works on 4.xx and higher (with backport)\nContributor: maddy7",
+      "downloadSource": "https://dlpsgame.com/gothic-2-complete-classic-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/qPez45AaqGOY/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1Urmbo"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/QXuoGDiiMR"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA06516",
       "title": "Risk of Rain 2",
       "createdAt": "2026-11-18T20:29:04.287Z",
@@ -9361,6 +9385,10 @@
         {
           "name": "EUR 4.xx Base - Rootz",
           "url": "https://www.rootz.so/d/1n9tpY"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/QAYtGsAKys"
         },
         {
           "name": "EUR exFAT 01.017 Base - DATA (exFAT)",

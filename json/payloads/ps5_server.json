@@ -24,14 +24,14 @@
       "source": "https://github.com/seregonwar/zftpd/releases"
     },
     {
-      "name": "Elfldr V0.27",
-      "filename": "elfldr_v0.27.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/elfldr/v0.27/elfldr_v0.27.elf",
-      "local_path": "payloads/ps5_server/elfldr/v0.27/elfldr_v0.27.elf",
+      "name": "Elfldr V0.28",
+      "filename": "elfldr_v0.28.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/elfldr/v0.28/elfldr_v0.28.elf",
+      "local_path": "payloads/ps5_server/elfldr/v0.28/elfldr_v0.28.elf",
       "description": "ELF Loader utility. Port: 9020 / 9021",
-      "version": "v0.27",
+      "version": "v0.28",
       "category": "PS5 Server",
-      "checksum": "82f6227610172c98bad6efe68219fc93a10027035991f47eb4b75532d023407d",
+      "checksum": "66968bae6159d8fb06125fcd43fb99cf64d6bfdf730c70f37a6f5d056ff63458",
       "source": "https://github.com/ps5-payload-dev/elfldr/releases"
     },
     {
@@ -112,14 +112,14 @@
       "source": "https://github.com/cy33hc/ps5-ezremote-server/releases"
     },
     {
-      "name": "Ps5Upload V12.6.11",
-      "filename": "ps5upload_v12.6.11.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v12.6.11/ps5upload_v12.6.11.elf",
-      "local_path": "payloads/ps5_server/ps5upload/v12.6.11/ps5upload_v12.6.11.elf",
+      "name": "Ps5Upload V12.6.13",
+      "filename": "ps5upload_v12.6.13.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v12.6.13/ps5upload_v12.6.13.elf",
+      "local_path": "payloads/ps5_server/ps5upload/v12.6.13/ps5upload_v12.6.13.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v12.6.11",
+      "version": "v12.6.13",
       "category": "PS5 Server",
-      "checksum": "c41ae74fb2cab8c6980b428a115b16d40dfbabde4627131b4fd5afea94a0dd3a",
+      "checksum": "83b0222253285e3a95db389caaffb3063ea659a3940e7f95c70f5568f887365e",
       "source": "https://github.com/phantomptr/ps5upload/releases"
     },
     {

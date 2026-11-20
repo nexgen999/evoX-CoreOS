@@ -65,12 +65,6 @@
       <pubDate>v0.6.3</pubDate>
     </item>
     <item>
-      <title>Elf Arsenal V1.6.23</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf</link>
-      <description>Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées.</description>
-      <pubDate>v1.6.23</pubDate>
-    </item>
-    <item>
       <title>Kura V1.6.51</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/Kura/v1.6.51/Kura_v1.6.51.elf</link>
       <description>Un loader de payloads moderne et épuré conçu pour optimiser l</description>
@@ -540,9 +534,9 @@
     </item>
     <item>
       <title>Orbit Store</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.9.2/orbit_store.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.9.5/orbit_store.elf</link>
       <description>A modern, no-BS download manager for PS5.</description>
-      <pubDate>v1.9.2</pubDate>
+      <pubDate>v1.9.5</pubDate>
     </item>
     <item>
       <title>Ps5-Game-Compressor V1.0.4</title>
@@ -593,10 +587,10 @@
       <pubDate>v1.7.0</pubDate>
     </item>
     <item>
-      <title>Elfldr V0.27</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/elfldr/v0.27/elfldr_v0.27.elf</link>
+      <title>Elfldr V0.28</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/elfldr/v0.28/elfldr_v0.28.elf</link>
       <description>ELF Loader utility. Port: 9020 / 9021</description>
-      <pubDate>v0.27</pubDate>
+      <pubDate>v0.28</pubDate>
     </item>
     <item>
       <title>Ftpsrv Ps5-Payload V0.22</title>
@@ -693,6 +687,12 @@
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>PoorDS4</pubDate>
+    </item>
+    <item>
+      <title>Elf Arsenal V1.6.23</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ELF_Arsenal</pubDate>
     </item>
     <item>
       <title>Zftpd-Ps5-V1.6.0</title>
