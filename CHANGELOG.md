@@ -1,5 +1,16 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 21/11/2026 à 23:01
+* **PAYLOADS**
+  * `Np-Fake-Signin-Ps5` (v1.4) - *Mise à jour (Précédent: np-fake-signin)*
+  * `Elf Arsenal V1.6.23` (v1.6.23) - *Mise à jour (Précédent: ELF_Arsenal)*
+  * `Kura V1.6.55` (v1.6.55) - *Nouveau*
+  * `Orbit Store` (v1.9.6) - *Mise à jour (Précédent: v1.9.5)*
+  * `Garlic-Savemgr V2.0` (v2.0) - *Nouveau*
+  * `Garlic-Worker V1.5.6` (v1.5.6) - *Mise à jour (Précédent: garlic-worker)*
+* **HOMEBREW_PAGE**
+  * `RetroArch` (4.4.0-beta-4) - *Mise à jour (Précédent: 4.1.0-beta-4)*
+
 ## Build du 21/11/2026 à 14:35
 * **PAYLOADS**
   * `Webkit-Autoloader-Installer V0.8.3` (v0.8.3) - *Nouveau*

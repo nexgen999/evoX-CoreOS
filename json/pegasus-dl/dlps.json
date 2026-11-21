@@ -3,6 +3,126 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA25670",
+      "title": "Woodo",
+      "createdAt": "2026-11-21T21:23:52.938Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/ac9e8ce9ba4774a5b7b4f5736d6b01fbc58c25e448eed6289350eb47dd9809fa",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/5104d55d8e9f7dc197d4c473e933b0bf4c12a057444c554e5dbb790a09b0510f",
+      "description": "Region: EUR\nRelease note: Works on 12.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/woodo-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 12.xx Base - Akirabox",
+          "url": "https://akirabox.to/l76mZ9ro7Gan/file"
+        },
+        {
+          "name": "EUR 12.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1PIKaO"
+        },
+        {
+          "name": "EUR 12.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/aoLJm1B0Xz"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA13896",
+      "title": "Shadow Gambit The Cursed Crew",
+      "createdAt": "2026-11-21T21:23:52.938Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/3a3f6ebf8b7d5450e7f97b4680b320f555132c82aa3b0da2054f7305a9f23e9f",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/b4c3d0075af02fa0eb5d69dfba5edde1eafc9d3704446d2f572f6b58149c4bd4",
+      "description": "Region: ASIA\nRelease note: Works on 7.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/shadow-gambit-the-cursed-crew-ps5/",
+      "downloadLinks": [
+        {
+          "name": "ASIA 7.xx Base - Akirabox",
+          "url": "https://akirabox.to/qLQ365qgPm19/file"
+        },
+        {
+          "name": "ASIA 7.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1HEcvQ"
+        },
+        {
+          "name": "ASIA 7.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/ZJilgT6VXK"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA22174",
+      "title": "KAMITSUBAKI CITY ENSEMBLE",
+      "createdAt": "2026-11-21T21:23:52.938Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/8715c1bcfdfd248545b3f61b8bfdfe88a69221f00abcf3c2f184b9e1ab8cbcaf",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/ef4e5b5c62d05b7422eaeb87e52d163ed24ab415226008b20d5b167f791b109c",
+      "description": "Region: ASIA\nRelease note: Works on 9.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/kamitsubaki-city-ensemble-ps5/",
+      "downloadLinks": [
+        {
+          "name": "ASIA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/b5OzdAVQ8GB8/file"
+        },
+        {
+          "name": "ASIA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1LGTiq"
+        },
+        {
+          "name": "ASIA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/YHv1eBkqhL"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA22746",
+      "title": "Card en Ciel",
+      "createdAt": "2026-11-21T21:23:52.938Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/17b18aafb87f0a484cf594d3df5f8f54e40a5a85339a7f17a22742b9898b47e7",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/3a41bbc5a315894d03ec4bdc1051ccf13b2e897dd16cb8fc89f8614f3b942289",
+      "description": "Region: JPN\nRelease note: Works on 9.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/card-en-ciel-ps5/",
+      "downloadLinks": [
+        {
+          "name": "JPN 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/Xkrzo6KaQ3BO/file"
+        },
+        {
+          "name": "JPN 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1TKBRw"
+        },
+        {
+          "name": "JPN 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/EGACQwrBjn"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA29101",
+      "title": "Azure Striker Gunvolt Trilogy Enhanced",
+      "createdAt": "2026-11-21T21:23:52.938Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/4cf20d4ef21bc720b1a05dd2498753d38bd423077c56fe99b8f8b3bacab6694b",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/54d88d200bc232abea1b619d0352adef2340a41244b5fcfdb147917c95a356aa",
+      "description": "Region: JPN\nRelease note: Works on 10.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/azure-striker-gunvolt-trilogy-enhanced-ps5/",
+      "downloadLinks": [
+        {
+          "name": "JPN 10.xx Base - Akirabox",
+          "url": "https://akirabox.to/2bJG8lbNgGOB/file"
+        },
+        {
+          "name": "JPN 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1XM2JU"
+        },
+        {
+          "name": "JPN 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/wMoEEExlks"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA14636",
       "title": "Red Matter 2",
       "createdAt": "2026-11-21T08:31:05.063Z",
@@ -18265,7 +18385,8 @@
       "title": "Charlie The Roach",
       "createdAt": "2026-11-21T13:35:22.016Z",
       "category": "game",
-      "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/11/9-jfd.jpg",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/fad51a78dad38f03843c45350d48e963b152428e3f8f3e0a80c0a48c07f2680a",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/15479f9e67acf66fc1269a558cb569822eee983d416a6403ff66a129e47c895c",
       "description": "Region: USA\nRelease note: Works on 6.xx and higher",
       "downloadSource": "https://dlpsgame.com/charlie-the-roach-ps5/",
       "downloadLinks": [
@@ -22976,7 +23097,8 @@
       "title": "Rewind or Die",
       "createdAt": "2026-11-21T13:35:22.016Z",
       "category": "game",
-      "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/11/5-aix.jpg",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/ba8258c2a49b7461c9a3589c9b74248919adc6a54ab00f68f12dfe862a5aa63e",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/b1ba26c2ca0b69e413dcae4bc1a8ea7dae1d5fc1dd799a557e544e9b8e36b1f9",
       "description": "Region: USA\nRelease note: Works on 9.xx and higher",
       "downloadSource": "https://dlpsgame.com/rewind-or-die-ps5/",
       "downloadLinks": [

@@ -1558,15 +1558,15 @@
     {
       "name": "RetroArch",
       "filename": "PPSA99169.zip",
-      "url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v4.1.0-beta-4/PS5_RetroArch-v4.1.0-beta-4.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99169/4.1.0-beta-4/PPSA99169.zip",
+      "url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v4.4.0-beta-4/PS5_RetroArch-v4.4.0-beta-4.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99169/4.4.0-beta-4/PPSA99169.zip",
       "description": "Native RetroArch port for PS5 with cores for NES, SNES, GBA, Genesis, arcade, PSP, GameCube/Wii and PS2.",
-      "version": "4.1.0-beta-4",
+      "version": "4.4.0-beta-4",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99169",
       "author": "Mihawk",
-      "checksum": "55231489f7701ba13ccbefcfd8d41592fd8db2ec437d8c2b752cb6480c8b2148",
+      "checksum": "de1c1d5edf416b5c6869055615cb092e3c70f9ffe361805b3771f3aa1c58c2e0",
       "source": "https://github.com/mihawk-99/PS5_RetroArch"
     },
     {

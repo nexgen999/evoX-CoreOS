@@ -3,6 +3,350 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "CUSA06846",
+      "title": "Friday The 13th: The Game",
+      "createdAt": "2026-11-21T22:01:24.602Z",
+      "version": "1.40",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/1b678155d75c84b8992a9080989d40826b518c840b95c87084af91c2815adccc",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/34bcf3689b09477cdaf28daee8f80c807c6656b53ef628b1d446221a45ff81d2",
+      "description": "Format: ps4\nFriday the 13th: The Game provides players with the tools to survive, escape, or even attempt to kill an unkillable man. Each gameplay session offers a fresh opportunity to prove whether you have what it takes—not just to survive, but to outmatch the greatest killer in cinematic history! Meanwhile, Jason is equipped with a variety of abilities to track, hunt, and eliminate his prey. Emerge from the shadows, terrify your targets, and dispatch them in the most brutal ways imaginable. Take control of the legendary killer, Jason Voorhees, and strike fear into the hearts of those unfortunate enough to cross your path!\nRegion: EUR\nFirmware: 5.xx+\nNotes: It's playable offline! However, you cannot unlock stuff by XP. You may need cheats, or connecting to dedicated servers. Check out ElyssiumNet for that!\nCredits: Thank you, Doctor003!\nUpdated: 2026-11-21T21:58:22.902Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/26c6fus36zwa"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/W1xmFpehbn"
+        }
+      ],
+      "sizeBytes": 28991029248
+    },
+    {
+      "titleId": "CUSA55639",
+      "title": "CLADUN X3",
+      "createdAt": "2026-11-21T22:01:24.602Z",
+      "version": "1.03",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/0019285c804d854252c6d21a52e017e527c2c534935ebd1dd1e6db89a1aa8d5a",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/0019285c804d854252c6d21a52e017e527c2c534935ebd1dd1e6db89a1aa8d5a",
+      "description": "Format: ps4\nVillains from near and far have been summoned to Arcanus Cella to participate in a death game in the name of achieving world peace. You are one of those villains. Choose from six different weapon types and 10 different jobs to conquer dungeons teeming with ferocious monsters and deadly traps. Use the customization functions to create evil allies to aid in your journey with the Magic Circle System, a unique system to the Cladun series. Do you have what it takes to become the ultimate evil? Test your might and mettle in this highly customizable action RPG!\nRegion: USA\nFirmware: 13.xx+\nCredits: Thank you, DespairOfHarmony!\nUpdated: 2026-11-21T21:30:04.454Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Akirabox",
+          "url": "https://akirabox.to/1RgzR09jbmbp/file"
+        },
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/69jlt8rzgvok"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/3cu2WlH8sF"
+        }
+      ],
+      "sizeBytes": 644245094
+    },
+    {
+      "titleId": "CUSA58027",
+      "title": "Hyperspace Neptunia Unlimited",
+      "createdAt": "2026-11-21T22:01:24.602Z",
+      "version": "1.03",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/81347957919dc0c2cc9bedaaae11ff7b8f8460753bd39a173ba656c05d014d8e",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/f779ae6c6660dbbec0f2935f30b6cb445864d9b4ab386a1979a71cc59261ee51",
+      "description": "Format: ps4\n• Premise: Neptune and 11 Goddesses—including new faces—team up against a world-threatening asteroid and repeated cycles of destruction in Gamindustri. A strange number on Neptune's cheek and a mysterious voice guide her attempt to change fate. • Aerial &amp; 3D Exploration: Players explore dungeons across both ground and sky, incorporating vertical positioning, aerial combat, and dive attacks. • Combat &amp; Customization: Features real-time action, customizable combos, team attacks, colossal boss fights, Processor Unit upgrades, Disc Make crafting, and character color/accessory customization.\nRegion: JP\nFirmware: 12.xx+\nNotes: Japanese Only! FW 12.50+\nCredits: Thank you, DespairOfHarmony!\nUpdated: 2026-11-21T21:28:02.692Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Akirabox",
+          "url": "https://akirabox.to/E9Qz9AXWbzOL/file"
+        },
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/tshmngor62hk"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/IotY3GzeyM"
+        }
+      ],
+      "sizeBytes": 8375186227
+    },
+    {
+      "titleId": "CUSA49938",
+      "title": "Touhou Genso Wanderer -FORESIGHT-",
+      "createdAt": "2026-11-21T22:01:24.602Z",
+      "version": "1.02",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/de22a8d1f1864c61297742f4295700184c7a46805ae0782fe8c870c023b5ff71",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/de22a8d1f1864c61297742f4295700184c7a46805ae0782fe8c870c023b5ff71",
+      "description": "Format: ps4\nTake control of Reimu, the Hakurei Shrine Maiden, and investigate the latest incident to take place in the world of Gensokyo in this roguelike RPG. 1 player 7GB minimum save size DUALSHOCK®4 Software subject to license (us.playstation.com/softwarelicense). Online features require an account and are subject to terms of service and applicable privacy policy (playstationnetwork.com/terms-of-service &amp; playstationnetwork.com/privacy-policy). One-time license fee for play on account’s designated primary PS4™ system and other PS4™ systems when signed in with that account. ©Team Shanghai Alice ©Mediascape Co., Ltd. / AQUA STYLE Licensed to and published by NIS America, Inc.\nRegion: JP\nFirmware: 12.xx+\nNotes: FW 12.50+\nCredits: Thank you, DespairOfHarmony!\nUpdated: 2026-11-21T21:24:16.097Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Akirabox",
+          "url": "https://akirabox.to/dkD3Y2wqozLQ/file"
+        },
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/7s4deuwq51b3"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/KAcT4xO05u"
+        }
+      ],
+      "sizeBytes": 5261334938
+    },
+    {
+      "titleId": "CUSA47783",
+      "title": "Vampire Survivors",
+      "createdAt": "2026-11-21T22:01:24.602Z",
+      "version": "1.34",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/befcc7d923ce15556d06e1d6ae2b8cfa64b9d7dedd40ed8c6337900f265f4fcb",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/befcc7d923ce15556d06e1d6ae2b8cfa64b9d7dedd40ed8c6337900f265f4fcb",
+      "description": "Format: ps4\nMow down thousands of night creatures and survive until dawn! Vampire Survivors is a gothic horror casual game with rogue-lite elements, where your choices can allow you to quickly snowball against the hundreds of monsters that get thrown at you. Hell is empty, the devils are here, and there's no place to run or hide. All you can do is survive as long as you can until death inevitably puts an end to your struggles. Gather gold in each run to buy upgrades and help the next survivor. The supernatural indie phenomenon that lets you be the bullet hell! The whole game is also playable in 1-4 player couch co-op. Starting Tips: - Take your time to grab gems and items, they won't disappear. - Get two or three offensive weapons at first, but focus on levelling them up one at a time. - Armour and Luck are good starting power-ups to spend money on. - Refund power-ups often, it's free, and try new upgrade paths.\nRegion: EUR\nFirmware: 12.xx+\nNotes: All DLC Included. Available in multiple languages, INCLUYENDO ESPAÑOL. Take care when installing the game! Install first the game, then the update, then the dlcs. Very careful of not installing a DLC first! If you do, install the base game again, uninstall from the PS4 settings themselves, and then install the base game, update and dlcs back.\nCredits: Thank you, DespairOfHarmony!\nUpdated: 2026-11-21T21:22:49.877Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Akirabox",
+          "url": "https://akirabox.to/dZxG5Ro1bmVj/file"
+        },
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/twdzn8sbq3z1"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/44KQG4eMXX"
+        }
+      ],
+      "sizeBytes": 1395864371
+    },
+    {
+      "titleId": "CUSA20678",
+      "title": "Laid-Back Camp - Virtual - Fumoto Campsite",
+      "createdAt": "2026-11-21T22:01:24.602Z",
+      "version": "1.01",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/d5d97a57af3fa3a2fa92904612ce3c96aa7f7fcd34e3ba2d78f7ef1ae8df88e3",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/d5d97a57af3fa3a2fa92904612ce3c96aa7f7fcd34e3ba2d78f7ef1ae8df88e3",
+      "description": "Format: ps4\nExperience Laid-Back Camp in 3D! Together, Rin (you!) and Nadeshiko embark on a new camping adventure at the Fumoto Campsite, taking pictures and trying lots of delicious food. About the Game Nadeshiko, Rin &amp; co. encounter a variety of unique situations. Join them in VR for a short adventure game (each version is about the length of an anime episode), where the fully voiced characters and vibrant scenery will make you feel like you’re really there! Cast Nadeshiko Kagamihara (Yumiri Hanamori) Rin Shima (Nao Toyama) Chiaki Ogaki (Sayuri Hara) Aoi Inuyama (Aki Toyosaki) Ena Saito (Rie Takahashi) Narration by Akio Otsuka *Content in this game varies from that of Laid-Back Camp - Virtual - Lake Motosu. Supports PlayStation®VR This game is designed for use with PlayStation®VR but can also be played without it.\nRegion: JP\nFirmware: 8.xx+\nNotes: English available!\nCredits: Thank you, DespairOfHarmony!\nUpdated: 2026-11-21T21:21:02.328Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Akirabox",
+          "url": "https://akirabox.to/LJlGnK7VRm15/file"
+        },
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/b02odyr6spgm"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/QlDhWnp5qn"
+        }
+      ],
+      "sizeBytes": 429496730
+    },
+    {
+      "titleId": "CUSA20677",
+      "title": "Laid-Back Camp - Virtual - Lake Motosu",
+      "createdAt": "2026-11-21T22:01:24.602Z",
+      "version": "1.01",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/ab1f0969aceb3c93786b0d82e4230413485e0f7834810d4d34ae47b478c41c5c",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/ab1f0969aceb3c93786b0d82e4230413485e0f7834810d4d34ae47b478c41c5c",
+      "description": "Format: ps4\nExperience Laid-Back Camp in 3D! Together, Nadeshiko (you!) and Rin embark on a new camping adventure at Lake Motosu, taking pictures and trying lots of delicious food. About the Game Set near scenic Mt. Fuji, Nadeshiko, Rin &amp; co. encounter a variety of unique situations. Join them for a short 3D adventure game (each version is about the length of an anime episode), where the fully voiced characters and vibrant scenery will make you feel like you’re really there! Cast Nadeshiko Kagamihara (Yumiri Hanamori) Rin Shima (Nao Toyama) Chiaki Ogaki (Sayuri Hara) Aoi Inuyama (Aki Toyosaki) Ena Saito (Rie Takahashi) Narration by Akio Otsuka Even if you do not have a PlayStation®VR, you can enjoy contents in non-VR mode.\nRegion: JP\nFirmware: 8.xx+\nNotes: English available!\nCredits: Thank you, DespairOfHarmony!\nUpdated: 2026-11-21T21:19:49.435Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Akirabox",
+          "url": "https://akirabox.to/5pVzNKAabG7w/file"
+        },
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/8i0issurcfcj"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/JwM1WBH7IF"
+        }
+      ],
+      "sizeBytes": 429496730
+    },
+    {
+      "titleId": "PPSA14404",
+      "title": "Metal Gear Solid 3 Snake Eater Master Collection",
+      "createdAt": "2026-11-21T17:58:59.365Z",
+      "version": "3.000.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/98ad84333d9f1a4f7225a5cb0d6430128436beb245620317e9dc858788999076",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/0f3a34adcfa9b660714f2f642c1aacbce8b304db21781b0f635fd97e6db9b680",
+      "description": "Format: Folder\nMetal Gear Solid 3: Snake Eater is the origin story of Naked Snake and his mentor The Boss and the fifth title in the METAL GEAR series. The game is set in a deep jungle environment. Snake must find his equipment and use various camouflage which allows the player to deceive the enemy's eyes and face paint that matches the surrounding environment, providing a unique stealth gameplay experience. The game is also packed with new action elements which allow players to capture jungle animals for food and to regain stamina, and Close Quarters Combat (CQC), a combat system based on martial arts for fighting enemies at close range. An exclusive digital Screenplay Book and Master Book that details the story and characters in Metal Gear Solid 3: Snake Eater are also included. [Title lineup] Metal Gear Solid 3: Snake Eater (HD Collection version) Regional versions of the titles are available as additional downloads. [Digital book] Metal Gear Solid 3: Screenplay Book Metal Gear Solid 3: Master Book The digital books can be accessed from the game's main menu screen. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product.\nRegion: EUR\nFirmware: 9.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: Thank you, Duplex, for the dump!\nUpdated: 2026-11-21T19:36:59.599Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/3w3mhf2c94hj"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/gBxRdmPFqb"
+        }
+      ],
+      "sizeBytes": 93093416141
+    },
+    {
+      "titleId": "PPSA14404",
+      "title": "Metal Gear Solid 3 Snake Eater Master Collection",
+      "createdAt": "2026-11-21T17:58:59.365Z",
+      "version": "3.000.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/98ad84333d9f1a4f7225a5cb0d6430128436beb245620317e9dc858788999076",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/0f3a34adcfa9b660714f2f642c1aacbce8b304db21781b0f635fd97e6db9b680",
+      "description": "Format: zstd\nMetal Gear Solid 3: Snake Eater is the origin story of Naked Snake and his mentor The Boss and the fifth title in the METAL GEAR series. The game is set in a deep jungle environment. Snake must find his equipment and use various camouflage which allows the player to deceive the enemy's eyes and face paint that matches the surrounding environment, providing a unique stealth gameplay experience. The game is also packed with new action elements which allow players to capture jungle animals for food and to regain stamina, and Close Quarters Combat (CQC), a combat system based on martial arts for fighting enemies at close range. An exclusive digital Screenplay Book and Master Book that details the story and characters in Metal Gear Solid 3: Snake Eater are also included. [Title lineup] Metal Gear Solid 3: Snake Eater (HD Collection version) Regional versions of the titles are available as additional downloads. [Digital book] Metal Gear Solid 3: Screenplay Book Metal Gear Solid 3: Master Book The digital books can be accessed from the game's main menu screen. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product.\nRegion: EUR\nFirmware: 9.xx+\nNotes: Every language included! TEXTOS EN CASTELLANO, NO VOCES\nCredits: Thank you, Duplex, for the dump!!\nUpdated: 2026-11-21T17:56:17.933Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data",
+          "url": "https://datanodes.to/f57q3s9dzl9y"
+        },
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/2a2fluBGHi"
+        }
+      ],
+      "sizeBytes": 50648401838
+    },
+    {
+      "titleId": "PPSA10662",
+      "title": "The Last of Us 2 Remastered",
+      "createdAt": "2026-11-21T17:58:59.365Z",
+      "version": "1.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/7848b871059327aca89282eaa682f1d842fe741be34b65838171d4d095ed5b36",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/b9acd014263f53e5a03ebe238ccdfa7f0318b287e5f9382a9067f4338d3d5163",
+      "description": "Format: zstd\nNative PS5 enhancements Built for the PS5 console, The Last of Us Part II Remastered enhances the original PS4 game in ways not possible before, including: • A host of graphical improvements bring the beautiful-yet-dangerous world to life. • Visual performance now outputs at 4K in Fidelity Mode. • Improved loading times more quickly let you jump into action. • Full DualSense™ wireless controller integration. Patch v.2.0.0 Update* • In the first major update since No Return launched, unlock new characters Bill and Marlene, take on four new maps, and earn new Trophies. • In addition to the above, use your earned points to redeem a brand new item, Jordan A. Mun’s Jacket from Intergalactic: The Heretic Prophet™** as a skin for Ellie. No Return – A Roguelike Survival Mode Experience The Last of Us Part II’s deep combat via an entirely new mode! Survive as long as you can in each run, as you choose your path through a series of randomized encounters. Play as a host of different unlockable characters, some never-before playable in The Last of Us franchise, each with unique gameplay traits. The variety of challenges feature different foes and memorable locations from throughout Part II, all culminating in tense boss battles. New ways to play Delve deeper into this beloved adventure and learn how the original game was created. • Lost Levels lets you explore early-development versions of three new levels not seen in the original. • Enjoy hours of new developer commentary to hear insights into Part II’s development as you experience the game. • Live up to your musical potential with Guitar Free Play, which includes new unlockable instruments, or take on the new Speedrun Mode*** and post your best times. • Descriptive Audio**** and Speech to Vibrations have also been added to Part II's suite of accessibility features. • The Last of Us Part II Remastered also features brand new unlockable character and weapon skins for players to use for both Ellie and Abby. *Internet connection and an account for PlayStation™Network required. **Intergalactic: The Heretic Prophet is in development for the PS5 console. ***Game progression required to unlock. ****Only available for audio supported languages\nRegion: USA to EUR Langs\nFirmware: 9.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: ESPAÑOL LATINO, NO CASTELLANO. Of course, every other American language is available\nCredits: Thank you, @yared_cf!\nUpdated: 2026-11-21T17:02:27.116Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data",
+          "url": "https://datanodes.to/1gwdlhi79m61"
+        },
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/XoEWAAn9nT"
+        }
+      ],
+      "sizeBytes": 93093416141
+    },
+    {
+      "titleId": "PPSA28465",
+      "title": "Trails in the Sky 1st Chapter",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "01.007.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/b8ff7409f923a578082cf736c0d062bb2664d1eedbaed8679d89dae28b42d1cf",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/65f8a99a960f334d48f9e42427ba7715bceed2d94e0bf656b02dbd27b93b44b9",
+      "description": "Format: Folder\nThe Legend of Heroes: Trails in the Sky, a story-driven RPG that took off as the landmark first installment of the beloved Trails series, is receiving a full remake! The Liberl Kingdom, where the adventure takes place, is brought to life in stunning 3D, with refined designs for all characters including the headstrong and charming Estelle and the cool-headed and mysterious Joshua. Enjoy seamless transitions between two battle modes: field action and turn-based combat. The remake also features dynamic showcases of each character's special abilities (Crafts) and elemental magic (Arts), delivering exhilarating battle experiences. While retaining the picturesque charm of Liberl, the game offers various quests and extensive side content, allowing players to immerse themselves in the journey through the kingdom from a fresh perspective. Estelle and Joshua embark on a journey across the Liberl Kingdom, spurred by the mysterious disappearance of their father, Cassius. Meet new allies, experience heartfelt farewells, and uncover the fate that awaits the two at the end of their journey...\nRegion: USA to EUR Langs\nFirmware: 11.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: Password to extract: 28465 TEXTOS EN ESPAÑOL, PERO NO VOCES\nCredits: Thank you, Rapunzel!\nUpdated: 2026-11-21T15:53:43.507Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Gofile",
+          "url": "https://gofile.io/d/C1JkjWJ2"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/qaqrpvcvxn6e"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/wn1nPkcqfp"
+        }
+      ],
+      "sizeBytes": 22655952486
+    },
+    {
+      "titleId": "PPSA06981",
+      "title": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS",
+      "createdAt": "2026-11-21T16:20:03.437Z",
+      "version": "01.007.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/5b5192e7b7426e52cdfc6d74168ad919ef499417b56b5c5a0da9803dae1b7b8f",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/34a77deac9974d25ea9715f2fd211f9fa24fe9d9b83323baa87a7a0275e269b9",
+      "description": "Format: Folder\nLegendary ninjas reunite in the next exciting entry of the STORM series! NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS is an action/fighting game with fast-paced ninja battles and two different story modes. • New playable characters join all past characters of the STORM series for the largest roster of ninjas ever! Select from more than 130 playable characters to fight in powerful ninja battles! In addition to an improved network battle experience, the new Simple mode option allows players to more easily perform various ninjutsu combos. Whether players are beginners or experts, everyone can enjoy heated battles with their favorite ninjas. • For the first time ever, the history of Naruto and Sasuke’s rivalry has been recut and combined into one game! Combining original scenes from the Naruto anime with the high-quality battle experience expected of the STORM series development team, this game contains highlights from the beginning of Naruto’s story up to the final battle of the series. Relive the paths of two legendary ninjas! • Experience a special next generation story! Play a new, original story where Boruto Uzumaki, the son of 7th Hokage and ninja of the new era, is drawn into a great battle involving the entire ninja world after meeting a girl in a popular online game. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product. Owners of a PS4® disc copy must insert it into the PS5® every time they want to download or play the PS5® digital version. PS4®-game-disc owners who buy the PS5® Digital Edition disc-free console will not be able to get the PS5® version at no extra cost.\nRegion: USA\nFirmware: 5.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: Password to extract: 06981 VOCES EN ESPAÑOL, PERO NO TEXTO\nCredits: Thank you, Rapunzel!!\nUpdated: 2026-11-21T15:43:45.077Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Gofile",
+          "url": "https://gofile.io/d/1MlXN47p"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/r52rwmwx39gy"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/nxLA0YAewv"
+        }
+      ],
+      "sizeBytes": 51324859187
+    },
+    {
+      "titleId": "CUSA43650",
+      "title": "Asterix and Obelix Slaps them ALL 2",
+      "createdAt": "2026-11-21T14:40:41.933Z",
+      "version": "1.04",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/0b3a7a5cebdfcb4c196ad4f4594190664108c1cebdd55738f2ba31173fdc4876",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/0b3a7a5cebdfcb4c196ad4f4594190664108c1cebdd55738f2ba31173fdc4876",
+      "description": "Format: ps4\n¡Ración doble de tortazos! La humilde vida en el campo de Astérix, Obélix y los demás aldeanos se ve interrumpida por la repentina llegada de Justforkix, que llega en busca de ayuda. Les cuenta que su padre, Doublehelix, ha sido encarcelado por un robo que no cometió... Acaban de robar el Águila de Lutecia, el preciado emblema dorado de las legiones romanas, y han encarcelado a un hombre inocente. Astérix promete investigarlo y le pide a Justforkix que se quede a salvo en la aldea. Los dos guerreros galos se dirigen a Lutecia para conseguir más información de un conocido muy bien informado sobre los rumores e intrigas de la ciudad... Y, por supuesto, no encontrarán las respuestas que necesitan en su largo viaje sin dar una buena dosis de tortazos. Asterix &amp; Obelix – Slap them all! 2 es un Beat'em Up repleto de tortazos con un argumento original. Por el camino, visitarás lugares muy distintos: ruinas olvidadas en un tenebroso bosque, el mayor campamento romano de la historia e incluso Lutecia... Un viaje hacia tierras lejanas, lleno de ambientes diversos, con numerosos encuentros y, por supuesto, ¡con un generoso reparto de tortazos! Todo acompañado de originales escenas animadas que dan vida a la historia. Asterix &amp; Obelix – Slap them all! 2 lleva la lucha al siguiente nivel con más enemigos y jefes, así como muchas características nuevas y mejoras en la jugabilidad. Además de los movimientos únicos que pueden “cargar” y de los combates más dinámicos y fluidos, Astérix y Obélix también se aprovechan de un Modo furia y de un devastador Ataque definitivo. ¡Por no hablar de que se pueden destruir ciertos elementos del entorno y lanzar barriles o menhires en combate! Será mejor que los romanos y todos los demás enemigos tengan cuidado. CARACTERÍSTICAS - Bellos niveles totalmente nuevos, desde Lutecia hasta... ¡el fin del mundo! - Una historia repleta de acción y giros inesperados. - Un nuevo Modo furia que puede activarse en combate... - ... y un Ataque definitivo único para cada personaje. - ¡Nuevos enemigos y jefes a los que dar tortazos! - La capacidad de destruir algunos elementos del entorno. - Localizaciones y personajes fieles a los cómics. - Juega con 2 jugadores en el modo cooperativo local. - Una historia original con escenas animadas.\nRegion: EUR\nFirmware: 12.xx+\nNotes: FW 12.50+\nCredits: Thank you, Doctor003!\nUpdated: 2026-11-21T13:53:49.350Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/rp6452u7ackn"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/NZI75NsvYy"
+        }
+      ],
+      "sizeBytes": 3435973837
+    },
+    {
+      "titleId": "CUSA05254",
+      "title": "Darkest Dungeon",
+      "createdAt": "2026-11-21T14:40:41.933Z",
+      "version": "1.22",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e378aba4d97a5a78d2789532f995c2de30f8b5bf4e44cacc16e6b926bf4c91ff",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/e378aba4d97a5a78d2789532f995c2de30f8b5bf4e44cacc16e6b926bf4c91ff",
+      "description": "Format: ps4\nDarkest Dungeon® is a challenging gothic roguelike turn-based RPG about the psychological stresses of adventuring. Recruit, train, and lead a team of flawed heroes through twisted forests, forgotten warrens, ruined crypts, and beyond. You'll battle not only unimaginable foes, but stress, famine, disease, and the ever-encroaching dark. Uncover strange mysteries, and pit your heroes against an array of fearsome monsters with an innovative strategic turn-based combat system. Can you stem the tide of eldritch horrors erupting across your family’s ancestral estate? Remember: nothing can be gained without loss. Descend at your peril... Nominated for Grand Prize | Independent Game Festival 2016 “Darkest Dungeon is an incredible take on the classic dungeon crawl.” - Game Informer Purchasing this content entitles you to both the PS4™ system and “PS Vita” system versions!\nRegion: USA to EUR Langs\nFirmware: 12.xx+\nNotes: SDK requirement fw 12.50 All DLC to date: Crimson Court, Color of Madness, Shieldbreaker, Musketeer, The Fires Edge\nCredits: Thank you, Xan!!\nUpdated: 2026-11-21T13:50:19.676Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/ZDeLJxxTgO"
+        },
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/wnxthqusuzey"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/HjN2UdYLUJ"
+        }
+      ],
+      "sizeBytes": 3822520893
+    },
+    {
       "titleId": "PPSA18887",
       "title": "Five Nights at Freddy's Help Wanted 2",
       "createdAt": "2026-11-20T14:37:02.013Z",
