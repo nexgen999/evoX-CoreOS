@@ -1,5 +1,17 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 21/11/2026 à 05:52
+* **PAYLOADS**
+  * `Kura V1.6.53` (v1.6.53) - *Nouveau*
+  * `Garlic-Worker V1.5.6` (garlic-worker) - *Mise à jour (Précédent: v1.5.6)*
+  * `Np-Fake-Signin-Ps5` (np-fake-signin) - *Mise à jour (Précédent: v1.4)*
+  * `Elf Arsenal V1.6.23` (ELF_Arsenal) - *Mise à jour (Précédent: v1.6.23)*
+* **HOMEBREW_PAGE**
+  * `EglantinePS5` (1.000.003) - *Mise à jour (Précédent: 1.000.002)*
+  * `YmirPS5` (0.7.2) - *Nouveau*
+  * `Breath of the Wild VR` (0.6.1) - *Mise à jour (Précédent: 0.6.0)*
+  * `Parallax Browser` (0.3.0) - *Mise à jour (Précédent: 0.2.3)*
+
 ## Build du 21/11/2026 à 00:04
 * **PAYLOADS**
   * `Common Fps Ps5 V1.2.5` (v1.2.5) - *Nouveau*

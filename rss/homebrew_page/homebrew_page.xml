@@ -494,13 +494,19 @@
       <title>EglantinePS5</title>
       <link>https://github.com/heydemoura/EglantinePS5</link>
       <description>VERY experimental Nintendo Switch 2 emulator port for PS5</description>
-      <pubDate>1.000.002</pubDate>
+      <pubDate>1.000.003</pubDate>
+    </item>
+    <item>
+      <title>YmirPS5</title>
+      <link>https://github.com/Wamphyre/YmirPS5</link>
+      <description>Sega Saturn emulator for PS5 with USB optical disc support and save states.</description>
+      <pubDate>0.7.2</pubDate>
     </item>
     <item>
       <title>Breath of the Wild VR</title>
       <link>https://github.com/Papyszoo/botw-bettervr-ps5</link>
       <description>Plays your Breath of the Wild dump in PS VR2 with Sense controllers via Crementif's BetterVR 1.0.0 in Cemu (experimental; firmware 5.50, 7.61, 8.40, 9.00, 10.00, 11.60, 12.40, 13.60; tested 13.60).</description>
-      <pubDate>0.6.0</pubDate>
+      <pubDate>0.6.1</pubDate>
     </item>
     <item>
       <title>DriftCheck</title>
@@ -704,7 +710,7 @@
       <title>Parallax Browser</title>
       <link>https://github.com/rikleigh/parallax-browser</link>
       <description>A fast Web browser for the PS5 with WebGL, WebGPU, Gamepad API, hardware video decoding up to 8K, and PS VR2 video playback.</description>
-      <pubDate>0.2.3</pubDate>
+      <pubDate>0.3.0</pubDate>
     </item>
     <item>
       <title>Lost Odyssey</title>
