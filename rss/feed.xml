@@ -89,10 +89,10 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Payloads] Common Fps Ps5 V1.2.3</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.3/Common_FPS_PS5_v1.2.3.elf</link>
+      <title>[Payloads] Common Fps Ps5 V1.2.5</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.5/Common_FPS_PS5_v1.2.5.elf</link>
       <description>A lightweight, open-source real-time FPS counter for PlayStation 5.</description>
-      <pubDate>v1.2.3</pubDate>
+      <pubDate>v1.2.5</pubDate>
     </item>
     <item>
       <title>[Payloads] Overlay Payload</title>
@@ -629,10 +629,16 @@
       <pubDate>v0.6.3</pubDate>
     </item>
     <item>
-      <title>[Payloads] Kura V1.6.51</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/Kura/v1.6.51/Kura_v1.6.51.elf</link>
+      <title>[Payloads] Elf Arsenal V1.6.23</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf</link>
+      <description>Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées.</description>
+      <pubDate>v1.6.23</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Kura V1.6.52</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/Kura/v1.6.52/Kura_v1.6.52.elf</link>
       <description>Un loader de payloads moderne et épuré conçu pour optimiser l</description>
-      <pubDate>v1.6.51</pubDate>
+      <pubDate>v1.6.52</pubDate>
     </item>
     <item>
       <title>[Payloads] Pizza-Hen V2.00</title>
@@ -657,6 +663,18 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/v1.2.1/ProsperoMgr.elf</link>
       <description>A Web-Based All-In-One homebrew manager for your PlayStation 5</description>
       <pubDate>v1.2.1</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Np-Fake-Signin-Ps5</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf</link>
+      <description>Fake activate PS5 without PSN.</description>
+      <pubDate>v1.4</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Garlic-Worker V1.5.6</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.5.6/garlic-worker_v1.5.6.elf</link>
+      <description>Garlic worker payload component.</description>
+      <pubDate>v1.5.6</pubDate>
     </item>
     <item>
       <title>[Payloads] Savemnt-Offset-Dumper V1.0.0</title>
@@ -711,12 +729,6 @@
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>ps5-web-file-manager</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Garlic-Worker V1.5.6</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>garlic-worker</pubDate>
     </item>
     <item>
       <title>[Payloads] Garlic-Savemgr V1.15-Beta9</title>
@@ -795,18 +807,6 @@
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>PS5X360</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Np-Fake-Signin-Ps5</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>np-fake-signin</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Elf Arsenal V1.6.23</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>ELF_Arsenal</pubDate>
     </item>
     <item>
       <title>[Packages PKG] Ps5Pkg Ps5Webit-Nexgen999 Installer V1.00</title>
@@ -1148,7 +1148,7 @@
       <title>[ProsperoStore] Playden</title>
       <link>https://github.com/leolobato/playden-ps5</link>
       <description>Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.</description>
-      <pubDate>0.12.0-beta.2</pubDate>
+      <pubDate>0.12.0-beta.3</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PS5Term</title>
@@ -1202,7 +1202,7 @@
       <title>[ProsperoStore] PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.</description>
-      <pubDate>2.4.3</pubDate>
+      <pubDate>2.4.5</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Home5</title>
@@ -1322,7 +1322,7 @@
       <title>[ProsperoStore] Mediathek</title>
       <link>https://github.com/M0S4YSH3LL0/mediathek-ps5</link>
       <description>A Netflix-style movie and series library for your PS5.</description>
-      <pubDate>01.000.100</pubDate>
+      <pubDate>01.000.110</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PayLoader</title>
@@ -2335,8 +2335,8 @@
     <item>
       <title>[ProsperoStore] PS5 Backup Center</title>
       <link>https://github.com/consolecenterstudio/ps5-backup-center</link>
-      <description>Download games from a paired PS5, then install or transfer them. Back up, compare, sync and restore saves across PS5, USB, NAS and cloud. Manage PS5 apps, DLC, Switch and emulator saves.</description>
-      <pubDate>3.1.0</pubDate>
+      <description>Download, install, transfer and share games via BitTorrent and shared links. Manage libraries and back up, compare and restore saves across PS5, USB, NAS and cloud, from your TV or browser.</description>
+      <pubDate>3.2.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Arcade Gallery</title>

@@ -140,6 +140,20 @@
       "author": "heydemoura",
       "checksum": "986eb9bce653f4cc30864d897b9da151030f41423ba7d9b870a97d8155c89a1d",
       "source": "https://github.com/heydemoura/ps5-forwarder-manager"
+    },
+    {
+      "name": "PS5 Backup Center",
+      "filename": "PPSA99950.zip",
+      "url": "https://github.com/consolecenterstudio/ps5-backup-center/releases/download/v3.2.0/PPSA99950.zip",
+      "local_path": "downloads/apps/homebrew_page/tool/PPSA99950/3.2.0/PPSA99950.zip",
+      "description": "Download, install, transfer and share games via BitTorrent and shared links. Manage libraries and back up, compare and restore saves across PS5, USB, NAS and cloud, from your TV or browser.",
+      "version": "3.2.0",
+      "category": "Tools",
+      "kind": "tool",
+      "titleid": "PPSA99950",
+      "author": "Console Center Studio",
+      "checksum": "f8622c81291659bbf33948f8055f287e0bd075d3fd2ab98b277d33b2d5838378",
+      "source": "https://github.com/consolecenterstudio/ps5-backup-center"
     }
   ]
 }

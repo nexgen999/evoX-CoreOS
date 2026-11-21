@@ -4,15 +4,15 @@
     {
       "name": "Playden",
       "filename": "FAKE77031.zip",
-      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.12.0-beta.2/playden-ps5-0.12.0-beta.2.zip",
-      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.12.0-beta.2/FAKE77031.zip",
+      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.12.0-beta.3/playden-ps5-0.12.0-beta.3.zip",
+      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.12.0-beta.3/FAKE77031.zip",
       "description": "Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.",
-      "version": "0.12.0-beta.2",
+      "version": "0.12.0-beta.3",
       "category": "Apps",
       "kind": "app",
       "titleid": "FAKE77031",
       "author": "leolobato",
-      "checksum": "3420ff30328d825e24291ed0c027d6eb9e3b355f50147dd50a420c27afa87573",
+      "checksum": "1d64057d5f78e89a5edcea4e57d8edb4a51173f7c7b80d3ec1b5c36e24e2888a",
       "source": "https://github.com/leolobato/playden-ps5"
     },
     {
@@ -74,15 +74,15 @@
     {
       "name": "PC5",
       "filename": "PPSA11018.zip",
-      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.4.3/PPSA11018.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.4.3/PPSA11018.zip",
+      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.4.5/PPSA11018.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.4.5/PPSA11018.zip",
       "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.",
-      "version": "2.4.3",
+      "version": "2.4.5",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA11018",
       "author": "bornaradusin",
-      "checksum": "dbaaca34e158ecf3d13bcd72f398445b95ee00af13f9effdd1f9a6ca35854156",
+      "checksum": "58cd8d9aedb2751c475b1c1f1a38102752c7fd100db2b75558d4618147228d56",
       "source": "https://github.com/bornaradusin/PC5"
     },
     {
@@ -172,15 +172,15 @@
     {
       "name": "Mediathek",
       "filename": "PPSA66120.zip",
-      "url": "https://github.com/M0S4YSH3LL0/mediathek-ps5/releases/download/01.000.100/Mediathek-PPSA66120-01.000.100.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA66120/01.000.100/PPSA66120.zip",
+      "url": "https://github.com/M0S4YSH3LL0/mediathek-ps5/releases/download/01.000.110/Mediathek-PPSA66120-01.000.110.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA66120/01.000.110/PPSA66120.zip",
       "description": "A Netflix-style movie and series library for your PS5.",
-      "version": "01.000.100",
+      "version": "01.000.110",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA66120",
       "author": "m0",
-      "checksum": "36cae8ee9a7f0fbb4a8126ecc2b0f7c8aadf13b3c411e5e2aa9f3f5690adf8b9",
+      "checksum": "3816663d8dfe0d9c93ca636c468c765924cb40b297a731953bbf7ae4fc441c32",
       "source": "https://github.com/M0S4YSH3LL0/mediathek-ps5"
     },
     {
@@ -1386,20 +1386,6 @@
       "author": "MisterTemaki",
       "checksum": "071432ec2cba130390cb1d7ba0e15f60284934f46d1aa4d3749e3c44f3b09693",
       "source": "https://github.com/MisterTemaki/stellaPS5"
-    },
-    {
-      "name": "PS5 Backup Center",
-      "filename": "PPSA99950.zip",
-      "url": "https://github.com/consolecenterstudio/ps5-backup-center/releases/download/v3.1.0/PPSA99950.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99950/3.1.0/PPSA99950.zip",
-      "description": "Download games from a paired PS5, then install or transfer them. Back up, compare, sync and restore saves across PS5, USB, NAS and cloud. Manage PS5 apps, DLC, Switch and emulator saves.",
-      "version": "3.1.0",
-      "category": "Apps",
-      "kind": "app",
-      "titleid": "PPSA99950",
-      "author": "Console Center Studio",
-      "checksum": "7a716a89ce4d5a38bd2d5c46c2ecd81147e434154c05bf0d5a39c12b331a9568",
-      "source": "https://github.com/consolecenterstudio/ps5-backup-center"
     },
     {
       "name": "Arcade Gallery",

@@ -20,7 +20,7 @@
       <title>Playden</title>
       <link>https://github.com/leolobato/playden-ps5</link>
       <description>Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.</description>
-      <pubDate>0.12.0-beta.2</pubDate>
+      <pubDate>0.12.0-beta.3</pubDate>
     </item>
     <item>
       <title>PS5Term</title>
@@ -74,7 +74,7 @@
       <title>PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.</description>
-      <pubDate>2.4.3</pubDate>
+      <pubDate>2.4.5</pubDate>
     </item>
     <item>
       <title>Home5</title>
@@ -194,7 +194,7 @@
       <title>Mediathek</title>
       <link>https://github.com/M0S4YSH3LL0/mediathek-ps5</link>
       <description>A Netflix-style movie and series library for your PS5.</description>
-      <pubDate>01.000.100</pubDate>
+      <pubDate>01.000.110</pubDate>
     </item>
     <item>
       <title>PayLoader</title>
@@ -1207,8 +1207,8 @@
     <item>
       <title>PS5 Backup Center</title>
       <link>https://github.com/consolecenterstudio/ps5-backup-center</link>
-      <description>Download games from a paired PS5, then install or transfer them. Back up, compare, sync and restore saves across PS5, USB, NAS and cloud. Manage PS5 apps, DLC, Switch and emulator saves.</description>
-      <pubDate>3.1.0</pubDate>
+      <description>Download, install, transfer and share games via BitTorrent and shared links. Manage libraries and back up, compare and restore saves across PS5, USB, NAS and cloud, from your TV or browser.</description>
+      <pubDate>3.2.0</pubDate>
     </item>
     <item>
       <title>Arcade Gallery</title>

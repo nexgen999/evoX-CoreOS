@@ -2,14 +2,14 @@
   "name": "PS5 Overlay",
   "payloads": [
     {
-      "name": "Common Fps Ps5 V1.2.3",
-      "filename": "Common_FPS_PS5_v1.2.3.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.3/Common_FPS_PS5_v1.2.3.elf",
-      "local_path": "payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.3/Common_FPS_PS5_v1.2.3.elf",
+      "name": "Common Fps Ps5 V1.2.5",
+      "filename": "Common_FPS_PS5_v1.2.5.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.5/Common_FPS_PS5_v1.2.5.elf",
+      "local_path": "payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.5/Common_FPS_PS5_v1.2.5.elf",
       "description": "A lightweight, open-source real-time FPS counter for PlayStation 5.",
-      "version": "v1.2.3",
+      "version": "v1.2.5",
       "category": "PS5 Overlay",
-      "checksum": "bb74aa448952e9af4fb001f256f48b3b15fdedff88c2dec472ee9d16b20dbed5",
+      "checksum": "5aac58f0f705909aec773f74cbcbec8d56a517d8199a67ca46f205b2c83a5da6",
       "source": "https://github.com/porhe911/Common-FPS-for-PS5/releases"
     },
     {

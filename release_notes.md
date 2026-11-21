@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.20-1524)
+### 🚀 Synthèse de la mise à jour (v2026.11.21-0004)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -57,7 +57,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `kstuff-1.13-fpkg-dr-test5.elf`
   * `a53_ppr_install_1140_20.09.elf`
   * `a53_ppr_install_1160_20.09.elf`
-  * `Common_FPS_PS5_v1.2.3.elf`
+  * `Common_FPS_PS5_v1.2.5.elf`
   * `overlay_payload.elf`
   * `ps5-overlay-kus_v1.0.19.elf`
   * `BFpilot_v0.5.0.elf`
@@ -147,11 +147,14 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `etaHEN_v2.5B.bin`
   * `PS5_Unified_Autoloader_v0.1.7-abc3b82.elf`
   * `pldmgr_v0.6.3.elf`
-  * `Kura_v1.6.51.elf`
+  * `ELF_Arsenal_v1.6.23.elf`
+  * `Kura_v1.6.52.elf`
   * `PIZZA-HEN_v2.00.elf`
   * `onionHEN_v0.9.0.elf`
   * `etaHEN-2.6B.bin`
   * `ProsperoMgr.elf`
+  * `np-fake-signin-ps5.elf`
+  * `garlic-worker_v1.5.6.elf`
   * `savemnt-offset-dumper_v1.0.0.elf`
   * `web-file-mgr_v1.9.elf`
   * `web-file-mgr-v1.9.elf`
@@ -161,7 +164,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `web-file-mgr-v1.11b.elf`
   * `web-file-mgr-v1.13-rc2.elf`
   * `web-file-mgr-v1.11.elf`
-  * `garlic-worker_v1.5.6.elf`
   * `garlic-savemgr_v1.15-beta9.elf`
   * `zftpd-ps5-zhttp-v1.6.0.elf`
   * `zftpd-ps5-v1.6.0.elf`
@@ -175,8 +177,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5_overlay.elf`
   * `ps5_overlay_shellui.elf`
   * `PS5X360_v0.5.7.elf`
-  * `np-fake-signin-ps5.elf`
-  * `ELF_Arsenal_v1.6.23.elf`
 
 </details>
 

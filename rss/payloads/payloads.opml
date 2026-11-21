@@ -18,7 +18,7 @@
     <outline text="Kstuff-1.13-Fpkg-Dr-Test5" title="Kstuff-1.13-Fpkg-Dr-Test5" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/kstuff_Drakmor_Experimental/Source-Fixe/kstuff-1.13-fpkg-dr-test5.elf" description="Experimental Kstuff DrakMor - kstuff-1.13-fpkg-dr-test3"/>
     <outline text="A53 Ppr Install 1140 20.09" title="A53 Ppr Install 1140 20.09" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_1.00-11.40_Experimental_KS-D/Source-Fixe/a53_ppr_install_1140_20.09.elf" description="a53_ppr_install_1140_20.09.elf - support 1.00-11.40"/>
     <outline text="A53 Ppr Install 1160 20.09" title="A53 Ppr Install 1160 20.09" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Beta/A53_11.60_only_Experimental_KS-D/Source-Fixe/a53_ppr_install_1160_20.09.elf" description="a53_ppr_install_1160_20.09.elf - 11.60 only"/>
-    <outline text="Common Fps Ps5 V1.2.3" title="Common Fps Ps5 V1.2.3" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.3/Common_FPS_PS5_v1.2.3.elf" description="A lightweight, open-source real-time FPS counter for PlayStation 5."/>
+    <outline text="Common Fps Ps5 V1.2.5" title="Common Fps Ps5 V1.2.5" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.5/Common_FPS_PS5_v1.2.5.elf" description="A lightweight, open-source real-time FPS counter for PlayStation 5."/>
     <outline text="Overlay Payload" title="Overlay Payload" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.19/overlay_payload.elf" description="A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+)."/>
     <outline text="Ps5-Overlay-Kus V1.0.19" title="Ps5-Overlay-Kus V1.0.19" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/ps5-new-overlay/v1.0.19/ps5-overlay-kus_v1.0.19.elf" description="A lightweight, standalone hardware monitoring overlay for jailbroken PlayStation 5 consoles (FW 1.xx - 10.xx+)."/>
     <outline text="Bfpilot V0.5.0" title="Bfpilot V0.5.0" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
@@ -108,11 +108,14 @@
     <outline text="Etahen V2.5B" title="Etahen V2.5B" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/etaHEN/2.5B/etaHEN_v2.5B.bin" description="Le Homebrew Enabler (HEN) de référence pour la PS5 avec serveurs de triche, plugins et gestionnaire de mémoire intégrés."/>
     <outline text="Ps5 Unified Autoloader V0.1.7-Abc3B82" title="Ps5 Unified Autoloader V0.1.7-Abc3B82" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Unified_Autoloader/v0.1.7-abc3b82/PS5_Unified_Autoloader_v0.1.7-abc3b82.elf" description="Chargeur universel de payloads permettant de lancer automatiquement vos outils favoris au démarrage de l"/>
     <outline text="Pldmgr V0.6.3" title="Pldmgr V0.6.3" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PS5_Payload_Manager/v0.6.3/pldmgr_v0.6.3.elf" description="Interface d"/>
-    <outline text="Kura V1.6.51" title="Kura V1.6.51" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/Kura/v1.6.51/Kura_v1.6.51.elf" description="Un loader de payloads moderne et épuré conçu pour optimiser l"/>
+    <outline text="Elf Arsenal V1.6.23" title="Elf Arsenal V1.6.23" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf" description="Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées."/>
+    <outline text="Kura V1.6.52" title="Kura V1.6.52" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/Kura/v1.6.52/Kura_v1.6.52.elf" description="Un loader de payloads moderne et épuré conçu pour optimiser l"/>
     <outline text="Pizza-Hen V2.00" title="Pizza-Hen V2.00" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PIZZA-HEN/v2.00/PIZZA-HEN_v2.00.elf" description="PIZZA HEN is an experimental all-in-one PS5 homebrew environment."/>
     <outline text="Onionhen V0.9.0" title="Onionhen V0.9.0" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/onionHEN/v0.9.0/onionHEN_v0.9.0.elf" description="An all-in-one HEN and Toolbox for PlayStation 5."/>
     <outline text="Etahen-2.6B" title="Etahen-2.6B" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/etaHEN-Beta/Source-Fixe/etaHEN-2.6B.bin" description="etahen beta version experimental."/>
     <outline text="Prosperomgr" title="Prosperomgr" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/v1.2.1/ProsperoMgr.elf" description="A Web-Based All-In-One homebrew manager for your PlayStation 5"/>
+    <outline text="Np-Fake-Signin-Ps5" title="Np-Fake-Signin-Ps5" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf" description="Fake activate PS5 without PSN."/>
+    <outline text="Garlic-Worker V1.5.6" title="Garlic-Worker V1.5.6" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.5.6/garlic-worker_v1.5.6.elf" description="Garlic worker payload component."/>
     <outline text="Savemnt-Offset-Dumper V1.0.0" title="Savemnt-Offset-Dumper V1.0.0" type="rss" xmlUrl="https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf" description="Offset dumper for save mounting utilities."/>
     <outline text="Web-File-Mgr V1.9" title="Web-File-Mgr V1.9" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Web-File-Mgr-V1.9" title="Web-File-Mgr-V1.9" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
@@ -122,7 +125,6 @@
     <outline text="Web-File-Mgr-V1.11B" title="Web-File-Mgr-V1.11B" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Web-File-Mgr-V1.13-Rc2" title="Web-File-Mgr-V1.13-Rc2" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Web-File-Mgr-V1.11" title="Web-File-Mgr-V1.11" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
-    <outline text="Garlic-Worker V1.5.6" title="Garlic-Worker V1.5.6" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Garlic-Savemgr V1.15-Beta9" title="Garlic-Savemgr V1.15-Beta9" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Zftpd-Ps5-Zhttp-V1.6.0" title="Zftpd-Ps5-Zhttp-V1.6.0" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Zftpd-Ps5-V1.6.0" title="Zftpd-Ps5-V1.6.0" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
@@ -136,7 +138,5 @@
     <outline text="Ps5 Overlay" title="Ps5 Overlay" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Ps5 Overlay Shellui" title="Ps5 Overlay Shellui" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
     <outline text="Ps5X360 V0.5.7" title="Ps5X360 V0.5.7" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
-    <outline text="Np-Fake-Signin-Ps5" title="Np-Fake-Signin-Ps5" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
-    <outline text="Elf Arsenal V1.6.23" title="Elf Arsenal V1.6.23" type="rss" xmlUrl="" description="Récupéré depuis le stockage local (Interne / Fallback)"/>
   </body>
 </opml>

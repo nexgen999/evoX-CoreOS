@@ -1,5 +1,18 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 21/11/2026 à 00:04
+* **PAYLOADS**
+  * `Common Fps Ps5 V1.2.5` (v1.2.5) - *Nouveau*
+  * `Elf Arsenal V1.6.23` (v1.6.23) - *Mise à jour (Précédent: ELF_Arsenal)*
+  * `Kura V1.6.52` (v1.6.52) - *Nouveau*
+  * `Np-Fake-Signin-Ps5` (v1.4) - *Mise à jour (Précédent: np-fake-signin)*
+  * `Garlic-Worker V1.5.6` (v1.5.6) - *Mise à jour (Précédent: garlic-worker)*
+* **HOMEBREW_PAGE**
+  * `Playden` (0.12.0-beta.3) - *Mise à jour (Précédent: 0.12.0-beta.2)*
+  * `PC5` (2.4.5) - *Mise à jour (Précédent: 2.4.3)*
+  * `Mediathek` (01.000.110) - *Mise à jour (Précédent: 01.000.100)*
+  * `PS5 Backup Center` (3.2.0) - *Mise à jour (Précédent: 3.1.0)*
+
 ## Build du 20/11/2026 à 15:24
 * **PAYLOADS**
   * `Webkit-Autoloader-Installer V0.8.2` (v0.8.2) - *Nouveau*

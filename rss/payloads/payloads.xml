@@ -89,10 +89,10 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>Common Fps Ps5 V1.2.3</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.3/Common_FPS_PS5_v1.2.3.elf</link>
+      <title>Common Fps Ps5 V1.2.5</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.5/Common_FPS_PS5_v1.2.5.elf</link>
       <description>A lightweight, open-source real-time FPS counter for PlayStation 5.</description>
-      <pubDate>v1.2.3</pubDate>
+      <pubDate>v1.2.5</pubDate>
     </item>
     <item>
       <title>Overlay Payload</title>
@@ -629,10 +629,16 @@
       <pubDate>v0.6.3</pubDate>
     </item>
     <item>
-      <title>Kura V1.6.51</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/Kura/v1.6.51/Kura_v1.6.51.elf</link>
+      <title>Elf Arsenal V1.6.23</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf</link>
+      <description>Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées.</description>
+      <pubDate>v1.6.23</pubDate>
+    </item>
+    <item>
+      <title>Kura V1.6.52</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/Kura/v1.6.52/Kura_v1.6.52.elf</link>
       <description>Un loader de payloads moderne et épuré conçu pour optimiser l</description>
-      <pubDate>v1.6.51</pubDate>
+      <pubDate>v1.6.52</pubDate>
     </item>
     <item>
       <title>Pizza-Hen V2.00</title>
@@ -657,6 +663,18 @@
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ProsperoMgr/v1.2.1/ProsperoMgr.elf</link>
       <description>A Web-Based All-In-One homebrew manager for your PlayStation 5</description>
       <pubDate>v1.2.1</pubDate>
+    </item>
+    <item>
+      <title>Np-Fake-Signin-Ps5</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf</link>
+      <description>Fake activate PS5 without PSN.</description>
+      <pubDate>v1.4</pubDate>
+    </item>
+    <item>
+      <title>Garlic-Worker V1.5.6</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.5.6/garlic-worker_v1.5.6.elf</link>
+      <description>Garlic worker payload component.</description>
+      <pubDate>v1.5.6</pubDate>
     </item>
     <item>
       <title>Savemnt-Offset-Dumper V1.0.0</title>
@@ -711,12 +729,6 @@
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>ps5-web-file-manager</pubDate>
-    </item>
-    <item>
-      <title>Garlic-Worker V1.5.6</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>garlic-worker</pubDate>
     </item>
     <item>
       <title>Garlic-Savemgr V1.15-Beta9</title>
@@ -795,18 +807,6 @@
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>PS5X360</pubDate>
-    </item>
-    <item>
-      <title>Np-Fake-Signin-Ps5</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>np-fake-signin</pubDate>
-    </item>
-    <item>
-      <title>Elf Arsenal V1.6.23</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>ELF_Arsenal</pubDate>
     </item>
   </channel>
 </rss>
