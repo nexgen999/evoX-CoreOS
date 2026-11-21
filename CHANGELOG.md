@@ -1,5 +1,13 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 21/11/2026 à 14:35
+* **PAYLOADS**
+  * `Webkit-Autoloader-Installer V0.8.3` (v0.8.3) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `Home Screen Manager` (2.2.5) - *Mise à jour (Précédent: 2.2.3)*
+  * `RetroArch` (4.1.0-beta-4) - *Mise à jour (Précédent: 4.0.0-beta-4)*
+  * `Parallax Browser` (0.4.0) - *Mise à jour (Précédent: 0.3.0)*
+
 ## Build du 21/11/2026 à 05:52
 * **PAYLOADS**
   * `Kura V1.6.53` (v1.6.53) - *Nouveau*

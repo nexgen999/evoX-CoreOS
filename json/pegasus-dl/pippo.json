@@ -3,6 +3,114 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA18986",
+      "title": "The Legend of Heroes Trails through Daybreak Ultimate Edition",
+      "createdAt": "2026-11-21T11:24:06.389Z",
+      "version": "v01.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/aab78ef77463d9a6c03f7a52e45d93923c0bfed4e436159fc9c6dd22cb3b6538",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/e1600d6273da5754ff705b8a805b0088821075cafe5377112181f3c0aa76c750",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA18986, v01.002, USA, 4.xx and beyond\nSize: 35GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/uBip3kAR#DataNodes"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://link-vault.org/c/uBip3kAR#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/oUUxNHk4#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/oUUxNHk4#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/oUUxNHk4#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/oUUxNHk4#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/x0GQns8R#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/x0GQns8R#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/x0GQns8R#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/x0GQns8R#FileKeeper"
+        }
+      ],
+      "sizeBytes": 37580963840
+    },
+    {
+      "titleId": "PPSA07528",
+      "title": "Ys IX Monstrum Nox Deluxe Edition",
+      "createdAt": "2026-11-21T11:24:06.389Z",
+      "version": "v01.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/5c1f58a4f426451694d37c13db5729c10d8ee1ca88ddec66f2d41a958ede11f3",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/5c1f58a4f426451694d37c13db5729c10d8ee1ca88ddec66f2d41a958ede11f3",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA07528, v01.001, EUR, 4.xx BackPort\nSize: 9GB\nCredits: Files: Xan; Backport: DecKerr97 GUI; DLC: Pippo\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 5.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/JN_NCz01#DataNodes"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://link-vault.org/c/JN_NCz01#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/vVv081KP#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/vVv081KP#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/vVv081KP#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/vVv081KP#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/Kxea9fKL#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/Kxea9fKL#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/Kxea9fKL#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/Kxea9fKL#FileKeeper"
+        }
+      ],
+      "sizeBytes": 9663676416
+    },
+    {
       "titleId": "PPSA17775",
       "title": "Laika Aged Through Blood",
       "createdAt": "2026-11-20T10:12:35.550Z",

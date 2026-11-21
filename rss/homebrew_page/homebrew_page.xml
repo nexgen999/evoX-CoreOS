@@ -440,7 +440,7 @@
       <title>Home Screen Manager</title>
       <link>https://github.com/lazyboy6791/PS5HomeScreenManager</link>
       <description>It only does everything you want with your PS5 home screen. Create Folders, Wallpapers, Edit &amp; Modify App/Game Icons &amp; Backgrounds, Change App/Game Names, Hide Apps/Games, Rearrange Tiles and much mor</description>
-      <pubDate>2.2.3</pubDate>
+      <pubDate>2.2.5</pubDate>
     </item>
     <item>
       <title>PokeMMO Prospero</title>
@@ -674,7 +674,7 @@
       <title>RetroArch</title>
       <link>https://github.com/mihawk-99/PS5_RetroArch</link>
       <description>Native RetroArch port for PS5 with cores for NES, SNES, GBA, Genesis, arcade, PSP, GameCube/Wii and PS2.</description>
-      <pubDate>4.0.0-beta-4</pubDate>
+      <pubDate>4.1.0-beta-4</pubDate>
     </item>
     <item>
       <title>MihawkOS</title>
@@ -710,7 +710,7 @@
       <title>Parallax Browser</title>
       <link>https://github.com/rikleigh/parallax-browser</link>
       <description>A fast Web browser for the PS5 with WebGL, WebGPU, Gamepad API, hardware video decoding up to 8K, and PS VR2 video playback.</description>
-      <pubDate>0.3.0</pubDate>
+      <pubDate>0.4.0</pubDate>
     </item>
     <item>
       <title>Lost Odyssey</title>
