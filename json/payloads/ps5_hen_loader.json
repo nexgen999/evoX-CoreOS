@@ -35,17 +35,6 @@
       "source": "https://github.com/itsPLK/ps5-payload-manager/releases"
     },
     {
-      "name": "Elf Arsenal V1.6.23",
-      "filename": "ELF_Arsenal_v1.6.23.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf",
-      "local_path": "payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf",
-      "description": "Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées.",
-      "version": "v1.6.23",
-      "category": "PS5 HEN Loader",
-      "checksum": "20cdb0979ce627aff8e684a4506e18390a72492d5e3aa15ecef0bfe1bca08bb5",
-      "source": "https://git.etawen.dev/soniciso/elf-arsenal/releases"
-    },
-    {
       "name": "Kura V1.6.60",
       "filename": "Kura_v1.6.60.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/Kura/v1.6.60/Kura_v1.6.60.elf",

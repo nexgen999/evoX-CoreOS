@@ -3,6 +3,76 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA13245",
+      "title": "The Thaumaturge",
+      "createdAt": "2026-11-22T20:59:06.999Z",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA13245_41b81e37d0445380cfe5465e5b04ab98fd939893903aae6cd482d2398f09c8c3/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 9.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/the-thaumaturge-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 9.xx Base - Akirabox part 1",
+          "url": "https://akirabox.to/EL73gKkKy39B/file"
+        },
+        {
+          "name": "EUR 9.xx Base - Akirabox part 2",
+          "url": "https://akirabox.to/2WVGrvWv0Gkx/file"
+        },
+        {
+          "name": "EUR 9.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/11d5DE"
+        },
+        {
+          "name": "EUR 9.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/15ew4m"
+        },
+        {
+          "name": "EUR 9.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/Iusv9WIwDW"
+        },
+        {
+          "name": "EUR 9.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/DqGYwatEMi"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07433",
+      "title": "Age of Wonders 4",
+      "createdAt": "2026-11-22T20:59:06.999Z",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA07433_36a81d492221aa68e1a2ae472d51d9e5aaf437ee28982cc29a7e693ee0e7906e/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 6.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/age-of-wonders-4-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 6.xx Base - Akirabox part 1",
+          "url": "https://akirabox.to/QN9mEndnp36d/file"
+        },
+        {
+          "name": "EUR 6.xx Base - Akirabox part 2",
+          "url": "https://akirabox.to/M2BGwxLxDmj4/file"
+        },
+        {
+          "name": "EUR 6.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/2AHT2u"
+        },
+        {
+          "name": "EUR 6.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/26FcFU"
+        },
+        {
+          "name": "EUR 6.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/j3aQmF3nyB"
+        },
+        {
+          "name": "EUR 6.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/euFLsb3S5E"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA25670",
       "title": "Woodo",
       "createdAt": "2026-11-21T21:23:52.938Z",

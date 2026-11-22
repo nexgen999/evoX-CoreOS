@@ -72,6 +72,20 @@
             "source": "https://github.com/youss17x/Forgotten-Warrior-PS5"
         },
         {
+            "name": "EliVier Explorer",
+            "filename": "LAPY69432.zip",
+            "url": "https://github.com/Marice/ps5-elivier-explorer/releases/download/v00.001.000/LAPY69432.zip",
+            "local_path": "downloads/apps/homebrew_page/app/LAPY69432/00.001.000/LAPY69432.zip",
+            "description": "A dual-pane file explorer for the controller: copy, move and delete with a safety net, and viewers for text, pictures (also DDS), hex and MP3 with playlists.",
+            "version": "00.001.000",
+            "category": "Apps",
+            "kind": "app",
+            "titleid": "LAPY69432",
+            "author": "Marice",
+            "checksum": "9be9f31f79f90a0fb3363ee35ff9961c7ead5d434b61ebd1d80ed3758fa85165",
+            "source": "https://github.com/Marice/ps5-elivier-explorer"
+        },
+        {
             "name": "Navi5",
             "filename": "NAVI00001.zip",
             "url": "https://github.com/willindiana/navi5/releases/download/v0.8.0-beta.1/Navi5-00.008.000.zip",
@@ -158,15 +172,15 @@
         {
             "name": "PC5",
             "filename": "PPSA11018.zip",
-            "url": "https://github.com/bornaradusin/PC5/releases/download/v2.4.6/PPSA11018.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.4.6/PPSA11018.zip",
+            "url": "https://github.com/bornaradusin/PC5/releases/download/v2.4.7/PPSA11018.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.4.7/PPSA11018.zip",
             "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.",
-            "version": "2.4.6",
+            "version": "2.4.7",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA11018",
             "author": "bornaradusin",
-            "checksum": "cf4aca9285d338dbc406050fd6945549dc925b6783339a34baa05ebb4396d230",
+            "checksum": "fda2b173f994be5063495b46534ee07f30a289611ac343a4169e02ca6b85237c",
             "source": "https://github.com/bornaradusin/PC5"
         },
         {
@@ -354,15 +368,15 @@
         {
             "name": "ProsperoSunshine",
             "filename": "PPSA47989.zip",
-            "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.6.7-beta.1/PPSA47989.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.6.7-beta.1/PPSA47989.zip",
+            "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.6.7-beta.2/PPSA47989.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.6.7-beta.2/PPSA47989.zip",
             "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.",
-            "version": "0.6.7-beta.1",
+            "version": "0.6.7-beta.2",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA47989",
             "author": "Darkatek7",
-            "checksum": "1cc54e3b6ae087c864bbc07af8e5671d6d970fc19c08a177b58b3ce1147c84cd",
+            "checksum": "abdb04e79ec6a59f713dc13fde76a8e99277d7e42e236636aaa650c8540b15ce",
             "source": "https://github.com/Darkatek7/ProsperoSunshine"
         },
         {
@@ -406,6 +420,20 @@
             "author": "Richie133",
             "checksum": "b3bd749cd3bd2c4df9cbb5e1c86a73844acf878ba5f41cbc070bd7b28e77b1d3",
             "source": "https://github.com/Richie133/fceuxs5"
+        },
+        {
+            "name": "KamTape for PS5",
+            "filename": "PPSA52005.zip",
+            "url": "https://github.com/Richie133/Kamtape-PS5/releases/download/v0.2.0-beta/PPSA52005.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA52005/0.2.0-beta/PPSA52005.zip",
+            "description": "Kamtape is a retro YouTube clone. Now on ps5",
+            "version": "0.2.0-beta",
+            "category": "Apps",
+            "kind": "app",
+            "titleid": "PPSA52005",
+            "author": "Richie133",
+            "checksum": "3847314fc35f3c879beecf5b5d98c3e26560ca577e56daa1802d0e28363a32d5",
+            "source": "https://github.com/Richie133/Kamtape-PS5"
         },
         {
             "name": "ccleste",
@@ -830,15 +858,15 @@
         {
             "name": "Pokémon Prosperous Platinum",
             "filename": "PPSA92008.zip",
-            "url": "https://github.com/cybervisi0n/pokeplatinum/releases/download/v0.2.3/release_ps5.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA92008/0.2.3/PPSA92008.zip",
+            "url": "https://github.com/cybervisi0n/pokeplatinum/releases/download/v0.2.4/release_ps5.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA92008/0.2.4/PPSA92008.zip",
             "description": "Pokémon Platinum decomp port for the PS5",
-            "version": "0.2.3",
+            "version": "0.2.4",
             "category": "Games",
             "kind": "game",
             "titleid": "PPSA92008",
             "author": "cybervisi0n",
-            "checksum": "d9a390c0eb64c69fcf0e35d06163e4f4def80dcd6f4f7f432de6ad648f95f1e9",
+            "checksum": "67d5e99a12bae64aa2de647e456c5a096d200e93bbf5ee16ec7781bba5dd217c",
             "source": "https://github.com/cybervisi0n/pokeplatinum"
         },
         {
@@ -1054,15 +1082,15 @@
         {
             "name": "PokeMMO Prospero",
             "filename": "PPSA98001.zip",
-            "url": "https://github.com/Shabbypenguin/PokeMMO-Prospero/releases/download/v1.0.2/PPSA98001.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA98001/1.0.2/PPSA98001.zip",
+            "url": "https://github.com/Shabbypenguin/PokeMMO-Prospero/releases/download/v1.0.5/PPSA98001.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA98001/1.0.5/PPSA98001.zip",
             "description": "Runs the official, unmodified PokeMMO Linux client natively on a jailbroken PS5.",
-            "version": "1.0.2",
+            "version": "1.0.5",
             "category": "Games",
             "kind": "game",
             "titleid": "PPSA98001",
             "author": "Shabbypenguin",
-            "checksum": "1927587707eee86681677fb2ddadcc53c5be0c4f1696da41ad11d92dbc42662e",
+            "checksum": "4bb71f9839b7e01afbd0d612deb921d3df3dbc09558aa7c42bcd5d2148c7bc04",
             "source": "https://github.com/Shabbypenguin/PokeMMO-Prospero"
         },
         {
@@ -1334,15 +1362,15 @@
         {
             "name": "Second Coat: London",
             "filename": "PPSA99020.zip",
-            "url": "https://github.com/SecondCoat/second-coat-london/releases/download/v0.4.2/getaway-ps5-PPSA99020.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA99020/0.4.2/PPSA99020.zip",
+            "url": "https://github.com/SecondCoat/second-coat-london/releases/download/v0.5.0/getaway-ps5-PPSA99020.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA99020/0.5.0/PPSA99020.zip",
             "description": "The Getaway (PS2) remastered with modern graphics, reworked controls and driving, mods and online free roam; you bring your own disc image.",
-            "version": "0.4.2",
+            "version": "0.5.0",
             "category": "Games",
             "kind": "game",
             "titleid": "PPSA99020",
             "author": "Second Coat",
-            "checksum": "4cd22854c3e9b1d25bd298002b98d619c2ba40461b9a8820a5a7d6df223b2912",
+            "checksum": "225f1c895174f0a8cc17d3279e748eeab90be278016e17c927c940811e2b4f11",
             "source": "https://github.com/SecondCoat/second-coat-london"
         },
         {
@@ -1754,15 +1782,15 @@
         {
             "name": "Crux2",
             "filename": "PPSA99249.zip",
-            "url": "https://github.com/Press5elect/Crux2/releases/download/v1.0.22/Crux2-v1.0.22.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99249/v1.0.22/PPSA99249.zip",
+            "url": "https://github.com/Press5elect/Crux2/releases/download/v1.0.23/Crux2-v1.0.23.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99249/v1.0.23/PPSA99249.zip",
             "description": "PCSX2 (PlayStation 2) as a standalone PS5 title on RADV, with a controller-first Big Picture library, network shares, USB disc drives and RetroAchievements.",
-            "version": "v1.0.22",
+            "version": "v1.0.23",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99249",
             "author": "Press5elect",
-            "checksum": "501283ce83748daf42423417e78d3f806eea55176f24c0ff1611a895e93b1759",
+            "checksum": "ef2bf8832624ddd45f5a0570f996f10188540307ca50edd1be08e65662a5310a",
             "source": "https://github.com/Press5elect/Crux2"
         },
         {
@@ -2342,15 +2370,15 @@
         {
             "name": "Alembic",
             "filename": "PPSA99594.zip",
-            "url": "https://github.com/fthdgn-gh/Alembic/releases/download/v0.7.0/alembic-app-v0.7.0.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99594/0.7.0/PPSA99594.zip",
+            "url": "https://github.com/fthdgn-gh/Alembic/releases/download/v0.7.1/alembic-app-v0.7.1.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99594/0.7.1/PPSA99594.zip",
             "description": "Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC, also on SMB, NFS, WebDAV and FTP servers.",
-            "version": "0.7.0",
+            "version": "0.7.1",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99594",
             "author": "Fatih Doğan",
-            "checksum": "41d7899a6f986abdb5e5c0483b5d6f9e3e6f69c989b2031c832d58061970a6f1",
+            "checksum": "7db0c4182ed7f585a60b140096cf20e4165b91f92f1fd146d8fc46f7bfd4cf28",
             "source": "https://github.com/fthdgn-gh/Alembic"
         },
         {
@@ -2650,15 +2678,15 @@
         {
             "name": "Photo Splat VR",
             "filename": "PPSA99770.zip",
-            "url": "https://github.com/Papyszoo/photo-splat-vr/releases/download/v0.6.0/photo-splat-vr-v0.6.0.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99770/0.6.0/PPSA99770.zip",
+            "url": "https://github.com/Papyszoo/photo-splat-vr/releases/download/v0.6.1/photo-splat-vr-v0.6.1.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99770/0.6.1/PPSA99770.zip",
             "description": "Turns your photos into 3D Gaussian splat scenes on the console and lets you view them in PSVR2. Works offline; photos and scenes can also live on SMB or NFS shares.",
-            "version": "0.6.0",
+            "version": "0.6.1",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99770",
             "author": "Papyszoo",
-            "checksum": "f085419db0d2d0f94998b3b89a1d96a681aa5f8fede2646ed7b2c39c2d16f67c",
+            "checksum": "f755df34a9f815deed9f05dd304ec309bf34eb4a95305d6c82a5a0af1aeea78c",
             "source": "https://github.com/Papyszoo/photo-splat-vr"
         },
         {
@@ -2966,7 +2994,7 @@
             "kind": "app",
             "titleid": "PRWB00001",
             "author": "kvaps",
-            "checksum": "e73f186b53c653490f322f98f263a671b97e96e42c8b1cbb704c613e2f5b9688",
+            "checksum": "a911392997fd7e15d4e5a042d07400a3206235cc28a7f3b0e112fa0a42c138f5",
             "source": "https://github.com/kvaps/ProsperoWeb"
         },
         {

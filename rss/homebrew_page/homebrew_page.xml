@@ -35,6 +35,12 @@
       <pubDate>1.3.0</pubDate>
     </item>
     <item>
+      <title>EliVier Explorer</title>
+      <link>https://github.com/Marice/ps5-elivier-explorer</link>
+      <description>A dual-pane file explorer for the controller: copy, move and delete with a safety net, and viewers for text, pictures (also DDS), hex and MP3 with playlists.</description>
+      <pubDate>00.001.000</pubDate>
+    </item>
+    <item>
       <title>Navi5</title>
       <link>https://github.com/willindiana/navi5</link>
       <description>Navidrome/OpenSubsonic music client for jailbroken PS5, featuring a minimalist liquid-glass UI, artist, album and playlist browsing, search, and gapless playback.</description>
@@ -74,7 +80,7 @@
       <title>PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.</description>
-      <pubDate>2.4.6</pubDate>
+      <pubDate>2.4.7</pubDate>
     </item>
     <item>
       <title>Home5</title>
@@ -158,7 +164,7 @@
       <title>ProsperoSunshine</title>
       <link>https://github.com/Darkatek7/ProsperoSunshine</link>
       <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.</description>
-      <pubDate>0.6.7-beta.1</pubDate>
+      <pubDate>0.6.7-beta.2</pubDate>
     </item>
     <item>
       <title>SudokuZen</title>
@@ -177,6 +183,12 @@
       <link>https://github.com/Richie133/fceuxs5</link>
       <description>Nes emulator for ps5. Based on fceux</description>
       <pubDate>01.001.000</pubDate>
+    </item>
+    <item>
+      <title>KamTape for PS5</title>
+      <link>https://github.com/Richie133/Kamtape-PS5</link>
+      <description>Kamtape is a retro YouTube clone. Now on ps5</description>
+      <pubDate>0.2.0-beta</pubDate>
     </item>
     <item>
       <title>ccleste</title>
@@ -362,7 +374,7 @@
       <title>Pokémon Prosperous Platinum</title>
       <link>https://github.com/cybervisi0n/pokeplatinum</link>
       <description>Pokémon Platinum decomp port for the PS5</description>
-      <pubDate>0.2.3</pubDate>
+      <pubDate>0.2.4</pubDate>
     </item>
     <item>
       <title>Dungeon Crawl Stone Soup</title>
@@ -458,7 +470,7 @@
       <title>PokeMMO Prospero</title>
       <link>https://github.com/Shabbypenguin/PokeMMO-Prospero</link>
       <description>Runs the official, unmodified PokeMMO Linux client natively on a jailbroken PS5.</description>
-      <pubDate>1.0.2</pubDate>
+      <pubDate>1.0.5</pubDate>
     </item>
     <item>
       <title>TubeBlock</title>
@@ -578,7 +590,7 @@
       <title>Second Coat: London</title>
       <link>https://github.com/SecondCoat/second-coat-london</link>
       <description>The Getaway (PS2) remastered with modern graphics, reworked controls and driving, mods and online free roam; you bring your own disc image.</description>
-      <pubDate>0.4.2</pubDate>
+      <pubDate>0.5.0</pubDate>
     </item>
     <item>
       <title>reSOT (Prince of Persia: The Sands of Time)</title>
@@ -758,7 +770,7 @@
       <title>Crux2</title>
       <link>https://github.com/Press5elect/Crux2</link>
       <description>PCSX2 (PlayStation 2) as a standalone PS5 title on RADV, with a controller-first Big Picture library, network shares, USB disc drives and RetroAchievements.</description>
-      <pubDate>v1.0.22</pubDate>
+      <pubDate>v1.0.23</pubDate>
     </item>
     <item>
       <title>OGBox</title>
@@ -1010,7 +1022,7 @@
       <title>Alembic</title>
       <link>https://github.com/fthdgn-gh/Alembic</link>
       <description>Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC, also on SMB, NFS, WebDAV and FTP servers.</description>
-      <pubDate>0.7.0</pubDate>
+      <pubDate>0.7.1</pubDate>
     </item>
     <item>
       <title>Cloud Play</title>
@@ -1142,7 +1154,7 @@
       <title>Photo Splat VR</title>
       <link>https://github.com/Papyszoo/photo-splat-vr</link>
       <description>Turns your photos into 3D Gaussian splat scenes on the console and lets you view them in PSVR2. Works offline; photos and scenes can also live on SMB or NFS shares.</description>
-      <pubDate>0.6.0</pubDate>
+      <pubDate>0.6.1</pubDate>
     </item>
     <item>
       <title>PShare</title>

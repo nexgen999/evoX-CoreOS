@@ -452,15 +452,15 @@
     {
       "name": "Pokémon Prosperous Platinum",
       "filename": "PPSA92008.zip",
-      "url": "https://github.com/cybervisi0n/pokeplatinum/releases/download/v0.2.3/release_ps5.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA92008/0.2.3/PPSA92008.zip",
+      "url": "https://github.com/cybervisi0n/pokeplatinum/releases/download/v0.2.4/release_ps5.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA92008/0.2.4/PPSA92008.zip",
       "description": "Pokémon Platinum decomp port for the PS5",
-      "version": "0.2.3",
+      "version": "0.2.4",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA92008",
       "author": "cybervisi0n",
-      "checksum": "d9a390c0eb64c69fcf0e35d06163e4f4def80dcd6f4f7f432de6ad648f95f1e9",
+      "checksum": "67d5e99a12bae64aa2de647e456c5a096d200e93bbf5ee16ec7781bba5dd217c",
       "source": "https://github.com/cybervisi0n/pokeplatinum"
     },
     {
@@ -578,15 +578,15 @@
     {
       "name": "PokeMMO Prospero",
       "filename": "PPSA98001.zip",
-      "url": "https://github.com/Shabbypenguin/PokeMMO-Prospero/releases/download/v1.0.2/PPSA98001.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA98001/1.0.2/PPSA98001.zip",
+      "url": "https://github.com/Shabbypenguin/PokeMMO-Prospero/releases/download/v1.0.5/PPSA98001.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA98001/1.0.5/PPSA98001.zip",
       "description": "Runs the official, unmodified PokeMMO Linux client natively on a jailbroken PS5.",
-      "version": "1.0.2",
+      "version": "1.0.5",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA98001",
       "author": "Shabbypenguin",
-      "checksum": "1927587707eee86681677fb2ddadcc53c5be0c4f1696da41ad11d92dbc42662e",
+      "checksum": "4bb71f9839b7e01afbd0d612deb921d3df3dbc09558aa7c42bcd5d2148c7bc04",
       "source": "https://github.com/Shabbypenguin/PokeMMO-Prospero"
     },
     {
@@ -662,15 +662,15 @@
     {
       "name": "Second Coat: London",
       "filename": "PPSA99020.zip",
-      "url": "https://github.com/SecondCoat/second-coat-london/releases/download/v0.4.2/getaway-ps5-PPSA99020.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99020/0.4.2/PPSA99020.zip",
+      "url": "https://github.com/SecondCoat/second-coat-london/releases/download/v0.5.0/getaway-ps5-PPSA99020.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99020/0.5.0/PPSA99020.zip",
       "description": "The Getaway (PS2) remastered with modern graphics, reworked controls and driving, mods and online free roam; you bring your own disc image.",
-      "version": "0.4.2",
+      "version": "0.5.0",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99020",
       "author": "Second Coat",
-      "checksum": "4cd22854c3e9b1d25bd298002b98d619c2ba40461b9a8820a5a7d6df223b2912",
+      "checksum": "225f1c895174f0a8cc17d3279e748eeab90be278016e17c927c940811e2b4f11",
       "source": "https://github.com/SecondCoat/second-coat-london"
     },
     {

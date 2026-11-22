@@ -3,6 +3,514 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA03055",
+      "title": "Tunic",
+      "createdAt": "2026-11-22T18:53:47.252Z",
+      "version": "1.000.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/285b70aa547594f983e9a603fb11ae5dfa1d05afe8fae4cae6c6a368e50b1874",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/285b70aa547594f983e9a603fb11ae5dfa1d05afe8fae4cae6c6a368e50b1874",
+      "description": "Format: Folder\nExplore a land filled with lost legends, ancient powers, and ferocious monsters in TUNIC, an isometric action game about a small fox on a big adventure. Stranded in a ruined land, and armed with only your own curiosity, you will confront colossal beasts, collect strange and powerful items, and unravel long-lost secrets. BECOME A LEGEND Stories say that a great treasure is hidden somewhere in this land. Perhaps it lies beyond the golden door? Or somewhere deep beneath the earth? Some tales tell of a palace high above the clouds, and of ancient beings with incredible power. What will you find? REBUILD A SACRED BOOK During your travels, you’ll reconstruct the game’s Instruction Manual. Page by page, you’ll reveal maps, tips, special techniques, and the deepest of secrets. If you find every last one, maybe something good will happen... BE COURAGEOUS, LITTLE ONE! Dive into varied, technical combat. Dodge, block, parry, and strike! Learn how to conquer a wide cast of monsters, big and small — and discover useful new items to help you on your way. - Explore a hostile and intricately-connected world of shady forests, sprawling ruins, and labyrinthine catacombs - Fight mighty bosses deep beneath the earth, high above the clouds, and in places stranger still - Collect the missing manual pages, bursting with hints and original full-colour illustrations - Discover hidden treasures to help you on your way - Unearth secret relics, secret techniques, secret puzzles, and… listen, there’s a lot of secrets! - Featuring sound design by Power Up Audio - An original soundtrack by Lifeformed\nRegion: EUR\nFirmware: 5.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: Thank you, Niall!\nUpdated: 2026-11-22T18:37:53.156Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/h2trnyxyf8m4"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/tM4BAjYjrv"
+        }
+      ],
+      "sizeBytes": 3081639035
+    },
+    {
+      "titleId": "PPSA06655",
+      "title": "The Stanley Parable: Ultra Deluxe",
+      "createdAt": "2026-11-22T18:53:47.252Z",
+      "version": "1.050",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/85c75bb01d62ae6648db3c39fe6b5303335547a4ce334fa2b5e0d0e1ed491556",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/85c75bb01d62ae6648db3c39fe6b5303335547a4ce334fa2b5e0d0e1ed491556",
+      "description": "Format: Folder\nYou will play as Stanley, and you will not play as Stanley. You will make a choice, and you will have your choices taken from you. The game will end, the game will never end. Contradiction follows contradiction, the rules of how games should work are broken, then broken again. You are not here to win. The Stanley Parable is a game that plays you. What's New? The Stanley Parable: Ultra Deluxe is an expanded re-imagining of the critically acclaimed, award winning indie game The Stanley Parable from 2013. Everything that was in the original Stanley Parable is here, preserved just like it was back in 2013. But The Stanley Parable: Ultra Deluxe also dramatically expands the world of the original game with new content, new choices, and new secrets to uncover. The labyrinth has just gotten bigger. In addition, the game has been visually upgraded to reflect modern technology while faithfully preserving the tone of the original game. Accessibility features have also been added to the game, including localization of in-world text, colorblind options, and content warnings. And just as before, the impeccable voicework of Kevan Brighting will accompany you every step of the way. In The Stanley Parable: Ultra Deluxe, everything you remember has been recreated, yet it's different somehow. We've been here before, haven't we? Is Stanley still the same as he was back then? Or is it you who has changed?\nRegion: EUR\nFirmware: 4.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: Press X a lot of times on a door, and you'll begin a trophy hunt for clicks :&gt;\nCredits: Thank you, Niall!\nUpdated: 2026-11-22T18:36:05.556Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/4192dea32c7z"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/keoRiXM97y"
+        }
+      ],
+      "sizeBytes": 6163278070
+    },
+    {
+      "titleId": "PPSA28158",
+      "title": "Spiritfall",
+      "createdAt": "2026-11-22T18:53:47.252Z",
+      "version": "1.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/93cd80aaad4240d025dd33f2f21ade835d4d084e8bcf1a7a776ac720856b6c2d",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/93cd80aaad4240d025dd33f2f21ade835d4d084e8bcf1a7a776ac720856b6c2d",
+      "description": "Format: Folder\nSpiritfall is a fast-paced Action Roguelite with combat inspired by Platform Fighters. Slash, smash, launch, and wall-splat a multitude of enemies using an ever-changing arsenal of divine powers. A PLATFORM FIGHTER ROGUELIKE Spiritfall combines tight Platform Fighter combat, smooth movement, and Roguelite mechanics into one! Trek across dangerous lands, string together deadly combos to fend off swarms of enemies, and harness an ever-changing set of powers through a randomly generated map. DIVINE SYNERGIES AWAIT The divine spirits offer powerful blessings that enhance your abilities in combat. Discover your favorite abilities, and experiment with different builds. With over 150+ blessings to choose from, these gifts allow for a range of tactical approaches that encourage you to find synergies that fit your playstyle. GROW STRONGER FROM DEFEAT Death is but a temporary setback. Reawaken stronger than before at the Sanctum and continue your adventure. Use the resources you gathered to upgrade your skills, unlock unique powers, and awaken mighty weapons with unique movesets.\nRegion: EUR\nFirmware: 10.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: Thank you, Niall!\nUpdated: 2026-11-22T18:33:13.443Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/o3iv2fdm6hje"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/l2XB5cLq9N"
+        }
+      ],
+      "sizeBytes": 8031588844
+    },
+    {
+      "titleId": "PPSA10596",
+      "title": "Ragnarock",
+      "createdAt": "2026-11-22T18:53:47.252Z",
+      "version": "2.008",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/212a4d33908d3aab65c09e0327d4ee8fca66c4862358c7cb25f322533726a0d7",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/212a4d33908d3aab65c09e0327d4ee8fca66c4862358c7cb25f322533726a0d7",
+      "description": "Format: Folder\nLead your viking ship to victory in this VR rhythm game! Pound your drums to the sound of epic music, from celtic rock to viking power metal, and set sail against your rivals in multiplayer mode. Will you outrace them all and carve your name on top of the leaderboard? Are you ready to rock? Ragnarock is a solo/multiplayer VR rhythm game in which you play a viking captain competing in a longship race. With your two hammers, crush the incoming runes in sync with epic viking music. Ragnarock is easy to play, hard to master. Only the most experienced players will be able to collect all the gold medals, beat the high scores and sign their name on the leaderboard! - VIKING MUSIC: Unleash the drummer in you and play to the epic rock and metal tracks of Alestorm, Gloryhammer, Saltatio Mortis, Wind Rose and many more! - MULTIPLAYER MODE (up to 6 players): Beat them all to finish in first place! In solo, you can also race against ghost ships to add some competition. - MYTHOLOGICAL ENVIRONMENTS: Travel through stylized environments inspired by norse mythology.\nRegion: EUR\nFirmware: 9.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: PSVR2 Required This game's hard. I recommend to play standing up!\nCredits: Thank you, Niall!\nUpdated: 2026-11-22T18:31:53.921Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/tfmp5cd2xd70"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/8c7tfLsDAM"
+        }
+      ],
+      "sizeBytes": 4606352425
+    },
+    {
+      "titleId": "PPSA14218",
+      "title": "Puzzling Places",
+      "createdAt": "2026-11-22T18:53:47.252Z",
+      "version": "2.013.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/9ac1fd98d73a4c1140ffc74c2963bba29b9a3f207d0f88e42d81e51381ddaa4a",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/9ac1fd98d73a4c1140ffc74c2963bba29b9a3f207d0f88e42d81e51381ddaa4a",
+      "description": "Format: Folder\nPuzzling Places brings relaxing and wholesome 3D jigsaw puzzling to VR. Put together hyper-realistic miniatures of beautiful places from around the globe. Enter the meditative flow of puzzling and enjoy each place coming alive with their unique &amp; immersive soundscapes as you complete them. Puzzling Places is a modern take on an age-old pastime that’s fun for the whole family thanks to its simple gameplay and easy controls. The game features 25+ unique puzzles created from detailed photogrammetry 3D scans of real locations. Each puzzle is available in 25, 50, 100, 200 &amp; 400 pieces! City of Biarritz 3 puzzles of the picturesque French Atlantic coast Cultural Heritage of Armenia 5 puzzles of Monasteries, Fortresses and Temples from Armenia The Hallwyl Museum 4 rooms from inside a palatial residence in Stockholm The Mars Desert Research Station 4 puzzles of a remote research station simulating life on Mars Single Puzzles 4 puzzles from traditional Japanese garb to a city in the sea If you already own the PlayStation®VR version of this game, you can get the PlayStation®VR2 digital version at no extra cost and you do not need to purchase this product. Owners of a PlayStation®VR disc copy must insert it into the PS5™ every time they want to download or play the PlayStation®VR2 digital version. PlayStation®VR game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PlayStation®VR2 version at no extra cost.\nRegion: EUR\nFirmware: 9.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: PSVR2 Required\nCredits: Thank you, Niall!\nUpdated: 2026-11-22T18:29:37.379Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/ouwpaoz0nm14"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/VOJPGTKrla"
+        }
+      ],
+      "sizeBytes": 10962904023
+    },
+    {
+      "titleId": "PPSA09461",
+      "title": "Paper Beast Enhanced Edition",
+      "createdAt": "2026-11-22T18:53:47.252Z",
+      "version": "1.0",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e13693a77e117a44eff535fd03a718964130747b4057176fedccce06a79ca88d",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/e13693a77e117a44eff535fd03a718964130747b4057176fedccce06a79ca88d",
+      "description": "Format: Folder\nExperience a dreamlike odyssey in virtual reality. Discover a wild ecosystem, born from lost Internet data. AN EXTRAORDINARY ADVENTURE Be the first to explore a world inhabited by exotic and surprising creatures, and shape your environment to overcome obstacles and puzzles. Unravel the mysteries of Paper Beast, a game born from the imagination of Eric Chahi (Another World, From Dust). AN IMMERSIVE SANDBOX In this second game mode, give free rein to your creativity in an experimental space. Shape the terrain, play with the weather and have fun with the plants and creatures. Create hills of sand, make the wind blow or freeze the lakes. Let your imagination guide you! Play with the consequences. The creatures and the environment are simulated in real time, allowing for an unparalleled flow of interaction.\nRegion: EUR\nFirmware: 6.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: PSVR2 Required\nCredits: Thank you, Niall!\nUpdated: 2026-11-22T18:27:34.290Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/2t46ri1ekg7l"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/S7KtPD4Jsb"
+        }
+      ],
+      "sizeBytes": 5336496865
+    },
+    {
+      "titleId": "PPSA25414",
+      "title": "Nine Sols",
+      "createdAt": "2026-11-22T18:53:47.252Z",
+      "version": "1.600",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/360cc1ab79d29757ee422ee5dee7cab965170ed80d6dcd0058a5285594880cc8",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/360cc1ab79d29757ee422ee5dee7cab965170ed80d6dcd0058a5285594880cc8",
+      "description": "Format: Folder\nPS4™ダウンロード版とPS5™ダウンロード版の両方をダウンロードできるタイトルです。 《九日 ナインソール》は道教をベースにしたSFファンタジーに、古代中国神話を融合させた2Dプラットフォーム型アクションアドベンチャーゲームです。敵の攻撃をかわす弾きをはじめとするスピード感溢れるバトルに、オリジナル要素であるタオ（道教）パンクやアナログ風のグラフィックを組み合わせることで、独自の世界観を描き出します。 •タオ（道）と科学 「タオパンク (Tao-punk)」の世界・新崑崙に設定された『九日ナインソール』は、東洋の神話とサイバーパンクの美学を融合しています。豊かな世界観に加え、プレイヤーを引き込むストーリーも楽しめます。英雄・羿の足跡をたどり、新崑崙で『復讐』から『道―タオ―』へと至る王討伐の旅路へと進んでいきます。 •パリィを中心とした戦闘体験 攻撃とパリィを高速で切り替える戦闘を重心に、パリィでエネルギーを蓄えながら、「気」を込めた呪符で敵を爆発させ、独自の戦闘リズムを生み出します。空中ダッシュ、二段ジャンプ、壁登りといった伝統的な2Dアクション操作を組み合わせ、スムーズな戦闘を作り出します。武術、道教の方術、そして羿の弓を駆使して戦場を制圧しに行きましょう。 •強大な九人の太陽を一つずつ撃ち落とす 危険な古代支配者や凶暴な変異生命体と戦う準備をしなければなりません。ボス戦はすべて、戦闘スキルを限界まで試されるものです。正確に操作しなければ、恐るべき古代の神々を一体ずつ倒すことはできません。 •アナログ風と手描きアニメーション ゲーム中の背景、アニメーション、漫画演出はすべて手描きで表現されており、クラシックな日本アニメや漫画のスタイルを参考にし、フレームごとに丁寧に描かれた独特なビジュアルを展開しています。『九日ナインソール』は、豊富な美術的ディテールを通じて、驚異的なシーンや演出を構築しています。 •未知の世界を自由に探索 新崑崙の広大な地には、各エリアに個性豊かな環境と建物があり、通路でエリア同士がつながっています。各ステージには秘密や宝物が隠されていますが、敵や罠も仕掛けられているため、報酬を手に入れるには危険を冒さなければなりません。\nRegion: EUR\nFirmware: 9.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: Thank you, Niall!\nUpdated: 2026-11-22T18:25:39.923Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/pr44q2f3nn7t"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/OPzIO1rZwu"
+        }
+      ],
+      "sizeBytes": 28701118956
+    },
+    {
+      "titleId": "PPSA09865",
+      "title": "Neon White",
+      "createdAt": "2026-11-22T18:53:47.252Z",
+      "version": "1.005",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/c1a02fdffa5ffd4e074668424f947d3f97d37b04771c80d28b7f4b2dd342a016",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/c1a02fdffa5ffd4e074668424f947d3f97d37b04771c80d28b7f4b2dd342a016",
+      "description": "Format: Folder\nNeon White is a lightning fast first-person action game about exterminating demons in Heaven. You are White, an assassin handpicked from Hell to compete with other demon slayers for a chance to live permanently in Heaven. The other assassins seem familiar, though… did you know them in a past life? - You play as Neon White, an assassin plucked from Hell to compete with other demon slayers for a shot at redemption. - Collect “Soul Cards” to attack your foes or discard them to use unique movement abilities. - Compete for the best times by cleverly combining cards to discover massive shortcuts. - Uncover Heaven’s mysteries by getting to know the other assassins… did you know them in a past life? If you already own the PS4™ version of this game, you can get the PS5™ digital version at no extra cost and you do not need to purchase this product. Owners of a PS4™ disc copy must insert it into the PS5™ every time they want to download or play the PS5™ digital version. PS4™ game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PS5™ version at no extra cost.\nRegion: EUR\nFirmware: 5.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: Thank you, Niall!\nUpdated: 2026-11-22T18:23:39.817Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/2ep36ohacd7z"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/mh3OlcPbGh"
+        }
+      ],
+      "sizeBytes": 5873367777
+    },
+    {
+      "titleId": "PPSA09678",
+      "title": "Moss Book II",
+      "createdAt": "2026-11-22T18:53:47.252Z",
+      "version": "1.000.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/95bb82f967708e6e04ce1bd7aab8d2cf41c7847370999460cbc093d6c24be4dc",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/95bb82f967708e6e04ce1bd7aab8d2cf41c7847370999460cbc093d6c24be4dc",
+      "description": "Format: Folder\nQuill is back—and she’s being hunted. Those who seek to unmake this world are desperate for the Glass she holds, and they’ll stop at nothing to claw it from her grasp. But the young hero has a plan of her own, one that could finally end the merciless rule of the Arcane and restore peace to Moss once more. To stand a chance, Quill will need a true partner by her side—and we hope that partner is you. With her, you’ll venture deep inside the hexed castle of the Arcane where dangerous terrain, challenging puzzles, and enemies twisted in fire and steel await. The journey will be trying—filled with triumph and heartbreak alike—but new allies, old friends, and the very nature of the castle itself can offer help along the way. Yet in the end, it is you alone who can lift Quill up to save this world, and together, rise to legend.\nRegion: EUR\nFirmware: 5.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: PSVR2 Required\nCredits: Thank you, Niall!\nUpdated: 2026-11-22T18:21:41.008Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/t0pm0fao10t1"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/aPnJD2BDkZ"
+        }
+      ],
+      "sizeBytes": 14871324262
+    },
+    {
+      "titleId": "PPSA09676",
+      "title": "Moss",
+      "createdAt": "2026-11-22T18:53:47.252Z",
+      "version": "1.000.003",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/660b1f4d3fcfdcc337c8597aeac435ce94355ca6fe91f63963e72af6185d23ea",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/660b1f4d3fcfdcc337c8597aeac435ce94355ca6fe91f63963e72af6185d23ea",
+      "description": "Format: Folder\nMoss™ is a single-player action-adventure puzzle game and new IP from Polyarc tailor-made for the VR platform. It takes classic components of a great game—compelling characters, gripping combat, and captivating world exploration—and combines them with the exciting opportunities of virtual reality. In Moss, players meet Quill, a mouse with dreams of greatness. While exploring the woods, she finds a mysterious Glass Relic and an ancient magic is awakened. With her uncle now in danger, Quill must embark on an epic journey—and she needs you there by her side. Together, you'll travel to forgotten realms, solve challenging puzzles, and battle menacing enemies. Alone, no one can conquer what you're up against.\nRegion: EUR\nFirmware: 5.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: PSVR2 Required\nCredits: Thank you, Niall!\nUpdated: 2026-11-22T18:19:46.752Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/sj492xqd5gt8"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/SkySkpDTFS"
+        }
+      ],
+      "sizeBytes": 8278549463
+    },
+    {
+      "titleId": "PPSA21605",
+      "title": "Morkull Ragast's Rage",
+      "createdAt": "2026-11-22T18:53:47.252Z",
+      "version": "1.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/3efc92fbd69bca73aeaae7e048373d650b9de62c3a835b86bb5d81eae4775bcf",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/3efc92fbd69bca73aeaae7e048373d650b9de62c3a835b86bb5d81eae4775bcf",
+      "description": "Format: Folder\nA 2D video game that combines platforming and action with a touch of exploration, control Morkull, God of Death and Darkness and Lord of the Ragast. His main mechanic – breaking the fourth wall, which allows him to communicate with you in a multitude of ways. Morkull Ragast's Rage is a 2D video game that combines platforming and action with a touch of exploration. You control Morkull, the villain of the story, who not only knows he's a character in a video game, but is also aware of the player who controls him (i.e., you) and the developers who created him (i.e., us). Your objective? Help Morkull escape from the Ragast so he can rule the world and carry out his evil plans. You know, typical cliché villain stuff... Art and Animation Morkull Ragast's Rage is completely hand-drawn and animated frame-by-frame. Inspired and influenced by traditional animated films and other 2D video games, the old-school style gives life and fluidity of movement to the whole cast of characters. Break the Fourth Wall What makes this game special is Morkull himself, his personality, and his ability to break the fourth wall to talk with the players like he was there in the room. Morkull possesses charisma and charm, and never fails to create a light-hearted atmosphere with his endless humor, bad jokes and pop culture references. Combat System You'll have all the power of the God of Death and Darkness at your fingertips, of course, along with an ample selection of combos and abilities that will open up even the most remote corners of the Ragast. Become Part of the Ragast and Join Our Community Once you enter the Ragast, you'll never leave – unless you can get through Morkull… So why not join his ranks and support his Machiavellian cause with the rest of his champions as part of our Morkull Ragast's Rage community.\nRegion: EUR\nFirmware: 8.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: Even though the game reports version 1.002, it's actually a beta, and it's 0.1.something.\nCredits: Thank you, Niall!\nUpdated: 2026-11-22T18:17:20.982Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/0v8t5lrr9bic"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/RtVWcRv25i"
+        }
+      ],
+      "sizeBytes": 1524713390
+    },
+    {
+      "titleId": "PPSA28571",
+      "title": "Maestro",
+      "createdAt": "2026-11-22T18:53:47.252Z",
+      "version": "1.000.012",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/eadf49f43aec1a5d24d707af8380452fd7beffef15d10d19ceacdd91c4484aa0",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/eadf49f43aec1a5d24d707af8380452fd7beffef15d10d19ceacdd91c4484aa0",
+      "description": "Format: Folder\nStep onto the podium and experience Maestro like never before. The Complete Edition brings together all 21 iconic tracks from the original release,plus a curated selection of 16 masterpieces and cosmetics from all DLCs to date, all in one ultimate package. Conduct legendary scores, including John Williams’ “Duel of the Fates” (Star Wars), Ramin Djawadi’s Game of Thrones Main Theme, “Hedwig’s Theme” (Harry Potter), Howard Shore’s “Bridge of Khazad-dûm” (The Lord of the Rings), and the iconic “He’s a Pirate” and “Jack Sparrow” themes composed by Hans Zimmer for Pirates of the Caribbean. Venture into The Coven, where arcane rituals echo through shadowy halls… Ascend The Altar to meet your doom in an operatic showdown, discovering hidden treasures of music while taking the helm of La Cutivée. Or lead your orchestra through the apocalypse in Judgement Day, with fire and fury unfolding around you. Master 5 unique gameplay mechanics, conquer 3 difficulty levels, and unlock a wardrobe of cosmetics to craft your perfect on-stage persona. Dazzle your audience. Command your orchestra. And put on the performance of a lifetime! Tracklist: John Williams – Duel of the Fates (Star Wars Episode I) Ramin Djawadi – Main Theme (Game of Thrones) Howard Shore – The Bridge of Khazad-Dûm (The Lord of the Rings) John Williams – Hedwig’s Theme (Harry Potter) Dukas – The Sorcerer’s Apprentice (Fantasia) Grieg – In the Hall of the Mountain King Berlioz – Symphonie Fantastique De Falla – El Amor Brujo Offenbach – Can-Can (Orpheus in the Underworld) Shostakovich – Symphony No.10 Liszt – Totentanz Zimmer &amp; Badelt – He’s a Pirate (from Pirates of the Caribbean) Zimmer – Jack Sparrow (from Pirates of the Caribbean) Unknown Author – Wellerman Rimski-Korsakov – The Shipwreck (from Scheherazade) Vaughan-Williams – A Sea Symphony (Overture) Orff – Carmina Burana Part 1 Orff – Carmina Burana Part 2 Mozart – Figaro’s Wedding Saint-Saëns – Danse Macabre Wagner – Ride of the Valkyries Dvořák – From The New World Mussorgsky – Night on a Bald Mountain Part 1 Mussorgsky – Night on a Bald Mountain Part 2 Stravinsky – The Rite of Spring Tchaikovsky – Swan Lake Beethoven – Symphony No.5 Part 1 Beethoven – Symphony No.5 Part 2 Verdi – Messa da Requiem Mendelssohn – The Hebrides Part 1 Mendelssohn – The Hebrides Part 2 Prokofiev – The Dance of the Knights Prokofiev – Battle on the Ice Vivaldi – Winter Prima – Sing Sing Sing Ellington – Caravan Goodman – Whiplash\nRegion: EUR\nFirmware: 10.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: PSVR2 Required\nCredits: Thank you, Niall!\nUpdated: 2026-11-22T18:15:12.148Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/8tybu948ty7u"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/qzDKiMrypa"
+        }
+      ],
+      "sizeBytes": 6174015488
+    },
+    {
+      "titleId": "PPSA10635",
+      "title": "Demeo",
+      "createdAt": "2026-11-22T18:53:47.252Z",
+      "version": "1.033",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/b4b4e9b712694d0c5dd3c82e43b4adf50a57dabf9ac62df81f7d00afa63febe1",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/b4b4e9b712694d0c5dd3c82e43b4adf50a57dabf9ac62df81f7d00afa63febe1",
+      "description": "Format: Folder\nADVENTURERS, IT’S TIME TO UNITE! A darkness has fallen over the land of Gilmerra, and it will take the cunning, bravery, and guile of an intrepid band of adventurers to put things right. Demeo is a turn-based tactical adventure that brings all the fun of tabletop gaming to the PS5™ and PS VR2™ — and owners get both versions of the game with a single purchase. DEMEO FEATURES - 5 complete adventures across dungeons, forests, deserts and towns - 7 playable classes: Guardian, Warlock, Sorcerer, Assassin, Hunter, Barbarian, and Bard - Play solo or get cooperative online with up to 4 players - Cross-platform support to join the fun with Demeo’s existing player community - Randomized level-assembly means no two experiences are identical - Move miniatures, play action cards, and vanquish monsters with a roll of the die Assemble your party and fight for survival in Demeo, the award-winning game of tabletop RPG tactics.\nRegion: EUR\nFirmware: 10.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: PSVR2 Required\nCredits: Thank you, Niall!!\nUpdated: 2026-11-22T18:13:14.972Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/pwv3134qk775"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/ckBn1NJKJ9"
+        }
+      ],
+      "sizeBytes": 7730941133
+    },
+    {
+      "titleId": "PPSA05304",
+      "title": "Death's Door",
+      "createdAt": "2026-11-22T18:53:47.252Z",
+      "version": "1.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/9d8e5deef74605ec791e3b54cbe9397f872242ad20a9b9801e32f219e917df6a",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/41d9a091ee864cd33239acb0472ea6320cfdddc52f6c60d1d9767ae44bc72f7c",
+      "description": "Format: Folder\nReaping souls of the dead and punching a clock might get monotonous but it's honest work for a Crow. The job gets lively when your assigned soul is stolen and you must track down a desperate thief to a realm untouched by death - where creatures grow far past their expiry and overflow with greed and power. Talon Sharp Combat: Utilize melee weapons, arrows and magic to overcome a fantastic array of beasts and demigods. Mistakes are punished and victory is rewarded. Gain an edge by customizing your character stats and mastering the abilities and upgrades you obtain. A Beautifully Bleak World: Venture beyond the Doors and explore a land full of twisted inhabitants and countless secrets, bringing hope to the weird and wonderful characters you’ll meet along the way. A Dark Mystery to Unravel: Track down and defeat colossal tyrants with stories and motivations of their own. Experience a somber yet darkly comedic tale, uncovering the truths behind the flow of souls, the role of the Crows and the origin of the Doors.\nRegion: EUR\nFirmware: 3.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: Thank you, Niall!\nUpdated: 2026-11-22T18:11:06.246Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/y75y8kqajzv9"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/mMXVrdKqKV"
+        }
+      ],
+      "sizeBytes": 2877628088
+    },
+    {
+      "titleId": "PPSA15035",
+      "title": "Beat Saber",
+      "createdAt": "2026-11-22T18:53:47.252Z",
+      "version": "1.039",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e71c72343b5204d213629b851cbfafac7d44f7adf7fab09fbbcaeebcfda2dab5",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/20b80d0ff97873f4d0b038062a113655eb4a6bd0108722c2a566c41a6d944510",
+      "description": "Format: Folder\nPlease note that as of February 26, 2026, multiplayer is not available in Beat Saber on PS4 and PS5. Beat Saber is playable, and players have access to content they previously purchased on the PlayStation platform prior to June 18, 2025. Additionally, players can purchase songs and music packs released prior to June 18, 2025. Dive into an immersive rhythm experience you have never seen before! Enjoy precisely handcrafted levels and exclusively created electronic dance music, all embedded in an appealing futuristic world. Swing your sabers, match the color and the right direction to slash the cubes, and keep up with the adrenaline-pumping music. This game is gonna make you dance! Feel the Rhythm Immerse yourself in the smoothest combination of music beats and visual effects in Beat Saber’s truly unique gameplay. Handcrafted Levels &amp; Music Unlike other rhythm games with generated content, music and levels in Beat Saber are made precisely by hand to enhance the music experience. Challenging Campaign Get better every day while completing objectives and challenges in the campaign. Easy to Learn, Fun to Master Everyone can understand the basic game mechanics. It's easy for anyone to pick up and play. Great Exercise Exercise while dancing and slashing the beats: Beat Saber gets you moving. This product supports the following languages: English This product entitles you to download both the digital PlayStation®VR version and the digital PlayStation®VR2 version of this game. If you already own the PlayStation®VR version of this game, you can get the PlayStation®VR2 digital version at no extra cost and you do not need to purchase this product. Owners of a PlayStation®VR disc copy must insert it into the PS5™ every time they want to download or play the PlayStation®VR2 digital version. PlayStation®VR game disc owners who buy the PS5™ Digital Edition disc-free console will not be able to get the PlayStation®VR2 version at no extra cost. In addition, if you’re playing with PSVR on PS5™ consoles: PlayStation Camera adaptor for PS Camera is required (no purchase necessary) go to Playstation.com/camera-adaptor.\nRegion: EUR\nFirmware: 9.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: Includes all DLCS! PSVR2 Required\nCredits: Thank you, Niall!\nUpdated: 2026-11-22T18:07:15.563Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/se4gzc39z5i8"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/w0KnWHrNW3"
+        }
+      ],
+      "sizeBytes": 4992899482
+    },
+    {
+      "titleId": "PPSA05173",
+      "title": "Axiom Verge 2",
+      "createdAt": "2026-11-22T18:53:47.252Z",
+      "version": "1.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/778d03395ed9db821f12cb688ef08fd61db173ea0243b7ccb7496d50ba0fe044",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/778d03395ed9db821f12cb688ef08fd61db173ea0243b7ccb7496d50ba0fe044",
+      "description": "Format: Folder\nYou may have played Axiom Verge, or heard it referenced as a benchmark for indie action-exploration games. This long awaited sequel expands on the universe with completely new characters, abilities, and gameplay. Indra, the billionaire behind the worldwide Globe 3 conglomerate, heads to Antarctica to investigate the disappearance of her daughter, but ultimately finds herself in entirely different reality, infected by parasitic machines that both aid and confound her. Where is she? Who is the mysterious person goading her from the other end of the computer terminal? Explore an alternate Earth-like world, replete with the ruins of an ancient, high-tech civilization. Hack machines. Battle monsters. Use your remote drone to enter the Breach, a parallel but connected reality that is filled with its own dangers. You’ll want to search every inch for the hidden items and upgrades you need to survive.\nRegion: EUR\nFirmware: 1.xx+\nCredits: Thank you, Niall!\nUpdated: 2026-11-22T18:00:07.563Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/al2hhg3yz41d"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/DgsUHpBe4b"
+        }
+      ],
+      "sizeBytes": 246960620
+    },
+    {
+      "titleId": "PPSA11307",
+      "title": "The Legend of Heroes: Trails into Reverie",
+      "createdAt": "2026-11-22T17:00:39.975Z",
+      "version": "01.005.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/125257c4ed00d2ee85c60df069981931ed535baa59ac5eebc0543a779d8d4a9e",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/125257c4ed00d2ee85c60df069981931ed535baa59ac5eebc0543a779d8d4a9e",
+      "description": "Format: Folder\nWhat destinies await these three fateful figures? Use the Trails to Walk system to switch between Rean Schwarzer, Lloyd Bannings, and the masked figure \"C,\" and determine the fates of key characters and locations within Zemuria. Dive into refined tactical combat with new features such as United Front, and discover new allies and challenges within the halls of the True Reverie Corridor! The following additional content is included in the game: - Elie's Crossbell Queen Outfit - Rixia's Moonlight Wedding Outfit - Nadia's Devilish Summer Swimsuit - Lapis' Magical Girl Outfit - Tio's Old School Outfit - Lapis' Li'l Slaughterer Outfit - Free Set Vol. 1 - Free Set Vol. 2 - Free Set Vol. 3\nRegion: USA\nFirmware: 7.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: This one might need libsceAMPR in a fakelib folder; Thank you, Xan!\nUpdated: 2026-11-22T15:58:35.098Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/yOd9czoJDw"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/221uta97su35"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/IgAUzyiZL7"
+        }
+      ],
+      "sizeBytes": 19026705121
+    },
+    {
+      "titleId": "PPSA28617",
+      "title": "Spirit of the North 2",
+      "createdAt": "2026-11-22T17:00:39.975Z",
+      "version": "01.000.019",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/630a078031982f857193f52d139f3e9bd8fd7577e8974450d4d277654b24ed8e",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/326b5b79f028b45550c72ceb1812bc26d7fe5668273f6faa930842e7205f15a8",
+      "description": "Format: Folder\nIn an ancient world left in ruin, embark on the journey of an isolated fox far from home. With the help of a wise Raven companion, seek out the lost legendary guardians and release them from the grasp of the dark shaman Grimnir. A VAST OPEN WORLD Roam freely through a vast and ancient open world, rich with long-forgotten history. Explore unique and visually captivating biomes, each with its own challenges and secrets to uncover. SEEK OUT POWERFUL RUNES Discover potent runes that enhance your abilities as your quest takes you from dense forests, through snow-capped peaks and to dark &amp; ancient crypts to save the lost guardians. EXTENSIVE CUSTOMISATION Tailor your fox's appearance and skills to suit your playstyle, making each playthrough unique. ANCIENT GUARDIANS Face off against formidable foes as you save the legendary guardian beasts in thrilling, puzzle-based encounters. Features ● Create your own unique fox with extensive customization options. ● Explore a stunning open world across many diverse regions. ● Cleanse corrupted guardians in legendary encounters. ● Acquire new abilities to overcome challenges. ● Seek out powerful runes to enhance your abilities. ● Expand on the beauty and lore of Spirit of the North in an inspiring new adventure.\nRegion: USA to EUR Langs\nFirmware: 11.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: Password to extract: 28617\nCredits: This one may need a fakelib folder with libsceAMPR in it; Thank you, Rapunzel!\nUpdated: 2026-11-22T15:42:16.539Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Gofile",
+          "url": "https://gofile.io/d/JYP58WcQ"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/aesl31cdwxlh"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/E2HKSczlxI"
+        }
+      ],
+      "sizeBytes": 42949672960
+    },
+    {
+      "titleId": "PPSA20662",
+      "title": "MIO: Memories In Orbit",
+      "createdAt": "2026-11-22T17:00:39.975Z",
+      "version": "01.002.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/508bb4be6a36bdefdde9c63dd3be994d0167926040f5238699f7cd350de3fb94",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/508bb4be6a36bdefdde9c63dd3be994d0167926040f5238699f7cd350de3fb94",
+      "description": "Format: Folder\nA mesmerizing, intertwined, decaying world awaits. Awaken MIO, a nimble robot with extraordinary abilities, and unravel the mysteries of the Vessel, an enormous technological ark overgrown with lush vegetation and machines gone rogue. Nobody knows why the Pearls, The Vessel's AI caretakers, have ceased functioning. Forgotten by all, the Vessel faces imminent shutdown. Dive into its depths to revive its lost memories, as you unravel your true past and destiny, in this mesmerizing metroidvania. Will you rise to the challenge and save the Vessel from destruction? Will you dare to seek and wake its memories? •Explore a captivating universe, full of wonder and artistic curiosities. Interact with the Vessel’s environments to learn more about its past and memories. •Earn game-changer abilities to help MIO progress through this twisted and interconnected space. Climb walls like a spider or float through the air with your Glide power. Master precision, rhythm, and timing to find the perfect flow! •Face off a diverse array of over 30 enemy units and 15 formidable guardian bosses. Use your arsenal of powers to adapt to every encounter. Evade foes using your Hook, unleash orbs as powerful projectiles, and even create decoy clones to strike from unexpected angles. It’s always your choice! •Enhance and customize MIO abilities by scavenging components. Spice up your fighting skills with many Modifiers and transform MIO into a formidable force tailored to your playstyle.\nRegion: USA\nFirmware: 11.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: Password to extract: 20662\nCredits: This one might need libsceAMPR in a fakelib folder; Thank you, Rapunzel!\nUpdated: 2026-11-22T15:38:49.339Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Gofile",
+          "url": "https://gofile.io/d/kJwIlpdq"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/dsgwskleio36"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/46I7iaLVsH"
+        }
+      ],
+      "sizeBytes": 4423816315
+    },
+    {
+      "titleId": "PPSA26698",
+      "title": "Rollercoaster Tycoon 3: Complete Edition",
+      "createdAt": "2026-11-22T17:00:39.975Z",
+      "version": "01.070.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/0e248d23c7ae2d5a8c1071046f359694bfd5be86dc3c0636e6fb80e400efb97f",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/0e248d23c7ae2d5a8c1071046f359694bfd5be86dc3c0636e6fb80e400efb97f",
+      "description": "Format: Folder\nYour Park. Your Way Whatever you want to create, RollerCoaster Tycoon 3 gives you the tools and freedom to build the amusement park of your dreams. Manage like a tycoon and make your way to the top Control park finances, shops, services and staff to succeed in dozens of scenarios. Become a true tycoon and embark on your promising new career, or create your ideal park without money woes in sandbox mode. Satisfy your guests’ needs and keep your park running smoothly to succeed. Get ready to get ‘Soaked!’ and venture into the ‘Wild!’ This complete edition includes all content from both Soaked! and Wild! expansion packs. Relish the added challenge of creating and managing exhilarating waterparks and spectacular animal habitats. Ride the Rides Ride your creations with RollerCoaster Tycoon 3’s signature coaster cam. Packed full of content You’re free to fill your bustling park with more than 300 coasters and rides, 500 scenery pieces, 60 shops and services, and 20 animals to rear and raise. Peep Designer Create your own guests and experience your creations through their eyes MixMaster Wow your visitors with custom laser light and firework displays to delight and dazzle.\nRegion: USA to EUR Langs\nFirmware: 10.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: Password to extract: 26698\nCredits: This one might need libsceAMPR in a fakelib folder; Thank you, Rapunzel!\nUpdated: 2026-11-22T15:37:10.591Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Gofile",
+          "url": "https://gofile.io/d/rcUS9Knb"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/620z1eiui7bu"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/mgpgj5AIhU"
+        }
+      ],
+      "sizeBytes": 2179695903
+    },
+    {
+      "titleId": "PPSA18622",
+      "title": "Seed of Life",
+      "createdAt": "2026-11-22T17:00:39.975Z",
+      "version": "02.000.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/b239af869783f0a32faab8ba4b743d4cb7d77e376258ac835543d4b5879cc442",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/b239af869783f0a32faab8ba4b743d4cb7d77e376258ac835543d4b5879cc442",
+      "description": "Format: Folder\nYou're Cora, the last known survivor of Lumia, a dying planet. Your only hope to save your home world is to activate the Seed of Life and rekindle the sun once again. Seed of Life is an action-adventure puzzle game that will take you to a beautiful yet toxic world where almost all life has disappeared. There’s only one way to survive: help Cora find The Seed, an alien device capable of generating the essence of life and save your planet from annihilation. Find your way through a labyrinth like world full of mysteries, dangers, and beauty. Search for capsules and learn special abilities. Face off against alien creatures and solve challenging puzzles. As the sun is dying, the world is fading into chaos. Invaders appeared out of nowhere and took us by surprise… There was nothing we could do! They took our most precious treasure: the planet’s life force, leaving us to certain death. Alien creatures were left on the land to absorb what’s left alive. To save your home you need to find the source of life and activate the ancient machine. Let the light guide you! AN EMOTIONAL JOURNEY A dramatic, engaging story full of mysteries to be revealed. Face up to your fears and find a way to bring life back to Lumia. TRIPLE-A QUALITY GRAPHICS A breathtaking sci-fi setting in a dystopian future. A fascinating fading world, where bright colors meet utter darkness. DYNAMIC GAMEPLAY A story-driven adventure packed with puzzles to solve and dangerous shadows. Learn unique abilities and try to survive in a hostile environment. SEMI OPEN-WORLD Freely explore a beautiful and vast world where secrets are hidden in every corner and environmental challenges will test your skills\nRegion: USA to EUR Langs\nFirmware: 8.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: Password to extract: 18622\nCredits: Thank you, Rapunzel!\nUpdated: 2026-11-22T15:35:17.380Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Gofile",
+          "url": "https://gofile.io/d/WmFhAiok"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/a2uto1wwrcm9"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/Hn4jrYtdlX"
+        }
+      ],
+      "sizeBytes": 6743098655
+    },
+    {
+      "titleId": "PPSA22053",
+      "title": "Star Overdrive",
+      "createdAt": "2026-11-22T17:00:39.975Z",
+      "version": "01.000.004",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/ceab637ab75ff9d1c1e4c7c297a35b6a3759035d53494d6f0e7a1d34295342a3",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/ceab637ab75ff9d1c1e4c7c297a35b6a3759035d53494d6f0e7a1d34295342a3",
+      "description": "Format: Folder\nDeluxe Edition Upgrade includes: 3 Hoverboard styles 1 Hoverboard design 50 dyes The Original Soundtrack The Original Manga A HIGH-SPEED ODYSSEY ACROSS THE STARS Set off on a high-speed Hoverboard adventure in Star Overdrive, where fast-paced action collides with the mysteries of a distant alien world. After intercepting a cryptic distress signal, you, the protagonist Bios, find yourself stranded on an enigmatic planet called Cebete. Armed with your versatile Keytar and advanced Hoverboard, you'll navigate diverse biomes, confront challenges, evolve your hidden powers, and uncover the mystery behind the disappearance of your beloved Nous. DYNAMIC HOVERBOARD EXPLORATION Speed through vast worlds, pull off epic tricks, and use momentum to reach new places. Chain high-flying tricks and boost into battle with seamless, stylish movement. PLAY YOUR WAY Adapt, experiment, and combine powers with the environment to outsmart enemies, navigate the alien world, and shape your fighting style. INNOVATIVE KEYTAR COMBAT &amp; PUZZLES Bend the environment to your will by combining abilities, unlocking skills as you clear ruins. Battle or explore at your pace, using powers to outsmart enemies. A WORLD FULL OF SECRETS Explore three distinct biomes, each with unique landscapes, creatures, and hidden challenges. No two rides feel the same. EVOLVE YOUR POWERS &amp; ABILITIES Alter gravity’s effects, unleash kinetic energy, and combine abilities to defeat enemies. CUSTOMIZE YOUR RIDE Personalize your Hoverboard with vibrant colors and design upgrades, tailoring both appearance and experience to your playstyle. UPGRADE HOVERBOARD PERFORMANCE Gather resources to boost your Hoverboard’s speed, gravity, control, and more, pushing your skills to the limit in races, intense rides, and daring stunts. Race across breathtaking landscapes and uncover the truth behind your lover’s disappearance in this shattered world. From the whispering dunes to the gravity bending ruins, every biome is a challenge, demanding speed, precision, and creative thinking. Your journey is yours to shape! Will you harness your abilities to defy physics, outmaneuver threats, or unlock the lost knowledge buried beneath the land?\nRegion: USA\nFirmware: 10.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: Password to extract: 22053\nCredits: This one might need libsceAMPR in a fakelib folder. Also, this one is FFPFS, and 10.1GB; Thank you, Rapunzel!\nUpdated: 2026-11-22T15:33:16.628Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Gofile",
+          "url": "https://gofile.io/d/zBIHcuVJ"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/trbqfnsgy431"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/6k4yguIhXv"
+        }
+      ],
+      "sizeBytes": 22945862779
+    },
+    {
       "titleId": "CUSA28907",
       "title": "The Legend of Heroes: Trails into Reverie",
       "createdAt": "2026-11-22T01:17:39.896Z",
@@ -10271,6 +10779,10 @@
         {
           "name": "Arabic FPKG · Viki (+Arabic Lang)",
           "url": "https://vikingfile.com/f/Fe4ZJwus6C"
+        },
+        {
+          "name": "Arabic FPKG · Viki (Arabic Lang)",
+          "url": "https://vikingfile.com/f/QDuIZlMKLm"
         }
       ],
       "sizeBytes": 100351910871

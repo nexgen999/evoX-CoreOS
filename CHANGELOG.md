@@ -1,5 +1,23 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 22/11/2026 à 23:34
+* **PAYLOADS**
+  * `Garlic-Worker V1.5.6` (garlic-worker) - *Mise à jour (Précédent: v1.5.6)*
+  * `Garlic-Savemgr V2.0` (garlic-savemgr) - *Mise à jour (Précédent: v2.0)*
+  * `Np-Fake-Signin-Ps5` (np-fake-signin) - *Mise à jour (Précédent: v1.4)*
+  * `Elf Arsenal V1.6.23` (ELF_Arsenal) - *Mise à jour (Précédent: v1.6.23)*
+* **HOMEBREW_PAGE**
+  * `EliVier Explorer` (00.001.000) - *Nouveau*
+  * `PC5` (2.4.7) - *Mise à jour (Précédent: 2.4.6)*
+  * `ProsperoSunshine` (0.6.7-beta.2) - *Mise à jour (Précédent: 0.6.7-beta.1)*
+  * `KamTape for PS5` (0.2.0-beta) - *Nouveau*
+  * `Pokémon Prosperous Platinum` (0.2.4) - *Mise à jour (Précédent: 0.2.3)*
+  * `PokeMMO Prospero` (1.0.5) - *Mise à jour (Précédent: 1.0.2)*
+  * `Second Coat: London` (0.5.0) - *Mise à jour (Précédent: 0.4.2)*
+  * `Crux2` (v1.0.23) - *Mise à jour (Précédent: v1.0.22)*
+  * `Alembic` (0.7.1) - *Mise à jour (Précédent: 0.7.0)*
+  * `Photo Splat VR` (0.6.1) - *Mise à jour (Précédent: 0.6.0)*
+
 ## Build du 22/11/2026 à 14:18
 * **PAYLOADS**
   * `Kura V1.6.60` (v1.6.60) - *Nouveau*
