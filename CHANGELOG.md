@@ -1,5 +1,14 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 22/11/2026 à 05:23
+* **PAYLOADS**
+  * `Kura V1.6.59` (v1.6.59) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `fceuxs5` (01.000.000) - *Nouveau*
+  * `Pokémon Prosperous Platinum` (0.2.3) - *Nouveau*
+  * `Breath of the Wild VR` (0.7.0) - *Mise à jour (Précédent: 0.6.1)*
+  * `PS5SD` (1.8.2) - *Mise à jour (Précédent: 1.7.0)*
+
 ## Build du 21/11/2026 à 23:01
 * **PAYLOADS**
   * `Np-Fake-Signin-Ps5` (v1.4) - *Mise à jour (Précédent: np-fake-signin)*

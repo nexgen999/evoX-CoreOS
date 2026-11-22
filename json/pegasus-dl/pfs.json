@@ -3,6 +3,106 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "CUSA28907",
+      "title": "The Legend of Heroes: Trails into Reverie",
+      "createdAt": "2026-11-22T01:17:39.896Z",
+      "version": "1.03",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/125257c4ed00d2ee85c60df069981931ed535baa59ac5eebc0543a779d8d4a9e",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/125257c4ed00d2ee85c60df069981931ed535baa59ac5eebc0543a779d8d4a9e",
+      "description": "Format: ps4\nWhat destinies await these three fateful figures? Use the Trails to Walk system to switch between Rean Schwarzer, Lloyd Bannings, and the masked figure \"C,\" and determine the fates of key characters and locations within Zemuria. Dive into refined tactical combat with new features such as United Front, and discover new allies and challenges within the halls of the True Reverie Corridor! The following additional content is included in the game: - Elie's Crossbell Queen Outfit - Rixia's Moonlight Wedding Outfit - Nadia's Devilish Summer Swimsuit - Lapis' Magical Girl Outfit - Tio's Old School Outfit - Lapis' Li'l Slaughterer Outfit - Free Set Vol. 1 - Free Set Vol. 2 - Free Set Vol. 3\nRegion: USA\nFirmware: 7.xx+\nNotes: If using GoldHen PS4 then works on fw 7.50 or higher. If using PS5 probably needs fw 8.40 or higher. Included DLC: Standard Cosmetic Set, Premium Cosmetic Set, SSS Summer Splash Set. Not included DLC are consumables able to get in-game: Starter Set, Advanced Set, Advanced Set 2. Cosmetic DLC usable after intro section, Summer Splash Set games usable through the camp menu and the Sporting Stone. VR mode only usable with PSVR 1 hardware and only with PS4 version of the game.\nCredits: This includes everything in one compressed file; Thank you, Xan!\nUpdated: 2026-11-21T23:47:30.610Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/J083T7M14L"
+        },
+        {
+          "name": "ps4 · UPDATE Viki",
+          "url": "https://vikingfile.com/f/ChYL8nLx6T"
+        },
+        {
+          "name": "ps4 · Viki - DLC",
+          "url": "https://vikingfile.com/f/0L08PGxYrz"
+        },
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/58m5r1iny0zk"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/uXhKTASE70"
+        }
+      ],
+      "sizeBytes": 49005576847
+    },
+    {
+      "titleId": "CUSA33565",
+      "title": "Road 96: Mile 0",
+      "createdAt": "2026-11-21T23:39:20.457Z",
+      "version": "1.01",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/d234365ff3744b248d778db114a501bfe17d9e9c7f4ee17cb3a77d485b354bb0",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/d234365ff3744b248d778db114a501bfe17d9e9c7f4ee17cb3a77d485b354bb0",
+      "description": "Format: ps4\nRoad 96: Mile 0 is a Narrative-Adventure game with a musical component created by DigiXArt, the French studio behind the successful Road 96, 11-11 Memories Retold and 5 Pegases Awards winner. Published by Ravenscourt, players will alternate between the roles of Zoe and Kaito, two teenagers with different backgrounds and beliefs. They live and explore White Sands, a luxurious condominium where Petria´s elite reside and where Kaito´s parents work. Zoe is one of the characters of Road 96. She comes from the rich side of the city and her father works for the government. Kaito, a character from Lost in Harmony, lives in the less privileged area. They're good friends, but that could all change quite soon. \"Their journey in Road 96: Mile 0 will challenge their friendship and everything they believe in. They say money doesn’t buy happiness, nor friendship. These teens are dreamers and they are going to learn where they belong. Will they remain friends? ROAD 96 WORLD Understand the previous event of Road 96 and what made Zoe flee from her home. Play as Zoe and Kaito to shape the evolution of their fate. Besides this, you will run into many of the colorful characters from Road 96. Get to experience another side of the troubled country of Petria. IT'S ALL ABOUT FRIENDSHIP This is a story about conflict and difference of opinion between two friends. Zoe and Kaito come from two different worlds, but they are unified by a powerful friendship. They will face many challenges, can they overcome them? MUSICAL RIDES The musical segments of the game are a real emotional experience that put you into inner worlds of Zoe and Kaito. You will have to make choices and ride and dodge to find your way through these beautiful psychedelic trips.\nRegion: EUR\nFirmware: 10.xx+\nCredits: Thank you, Doctor003!\nUpdated: 2026-11-21T22:06:39.877Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/dy3nm0v90ez3"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/JEVJPxx2fX"
+        }
+      ],
+      "sizeBytes": 12884901888
+    },
+    {
+      "titleId": "CUSA51684",
+      "title": "My Name is Mayo: Remayo",
+      "createdAt": "2026-11-21T23:39:20.457Z",
+      "version": "1.0",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/6736d573c827d1b931afb7e4310877054d64e48de4e067be1c091b1a25190214",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/6736d573c827d1b931afb7e4310877054d64e48de4e067be1c091b1a25190214",
+      "description": "Format: ps4\nEn My Name is Mayo: Remayo, ¡regresa la excéntrica aventura de tocar y hacer clic con un frasco de mayonesa en la vida real! Esta vez con gráficos tan en 4K que casi puedes saborear la mayonesa. Y tanto para los novatos como para los veteranos en el arte de hacer clic en la mayo, ahora podrán disfrutar del nuevo minijuego de Pachinko, que sin duda les dará la sobreestimulación que su cerebro anhela. ReVive su historia, ReDesempaca el equipaje emocional y (quizás) ReAprende de ella mientras desbloqueas 50 codiciados trofeos. ¡Esta es la emotiva historia de un frasco de mayonesa, ReHecha! ¡ReMayo! Características principales ¡Desbloquea datos curiosos al azar! ¡Descubre las 4 historias diferentes! ¡Juega el nuevo modo Pachinko! ¡Gráficos mejorados en 4K! ¡Desbloquea 50 trofeos únicos, incluido un Platino! ¡Compite con tus amigos y con el mundo en la tabla de clasificación online de toques!\nRegion: EUR\nFirmware: 12.xx+\nCredits: Thank you, Doctor003!\nUpdated: 2026-11-21T22:03:00.696Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/m83ktv0em7ot"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/DjirRQHhgR"
+        }
+      ],
+      "sizeBytes": 289910292
+    },
+    {
+      "titleId": "CUSA31516",
+      "title": "My name is Mayo 3",
+      "createdAt": "2026-11-21T23:39:20.457Z",
+      "version": "1.01",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/7383382df322243d6687b56713793feff7deba9497fc6b0920beacd43d24d9f3",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/7383382df322243d6687b56713793feff7deba9497fc6b0920beacd43d24d9f3",
+      "description": "Format: ps4\nLife is like a box of Mayonnaise, my momma used to say, eventually you just run out of it and it stinks up the fridge. This final clicker game will seal the destiny of our beloved Mayo. How will this end? Heck, even WE don’t know! Behold the third and final entry of the “My Name is Mayo” Universe! The overwhelming and emotional story of our hero will unfold with the classic real-life tapping mechanic, lots of unlockable achievements in between, and one other surprise buried inside. Get ready to have your intellect enriched, your emotions manipulated and your mayonnaise expanded; as you unveil the stories and learn from mistakes. Our lives are too short not to be enhanced with meaningful stories like this one! Frequently Asked Questions: Q: Wait a minute... So there will be no My Name is Mayo 4? A: Nah :( Q: Why not? A: “3” is a great number to round things up! Q: I can’t believe that My Name is Mayo is a trilogy now. A: What does that mean? Q: How is the gameplay? Is it the same as the previous games? A: Sure thing! You click the Mayo, get points and unveil parts of the story... and get a little summin’ different thrown in there *wink* *wink* Q: Do I need to play past games in the series or can I just jump into this one with no context? A: The game’s about Mayonnaise, do you reeeeally need context? Q: Is it... really over...? A: It had to... otherwise Mayo would expire and go bad.\nRegion: EUR\nFirmware: 9.xx+\nCredits: Thank you, Doctor003!\nUpdated: 2026-11-21T22:01:06.589Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "ps4 · Data",
+          "url": "https://datanodes.to/7yf7ejpsuy97"
+        },
+        {
+          "name": "ps4 · Viki",
+          "url": "https://vikingfile.com/f/WzmN6G7Vmj"
+        }
+      ],
+      "sizeBytes": 386547057
+    },
+    {
       "titleId": "CUSA06846",
       "title": "Friday The 13th: The Game",
       "createdAt": "2026-11-21T22:01:24.602Z",

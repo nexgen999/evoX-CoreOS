@@ -450,6 +450,20 @@
       "source": "https://github.com/bystritskiy/xerenge-ps5"
     },
     {
+      "name": "Pokémon Prosperous Platinum",
+      "filename": "PPSA92008.zip",
+      "url": "https://github.com/cybervisi0n/pokeplatinum/releases/download/v0.2.3/release_ps5.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA92008/0.2.3/PPSA92008.zip",
+      "description": "Pokémon Platinum decomp port for the PS5",
+      "version": "0.2.3",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA92008",
+      "author": "cybervisi0n",
+      "checksum": "d9a390c0eb64c69fcf0e35d06163e4f4def80dcd6f4f7f432de6ad648f95f1e9",
+      "source": "https://github.com/cybervisi0n/pokeplatinum"
+    },
+    {
       "name": "Dungeon Crawl Stone Soup",
       "filename": "PPSA92041.zip",
       "url": "https://github.com/plutobox/ps5-crawl/releases/download/01.001.000/PPSA92041.zip",

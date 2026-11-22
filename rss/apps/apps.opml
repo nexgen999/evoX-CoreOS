@@ -4,6 +4,7 @@
     <title>PS5 Store Feeds - Applications</title>
   </head>
   <body>
+    <outline text="Spectrumlibrary 1.0.4" title="Spectrumlibrary 1.0.4" type="rss" xmlUrl="https://github.com/Phoenixx1202/Spectrum-Library-PC/releases/download/1.0.4/SpectrumLibrary_1.0.4.zip" description="Spectrum-Library-PC"/>
     <outline text="Flycast-Ps5-2026.10.06" title="Flycast-Ps5-2026.10.06" type="rss" xmlUrl="https://github.com/rpf16rj/flycast-ps5-libretro-core/releases/download/v2026.10.06-run14/flycast-ps5-2026.10.06.zip" description="flycast-ps5-libretro-core"/>
     <outline text="Ppsa50011" title="Ppsa50011" type="rss" xmlUrl="https://github.com/BrinooTk/PS5X360/releases/download/v1.0.2/PPSA50011.zip" description="x360 emu for ps5, you need xpsemu_tools.elf"/>
     <outline text="Ps5X360-Helper" title="Ps5X360-Helper" type="rss" xmlUrl="https://github.com/BrinooTk/PS5X360/releases/download/v1.0.2/PS5X360-Helper.elf" description="x360 emu for ps5, you need xpsemu_tools.elf"/>
@@ -29,7 +30,6 @@
     <outline text="Markus Phu-Emupack-Neogeo.Ps5" title="Markus Phu-Emupack-Neogeo.Ps5" type="rss" xmlUrl="https://github.com/nexgen999/Evox_PS5PKG_Private/releases/download/v3.0/Markus_PHU-EmuPack-NeoGeo.PS5.rar" description="EmuPack-NeoGeo.PS5"/>
     <outline text="Ppsa42674" title="Ppsa42674" type="rss" xmlUrl="https://github.com/dmzebro/PS5_RPCS3/releases/download/release/PPSA42674.zip" description="RPCS3 for PS5"/>
     <outline text="Ppsa99131" title="Ppsa99131" type="rss" xmlUrl="https://github.com/tsuramatsu1/psp5/releases/download/v1.000.100/PPSA99131.zip" description="ppsspp for PS5"/>
-    <outline text="Spectrumlibrary 1.0.4" title="Spectrumlibrary 1.0.4" type="rss" xmlUrl="https://github.com/Phoenixx1202/Spectrum-Library-PC/releases/download/1.0.4/SpectrumLibrary_1.0.4.zip" description="Spectrum-Library-PC"/>
     <outline text="Dump Installer" title="Dump Installer" type="rss" xmlUrl="https://github.com/EchoStretch/dump_installer/releases/download/1.07/dump_installer.zip" description="Dump installer howmebrew"/>
     <outline text="Dump Runner" title="Dump Runner" type="rss" xmlUrl="https://github.com/EchoStretch/dump_runner/releases/download/v1.02/dump_runner.zip" description="Dump runner howmebrew"/>
     <outline text="Ps5Mc-1.2-Kodi21-Ppsa99421" title="Ps5Mc-1.2-Kodi21-Ppsa99421" type="rss" xmlUrl="https://github.com/VivaLaVent/PS5MC/releases/download/1.2/PS5MC-1.2-kodi21-PPSA99421.zip" description="kodi-ps5"/>

@@ -173,6 +173,12 @@
       <pubDate>v1.0.2</pubDate>
     </item>
     <item>
+      <title>fceuxs5</title>
+      <link>https://github.com/Richie133/fceuxs5</link>
+      <description>Nes emulator for ps5. Based on fceux</description>
+      <pubDate>01.000.000</pubDate>
+    </item>
+    <item>
       <title>ccleste</title>
       <link>https://github.com/darkxex/PS5_Celeste</link>
       <description>This is a C source port of the original celeste (Celeste classic) for the PICO-8, designed to be portable. Now you can enjoy the port on your PS5.</description>
@@ -353,6 +359,12 @@
       <pubDate>01.001.000</pubDate>
     </item>
     <item>
+      <title>Pokémon Prosperous Platinum</title>
+      <link>https://github.com/cybervisi0n/pokeplatinum</link>
+      <description>Pokémon Platinum decomp port for the PS5</description>
+      <pubDate>0.2.3</pubDate>
+    </item>
+    <item>
       <title>Dungeon Crawl Stone Soup</title>
       <link>https://github.com/plutobox/ps5-crawl</link>
       <description>The open-source roguelike Dungeon Crawl Stone Soup, with tiles graphics and controller support.</description>
@@ -506,7 +518,7 @@
       <title>Breath of the Wild VR</title>
       <link>https://github.com/Papyszoo/botw-bettervr-ps5</link>
       <description>Plays your Breath of the Wild dump in PS VR2 with Sense controllers via Crementif's BetterVR 1.0.0 in Cemu (experimental; firmware 5.50, 7.61, 8.40, 9.00, 10.00, 11.60, 12.40, 13.60; tested 13.60).</description>
-      <pubDate>0.6.1</pubDate>
+      <pubDate>0.7.0</pubDate>
     </item>
     <item>
       <title>DriftCheck</title>
@@ -974,7 +986,7 @@
       <title>PS5SD</title>
       <link>https://github.com/Darkatek7/PS5SD</link>
       <description>Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.</description>
-      <pubDate>1.7.0</pubDate>
+      <pubDate>1.8.2</pubDate>
     </item>
     <item>
       <title>PS5MG</title>

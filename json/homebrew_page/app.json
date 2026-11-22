@@ -170,6 +170,20 @@
       "source": "https://github.com/BrinooTk/PS5X360"
     },
     {
+      "name": "fceuxs5",
+      "filename": "PPSA51855.zip",
+      "url": "https://github.com/Richie133/fceuxs5/releases/download/01.000.000/fceuxs5-v1.0-PPSA51855.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA51855/01.000.000/PPSA51855.zip",
+      "description": "Nes emulator for ps5. Based on fceux",
+      "version": "01.000.000",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA51855",
+      "author": "Richie133",
+      "checksum": "e5da31207b85a97e63c6b2c0fd069db11a42ca60dd9093a1ff442fdfdad8ac55",
+      "source": "https://github.com/Richie133/fceuxs5"
+    },
+    {
       "name": "Mediathek",
       "filename": "PPSA66120.zip",
       "url": "https://github.com/M0S4YSH3LL0/mediathek-ps5/releases/download/01.000.110/Mediathek-PPSA66120-01.000.110.zip",
@@ -494,15 +508,15 @@
     {
       "name": "Breath of the Wild VR",
       "filename": "PPSA98720.zip",
-      "url": "https://github.com/Papyszoo/botw-bettervr-ps5/releases/download/v0.6.1/BotW-VR-v0.6.1.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98720/0.6.1/PPSA98720.zip",
+      "url": "https://github.com/Papyszoo/botw-bettervr-ps5/releases/download/v0.7.0/BotW-VR-v0.7.0.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98720/0.7.0/PPSA98720.zip",
       "description": "Plays your Breath of the Wild dump in PS VR2 with Sense controllers via Crementif's BetterVR 1.0.0 in Cemu (experimental; firmware 5.50, 7.61, 8.40, 9.00, 10.00, 11.60, 12.40, 13.60; tested 13.60).",
-      "version": "0.6.1",
+      "version": "0.7.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98720",
       "author": "Papyszoo",
-      "checksum": "076233992d7e85ab04e15a19ec7c619050da577969384c1aba34d8fd747f4e46",
+      "checksum": "500fd07e2c6d3a453ef0fdaccefec2d11cb0f7f83794d0e41fdf490ccaa92cca",
       "source": "https://github.com/Papyszoo/botw-bettervr-ps5"
     },
     {
@@ -1124,15 +1138,15 @@
     {
       "name": "PS5SD",
       "filename": "PPSA99576.zip",
-      "url": "https://github.com/Darkatek7/PS5SD/releases/download/v1.7.0/PPSA99576.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99576/1.7.0/PPSA99576.zip",
+      "url": "https://github.com/Darkatek7/PS5SD/releases/download/v1.8.2/PPSA99576.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99576/1.8.2/PPSA99576.zip",
       "description": "Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.",
-      "version": "1.7.0",
+      "version": "1.8.2",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99576",
       "author": "Darkatek7",
-      "checksum": "370480cd72a450a2c3a829b9f55b815b2d4b0cfad738007ff68f22ded675a9fa",
+      "checksum": "16ae7fd89cf8b0606182aabc471c17b611b3732da4211bb82d7db07797913063",
       "source": "https://github.com/Darkatek7/PS5SD"
     },
     {
