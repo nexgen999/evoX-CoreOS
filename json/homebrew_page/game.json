@@ -716,6 +716,20 @@
       "source": "https://github.com/bystritskiy/reUndr2-ps5"
     },
     {
+      "name": "Mario Kart World: Pit Stop",
+      "filename": "PPSA99193.zip",
+      "url": "https://github.com/exploitizm/mkw-pit-stop/releases/download/ps5-0.2.1/mkw-pit-stop-0.2.1-ps5-placeholder-PPSA99193.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99193/ps5-0.2.1/PPSA99193.zip",
+      "description": "Native PS5 port of Mario Kart World (mkw-recomp). Install this, then build the full title on your PC from your own Switch 2 dump (1.8.0 or 1.0.0) with the Pit Stop builder.",
+      "version": "ps5-0.2.1",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99193",
+      "author": "exploitizm",
+      "checksum": "4a830c72a731e38ce021d5e1b1bb62decaeb9d7e6b3ebf2d6723384f8c86ba74",
+      "source": "https://github.com/exploitizm/mkw-pit-stop"
+    },
+    {
       "name": "Lost Odyssey",
       "filename": "PPSA99212.zip",
       "url": "https://github.com/dragonscales123/LostOdysseyRecompPS5/releases/download/v0.2.0-beta.5/LostOdyssey-PS5.zip",

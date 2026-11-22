@@ -32,15 +32,15 @@
         {
             "name": "Playden",
             "filename": "FAKE77031.zip",
-            "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.12.0-beta.3/playden-ps5-0.12.0-beta.3.zip",
-            "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.12.0-beta.3/FAKE77031.zip",
+            "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.12.0-beta.4/playden-ps5-0.12.0-beta.4.zip",
+            "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.12.0-beta.4/FAKE77031.zip",
             "description": "Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.",
-            "version": "0.12.0-beta.3",
+            "version": "0.12.0-beta.4",
             "category": "Apps",
             "kind": "app",
             "titleid": "FAKE77031",
             "author": "leolobato",
-            "checksum": "1d64057d5f78e89a5edcea4e57d8edb4a51173f7c7b80d3ec1b5c36e24e2888a",
+            "checksum": "0465a58feb9a94b3e7946ae0cc964d2d23ed68ac2a35f2aceb7a77da4f87e455",
             "source": "https://github.com/leolobato/playden-ps5"
         },
         {
@@ -158,15 +158,15 @@
         {
             "name": "PC5",
             "filename": "PPSA11018.zip",
-            "url": "https://github.com/bornaradusin/PC5/releases/download/v2.4.5/PPSA11018.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.4.5/PPSA11018.zip",
+            "url": "https://github.com/bornaradusin/PC5/releases/download/v2.4.6/PPSA11018.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.4.6/PPSA11018.zip",
             "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.",
-            "version": "2.4.5",
+            "version": "2.4.6",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA11018",
             "author": "bornaradusin",
-            "checksum": "58cd8d9aedb2751c475b1c1f1a38102752c7fd100db2b75558d4618147228d56",
+            "checksum": "cf4aca9285d338dbc406050fd6945549dc925b6783339a34baa05ebb4396d230",
             "source": "https://github.com/bornaradusin/PC5"
         },
         {
@@ -396,15 +396,15 @@
         {
             "name": "fceuxs5",
             "filename": "PPSA51855.zip",
-            "url": "https://github.com/Richie133/fceuxs5/releases/download/01.000.000/fceuxs5-v1.0-PPSA51855.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA51855/01.000.000/PPSA51855.zip",
+            "url": "https://github.com/Richie133/fceuxs5/releases/download/01.001.000/fceuxs5-v1.1-PPSA51855.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA51855/01.001.000/PPSA51855.zip",
             "description": "Nes emulator for ps5. Based on fceux",
-            "version": "01.000.000",
+            "version": "01.001.000",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA51855",
             "author": "Richie133",
-            "checksum": "e5da31207b85a97e63c6b2c0fd069db11a42ca60dd9093a1ff442fdfdad8ac55",
+            "checksum": "b3bd749cd3bd2c4df9cbb5e1c86a73844acf878ba5f41cbc070bd7b28e77b1d3",
             "source": "https://github.com/Richie133/fceuxs5"
         },
         {
@@ -1586,15 +1586,15 @@
         {
             "name": "RetroArch",
             "filename": "PPSA99169.zip",
-            "url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v4.4.0-beta-4/PS5_RetroArch-v4.4.0-beta-4.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99169/4.4.0-beta-4/PPSA99169.zip",
+            "url": "https://github.com/mihawk-99/PS5_RetroArch/releases/download/v4.7.0-beta-4/PS5_RetroArch-v4.7.0-beta-4.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99169/4.7.0-beta-4/PPSA99169.zip",
             "description": "Native RetroArch port for PS5 with cores for NES, SNES, GBA, Genesis, arcade, PSP, GameCube/Wii and PS2.",
-            "version": "4.4.0-beta-4",
+            "version": "4.7.0-beta-4",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99169",
             "author": "Mihawk",
-            "checksum": "de1c1d5edf416b5c6869055615cb092e3c70f9ffe361805b3771f3aa1c58c2e0",
+            "checksum": "31510fb32b1e0b2b3c41d1232f5730ec9d8e4c248c7d6b5a63adddd5f880a455",
             "source": "https://github.com/mihawk-99/PS5_RetroArch"
         },
         {
@@ -1654,6 +1654,20 @@
             "source": "https://github.com/desstannsoftware/pscord"
         },
         {
+            "name": "Mario Kart World: Pit Stop",
+            "filename": "PPSA99193.zip",
+            "url": "https://github.com/exploitizm/mkw-pit-stop/releases/download/ps5-0.2.1/mkw-pit-stop-0.2.1-ps5-placeholder-PPSA99193.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA99193/ps5-0.2.1/PPSA99193.zip",
+            "description": "Native PS5 port of Mario Kart World (mkw-recomp). Install this, then build the full title on your PC from your own Switch 2 dump (1.8.0 or 1.0.0) with the Pit Stop builder.",
+            "version": "ps5-0.2.1",
+            "category": "Games",
+            "kind": "game",
+            "titleid": "PPSA99193",
+            "author": "exploitizm",
+            "checksum": "4a830c72a731e38ce021d5e1b1bb62decaeb9d7e6b3ebf2d6723384f8c86ba74",
+            "source": "https://github.com/exploitizm/mkw-pit-stop"
+        },
+        {
             "name": "PS5SX2",
             "filename": "PPSA99203.zip",
             "url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-321/PS5SX2-vk-285-321.zip",
@@ -1670,15 +1684,15 @@
         {
             "name": "Parallax Browser",
             "filename": "PPSA99207.zip",
-            "url": "https://github.com/rikleigh/parallax-browser/releases/download/v0.4.0/parallax-browser-0.4.0.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99207/0.4.0/PPSA99207.zip",
+            "url": "https://github.com/rikleigh/parallax-browser/releases/download/v0.4.1/parallax-browser-0.4.1.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99207/0.4.1/PPSA99207.zip",
             "description": "A fast Web browser for the PS5 with WebGL, WebGPU, Gamepad API, hardware video decoding up to 8K, and PS VR2 video playback.",
-            "version": "0.4.0",
+            "version": "0.4.1",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99207",
             "author": "Rik Leigh",
-            "checksum": "8983ba6c20613c6b686afa53b9ec33bbe9ccdcacd9a4ae34d298681e6272faa8",
+            "checksum": "0d9a1d0bc34f7d09d968c0cacc51914ee60271c8d22d4e57ce9b0b0579b41cea",
             "source": "https://github.com/rikleigh/parallax-browser"
         },
         {
@@ -2188,15 +2202,15 @@
         {
             "name": "Emby5",
             "filename": "PPSA99515.zip",
-            "url": "https://github.com/bornaradusin/Emby5/releases/download/1.3.3/Emby5-1.3.3.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99515/1.3.3/PPSA99515.zip",
+            "url": "https://github.com/bornaradusin/Emby5/releases/download/1.3.4/Emby5-1.3.4.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99515/1.3.4/PPSA99515.zip",
             "description": "A native Emby/Jellyfin client for PlayStation 5 with media playback, optional Seerr requests, IPTV and VOD",
-            "version": "1.3.3",
+            "version": "1.3.4",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99515",
             "author": "bornaradusin",
-            "checksum": "4db1686f4dcd57c32596b88d3c9ccb514d3af5af3260997594d96707562a6569",
+            "checksum": "8d44c950ef38a7564ae0647f41e2aeb315edcf684d66e4f4fec76e34b25baa6c",
             "source": "https://github.com/bornaradusin/Emby5"
         },
         {
@@ -2286,15 +2300,15 @@
         {
             "name": "PS5SD",
             "filename": "PPSA99576.zip",
-            "url": "https://github.com/Darkatek7/PS5SD/releases/download/v1.8.2/PPSA99576.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99576/1.8.2/PPSA99576.zip",
+            "url": "https://github.com/Darkatek7/PS5SD/releases/download/v1.8.5/PPSA99576.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99576/1.8.5/PPSA99576.zip",
             "description": "Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.",
-            "version": "1.8.2",
+            "version": "1.8.5",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99576",
             "author": "Darkatek7",
-            "checksum": "16ae7fd89cf8b0606182aabc471c17b611b3732da4211bb82d7db07797913063",
+            "checksum": "90da12138142605f43c6685454ff1f7864ec6105ff16d4730421a425e86cc35a",
             "source": "https://github.com/Darkatek7/PS5SD"
         },
         {

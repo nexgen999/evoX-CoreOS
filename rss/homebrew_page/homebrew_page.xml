@@ -20,7 +20,7 @@
       <title>Playden</title>
       <link>https://github.com/leolobato/playden-ps5</link>
       <description>Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.</description>
-      <pubDate>0.12.0-beta.3</pubDate>
+      <pubDate>0.12.0-beta.4</pubDate>
     </item>
     <item>
       <title>PS5Term</title>
@@ -74,7 +74,7 @@
       <title>PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.</description>
-      <pubDate>2.4.5</pubDate>
+      <pubDate>2.4.6</pubDate>
     </item>
     <item>
       <title>Home5</title>
@@ -176,7 +176,7 @@
       <title>fceuxs5</title>
       <link>https://github.com/Richie133/fceuxs5</link>
       <description>Nes emulator for ps5. Based on fceux</description>
-      <pubDate>01.000.000</pubDate>
+      <pubDate>01.001.000</pubDate>
     </item>
     <item>
       <title>ccleste</title>
@@ -686,7 +686,7 @@
       <title>RetroArch</title>
       <link>https://github.com/mihawk-99/PS5_RetroArch</link>
       <description>Native RetroArch port for PS5 with cores for NES, SNES, GBA, Genesis, arcade, PSP, GameCube/Wii and PS2.</description>
-      <pubDate>4.4.0-beta-4</pubDate>
+      <pubDate>4.7.0-beta-4</pubDate>
     </item>
     <item>
       <title>MihawkOS</title>
@@ -713,6 +713,12 @@
       <pubDate>01.000.010</pubDate>
     </item>
     <item>
+      <title>Mario Kart World: Pit Stop</title>
+      <link>https://github.com/exploitizm/mkw-pit-stop</link>
+      <description>Native PS5 port of Mario Kart World (mkw-recomp). Install this, then build the full title on your PC from your own Switch 2 dump (1.8.0 or 1.0.0) with the Pit Stop builder.</description>
+      <pubDate>ps5-0.2.1</pubDate>
+    </item>
+    <item>
       <title>PS5SX2</title>
       <link>https://github.com/Swordpdf/PS5SX2</link>
       <description>PCSX2 port for PS5 that runs PS2 games natively with a Vulkan renderer, up to 6x resolution and settings from your phone. Bring your own BIOS and games.</description>
@@ -722,7 +728,7 @@
       <title>Parallax Browser</title>
       <link>https://github.com/rikleigh/parallax-browser</link>
       <description>A fast Web browser for the PS5 with WebGL, WebGPU, Gamepad API, hardware video decoding up to 8K, and PS VR2 video playback.</description>
-      <pubDate>0.4.0</pubDate>
+      <pubDate>0.4.1</pubDate>
     </item>
     <item>
       <title>Lost Odyssey</title>
@@ -944,7 +950,7 @@
       <title>Emby5</title>
       <link>https://github.com/bornaradusin/Emby5</link>
       <description>A native Emby/Jellyfin client for PlayStation 5 with media playback, optional Seerr requests, IPTV and VOD</description>
-      <pubDate>1.3.3</pubDate>
+      <pubDate>1.3.4</pubDate>
     </item>
     <item>
       <title>Régie5</title>
@@ -986,7 +992,7 @@
       <title>PS5SD</title>
       <link>https://github.com/Darkatek7/PS5SD</link>
       <description>Stable Diffusion, SDXL and FLUX image generation on the PS5 GPU, with a web UI, A1111 and OpenAI compatible APIs and a built-in model downloader.</description>
-      <pubDate>1.8.2</pubDate>
+      <pubDate>1.8.5</pubDate>
     </item>
     <item>
       <title>PS5MG</title>

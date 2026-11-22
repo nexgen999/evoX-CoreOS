@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.22-0523)
+### 🚀 Synthèse de la mise à jour (v2026.11.22-1418)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -149,7 +149,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PS5_Unified_Autoloader_v0.1.7-abc3b82.elf`
   * `pldmgr_v0.6.3.elf`
   * `ELF_Arsenal_v1.6.23.elf`
-  * `Kura_v1.6.59.elf`
+  * `Kura_v1.6.60.elf`
   * `PIZZA-HEN_v2.00.elf`
   * `onionHEN_v0.9.0.elf`
   * `etaHEN-2.6B.bin`
@@ -378,6 +378,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99180.zip`
   * `PPSA99186.zip`
   * `PPSA99190.zip`
+  * `PPSA99193.zip`
   * `PPSA99203.zip`
   * `PPSA99207.zip`
   * `PPSA99212.zip`

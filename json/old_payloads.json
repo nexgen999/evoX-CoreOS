@@ -932,7 +932,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "c3e24a59c23a79343ca1fafc0887d2d6b539d222ccdc7157494a592847271fda",
+            "checksum": "5d0c2be36da2af3cbddcefe9708ac5b65bee18cc087dd41bc539b0e9f9893f57",
             "source": "https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf"
         },
         {
@@ -1145,12 +1145,12 @@
             "source": "https://git.etawen.dev/soniciso/elf-arsenal/releases"
         },
         {
-            "name": "Kura V1.6.59",
-            "filename": "Kura_v1.6.59.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/Kura/v1.6.59/Kura_v1.6.59.elf",
-            "local_path": "payloads/ps5_hen_loader/Kura/v1.6.59/Kura_v1.6.59.elf",
+            "name": "Kura V1.6.60",
+            "filename": "Kura_v1.6.60.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/Kura/v1.6.60/Kura_v1.6.60.elf",
+            "local_path": "payloads/ps5_hen_loader/Kura/v1.6.60/Kura_v1.6.60.elf",
             "description": "Un loader de payloads moderne et épuré conçu pour optimiser l",
-            "version": "v1.6.59",
+            "version": "v1.6.60",
             "category": "PS5 HEN Loader",
             "checksum": "c3bfb1db0f1fda7fe640e95711d78ae2cf9e94efa12742b5fc19c660ec43d627",
             "source": "https://github.com/NookieAI/kura/releases"

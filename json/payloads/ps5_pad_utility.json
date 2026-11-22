@@ -86,7 +86,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "c3e24a59c23a79343ca1fafc0887d2d6b539d222ccdc7157494a592847271fda",
+      "checksum": "5d0c2be36da2af3cbddcefe9708ac5b65bee18cc087dd41bc539b0e9f9893f57",
       "source": "https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf"
     }
   ]

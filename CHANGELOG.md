@@ -1,5 +1,18 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 22/11/2026 à 14:18
+* **PAYLOADS**
+  * `Kura V1.6.60` (v1.6.60) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `Playden` (0.12.0-beta.4) - *Mise à jour (Précédent: 0.12.0-beta.3)*
+  * `PC5` (2.4.6) - *Mise à jour (Précédent: 2.4.5)*
+  * `fceuxs5` (01.001.000) - *Mise à jour (Précédent: 01.000.000)*
+  * `RetroArch` (4.7.0-beta-4) - *Mise à jour (Précédent: 4.4.0-beta-4)*
+  * `Mario Kart World: Pit Stop` (ps5-0.2.1) - *Nouveau*
+  * `Parallax Browser` (0.4.1) - *Mise à jour (Précédent: 0.4.0)*
+  * `Emby5` (1.3.4) - *Mise à jour (Précédent: 1.3.3)*
+  * `PS5SD` (1.8.5) - *Mise à jour (Précédent: 1.8.2)*
+
 ## Build du 22/11/2026 à 05:23
 * **PAYLOADS**
   * `Kura V1.6.59` (v1.6.59) - *Nouveau*

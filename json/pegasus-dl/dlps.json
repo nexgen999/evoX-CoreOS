@@ -177,7 +177,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/a091f7d49b863c1fead79684e09e060e60da4fbb9c6eb0b7a2e28e41ab54366a",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/a091f7d49b863c1fead79684e09e060e60da4fbb9c6eb0b7a2e28e41ab54366a",
-      "description": "Region: EUR\nRelease note: Works on 9.xx and higher\nContributor: @Desesperado3",
+      "description": "Variant: EUR 9.xx\nRegion: EUR\nRelease note: Works on 9.xx and higher\nContributor: @Desesperado3\n\nVariant: USA exFAT 02.000.001\nRegion: USA\nRelease note: exFAT format — FW 02.000.001 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/five-nights-at-freddys-into-the-pit-ps5/",
       "downloadLinks": [
         {
@@ -191,6 +191,22 @@
         {
           "name": "EUR 9.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/ZFyv8zE0W1"
+        },
+        {
+          "name": "USA exFAT 02.000.001 Base - DATA (exFAT)",
+          "url": "https://link-vault.org/c/69R1CZUj#DataNodes"
+        },
+        {
+          "name": "USA exFAT 02.000.001 Base - FileK (exFAT)",
+          "url": "https://link-vault.org/c/69R1CZUj#FileKeeper"
+        },
+        {
+          "name": "USA exFAT 02.000.001 Base - AKIA (exFAT)",
+          "url": "https://link-vault.org/c/69R1CZUj#AkiraBox"
+        },
+        {
+          "name": "USA exFAT 02.000.001 Base - VIKI (exFAT)",
+          "url": "https://link-vault.org/c/69R1CZUj#VikingFile"
         }
       ]
     },
@@ -369,7 +385,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/7880b7fe8a6c79cd35c698f6338a51deb88c8dd526f9ed44043b1de6e91e8b3e",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/53abe44233c0c0daf36ec949aff4f4458b791c13441b3f2e0e04ddb2499c6def",
-      "description": "Region: JPN\nRelease note: Works on 7.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "description": "Variant: JPN 7.xx\nRegion: JPN\nRelease note: Works on 7.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.\n\nVariant: JPN exFAT 01.001\nRegion: JPN\nRelease note: exFAT format — FW 01.001 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/metal-slug-attack-reloaded-ps5/",
       "downloadLinks": [
         {
@@ -383,6 +399,22 @@
         {
           "name": "JPN 7.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/2gQio0Cjlr"
+        },
+        {
+          "name": "JPN exFAT 01.001 Base - DATA (exFAT)",
+          "url": "https://link-vault.org/c/fySIHQd8#DataNodes"
+        },
+        {
+          "name": "JPN exFAT 01.001 Base - FileK (exFAT)",
+          "url": "https://link-vault.org/c/fySIHQd8#FileKeeper"
+        },
+        {
+          "name": "JPN exFAT 01.001 Base - AKIA (exFAT)",
+          "url": "https://link-vault.org/c/fySIHQd8#AkiraBox"
+        },
+        {
+          "name": "JPN exFAT 01.001 Base - VIKI (exFAT)",
+          "url": "https://link-vault.org/c/fySIHQd8#VikingFile"
         }
       ]
     },
@@ -441,7 +473,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/90f1a7bb42dc3f16d052a4c2b689fd0bac5e5972a8931f80fd104d5cb59b0a73",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/8eace4559a549ef121c2ef8491b4ed561f58af75788b1f53f55b68157a9f9de6",
-      "description": "Region: USA\nRelease note: Works on 4.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "description": "Variant: USA 4.xx\nRegion: USA\nRelease note: Works on 4.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.\n\nVariant: USA exFAT 01.001\nRegion: USA\nRelease note: exFAT format — FW 01.001 — 4.xx and beyond\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/this-war-of-mine-final-cut-ps5/",
       "downloadLinks": [
         {
@@ -455,6 +487,22 @@
         {
           "name": "USA 4.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/qlYo0BdPbp"
+        },
+        {
+          "name": "USA exFAT 01.001 Base - DATA (exFAT)",
+          "url": "https://link-vault.org/c/7jPNl9dn#DataNodes"
+        },
+        {
+          "name": "USA exFAT 01.001 Base - FileK (exFAT)",
+          "url": "https://link-vault.org/c/7jPNl9dn#FileKeeper"
+        },
+        {
+          "name": "USA exFAT 01.001 Base - AKIA (exFAT)",
+          "url": "https://link-vault.org/c/7jPNl9dn#AkiraBox"
+        },
+        {
+          "name": "USA exFAT 01.001 Base - VIKI (exFAT)",
+          "url": "https://link-vault.org/c/7jPNl9dn#VikingFile"
         }
       ]
     },
@@ -3041,20 +3089,20 @@
           "url": "https://vikingfile.com/f/WhvxaSfRz2"
         },
         {
-          "name": "USA exFAT 01.300 Base - DATA (exFAT)",
-          "url": "https://link-vault.org/c/szv-k-9X#DataNodes"
+          "name": "USA exFAT 01.300 Base - DataNodes",
+          "url": "https://datanodes.to/50tsxy36u53y/PPSA36301.7z"
         },
         {
-          "name": "USA exFAT 01.300 Base - FileK (exFAT)",
-          "url": "https://link-vault.org/c/szv-k-9X#FileKeeper"
+          "name": "USA exFAT 01.300 Base - FileKeeper",
+          "url": "https://filekeeper.net/9j7edbmnx95c/PPSA36301.7z"
         },
         {
-          "name": "USA exFAT 01.300 Base - AKIA (exFAT)",
-          "url": "https://link-vault.org/c/szv-k-9X#AkiraBox"
+          "name": "USA exFAT 01.300 Base - Akirabox",
+          "url": "https://akirabox.to/5pVzNKB1WG7w/file"
         },
         {
-          "name": "USA exFAT 01.300 Base - VIKI (exFAT)",
-          "url": "https://link-vault.org/c/szv-k-9X#VikingFile"
+          "name": "USA exFAT 01.300 Base - Vikingfile",
+          "url": "https://vikingfile.com/f/TlR1T8dD2H"
         }
       ]
     },
@@ -150346,6 +150394,35 @@
         {
           "name": "USA exFAT 01.004 Base - Vault (exFAT)",
           "url": "https://datavaults.co/6qmhde3tm198"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA28769",
+      "title": "[exFAT] Cairn Deluxe Edition",
+      "createdAt": "2026-11-22T13:37:37.687Z",
+      "version": "01.001.393",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/3a165fd9e85b2bf4bc061bb04ce532e7c1d2a8c3a686a2c0c5aec140843070cd",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/614efe714070c2ca6fb92e2add3451d9cc6c4154f5092254c507e58fffa91373",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.001.393 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.001.393 Base - DATA (exFAT)",
+          "url": "https://link-vault.org/c/jhxLAPuB#DataNodes"
+        },
+        {
+          "name": "EUR exFAT 01.001.393 Base - FileK (exFAT)",
+          "url": "https://link-vault.org/c/jhxLAPuB#FileKeeper"
+        },
+        {
+          "name": "EUR exFAT 01.001.393 Base - AKIA (exFAT)",
+          "url": "https://link-vault.org/c/jhxLAPuB#AkiraBox"
+        },
+        {
+          "name": "EUR exFAT 01.001.393 Base - VIKI (exFAT)",
+          "url": "https://link-vault.org/c/jhxLAPuB#VikingFile"
         }
       ]
     },

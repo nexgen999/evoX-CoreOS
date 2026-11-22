@@ -3,6 +3,206 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA28769",
+      "title": "Cairn Deluxe Edition",
+      "createdAt": "2026-11-22T11:22:26.196Z",
+      "version": "v01.001.393",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/3a165fd9e85b2bf4bc061bb04ce532e7c1d2a8c3a686a2c0c5aec140843070cd",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/614efe714070c2ca6fb92e2add3451d9cc6c4154f5092254c507e58fffa91373",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA28769, v01.001.393, EUR, 4.xx BackPort\nSize: 12GB\nCredits: Files: Zhengpai Yanba; Backport: DecKerr97 GUI; DLC: Pippo &amp; Zhengpai Yanba\nHow to play: Note: Own ZSTD Extractor. FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 11.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/SMdcCzZj#DataNodes"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://link-vault.org/c/SMdcCzZj#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/jhxLAPuB#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/jhxLAPuB#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/jhxLAPuB#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/jhxLAPuB#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/U9XCGO4I#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/U9XCGO4I#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/U9XCGO4I#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/U9XCGO4I#FileKeeper"
+        }
+      ],
+      "sizeBytes": 12884901888
+    },
+    {
+      "titleId": "PPSA18431",
+      "title": "Five Nights at Freddys Into the Pit",
+      "createdAt": "2026-11-22T11:22:26.196Z",
+      "version": "v02.000.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/a091f7d49b863c1fead79684e09e060e60da4fbb9c6eb0b7a2e28e41ab54366a",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/a091f7d49b863c1fead79684e09e060e60da4fbb9c6eb0b7a2e28e41ab54366a",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA18431, v02.000.001, USA, 4.xx BackPort\nSize: 4GB\nCredits: Files: Desesperado3; Backport: DecKerr97 GUI\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 9.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/69R1CZUj#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/69R1CZUj#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/69R1CZUj#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/69R1CZUj#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/gxh-ERFU#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/gxh-ERFU#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/gxh-ERFU#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/gxh-ERFU#FileKeeper"
+        }
+      ],
+      "sizeBytes": 4294967296
+    },
+    {
+      "titleId": "PPSA15476",
+      "title": "METAL SLUG ATTACK RELOADED",
+      "createdAt": "2026-11-22T11:22:26.196Z",
+      "version": "v01.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/7880b7fe8a6c79cd35c698f6338a51deb88c8dd526f9ed44043b1de6e91e8b3e",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/53abe44233c0c0daf36ec949aff4f4458b791c13441b3f2e0e04ddb2499c6def",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA15476, v01.001, JPN, 4.xx BackPort\nSize: 7GB\nCredits: Files: Zhengpai Yanba; Backport: DecKerr97 GUI\nHow to play: Note: Own ZSTD Extractor. FPKG atm is only working up to 11.60, use Dump if you are above. About Dump: SDK is 7.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/fySIHQd8#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/fySIHQd8#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/fySIHQd8#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/fySIHQd8#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/4O5VLxgR#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/4O5VLxgR#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/4O5VLxgR#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/4O5VLxgR#FileKeeper"
+        }
+      ],
+      "sizeBytes": 7516192768
+    },
+    {
+      "titleId": "PPSA05103",
+      "title": "This War of Mine Final Cut",
+      "createdAt": "2026-11-22T11:22:26.196Z",
+      "version": "v01.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/90f1a7bb42dc3f16d052a4c2b689fd0bac5e5972a8931f80fd104d5cb59b0a73",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/8eace4559a549ef121c2ef8491b4ed561f58af75788b1f53f55b68157a9f9de6",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA05103, v01.001, USA, 4.xx and beyond\nSize: 2GB\nCredits: Files: Zhengpai Yanba; DLC: Pippo &amp; Zhengpai Yanba\nHow to play: Note: Own ZSTD Extractor. FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "DLC - DataNodes",
+          "url": "https://link-vault.org/c/OVTRElli#DataNodes"
+        },
+        {
+          "name": "DLC - DataVaults",
+          "url": "https://link-vault.org/c/OVTRElli#DataVaults"
+        },
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/7jPNl9dn#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/7jPNl9dn#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/7jPNl9dn#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/7jPNl9dn#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/UV8i52JA#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/UV8i52JA#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/UV8i52JA#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/UV8i52JA#FileKeeper"
+        }
+      ],
+      "sizeBytes": 2147483648
+    },
+    {
       "titleId": "PPSA18986",
       "title": "The Legend of Heroes Trails through Daybreak Ultimate Edition",
       "createdAt": "2026-11-21T11:24:06.389Z",
@@ -10,7 +210,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/aab78ef77463d9a6c03f7a52e45d93923c0bfed4e436159fc9c6dd22cb3b6538",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/e1600d6273da5754ff705b8a805b0088821075cafe5377112181f3c0aa76c750",
-      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA18986, v01.002, USA, 4.xx and beyond\nSize: 35GB\nCredits: Files: DUPLEX; Backport: DecKerr97 GUI; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
+      "description": "Builds: DLC, Dump, Fpkg\nTags: PPSA18986, v01.002, USA, 4.xx and beyond\nSize: 35GB\nCredits: Files: DUPLEX; DLC: DUPLEX\nHow to play: FPKG atm is only working up to 11.60, use Dump if you are above.",
       "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
       "downloadLinks": [
         {
@@ -369,19 +569,19 @@
       "downloadLinks": [
         {
           "name": "Dump - DataNodes",
-          "url": "https://link-vault.org/c/szv-k-9X#DataNodes"
+          "url": "https://datanodes.to/50tsxy36u53y/PPSA36301.7z"
         },
         {
           "name": "Dump - FileKeeper",
-          "url": "https://link-vault.org/c/szv-k-9X#FileKeeper"
+          "url": "https://filekeeper.net/9j7edbmnx95c/PPSA36301.7z"
         },
         {
           "name": "Dump - AkiraBox",
-          "url": "https://link-vault.org/c/szv-k-9X#AkiraBox"
+          "url": "https://akirabox.to/5pVzNKB1WG7w/file"
         },
         {
           "name": "Dump - VikingFile",
-          "url": "https://link-vault.org/c/szv-k-9X#VikingFile"
+          "url": "https://vikingfile.com/f/TlR1T8dD2H"
         },
         {
           "name": "Fpkg - AkiraBox",
