@@ -793,14 +793,14 @@
             "source": "https://github.com/ps5-linux/ps5-linux-loader/releases"
         },
         {
-            "name": "Webkit-Autoloader-Installer V0.8.3",
-            "filename": "webkit-autoloader-installer_v0.8.3.elf",
-            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.8.3/webkit-autoloader-installer_v0.8.3.elf",
-            "local_path": "payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.8.3/webkit-autoloader-installer_v0.8.3.elf",
+            "name": "Webkit-Autoloader-Installer V0.8.4",
+            "filename": "webkit-autoloader-installer_v0.8.4.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.8.4/webkit-autoloader-installer_v0.8.4.elf",
+            "local_path": "payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.8.4/webkit-autoloader-installer_v0.8.4.elf",
             "description": "Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00.",
-            "version": "v0.8.3",
+            "version": "v0.8.4",
             "category": "Ps5-Webkit-Autoloader",
-            "checksum": "f4b0dee9af572ea1cb77aaf1e6fc5bf8ef520fc0a0a30753dd94a5cbdc04dd8e",
+            "checksum": "6224b1d4e221b3dcae1f198883ee998f16c824e518112e64189c5d1d376ed8d6",
             "source": "https://github.com/itsPLK/ps5-webkit-autoloader/releases"
         },
         {
@@ -932,7 +932,7 @@
             "description": "Connect your Bluetooth controllers to your PS5 console.",
             "version": "Source-Fixe",
             "category": "PS5 Pad Utility",
-            "checksum": "f441b38815b47db2c871484e276d5603934064bd7379b53e62168dbe51b01fd8",
+            "checksum": "fa4456bccfb3afa52ec933dfe5c6b156cf8eed9f38847e189e3a7f5118c97f18",
             "source": "https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf"
         },
         {
@@ -1189,6 +1189,17 @@
             "source": "https://github.com/notmaj0r/ProsperoMgr/releases"
         },
         {
+            "name": "Garlic-Worker V1.5.6",
+            "filename": "garlic-worker_v1.5.6.elf",
+            "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.5.6/garlic-worker_v1.5.6.elf",
+            "local_path": "payloads/ps5_saves/garlic-worker/v1.5.6/garlic-worker_v1.5.6.elf",
+            "description": "Garlic worker payload component.",
+            "version": "v1.5.6",
+            "category": "PS5 Saves",
+            "checksum": "9cee1b261cc257e08997c0da109109b24d829c362117ebb293f277087033f5c2",
+            "source": "https://git.etawen.dev/earthonion/garlic-worker/releases"
+        },
+        {
             "name": "Savemnt-Offset-Dumper V1.0.0",
             "filename": "savemnt-offset-dumper_v1.0.0.elf",
             "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf",
@@ -1270,15 +1281,6 @@
             "description": "Récupéré depuis le stockage local (Interne / Fallback)",
             "version": "ps5-web-file-manager",
             "checksum": "cbcdacf69c331025e1643fc99f5b5fc117125e7c39931b6dd914323412558911"
-        },
-        {
-            "name": "Garlic-Worker V1.5.6",
-            "filename": "garlic-worker_v1.5.6.elf",
-            "url": "",
-            "local_path": "payloads/ps5_saves/garlic-worker/v1.5.6/garlic-worker_v1.5.6.elf",
-            "description": "Récupéré depuis le stockage local (Interne / Fallback)",
-            "version": "garlic-worker",
-            "checksum": "9cee1b261cc257e08997c0da109109b24d829c362117ebb293f277087033f5c2"
         },
         {
             "name": "Garlic-Savemgr V2.0",

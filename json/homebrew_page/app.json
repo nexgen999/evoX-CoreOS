@@ -200,15 +200,15 @@
     {
       "name": "KamTape for PS5",
       "filename": "PPSA52005.zip",
-      "url": "https://github.com/Richie133/Kamtape-PS5/releases/download/v0.2.0-beta/PPSA52005.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA52005/0.2.0-beta/PPSA52005.zip",
+      "url": "https://github.com/Richie133/Kamtape-PS5/releases/download/v0.3.0-beta/PPSA52005.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA52005/0.3.0-beta/PPSA52005.zip",
       "description": "Kamtape is a retro YouTube clone. Now on ps5",
-      "version": "0.2.0-beta",
+      "version": "0.3.0-beta",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA52005",
       "author": "Richie133",
-      "checksum": "3847314fc35f3c879beecf5b5d98c3e26560ca577e56daa1802d0e28363a32d5",
+      "checksum": "af2f1881e066925b13eba8bb0d9c3b0741629e414c847060ee8f3e7b41dacc24",
       "source": "https://github.com/Richie133/Kamtape-PS5"
     },
     {
@@ -322,6 +322,20 @@
       "author": "s0liton",
       "checksum": "789449f36a12dad79fe9ee608c8c835db1d7e1458a7e804d12e25e93fa09afd1",
       "source": "https://github.com/s0liton/RommPS"
+    },
+    {
+      "name": "RipperPS",
+      "filename": "PPSA76700.zip",
+      "url": "https://github.com/s0liton/RipperPS/releases/download/v0.1.0/PPSA76700.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA76700/0.1.0/PPSA76700.zip",
+      "description": "Rip your game, movie and music discs right on your PS5. Still experimental and getting better over time, and you can help by running the drive test in Settings with different kinds of discs.",
+      "version": "0.1.0",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA76700",
+      "author": "s0liton",
+      "checksum": "75dcdd48ab936c9f4c97e50cddb5112c75884a9fe76bef33033e7ae9d5050d70",
+      "source": "https://github.com/s0liton/RipperPS"
     },
     {
       "name": "Stremio",
@@ -620,15 +634,15 @@
     {
       "name": "Media Player Classic PS5",
       "filename": "PPSA99015.zip",
-      "url": "https://github.com/MisterTemaki/MediaPlayerClassicPS5/releases/download/v1.6.3/MediaPlayerClassicPS5-v1.6.3-PPSA99015.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99015/1.6.3/PPSA99015.zip",
+      "url": "https://github.com/MisterTemaki/MediaPlayerClassicPS5/releases/download/v1.7.0/MediaPlayerClassicPS5-v1.7.0-PPSA99015.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99015/1.7.0/PPSA99015.zip",
       "description": "Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.",
-      "version": "1.6.3",
+      "version": "1.7.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99015",
       "author": "MisterTemaki",
-      "checksum": "6a6eedf66360ef35b4999c0e0323fb113d19771d43f897d10314befb7073d801",
+      "checksum": "6b527b9f81f52c5470c9c677a0885a9941aece3ec61a137906f1698ad9839f07",
       "source": "https://github.com/MisterTemaki/MediaPlayerClassicPS5"
     },
     {
@@ -900,15 +914,15 @@
     {
       "name": "Parallax Browser",
       "filename": "PPSA99207.zip",
-      "url": "https://github.com/rikleigh/parallax-browser/releases/download/v0.4.1/parallax-browser-0.4.1.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99207/0.4.1/PPSA99207.zip",
+      "url": "https://github.com/rikleigh/parallax-browser/releases/download/v0.4.2/parallax-browser-0.4.2.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99207/0.4.2/PPSA99207.zip",
       "description": "A fast Web browser for the PS5 with WebGL, WebGPU, Gamepad API, hardware video decoding up to 8K, and PS VR2 video playback.",
-      "version": "0.4.1",
+      "version": "0.4.2",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99207",
       "author": "Rik Leigh",
-      "checksum": "0d9a1d0bc34f7d09d968c0cacc51914ee60271c8d22d4e57ce9b0b0579b41cea",
+      "checksum": "c8d22f85558ea3840ad3dd026b9d4f8f91d9315e651174f8d536aaf0415d87a7",
       "source": "https://github.com/rikleigh/parallax-browser"
     },
     {

@@ -188,7 +188,7 @@
       <title>KamTape for PS5</title>
       <link>https://github.com/Richie133/Kamtape-PS5</link>
       <description>Kamtape is a retro YouTube clone. Now on ps5</description>
-      <pubDate>0.2.0-beta</pubDate>
+      <pubDate>0.3.0-beta</pubDate>
     </item>
     <item>
       <title>ccleste</title>
@@ -303,6 +303,12 @@
       <link>https://github.com/s0liton/RommPS</link>
       <description>Syncs your emulator saves and states with a RomM server and downloads games from your RomM library.</description>
       <pubDate>1.4.3</pubDate>
+    </item>
+    <item>
+      <title>RipperPS</title>
+      <link>https://github.com/s0liton/RipperPS</link>
+      <description>Rip your game, movie and music discs right on your PS5. Still experimental and getting better over time, and you can help by running the drive test in Settings with different kinds of discs.</description>
+      <pubDate>0.1.0</pubDate>
     </item>
     <item>
       <title>Parasite Eve PS5</title>
@@ -578,7 +584,7 @@
       <title>Media Player Classic PS5</title>
       <link>https://github.com/MisterTemaki/MediaPlayerClassicPS5</link>
       <description>Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.</description>
-      <pubDate>1.6.3</pubDate>
+      <pubDate>1.7.0</pubDate>
     </item>
     <item>
       <title>ProsperoEden (Mirror)</title>
@@ -740,7 +746,7 @@
       <title>Parallax Browser</title>
       <link>https://github.com/rikleigh/parallax-browser</link>
       <description>A fast Web browser for the PS5 with WebGL, WebGPU, Gamepad API, hardware video decoding up to 8K, and PS VR2 video playback.</description>
-      <pubDate>0.4.1</pubDate>
+      <pubDate>0.4.2</pubDate>
     </item>
     <item>
       <title>Lost Odyssey</title>

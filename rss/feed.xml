@@ -443,10 +443,10 @@
       <pubDate>v2.5</pubDate>
     </item>
     <item>
-      <title>[Payloads] Webkit-Autoloader-Installer V0.8.3</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.8.3/webkit-autoloader-installer_v0.8.3.elf</link>
+      <title>[Payloads] Webkit-Autoloader-Installer V0.8.4</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5-webkit-autoloader/ps5-webkit-autoloader/v0.8.4/webkit-autoloader-installer_v0.8.4.elf</link>
       <description>Installs WebKit Autoloader on homescreen for firmwares 9.00-12.00.</description>
-      <pubDate>v0.8.3</pubDate>
+      <pubDate>v0.8.4</pubDate>
     </item>
     <item>
       <title>[Payloads] Host-Psm-Poop2Jb-V1.2.0-Instala-Onionhen V1.2.0</title>
@@ -659,6 +659,12 @@
       <pubDate>v1.2.1</pubDate>
     </item>
     <item>
+      <title>[Payloads] Garlic-Worker V1.5.6</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.5.6/garlic-worker_v1.5.6.elf</link>
+      <description>Garlic worker payload component.</description>
+      <pubDate>v1.5.6</pubDate>
+    </item>
+    <item>
       <title>[Payloads] Savemnt-Offset-Dumper V1.0.0</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/savemnt-offset-dumper/1.0.0/savemnt-offset-dumper_v1.0.0.elf</link>
       <description>Offset dumper for save mounting utilities.</description>
@@ -711,12 +717,6 @@
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>ps5-web-file-manager</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Garlic-Worker V1.5.6</title>
-      <link/>
-      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
-      <pubDate>garlic-worker</pubDate>
     </item>
     <item>
       <title>[Payloads] Garlic-Savemgr V2.0</title>
@@ -1316,7 +1316,7 @@
       <title>[ProsperoStore] KamTape for PS5</title>
       <link>https://github.com/Richie133/Kamtape-PS5</link>
       <description>Kamtape is a retro YouTube clone. Now on ps5</description>
-      <pubDate>0.2.0-beta</pubDate>
+      <pubDate>0.3.0-beta</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] ccleste</title>
@@ -1431,6 +1431,12 @@
       <link>https://github.com/s0liton/RommPS</link>
       <description>Syncs your emulator saves and states with a RomM server and downloads games from your RomM library.</description>
       <pubDate>1.4.3</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] RipperPS</title>
+      <link>https://github.com/s0liton/RipperPS</link>
+      <description>Rip your game, movie and music discs right on your PS5. Still experimental and getting better over time, and you can help by running the drive test in Settings with different kinds of discs.</description>
+      <pubDate>0.1.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Parasite Eve PS5</title>
@@ -1706,7 +1712,7 @@
       <title>[ProsperoStore] Media Player Classic PS5</title>
       <link>https://github.com/MisterTemaki/MediaPlayerClassicPS5</link>
       <description>Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.</description>
-      <pubDate>1.6.3</pubDate>
+      <pubDate>1.7.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] ProsperoEden (Mirror)</title>
@@ -1868,7 +1874,7 @@
       <title>[ProsperoStore] Parallax Browser</title>
       <link>https://github.com/rikleigh/parallax-browser</link>
       <description>A fast Web browser for the PS5 with WebGL, WebGPU, Gamepad API, hardware video decoding up to 8K, and PS VR2 video playback.</description>
-      <pubDate>0.4.1</pubDate>
+      <pubDate>0.4.2</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Lost Odyssey</title>

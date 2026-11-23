@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.22-2334)
+### 🚀 Synthèse de la mise à jour (v2026.11.23-0554)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -117,7 +117,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5upload_v9.5.1.elf`
   * `airpsx_v0.19.elf`
   * `ps5-linux-loader_v2.5.elf`
-  * `webkit-autoloader-installer_v0.8.3.elf`
+  * `webkit-autoloader-installer_v0.8.4.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf`
   * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0.elf`
@@ -153,6 +153,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `onionHEN_v0.9.0.elf`
   * `etaHEN-2.6B.bin`
   * `ProsperoMgr.elf`
+  * `garlic-worker_v1.5.6.elf`
   * `savemnt-offset-dumper_v1.0.0.elf`
   * `web-file-mgr_v1.9.elf`
   * `web-file-mgr-v1.9.elf`
@@ -162,7 +163,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `web-file-mgr-v1.11b.elf`
   * `web-file-mgr-v1.13-rc2.elf`
   * `web-file-mgr-v1.11.elf`
-  * `garlic-worker_v1.5.6.elf`
   * `garlic-savemgr_v2.0.elf`
   * `zftpd-ps5-zhttp-v1.6.0.elf`
   * `zftpd-ps5-v1.6.0.elf`
@@ -310,6 +310,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA74207.zip`
   * `PPSA75837.zip`
   * `PPSA76677.zip`
+  * `PPSA76700.zip`
   * `PPSA77022.zip`
   * `PPSA77028.zip`
   * `PPSA77305.zip`

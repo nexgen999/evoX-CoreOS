@@ -1,5 +1,15 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 23/11/2026 à 05:54
+* **PAYLOADS**
+  * `Webkit-Autoloader-Installer V0.8.4` (v0.8.4) - *Nouveau*
+  * `Garlic-Worker V1.5.6` (v1.5.6) - *Mise à jour (Précédent: garlic-worker)*
+* **HOMEBREW_PAGE**
+  * `KamTape for PS5` (0.3.0-beta) - *Mise à jour (Précédent: 0.2.0-beta)*
+  * `RipperPS` (0.1.0) - *Nouveau*
+  * `Media Player Classic PS5` (1.7.0) - *Mise à jour (Précédent: 1.6.3)*
+  * `Parallax Browser` (0.4.2) - *Mise à jour (Précédent: 0.4.1)*
+
 ## Build du 22/11/2026 à 23:34
 * **PAYLOADS**
   * `Garlic-Worker V1.5.6` (garlic-worker) - *Mise à jour (Précédent: v1.5.6)*
