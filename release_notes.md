@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.23-0554)
+### 🚀 Synthèse de la mise à jour (v2026.11.24-1715)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -94,7 +94,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `FGG-Unpack_v0.1.elf`
   * `snes9xPS5_v2.9.elf`
   * `genplusgxPS5_v2.2.elf`
-  * `ps5-romm_v1.4.3.elf`
+  * `ps5-romm_v1.4.4.elf`
   * `fbneo-ps5_v2.4.elf`
   * `PHU-Sandbox.Exit_v1.0.elf`
   * `ps5shopappkg-dpi.elf`
@@ -148,11 +148,13 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `etaHEN_v2.5B.bin`
   * `PS5_Unified_Autoloader_v0.1.7-abc3b82.elf`
   * `pldmgr_v0.6.3.elf`
-  * `Kura_v1.6.60.elf`
+  * `ELF_Arsenal_v1.6.23.elf`
   * `PIZZA-HEN_v2.00.elf`
   * `onionHEN_v0.9.0.elf`
   * `etaHEN-2.6B.bin`
   * `ProsperoMgr.elf`
+  * `np-fake-signin-ps5.elf`
+  * `garlic-savemgr_v2.0.elf`
   * `garlic-worker_v1.5.6.elf`
   * `savemnt-offset-dumper_v1.0.0.elf`
   * `web-file-mgr_v1.9.elf`
@@ -163,7 +165,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `web-file-mgr-v1.11b.elf`
   * `web-file-mgr-v1.13-rc2.elf`
   * `web-file-mgr-v1.11.elf`
-  * `garlic-savemgr_v2.0.elf`
   * `zftpd-ps5-zhttp-v1.6.0.elf`
   * `zftpd-ps5-v1.6.0.elf`
   * `Nuvio-PS5_v1.8.0.elf`
@@ -176,8 +177,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5_overlay.elf`
   * `ps5_overlay_shellui.elf`
   * `PS5X360_v0.5.7.elf`
-  * `np-fake-signin-ps5.elf`
-  * `ELF_Arsenal_v1.6.23.elf`
+  * `Kura_v1.6.60.elf`
 
 </details>
 
@@ -347,6 +347,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA98513.zip`
   * `PPSA98514.zip`
   * `PPSA98515.zip`
+  * `PPSA98537.zip`
   * `PPSA98567.zip`
   * `PPSA98720.zip`
   * `PPSA98766.zip`

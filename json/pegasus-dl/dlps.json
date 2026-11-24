@@ -3,6 +3,695 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA05173",
+      "title": "Axiom Verge 2",
+      "createdAt": "2026-11-23T22:17:20.841Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/778d03395ed9db821f12cb688ef08fd61db173ea0243b7ccb7496d50ba0fe044",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/778d03395ed9db821f12cb688ef08fd61db173ea0243b7ccb7496d50ba0fe044",
+      "description": "Region: EUR\nRelease note: Works on 6.xx and higher\nContributor: Niall",
+      "downloadSource": "https://dlpsgame.com/axiom-verge-2-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 6.xx Base - Akirabox",
+          "url": "https://akirabox.to/5pVzNKoNJG7w/file"
+        },
+        {
+          "name": "EUR 6.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/12pfay"
+        },
+        {
+          "name": "EUR 6.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/xkxEygW80w"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA10635",
+      "title": "Demeo",
+      "createdAt": "2026-11-23T22:17:20.841Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/b4b4e9b712694d0c5dd3c82e43b4adf50a57dabf9ac62df81f7d00afa63febe1",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/b4b4e9b712694d0c5dd3c82e43b4adf50a57dabf9ac62df81f7d00afa63febe1",
+      "description": "Region: EUR\nRelease note: Works on 10.xx and higher\nContributor: Niall",
+      "downloadSource": "https://dlpsgame.com/demeo-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 10.xx Base - Akirabox",
+          "url": "https://akirabox.to/qLQ3655pYm19/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1fFEeW"
+        },
+        {
+          "name": "EUR 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/i2lt3ycPqn"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA28751",
+      "title": "Maestro",
+      "createdAt": "2026-11-23T22:17:20.841Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/14133259dcf43540624de4140aadaeb6ebaf4a3037aed99763ef0433d9b8ebcc",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/8d13146014cc97f3d752fa44ffa682347251a6a1136b42d72fe4ca1949033ca3",
+      "description": "Region: EUR\nRelease note: Works on 10.xx and higher\nContributor: Niall",
+      "downloadSource": "https://dlpsgame.com/maestro-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 10.xx Base - Akirabox",
+          "url": "https://akirabox.to/jJD3V11vEma5/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/10wi5A"
+        },
+        {
+          "name": "EUR 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/12u1ivwuq1"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA21605",
+      "title": "Morkull Ragasts Rage",
+      "createdAt": "2026-11-23T22:17:20.841Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/3efc92fbd69bca73aeaae7e048373d650b9de62c3a835b86bb5d81eae4775bcf",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/3efc92fbd69bca73aeaae7e048373d650b9de62c3a835b86bb5d81eae4775bcf",
+      "description": "Region: EUR\nRelease note: Works on 8.xx and higher\nContributor: Niall",
+      "downloadSource": "https://dlpsgame.com/morkull-ragasts-rage-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 8.xx Base - Akirabox",
+          "url": "https://akirabox.to/9QWmpOO6kGEB/file"
+        },
+        {
+          "name": "EUR 8.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1H47XM"
+        },
+        {
+          "name": "EUR 8.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/0ItKO2r79v"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA09676",
+      "title": "Moss VR",
+      "createdAt": "2026-11-23T22:17:20.841Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/660b1f4d3fcfdcc337c8597aeac435ce94355ca6fe91f63963e72af6185d23ea",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/660b1f4d3fcfdcc337c8597aeac435ce94355ca6fe91f63963e72af6185d23ea",
+      "description": "Region: EUR\nRelease note: Works on 5.xx and higher\nContributor: Niall",
+      "downloadSource": "https://dlpsgame.com/moss-vr-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 5.xx Base - Akirabox",
+          "url": "https://akirabox.to/0KezkKKYRzD1/file"
+        },
+        {
+          "name": "EUR 5.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1R0mi8"
+        },
+        {
+          "name": "EUR 5.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/YCylHkvORo"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA09678",
+      "title": "Moss Book 2 VR",
+      "createdAt": "2026-11-23T22:17:20.841Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/95bb82f967708e6e04ce1bd7aab8d2cf41c7847370999460cbc093d6c24be4dc",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/95bb82f967708e6e04ce1bd7aab8d2cf41c7847370999460cbc093d6c24be4dc",
+      "description": "Region: EUR\nRelease note: Works on 5.xx and higher\nContributor: Niall",
+      "downloadSource": "https://dlpsgame.com/moss-book-2-vr-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 5.xx Base - Akirabox",
+          "url": "https://akirabox.to/Y2xm0RRDazRO/file"
+        },
+        {
+          "name": "EUR 5.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/EKY0u"
+        },
+        {
+          "name": "EUR 5.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/zLCGHW5LGX"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA09865",
+      "title": "Neon White",
+      "createdAt": "2026-11-23T22:17:20.841Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/c1a02fdffa5ffd4e074668424f947d3f97d37b04771c80d28b7f4b2dd342a016",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/c1a02fdffa5ffd4e074668424f947d3f97d37b04771c80d28b7f4b2dd342a016",
+      "description": "Region: EUR\nRelease note: Works on 5.xx and higher\nContributor: Niall",
+      "downloadSource": "https://dlpsgame.com/neon-white-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 5.xx Base - Akirabox",
+          "url": "https://akirabox.to/ex5z2LLkbmKq/file"
+        },
+        {
+          "name": "EUR 5.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/Waqki"
+        },
+        {
+          "name": "EUR 5.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/TtT3NfFuNE"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA25414",
+      "title": "Nine Sols",
+      "createdAt": "2026-11-23T22:17:20.841Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/360cc1ab79d29757ee422ee5dee7cab965170ed80d6dcd0058a5285594880cc8",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/360cc1ab79d29757ee422ee5dee7cab965170ed80d6dcd0058a5285594880cc8",
+      "description": "Region: JPN\nRelease note: Works on 9.xx and higher\nContributor: Niall",
+      "downloadSource": "https://dlpsgame.com/nine-sols-ps5/",
+      "downloadLinks": [
+        {
+          "name": "JPN 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/0KezkKKogzD1/file"
+        },
+        {
+          "name": "JPN 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1T9g3s"
+        },
+        {
+          "name": "JPN 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/QBIYWCte7h"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA09461",
+      "title": "Paper Beast Enhanced Edition",
+      "createdAt": "2026-11-23T22:17:20.841Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e13693a77e117a44eff535fd03a718964130747b4057176fedccce06a79ca88d",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/e13693a77e117a44eff535fd03a718964130747b4057176fedccce06a79ca88d",
+      "description": "Region: EUR\nRelease note: Works on 6.xx and higher\nContributor: Niall",
+      "downloadSource": "https://dlpsgame.com/paper-beast-enhanced-edition-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 6.xx Base - Akirabox",
+          "url": "https://akirabox.to/jJD3V11Ryma5/file"
+        },
+        {
+          "name": "EUR 6.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/AIh9M"
+        },
+        {
+          "name": "EUR 6.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/3XhhDEAAiT"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA14218",
+      "title": "Puzzling Places",
+      "createdAt": "2026-11-23T22:17:20.841Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/9ac1fd98d73a4c1140ffc74c2963bba29b9a3f207d0f88e42d81e51381ddaa4a",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/9ac1fd98d73a4c1140ffc74c2963bba29b9a3f207d0f88e42d81e51381ddaa4a",
+      "description": "Region: EUR\nRelease note: Works on 9.xx and higher\nContributor: Niall",
+      "downloadSource": "https://dlpsgame.com/puzzling-places-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/2WVGrvvQAGkx/file"
+        },
+        {
+          "name": "EUR 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/M1uS"
+        },
+        {
+          "name": "EUR 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/L8tTOLdEOc"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA10596",
+      "title": "Ragnarock",
+      "createdAt": "2026-11-23T22:17:20.841Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/212a4d33908d3aab65c09e0327d4ee8fca66c4862358c7cb25f322533726a0d7",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/212a4d33908d3aab65c09e0327d4ee8fca66c4862358c7cb25f322533726a0d7",
+      "description": "Region: EUR\nRelease note: Works on 9.xx and higher\nContributor: Niall",
+      "downloadSource": "https://dlpsgame.com/ragnarock-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/LJlGnKKqAm15/file"
+        },
+        {
+          "name": "EUR 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/SYztA"
+        },
+        {
+          "name": "EUR 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/aFYdg6x2Lx"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA28158",
+      "title": "Spiritfall",
+      "createdAt": "2026-11-23T22:17:20.841Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/93cd80aaad4240d025dd33f2f21ade835d4d084e8bcf1a7a776ac720856b6c2d",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/93cd80aaad4240d025dd33f2f21ade835d4d084e8bcf1a7a776ac720856b6c2d",
+      "description": "Region: EUR\nRelease note: Works on 10.xx and higher\nContributor: Niall",
+      "downloadSource": "https://dlpsgame.com/spiritfall-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 10.xx Base - Akirabox",
+          "url": "https://akirabox.to/0PdzyJJB8GeA/file"
+        },
+        {
+          "name": "EUR 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/29b5yy"
+        },
+        {
+          "name": "EUR 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Uml3g56Nz5"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA06655",
+      "title": "The Stanley Parable Ultra Deluxe",
+      "createdAt": "2026-11-23T22:17:20.841Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/85c75bb01d62ae6648db3c39fe6b5303335547a4ce334fa2b5e0d0e1ed491556",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/85c75bb01d62ae6648db3c39fe6b5303335547a4ce334fa2b5e0d0e1ed491556",
+      "description": "Region: EUR\nRelease note: Works on 4.xx and higher\nContributor: Niall",
+      "downloadSource": "https://dlpsgame.com/the-stanley-parable-ultra-deluxe-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/0JgG7AaJ13oY/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/2FVuIC"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/ajffM23a5l"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA03055",
+      "title": "Tunic",
+      "createdAt": "2026-11-23T22:17:20.841Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/285b70aa547594f983e9a603fb11ae5dfa1d05afe8fae4cae6c6a368e50b1874",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/285b70aa547594f983e9a603fb11ae5dfa1d05afe8fae4cae6c6a368e50b1874",
+      "description": "Region: EUR\nRelease note: Works on 5.xx and higher\nContributor: Niall",
+      "downloadSource": "https://dlpsgame.com/tunic-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 5.xx Base - Akirabox",
+          "url": "https://akirabox.to/LJlGnKZ06m15/file"
+        },
+        {
+          "name": "EUR 5.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/16rWSW"
+        },
+        {
+          "name": "EUR 5.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/LSR61cHSQ2"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA17008",
+      "title": "Grounded",
+      "createdAt": "2026-11-23T22:17:20.841Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/6d299ff6c7c7537ec052cd9b4197da286042f8008c3194660d5232bb078cf4c4",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/6d299ff6c7c7537ec052cd9b4197da286042f8008c3194660d5232bb078cf4c4",
+      "description": "Region: EUR\nRelease note: Works on 9.xx and higher\nContributor: @Barquillo",
+      "downloadSource": "https://dlpsgame.com/grounded-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/E1x3AZZlnzyk/file"
+        },
+        {
+          "name": "EUR 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/OX91c"
+        },
+        {
+          "name": "EUR 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/ooe5mEVnvu"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA08035",
+      "title": "Monster Hunter Rise (DLC)",
+      "createdAt": "2026-11-23T22:17:20.841Z",
+      "version": "DLC",
+      "category": "dlc",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/08bf8c69d7ccc8b033d0a557e02b3d2ef9c9fb64acecdf78c62a3eccce4624f0",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/08bf8c69d7ccc8b033d0a557e02b3d2ef9c9fb64acecdf78c62a3eccce4624f0",
+      "description": "Region: EUR\nRelease note: Works on 5.xx and higher\nContributor: @Barquillo",
+      "downloadSource": "https://dlpsgame.com/monster-hunter-rise-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Akirabox part 1",
+          "url": "https://akirabox.to/obj3jKkp2zDx/file"
+        },
+        {
+          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Akirabox part 2",
+          "url": "https://akirabox.to/Pbe3PkeY2mlX/file"
+        },
+        {
+          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Akirabox part 3",
+          "url": "https://akirabox.to/0KezkK0PpzD1/file"
+        },
+        {
+          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Akirabox part 4",
+          "url": "https://akirabox.to/0JgG7AaEl3oY/file"
+        },
+        {
+          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Rootz part 1",
+          "url": "https://www.rootz.so/d/2EzQG"
+        },
+        {
+          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Rootz part 2",
+          "url": "https://www.rootz.so/d/1Ix4z2"
+        },
+        {
+          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Rootz part 3",
+          "url": "https://www.rootz.so/d/1EvEBc"
+        },
+        {
+          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/tThvJ1osUP"
+        },
+        {
+          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/Z8pFm45vbq"
+        },
+        {
+          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/aUB7DZxPXj"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA31885",
+      "title": "WinX Club The Magic is Back",
+      "createdAt": "2026-11-23T22:17:20.841Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/b5c42916072ff93f8ebf9179f52feef4c0f3ef929eb718e810f1b6c0cacb7c6b",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/b5c42916072ff93f8ebf9179f52feef4c0f3ef929eb718e810f1b6c0cacb7c6b",
+      "description": "Region: USA\nRelease note: Works on 11.xx and higher\nContributor: @Rapunzel",
+      "downloadSource": "https://dlpsgame.com/winx-club-the-magic-is-back-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 11.xx Base - Akirabox",
+          "url": "https://akirabox.to/9AqGQ88jNzMn/file"
+        },
+        {
+          "name": "USA 11.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/2DcwqW"
+        },
+        {
+          "name": "USA 11.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/AS2ZWjiP8T"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA34086",
+      "title": "Tiny Bookshop",
+      "createdAt": "2026-11-23T22:17:20.841Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/df9966621977181de78298aa8b4903826de7694061ed534e0526495fa251b7fa",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/df9966621977181de78298aa8b4903826de7694061ed534e0526495fa251b7fa",
+      "description": "Region: USA\nRelease note: Works on 11.xx and higher\nContributor: @Rapunzel",
+      "downloadSource": "https://dlpsgame.com/tiny-bookshop-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 11.xx Base - Akirabox",
+          "url": "https://akirabox.to/0JgG7AABN3oY/file"
+        },
+        {
+          "name": "USA 11.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/st0QC"
+        },
+        {
+          "name": "USA 11.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/yiGd5NeX8e"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA21218",
+      "title": "Tales of The Shire A The Lord of The Rings Game",
+      "createdAt": "2026-11-23T22:17:20.841Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/832aaaf2c9b5f1d9277763c797f1f5e8beb1941f893549d5e742cb8b2c9672a5",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/832aaaf2c9b5f1d9277763c797f1f5e8beb1941f893549d5e742cb8b2c9672a5",
+      "description": "Region: USA\nRelease note: Works on 9.xx and higher\nContributor: @Rapunzel",
+      "downloadSource": "https://dlpsgame.com/tales-of-the-shire-a-the-lord-of-the-rings-game-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/k0emb99K8GVb/file"
+        },
+        {
+          "name": "USA 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1P7pCK"
+        },
+        {
+          "name": "USA 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/mV73lGC7Zo"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA06284",
+      "title": "FightN Rage",
+      "createdAt": "2026-11-23T14:13:24.961Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/d7c10db48aa052b16f8ee9530b5376da9b237f96eb2963f3d3206544317759fe",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/8156d0276bf441780e96a74fb47271c427a54f34eba2f71fc5aae3e1181dbe0d",
+      "description": "Region: EUR\nRelease note: Works on 6.xx and higher",
+      "downloadSource": "https://dlpsgame.com/fightn-rage-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 6.xx Base - Akirabox",
+          "url": "https://akirabox.to/LK0G1aXPJG91/file"
+        },
+        {
+          "name": "EUR 6.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/2HujY0"
+        },
+        {
+          "name": "EUR 6.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/QxePPurY4M"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07451",
+      "title": "Clive N Wrench",
+      "createdAt": "2026-11-23T14:13:24.961Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/a791e6fb6c0272031859f068b4d8ec5d481ce9afdab120389172a4e6f3397046",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/2ee21c75f4ac54a7bb1042374a896541f312065f9eeb582b3a40248bc6645931",
+      "description": "Region: EUR\nRelease note: Works on 7.xx and higher",
+      "downloadSource": "https://dlpsgame.com/clive-n-wrench-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 7.xx Base - Akirabox",
+          "url": "https://akirabox.to/ex5z2LXxBmKq/file"
+        },
+        {
+          "name": "EUR 7.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/bxoW"
+        },
+        {
+          "name": "EUR 7.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/OcQvnfp6Ds"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA22053",
+      "title": "Star Overdrive",
+      "createdAt": "2026-11-23T14:13:24.961Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/ceab637ab75ff9d1c1e4c7c297a35b6a3759035d53494d6f0e7a1d34295342a3",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/ceab637ab75ff9d1c1e4c7c297a35b6a3759035d53494d6f0e7a1d34295342a3",
+      "description": "Region: USA\nRelease note: Works on 10.xx and higher\nContributor: Rapunzel",
+      "downloadSource": "https://dlpsgame.com/star-overdrive-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 10.xx Base - Akirabox part 1",
+          "url": "https://akirabox.to/Y2xm0RXppzRO/file"
+        },
+        {
+          "name": "USA 10.xx Base - Akirabox part 2",
+          "url": "https://akirabox.to/E9Qz9A6ebzOL/file"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/11CdzE"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/2DssgS"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/SU92XaQVmE"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/O6Vrif2nRu"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA18622",
+      "title": "Seed of Life",
+      "createdAt": "2026-11-23T14:13:24.961Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/b239af869783f0a32faab8ba4b743d4cb7d77e376258ac835543d4b5879cc442",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/b239af869783f0a32faab8ba4b743d4cb7d77e376258ac835543d4b5879cc442",
+      "description": "Region: USA\nRelease note: Works on 8.xx and higher\nContributor: Rapunzel",
+      "downloadSource": "https://dlpsgame.com/seed-of-life-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 8.xx Base - Akirabox",
+          "url": "https://akirabox.to/BnkmWb6dPGR0/file"
+        },
+        {
+          "name": "USA 8.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/4dog4"
+        },
+        {
+          "name": "USA 8.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/9zrmqQwop0"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA26698",
+      "title": "Rollercoaster Tycoon 3 Complete Edition",
+      "createdAt": "2026-11-23T14:13:24.961Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/0e248d23c7ae2d5a8c1071046f359694bfd5be86dc3c0636e6fb80e400efb97f",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/0e248d23c7ae2d5a8c1071046f359694bfd5be86dc3c0636e6fb80e400efb97f",
+      "description": "Region: USA\nRelease note: Works on 10.xx and higher\nContributor: Rapunzel",
+      "downloadSource": "https://dlpsgame.com/rollercoaster-tycoon-3-complete-edition-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 10.xx Base - Akirabox",
+          "url": "https://akirabox.to/2bJG8lXA5GOB/file"
+        },
+        {
+          "name": "USA 10.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/15EUme"
+        },
+        {
+          "name": "USA 10.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Vx0ctZDdtJ"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA20662",
+      "title": "MIO Memories In Orbit",
+      "createdAt": "2026-11-23T14:13:24.961Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/508bb4be6a36bdefdde9c63dd3be994d0167926040f5238699f7cd350de3fb94",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/508bb4be6a36bdefdde9c63dd3be994d0167926040f5238699f7cd350de3fb94",
+      "description": "Region: USA\nRelease note: Works on 11.xx and higher\nContributor: Rapunzel",
+      "downloadSource": "https://dlpsgame.com/mio-memories-in-orbit-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 11.xx Base - Akirabox",
+          "url": "https://akirabox.to/9AqGQ8ewRzMn/file"
+        },
+        {
+          "name": "USA 11.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/19GLeC"
+        },
+        {
+          "name": "USA 11.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/vDBHXhrq4U"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA11307",
+      "title": "The Legend of Heroes Trails into Reverie",
+      "createdAt": "2026-11-23T14:13:24.961Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/125257c4ed00d2ee85c60df069981931ed535baa59ac5eebc0543a779d8d4a9e",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/125257c4ed00d2ee85c60df069981931ed535baa59ac5eebc0543a779d8d4a9e",
+      "description": "Region: USA\nRelease note: Works on 7.xx and higher\nContributor: Xal",
+      "downloadSource": "https://dlpsgame.com/the-legend-of-heroes-trails-into-reverie-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 7.xx Base - Akirabox",
+          "url": "https://akirabox.to/5pVzNKoybG7w/file"
+        },
+        {
+          "name": "USA 7.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/29r1ou"
+        },
+        {
+          "name": "USA 7.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/BGw7wzMKrl"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA24260",
+      "title": "Ys Memoire The Oath In Felghana",
+      "createdAt": "2026-11-23T14:13:24.961Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/0097a95aff28914228e32ab57e3106c2923046ca18aaab03eba7c63cf7b55eba",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/89d44c6adee117c13d629365c1e41f4615c3de5b75bd07490efff55fee6590e8",
+      "description": "Region: EUR\nRelease note: Works on 9.xx and higher",
+      "downloadSource": "https://dlpsgame.com/ys-memoire-the-oath-in-felghana-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 9.xx Base - Akirabox",
+          "url": "https://akirabox.to/M2BGwxL7Omj4/file"
+        },
+        {
+          "name": "EUR 9.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/dRy64"
+        },
+        {
+          "name": "EUR 9.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/0XzI4NfTWe"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA13245",
       "title": "The Thaumaturge",
       "createdAt": "2026-11-22T20:59:06.999Z",
@@ -150464,6 +151153,122 @@
         {
           "name": "USA exFAT 01.004 Base - Vault (exFAT)",
           "url": "https://datavaults.co/6qmhde3tm198"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA13896",
+      "title": "[exFAT] Shadow Gambit The Cursed Crew Complete Edition",
+      "createdAt": "2026-11-24T14:43:15.101Z",
+      "version": "01.002.004",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/3a3f6ebf8b7d5450e7f97b4680b320f555132c82aa3b0da2054f7305a9f23e9f",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/b4c3d0075af02fa0eb5d69dfba5edde1eafc9d3704446d2f572f6b58149c4bd4",
+      "description": "Region: ASIA\nRelease note: exFAT format — FW 01.002.004 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "ASIA exFAT 01.002.004 Base - DATA (exFAT)",
+          "url": "https://link-vault.org/c/2czeAJOJ#DataNodes"
+        },
+        {
+          "name": "ASIA exFAT 01.002.004 Base - FileK (exFAT)",
+          "url": "https://link-vault.org/c/2czeAJOJ#FileKeeper"
+        },
+        {
+          "name": "ASIA exFAT 01.002.004 Base - AKIA (exFAT)",
+          "url": "https://link-vault.org/c/2czeAJOJ#AkiraBox"
+        },
+        {
+          "name": "ASIA exFAT 01.002.004 Base - VIKI (exFAT)",
+          "url": "https://link-vault.org/c/2czeAJOJ#VikingFile"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA08069",
+      "title": "[exFAT] Sherlock Holmes The Awakened Deluxe Edition",
+      "createdAt": "2026-11-24T14:43:15.101Z",
+      "version": "01.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/344bbc774b0d5e2ac88f424e36acdc71bf1f7e8798536e472b9bc92a5d4cffcc",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/baf5ec3fddf8cc645b6b36ff8ea5bc83198bb36c13129af5477d7563bf584818",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.002 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.002 Base - DATA (exFAT)",
+          "url": "https://link-vault.org/c/dsHi4q_c#DataNodes"
+        },
+        {
+          "name": "EUR exFAT 01.002 Base - FileK (exFAT)",
+          "url": "https://link-vault.org/c/dsHi4q_c#FileKeeper"
+        },
+        {
+          "name": "EUR exFAT 01.002 Base - AKIA (exFAT)",
+          "url": "https://link-vault.org/c/dsHi4q_c#AkiraBox"
+        },
+        {
+          "name": "EUR exFAT 01.002 Base - VIKI (exFAT)",
+          "url": "https://link-vault.org/c/dsHi4q_c#VikingFile"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA24326",
+      "title": "[exFAT] The Legend of Heroes Trails through Daybreak 2 Ultimate Edition",
+      "createdAt": "2026-11-23T14:13:24.961Z",
+      "version": "01.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/7d1a7548346b2ae4a561f98853adb64ad1ce66198649ff6e3d0980d9f2cd2c39",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/7d1a7548346b2ae4a561f98853adb64ad1ce66198649ff6e3d0980d9f2cd2c39",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.002 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.002 Base - DATA (exFAT)",
+          "url": "https://link-vault.org/c/sAswQB_4#DataNodes"
+        },
+        {
+          "name": "USA exFAT 01.002 Base - FileK (exFAT)",
+          "url": "https://link-vault.org/c/sAswQB_4#FileKeeper"
+        },
+        {
+          "name": "USA exFAT 01.002 Base - Vault (exFAT)",
+          "url": "https://link-vault.org/c/sAswQB_4#DataVaults"
+        },
+        {
+          "name": "USA exFAT 01.002 Base - VIKI (exFAT)",
+          "url": "https://link-vault.org/c/sAswQB_4#VikingFile"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA35314",
+      "title": "[exFAT] MudRunner American Wilds Edition",
+      "createdAt": "2026-11-23T14:13:24.961Z",
+      "version": "01.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/eb8cbe2807967c0c62f595948d67cb7dc7b6b5e66f2db287afb510f39fdedbaf",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/abe387520cdbc92e6730a59f38d5fcc0ea4a8d832ff47bf79fef093c6b6f5f60",
+      "description": "Region: USA\nRelease note: exFAT format — FW 01.000 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "USA exFAT 01.000 Base - DATA (exFAT)",
+          "url": "https://link-vault.org/c/h8MDTohe#DataNodes"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - FileK (exFAT)",
+          "url": "https://link-vault.org/c/h8MDTohe#FileKeeper"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - Vault (exFAT)",
+          "url": "https://link-vault.org/c/h8MDTohe#DataVaults"
+        },
+        {
+          "name": "USA exFAT 01.000 Base - VIKI (exFAT)",
+          "url": "https://link-vault.org/c/h8MDTohe#VikingFile"
         }
       ]
     },

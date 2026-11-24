@@ -38,7 +38,7 @@
       <title>EliVier Explorer</title>
       <link>https://github.com/Marice/ps5-elivier-explorer</link>
       <description>A dual-pane file explorer for the controller: copy, move and delete with a safety net, and viewers for text, pictures (also DDS), hex and MP3 with playlists.</description>
-      <pubDate>00.001.000</pubDate>
+      <pubDate>00.002.000</pubDate>
     </item>
     <item>
       <title>Navi5</title>
@@ -164,7 +164,7 @@
       <title>ProsperoSunshine</title>
       <link>https://github.com/Darkatek7/ProsperoSunshine</link>
       <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.</description>
-      <pubDate>0.6.7-beta.2</pubDate>
+      <pubDate>0.6.7-beta.3</pubDate>
     </item>
     <item>
       <title>SudokuZen</title>
@@ -302,7 +302,7 @@
       <title>RommPS</title>
       <link>https://github.com/s0liton/RommPS</link>
       <description>Syncs your emulator saves and states with a RomM server and downloads games from your RomM library.</description>
-      <pubDate>1.4.3</pubDate>
+      <pubDate>1.4.4</pubDate>
     </item>
     <item>
       <title>RipperPS</title>
@@ -476,13 +476,13 @@
       <title>PokeMMO Prospero</title>
       <link>https://github.com/Shabbypenguin/PokeMMO-Prospero</link>
       <description>Runs the official, unmodified PokeMMO Linux client natively on a jailbroken PS5.</description>
-      <pubDate>1.0.5</pubDate>
+      <pubDate>1.0.6</pubDate>
     </item>
     <item>
       <title>TubeBlock</title>
       <link>https://github.com/animatian112/ytps5-sponsorblock</link>
       <description>YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.</description>
-      <pubDate>01.000.215</pubDate>
+      <pubDate>01.000.216</pubDate>
     </item>
     <item>
       <title>CD Player</title>
@@ -524,7 +524,13 @@
       <title>EglantinePS5</title>
       <link>https://github.com/heydemoura/EglantinePS5</link>
       <description>VERY experimental Nintendo Switch 2 emulator port for PS5</description>
-      <pubDate>1.000.003</pubDate>
+      <pubDate>1.000.004</pubDate>
+    </item>
+    <item>
+      <title>CannonBall PS5</title>
+      <link>https://github.com/JJBurtenshaw/CannonBall-PS5</link>
+      <description>Native PlayStation 5 port of CannonBall, the enhanced OutRun engine, featuring smooth 60 FPS gameplay and DualSense support.</description>
+      <pubDate>1.0.0</pubDate>
     </item>
     <item>
       <title>YmirPS5</title>
@@ -734,13 +740,13 @@
       <title>Mario Kart World: Pit Stop</title>
       <link>https://github.com/exploitizm/mkw-pit-stop</link>
       <description>Native PS5 port of Mario Kart World (mkw-recomp). Install this, then build the full title on your PC from your own Switch 2 dump (1.8.0 or 1.0.0) with the Pit Stop builder.</description>
-      <pubDate>ps5-0.2.1</pubDate>
+      <pubDate>ps5-0.3.0</pubDate>
     </item>
     <item>
       <title>PS5SX2</title>
       <link>https://github.com/Swordpdf/PS5SX2</link>
       <description>PCSX2 port for PS5 that runs PS2 games natively with a Vulkan renderer, up to 6x resolution and settings from your phone. Bring your own BIOS and games.</description>
-      <pubDate>vk-285-321</pubDate>
+      <pubDate>vk-285-329</pubDate>
     </item>
     <item>
       <title>Parallax Browser</title>
@@ -782,7 +788,7 @@
       <title>OGBox</title>
       <link>https://github.com/Press5elect/OGBox</link>
       <description>XBOX emulator for PS5</description>
-      <pubDate>1.0.2</pubDate>
+      <pubDate>1.0.3</pubDate>
     </item>
     <item>
       <title>PS5 Browser</title>
@@ -806,7 +812,7 @@
       <title>Nuvio Max'd</title>
       <link>https://github.com/HandshakeHackin/Nuvio-maxd-releases</link>
       <description>Experimental PS5 media app with profiles, IPTV, media servers and an optional privileged USB reader. Updated playback/network/text dependencies need console confirmation.</description>
-      <pubDate>1.0.0.26-native</pubDate>
+      <pubDate>1.0.1.0-native</pubDate>
     </item>
     <item>
       <title>Spider-Man: Edge of Time</title>
@@ -1160,7 +1166,7 @@
       <title>Photo Splat VR</title>
       <link>https://github.com/Papyszoo/photo-splat-vr</link>
       <description>Turns your photos into 3D Gaussian splat scenes on the console and lets you view them in PSVR2. Works offline; photos and scenes can also live on SMB or NFS shares.</description>
-      <pubDate>0.6.1</pubDate>
+      <pubDate>0.7.0</pubDate>
     </item>
     <item>
       <title>PShare</title>
@@ -1202,7 +1208,7 @@
       <title>ProsperoCraft</title>
       <link>https://github.com/mateo-cogeanu/ProsperoCraft</link>
       <description>Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.</description>
-      <pubDate>01.000.288</pubDate>
+      <pubDate>01.000.300</pubDate>
     </item>
     <item>
       <title>Genesis Plus GX PS5</title>

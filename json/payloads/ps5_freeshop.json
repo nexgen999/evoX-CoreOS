@@ -26,12 +26,12 @@
     {
       "name": "Orbit Store",
       "filename": "orbit_store.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.9.6/orbit_store.elf",
-      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.9.6/orbit_store.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.9.7/orbit_store.elf",
+      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.9.7/orbit_store.elf",
       "description": "A modern, no-BS download manager for PS5.",
-      "version": "v1.9.6",
+      "version": "v1.9.7",
       "category": "PS5 Freeshop",
-      "checksum": "8a73e1265984589b7b8835f8b3c5c786c5edf753964dfc614687cdf57f0c7146",
+      "checksum": "4e62fd3f7ab9f81686b22d0f641048ea8a044206fa6a00dc1c87ad7a2ad97f99",
       "source": "https://github.com/saawant12/orbit-store-ps5/releases"
     }
   ]

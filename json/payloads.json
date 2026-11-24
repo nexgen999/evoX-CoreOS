@@ -542,14 +542,14 @@
       "checksum": "0acf4a5edd0443a1540ee509cb1fb16bd4ba6d7533a53bd0992e6eaa76508494"
     },
     {
-      "name": "Ps5-Romm V1.4.3",
-      "filename": "ps5-romm_v1.4.3.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.4.3/ps5-romm_v1.4.3.elf",
-      "local_path": "payloads/ps5_emulator/ps5-romm/v1.4.3/ps5-romm_v1.4.3.elf",
+      "name": "Ps5-Romm V1.4.4",
+      "filename": "ps5-romm_v1.4.4.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_emulator/ps5-romm/v1.4.4/ps5-romm_v1.4.4.elf",
+      "local_path": "payloads/ps5_emulator/ps5-romm/v1.4.4/ps5-romm_v1.4.4.elf",
       "description": "ps5-romm for ps5",
-      "version": "v1.4.3",
+      "version": "v1.4.4",
       "category": "PS5 Emulator",
-      "checksum": "96fbc86f75847937f0ce1c026d873fa4a56805d1ea3990a4d65bca63f99feb8e",
+      "checksum": "e8d8cc812c593b23e4733d0e5052e088b0b4d63c73a42eec90cad32e954dd8d3",
       "source": "https://github.com/s0liton/ps5-romm/releases"
     },
     {
@@ -599,12 +599,12 @@
     {
       "name": "Orbit Store",
       "filename": "orbit_store.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.9.6/orbit_store.elf",
-      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.9.6/orbit_store.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/orbit-store-ps5/v1.9.7/orbit_store.elf",
+      "local_path": "payloads/ps5_freeshop/orbit-store-ps5/v1.9.7/orbit_store.elf",
       "description": "A modern, no-BS download manager for PS5.",
-      "version": "v1.9.6",
+      "version": "v1.9.7",
       "category": "PS5 Freeshop",
-      "checksum": "8a73e1265984589b7b8835f8b3c5c786c5edf753964dfc614687cdf57f0c7146",
+      "checksum": "4e62fd3f7ab9f81686b22d0f641048ea8a044206fa6a00dc1c87ad7a2ad97f99",
       "source": "https://github.com/saawant12/orbit-store-ps5/releases"
     },
     {
@@ -932,7 +932,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "fa4456bccfb3afa52ec933dfe5c6b156cf8eed9f38847e189e3a7f5118c97f18",
+      "checksum": "5207ab20f7ae92454783f03fba2d6113f5aee82266c31cdb1dbf89de8f21c517",
       "source": "https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf"
     },
     {
@@ -1134,15 +1134,15 @@
       "source": "https://github.com/itsPLK/ps5-payload-manager/releases"
     },
     {
-      "name": "Kura V1.6.60",
-      "filename": "Kura_v1.6.60.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/Kura/v1.6.60/Kura_v1.6.60.elf",
-      "local_path": "payloads/ps5_hen_loader/Kura/v1.6.60/Kura_v1.6.60.elf",
-      "description": "Un loader de payloads moderne et épuré conçu pour optimiser l",
-      "version": "v1.6.60",
+      "name": "Elf Arsenal V1.6.23",
+      "filename": "ELF_Arsenal_v1.6.23.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf",
+      "local_path": "payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf",
+      "description": "Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées.",
+      "version": "v1.6.23",
       "category": "PS5 HEN Loader",
-      "checksum": "c3bfb1db0f1fda7fe640e95711d78ae2cf9e94efa12742b5fc19c660ec43d627",
-      "source": "https://github.com/NookieAI/kura/releases"
+      "checksum": "20cdb0979ce627aff8e684a4506e18390a72492d5e3aa15ecef0bfe1bca08bb5",
+      "source": "https://git.etawen.dev/soniciso/elf-arsenal/releases"
     },
     {
       "name": "Pizza-Hen V2.00",
@@ -1187,6 +1187,28 @@
       "category": "PS5 HEN Loader",
       "checksum": "f9240e53ac5f035b36fb6eca2845dd49827eddfb133d1bbb2810b1a025db9c5b",
       "source": "https://github.com/notmaj0r/ProsperoMgr/releases"
+    },
+    {
+      "name": "Np-Fake-Signin-Ps5",
+      "filename": "np-fake-signin-ps5.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf",
+      "local_path": "payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf",
+      "description": "Fake activate PS5 without PSN.",
+      "version": "v1.4",
+      "category": "PS5 Activation",
+      "checksum": "9ec8562b3e3f6508071e280037e225371d8a6c297e74b8ae4d240e357ee38eca",
+      "source": "https://git.etawen.dev/earthonion/np-fake-signin/releases"
+    },
+    {
+      "name": "Garlic-Savemgr V2.0",
+      "filename": "garlic-savemgr_v2.0.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v2.0/garlic-savemgr_v2.0.elf",
+      "local_path": "payloads/ps5_saves/garlic-savemgr/v2.0/garlic-savemgr_v2.0.elf",
+      "description": "Save manager utility hosted on Forgejo.",
+      "version": "v2.0",
+      "category": "PS5 Saves",
+      "checksum": "805902a1ef3d54854850518b11602e0ab973192e0338fc30b28a3a9e4aae5be6",
+      "source": "https://git.etawen.dev/earthonion/garlic-savemgr/releases"
     },
     {
       "name": "Garlic-Worker V1.5.6",
@@ -1281,15 +1303,6 @@
       "description": "Récupéré depuis le stockage local (Interne / Fallback)",
       "version": "ps5-web-file-manager",
       "checksum": "cbcdacf69c331025e1643fc99f5b5fc117125e7c39931b6dd914323412558911"
-    },
-    {
-      "name": "Garlic-Savemgr V2.0",
-      "filename": "garlic-savemgr_v2.0.elf",
-      "url": "",
-      "local_path": "payloads/ps5_saves/garlic-savemgr/v2.0/garlic-savemgr_v2.0.elf",
-      "description": "Récupéré depuis le stockage local (Interne / Fallback)",
-      "version": "garlic-savemgr",
-      "checksum": "805902a1ef3d54854850518b11602e0ab973192e0338fc30b28a3a9e4aae5be6"
     },
     {
       "name": "Zftpd-Ps5-Zhttp-V1.6.0",
@@ -1400,22 +1413,13 @@
       "checksum": "5da64c23263e6868696aa0f8b1bfd0eb97581bae73124d08066b507652adfbfb"
     },
     {
-      "name": "Np-Fake-Signin-Ps5",
-      "filename": "np-fake-signin-ps5.elf",
+      "name": "Kura V1.6.60",
+      "filename": "Kura_v1.6.60.elf",
       "url": "",
-      "local_path": "payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf",
+      "local_path": "payloads/ps5_hen_loader/Kura/v1.6.60/Kura_v1.6.60.elf",
       "description": "Récupéré depuis le stockage local (Interne / Fallback)",
-      "version": "np-fake-signin",
-      "checksum": "9ec8562b3e3f6508071e280037e225371d8a6c297e74b8ae4d240e357ee38eca"
-    },
-    {
-      "name": "Elf Arsenal V1.6.23",
-      "filename": "ELF_Arsenal_v1.6.23.elf",
-      "url": "",
-      "local_path": "payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf",
-      "description": "Récupéré depuis le stockage local (Interne / Fallback)",
-      "version": "ELF_Arsenal",
-      "checksum": "20cdb0979ce627aff8e684a4506e18390a72492d5e3aa15ecef0bfe1bca08bb5"
+      "version": "Kura",
+      "checksum": "c3bfb1db0f1fda7fe640e95711d78ae2cf9e94efa12742b5fc19c660ec43d627"
     }
   ]
 }

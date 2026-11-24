@@ -32,15 +32,15 @@
     {
       "name": "EliVier Explorer",
       "filename": "LAPY69432.zip",
-      "url": "https://github.com/Marice/ps5-elivier-explorer/releases/download/v00.001.000/LAPY69432.zip",
-      "local_path": "downloads/apps/homebrew_page/app/LAPY69432/00.001.000/LAPY69432.zip",
+      "url": "https://github.com/Marice/ps5-elivier-explorer/releases/download/v00.002.000/LAPY69432.zip",
+      "local_path": "downloads/apps/homebrew_page/app/LAPY69432/00.002.000/LAPY69432.zip",
       "description": "A dual-pane file explorer for the controller: copy, move and delete with a safety net, and viewers for text, pictures (also DDS), hex and MP3 with playlists.",
-      "version": "00.001.000",
+      "version": "00.002.000",
       "category": "Apps",
       "kind": "app",
       "titleid": "LAPY69432",
       "author": "Marice",
-      "checksum": "9be9f31f79f90a0fb3363ee35ff9961c7ead5d434b61ebd1d80ed3758fa85165",
+      "checksum": "3672d49c68719d0c3503c648b8958707a8813779188d39caa6cd8616f84882e9",
       "source": "https://github.com/Marice/ps5-elivier-explorer"
     },
     {
@@ -158,15 +158,15 @@
     {
       "name": "ProsperoSunshine",
       "filename": "PPSA47989.zip",
-      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.6.7-beta.2/PPSA47989.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.6.7-beta.2/PPSA47989.zip",
+      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.6.7-beta.3/PPSA47989.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.6.7-beta.3/PPSA47989.zip",
       "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.",
-      "version": "0.6.7-beta.2",
+      "version": "0.6.7-beta.3",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA47989",
       "author": "Darkatek7",
-      "checksum": "abdb04e79ec6a59f713dc13fde76a8e99277d7e42e236636aaa650c8540b15ce",
+      "checksum": "ab3dc156c9eda09d2aad8a63c363ac052157d5001454c0f863d7b89dbf09dbce",
       "source": "https://github.com/Darkatek7/ProsperoSunshine"
     },
     {
@@ -312,15 +312,15 @@
     {
       "name": "RommPS",
       "filename": "PPSA76677.zip",
-      "url": "https://github.com/s0liton/RommPS/releases/download/v1.4.3/PPSA76677.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA76677/1.4.3/PPSA76677.zip",
+      "url": "https://github.com/s0liton/RommPS/releases/download/v1.4.4/PPSA76677.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA76677/1.4.4/PPSA76677.zip",
       "description": "Syncs your emulator saves and states with a RomM server and downloads games from your RomM library.",
-      "version": "1.4.3",
+      "version": "1.4.4",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA76677",
       "author": "s0liton",
-      "checksum": "789449f36a12dad79fe9ee608c8c835db1d7e1458a7e804d12e25e93fa09afd1",
+      "checksum": "2cdde7825052718a10d652aa1862ec303e54cd3c36125e58a10d3dc62c5386eb",
       "source": "https://github.com/s0liton/RommPS"
     },
     {
@@ -480,15 +480,15 @@
     {
       "name": "TubeBlock",
       "filename": "PPSA98260.zip",
-      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.215/SmartTube-PPSA98260.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.215/PPSA98260.zip",
+      "url": "https://github.com/animatian112/ytps5-sponsorblock/releases/download/01.000.216/SmartTube-PPSA98260.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98260/01.000.216/PPSA98260.zip",
       "description": "YouTube client in the style of SmartTube, built on ytps5, with SponsorBlock, channel pages, multiple accounts, shuffle and casting from the YouTube phone app.",
-      "version": "01.000.215",
+      "version": "01.000.216",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98260",
       "author": "animatian112",
-      "checksum": "32f5336b8d9bcf8c208e9e3800c47a440d8324632e99a73b763d9331f4352863",
+      "checksum": "a52737eaa905fe0e93d47e92dac698d8483c07dcf411c47b2d52696db7d67147",
       "source": "https://github.com/animatian112/ytps5-sponsorblock"
     },
     {
@@ -522,15 +522,15 @@
     {
       "name": "EglantinePS5",
       "filename": "PPSA98515.zip",
-      "url": "https://github.com/heydemoura/EglantinePS5/releases/download/v1.000.003/EglantinePS5-v1.000.003.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98515/1.000.003/PPSA98515.zip",
+      "url": "https://github.com/heydemoura/EglantinePS5/releases/download/v1.000.004/EglantinePS5-v1.000.004.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98515/1.000.004/PPSA98515.zip",
       "description": "VERY experimental Nintendo Switch 2 emulator port for PS5",
-      "version": "1.000.003",
+      "version": "1.000.004",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98515",
       "author": "Heyde Moura",
-      "checksum": "9e75b6ed2fb9a0946b47bed2b62aba6813bb7fcbc40ce4f07119901fc2ec4269",
+      "checksum": "8b7c5121858b19c5142ac67639bf3e91e741370b99617caa2efd1bda77502f79",
       "source": "https://github.com/heydemoura/EglantinePS5"
     },
     {
@@ -900,15 +900,15 @@
     {
       "name": "PS5SX2",
       "filename": "PPSA99203.zip",
-      "url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-321/PS5SX2-vk-285-321.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99203/vk-285-321/PPSA99203.zip",
+      "url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-329/PS5SX2-vk-285-329.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99203/vk-285-329/PPSA99203.zip",
       "description": "PCSX2 port for PS5 that runs PS2 games natively with a Vulkan renderer, up to 6x resolution and settings from your phone. Bring your own BIOS and games.",
-      "version": "vk-285-321",
+      "version": "vk-285-329",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99203",
       "author": "Sword",
-      "checksum": "2c72e77a4e58583d6e42909e3d7b82deb5321f39b17776ff4954c05b4825d241",
+      "checksum": "244e1381f3467a6c1ce145e355e615a8214e90ed85890586fda86b70b715868a",
       "source": "https://github.com/Swordpdf/PS5SX2"
     },
     {
@@ -970,15 +970,15 @@
     {
       "name": "OGBox",
       "filename": "PPSA99251.zip",
-      "url": "https://github.com/Press5elect/OGBox/releases/download/v1.0.2/OGBox-v1.0.2.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99251/1.0.2/PPSA99251.zip",
+      "url": "https://github.com/Press5elect/OGBox/releases/download/v1.0.3/OGBox-v1.0.3.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99251/1.0.3/PPSA99251.zip",
       "description": "XBOX emulator for PS5",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99251",
       "author": "Press5elect",
-      "checksum": "3e3366af4a3906a6728605ff817f61aa64aa731d7d5f23260de40741adfb6182",
+      "checksum": "dee43a1244bc28c80e8836ff1558b3a7b03c2a2039e1e7884d61774d15526380",
       "source": "https://github.com/Press5elect/OGBox"
     },
     {
@@ -1012,15 +1012,15 @@
     {
       "name": "Nuvio Max'd",
       "filename": "PPSA99288.zip",
-      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.26-native/PPSA99288.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.0.26-native/PPSA99288.zip",
+      "url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.1.0-native/PPSA99288.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99288/1.0.1.0-native/PPSA99288.zip",
       "description": "Experimental PS5 media app with profiles, IPTV, media servers and an optional privileged USB reader. Updated playback/network/text dependencies need console confirmation.",
-      "version": "1.0.0.26-native",
+      "version": "1.0.1.0-native",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99288",
       "author": "HandshakeHackin",
-      "checksum": "bd4150bb0b220cfd52875f553e389a077eb138bc68c4799a426b98b0dba95b94",
+      "checksum": "d13de557ac2e2a6da05ef4826bdf22171661705f545806a6283604210658356d",
       "source": "https://github.com/HandshakeHackin/Nuvio-maxd-releases"
     },
     {
@@ -1292,15 +1292,15 @@
     {
       "name": "Photo Splat VR",
       "filename": "PPSA99770.zip",
-      "url": "https://github.com/Papyszoo/photo-splat-vr/releases/download/v0.6.1/photo-splat-vr-v0.6.1.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99770/0.6.1/PPSA99770.zip",
+      "url": "https://github.com/Papyszoo/photo-splat-vr/releases/download/v0.7.0/photo-splat-vr-v0.7.0.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99770/0.7.0/PPSA99770.zip",
       "description": "Turns your photos into 3D Gaussian splat scenes on the console and lets you view them in PSVR2. Works offline; photos and scenes can also live on SMB or NFS shares.",
-      "version": "0.6.1",
+      "version": "0.7.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99770",
       "author": "Papyszoo",
-      "checksum": "f755df34a9f815deed9f05dd304ec309bf34eb4a95305d6c82a5a0af1aeea78c",
+      "checksum": "1655f5873abd3f33e7f520147665237b5051924423888081e87efabaef2c348b",
       "source": "https://github.com/Papyszoo/photo-splat-vr"
     },
     {

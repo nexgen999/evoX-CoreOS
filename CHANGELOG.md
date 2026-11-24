@@ -1,5 +1,28 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 24/11/2026 à 17:15
+* **PAYLOADS**
+  * `Ps5-Romm V1.4.4` (v1.4.4) - *Nouveau*
+  * `Orbit Store` (v1.9.7) - *Mise à jour (Précédent: v1.9.6)*
+  * `Elf Arsenal V1.6.23` (v1.6.23) - *Mise à jour (Précédent: ELF_Arsenal)*
+  * `Np-Fake-Signin-Ps5` (v1.4) - *Mise à jour (Précédent: np-fake-signin)*
+  * `Garlic-Savemgr V2.0` (v2.0) - *Mise à jour (Précédent: garlic-savemgr)*
+  * `Kura V1.6.60` (Kura) - *Mise à jour (Précédent: v1.6.60)*
+* **HOMEBREW_PAGE**
+  * `EliVier Explorer` (00.002.000) - *Mise à jour (Précédent: 00.001.000)*
+  * `ProsperoSunshine` (0.6.7-beta.3) - *Mise à jour (Précédent: 0.6.7-beta.2)*
+  * `RommPS` (1.4.4) - *Mise à jour (Précédent: 1.4.3)*
+  * `PokeMMO Prospero` (1.0.6) - *Mise à jour (Précédent: 1.0.5)*
+  * `TubeBlock` (01.000.216) - *Mise à jour (Précédent: 01.000.215)*
+  * `EglantinePS5` (1.000.004) - *Mise à jour (Précédent: 1.000.003)*
+  * `CannonBall PS5` (1.0.0) - *Nouveau*
+  * `Mario Kart World: Pit Stop` (ps5-0.3.0) - *Mise à jour (Précédent: ps5-0.2.1)*
+  * `PS5SX2` (vk-285-329) - *Mise à jour (Précédent: vk-285-321)*
+  * `OGBox` (1.0.3) - *Mise à jour (Précédent: 1.0.2)*
+  * `Nuvio Max'd` (1.0.1.0-native) - *Mise à jour (Précédent: 1.0.0.26-native)*
+  * `Photo Splat VR` (0.7.0) - *Mise à jour (Précédent: 0.6.1)*
+  * `ProsperoCraft` (01.000.300) - *Mise à jour (Précédent: 01.000.288)*
+
 ## Build du 23/11/2026 à 05:54
 * **PAYLOADS**
   * `Webkit-Autoloader-Installer V0.8.4` (v0.8.4) - *Nouveau*
