@@ -1,5 +1,15 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 25/11/2026 à 02:15
+* **HOMEBREW_PAGE**
+  * `Cyberworld Endless` (0.24.0) - *Mise à jour (Précédent: 0.23.0)*
+  * `EliVier Explorer` (00.002.001) - *Mise à jour (Précédent: 00.002.000)*
+  * `Parasite Eve 2 PS5` (0.1-beta) - *Nouveau*
+  * `The 3rd Birthday` (0.1-beta) - *Nouveau*
+  * `Cloud Play` (1.0.1) - *Mise à jour (Précédent: 1.0.0)*
+  * `Soulcalibur I PS5` (0.1-beta) - *Nouveau*
+  * `ProsperoWeb` (0.3.1) - *Mise à jour (Précédent: 0.3.0)*
+
 ## Build du 24/11/2026 à 17:15
 * **PAYLOADS**
   * `Ps5-Romm V1.4.4` (v1.4.4) - *Nouveau*

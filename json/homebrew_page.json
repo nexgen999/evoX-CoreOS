@@ -18,15 +18,15 @@
     {
       "name": "Cyberworld Endless",
       "filename": "CWEN00001.zip",
-      "url": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless/releases/download/v0.23.0/cyberworld-endless-ps5.zip",
-      "local_path": "downloads/apps/homebrew_page/game/CWEN00001/0.23.0/CWEN00001.zip",
+      "url": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless/releases/download/v0.24.0/cyberworld-endless-ps5.zip",
+      "local_path": "downloads/apps/homebrew_page/game/CWEN00001/0.24.0/CWEN00001.zip",
       "description": "A Battle Network roguelike: a new net every run, with viruses, Navis and chips from BN4, BN5 and BN6, and the Net Square online. It plays the original games from your own ROMs.",
-      "version": "0.23.0",
+      "version": "0.24.0",
       "category": "Games",
       "kind": "game",
       "titleid": "CWEN00001",
       "author": "Saschb2b",
-      "checksum": "83c7240e6301132d07a5834def7db66275f515a0d1ff80688178e2a9a2305c0a",
+      "checksum": "1e6e892495dfb634f2d75a635a1253314983cf925464dd650a3e182485da2a11",
       "source": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless"
     },
     {
@@ -74,15 +74,15 @@
     {
       "name": "EliVier Explorer",
       "filename": "LAPY69432.zip",
-      "url": "https://github.com/Marice/ps5-elivier-explorer/releases/download/v00.002.000/LAPY69432.zip",
-      "local_path": "downloads/apps/homebrew_page/app/LAPY69432/00.002.000/LAPY69432.zip",
+      "url": "https://github.com/Marice/ps5-elivier-explorer/releases/download/v00.002.001/LAPY69432.zip",
+      "local_path": "downloads/apps/homebrew_page/app/LAPY69432/00.002.001/LAPY69432.zip",
       "description": "A dual-pane file explorer for the controller: copy, move and delete with a safety net, and viewers for text, pictures (also DDS), hex and MP3 with playlists.",
-      "version": "00.002.000",
+      "version": "00.002.001",
       "category": "Apps",
       "kind": "app",
       "titleid": "LAPY69432",
       "author": "Marice",
-      "checksum": "3672d49c68719d0c3503c648b8958707a8813779188d39caa6cd8616f84882e9",
+      "checksum": "730295b4bf6b4614f0bd37bd44f9db91e6231d1fd548d6ac2a8d93a87fb49df9",
       "source": "https://github.com/Marice/ps5-elivier-explorer"
     },
     {
@@ -720,7 +720,7 @@
       "filename": "PPSA77022.zip",
       "url": "https://github.com/GUMMIBRI/parasite-eve-ps5/releases/download/v1.2.1/Parasite-Eve-PS5-v1.2.1-Build21.zip",
       "local_path": "downloads/apps/homebrew_page/game/PPSA77022/1.2.1/PPSA77022.zip",
-      "description": "SETUP: Own discs in app/parasite-eve-data/discs/disc1.bin + disc2.bin; read readme.txt. Back up app/user. https://discord.gg/Yg88tHYXK. Based on khasinski/parasite-eve-pc; thanks contributors.",
+      "description": "Parasite Eve 1&2 Port community: https://discord.gg/Yg88tHYXK. Discs: app/parasite-eve-data/discs/{disc1,disc2}.bin. Read readme.txt; back up app/user. Thanks khasinski/parasite-eve-pc + contributors.",
       "version": "1.2.1",
       "category": "Games",
       "kind": "game",
@@ -728,6 +728,34 @@
       "author": "GUMMIBRI",
       "checksum": "5d92ac1e091c66760cf293d8c83a9ad9fbc4fbfd1526330bbeab0195dec24952",
       "source": "https://github.com/GUMMIBRI/parasite-eve-ps5"
+    },
+    {
+      "name": "Parasite Eve 2 PS5",
+      "filename": "PPSA77023.zip",
+      "url": "https://github.com/GUMMIBRI/parasite-eve-ii-pc/releases/download/v0.1-beta/Parasite-Eve-2-PS5-0.1-beta.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA77023/0.1-beta/PPSA77023.zip",
+      "description": "Parasite Eve 1&2 Port community: https://discord.gg/Yg88tHYXK. Early PS5 beta; own North American discs required. Saving, menus, fonts and audio remain under qualification.",
+      "version": "0.1-beta",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA77023",
+      "author": "GUMMIBRI",
+      "checksum": "2ef86f1a191857bdc3aad2b65156580c7c17ab393f688cf818f73fa497cceda1",
+      "source": "https://github.com/GUMMIBRI/parasite-eve-ii-pc"
+    },
+    {
+      "name": "The 3rd Birthday",
+      "filename": "PPSA77025.zip",
+      "url": "https://github.com/GUMMIBRI/the-3rd-birthday-recomp/releases/download/v0.1-beta/Parasite-Eve-3-PS5-0.1-beta.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA77025/0.1-beta/PPSA77025.zip",
+      "description": "Early PS5 beta of The 3rd Birthday. Requires your own ULUS10567.iso beside EBOOT. Native save writes remain disabled; compatibility is limited.",
+      "version": "0.1-beta",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA77025",
+      "author": "GUMMIBRI",
+      "checksum": "523f92da8443ae0b254525d5f5f8ade7cb00a086dabfa483e7b31451e8aaf983",
+      "source": "https://github.com/GUMMIBRI/the-3rd-birthday-recomp"
     },
     {
       "name": "ClanBomber",
@@ -1238,7 +1266,7 @@
       "filename": "PPSA98567.zip",
       "url": "https://github.com/Wamphyre/YmirPS5/releases/download/v0.7.2/YmirPS5-0.7.2-PPSA98567.zip",
       "local_path": "downloads/apps/homebrew_page/app/PPSA98567/0.7.2/PPSA98567.zip",
-      "description": "Sega Saturn emulator for PS5 with USB optical disc support and save states.",
+      "description": "Play Sega Saturn games on PS5 with original CD support via an external USB optical drive, Vulkan rendering, FSR 1 upscaling, FSR 3 frame generation, built-in cheats, RAM expansion, and save states.",
       "version": "0.7.2",
       "category": "Apps",
       "kind": "app",
@@ -2412,15 +2440,15 @@
     {
       "name": "Cloud Play",
       "filename": "PPSA99600.zip",
-      "url": "https://github.com/tertiumndatur/ps5-cloud-play/releases/download/v1.0.0/CloudPlay-PS5.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99600/1.0.0/PPSA99600.zip",
+      "url": "https://github.com/tertiumndatur/ps5-cloud-play/releases/download/v1.0.1/CloudPlay-PS5.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99600/1.0.1/PPSA99600.zip",
       "description": "A Chiaki-based cloud streaming client for PS5 that streams games from the PS Plus Premium catalog.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99600",
       "author": "tertiumndatur",
-      "checksum": "fa47dd13c4ec4c8f1acf8ae41cc38f1411710b40c4853cddd65b135dc45ebb70",
+      "checksum": "2ae7c27112dd3740db192a8ef6d565a13674b2e5f804cacad31466f325a6106d",
       "source": "https://github.com/tertiumndatur/ps5-cloud-play"
     },
     {
@@ -2774,6 +2802,20 @@
       "source": "https://github.com/kauansilvalopes/estante"
     },
     {
+      "name": "Soulcalibur I PS5",
+      "filename": "PPSA99841.zip",
+      "url": "https://github.com/GUMMIBRI/voldorium/releases/download/v0.1-beta/Soul-Calibur-PS5-0.1-beta.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99841/0.1-beta/PPSA99841.zip",
+      "description": "Early PS5 beta of Soul Calibur. Requires your own USA GDI and tracks. Audio stutter remains. Shared title ID conflicts with Estante.",
+      "version": "0.1-beta",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99841",
+      "author": "GUMMIBRI",
+      "checksum": "accfdabf09da023f94b645e0ec7f683113bcf2259e2100757b99d478253c2a23",
+      "source": "https://github.com/GUMMIBRI/voldorium"
+    },
+    {
       "name": "Trophy Manager",
       "filename": "PPSA99842.zip",
       "url": "https://github.com/kauansilvalopes/trophy/releases/download/v0.1.1/Trophy-Manager-v0.1.1-PPSA99842.zip",
@@ -3014,15 +3056,15 @@
     {
       "name": "ProsperoWeb",
       "filename": "PRWB00001.zip",
-      "url": "https://github.com/kvaps/ProsperoWeb/releases/download/v0.3.0/PRWB00001.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PRWB00001/0.3.0/PRWB00001.zip",
+      "url": "https://github.com/kvaps/ProsperoWeb/releases/download/v0.3.1/PRWB00001.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PRWB00001/0.3.1/PRWB00001.zip",
       "description": "A WebKit web browser for the PS5, driven by the controller: tabs, bookmarks, video playback, an ad blocker and SponsorBlock.",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PRWB00001",
       "author": "kvaps",
-      "checksum": "a911392997fd7e15d4e5a042d07400a3206235cc28a7f3b0e112fa0a42c138f5",
+      "checksum": "3d5a85f2cc86a891de46d1b6e9a70a8b8b3806ee3b176fe46791d791c038c2f9",
       "source": "https://github.com/kvaps/ProsperoWeb"
     },
     {

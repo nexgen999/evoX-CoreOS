@@ -14,7 +14,7 @@
       <title>Cyberworld Endless</title>
       <link>https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless</link>
       <description>A Battle Network roguelike: a new net every run, with viruses, Navis and chips from BN4, BN5 and BN6, and the Net Square online. It plays the original games from your own ROMs.</description>
-      <pubDate>0.23.0</pubDate>
+      <pubDate>0.24.0</pubDate>
     </item>
     <item>
       <title>Playden</title>
@@ -38,7 +38,7 @@
       <title>EliVier Explorer</title>
       <link>https://github.com/Marice/ps5-elivier-explorer</link>
       <description>A dual-pane file explorer for the controller: copy, move and delete with a safety net, and viewers for text, pictures (also DDS), hex and MP3 with playlists.</description>
-      <pubDate>00.002.000</pubDate>
+      <pubDate>00.002.001</pubDate>
     </item>
     <item>
       <title>Navi5</title>
@@ -313,8 +313,20 @@
     <item>
       <title>Parasite Eve PS5</title>
       <link>https://github.com/GUMMIBRI/parasite-eve-ps5</link>
-      <description>SETUP: Own discs in app/parasite-eve-data/discs/disc1.bin + disc2.bin; read readme.txt. Back up app/user. https://discord.gg/Yg88tHYXK. Based on khasinski/parasite-eve-pc; thanks contributors.</description>
+      <description>Parasite Eve 1&amp;2 Port community: https://discord.gg/Yg88tHYXK. Discs: app/parasite-eve-data/discs/{disc1,disc2}.bin. Read readme.txt; back up app/user. Thanks khasinski/parasite-eve-pc + contributors.</description>
       <pubDate>1.2.1</pubDate>
+    </item>
+    <item>
+      <title>Parasite Eve 2 PS5</title>
+      <link>https://github.com/GUMMIBRI/parasite-eve-ii-pc</link>
+      <description>Parasite Eve 1&amp;2 Port community: https://discord.gg/Yg88tHYXK. Early PS5 beta; own North American discs required. Saving, menus, fonts and audio remain under qualification.</description>
+      <pubDate>0.1-beta</pubDate>
+    </item>
+    <item>
+      <title>The 3rd Birthday</title>
+      <link>https://github.com/GUMMIBRI/the-3rd-birthday-recomp</link>
+      <description>Early PS5 beta of The 3rd Birthday. Requires your own ULUS10567.iso beside EBOOT. Native save writes remain disabled; compatibility is limited.</description>
+      <pubDate>0.1-beta</pubDate>
     </item>
     <item>
       <title>ClanBomber</title>
@@ -535,7 +547,7 @@
     <item>
       <title>YmirPS5</title>
       <link>https://github.com/Wamphyre/YmirPS5</link>
-      <description>Sega Saturn emulator for PS5 with USB optical disc support and save states.</description>
+      <description>Play Sega Saturn games on PS5 with original CD support via an external USB optical drive, Vulkan rendering, FSR 1 upscaling, FSR 3 frame generation, built-in cheats, RAM expansion, and save states.</description>
       <pubDate>0.7.2</pubDate>
     </item>
     <item>
@@ -1040,7 +1052,7 @@
       <title>Cloud Play</title>
       <link>https://github.com/tertiumndatur/ps5-cloud-play</link>
       <description>A Chiaki-based cloud streaming client for PS5 that streams games from the PS Plus Premium catalog.</description>
-      <pubDate>1.0.0</pubDate>
+      <pubDate>1.0.1</pubDate>
     </item>
     <item>
       <title>GETSU-SAN</title>
@@ -1193,6 +1205,12 @@
       <pubDate>0.5.8</pubDate>
     </item>
     <item>
+      <title>Soulcalibur I PS5</title>
+      <link>https://github.com/GUMMIBRI/voldorium</link>
+      <description>Early PS5 beta of Soul Calibur. Requires your own USA GDI and tracks. Audio stutter remains. Shared title ID conflicts with Estante.</description>
+      <pubDate>0.1-beta</pubDate>
+    </item>
+    <item>
       <title>Trophy Manager</title>
       <link>https://github.com/kauansilvalopes/trophy</link>
       <description>Needs Elf Arsenal running. Native PS5 trophy manager: see, unlock, lock and back up your trophies from the console, with the controller. EN/PT/ES.</description>
@@ -1298,7 +1316,7 @@
       <title>ProsperoWeb</title>
       <link>https://github.com/kvaps/ProsperoWeb</link>
       <description>A WebKit web browser for the PS5, driven by the controller: tabs, bookmarks, video playback, an ad blocker and SponsorBlock.</description>
-      <pubDate>0.3.0</pubDate>
+      <pubDate>0.3.1</pubDate>
     </item>
     <item>
       <title>PS Play 3.0</title>

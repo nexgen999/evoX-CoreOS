@@ -32,15 +32,15 @@
     {
       "name": "EliVier Explorer",
       "filename": "LAPY69432.zip",
-      "url": "https://github.com/Marice/ps5-elivier-explorer/releases/download/v00.002.000/LAPY69432.zip",
-      "local_path": "downloads/apps/homebrew_page/app/LAPY69432/00.002.000/LAPY69432.zip",
+      "url": "https://github.com/Marice/ps5-elivier-explorer/releases/download/v00.002.001/LAPY69432.zip",
+      "local_path": "downloads/apps/homebrew_page/app/LAPY69432/00.002.001/LAPY69432.zip",
       "description": "A dual-pane file explorer for the controller: copy, move and delete with a safety net, and viewers for text, pictures (also DDS), hex and MP3 with playlists.",
-      "version": "00.002.000",
+      "version": "00.002.001",
       "category": "Apps",
       "kind": "app",
       "titleid": "LAPY69432",
       "author": "Marice",
-      "checksum": "3672d49c68719d0c3503c648b8958707a8813779188d39caa6cd8616f84882e9",
+      "checksum": "730295b4bf6b4614f0bd37bd44f9db91e6231d1fd548d6ac2a8d93a87fb49df9",
       "source": "https://github.com/Marice/ps5-elivier-explorer"
     },
     {
@@ -538,7 +538,7 @@
       "filename": "PPSA98567.zip",
       "url": "https://github.com/Wamphyre/YmirPS5/releases/download/v0.7.2/YmirPS5-0.7.2-PPSA98567.zip",
       "local_path": "downloads/apps/homebrew_page/app/PPSA98567/0.7.2/PPSA98567.zip",
-      "description": "Sega Saturn emulator for PS5 with USB optical disc support and save states.",
+      "description": "Play Sega Saturn games on PS5 with original CD support via an external USB optical drive, Vulkan rendering, FSR 1 upscaling, FSR 3 frame generation, built-in cheats, RAM expansion, and save states.",
       "version": "0.7.2",
       "category": "Apps",
       "kind": "app",
@@ -1236,15 +1236,15 @@
     {
       "name": "Cloud Play",
       "filename": "PPSA99600.zip",
-      "url": "https://github.com/tertiumndatur/ps5-cloud-play/releases/download/v1.0.0/CloudPlay-PS5.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99600/1.0.0/PPSA99600.zip",
+      "url": "https://github.com/tertiumndatur/ps5-cloud-play/releases/download/v1.0.1/CloudPlay-PS5.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99600/1.0.1/PPSA99600.zip",
       "description": "A Chiaki-based cloud streaming client for PS5 that streams games from the PS Plus Premium catalog.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99600",
       "author": "tertiumndatur",
-      "checksum": "fa47dd13c4ec4c8f1acf8ae41cc38f1411710b40c4853cddd65b135dc45ebb70",
+      "checksum": "2ae7c27112dd3740db192a8ef6d565a13674b2e5f804cacad31466f325a6106d",
       "source": "https://github.com/tertiumndatur/ps5-cloud-play"
     },
     {
@@ -1530,15 +1530,15 @@
     {
       "name": "ProsperoWeb",
       "filename": "PRWB00001.zip",
-      "url": "https://github.com/kvaps/ProsperoWeb/releases/download/v0.3.0/PRWB00001.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PRWB00001/0.3.0/PRWB00001.zip",
+      "url": "https://github.com/kvaps/ProsperoWeb/releases/download/v0.3.1/PRWB00001.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PRWB00001/0.3.1/PRWB00001.zip",
       "description": "A WebKit web browser for the PS5, driven by the controller: tabs, bookmarks, video playback, an ad blocker and SponsorBlock.",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PRWB00001",
       "author": "kvaps",
-      "checksum": "a911392997fd7e15d4e5a042d07400a3206235cc28a7f3b0e112fa0a42c138f5",
+      "checksum": "3d5a85f2cc86a891de46d1b6e9a70a8b8b3806ee3b176fe46791d791c038c2f9",
       "source": "https://github.com/kvaps/ProsperoWeb"
     },
     {

@@ -3,6 +3,132 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA13416",
+      "title": "Hubris",
+      "createdAt": "2026-11-24T18:37:13.893Z",
+      "version": "1.007",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/eb77bd831fb2b8a44b7ae135e788f0728180551f5bda1b740447df10654cddc0",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/383a53af809363bff8f77ac2ee8402c8f7c3571277fe032444fc3894f6acf29c",
+      "description": "Format: psvr2\n⭐ “An epic sci-fi adventure that no VR gamer should miss out playing” - PSVR2 Without Parole Take on the mantle of an unseasoned recruit with the task of finding a high-profile agent that went missing on a strange and highly inhospitable alien planet. 🏆 WN Unreal Engine best VR Game 🏆 UploadVR's best desktop game 🏆 Belgium Game Awards Best XR game Features: — Immerse yourself in one of the most visually stunning games on PSVR2, beautifully crafted to captivate and transport you into a meticulously realized sci-fi world. — Experience the freedom of running, jumping, climbing, swimming, shooting &amp; more with deep mechanics built from the ground up for VR — Explore to find valuable resources used to craft new weapons, tools &amp; upgrades to gain an edge — Multiple difficulties to make the game the right fit for you, whether you’re wanting a challenge or a more story &amp; explorative experience — Excellent sound design &amp; an epic soundtrack that bring the rich world to life — Get lost in a full-featured story campaign that takes you across a beautiful but deadly alien world Hubris is an experience, a journey, a visual marvel that will redefine what you thought was possible in VR. Dive into the universe of Hubris today and embark on an adventure that will be hard to forget!\nRegion: EUR\nFirmware: 7.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: Even though the game is uploaded on the main website, it had an issue that the game detected itself as a demo. That's fixed now!\nCredits: Thank you, High-Speed007, for the dump, and CC for the fix!\nUpdated: 2026-11-24T17:49:48.526Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "psvr2 · Data",
+          "url": "https://datanodes.to/tcoyxxekj0p6"
+        },
+        {
+          "name": "psvr2 · Viki",
+          "url": "https://vikingfile.com/f/siSv61dgpz"
+        }
+      ],
+      "sizeBytes": 34789235098
+    },
+    {
+      "titleId": "PPSA08591",
+      "title": "Disney Dreamlight Valley",
+      "createdAt": "2026-11-24T18:37:13.893Z",
+      "version": "25.000.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/50086b62ed7bf1e341992a1491a537c5c5904ad93cdb075f6c42075ad73a5e8e",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/50086b62ed7bf1e341992a1491a537c5c5904ad93cdb075f6c42075ad73a5e8e",
+      "description": "Format: Folder\nThis bundle includes the Disney Dreamlight Valley base game; the new Expansion, Disney Dreamlight Valley: The Keepsake Sea; and 13,000 Moonstones (in-game currency). Disney Dreamlight Valley is a cozy life-sim adventure game rich with quests, exploration, and engaging activities featuring 50+ Disney and Pixar friends. Build the perfect Valley for you, decorate your home with a fully customizable layout, and assemble unique outfits to express your style. Befriend courageous princesses, heroes, and nefarious villains and embark on an adventure to free the Valley from the grip of the Forgetting and bring the magic back to Dreamlight Valley! Become magical merfolk and explore the underwater worlds in Disney Dreamlight Valley: The Keepsake Sea. Set sail aboard your own enchanted pirate ship to reach a faraway kingdom across the sea and uncover three new Island Biomes. Jump into the waters as merfolk and discover what secrets dwell beneath the sea with the help of six new Villagers, including Milo Thatch, Captain Jack Sparrow, Megara, and Dory. This Expansion brings a brand-new epic storyline and an ocean of adventure!\nRegion: EUR\nFirmware: 5.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: Tried to unlock DLCs, to no avail q-q\nCredits: Thank you, Barquillo!\nUpdated: 2026-11-24T17:44:47.130Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · 1fichier",
+          "url": "https://1fichier.com/?s612o3yzre2k8e4hits6"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/dkgwhmg8fbzm"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/Q9pKzcqIWv"
+        }
+      ],
+      "sizeBytes": 28454158336
+    },
+    {
+      "titleId": "PPSA06139",
+      "title": "F1 Manager 2022",
+      "createdAt": "2026-11-24T18:37:13.893Z",
+      "version": "01.013.000",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/d92231940ed2c042b054c32d196a9a103006314779653890b78ca6d6885efdc4",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/d92231940ed2c042b054c32d196a9a103006314779653890b78ca6d6885efdc4",
+      "description": "Format: Folder\nMake your mark on Formula 1® in the officially licensed F1® Manager 2022. Be the boss of your chosen constructor and pick from a roster of 2022 drivers and staff. Featuring full F1® licensing and true-to-life presentation, you won’t just play F1® Manager 2022 – you’ll live it. Career – Become the Best Write a new chapter in a bold new era for Formula 1®. Choose your F1® team and guide them to glory throughout the official 2022 races by beginning your journey at the back of the grid or taking your place in pole position – in F1® Manager, the choice is yours. Your task is to impress the board by hitting your season targets and long-term goals, securing your team’s success for years to come. The HQ – Build Your Team Your constructor team are the beating heart of racing operations. Between races, control every detail of your team from HQ. Monitor the performance of your star drivers and staff, keep your finances in the black, and scout best-in-class staff from rival teams to give yourself an extra edge for upcoming races. The Factory – Perfect Your Car Get your hands on 2022’s striking new car design and race closer to your opponents than ever before. Assign new parts for your cars to prepare for the race ahead. Choose your engineering approach to gain advantages on upcoming circuits – will you develop a well-balanced system, focus on areas needing improvement, or excel in specific aspects of performance? The Race – Create and Execute Your Strategy From lights-out to the chequered flag, you’re in control. Own every decision from pit strategy to tyre choices to driver callouts. Plan your approach but be prepared to react to dynamic race events such as weather and fluctuating track conditions. Immerse yourself in a hyper-realistic simulation of an official F1® race presented in true-to-life broadcast quality.\nRegion: EUR\nFirmware: 4.xx+\nCredits: Thank you, Curi!\nUpdated: 2026-11-24T17:43:43.634Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · 1fichier",
+          "url": "https://1fichier.com/?no89gjke12sxacyownyt"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/q6fbbnqncuqa"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/zF8kqCfwAA"
+        }
+      ],
+      "sizeBytes": 37044092928
+    },
+    {
+      "titleId": "PPSA24701",
+      "title": "Digimon Story Time Stranger",
+      "createdAt": "2026-10-16T21:48:35.923Z",
+      "version": "01.000.012",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/65acb377a67db4fda3d63fec34a73db32fa6a345b8ddb0ae2f64b552203ba92d",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/6d4fd9048943486e7c804222b179bec4d8750bcd621faff61212a9b983fd4c31",
+      "description": "Format: Folder\nDigimon Story Time Stranger is an RPG with monster-taming elements that explores the deep bond between humans and Digimon in an epic story that unravels the mystery of the world’s collapse. Embark on an adventure that spans across the human world and Digital World, collecting and raising a diverse array of Digimon to fight in turn-based battles. An Epic Story of Connection Tokyo, Japan – An agent of a secret organization encounters an unknown creature shortly before a city-leveling explosion. They then reawaken eight years in the past... Take on a mission to uncover the mystery of the world’s collapse, where chance encounters with unique characters will shape your journey across time and parallel worlds - and change fate itself. Adventure Between Worlds and Time Journey between the parallel human world and the Digital World: Iliad where Digimon reside. See the Digital World and its intricately detailed realms like never before, with interactive elements and special quests to explore. Strategic Turn-Based Battles Enjoy dynamic turn-based combat that combines strategic elements with evolved battle components. More than 450 Digimon and deep customization options provide limitless ways to approach the challenges of battle and reveal the strength of the bonds formed with your Digimon. *This product is the Standard Edition. A Deluxe Edition and Ultimate Edition are also available. Please be careful of duplicate purchases.\nRegion: EUR\nFirmware: 10.xx+\nAPR: apr-emu-v0.4.2.1\nNotes: 60 fps patch finally droped! enjoy! All DLCs added too\nCredits: This one needs libscePlayGo in fakelib folder!; Barquillo\nUpdated: 2026-11-24T17:41:38.847Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · 1fichier",
+          "url": "https://1fichier.com/?rknhre26ntuw67khl24r"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/uc026ftd38jc"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/IfiGPpX5sW"
+        }
+      ],
+      "sizeBytes": 60805999493
+    },
+    {
+      "titleId": "PPSA14431",
+      "title": "Ratchet & Clank: Size Matters",
+      "createdAt": "2026-11-24T18:37:13.893Z",
+      "version": "01.000.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/70b7a0c53c16748a078f3d8656cb292488c1b0fb71654de28d9d266d5c348b28",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/1aac9630729b9c6476d359075cef7e5e555ff1679b6a59c948c2d8af18fa5a2b",
+      "description": "Format: Folder\nExperience Ratchet &amp; Clank™: Size Matters originally released on the PSP™ (PlayStation®Portable) system, enhanced with up-rendering, rewind, quick save, and custom video filters. AN ORIGINAL ADVENTURE BUILT FROM THE GROUND UP FOR THE PSP® SYSTEM Wield weapons, customize your armor, and shrink yourself down to discover the new worlds! Explore the mysterious Technomite Universe and even journey inside Clank's head! This title has been converted from the PSP™ (PlayStation®Portable) version to the PlayStation®4 and PlayStation®5 consoles and provides newly added features. Consequently, there may be times where the title plays differently from the PSP™ (PlayStation®Portable) version, or where some features may cause the title to not function properly. This version does not support the PSP™ (PlayStation®Portable) system’s peripherals, therefore some functionality may not be available.\nRegion: EUR\nFirmware: 9.xx+\nCredits: Thank you, Barquillo!!\nUpdated: 2026-11-24T17:40:24.764Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · 1fichier",
+          "url": "https://1fichier.com/?6kifw3hxe4232t9tqrqh"
+        },
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/6ho7rr2cz27m"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/6BtMaW11c2"
+        }
+      ],
+      "sizeBytes": 3425236419
+    },
+    {
       "titleId": "CUSA14439",
       "title": "A Chair in a Room: Greenwater",
       "createdAt": "2026-11-24T14:16:10.755Z",
