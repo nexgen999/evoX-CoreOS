@@ -4,15 +4,15 @@
     {
       "name": "Playden",
       "filename": "FAKE77031.zip",
-      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.12.0-beta.4/playden-ps5-0.12.0-beta.4.zip",
-      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.12.0-beta.4/FAKE77031.zip",
+      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.12.0-beta.5/playden-ps5-0.12.0-beta.5.zip",
+      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.12.0-beta.5/FAKE77031.zip",
       "description": "Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.",
-      "version": "0.12.0-beta.4",
+      "version": "0.12.0-beta.5",
       "category": "Apps",
       "kind": "app",
       "titleid": "FAKE77031",
       "author": "leolobato",
-      "checksum": "0465a58feb9a94b3e7946ae0cc964d2d23ed68ac2a35f2aceb7a77da4f87e455",
+      "checksum": "99b2294050d11a6ffd706b60bc03c20602743d1488920b926ac36d2cc8434782",
       "source": "https://github.com/leolobato/playden-ps5"
     },
     {
@@ -158,15 +158,15 @@
     {
       "name": "ProsperoSunshine",
       "filename": "PPSA47989.zip",
-      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.6.7-beta.3/PPSA47989.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.6.7-beta.3/PPSA47989.zip",
+      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.6.7/PPSA47989.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.6.7/PPSA47989.zip",
       "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.",
-      "version": "0.6.7-beta.3",
+      "version": "0.6.7",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA47989",
       "author": "Darkatek7",
-      "checksum": "ab3dc156c9eda09d2aad8a63c363ac052157d5001454c0f863d7b89dbf09dbce",
+      "checksum": "8838e9acd28a8b7f5ae0a1e3b42f3c2a0ac6323dce17d5617f553a0a20b545f5",
       "source": "https://github.com/Darkatek7/ProsperoSunshine"
     },
     {
@@ -350,6 +350,20 @@
       "author": "Argyris Vazaios",
       "checksum": "eec6ef7d9a173fce4e0fdca8521e57a9d789742cb1257262d23bc834c3ef4fa7",
       "source": "https://github.com/Sp9nky/unofficial-stremio-ps5-port"
+    },
+    {
+      "name": "TrinityX360",
+      "filename": "PPSA83600.zip",
+      "url": "https://github.com/grzegorz2047/TrinityX360/releases/download/v1.0.6/PPSA83600.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA83600/v1.0.6/PPSA83600.zip",
+      "description": "Xbox 360 emulator for PS5 on Xenia Canary, built from BrinooTk's PS5X360 source, adding Kinect for more games via a phone, 2x resolution, anti-aliasing and game fixes.",
+      "version": "v1.0.6",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA83600",
+      "author": "grzegorz2047",
+      "checksum": "44a9a39dea9a3511804e2bf2a4780a89b512c1e4c2894f94fb042e5a49c572b4",
+      "source": "https://github.com/grzegorz2047/TrinityX360"
     },
     {
       "name": "FLEX",
@@ -536,15 +550,15 @@
     {
       "name": "YmirPS5",
       "filename": "PPSA98567.zip",
-      "url": "https://github.com/Wamphyre/YmirPS5/releases/download/v0.7.2/YmirPS5-0.7.2-PPSA98567.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA98567/0.7.2/PPSA98567.zip",
+      "url": "https://github.com/Wamphyre/YmirPS5/releases/download/v0.7.3/YmirPS5-0.7.3-PPSA98567.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA98567/0.7.3/PPSA98567.zip",
       "description": "Play Sega Saturn games on PS5 with original CD support via an external USB optical drive, Vulkan rendering, FSR 1 upscaling, FSR 3 frame generation, built-in cheats, RAM expansion, and save states.",
-      "version": "0.7.2",
+      "version": "0.7.3",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA98567",
       "author": "Wamphyre",
-      "checksum": "6b427e08682b09496b3ec8e6e07d6b26d9d97002d007f28854fa3e56486cb958",
+      "checksum": "e41f80d99cb780445e3c1baea9885958b7e612a7f16842c50096e123c191f8fd",
       "source": "https://github.com/Wamphyre/YmirPS5"
     },
     {
@@ -900,15 +914,15 @@
     {
       "name": "PS5SX2",
       "filename": "PPSA99203.zip",
-      "url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-329/PS5SX2-vk-285-329.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99203/vk-285-329/PPSA99203.zip",
+      "url": "https://github.com/Swordpdf/PS5SX2/releases/download/vk-285-345/PS5SX2-vk-285-345.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99203/vk-285-345/PPSA99203.zip",
       "description": "PCSX2 port for PS5 that runs PS2 games natively with a Vulkan renderer, up to 6x resolution and settings from your phone. Bring your own BIOS and games.",
-      "version": "vk-285-329",
+      "version": "vk-285-345",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99203",
       "author": "Sword",
-      "checksum": "244e1381f3467a6c1ce145e355e615a8214e90ed85890586fda86b70b715868a",
+      "checksum": "c85d4636f5d9cec182ad7173b1b566b02aef3bdce64ba247cd1b3eecd13a973f",
       "source": "https://github.com/Swordpdf/PS5SX2"
     },
     {
@@ -956,15 +970,15 @@
     {
       "name": "Crux2",
       "filename": "PPSA99249.zip",
-      "url": "https://github.com/Press5elect/Crux2/releases/download/v1.0.23/Crux2-v1.0.23.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99249/v1.0.23/PPSA99249.zip",
+      "url": "https://github.com/Press5elect/Crux2/releases/download/v1.0.24/Crux2-v1.0.24.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99249/v1.0.24/PPSA99249.zip",
       "description": "PCSX2 (PlayStation 2) as a standalone PS5 title on RADV, with a controller-first Big Picture library, network shares, USB disc drives and RetroAchievements.",
-      "version": "v1.0.23",
+      "version": "v1.0.24",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99249",
       "author": "Press5elect",
-      "checksum": "ef2bf8832624ddd45f5a0570f996f10188540307ca50edd1be08e65662a5310a",
+      "checksum": "051448bbe04c767f29ad057db8f4f1359bebd1d7c49f40c866c3c543b1d5b173",
       "source": "https://github.com/Press5elect/Crux2"
     },
     {

@@ -1,5 +1,18 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 25/11/2026 à 17:09
+* **HOMEBREW_PAGE**
+  * `Playden` (0.12.0-beta.5) - *Mise à jour (Précédent: 0.12.0-beta.4)*
+  * `ProsperoSunshine` (0.6.7) - *Mise à jour (Précédent: 0.6.7-beta.3)*
+  * `Clan Bomber` (2.0) - *Nouveau*
+  * `TrinityX360` (v1.0.6) - *Nouveau*
+  * `Conker's Bad Fur Day Recompiled` (00.001.002) - *Mise à jour (Précédent: 00.001.001)*
+  * `OutRunners PS5` (1.0.0) - *Nouveau*
+  * `YmirPS5` (0.7.3) - *Mise à jour (Précédent: 0.7.2)*
+  * `PS5SX2` (vk-285-345) - *Mise à jour (Précédent: vk-285-329)*
+  * `Crux2` (v1.0.24) - *Mise à jour (Précédent: v1.0.23)*
+  * `ProsperoCraft` (01.000.302) - *Mise à jour (Précédent: 01.000.300)*
+
 ## Build du 25/11/2026 à 02:15
 * **HOMEBREW_PAGE**
   * `Cyberworld Endless` (0.24.0) - *Mise à jour (Précédent: 0.23.0)*

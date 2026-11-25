@@ -20,7 +20,7 @@
       <title>Playden</title>
       <link>https://github.com/leolobato/playden-ps5</link>
       <description>Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.</description>
-      <pubDate>0.12.0-beta.4</pubDate>
+      <pubDate>0.12.0-beta.5</pubDate>
     </item>
     <item>
       <title>PS5Term</title>
@@ -164,7 +164,7 @@
       <title>ProsperoSunshine</title>
       <link>https://github.com/Darkatek7/ProsperoSunshine</link>
       <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.</description>
-      <pubDate>0.6.7-beta.3</pubDate>
+      <pubDate>0.6.7</pubDate>
     </item>
     <item>
       <title>SudokuZen</title>
@@ -329,10 +329,10 @@
       <pubDate>0.1-beta</pubDate>
     </item>
     <item>
-      <title>ClanBomber</title>
+      <title>Clan Bomber</title>
       <link>https://github.com/GUMMIBRI/ClanBomber-PS5</link>
-      <description>Native PS5 port of the open-source ClanBomber game, with local CPU matches, controller pause/resume, Normal/Easy CPU difficulty and custom character skins.</description>
-      <pubDate>0.1.0</pubDate>
+      <description>Clan Bomber 2.0 for PS5, featuring PS5-exclusive characters GNU, SUSE, Mandrake, GIMP, and Red Hat alongside Tux and the original cast.</description>
+      <pubDate>2.0</pubDate>
     </item>
     <item>
       <title>PSteroid5</title>
@@ -345,6 +345,12 @@
       <link>https://github.com/Sp9nky/unofficial-stremio-ps5-port</link>
       <description>Unofficial Stremio client for the PS5</description>
       <pubDate>1.2</pubDate>
+    </item>
+    <item>
+      <title>TrinityX360</title>
+      <link>https://github.com/grzegorz2047/TrinityX360</link>
+      <description>Xbox 360 emulator for PS5 on Xenia Canary, built from BrinooTk's PS5X360 source, adding Kinect for more games via a phone, 2x resolution, anti-aliasing and game fixes.</description>
+      <pubDate>v1.0.6</pubDate>
     </item>
     <item>
       <title>FLEX</title>
@@ -422,7 +428,7 @@
       <title>Conker's Bad Fur Day Recompiled</title>
       <link>https://github.com/DevOldSchool/conkers-bfd-recomp-ps</link>
       <description>Native recompilation of Conker’s Bad Fur Day for PS5, with widescreen, online multiplayer, and more. Requires your own ROM.</description>
-      <pubDate>00.001.001</pubDate>
+      <pubDate>00.001.002</pubDate>
     </item>
     <item>
       <title>Capy Mobile</title>
@@ -545,10 +551,16 @@
       <pubDate>1.0.0</pubDate>
     </item>
     <item>
+      <title>OutRunners PS5</title>
+      <link>https://github.com/JJBurtenshaw/OutRunners-PS5</link>
+      <description>Native PlayStation 5 homebrew port of the OutRunners arcade game.</description>
+      <pubDate>1.0.0</pubDate>
+    </item>
+    <item>
       <title>YmirPS5</title>
       <link>https://github.com/Wamphyre/YmirPS5</link>
       <description>Play Sega Saturn games on PS5 with original CD support via an external USB optical drive, Vulkan rendering, FSR 1 upscaling, FSR 3 frame generation, built-in cheats, RAM expansion, and save states.</description>
-      <pubDate>0.7.2</pubDate>
+      <pubDate>0.7.3</pubDate>
     </item>
     <item>
       <title>Breath of the Wild VR</title>
@@ -758,7 +770,7 @@
       <title>PS5SX2</title>
       <link>https://github.com/Swordpdf/PS5SX2</link>
       <description>PCSX2 port for PS5 that runs PS2 games natively with a Vulkan renderer, up to 6x resolution and settings from your phone. Bring your own BIOS and games.</description>
-      <pubDate>vk-285-329</pubDate>
+      <pubDate>vk-285-345</pubDate>
     </item>
     <item>
       <title>Parallax Browser</title>
@@ -794,7 +806,7 @@
       <title>Crux2</title>
       <link>https://github.com/Press5elect/Crux2</link>
       <description>PCSX2 (PlayStation 2) as a standalone PS5 title on RADV, with a controller-first Big Picture library, network shares, USB disc drives and RetroAchievements.</description>
-      <pubDate>v1.0.23</pubDate>
+      <pubDate>v1.0.24</pubDate>
     </item>
     <item>
       <title>OGBox</title>
@@ -1226,7 +1238,7 @@
       <title>ProsperoCraft</title>
       <link>https://github.com/mateo-cogeanu/ProsperoCraft</link>
       <description>Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.</description>
-      <pubDate>01.000.300</pubDate>
+      <pubDate>01.000.302</pubDate>
     </item>
     <item>
       <title>Genesis Plus GX PS5</title>

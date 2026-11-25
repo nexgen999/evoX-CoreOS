@@ -408,17 +408,17 @@
       "source": "https://github.com/GUMMIBRI/the-3rd-birthday-recomp"
     },
     {
-      "name": "ClanBomber",
+      "name": "Clan Bomber",
       "filename": "PPSA77028.zip",
-      "url": "https://github.com/GUMMIBRI/ClanBomber-PS5/releases/download/v0.1.0/ClanBomber-PS5-v0.1.0.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA77028/0.1.0/PPSA77028.zip",
-      "description": "Native PS5 port of the open-source ClanBomber game, with local CPU matches, controller pause/resume, Normal/Easy CPU difficulty and custom character skins.",
-      "version": "0.1.0",
+      "url": "https://github.com/GUMMIBRI/ClanBomber-PS5/releases/download/v2.0/ClanBomber-2.0-r32-v1.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA77028/2.0/PPSA77028.zip",
+      "description": "Clan Bomber 2.0 for PS5, featuring PS5-exclusive characters GNU, SUSE, Mandrake, GIMP, and Red Hat alongside Tux and the original cast.",
+      "version": "2.0",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA77028",
       "author": "GUMMIBRI",
-      "checksum": "fcaad10071d98ec50b29f7e1b8b8b6784edf8200cf3fb58b30cb93a32b1a5300",
+      "checksum": "3b6cd74a2ba1c09de7a8d1ca7c0d49c89fba431060b9a2d6a2703ed5aa8efb0f",
       "source": "https://github.com/GUMMIBRI/ClanBomber-PS5"
     },
     {
@@ -550,15 +550,15 @@
     {
       "name": "Conker's Bad Fur Day Recompiled",
       "filename": "PPSA92064.zip",
-      "url": "https://github.com/DevOldSchool/conkers-bfd-recomp-ps/releases/download/00.001.001/PPSA92064.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA92064/00.001.001/PPSA92064.zip",
+      "url": "https://github.com/DevOldSchool/conkers-bfd-recomp-ps/releases/download/00.001.002/PPSA92064.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA92064/00.001.002/PPSA92064.zip",
       "description": "Native recompilation of Conker’s Bad Fur Day for PS5, with widescreen, online multiplayer, and more. Requires your own ROM.",
-      "version": "00.001.001",
+      "version": "00.001.002",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA92064",
       "author": "DevOldSchool",
-      "checksum": "efb1298feb87996a2ce49ea309d572b8347bd6254939ed9e552a898aeedcc85f",
+      "checksum": "fee0101e907298085ec0bc1e7cf7c86a293d8a59c075798a3add0c411a3cead1",
       "source": "https://github.com/DevOldSchool/conkers-bfd-recomp-ps"
     },
     {
@@ -686,6 +686,20 @@
       "author": "Jonathan Burtenshaw",
       "checksum": "7c3e586ed3b4baafd7b30d2e1147e8aec941e19f3baaf330f3364bb7f73b4319",
       "source": "https://github.com/JJBurtenshaw/CannonBall-PS5"
+    },
+    {
+      "name": "OutRunners PS5",
+      "filename": "PPSA98538.zip",
+      "url": "https://github.com/JJBurtenshaw/OutRunners-PS5/releases/download/v1.0.0/OutRunners-PS5-v1.0.0.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA98538/1.0.0/PPSA98538.zip",
+      "description": "Native PlayStation 5 homebrew port of the OutRunners arcade game.",
+      "version": "1.0.0",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA98538",
+      "author": "Jonathan Burtenshaw",
+      "checksum": "ac82dc34a5e0d52b64c6568794134797f183f48c027639b8919ca9aa24df886b",
+      "source": "https://github.com/JJBurtenshaw/OutRunners-PS5"
     },
     {
       "name": "vkQuake",
@@ -1348,15 +1362,15 @@
     {
       "name": "ProsperoCraft",
       "filename": "PPSA99874.zip",
-      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.300/PPSA99874.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.300/PPSA99874.zip",
+      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.302/PPSA99874.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.302/PPSA99874.zip",
       "description": "Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.",
-      "version": "01.000.300",
+      "version": "01.000.302",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99874",
       "author": "mateo-cogeanu",
-      "checksum": "15c2f1727bd056aad04a877dc756b84c8a77aaa7ecd11734454ec80969149e7b",
+      "checksum": "91c66f987824685e6ca867107a0e9dc9d0f145624f11951e42cd5e8536322903",
       "source": "https://github.com/mateo-cogeanu/ProsperoCraft"
     },
     {
