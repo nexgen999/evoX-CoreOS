@@ -3,6 +3,98 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA08035",
+      "title": "Monster Hunter Rise + Sunbreak Deluxe",
+      "createdAt": "2026-11-26T02:39:42.121Z",
+      "version": "v16.000.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/08bf8c69d7ccc8b033d0a557e02b3d2ef9c9fb64acecdf78c62a3eccce4624f0",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/08bf8c69d7ccc8b033d0a557e02b3d2ef9c9fb64acecdf78c62a3eccce4624f0",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA08035, v16.000.002, EUR, DLCs Merged, 4.xx BackPort\nSize: 56GB\nCredits: Files: Barquillo; Backport: DecKerr97 GUI; DLC: Barquillo\nHow to play: FPKG atm is only working up to 13.60, use Dump if you are above. About Dump: SDK is 5.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/cAm4cZ5K#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/cAm4cZ5K#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/cAm4cZ5K#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/cAm4cZ5K#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/XFYQyKoF#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/XFYQyKoF#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/XFYQyKoF#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/XFYQyKoF#FileKeeper"
+        }
+      ],
+      "sizeBytes": 60129542144
+    },
+    {
+      "titleId": "PPSA28336",
+      "title": "STALKER 2 Heart of Chornobyl Ultimate Edition",
+      "createdAt": "2026-11-26T02:39:42.121Z",
+      "version": "v01.022",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/a084b4b5c955c2280a574dd0dbd39c3dda51eb258f7413ab69886e6c06a56603",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/3de967d4ebcb4d4acfe8499cadc654b91a0532127a888ce3e98153ad7c2ea9e7",
+      "description": "Builds: Dump, Fpkg\nTags: PPSA28336, v01.022, EUR, DLCs Merged, 4.xx BackPort\nSize: 177GB\nCredits: Files: Fubc; Backport: DecKerr97 GUI; DLC: Fubc\nHow to play: FPKG atm is only working up to 13.60, use Dump if you are above. About Dump: SDK is 10.xx, separated BackPort Folder included. About FPKG: BackPort already included on Base, separated Original Files PKG included, optional.",
+      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
+      "downloadLinks": [
+        {
+          "name": "Dump - DataNodes",
+          "url": "https://link-vault.org/c/MRtbF9Mc#DataNodes"
+        },
+        {
+          "name": "Dump - FileKeeper",
+          "url": "https://link-vault.org/c/MRtbF9Mc#FileKeeper"
+        },
+        {
+          "name": "Dump - AkiraBox",
+          "url": "https://link-vault.org/c/MRtbF9Mc#AkiraBox"
+        },
+        {
+          "name": "Dump - VikingFile",
+          "url": "https://link-vault.org/c/MRtbF9Mc#VikingFile"
+        },
+        {
+          "name": "Fpkg - AkiraBox",
+          "url": "https://link-vault.org/c/qfHBWiNt#AkiraBox"
+        },
+        {
+          "name": "Fpkg - VikingFile",
+          "url": "https://link-vault.org/c/qfHBWiNt#VikingFile"
+        },
+        {
+          "name": "Fpkg - DataNodes",
+          "url": "https://link-vault.org/c/qfHBWiNt#DataNodes"
+        },
+        {
+          "name": "Fpkg - FileKeeper",
+          "url": "https://link-vault.org/c/qfHBWiNt#FileKeeper"
+        }
+      ],
+      "sizeBytes": 190052302848
+    },
+    {
       "titleId": "PPSA13896",
       "title": "Shadow Gambit The Cursed Crew Complete Edition",
       "createdAt": "2026-11-24T12:05:32.078Z",
@@ -35116,32 +35208,6 @@
         }
       ],
       "sizeBytes": 25769803776
-    },
-    {
-      "titleId": "PPSA28336",
-      "title": "STALKER 2: Heart of Chornobyl",
-      "createdAt": "2026-10-16T21:48:35.923Z",
-      "version": "v01.009",
-      "category": "game",
-      "posterUrl": "https://pegasus-dl.dev/api/posters/a084b4b5c955c2280a574dd0dbd39c3dda51eb258f7413ab69886e6c06a56603",
-      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/3de967d4ebcb4d4acfe8499cadc654b91a0532127a888ce3e98153ad7c2ea9e7",
-      "description": "Tags: PPSA28336, v01.009, USA, 4.xx BackPork\nSize: 149GB\nCredits: Files: High-Speed007; Backport: BestPig",
-      "downloadSource": "https://pippo26442999.github.io/.exFAT/exFAT.json?v=1780302680008",
-      "downloadLinks": [
-        {
-          "name": "AkiraBox",
-          "url": "https://akirabox.com/0JgG7LKnlmoY/file"
-        },
-        {
-          "name": "VikingFile",
-          "url": "https://vikingfile.com/f/cUQPZl8wdM"
-        },
-        {
-          "name": "DataNodes",
-          "url": "https://datanodes.to/ervta8jz19j8"
-        }
-      ],
-      "sizeBytes": 159987531776
     },
     {
       "titleId": "PPSA25348",

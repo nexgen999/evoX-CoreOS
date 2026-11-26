@@ -382,15 +382,15 @@
     {
       "name": "Parasite Eve PS5",
       "filename": "PPSA77022.zip",
-      "url": "https://github.com/GUMMIBRI/parasite-eve-ps5/releases/download/v1.2.1/Parasite-Eve-PS5-v1.2.1-Build21.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA77022/1.2.1/PPSA77022.zip",
-      "description": "Parasite Eve 1&2 Port community: https://discord.gg/Yg88tHYXK. Discs: app/parasite-eve-data/discs/{disc1,disc2}.bin. Read readme.txt; back up app/user. Thanks khasinski/parasite-eve-pc + contributors.",
-      "version": "1.2.1",
+      "url": "https://github.com/GUMMIBRI/parasite-eve-ps5/releases/download/v1.3.0b/Parasite-Eve-PS5-v1.3.0b.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA77022/1.3.0b/PPSA77022.zip",
+      "description": "Parasite Eve 1&2 Port community: https://discord.gg/Yg88tHYXK. Requires your own North American discs in app/parasite-eve-data/discs/{disc1,disc2}.bin. Unified controller menu: L3+R3 opens, L1/R1...",
+      "version": "1.3.0b",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA77022",
       "author": "GUMMIBRI",
-      "checksum": "5d92ac1e091c66760cf293d8c83a9ad9fbc4fbfd1526330bbeab0195dec24952",
+      "checksum": "c09047b750f25f87ac09a7c9d581641883e146f2e8136245319cf36dd80872c0",
       "source": "https://github.com/GUMMIBRI/parasite-eve-ps5"
     },
     {
@@ -788,15 +788,15 @@
     {
       "name": "reUndr (NFS: Underground)",
       "filename": "PPSA99025.zip",
-      "url": "https://github.com/bystritskiy/reUndr-ps5/releases/download/01.001.000/PPSA99025-01.001.000.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99025/01.001.000/PPSA99025.zip",
+      "url": "https://github.com/bystritskiy/reUndr-ps5/releases/download/01.002.001/PPSA99025-01.002.001.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99025/01.002.001/PPSA99025.zip",
       "description": "Need for Speed: Underground, the Xbox version recompiled to run natively on PS5, in 4K at up to 60 fps. Bring your own disc.",
-      "version": "01.001.000",
+      "version": "01.002.001",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99025",
       "author": "bystritskiy",
-      "checksum": "45fba694b3b1a3eaa398aebb8a4bf91f8b9b894174c6fa3050388fa3c1d13164",
+      "checksum": "aa265fc6116d99242e5209f1454c8db684f73e403441a08e2a36d438dd81f1d3",
       "source": "https://github.com/bystritskiy/reUndr-ps5"
     },
     {
@@ -854,6 +854,20 @@
       "author": "Dragonscales",
       "checksum": "a00e454715974d07782ff77ecf5bfa8f5cc091565d793ea47fd8b08898ce44c8",
       "source": "https://github.com/dragonscales123/rebluePS5"
+    },
+    {
+      "name": "Fable II",
+      "filename": "PPSA99214.zip",
+      "url": "https://github.com/dragonscales123/Fable-2-RecompPS5/releases/download/ps5-public-build-beta2/Fable2-PS5-PPSA99214-ps5-public-build-beta2.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99214/ps5-public-build-beta2/PPSA99214.zip",
+      "description": "Experimental PS5 port for Fable 2",
+      "version": "ps5-public-build-beta2",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99214",
+      "author": "Dragonscales",
+      "checksum": "3941411ebf8f348d3492f044ac46b5bd7ab68f61d4119e8c591d5e6a99c9d25c",
+      "source": "https://github.com/dragonscales123/Fable-2-RecompPS5"
     },
     {
       "name": "BattleShip Remix",

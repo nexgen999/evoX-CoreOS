@@ -80,7 +80,7 @@
       <title>PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.</description>
-      <pubDate>2.4.9</pubDate>
+      <pubDate>2.5.0</pubDate>
     </item>
     <item>
       <title>Home5</title>
@@ -164,7 +164,7 @@
       <title>ProsperoSunshine</title>
       <link>https://github.com/Darkatek7/ProsperoSunshine</link>
       <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.</description>
-      <pubDate>0.6.7</pubDate>
+      <pubDate>0.6.8</pubDate>
     </item>
     <item>
       <title>SudokuZen</title>
@@ -319,8 +319,8 @@
     <item>
       <title>Parasite Eve PS5</title>
       <link>https://github.com/GUMMIBRI/parasite-eve-ps5</link>
-      <description>Parasite Eve 1&amp;2 Port community: https://discord.gg/Yg88tHYXK. Discs: app/parasite-eve-data/discs/{disc1,disc2}.bin. Read readme.txt; back up app/user. Thanks khasinski/parasite-eve-pc + contributors.</description>
-      <pubDate>1.2.1</pubDate>
+      <description>Parasite Eve 1&amp;2 Port community: https://discord.gg/Yg88tHYXK. Requires your own North American discs in app/parasite-eve-data/discs/{disc1,disc2}.bin. Unified controller menu: L3+R3 opens, L1/R1...</description>
+      <pubDate>1.3.0b</pubDate>
     </item>
     <item>
       <title>Parasite Eve 2 PS5</title>
@@ -362,7 +362,7 @@
       <title>TrinityXSX</title>
       <link>https://github.com/grzegorz2047/TrinityXSX</link>
       <description>Standalone Xbox Series X|S (GDK) game library and compatibility runtime for PS5 combining XCL, vkd3d-proton, DXVK, PS5 Wine, Touchpad Quick Menu HUD, Web Companion, and MihawkGen Frame Generation.</description>
-      <pubDate>v0.2.3</pubDate>
+      <pubDate>v0.2.7</pubDate>
     </item>
     <item>
       <title>FLEX</title>
@@ -662,7 +662,7 @@
       <title>reUndr (NFS: Underground)</title>
       <link>https://github.com/bystritskiy/reUndr-ps5</link>
       <description>Need for Speed: Underground, the Xbox version recompiled to run natively on PS5, in 4K at up to 60 fps. Bring your own disc.</description>
-      <pubDate>01.001.000</pubDate>
+      <pubDate>01.002.001</pubDate>
     </item>
     <item>
       <title>reUndr 2 (NFS: Underground 2)</title>
@@ -813,6 +813,12 @@
       <link>https://github.com/dragonscales123/rebluePS5</link>
       <description>Recompilation port of Blue Dragon for the PS5</description>
       <pubDate>1.3.1-ps5-r2</pubDate>
+    </item>
+    <item>
+      <title>Fable II</title>
+      <link>https://github.com/dragonscales123/Fable-2-RecompPS5</link>
+      <description>Experimental PS5 port for Fable 2</description>
+      <pubDate>ps5-public-build-beta2</pubDate>
     </item>
     <item>
       <title>PSFlyCast</title>
@@ -1022,7 +1028,7 @@
       <title>Emby5</title>
       <link>https://github.com/bornaradusin/Emby5</link>
       <description>A native Emby/Jellyfin client for PlayStation 5 with media playback, optional Seerr requests, IPTV and VOD</description>
-      <pubDate>1.3.5</pubDate>
+      <pubDate>1.3.6</pubDate>
     </item>
     <item>
       <title>Régie5</title>

@@ -3,6 +3,154 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA09518",
+      "title": "WUCHANG: Fallen Feathers",
+      "createdAt": "2026-11-26T02:39:45.783Z",
+      "version": "1.000.013",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e80d11ab46c48e0975b9a34d534c6e96aa5522702e9db346dcde1c24ca741854",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/34b78b8f16f1f0ee495f38b6dbc57fc61de617b864c2cc670e92905723a7a6ba",
+      "description": "Format: zstd\nWUCHANG: Fallen Feathers is a soulslike, action RPG set in the land of Shu during the dark and tumultuous late Ming Dynasty, plagued with warring factions and a mysterious illness spawning monstrous creatures. Become Wuchang, a skilled pirate warrior struck by amnesia, who must navigate the uncertainties of her mysterious past while afflicted by the horrific Feathering disease. Explore the depths of Shu, enhancing your arsenal and mastering new skills harvested from fallen foes. Evolve your fighting style by sacrificing elusive Red Mercury and further develop new techniques obtained throughout your action-packed journey. Augment the weapons in your repertoire with powerful enchantments, allowing for a unique approach to combat and strategy that suits your personal style. Battle against grotesque abominations, drawing on ancient lore to challenge the creeping darkness that threatens the humanity that remains. Your quest for truth will take you through forgotten temples, overgrown ruins, and shadowed paths fraught with peril. As you piece together Wuchang's lost memories, your choices will lead you to one of several endings—each determined by the choices made, secrets unearthed and the allies you choose to trust. Immerse yourself in a rich storyline, dynamic combat system, and breathtaking visuals that offer an unforgettable adventure through lands veiled in chaos and death. Will you reveal the truths of Wuchang's curse and bring peace to Shu, or will you succumb to the encroaching horrors? The fate of the land rests in your hands.\nRegion: EUR\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nUpdated: 2026-11-25T22:02:07.726Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data",
+          "url": "https://datanodes.to/p4putzf99k3o"
+        },
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/LGZfopo4fj"
+        }
+      ],
+      "sizeBytes": 17255031112
+    },
+    {
+      "titleId": "PPSA02633",
+      "title": "Street Fighter 6",
+      "createdAt": "2026-10-30T21:37:20.702Z",
+      "version": "1.000.034",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/850a4ac15935279e650e0e636bec79d38dd2e1832a11b68056ba9a8c4c055433",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/d9eb97614e18301bb2caed31f3e845c65b0760039d24118b05bf454030c7c86d",
+      "description": "Format: zstd\nHere comes Capcom’s newest challenger! Street Fighter™ 6 launches worldwide on June 2nd, 2023 and represents the next evolution of the series. Powered by Capcom’s proprietary RE ENGINE, the Street Fighter 6 experience spans across three distinct game modes featuring World Tour, Fighting Ground and Battle Hub. Diverse Roster of 18 Fighters Play legendary masters and new fan favorites like Ryu, Chun-Li, Luke, Jamie, Kimberly and more in this latest edition with each character featuring striking new redesigns and exhilarating cinematic specials. Dominate the Fighting Ground Street Fighter 6 offers a highly evolved combat system with three control types - Classic, Modern and Dynamic - allowing you to quickly play to your skill level. The new Real Time Commentary Feature adds all the hype of a competitive match as well as easy-to-understand explanations about your gameplay. The Drive Gauge is a new system to manage your resources. Use it wisely in order to claim victory. Explore the Streets in World Tour Discover the meaning of strength in World Tour, an immersive, single-player story mode. Take your avatar and explore Metro City and beyond. Meet Masters who will take you under their wing and teach you their style and techniques. Seek Rivals in the Battle Hub The Battle Hub represents a core mode of Street Fighter 6 where players can gather and communicate, and become stronger together. Use the avatar you create in World Tour to check out cabinets on the Battle Hub floor and play against other players, or head over to the Game Center to enjoy some of Capcom's classic arcade games. Your path to becoming a World Warrior starts here. * Information for EU Consumers: Important information for consumers residing in the European Union is available at:https://manual.capcom.com/information-for-eu-consumers/sf6/ Online Play Capcom provides various online services for this game, including online-only content. * Certain elements of this game cannot be accessed without an internet connection. * A Capcom ID is required to use online-only content. * For information on the services related to Capcom ID and how to use it, please visit the official Capcom ID website (https://cid.capcom.com/). Please note that there may be cases wherein use of Capcom ID is age-restricted. * Capcom may temporarily suspend online services in the event of unforeseen circumstances.\nRegion: EUR\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nUpdated: 2026-11-25T21:52:46.063Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data",
+          "url": "https://datanodes.to/swzukmdcye7b"
+        },
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/auz5E5IBJt"
+        }
+      ],
+      "sizeBytes": 121611998986
+    },
+    {
+      "titleId": "PPSA14396",
+      "title": "METAL GEAR SOLID 2: Sons of Liberty - Master Collection Version",
+      "createdAt": "2026-11-26T02:39:45.783Z",
+      "version": "2.100",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/98ad84333d9f1a4f7225a5cb0d6430128436beb245620317e9dc858788999076",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/0f3a34adcfa9b660714f2f642c1aacbce8b304db21781b0f635fd97e6db9b680",
+      "description": "Format: zstd\nThis is the fourth release in the METAL GEAR series. Metal Gear Solid 2 is a story a told in two parts: In the Tanker chapters, Solid Snake sneaks into a secret tanker in pursuit of a new top-secret nuclear weapon, called Metal Gear. In the Plant chapters, Raiden of the new FOXHOUND unit infiltrates an offshore plant occupied by terrorists. New gameplay actions such as handling weapons from a first person viewpoint, holding up enemies at gunpoint, and grabbing and dragging fallen opponents were also incorporated into this title. An exclusive digital Screenplay Book and Master Book that details the story and characters in Metal Gear Solid 2: Sons of Liberty are also included. [Title lineup] Metal Gear Solid 2: Sons of Liberty (HD Collection version) Regional versions of the titles are available as additional downloads. [Digital book] Metal Gear Solid 2: Screenplay Book Metal Gear Solid 2: Master Book The digital books can be accessed from the game's main menu screen. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product.\nRegion: USA to EUR Langs\nFirmware: 6.xx+\nAPR: ampr-emu ng 0.5 (latest: apr-emu-v0.4.2.1)\nCredits: Thank you, DUPLEX, for the dump!\nUpdated: 2026-11-25T21:45:47.534Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data",
+          "url": "https://datanodes.to/pj5cy43tgzew"
+        },
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/HvECyiAFfP"
+        }
+      ],
+      "sizeBytes": 13099650253
+    },
+    {
+      "titleId": "PPSA29101",
+      "title": "Azure Striker Gunvolt Trilogy Enhanced",
+      "createdAt": "2026-11-26T02:39:45.783Z",
+      "version": "1.003.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/4cf20d4ef21bc720b1a05dd2498753d38bd423077c56fe99b8f8b3bacab6694b",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/54d88d200bc232abea1b619d0352adef2340a41244b5fcfdb147917c95a356aa",
+      "description": "Format: zstd\nIncluded Games Azure Striker Gunvolt: Dash through stages at high speed and take down enemies with your \"Flashfield\" in this satisfying action platformer. Players control Gunvolt, a superhuman (known as an Adept) with the power of lightning who must confront the oppressive Sumeragi Group in a battle for freedom. The Trilogy Enhanced version adds new Skills to Gunvolt's arsenal. Unleash overwhelming power like never before! Azure Striker Gunvolt 2: Gunvolt's rival, Copen, becomes a new star and playable character alongside the Azure Striker. Copen uses his dash to tackle and lock onto enemies before unleashing a devastating homing laser barrage. Master his aerial \"Bullit Dash\" to gracefully fly through stages and destroy enemies from above, unlocking new weapons from the abilities of defeated bosses. Copen and Lola's voices have been re-recorded for the Trilogy Enhanced edition of the game. Azure Striker Gunvolt 3: A new style of action arrives with the new heroine \"Kirin\" who can swap with Gunvolt to overcome any situation. Kirin has the power to teleport instantly to strike down enemies with her \"Arc Chain\" ability for melee action of unprecedented speed. Or switch to Gunvolt, whose tag and electrify style has leveled up to allow him to dash through enemies while striking them down, teleport, and unleash other new \"Voltaic Arts\". The Image Pulse system brings characters from the series as buffs and attacks, with over 150 varieties to collect. Cast: Gunvolt - Kaito Ishikawa Lumen/Joule - Megu Sakuragawa Nova - Ayumu Murase Copen - Yuma Uchida Lola - Mayu Mineda Zonda - Sho Nogami / Kaori Nazuka Kirin - Yu Sasahara ZedΩ - Shun Horie Layla/Luxia - Rico Sasaki\nRegion: EUR\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.4 (latest: apr-emu-v0.4.2.1)\nUpdated: 2026-11-25T21:27:50.621Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data",
+          "url": "https://datanodes.to/643ze72vtmtv"
+        },
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/vHnJ3NMX7y"
+        },
+        {
+          "name": "zstd · Data - Backport",
+          "url": "https://datanodes.to/y0fk2fvkipgv"
+        },
+        {
+          "name": "zstd · Viki - Backport",
+          "url": "https://vikingfile.com/f/R8hMpihaLY"
+        }
+      ],
+      "sizeBytes": 6753836073
+    },
+    {
+      "titleId": "PPSA22746",
+      "title": "Card en Ciel",
+      "createdAt": "2026-11-26T02:39:45.783Z",
+      "version": "1.009.001",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/17b18aafb87f0a484cf594d3df5f8f54e40a5a85339a7f17a22742b9898b47e7",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/3a41bbc5a315894d03ec4bdc1051ccf13b2e897dd16cb8fc89f8614f3b942289",
+      "description": "Format: zstd\nA card-battling RPG adventure through the eras of gaming! Card-en-Ciel is a roguelite card-battling RPG featuring over 300 different cards and 50 unique vocal songs! Play as Neon, the \"Gaming Chair Detective\" famous for solving net-crimes, as he encounters a strange new case when he dives into an in-development game world. ■Story In the world of the \"full-dive\" VR game Rust Tactics, characters from other video games have started to appear, complete with wills of their own. When a member of the dev team, Ancie, reaches out for help, \"Gaming Chair Detective\" Neon springs into action to solve the mystery in the digital world. Venture through the games turned into dungeons, encounter heroes and heroines, make friends and save the gaming world! \"Time for a prismatic show!\" ■Delve into roguelite virtual dungeons! Card-en-Ciel features over 10 different dungeons, with each one featuring a different game world! You'll meet and collect different characters in each one while seeing the story unfold. Each dungeon is its own roguelite experience, so you'll start with a basic deck and collect cards to build combos and synergies unique to that dungeon. The rules will even change if you choose a higher difficulty, keeping every dungeon dive fresh! ■Each card is its own character! Card-en-Ciel includes over 300 different cards featuring characters from in-universe video games, each with their own personality. Every card is fully voiced, from when you first earn it to when you use their special abilities in battle. They'll even react when you're doing well or in trouble, and talk to their friends and enemies while idle! The characters on your cards come alive thanks to the \"Link Etude System\" in Card-en-Ciel. In addition to in-universe game characters, INTI CREATES game characters are also featured on cards! ■Powerful Muses offer their support with 50 unique songs! Special cards featuring \"Muse\" characters will begin singing in battle when you meet their requirements, providing powerful effects on top of your normal card abilities. ■Enjoy the full-fledged story! After clearing a dungeon, you'll gain access to 10 additional difficulty settings. These hard modes not only power up enemies, but add new rules that you might even be able to use to your advantage to take on the tougher foes. In addition to the story mode, you can battle other players in real-time PVP, or challenge a daily dungeon to rank on the online leaderboards!\nRegion: EUR\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.4 (latest: apr-emu-v0.4.2.1)\nUpdated: 2026-11-25T21:25:18.705Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data",
+          "url": "https://datanodes.to/e5qg5i8ijlq4"
+        },
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/meode3l3va"
+        },
+        {
+          "name": "zstd · Data - Backport",
+          "url": "https://datanodes.to/hg6pzcch6dhu"
+        },
+        {
+          "name": "zstd · Viki - Backport",
+          "url": "https://vikingfile.com/f/xn2QcFM5t5"
+        }
+      ],
+      "sizeBytes": 3629247365
+    },
+    {
+      "titleId": "PPSA13896",
+      "title": "Shadow Gambit: The Cursed Crew",
+      "createdAt": "2026-11-26T02:39:45.783Z",
+      "version": "1.002.004",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/3a3f6ebf8b7d5450e7f97b4680b320f555132c82aa3b0da2054f7305a9f23e9f",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/b4c3d0075af02fa0eb5d69dfba5edde1eafc9d3704446d2f572f6b58149c4bd4",
+      "description": "Format: zstd\nAhoy, cursed pirate! This is Shadow Gambit: The Cursed Crew, an all-new stealth strategy game set during an alternate history of the Golden Age of Piracy. The Curse of Lost Souls haunts the mysterious island chain known as the Lost Caribbean, which is under the control of the terrible forces of the Inquisition. They despise all that is supernatural and use soul devouring fire to hunt cursed pirates like you! Assemble Your Cursed Pirate Crew: Embark on a journey with cursed pirate Afia and seek the legendary Black Pearls to revive a cursed crew of your own. Each of your eight shipmates is a playable character with an individual personality and armed with unique supernatural powers. Launch friend or foe with Gaëlle's magical cannon, use Mr. Mercury's soul anchor to open a magic portal or dash across spacetime for split second stealth attacks with Afia's mythical sword. Outsmart Your Enemy: Pull-off an epic heist and salvage a mysterious treasure of otherworldly power to defy the army of the Inquisition. Infiltrate their fortresses. Sneak behind enemy lines. Cleverly combine the magical skills of your crew to take out a variety of enemies with carefully considered tactics. Feel like a brilliant mastermind when your plan clicks perfectly into place! Your Ship, Your Home: Join The Red Marley, a ghost ship with a living soul. On deck, plan your next adventure or just hang out with your crew mates while they enjoy their un-life. Get to know these legendary cursed pirates of the Lost Caribbean. With individual character missions find out about their backstories, learn who they are and what led them on their cursed journeys. Explore the Lost Caribbean: Go ashore a variety of exotic islands in the Lost Caribbean. From locales oozing with cursed soul magic to tropical beaches and lively pirate shanty towns: Every island is a unique hand-crafted sandbox where adventures await. Play It Your Way: Freely select your crew members before embarking on each mission. Utilize their unique abilities to find new strategies against the forces of the Inquisition. Plot your own path to enter and exit each island, be stealthy or more head-on in your play style and use the environment to your advantage. It's your playground to experiment in! Manipulate Time and Experiment: The powerful time-manipulating magic of your ghost ship is yours to wield. Pause time to consider your strategic choices or queue up multiple character actions. Capture a memory of every passing moment, to instantly return to if things go south. Change your approach and tactics to discover own unique solutions to each moment in the game – in your own time!\nRegion: EUR\nFirmware: 7.xx+\nAPR: ampr-emu ng 0.5 (latest: apr-emu-v0.4.2.1)\nUpdated: 2026-11-25T21:19:46.494Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Data",
+          "url": "https://datanodes.to/t4p3qaxxfv1s"
+        },
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/3tV9VQi1FF"
+        }
+      ],
+      "sizeBytes": 15526306775
+    },
+    {
       "titleId": "PPSA34971",
       "title": "Hollow Knight Voidheart Edition",
       "createdAt": "2026-10-30T19:35:19.659Z",
@@ -3320,23 +3468,23 @@
       "titleId": "PPSA14364",
       "title": "Metal Gear Solid Master Collection Version",
       "createdAt": "2026-11-16T12:26:42.307Z",
-      "version": "1.500",
+      "version": "3.000",
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/1bc475430ec42593940042d3fd2242dca95a65bff9a525961f4aef487f4abfbe",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/1bc475430ec42593940042d3fd2242dca95a65bff9a525961f4aef487f4abfbe",
-      "description": "Format: zstd\nReleased in 1998, this was the first 3D title in the METAL GEAR series. The game pioneers 3D stealth action against the threat of war and global nuclear weapons, using live action footage, cinematic cut scenes, interwoven with innovative gameplay. The storyline, a whirlwind of intrigue and betrayal, has been hailed as the greatest story of the 20th century and was the third title in the METAL GEAR series to become a hit in subsequent years. Also included: an exclusive digital Screenplay Book and Master Book that details the story and characters in Metal Gear Solid and Metal Gear &amp; Metal Gear 2: Solid Snake. [Title lineup] Metal Gear Metal Gear 2: Solid Snake Metal Gear Solid (Including VR Missions/Special Missions) Regional versions of the titles are available as additional downloads. [Digital book] Metal Gear Solid: Screenplay Book Metal Gear Solid: Master Book Metal Gear &amp; Metal Gear 2: Screenplay Book Metal Gear &amp; Metal Gear 2: Master Book The digital books can be accessed from the game's main menu screen. If you already own the PS4™ version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product.\nRegion: EUR\nFirmware: 7.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nUpdated: 2026-11-16T12:00:37.083Z",
+      "description": "Format: zstd\nReleased in 1998, this was the first 3D title in the METAL GEAR series. The game pioneers 3D stealth action against the threat of war and global nuclear weapons, using live action footage, cinematic cut scenes, interwoven with innovative gameplay. The storyline, a whirlwind of intrigue and betrayal, has been hailed as the greatest story of the 20th century and was the third title in the METAL GEAR series to become a hit in subsequent years. Also included: an exclusive digital Screenplay Book and Master Book that details the story and characters in Metal Gear Solid and Metal Gear &amp; Metal Gear 2: Solid Snake. [Title lineup] Metal Gear Metal Gear 2: Solid Snake Metal Gear Solid (Including VR Missions/Special Missions) Regional versions of the titles are available as additional downloads. [Digital book] Metal Gear Solid: Screenplay Book Metal Gear Solid: Master Book Metal Gear &amp; Metal Gear 2: Screenplay Book Metal Gear &amp; Metal Gear 2: Master Book The digital books can be accessed from the game's main menu screen. If you already own the PS4™ version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product.\nRegion: EUR\nFirmware: 7.xx+\nAPR: ampr-emu ng 0.5 (latest: apr-emu-v0.4.2.1)\nNotes: Remember to disable global fakelib and emu updates in shadowmount!\nCredits: Edit 1: Thank you, DUPLEX, for the dump for 3.000 with all DLCs!\nUpdated: 2026-11-16T12:00:37.083Z",
       "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
       "downloadLinks": [
         {
           "name": "zstd · Data",
-          "url": "https://datanodes.to/7t0rqv4netcj"
+          "url": "https://datanodes.to/wepbec4cl240"
         },
         {
           "name": "zstd · Viki",
-          "url": "https://vikingfile.com/f/2UxMkUkX1f"
+          "url": "https://vikingfile.com/f/qfzI3WRk4h"
         }
       ],
-      "sizeBytes": 5905580032
+      "sizeBytes": 12090332938
     },
     {
       "titleId": "PPSA07571",

@@ -67,7 +67,8 @@
       "title": "Touhou New World",
       "createdAt": "2026-11-26T01:22:08.944Z",
       "category": "game",
-      "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/11/5-fsv.jpg",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/c5f42b5cfc0cc7391597b30ec11daac7d43190926a76fd82101f92ed5056308d",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/04436a00268cc203a58cb1c0c658a381b179d6a84839ad72b9a025a18310968c",
       "description": "Region: USA\nRelease note: Works on 7.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
       "downloadSource": "https://dlpsgame.com/touhou-new-world-ps5/",
       "downloadLinks": [
@@ -80788,7 +80789,7 @@
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/a084b4b5c955c2280a574dd0dbd39c3dda51eb258f7413ab69886e6c06a56603",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/3de967d4ebcb4d4acfe8499cadc654b91a0532127a888ce3e98153ad7c2ea9e7",
-      "description": "Variant: USA 12.40\nRegion: USA\nRelease note: This is not full game (Game need patch day 1 we can’t dump patch because update need 12.40 and we dont have jb on 12.40) Working 12.xx – 11.xx – 10.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.009\nRegion: USA\nRelease note: exFAT format — FW 01.009\nContributor: pippo",
+      "description": "Region: USA\nRelease note: This is not full game (Game need patch day 1 we can’t dump patch because update need 12.40 and we dont have jb on 12.40) Working 12.xx – 11.xx – 10.xx\nContributor: @High-Speed007\nPassword: DLPSGAME.COM",
       "downloadSource": "https://dlpsgame.com/stalker-2-heart-of-chornobyl-ps5/",
       "downloadLinks": [
         {
@@ -81534,18 +81535,6 @@
         {
           "name": "USA 12.40 BackPort 4.xx - Buzzheavier",
           "url": "https://buzzheavier.com/cyuz59iva68a"
-        },
-        {
-          "name": "USA exFAT 01.009 Base - AKIA (exFAT)",
-          "url": "https://akirabox.com/0JgG7LKnlmoY/file"
-        },
-        {
-          "name": "USA exFAT 01.009 Base - VIKI (exFAT)",
-          "url": "https://vikingfile.com/f/cUQPZl8wdM"
-        },
-        {
-          "name": "USA exFAT 01.009 Base - DATA (exFAT)",
-          "url": "https://datanodes.to/ervta8jz19j8"
         }
       ]
     },
@@ -151341,6 +151330,64 @@
         {
           "name": "USA exFAT 01.004 Base - Vault (exFAT)",
           "url": "https://datavaults.co/6qmhde3tm198"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA08035",
+      "title": "[exFAT] Monster Hunter Rise + Sunbreak Deluxe",
+      "createdAt": "2026-11-26T07:45:10.750Z",
+      "version": "16.000.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/08bf8c69d7ccc8b033d0a557e02b3d2ef9c9fb64acecdf78c62a3eccce4624f0",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/08bf8c69d7ccc8b033d0a557e02b3d2ef9c9fb64acecdf78c62a3eccce4624f0",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 16.000.002 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 16.000.002 Base - DATA (exFAT)",
+          "url": "https://link-vault.org/c/cAm4cZ5K#DataNodes"
+        },
+        {
+          "name": "EUR exFAT 16.000.002 Base - FileK (exFAT)",
+          "url": "https://link-vault.org/c/cAm4cZ5K#FileKeeper"
+        },
+        {
+          "name": "EUR exFAT 16.000.002 Base - AKIA (exFAT)",
+          "url": "https://link-vault.org/c/cAm4cZ5K#AkiraBox"
+        },
+        {
+          "name": "EUR exFAT 16.000.002 Base - VIKI (exFAT)",
+          "url": "https://link-vault.org/c/cAm4cZ5K#VikingFile"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA28336",
+      "title": "[exFAT] STALKER 2 Heart of Chornobyl Ultimate Edition",
+      "createdAt": "2026-11-26T07:45:10.750Z",
+      "version": "01.022",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/a084b4b5c955c2280a574dd0dbd39c3dda51eb258f7413ab69886e6c06a56603",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/3de967d4ebcb4d4acfe8499cadc654b91a0532127a888ce3e98153ad7c2ea9e7",
+      "description": "Region: EUR\nRelease note: exFAT format — FW 01.022 — 4.xx BackPort\nContributor: pippo",
+      "downloadSource": "https://pub-d5f4def955404492b20262ad2a0dc12a.r2.dev/games_ps5_cache.json",
+      "downloadLinks": [
+        {
+          "name": "EUR exFAT 01.022 Base - DATA (exFAT)",
+          "url": "https://link-vault.org/c/MRtbF9Mc#DataNodes"
+        },
+        {
+          "name": "EUR exFAT 01.022 Base - FileK (exFAT)",
+          "url": "https://link-vault.org/c/MRtbF9Mc#FileKeeper"
+        },
+        {
+          "name": "EUR exFAT 01.022 Base - AKIA (exFAT)",
+          "url": "https://link-vault.org/c/MRtbF9Mc#AkiraBox"
+        },
+        {
+          "name": "EUR exFAT 01.022 Base - VIKI (exFAT)",
+          "url": "https://link-vault.org/c/MRtbF9Mc#VikingFile"
         }
       ]
     },

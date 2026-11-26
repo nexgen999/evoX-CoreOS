@@ -1,5 +1,19 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 26/11/2026 à 16:47
+* **PAYLOADS**
+  * `Web-File-Mgr-V1.15` (v1.15) - *Nouveau*
+  * `Wfm-7Zip-Helper` (v1.15) - *Mise à jour (Précédent: v1.14)*
+  * `Web-File-Mgr-V1.14` (ps5-web-file-manager) - *Mise à jour (Précédent: v1.14)*
+* **HOMEBREW_PAGE**
+  * `PC5` (2.5.0) - *Mise à jour (Précédent: 2.4.9)*
+  * `ProsperoSunshine` (0.6.8) - *Mise à jour (Précédent: 0.6.7)*
+  * `Parasite Eve PS5` (1.3.0b) - *Mise à jour (Précédent: 1.2.1)*
+  * `TrinityXSX` (v0.2.7) - *Mise à jour (Précédent: v0.2.3)*
+  * `reUndr (NFS: Underground)` (01.002.001) - *Mise à jour (Précédent: 01.001.000)*
+  * `Fable II` (ps5-public-build-beta2) - *Nouveau*
+  * `Emby5` (1.3.6) - *Mise à jour (Précédent: 1.3.5)*
+
 ## Build du 26/11/2026 à 01:51
 * **PAYLOADS**
   * `Common Fps Ps5 V1.2.6` (v1.2.6) - *Nouveau*

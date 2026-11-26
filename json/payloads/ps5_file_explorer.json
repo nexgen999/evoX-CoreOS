@@ -24,23 +24,23 @@
       "source": "https://raw.githubusercontent.com/ArkSama/PS5-Lapy-JB-Daemon/main/lapy_jb_daemon.elf"
     },
     {
-      "name": "Web-File-Mgr-V1.14",
-      "filename": "web-file-mgr-v1.14.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/web-file-mgr-v1.14.elf",
-      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/web-file-mgr-v1.14.elf",
+      "name": "Web-File-Mgr-V1.15",
+      "filename": "web-file-mgr-v1.15.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.15/web-file-mgr-v1.15.elf",
+      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.15/web-file-mgr-v1.15.elf",
       "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
-      "version": "v1.14",
+      "version": "v1.15",
       "category": "PS5 File Explorer",
-      "checksum": "8493c0bd11d77f9cce4b6c93564ffcae7185a5b530ecf856a768519c2514e231",
+      "checksum": "a3527dff53bfc783b4321ae42a8a691944f8d7ac4246c2a3c46ea31b6dc1d4ff",
       "source": "https://github.com/owendswang/ps5-web-file-manager/releases"
     },
     {
       "name": "Wfm-7Zip-Helper",
       "filename": "wfm-7zip-helper.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/wfm-7zip-helper.elf",
-      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.14/wfm-7zip-helper.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_file_explorer/ps5-web-file-manager/v1.15/wfm-7zip-helper.elf",
+      "local_path": "payloads/ps5_file_explorer/ps5-web-file-manager/v1.15/wfm-7zip-helper.elf",
       "description": "PS5 Web File Manager http://your-ps5-ip:8888.",
-      "version": "v1.14",
+      "version": "v1.15",
       "category": "PS5 File Explorer",
       "checksum": "6acc2972d358dfc92b5ac66cf8cb9ca8613c096bde56ce790077a6831fb17825",
       "source": "https://github.com/owendswang/ps5-web-file-manager/releases"
