@@ -1,5 +1,24 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 26/11/2026 à 01:51
+* **PAYLOADS**
+  * `Common Fps Ps5 V1.2.6` (v1.2.6) - *Nouveau*
+* **HOMEBREW_PAGE**
+  * `Cyberworld Endless` (0.24.1) - *Mise à jour (Précédent: 0.24.0)*
+  * `EliVier Explorer` (00.003.000) - *Mise à jour (Précédent: 00.002.001)*
+  * `PC5` (2.4.9) - *Mise à jour (Précédent: 2.4.7)*
+  * `Lantern Miner` (0.9.1-beta) - *Nouveau*
+  * `PayLoader` (00.001.004) - *Mise à jour (Précédent: 00.001.003)*
+  * `TrinityXSX` (v0.2.3) - *Nouveau*
+  * `Def Jam: Fight for NY REMASTERED` (1.0) - *Nouveau*
+  * `Grand Theft Auto IV` (1.5) - *Nouveau*
+  * `PokeMMO Prospero` (v1.0.7) - *Mise à jour (Précédent: 1.0.6)*
+  * `YmirPS5` (0.7.4) - *Mise à jour (Précédent: 0.7.3)*
+  * `Media Player Classic PS5` (1.7.1) - *Mise à jour (Précédent: 1.7.0)*
+  * `OGBox` (1.0.4) - *Mise à jour (Précédent: 1.0.3)*
+  * `Emby5` (1.3.5) - *Mise à jour (Précédent: 1.3.4)*
+  * `ProsperoCraft` (01.000.308) - *Mise à jour (Précédent: 01.000.302)*
+
 ## Build du 25/11/2026 à 17:09
 * **HOMEBREW_PAGE**
   * `Playden` (0.12.0-beta.5) - *Mise à jour (Précédent: 0.12.0-beta.4)*

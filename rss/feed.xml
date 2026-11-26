@@ -89,10 +89,10 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Payloads] Common Fps Ps5 V1.2.5</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.5/Common_FPS_PS5_v1.2.5.elf</link>
+      <title>[Payloads] Common Fps Ps5 V1.2.6</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Overlay/Common-FPS-for-PS5/v1.2.6/Common_FPS_PS5_v1.2.6.elf</link>
       <description>A lightweight, open-source real-time FPS counter for PlayStation 5.</description>
-      <pubDate>v1.2.5</pubDate>
+      <pubDate>v1.2.6</pubDate>
     </item>
     <item>
       <title>[Payloads] Overlay Payload</title>
@@ -1142,7 +1142,7 @@
       <title>[ProsperoStore] Cyberworld Endless</title>
       <link>https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless</link>
       <description>A Battle Network roguelike: a new net every run, with viruses, Navis and chips from BN4, BN5 and BN6, and the Net Square online. It plays the original games from your own ROMs.</description>
-      <pubDate>0.24.0</pubDate>
+      <pubDate>0.24.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Playden</title>
@@ -1166,7 +1166,7 @@
       <title>[ProsperoStore] EliVier Explorer</title>
       <link>https://github.com/Marice/ps5-elivier-explorer</link>
       <description>A dual-pane file explorer for the controller: copy, move and delete with a safety net, and viewers for text, pictures (also DDS), hex and MP3 with playlists.</description>
-      <pubDate>00.002.001</pubDate>
+      <pubDate>00.003.000</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Navi5</title>
@@ -1208,7 +1208,7 @@
       <title>[ProsperoStore] PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.</description>
-      <pubDate>2.4.7</pubDate>
+      <pubDate>2.4.9</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Home5</title>
@@ -1319,6 +1319,12 @@
       <pubDate>0.3.0-beta</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] Lantern Miner</title>
+      <link>https://github.com/RedHotBallBag/lantern-miner-ps5</link>
+      <description>Lantern Miner: a cosy Manic Miner-style cavern platformer for jailbroken PS5 (beta)</description>
+      <pubDate>0.9.1-beta</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] ccleste</title>
       <link>https://github.com/darkxex/PS5_Celeste</link>
       <description>This is a C source port of the original celeste (Celeste classic) for the PICO-8, designed to be portable. Now you can enjoy the port on your PS5.</description>
@@ -1346,7 +1352,7 @@
       <title>[ProsperoStore] PayLoader</title>
       <link>https://github.com/Marice/ps5-payloader</link>
       <description>A controller front-end for Payload Manager (pldmgr), which it brings: start, install and update payloads, edit your boot chain with a USB safety net, and install the Signal suite.</description>
-      <pubDate>00.001.003</pubDate>
+      <pubDate>00.001.004</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Ruffle Flash</title>
@@ -1481,6 +1487,12 @@
       <pubDate>v1.0.6</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] TrinityXSX</title>
+      <link>https://github.com/grzegorz2047/TrinityXSX</link>
+      <description>Standalone Xbox Series X|S (GDK) game library and compatibility runtime for PS5 combining XCL, vkd3d-proton, DXVK, PS5 Wine, Touchpad Quick Menu HUD, Web Companion, and MihawkGen Frame Generation.</description>
+      <pubDate>v0.2.3</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] FLEX</title>
       <link>https://github.com/MrRobotto512/FLEX</link>
       <description>Player for the movies and TV shows on your own Windows PC running the FLEX media server (required): poster grid, themed home rows, search, resume, and updates from the PC.</description>
@@ -1553,6 +1565,12 @@
       <pubDate>01.000.003</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] Def Jam: Fight for NY REMASTERED</title>
+      <link>https://github.com/elripalda/defjam-ps5</link>
+      <description>Def Jam: Fight for NY REMASTERED for PS5, built on Vlad Yanhursky's DefJamFFNY-recomp</description>
+      <pubDate>1.0</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] Conker's Bad Fur Day Recompiled</title>
       <link>https://github.com/DevOldSchool/conkers-bfd-recomp-ps</link>
       <description>Native recompilation of Conker’s Bad Fur Day for PS5, with widescreen, online multiplayer, and more. Requires your own ROM.</description>
@@ -1589,6 +1607,12 @@
       <pubDate>01.000.000-rc.4</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] Grand Theft Auto IV</title>
+      <link>https://github.com/elripalda/gta4-ps5</link>
+      <description>GTA IV, The Lost and Damned and The Ballad of Gay Tony running natively on a jailbroken PS5. Built on Liberty Recompiled by OZORDI.</description>
+      <pubDate>1.5</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] Chiral-FTP</title>
       <link>https://github.com/Herbrax/Chiral-FTP</link>
       <description>File manager, FTP server, FTP/SFTP client and browser web app for the PS5, with Quick connect to chiral-ftp on your Switch, Mac, Windows or Linux.</description>
@@ -1622,7 +1646,7 @@
       <title>[ProsperoStore] PokeMMO Prospero</title>
       <link>https://github.com/Shabbypenguin/PokeMMO-Prospero</link>
       <description>Runs the official, unmodified PokeMMO Linux client natively on a jailbroken PS5.</description>
-      <pubDate>1.0.6</pubDate>
+      <pubDate>v1.0.7</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] TubeBlock</title>
@@ -1688,7 +1712,7 @@
       <title>[ProsperoStore] YmirPS5</title>
       <link>https://github.com/Wamphyre/YmirPS5</link>
       <description>Play Sega Saturn games on PS5 with original CD support via an external USB optical drive, Vulkan rendering, FSR 1 upscaling, FSR 3 frame generation, built-in cheats, RAM expansion, and save states.</description>
-      <pubDate>0.7.3</pubDate>
+      <pubDate>0.7.4</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Breath of the Wild VR</title>
@@ -1742,7 +1766,7 @@
       <title>[ProsperoStore] Media Player Classic PS5</title>
       <link>https://github.com/MisterTemaki/MediaPlayerClassicPS5</link>
       <description>Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.</description>
-      <pubDate>1.7.0</pubDate>
+      <pubDate>1.7.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] ProsperoEden (Mirror)</title>
@@ -1940,7 +1964,7 @@
       <title>[ProsperoStore] OGBox</title>
       <link>https://github.com/Press5elect/OGBox</link>
       <description>XBOX emulator for PS5</description>
-      <pubDate>1.0.3</pubDate>
+      <pubDate>1.0.4</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PS5 Browser</title>
@@ -2126,7 +2150,7 @@
       <title>[ProsperoStore] Emby5</title>
       <link>https://github.com/bornaradusin/Emby5</link>
       <description>A native Emby/Jellyfin client for PlayStation 5 with media playback, optional Seerr requests, IPTV and VOD</description>
-      <pubDate>1.3.4</pubDate>
+      <pubDate>1.3.5</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Régie5</title>
@@ -2366,7 +2390,7 @@
       <title>[ProsperoStore] ProsperoCraft</title>
       <link>https://github.com/mateo-cogeanu/ProsperoCraft</link>
       <description>Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.</description>
-      <pubDate>01.000.302</pubDate>
+      <pubDate>01.000.308</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Genesis Plus GX PS5</title>

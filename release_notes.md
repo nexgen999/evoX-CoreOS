@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.25-1709)
+### 🚀 Synthèse de la mise à jour (v2026.11.26-0151)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -14,6 +14,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
 - `PS5_ultimate_pack_part12_latest.zip`
 - `PS5_ultimate_pack_part13_latest.zip`
 - `PS5_ultimate_pack_part14_latest.zip`
+- `PS5_ultimate_pack_part15_latest.zip`
 - `PS5_ultimate_pack_part1_latest.zip`
 - `PS5_ultimate_pack_part2_latest.zip`
 - `PS5_ultimate_pack_part3_latest.zip`
@@ -59,7 +60,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `kstuff-1.13-fpkg-dr-test5.elf`
   * `a53_ppr_install_1140_20.09.elf`
   * `a53_ppr_install_1160_20.09.elf`
-  * `Common_FPS_PS5_v1.2.5.elf`
+  * `Common_FPS_PS5_v1.2.6.elf`
   * `overlay_payload.elf`
   * `ps5-overlay-kus_v1.0.19.elf`
   * `BFpilot_v0.5.0.elf`
@@ -292,6 +293,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA50011.zip`
   * `PPSA51855.zip`
   * `PPSA52005.zip`
+  * `PPSA58001.zip`
   * `PPSA59322.zip`
   * `PPSA64064.zip`
   * `PPSA64065.zip`
@@ -319,6 +321,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA77305.zip`
   * `PPSA77711.zip`
   * `PPSA83600.zip`
+  * `PPSA83601.zip`
   * `PPSA84840.zip`
   * `PPSA85300.zip`
   * `PPSA90210.zip`
@@ -337,6 +340,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA93303.zip`
   * `PPSA94002.zip`
   * `PPSA94003.zip`
+  * `PPSA94004.zip`
   * `PPSA96024.zip`
   * `PPSA97358.zip`
   * `PPSA97510.zip`

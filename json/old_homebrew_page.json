@@ -18,15 +18,15 @@
         {
             "name": "Cyberworld Endless",
             "filename": "CWEN00001.zip",
-            "url": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless/releases/download/v0.24.0/cyberworld-endless-ps5.zip",
-            "local_path": "downloads/apps/homebrew_page/game/CWEN00001/0.24.0/CWEN00001.zip",
+            "url": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless/releases/download/v0.24.1/cyberworld-endless-ps5.zip",
+            "local_path": "downloads/apps/homebrew_page/game/CWEN00001/0.24.1/CWEN00001.zip",
             "description": "A Battle Network roguelike: a new net every run, with viruses, Navis and chips from BN4, BN5 and BN6, and the Net Square online. It plays the original games from your own ROMs.",
-            "version": "0.24.0",
+            "version": "0.24.1",
             "category": "Games",
             "kind": "game",
             "titleid": "CWEN00001",
             "author": "Saschb2b",
-            "checksum": "1e6e892495dfb634f2d75a635a1253314983cf925464dd650a3e182485da2a11",
+            "checksum": "bfab4c6ddecf8acca5e8a4cb3a8474301f19d7ba2c325dd2f7ff1a54e6ee8f46",
             "source": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless"
         },
         {
@@ -74,15 +74,15 @@
         {
             "name": "EliVier Explorer",
             "filename": "LAPY69432.zip",
-            "url": "https://github.com/Marice/ps5-elivier-explorer/releases/download/v00.002.001/LAPY69432.zip",
-            "local_path": "downloads/apps/homebrew_page/app/LAPY69432/00.002.001/LAPY69432.zip",
+            "url": "https://github.com/Marice/ps5-elivier-explorer/releases/download/v00.003.000/LAPY69432.zip",
+            "local_path": "downloads/apps/homebrew_page/app/LAPY69432/00.003.000/LAPY69432.zip",
             "description": "A dual-pane file explorer for the controller: copy, move and delete with a safety net, and viewers for text, pictures (also DDS), hex and MP3 with playlists.",
-            "version": "00.002.001",
+            "version": "00.003.000",
             "category": "Apps",
             "kind": "app",
             "titleid": "LAPY69432",
             "author": "Marice",
-            "checksum": "730295b4bf6b4614f0bd37bd44f9db91e6231d1fd548d6ac2a8d93a87fb49df9",
+            "checksum": "f415991bafc710788b93b1a4bc19becfe9afaa4150a60b932667fb3b57818b47",
             "source": "https://github.com/Marice/ps5-elivier-explorer"
         },
         {
@@ -172,15 +172,15 @@
         {
             "name": "PC5",
             "filename": "PPSA11018.zip",
-            "url": "https://github.com/bornaradusin/PC5/releases/download/v2.4.7/PPSA11018.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.4.7/PPSA11018.zip",
+            "url": "https://github.com/bornaradusin/PC5/releases/download/v2.4.9/PPSA11018.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.4.9/PPSA11018.zip",
             "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.",
-            "version": "2.4.7",
+            "version": "2.4.9",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA11018",
             "author": "bornaradusin",
-            "checksum": "fda2b173f994be5063495b46534ee07f30a289611ac343a4169e02ca6b85237c",
+            "checksum": "b11b51a2dc1c7bb1801a158a727d4729894b7983d334b04481759faffbace105",
             "source": "https://github.com/bornaradusin/PC5"
         },
         {
@@ -436,6 +436,20 @@
             "source": "https://github.com/Richie133/Kamtape-PS5"
         },
         {
+            "name": "Lantern Miner",
+            "filename": "PPSA58001.zip",
+            "url": "https://github.com/RedHotBallBag/lantern-miner-ps5/releases/download/v0.9.1-beta/LanternMiner-v0.9.1-beta.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA58001/0.9.1-beta/PPSA58001.zip",
+            "description": "Lantern Miner: a cosy Manic Miner-style cavern platformer for jailbroken PS5 (beta)",
+            "version": "0.9.1-beta",
+            "category": "Games",
+            "kind": "game",
+            "titleid": "PPSA58001",
+            "author": "Superfurry",
+            "checksum": "482c46be49fa5f98e8c31e85de9ef538e0b86a692e415aae220769d490741648",
+            "source": "https://github.com/RedHotBallBag/lantern-miner-ps5"
+        },
+        {
             "name": "ccleste",
             "filename": "PPSA59322.zip",
             "url": "https://github.com/darkxex/PS5_Celeste/releases/download/1.00/PPSA59322.zip",
@@ -494,15 +508,15 @@
         {
             "name": "PayLoader",
             "filename": "PPSA67670.zip",
-            "url": "https://github.com/Marice/ps5-payloader/releases/download/v00.001.003/PPSA67670.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA67670/00.001.003/PPSA67670.zip",
+            "url": "https://github.com/Marice/ps5-payloader/releases/download/v00.001.004/PPSA67670.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA67670/00.001.004/PPSA67670.zip",
             "description": "A controller front-end for Payload Manager (pldmgr), which it brings: start, install and update payloads, edit your boot chain with a USB safety net, and install the Signal suite.",
-            "version": "00.001.003",
+            "version": "00.001.004",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA67670",
             "author": "Marice",
-            "checksum": "5647525a1fab0397678599d1c4abbed466d03fc6c9b46f159719db93c1652357",
+            "checksum": "eaf901598b0a2334f27b0d556dc789b881f2927ed4798d8dbeb9daa1be317126",
             "source": "https://github.com/Marice/ps5-payloader"
         },
         {
@@ -814,6 +828,20 @@
             "source": "https://github.com/grzegorz2047/TrinityX360"
         },
         {
+            "name": "TrinityXSX",
+            "filename": "PPSA83601.zip",
+            "url": "https://github.com/grzegorz2047/TrinityXSX/releases/download/v0.2.3/PPSA83601.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA83601/v0.2.3/PPSA83601.zip",
+            "description": "Standalone Xbox Series X|S (GDK) game library and compatibility runtime for PS5 combining XCL, vkd3d-proton, DXVK, PS5 Wine, Touchpad Quick Menu HUD, Web Companion, and MihawkGen Frame Generation.",
+            "version": "v0.2.3",
+            "category": "Apps",
+            "kind": "app",
+            "titleid": "PPSA83601",
+            "author": "grzegorz2047",
+            "checksum": "2ba1f90b696ff065cb869402c402b3d1137a1aada1c174597e03119a5169f7e3",
+            "source": "https://github.com/grzegorz2047/TrinityXSX"
+        },
+        {
             "name": "FLEX",
             "filename": "PPSA84840.zip",
             "url": "https://github.com/MrRobotto512/FLEX/releases/download/v0.8.4/PPSA84840.zip",
@@ -982,6 +1010,20 @@
             "source": "https://github.com/plutobox/ps5-Towelket"
         },
         {
+            "name": "Def Jam: Fight for NY REMASTERED",
+            "filename": "PPSA92046.zip",
+            "url": "https://github.com/elripalda/defjam-ps5/releases/download/1.0/PPSA92046.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA92046/1.0/PPSA92046.zip",
+            "description": "Def Jam: Fight for NY REMASTERED for PS5, built on Vlad Yanhursky's DefJamFFNY-recomp",
+            "version": "1.0",
+            "category": "Games",
+            "kind": "game",
+            "titleid": "PPSA92046",
+            "author": "Ruben Ripalda",
+            "checksum": "909866bcd69b7bb2f4aa2ea6738f90a6d4f0b6cfaeabd75747f50479695f1674",
+            "source": "https://github.com/elripalda/defjam-ps5"
+        },
+        {
             "name": "Conker's Bad Fur Day Recompiled",
             "filename": "PPSA92064.zip",
             "url": "https://github.com/DevOldSchool/conkers-bfd-recomp-ps/releases/download/00.001.002/PPSA92064.zip",
@@ -1066,6 +1108,20 @@
             "source": "https://github.com/ChaDea1/Bedlam2-PS5"
         },
         {
+            "name": "Grand Theft Auto IV",
+            "filename": "PPSA94004.zip",
+            "url": "https://github.com/elripalda/gta4-ps5/releases/download/v1.5/PPSA94004.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA94004/1.5/PPSA94004.zip",
+            "description": "GTA IV, The Lost and Damned and The Ballad of Gay Tony running natively on a jailbroken PS5. Built on Liberty Recompiled by OZORDI.",
+            "version": "1.5",
+            "category": "Games",
+            "kind": "game",
+            "titleid": "PPSA94004",
+            "author": "Ruben Ripalda",
+            "checksum": "b716a8328cc7358abf23452d94e447296edd2cf132d1703aeb5586e109c066aa",
+            "source": "https://github.com/elripalda/gta4-ps5"
+        },
+        {
             "name": "Chiral-FTP",
             "filename": "PPSA96024.zip",
             "url": "https://github.com/Herbrax/Chiral-FTP/releases/download/v1.2/chiral-ftp-ps5-1.2.zip",
@@ -1138,15 +1194,15 @@
         {
             "name": "PokeMMO Prospero",
             "filename": "PPSA98001.zip",
-            "url": "https://github.com/Shabbypenguin/PokeMMO-Prospero/releases/download/v1.0.6/PPSA98001.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA98001/1.0.6/PPSA98001.zip",
+            "url": "https://github.com/Shabbypenguin/PokeMMO-Prospero/releases/download/v1.0.7/PPSA98001.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA98001/v1.0.7/PPSA98001.zip",
             "description": "Runs the official, unmodified PokeMMO Linux client natively on a jailbroken PS5.",
-            "version": "1.0.6",
+            "version": "v1.0.7",
             "category": "Games",
             "kind": "game",
             "titleid": "PPSA98001",
             "author": "Shabbypenguin",
-            "checksum": "cb03b8eb94bbda1170862f2c6c33e88d0835113e0817bf038883ddbb4f3e4109",
+            "checksum": "86f7391e54cf2d7f67f1d7c3f7de55af20a419d75eba5bf9bd398dffc4c79782",
             "source": "https://github.com/Shabbypenguin/PokeMMO-Prospero"
         },
         {
@@ -1292,15 +1348,15 @@
         {
             "name": "YmirPS5",
             "filename": "PPSA98567.zip",
-            "url": "https://github.com/Wamphyre/YmirPS5/releases/download/v0.7.3/YmirPS5-0.7.3-PPSA98567.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA98567/0.7.3/PPSA98567.zip",
+            "url": "https://github.com/Wamphyre/YmirPS5/releases/download/v0.7.4/YmirPS5-0.7.4-PPSA98567.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA98567/0.7.4/PPSA98567.zip",
             "description": "Play Sega Saturn games on PS5 with original CD support via an external USB optical drive, Vulkan rendering, FSR 1 upscaling, FSR 3 frame generation, built-in cheats, RAM expansion, and save states.",
-            "version": "0.7.3",
+            "version": "0.7.4",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA98567",
             "author": "Wamphyre",
-            "checksum": "e41f80d99cb780445e3c1baea9885958b7e612a7f16842c50096e123c191f8fd",
+            "checksum": "f6e23d5840966281661c14aab87224ce95970d9bfbd9a999ab0ac7f13fc5353f",
             "source": "https://github.com/Wamphyre/YmirPS5"
         },
         {
@@ -1418,15 +1474,15 @@
         {
             "name": "Media Player Classic PS5",
             "filename": "PPSA99015.zip",
-            "url": "https://github.com/MisterTemaki/MediaPlayerClassicPS5/releases/download/v1.7.0/MediaPlayerClassicPS5-v1.7.0-PPSA99015.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99015/1.7.0/PPSA99015.zip",
+            "url": "https://github.com/MisterTemaki/MediaPlayerClassicPS5/releases/download/v1.7.1/MediaPlayerClassicPS5-v1.7.1-PPSA99015.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99015/1.7.1/PPSA99015.zip",
             "description": "Media Player Classic Home Cinema's window and controls as a native PS5 app, playing local, USB, SMB and network media with FFmpeg.",
-            "version": "1.7.0",
+            "version": "1.7.1",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99015",
             "author": "MisterTemaki",
-            "checksum": "6b527b9f81f52c5470c9c677a0885a9941aece3ec61a137906f1698ad9839f07",
+            "checksum": "524f8eb7492aa1916384bbfe87f63e140e621ac7a6889080342f0e4733cb6f60",
             "source": "https://github.com/MisterTemaki/MediaPlayerClassicPS5"
         },
         {
@@ -1880,15 +1936,15 @@
         {
             "name": "OGBox",
             "filename": "PPSA99251.zip",
-            "url": "https://github.com/Press5elect/OGBox/releases/download/v1.0.3/OGBox-v1.0.3.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99251/1.0.3/PPSA99251.zip",
+            "url": "https://github.com/Press5elect/OGBox/releases/download/v1.0.4/OGBox-v1.0.4.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99251/1.0.4/PPSA99251.zip",
             "description": "XBOX emulator for PS5",
-            "version": "1.0.3",
+            "version": "1.0.4",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99251",
             "author": "Press5elect",
-            "checksum": "dee43a1244bc28c80e8836ff1558b3a7b03c2a2039e1e7884d61774d15526380",
+            "checksum": "3199cae671e98fd8554c07384845bb20d97bb7cc822852f1c0a5c16e6cb2ff40",
             "source": "https://github.com/Press5elect/OGBox"
         },
         {
@@ -2314,15 +2370,15 @@
         {
             "name": "Emby5",
             "filename": "PPSA99515.zip",
-            "url": "https://github.com/bornaradusin/Emby5/releases/download/1.3.4/Emby5-1.3.4.zip",
-            "local_path": "downloads/apps/homebrew_page/app/PPSA99515/1.3.4/PPSA99515.zip",
+            "url": "https://github.com/bornaradusin/Emby5/releases/download/1.3.5/Emby5-1.3.5.zip",
+            "local_path": "downloads/apps/homebrew_page/app/PPSA99515/1.3.5/PPSA99515.zip",
             "description": "A native Emby/Jellyfin client for PlayStation 5 with media playback, optional Seerr requests, IPTV and VOD",
-            "version": "1.3.4",
+            "version": "1.3.5",
             "category": "Apps",
             "kind": "app",
             "titleid": "PPSA99515",
             "author": "bornaradusin",
-            "checksum": "8d44c950ef38a7564ae0647f41e2aeb315edcf684d66e4f4fec76e34b25baa6c",
+            "checksum": "739e23f0ca7b201ce61b4252a81c1b23405a8355b6c0b0a063feea10b3be67e6",
             "source": "https://github.com/bornaradusin/Emby5"
         },
         {
@@ -2874,15 +2930,15 @@
         {
             "name": "ProsperoCraft",
             "filename": "PPSA99874.zip",
-            "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.302/PPSA99874.zip",
-            "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.302/PPSA99874.zip",
+            "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.308/PPSA99874.zip",
+            "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.308/PPSA99874.zip",
             "description": "Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.",
-            "version": "01.000.302",
+            "version": "01.000.308",
             "category": "Games",
             "kind": "game",
             "titleid": "PPSA99874",
             "author": "mateo-cogeanu",
-            "checksum": "91c66f987824685e6ca867107a0e9dc9d0f145624f11951e42cd5e8536322903",
+            "checksum": "e1b48dcb60428229df05b8ad740ffbdf2820e8c439e7d865f2f5540938366c69",
             "source": "https://github.com/mateo-cogeanu/ProsperoCraft"
         },
         {

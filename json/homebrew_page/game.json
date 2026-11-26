@@ -18,15 +18,15 @@
     {
       "name": "Cyberworld Endless",
       "filename": "CWEN00001.zip",
-      "url": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless/releases/download/v0.24.0/cyberworld-endless-ps5.zip",
-      "local_path": "downloads/apps/homebrew_page/game/CWEN00001/0.24.0/CWEN00001.zip",
+      "url": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless/releases/download/v0.24.1/cyberworld-endless-ps5.zip",
+      "local_path": "downloads/apps/homebrew_page/game/CWEN00001/0.24.1/CWEN00001.zip",
       "description": "A Battle Network roguelike: a new net every run, with viruses, Navis and chips from BN4, BN5 and BN6, and the Net Square online. It plays the original games from your own ROMs.",
-      "version": "0.24.0",
+      "version": "0.24.1",
       "category": "Games",
       "kind": "game",
       "titleid": "CWEN00001",
       "author": "Saschb2b",
-      "checksum": "1e6e892495dfb634f2d75a635a1253314983cf925464dd650a3e182485da2a11",
+      "checksum": "bfab4c6ddecf8acca5e8a4cb3a8474301f19d7ba2c325dd2f7ff1a54e6ee8f46",
       "source": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless"
     },
     {
@@ -224,6 +224,20 @@
       "author": "bruce303lee",
       "checksum": "4e32913d63f9db2d116b9d18cc6534557f127c8221529a38ac9dc76aadc2093f",
       "source": "https://github.com/Bruce303lee/sudokuzen"
+    },
+    {
+      "name": "Lantern Miner",
+      "filename": "PPSA58001.zip",
+      "url": "https://github.com/RedHotBallBag/lantern-miner-ps5/releases/download/v0.9.1-beta/LanternMiner-v0.9.1-beta.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA58001/0.9.1-beta/PPSA58001.zip",
+      "description": "Lantern Miner: a cosy Manic Miner-style cavern platformer for jailbroken PS5 (beta)",
+      "version": "0.9.1-beta",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA58001",
+      "author": "Superfurry",
+      "checksum": "482c46be49fa5f98e8c31e85de9ef538e0b86a692e415aae220769d490741648",
+      "source": "https://github.com/RedHotBallBag/lantern-miner-ps5"
     },
     {
       "name": "ccleste",
@@ -548,6 +562,20 @@
       "source": "https://github.com/plutobox/ps5-Towelket"
     },
     {
+      "name": "Def Jam: Fight for NY REMASTERED",
+      "filename": "PPSA92046.zip",
+      "url": "https://github.com/elripalda/defjam-ps5/releases/download/1.0/PPSA92046.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA92046/1.0/PPSA92046.zip",
+      "description": "Def Jam: Fight for NY REMASTERED for PS5, built on Vlad Yanhursky's DefJamFFNY-recomp",
+      "version": "1.0",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA92046",
+      "author": "Ruben Ripalda",
+      "checksum": "909866bcd69b7bb2f4aa2ea6738f90a6d4f0b6cfaeabd75747f50479695f1674",
+      "source": "https://github.com/elripalda/defjam-ps5"
+    },
+    {
       "name": "Conker's Bad Fur Day Recompiled",
       "filename": "PPSA92064.zip",
       "url": "https://github.com/DevOldSchool/conkers-bfd-recomp-ps/releases/download/00.001.002/PPSA92064.zip",
@@ -604,17 +632,31 @@
       "source": "https://github.com/ChaDea1/Bedlam2-PS5"
     },
     {
+      "name": "Grand Theft Auto IV",
+      "filename": "PPSA94004.zip",
+      "url": "https://github.com/elripalda/gta4-ps5/releases/download/v1.5/PPSA94004.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA94004/1.5/PPSA94004.zip",
+      "description": "GTA IV, The Lost and Damned and The Ballad of Gay Tony running natively on a jailbroken PS5. Built on Liberty Recompiled by OZORDI.",
+      "version": "1.5",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA94004",
+      "author": "Ruben Ripalda",
+      "checksum": "b716a8328cc7358abf23452d94e447296edd2cf132d1703aeb5586e109c066aa",
+      "source": "https://github.com/elripalda/gta4-ps5"
+    },
+    {
       "name": "PokeMMO Prospero",
       "filename": "PPSA98001.zip",
-      "url": "https://github.com/Shabbypenguin/PokeMMO-Prospero/releases/download/v1.0.6/PPSA98001.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA98001/1.0.6/PPSA98001.zip",
+      "url": "https://github.com/Shabbypenguin/PokeMMO-Prospero/releases/download/v1.0.7/PPSA98001.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA98001/v1.0.7/PPSA98001.zip",
       "description": "Runs the official, unmodified PokeMMO Linux client natively on a jailbroken PS5.",
-      "version": "1.0.6",
+      "version": "v1.0.7",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA98001",
       "author": "Shabbypenguin",
-      "checksum": "cb03b8eb94bbda1170862f2c6c33e88d0835113e0817bf038883ddbb4f3e4109",
+      "checksum": "86f7391e54cf2d7f67f1d7c3f7de55af20a419d75eba5bf9bd398dffc4c79782",
       "source": "https://github.com/Shabbypenguin/PokeMMO-Prospero"
     },
     {
@@ -1362,15 +1404,15 @@
     {
       "name": "ProsperoCraft",
       "filename": "PPSA99874.zip",
-      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.302/PPSA99874.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.302/PPSA99874.zip",
+      "url": "https://github.com/mateo-cogeanu/ProsperoCraft/releases/download/01.000.308/PPSA99874.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99874/01.000.308/PPSA99874.zip",
       "description": "Minecraft Java runs natively on PS5 with a Native Java 25 Runtime. Java ownership required. GUI: mihawk-99/PS5_VKHomebrewUI; icons: MultiMC/Prism.",
-      "version": "01.000.302",
+      "version": "01.000.308",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99874",
       "author": "mateo-cogeanu",
-      "checksum": "91c66f987824685e6ca867107a0e9dc9d0f145624f11951e42cd5e8536322903",
+      "checksum": "e1b48dcb60428229df05b8ad740ffbdf2820e8c439e7d865f2f5540938366c69",
       "source": "https://github.com/mateo-cogeanu/ProsperoCraft"
     },
     {

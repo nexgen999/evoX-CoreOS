@@ -3,6 +3,32 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA34971",
+      "title": "Hollow Knight Voidheart Edition",
+      "createdAt": "2026-10-30T19:35:19.659Z",
+      "version": "01.000.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/74b6879329f66248efdb32245cf13201e40b8ca6a80520bb730541c768d5482b",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/f389ff271e54268e067e73e7d8893da988bb0b5eaa2da844d32562d80fe4f93e",
+      "description": "Format: zstd\nDescend into the world of Hollow Knight! The award winning action adventure of insects and heroes. Explore twisting caverns, ancient cities and deadly wastes. Battle tainted creatures and befriend bizarre bugs. Uncover ancient history and solve the mysteries buried at the kingdom's heart. Hollow Knight Voidheart Edition includes: - The original, award winning, action adventure. - 4 giant Content Packs, built in at launch, expanding the game with all new quests, terrifying boss fights and striking new abilities. Game Features • Classic side-scrolling action, with all the modern trimmings. • Forge your own path! The world of Hallownest is expansive and open. • Evolve with powerful new skills and abilities! • Equip Charms! Ancient relics that offer bizarre new powers and abilities. • An enormous cast of cute and creepy characters all brought to life with traditional 2D frame-by-frame animation. • An epic orchestral score, with over 40 tracks! • Over 150 enemies with 40 epic bosses!\nRegion: EUR\nFirmware: 4.xx+\nAPR: ampr-emu ng 0.3 (latest: apr-emu-v0.4.2.1)\nCredits: Thank you, hanv3X!\nUpdated: 2026-11-25T21:05:54.541Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "zstd · Akira",
+          "url": "https://akirabox.to/gXeGOeYLd3Aa/file"
+        },
+        {
+          "name": "zstd · Data",
+          "url": "https://datanodes.to/vuzuqdh3xmix"
+        },
+        {
+          "name": "zstd · Viki",
+          "url": "https://vikingfile.com/f/UcQ8pnGrOw"
+        }
+      ],
+      "sizeBytes": 1245540516
+    },
+    {
       "titleId": "PPSA13416",
       "title": "Hubris",
       "createdAt": "2026-11-24T18:37:13.893Z",

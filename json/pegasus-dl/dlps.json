@@ -3,6 +3,194 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA06139",
+      "title": "F1 Manager 2022",
+      "createdAt": "2026-11-26T01:22:08.944Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/d92231940ed2c042b054c32d196a9a103006314779653890b78ca6d6885efdc4",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/d92231940ed2c042b054c32d196a9a103006314779653890b78ca6d6885efdc4",
+      "description": "Region: EUR\nRelease note: Works on 4.xx and higher\nContributor: Curi",
+      "downloadSource": "https://dlpsgame.com/f1-manager-2022-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/9AqGQ8qd0zMn/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1E9QXY"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/pJGm4mP5ly"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA08591",
+      "title": "Disney Dreamlight Valley",
+      "createdAt": "2026-11-26T01:22:08.944Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/50086b62ed7bf1e341992a1491a537c5c5904ad93cdb075f6c42075ad73a5e8e",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/50086b62ed7bf1e341992a1491a537c5c5904ad93cdb075f6c42075ad73a5e8e",
+      "description": "Region: EUR\nRelease note: Works on 5.xx and higher\nContributor: Barquillo",
+      "downloadSource": "https://dlpsgame.com/disney-dreamlight-valley-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 5.xx Base - Akirabox part 1",
+          "url": "https://akirabox.to/Y2xm0RPZqzRO/file"
+        },
+        {
+          "name": "EUR 5.xx Base - Akirabox part 2",
+          "url": "https://akirabox.to/RMKGJ0qOL31o/file"
+        },
+        {
+          "name": "EUR 5.xx Base - Rootz part 1",
+          "url": "https://www.rootz.so/d/1ntXPs"
+        },
+        {
+          "name": "EUR 5.xx Base - Rootz part 2",
+          "url": "https://www.rootz.so/d/XBRr6"
+        },
+        {
+          "name": "EUR 5.xx Base - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/6f8AMuNWv8"
+        },
+        {
+          "name": "EUR 5.xx Base - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/Um11IEGSCb"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA16840",
+      "title": "Touhou New World",
+      "createdAt": "2026-11-26T01:22:08.944Z",
+      "category": "game",
+      "posterUrl": "https://dlpsgame.com/wp-content/uploads/2026/11/5-fsv.jpg",
+      "description": "Region: USA\nRelease note: Works on 7.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/touhou-new-world-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 7.xx Base - Akirabox",
+          "url": "https://akirabox.to/b5OzdA1j9GB8/file"
+        },
+        {
+          "name": "USA 7.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/1uaqSe"
+        },
+        {
+          "name": "USA 7.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/qFIsmptkeK"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA03329",
+      "title": "Disco Elysium The Final Cut",
+      "createdAt": "2026-11-26T01:22:08.944Z",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA03329_87865b95b0a0dabbae785ccaa8d49eb289b0bed044237beb481ae8de82d98944/icon0.webp",
+      "description": "Region: EUR\nRelease note: Works on 4.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/disco-elysium-the-final-cut-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/qLQ365E4Em19/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/vt7nk"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/Sx1DM2N5h6"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07409",
+      "title": "Orcs Must Die 3",
+      "createdAt": "2026-11-26T01:22:08.944Z",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA07409_1f5f7a41e452b17b7bdfe677341e17f29836496ba777b6ca25bb1c4a26fc44ef/icon0.webp",
+      "description": "Variant: EUR 4.xx\nRegion: EUR\nRelease note: Works on 4.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.\n\nVariant: EUR 4.xx\nRegion: EUR\nRelease note: Works on 4.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/orcs-must-die-3-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/0rpmvgn6y3Rg/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/HabEO"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/sVCesbCh3y"
+        },
+        {
+          "name": "EUR 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/jJD3V1lvLma5/file"
+        },
+        {
+          "name": "EUR 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/zuyfI"
+        },
+        {
+          "name": "EUR 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/MXVDQQbEPc"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA01953",
+      "title": "Metal Hellsinger",
+      "createdAt": "2026-11-26T01:22:08.944Z",
+      "category": "game",
+      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA01953_427ce6c66e3fe8bad685bb006920e74f6e32eb61b7257ac7a3768b4034f1213a/icon0.webp",
+      "description": "Region: USA\nRelease note: Works on 4.xx and higher\nContributor: Thanks to Zhengpai Yanba for the self-dump.",
+      "downloadSource": "https://dlpsgame.com/metal-hellsinger-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/0PdzyJnvqGeA/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/2CbDMW"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/HAz1V8vlns"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA20153",
+      "title": "Slime Rancher 2",
+      "createdAt": "2026-11-26T01:22:08.944Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/453dbe55eecef21a9362363d53dc2313bdff5d711145237926ab2767cc3e69cb",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/453dbe55eecef21a9362363d53dc2313bdff5d711145237926ab2767cc3e69cb",
+      "description": "Region: EUR\nRelease note: Works on 11.xx and higher",
+      "downloadSource": "https://dlpsgame.com/slime-rancher-2-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 11.xx Base - Akirabox",
+          "url": "https://akirabox.to/obj3jK1vBzDx/file"
+        },
+        {
+          "name": "EUR 11.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/lwScy"
+        },
+        {
+          "name": "EUR 11.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/ofV4qlpyQT"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA05173",
       "title": "Axiom Verge 2",
       "createdAt": "2026-11-23T22:17:20.841Z",
@@ -156873,7 +157061,6 @@
       "titleId": "PPSA19936",
       "title": "[exFAT] Turok 3 Shadow of Oblivion",
       "createdAt": "2026-10-16T21:48:35.923Z",
-      "version": "01.000",
       "category": "game",
       "posterUrl": "https://pegasus-dl.dev/api/posters/caa05f7327fb10449175713409ec66a2a2bfa039a04e382c13c01377bc9f4c2b",
       "originalPosterUrl": "https://pegasus-dl.dev/api/posters/f0256d969d2b8ab0a48214d7f4ac13536366a7eac85de23322e74384d043c695",
