@@ -3,6 +3,30 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA04114",
+      "title": "Shantae and The Seven Sirens",
+      "createdAt": "2026-11-26T21:21:11.335Z",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/51025d4e777ad3dc5224c489b2eef0a7557c89196ced4eddfd979972ba2b8bad",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/6bf0c0536b35fc887fec603432fa15675a1e1ed6b24fa24acd85db2367fb29ab",
+      "description": "Region: USA\nRelease note: Works on 4.xx and higher",
+      "downloadSource": "https://dlpsgame.com/shantae-and-the-seven-sirens-ps5/",
+      "downloadLinks": [
+        {
+          "name": "USA 4.xx Base - Akirabox",
+          "url": "https://akirabox.to/0JgG7Awxl3oY/file"
+        },
+        {
+          "name": "USA 4.xx Base - Rootz",
+          "url": "https://www.rootz.so/d/7tAo4"
+        },
+        {
+          "name": "USA 4.xx Base - Vikingfile",
+          "url": "https://vikingfile.com/f/lecnEhlCfp"
+        }
+      ]
+    },
+    {
       "titleId": "PPSA06139",
       "title": "F1 Manager 2022",
       "createdAt": "2026-11-26T01:22:08.944Z",
@@ -552,59 +576,6 @@
       ]
     },
     {
-      "titleId": "PPSA08035",
-      "title": "Monster Hunter Rise (DLC)",
-      "createdAt": "2026-11-23T22:17:20.841Z",
-      "version": "DLC",
-      "category": "dlc",
-      "posterUrl": "https://pegasus-dl.dev/api/posters/08bf8c69d7ccc8b033d0a557e02b3d2ef9c9fb64acecdf78c62a3eccce4624f0",
-      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/08bf8c69d7ccc8b033d0a557e02b3d2ef9c9fb64acecdf78c62a3eccce4624f0",
-      "description": "Region: EUR\nRelease note: Works on 5.xx and higher\nContributor: @Barquillo",
-      "downloadSource": "https://dlpsgame.com/monster-hunter-rise-ps5/",
-      "downloadLinks": [
-        {
-          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Akirabox part 1",
-          "url": "https://akirabox.to/obj3jKkp2zDx/file"
-        },
-        {
-          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Akirabox part 2",
-          "url": "https://akirabox.to/Pbe3PkeY2mlX/file"
-        },
-        {
-          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Akirabox part 3",
-          "url": "https://akirabox.to/0KezkK0PpzD1/file"
-        },
-        {
-          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Akirabox part 4",
-          "url": "https://akirabox.to/0JgG7AaEl3oY/file"
-        },
-        {
-          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Rootz part 1",
-          "url": "https://www.rootz.so/d/2EzQG"
-        },
-        {
-          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Rootz part 2",
-          "url": "https://www.rootz.so/d/1Ix4z2"
-        },
-        {
-          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Rootz part 3",
-          "url": "https://www.rootz.so/d/1EvEBc"
-        },
-        {
-          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Vikingfile part 1",
-          "url": "https://vikingfile.com/f/tThvJ1osUP"
-        },
-        {
-          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Vikingfile part 2",
-          "url": "https://vikingfile.com/f/Z8pFm45vbq"
-        },
-        {
-          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Vikingfile part 3",
-          "url": "https://vikingfile.com/f/aUB7DZxPXj"
-        }
-      ]
-    },
-    {
       "titleId": "PPSA31885",
       "title": "WinX Club The Magic is Back",
       "createdAt": "2026-11-23T22:17:20.841Z",
@@ -1043,6 +1014,59 @@
         {
           "name": "JPN 9.xx Base - Vikingfile",
           "url": "https://vikingfile.com/f/EGACQwrBjn"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA08035",
+      "title": "Monster Hunter Rise (DLC)",
+      "createdAt": "2026-11-23T22:17:20.841Z",
+      "version": "DLC",
+      "category": "dlc",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/08bf8c69d7ccc8b033d0a557e02b3d2ef9c9fb64acecdf78c62a3eccce4624f0",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/08bf8c69d7ccc8b033d0a557e02b3d2ef9c9fb64acecdf78c62a3eccce4624f0",
+      "description": "Region: EUR\nRelease note: Works on 5.xx and higher\nContributor: @Barquillo",
+      "downloadSource": "https://dlpsgame.com/monster-hunter-rise-ps5/",
+      "downloadLinks": [
+        {
+          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Akirabox part 1",
+          "url": "https://akirabox.to/obj3jKkp2zDx/file"
+        },
+        {
+          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Akirabox part 2",
+          "url": "https://akirabox.to/Pbe3PkeY2mlX/file"
+        },
+        {
+          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Akirabox part 3",
+          "url": "https://akirabox.to/0KezkK0PpzD1/file"
+        },
+        {
+          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Akirabox part 4",
+          "url": "https://akirabox.to/0JgG7AaEl3oY/file"
+        },
+        {
+          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Rootz part 1",
+          "url": "https://www.rootz.so/d/2EzQG"
+        },
+        {
+          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Rootz part 2",
+          "url": "https://www.rootz.so/d/1Ix4z2"
+        },
+        {
+          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Rootz part 3",
+          "url": "https://www.rootz.so/d/1EvEBc"
+        },
+        {
+          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Vikingfile part 1",
+          "url": "https://vikingfile.com/f/tThvJ1osUP"
+        },
+        {
+          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Vikingfile part 2",
+          "url": "https://vikingfile.com/f/Z8pFm45vbq"
+        },
+        {
+          "name": "EUR 5.xx Game (v16.000.002) (DLC) - Vikingfile part 3",
+          "url": "https://vikingfile.com/f/aUB7DZxPXj"
         }
       ]
     },
@@ -5861,7 +5885,7 @@
       "title": "White Day 2 The Flower That Tells Lies Complete Edition",
       "createdAt": "2026-11-03T07:07:41.495Z",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA21120_35512c1ae587227106947d70283d95d6847a16ccca3ef54f15536e6efa07a962/icon0.webp",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/9ec41f56d9628cec6b0d366de3b5dc8b50a58e9afae1c6a5cc32f60db81939e8",
       "description": "Variant: USA 8.xx\nRegion: USA\nRelease note: Works on 8.xx and higher\n\nVariant: USA exFAT 01.000.103\nRegion: USA\nRelease note: exFAT format — FW 01.000.103 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/white-day-2-the-flower-that-tells-lies-complete-edition-ps5/",
       "downloadLinks": [
@@ -6704,7 +6728,7 @@
       "title": "River City Girls",
       "createdAt": "2026-10-26T13:03:45.575Z",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA04075_c9659daf567ceea1c1ff0fa650cde32fe86c994e41b8723e9fc8d190a01b596c/icon0.webp",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/01583ba873e8dc29aaea1368b128829847974c1e4ab237cd0979fb9bfb01c906",
       "description": "Variant: USA 3.xx\nRegion: USA\nRelease note: Works on 3.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 02.000\nRegion: USA\nRelease note: exFAT format — FW 02.000 — 3.xx and beyond\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/river-city-girls-ps5/",
       "downloadLinks": [
@@ -6767,7 +6791,7 @@
       "title": "Story of Seasons Grand Bazaar",
       "createdAt": "2026-10-26T13:03:45.575Z",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA22715_03e9bb6aa98589e3292b6660d82cc48c9a7b17fc3076e853ec96270a412570df/icon0.webp",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/e729405d70cb559714afeba59f01e5fee36944ecb6a77f9297f65458d3b7e165",
       "description": "Variant: JPN 10.xx\nRegion: JPN\nRelease note: Works on 10.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: JPN exFAT 01.005\nRegion: JPN\nRelease note: exFAT format — FW 01.005 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/story-of-seasons-grand-bazaar-ps5/",
       "downloadLinks": [
@@ -6829,7 +6853,7 @@
       "title": "Ib",
       "createdAt": "2026-10-26T13:03:45.575Z",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA17837_685cf651f87a3b5aa16ad9a7b3cd4cf24dc58ab2669420d30b25cba9ec41d5f6/icon0.webp",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/78913323ce8b63df200949e3938d519f4482c1d7d74eca40f8b51b07214505c8",
       "description": "Region: USA\nRelease note: Works on 7.xx and higher\nPassword: DLPSGAME.COM",
       "downloadSource": "https://dlpsgame.com/ib-ps5/",
       "downloadLinks": [
@@ -7116,7 +7140,7 @@
       "title": "MediEvil Resurrection",
       "createdAt": "2026-10-24T07:10:26.953Z",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA07550_d5a21658978d661c105b052d08865a5c57120b8a2b2c69144ab0cd49c3496224/icon0.webp",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/6651b403a23025460041f4fdf257cb5b3d6277f08d7b378b6f70a992dfdae26f",
       "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
       "downloadSource": "https://dlpsgame.com/medievil-resurrection-ps5/",
       "downloadLinks": [
@@ -7139,7 +7163,7 @@
       "title": "Jak and Daxter The Precursor Legacy",
       "createdAt": "2026-10-24T07:10:26.953Z",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA20928_b580eea605ca37c02abb039703d222f71d140302fcb98a906a48aeef10441acb/icon0.webp",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/0e4bdca6f536b40e14f779d97f0b9662a413c4a0829693fe6006fd5b4e90f749",
       "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 9.xx and higher",
       "downloadSource": "https://dlpsgame.com/jak-and-daxter-the-precursor-legacy-ps5/",
       "downloadLinks": [
@@ -7162,7 +7186,7 @@
       "title": "GODS EATER BURST",
       "createdAt": "2026-10-24T07:10:26.953Z",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA07715_21ecc41a7decf42cf2b4c4831edca2d4385e36b8f0cf78d13cbcd3f3e7dc4553/icon0.webp",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/426ab13ff45603f0fe43e9e1e5b20109b9d2d7e240bb0c18e7b9a3ff9fe22857",
       "description": "Region: USA\nRelease note: Dump by High-Speed007 Works on 7.xx and higher",
       "downloadSource": "https://dlpsgame.com/gods-eater-burst-ps5/",
       "downloadLinks": [
@@ -12072,7 +12096,7 @@
       "title": "1348 Ex Voto",
       "createdAt": "2026-10-16T21:48:35.923Z",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA24249_16f6978ace1bb1247be8ebd750ee6f0ef9cb2c4f9b76cb0a25d9033cd5700ca2/icon0.webp",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/7e261f62ff6faa4135f22d7a1b6e7181f536dbc13a5ffb210ebe6b7f2d5329bd",
       "description": "Variant: EUR 11.xx\nRegion: EUR\nRelease note: Works on 11.xx and higher\nPassword: DLPSGAME.COM\n\nVariant: EUR exFAT 01.000.008\nRegion: EUR\nRelease note: exFAT format — FW 01.000.008 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/1348-ex-voto-ps5/",
       "downloadLinks": [
@@ -12507,7 +12531,7 @@
       "title": "MLB The Show 26",
       "createdAt": "2026-10-16T21:48:35.923Z",
       "category": "game",
-      "posterUrl": "https://cdn.prosperopatches.com/titles/PPSA30630_f1ab1bdea7b8bd74c5db439da8ff3d9bf234eff706178e10e8902b9db2b3ede1/icon0.webp",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/de6719eef851f0281a4ade529043e8c8e17251d343cf92c6034353f360ea2118",
       "description": "Variant: USA 12.xx\nRegion: USA\nRelease note: Works on 12.xx and higher\nContributor: @DUPLEX\nPassword: DLPSGAME.COM\n\nVariant: USA exFAT 01.018\nRegion: USA\nRelease note: exFAT format — FW 01.018 — 4.xx BackPort\nContributor: pippo",
       "downloadSource": "https://dlpsgame.com/mlb-the-show-26-ps5/",
       "downloadLinks": [

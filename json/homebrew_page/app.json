@@ -4,15 +4,15 @@
     {
       "name": "Playden",
       "filename": "FAKE77031.zip",
-      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.12.0-beta.5/playden-ps5-0.12.0-beta.5.zip",
-      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.12.0-beta.5/FAKE77031.zip",
+      "url": "https://github.com/leolobato/playden-ps5/releases/download/v0.12.0/playden-ps5-0.12.0.zip",
+      "local_path": "downloads/apps/homebrew_page/app/FAKE77031/0.12.0/FAKE77031.zip",
       "description": "Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.",
-      "version": "0.12.0-beta.5",
+      "version": "0.12.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "FAKE77031",
       "author": "leolobato",
-      "checksum": "99b2294050d11a6ffd706b60bc03c20602743d1488920b926ac36d2cc8434782",
+      "checksum": "05c620fe9e6ce3b6efd08631df64a1912bf74097d21f40a57f51647070477a1f",
       "source": "https://github.com/leolobato/playden-ps5"
     },
     {
@@ -102,15 +102,15 @@
     {
       "name": "PC5",
       "filename": "PPSA11018.zip",
-      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.5.2/PPSA11018.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.5.2/PPSA11018.zip",
+      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.5.5/PPSA11018.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.5.5/PPSA11018.zip",
       "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.",
-      "version": "2.5.2",
+      "version": "2.5.5",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA11018",
       "author": "bornaradusin",
-      "checksum": "539673b4d0d3d33825b43b343aa3f1ed6274b821f9b077d6302c007909308970",
+      "checksum": "4004ce27d7969a22b3cb5bf23d279db448b4c44a52d87f2aa0424fbaf9df1179",
       "source": "https://github.com/bornaradusin/PC5"
     },
     {
@@ -214,15 +214,15 @@
     {
       "name": "KamTape for PS5",
       "filename": "PPSA52005.zip",
-      "url": "https://github.com/Richie133/Kamtape-PS5/releases/download/v0.3.0-beta/PPSA52005.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA52005/0.3.0-beta/PPSA52005.zip",
+      "url": "https://github.com/Richie133/Kamtape-PS5/releases/download/v0.4.0-beta/PPSA52005.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA52005/0.4.0-beta/PPSA52005.zip",
       "description": "Kamtape is a retro YouTube clone. Now on ps5",
-      "version": "0.3.0-beta",
+      "version": "0.4.0-beta",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA52005",
       "author": "Richie133",
-      "checksum": "af2f1881e066925b13eba8bb0d9c3b0741629e414c847060ee8f3e7b41dacc24",
+      "checksum": "44cb4942a6180bd3cc195a35afc9502bd807e2836aabb4e195eadc03cf21dfec",
       "source": "https://github.com/Richie133/Kamtape-PS5"
     },
     {
@@ -382,15 +382,15 @@
     {
       "name": "TrinityXSX",
       "filename": "PPSA83601.zip",
-      "url": "https://github.com/grzegorz2047/TrinityXSX/releases/download/v0.2.10/PPSA83601.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA83601/v0.2.10/PPSA83601.zip",
-      "description": "Standalone Xbox Series X|S (GDK) game library and compatibility runtime for PS5 combining XCL, vkd3d-proton, DXVK, PS5 Wine, Touchpad Quick Menu HUD, Web Companion, and MihawkGen Frame Generation.",
-      "version": "v0.2.10",
+      "url": "https://github.com/grzegorz2047/TrinityXSX/releases/download/v0.2.12/PPSA83601.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA83601/v0.2.12/PPSA83601.zip",
+      "description": "Standalone Xbox Series X|S (GDK) & DRM-free PC/GOG game library and runtime for PS5 with on-console GOG installer, Wine Mono, Touchpad HUD & Mouse+KB toggle, LAN PC input, Web Companion & FrameGen.",
+      "version": "v0.2.12",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA83601",
       "author": "grzegorz2047",
-      "checksum": "c64df66a5a98cb70daf54e1df65d51a28856fb9c31df7d79e23d6c2a97ac936b",
+      "checksum": "2db6ee9a052ee8eade1518c0b420b2bf7ced04da2d4600926c7ba19a141637c2",
       "source": "https://github.com/grzegorz2047/TrinityXSX"
     },
     {
@@ -480,15 +480,15 @@
     {
       "name": "Prospero Disk",
       "filename": "PPSA93475.zip",
-      "url": "https://github.com/leolobato/prospero-disk/releases/download/v1.0.3/prospero-disk-1.0.3-PPSA93475.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA93475/1.0.3/PPSA93475.zip",
+      "url": "https://github.com/leolobato/prospero-disk/releases/download/v1.1.0/prospero-disk-1.1.0-PPSA93475.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA93475/1.1.0/PPSA93475.zip",
       "description": "Shows what is using your PS5's storage as an interactive sunburst and a sorted list, with game names and icons, and never changes anything.",
-      "version": "1.0.3",
+      "version": "1.1.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA93475",
       "author": "leolobato",
-      "checksum": "5fb2c89cff2b21985ccac53c727a87219fada2bcd3cbc62e5939e5e197227cc3",
+      "checksum": "720590dc04d75844108315a45c59a60958a909958452fd0c7083740cd8a03692",
       "source": "https://github.com/leolobato/prospero-disk"
     },
     {
@@ -900,15 +900,15 @@
     {
       "name": "MihawkOS",
       "filename": "PPSA99170.zip",
-      "url": "https://github.com/mihawk-99/PS5_MihawkOS/releases/download/v8.2.0-alpha-8/PS5_MihawkOS-v8.2.0-alpha-8.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99170/8.2.0-alpha-8/PPSA99170.zip",
+      "url": "https://github.com/mihawk-99/PS5_MihawkOS/releases/download/v9.0.0-alpha-9/PS5_MihawkOS-v9.0.0-alpha-9.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99170/9.0.0-alpha-9/PPSA99170.zip",
       "description": "A Windows-inspired PS5 homebrew OS bringing 32-bit and 64-bit Windows gaming to console hardware through a custom Wine/Proton compatibility stack and native Vulkan graphics.",
-      "version": "8.2.0-alpha-8",
+      "version": "9.0.0-alpha-9",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99170",
       "author": "Mihawk",
-      "checksum": "d44d9b1948c909fc512316d5a7657c6b5e14c18900ab65934b06724403c3f908",
+      "checksum": "41aa881daa73b02603268fa0ff24b0f79706a293a084f428654b8ef76199d39f",
       "source": "https://github.com/mihawk-99/PS5_MihawkOS"
     },
     {
@@ -1050,6 +1050,20 @@
       "author": "Vibe-Code-Jesus",
       "checksum": "44fc31c3d7a80ed285c804070c399f992b61d7c623067ac2eba4ef44a43e26e5",
       "source": "https://github.com/Vibe-Code-Jesus/PS5Browser-Releases"
+    },
+    {
+      "name": "PSGopher",
+      "filename": "PPSA99280.zip",
+      "url": "https://github.com/Press5elect/PSGopher/releases/download/v0.0.1/PSGopher-v0.0.1.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99280/0.0.1/PPSA99280.zip",
+      "description": "An N64 emulator for PlayStation 5, powered by Gopher64.",
+      "version": "0.0.1",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99280",
+      "author": "Press5elect",
+      "checksum": "abab3db675fe6865e92bb7b0e920fb9d8f4f03007a613d41bf1cf62bb44c114d",
+      "source": "https://github.com/Press5elect/PSGopher"
     },
     {
       "name": "Prospero Hi-Fi",

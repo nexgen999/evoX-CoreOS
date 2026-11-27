@@ -15,12 +15,12 @@
     {
       "name": "Ps5Library-Agent",
       "filename": "ps5library-agent.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.91/ps5library-agent.elf",
-      "local_path": "payloads/ps5_freeshop/PS5Library/v0.2.91/ps5library-agent.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.92/ps5library-agent.elf",
+      "local_path": "payloads/ps5_freeshop/PS5Library/v0.2.92/ps5library-agent.elf",
       "description": "You need PS5Library.pkg.",
-      "version": "v0.2.91",
+      "version": "v0.2.92",
       "category": "PS5 Freeshop",
-      "checksum": "ac78389a628401edba3c081f00156238ad5652b1b7ad241f5ccc7713179f0c82",
+      "checksum": "f2f25588354f0f04945913fa8c9dcd5095a4904f1da2207150fba787fa758176",
       "source": "https://github.com/rdiol12/PS5Library/releases"
     },
     {

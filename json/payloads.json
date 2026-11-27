@@ -588,12 +588,12 @@
     {
       "name": "Ps5Library-Agent",
       "filename": "ps5library-agent.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.91/ps5library-agent.elf",
-      "local_path": "payloads/ps5_freeshop/PS5Library/v0.2.91/ps5library-agent.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.92/ps5library-agent.elf",
+      "local_path": "payloads/ps5_freeshop/PS5Library/v0.2.92/ps5library-agent.elf",
       "description": "You need PS5Library.pkg.",
-      "version": "v0.2.91",
+      "version": "v0.2.92",
       "category": "PS5 Freeshop",
-      "checksum": "ac78389a628401edba3c081f00156238ad5652b1b7ad241f5ccc7713179f0c82",
+      "checksum": "f2f25588354f0f04945913fa8c9dcd5095a4904f1da2207150fba787fa758176",
       "source": "https://github.com/rdiol12/PS5Library/releases"
     },
     {
@@ -652,25 +652,25 @@
       "source": "https://github.com/MounirHero/PS-Play/releases"
     },
     {
-      "name": "Zftpd-Ps5-V1.7.0",
-      "filename": "zftpd-ps5-v1.7.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-v1.7.0.elf",
-      "local_path": "payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-v1.7.0.elf",
+      "name": "Zftpd-Ps5-Zhttp-V1.7.1",
+      "filename": "zftpd-ps5-zhttp-v1.7.1.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.1/zftpd-ps5-zhttp-v1.7.1.elf",
+      "local_path": "payloads/ps5_server/zftpd/v1.7.1/zftpd-ps5-zhttp-v1.7.1.elf",
       "description": "FTP server payload for PS5. Port: 21",
-      "version": "v1.7.0",
+      "version": "v1.7.1",
       "category": "PS5 Server",
-      "checksum": "533ef2ea5f56af392419b6ce6d05112da79428c2fef252a1a2bcf388be617484",
+      "checksum": "833adfc1f2274c63a0a1f60a274427ef6f1bc97d2077d13cbc8b91e62f0da6bf",
       "source": "https://github.com/seregonwar/zftpd/releases"
     },
     {
-      "name": "Zftpd-Ps5-Zhttp-V1.7.0",
-      "filename": "zftpd-ps5-zhttp-v1.7.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf",
-      "local_path": "payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf",
+      "name": "Zftpd-Ps5-V1.7.1",
+      "filename": "zftpd-ps5-v1.7.1.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.1/zftpd-ps5-v1.7.1.elf",
+      "local_path": "payloads/ps5_server/zftpd/v1.7.1/zftpd-ps5-v1.7.1.elf",
       "description": "FTP server payload for PS5. Port: 21",
-      "version": "v1.7.0",
+      "version": "v1.7.1",
       "category": "PS5 Server",
-      "checksum": "8f78ac0cde64a0744b82663d4a6bf8c1d7e937876dceddc219a21164578bd96e",
+      "checksum": "5a7cf2ff5d73418ea0109468fa7d77fc99356eaa338d58c35198affe60b96ea1",
       "source": "https://github.com/seregonwar/zftpd/releases"
     },
     {
@@ -914,14 +914,14 @@
       "source": "https://github.com/nexgen999/evoX-CoreOS/raw/refs/heads/main/internal/payloads/ps5_utility/ghost-toothAPI/ghost-toothAPI.elf"
     },
     {
-      "name": "Pad2C V2.0.0",
-      "filename": "pad2c_v2.0.0.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v2.0.0/pad2c_v2.0.0.elf",
-      "local_path": "payloads/ps5_pad_utility/pad2c/v2.0.0/pad2c_v2.0.0.elf",
+      "name": "Pad2C V2.1.0",
+      "filename": "pad2c_v2.1.0.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v2.1.0/pad2c_v2.1.0.elf",
+      "local_path": "payloads/ps5_pad_utility/pad2c/v2.1.0/pad2c_v2.1.0.elf",
       "description": "Use the 8BitDo Ultimate 2C Wireless controller on a jailbroken PS5 as a second DualSense, through its 2.4G USB dongle - no Bluetooth.",
-      "version": "v2.0.0",
+      "version": "v2.1.0",
       "category": "PS5 Pad Utility",
-      "checksum": "ab25b6e95189fccd35b1dd6bc5a4097bc64080c8bed76c769233bac58a6d73cd",
+      "checksum": "876dbb00fb118c9aef30152d60e0e2c9eda3e3746b6e880293f86ff29ac6c4b1",
       "source": "https://github.com/sub0x00001/pad2c/releases"
     },
     {
@@ -932,7 +932,7 @@
       "description": "Connect your Bluetooth controllers to your PS5 console.",
       "version": "Source-Fixe",
       "category": "PS5 Pad Utility",
-      "checksum": "418dbd76efd8bccdd6e4e01e744866537033343cbdbfad00f237b351173e0ba6",
+      "checksum": "4adccdba1b44e25fa7c8196f5a4b0948b1a8ecf0bd0b66b1676d49e45c8d19b4",
       "source": "https://github.com/nexgen999/evoX-CoreOS/blob/main/internal/payloads/ps5_pad_utility/AnyPad-PS5/v0.6.0/AnyPad-PS5_v0.6.0.elf"
     },
     {
@@ -1134,17 +1134,6 @@
       "source": "https://github.com/itsPLK/ps5-payload-manager/releases"
     },
     {
-      "name": "Elf Arsenal V1.6.23",
-      "filename": "ELF_Arsenal_v1.6.23.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf",
-      "local_path": "payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf",
-      "description": "Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées.",
-      "version": "v1.6.23",
-      "category": "PS5 HEN Loader",
-      "checksum": "20cdb0979ce627aff8e684a4506e18390a72492d5e3aa15ecef0bfe1bca08bb5",
-      "source": "https://git.etawen.dev/soniciso/elf-arsenal/releases"
-    },
-    {
       "name": "Pizza-Hen V2.00",
       "filename": "PIZZA-HEN_v2.00.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PIZZA-HEN/v2.00/PIZZA-HEN_v2.00.elf",
@@ -1189,17 +1178,6 @@
       "source": "https://github.com/notmaj0r/ProsperoMgr/releases"
     },
     {
-      "name": "Np-Fake-Signin-Ps5",
-      "filename": "np-fake-signin-ps5.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf",
-      "local_path": "payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf",
-      "description": "Fake activate PS5 without PSN.",
-      "version": "v1.4",
-      "category": "PS5 Activation",
-      "checksum": "9ec8562b3e3f6508071e280037e225371d8a6c297e74b8ae4d240e357ee38eca",
-      "source": "https://git.etawen.dev/earthonion/np-fake-signin/releases"
-    },
-    {
       "name": "Garlic-Savemgr V2.0",
       "filename": "garlic-savemgr_v2.0.elf",
       "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v2.0/garlic-savemgr_v2.0.elf",
@@ -1209,17 +1187,6 @@
       "category": "PS5 Saves",
       "checksum": "805902a1ef3d54854850518b11602e0ab973192e0338fc30b28a3a9e4aae5be6",
       "source": "https://git.etawen.dev/earthonion/garlic-savemgr/releases"
-    },
-    {
-      "name": "Garlic-Worker V1.5.6",
-      "filename": "garlic-worker_v1.5.6.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.5.6/garlic-worker_v1.5.6.elf",
-      "local_path": "payloads/ps5_saves/garlic-worker/v1.5.6/garlic-worker_v1.5.6.elf",
-      "description": "Garlic worker payload component.",
-      "version": "v1.5.6",
-      "category": "PS5 Saves",
-      "checksum": "9cee1b261cc257e08997c0da109109b24d829c362117ebb293f277087033f5c2",
-      "source": "https://git.etawen.dev/earthonion/garlic-worker/releases"
     },
     {
       "name": "Savemnt-Offset-Dumper V1.0.0",
@@ -1312,6 +1279,33 @@
       "description": "Récupéré depuis le stockage local (Interne / Fallback)",
       "version": "ps5-web-file-manager",
       "checksum": "cbcdacf69c331025e1643fc99f5b5fc117125e7c39931b6dd914323412558911"
+    },
+    {
+      "name": "Garlic-Worker V1.5.6",
+      "filename": "garlic-worker_v1.5.6.elf",
+      "url": "",
+      "local_path": "payloads/ps5_saves/garlic-worker/v1.5.6/garlic-worker_v1.5.6.elf",
+      "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+      "version": "garlic-worker",
+      "checksum": "9cee1b261cc257e08997c0da109109b24d829c362117ebb293f277087033f5c2"
+    },
+    {
+      "name": "Zftpd-Ps5-V1.7.0",
+      "filename": "zftpd-ps5-v1.7.0.elf",
+      "url": "",
+      "local_path": "payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-v1.7.0.elf",
+      "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+      "version": "zftpd",
+      "checksum": "533ef2ea5f56af392419b6ce6d05112da79428c2fef252a1a2bcf388be617484"
+    },
+    {
+      "name": "Zftpd-Ps5-Zhttp-V1.7.0",
+      "filename": "zftpd-ps5-zhttp-v1.7.0.elf",
+      "url": "",
+      "local_path": "payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf",
+      "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+      "version": "zftpd",
+      "checksum": "8f78ac0cde64a0744b82663d4a6bf8c1d7e937876dceddc219a21164578bd96e"
     },
     {
       "name": "Zftpd-Ps5-Zhttp-V1.6.0",
@@ -1422,6 +1416,15 @@
       "checksum": "5da64c23263e6868696aa0f8b1bfd0eb97581bae73124d08066b507652adfbfb"
     },
     {
+      "name": "Np-Fake-Signin-Ps5",
+      "filename": "np-fake-signin-ps5.elf",
+      "url": "",
+      "local_path": "payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf",
+      "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+      "version": "np-fake-signin",
+      "checksum": "9ec8562b3e3f6508071e280037e225371d8a6c297e74b8ae4d240e357ee38eca"
+    },
+    {
       "name": "Kura V1.6.60",
       "filename": "Kura_v1.6.60.elf",
       "url": "",
@@ -1429,6 +1432,15 @@
       "description": "Récupéré depuis le stockage local (Interne / Fallback)",
       "version": "Kura",
       "checksum": "c3bfb1db0f1fda7fe640e95711d78ae2cf9e94efa12742b5fc19c660ec43d627"
+    },
+    {
+      "name": "Elf Arsenal V1.6.23",
+      "filename": "ELF_Arsenal_v1.6.23.elf",
+      "url": "",
+      "local_path": "payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf",
+      "description": "Récupéré depuis le stockage local (Interne / Fallback)",
+      "version": "ELF_Arsenal",
+      "checksum": "20cdb0979ce627aff8e684a4506e18390a72492d5e3aa15ecef0bfe1bca08bb5"
     }
   ]
 }

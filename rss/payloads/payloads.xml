@@ -330,9 +330,9 @@
     </item>
     <item>
       <title>Ps5Library-Agent</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.91/ps5library-agent.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.92/ps5library-agent.elf</link>
       <description>You need PS5Library.pkg.</description>
-      <pubDate>v0.2.91</pubDate>
+      <pubDate>v0.2.92</pubDate>
     </item>
     <item>
       <title>Orbit Store</title>
@@ -365,16 +365,16 @@
       <pubDate>2.1</pubDate>
     </item>
     <item>
-      <title>Zftpd-Ps5-V1.7.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-v1.7.0.elf</link>
+      <title>Zftpd-Ps5-Zhttp-V1.7.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.1/zftpd-ps5-zhttp-v1.7.1.elf</link>
       <description>FTP server payload for PS5. Port: 21</description>
-      <pubDate>v1.7.0</pubDate>
+      <pubDate>v1.7.1</pubDate>
     </item>
     <item>
-      <title>Zftpd-Ps5-Zhttp-V1.7.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf</link>
+      <title>Zftpd-Ps5-V1.7.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.1/zftpd-ps5-v1.7.1.elf</link>
       <description>FTP server payload for PS5. Port: 21</description>
-      <pubDate>v1.7.0</pubDate>
+      <pubDate>v1.7.1</pubDate>
     </item>
     <item>
       <title>Elfldr V0.28</title>
@@ -509,10 +509,10 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>Pad2C V2.0.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v2.0.0/pad2c_v2.0.0.elf</link>
+      <title>Pad2C V2.1.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v2.1.0/pad2c_v2.1.0.elf</link>
       <description>Use the 8BitDo Ultimate 2C Wireless controller on a jailbroken PS5 as a second DualSense, through its 2.4G USB dongle - no Bluetooth.</description>
-      <pubDate>v2.0.0</pubDate>
+      <pubDate>v2.1.0</pubDate>
     </item>
     <item>
       <title>Anypad-Ps5 V0.6.0</title>
@@ -629,12 +629,6 @@
       <pubDate>v0.6.3</pubDate>
     </item>
     <item>
-      <title>Elf Arsenal V1.6.23</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf</link>
-      <description>Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées.</description>
-      <pubDate>v1.6.23</pubDate>
-    </item>
-    <item>
       <title>Pizza-Hen V2.00</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PIZZA-HEN/v2.00/PIZZA-HEN_v2.00.elf</link>
       <description>PIZZA HEN is an experimental all-in-one PS5 homebrew environment.</description>
@@ -659,22 +653,10 @@
       <pubDate>v1.2.1</pubDate>
     </item>
     <item>
-      <title>Np-Fake-Signin-Ps5</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf</link>
-      <description>Fake activate PS5 without PSN.</description>
-      <pubDate>v1.4</pubDate>
-    </item>
-    <item>
       <title>Garlic-Savemgr V2.0</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v2.0/garlic-savemgr_v2.0.elf</link>
       <description>Save manager utility hosted on Forgejo.</description>
       <pubDate>v2.0</pubDate>
-    </item>
-    <item>
-      <title>Garlic-Worker V1.5.6</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.5.6/garlic-worker_v1.5.6.elf</link>
-      <description>Garlic worker payload component.</description>
-      <pubDate>v1.5.6</pubDate>
     </item>
     <item>
       <title>Savemnt-Offset-Dumper V1.0.0</title>
@@ -735,6 +717,24 @@
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>ps5-web-file-manager</pubDate>
+    </item>
+    <item>
+      <title>Garlic-Worker V1.5.6</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>garlic-worker</pubDate>
+    </item>
+    <item>
+      <title>Zftpd-Ps5-V1.7.0</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>zftpd</pubDate>
+    </item>
+    <item>
+      <title>Zftpd-Ps5-Zhttp-V1.7.0</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>zftpd</pubDate>
     </item>
     <item>
       <title>Zftpd-Ps5-Zhttp-V1.6.0</title>
@@ -809,10 +809,22 @@
       <pubDate>PS5X360</pubDate>
     </item>
     <item>
+      <title>Np-Fake-Signin-Ps5</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>np-fake-signin</pubDate>
+    </item>
+    <item>
       <title>Kura V1.6.60</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>Kura</pubDate>
+    </item>
+    <item>
+      <title>Elf Arsenal V1.6.23</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ELF_Arsenal</pubDate>
     </item>
   </channel>
 </rss>

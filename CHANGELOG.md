@@ -1,5 +1,29 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 27/11/2026 à 16:34
+* **PAYLOADS**
+  * `Ps5Library-Agent` (v0.2.92) - *Mise à jour (Précédent: v0.2.91)*
+  * `Zftpd-Ps5-Zhttp-V1.7.1` (v1.7.1) - *Nouveau*
+  * `Zftpd-Ps5-V1.7.1` (v1.7.1) - *Nouveau*
+  * `Pad2C V2.1.0` (v2.1.0) - *Nouveau*
+  * `Garlic-Worker V1.5.6` (garlic-worker) - *Mise à jour (Précédent: v1.5.6)*
+  * `Zftpd-Ps5-V1.7.0` (zftpd) - *Mise à jour (Précédent: v1.7.0)*
+  * `Zftpd-Ps5-Zhttp-V1.7.0` (zftpd) - *Mise à jour (Précédent: v1.7.0)*
+  * `Np-Fake-Signin-Ps5` (np-fake-signin) - *Mise à jour (Précédent: v1.4)*
+  * `Elf Arsenal V1.6.23` (ELF_Arsenal) - *Mise à jour (Précédent: v1.6.23)*
+* **HOMEBREW_PAGE**
+  * `Playden` (0.12.0) - *Mise à jour (Précédent: 0.12.0-beta.5)*
+  * `PC5` (2.5.5) - *Mise à jour (Précédent: 2.5.2)*
+  * `KamTape for PS5` (0.4.0-beta) - *Mise à jour (Précédent: 0.3.0-beta)*
+  * `Codename Engine (PS5 port)` (0.1.3-beta) - *Nouveau*
+  * `Parasite Eve 2 PS5` (v0.3.9-ps5-beta) - *Mise à jour (Précédent: 0.1-beta)*
+  * `TrinityXSX` (v0.2.12) - *Mise à jour (Précédent: v0.2.10)*
+  * `Prospero Disk` (1.1.0) - *Mise à jour (Précédent: 1.0.3)*
+  * `MihawkOS` (9.0.0-alpha-9) - *Mise à jour (Précédent: 8.2.0-alpha-8)*
+  * `PSGopher` (0.0.1) - *Nouveau*
+  * `RingOut` (1.0.0-beta) - *Nouveau*
+  * `New Blitz 2027` (v1.0.4) - *Nouveau*
+
 ## Build du 27/11/2026 à 01:51
 * **HOMEBREW_PAGE**
   * `PlayKaraoke` (0.3.0) - *Nouveau*

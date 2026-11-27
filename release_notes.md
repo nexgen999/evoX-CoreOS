@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.27-0151)
+### 🚀 Synthèse de la mise à jour (v2026.11.27-1634)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -106,8 +106,8 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ProsperoPlayer_v1.0.elf`
   * `svtplay_v0.3.elf`
   * `PS-Play_v2.1.elf`
-  * `zftpd-ps5-v1.7.0.elf`
-  * `zftpd-ps5-zhttp-v1.7.0.elf`
+  * `zftpd-ps5-zhttp-v1.7.1.elf`
+  * `zftpd-ps5-v1.7.1.elf`
   * `elfldr_v0.28.elf`
   * `ftpsrv_ps5-payload_v0.22.elf`
   * `websrv_v0.34.elf`
@@ -130,7 +130,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `OmniPad-PS5_v1.0.4-hotfix1.elf`
   * `FGG-XSense_v1.1.elf`
   * `ghost-toothAPI.elf`
-  * `pad2c_v2.0.0.elf`
+  * `pad2c_v2.1.0.elf`
   * `AnyPad-PS5_v0.6.0.elf`
   * `ps5debug-NG_v1.3.2.elf`
   * `ps5-fw-spoof.elf`
@@ -150,14 +150,11 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `etaHEN_v2.5B.bin`
   * `PS5_Unified_Autoloader_v0.1.7-abc3b82.elf`
   * `pldmgr_v0.6.3.elf`
-  * `ELF_Arsenal_v1.6.23.elf`
   * `PIZZA-HEN_v2.00.elf`
   * `onionHEN_v0.9.0.elf`
   * `etaHEN-2.6B.bin`
   * `ProsperoMgr.elf`
-  * `np-fake-signin-ps5.elf`
   * `garlic-savemgr_v2.0.elf`
-  * `garlic-worker_v1.5.6.elf`
   * `savemnt-offset-dumper_v1.0.0.elf`
   * `web-file-mgr-v1.14.elf`
   * `web-file-mgr_v1.9.elf`
@@ -168,6 +165,9 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `web-file-mgr-v1.11b.elf`
   * `web-file-mgr-v1.13-rc2.elf`
   * `web-file-mgr-v1.11.elf`
+  * `garlic-worker_v1.5.6.elf`
+  * `zftpd-ps5-v1.7.0.elf`
+  * `zftpd-ps5-zhttp-v1.7.0.elf`
   * `zftpd-ps5-zhttp-v1.6.0.elf`
   * `zftpd-ps5-v1.6.0.elf`
   * `Nuvio-PS5_v1.8.0.elf`
@@ -180,7 +180,9 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5_overlay.elf`
   * `ps5_overlay_shellui.elf`
   * `PS5X360_v0.5.7.elf`
+  * `np-fake-signin-ps5.elf`
   * `Kura_v1.6.60.elf`
+  * `ELF_Arsenal_v1.6.23.elf`
 
 </details>
 
@@ -295,6 +297,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA50011.zip`
   * `PPSA51855.zip`
   * `PPSA52005.zip`
+  * `PPSA52210.zip`
   * `PPSA58001.zip`
   * `PPSA59322.zip`
   * `PPSA64064.zip`
@@ -408,6 +411,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99251.zip`
   * `PPSA99257.zip`
   * `PPSA99264.zip`
+  * `PPSA99280.zip`
   * `PPSA99287.zip`
   * `PPSA99288.zip`
   * `PPSA99300.zip`
@@ -475,6 +479,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99842.zip`
   * `PPSA99850.zip`
   * `PPSA99874.zip`
+  * `PPSA99875.zip`
   * `PPSA99921.zip`
   * `PPSA99922.zip`
   * `PPSA99923.zip`
@@ -483,6 +488,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99927.zip`
   * `PPSA99930.zip`
   * `PPSA99950.zip`
+  * `PPSA99961.zip`
   * `PPSA99984.zip`
   * `PPSA99991.zip`
   * `PPSA99993.zip`

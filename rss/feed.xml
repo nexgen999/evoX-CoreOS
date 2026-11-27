@@ -330,9 +330,9 @@
     </item>
     <item>
       <title>[Payloads] Ps5Library-Agent</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.91/ps5library-agent.elf</link>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_freeshop/PS5Library/v0.2.92/ps5library-agent.elf</link>
       <description>You need PS5Library.pkg.</description>
-      <pubDate>v0.2.91</pubDate>
+      <pubDate>v0.2.92</pubDate>
     </item>
     <item>
       <title>[Payloads] Orbit Store</title>
@@ -365,16 +365,16 @@
       <pubDate>2.1</pubDate>
     </item>
     <item>
-      <title>[Payloads] Zftpd-Ps5-V1.7.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-v1.7.0.elf</link>
+      <title>[Payloads] Zftpd-Ps5-Zhttp-V1.7.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.1/zftpd-ps5-zhttp-v1.7.1.elf</link>
       <description>FTP server payload for PS5. Port: 21</description>
-      <pubDate>v1.7.0</pubDate>
+      <pubDate>v1.7.1</pubDate>
     </item>
     <item>
-      <title>[Payloads] Zftpd-Ps5-Zhttp-V1.7.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.0/zftpd-ps5-zhttp-v1.7.0.elf</link>
+      <title>[Payloads] Zftpd-Ps5-V1.7.1</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/zftpd/v1.7.1/zftpd-ps5-v1.7.1.elf</link>
       <description>FTP server payload for PS5. Port: 21</description>
-      <pubDate>v1.7.0</pubDate>
+      <pubDate>v1.7.1</pubDate>
     </item>
     <item>
       <title>[Payloads] Elfldr V0.28</title>
@@ -509,10 +509,10 @@
       <pubDate>Source-Fixe</pubDate>
     </item>
     <item>
-      <title>[Payloads] Pad2C V2.0.0</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v2.0.0/pad2c_v2.0.0.elf</link>
+      <title>[Payloads] Pad2C V2.1.0</title>
+      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_pad_utility/pad2c/v2.1.0/pad2c_v2.1.0.elf</link>
       <description>Use the 8BitDo Ultimate 2C Wireless controller on a jailbroken PS5 as a second DualSense, through its 2.4G USB dongle - no Bluetooth.</description>
-      <pubDate>v2.0.0</pubDate>
+      <pubDate>v2.1.0</pubDate>
     </item>
     <item>
       <title>[Payloads] Anypad-Ps5 V0.6.0</title>
@@ -629,12 +629,6 @@
       <pubDate>v0.6.3</pubDate>
     </item>
     <item>
-      <title>[Payloads] Elf Arsenal V1.6.23</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/ELF_Arsenal/v1.6.23/ELF_Arsenal_v1.6.23.elf</link>
-      <description>Boîte à outils regroupant une collection complète de payloads utilitaires pour les consoles jailbreakées.</description>
-      <pubDate>v1.6.23</pubDate>
-    </item>
-    <item>
       <title>[Payloads] Pizza-Hen V2.00</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_hen_loader/PIZZA-HEN/v2.00/PIZZA-HEN_v2.00.elf</link>
       <description>PIZZA HEN is an experimental all-in-one PS5 homebrew environment.</description>
@@ -659,22 +653,10 @@
       <pubDate>v1.2.1</pubDate>
     </item>
     <item>
-      <title>[Payloads] Np-Fake-Signin-Ps5</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/PS5_Activation/np-fake-signin/v1.4/np-fake-signin-ps5.elf</link>
-      <description>Fake activate PS5 without PSN.</description>
-      <pubDate>v1.4</pubDate>
-    </item>
-    <item>
       <title>[Payloads] Garlic-Savemgr V2.0</title>
       <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-savemgr/v2.0/garlic-savemgr_v2.0.elf</link>
       <description>Save manager utility hosted on Forgejo.</description>
       <pubDate>v2.0</pubDate>
-    </item>
-    <item>
-      <title>[Payloads] Garlic-Worker V1.5.6</title>
-      <link>https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_saves/garlic-worker/v1.5.6/garlic-worker_v1.5.6.elf</link>
-      <description>Garlic worker payload component.</description>
-      <pubDate>v1.5.6</pubDate>
     </item>
     <item>
       <title>[Payloads] Savemnt-Offset-Dumper V1.0.0</title>
@@ -735,6 +717,24 @@
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>ps5-web-file-manager</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Garlic-Worker V1.5.6</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>garlic-worker</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Zftpd-Ps5-V1.7.0</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>zftpd</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Zftpd-Ps5-Zhttp-V1.7.0</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>zftpd</pubDate>
     </item>
     <item>
       <title>[Payloads] Zftpd-Ps5-Zhttp-V1.6.0</title>
@@ -809,10 +809,22 @@
       <pubDate>PS5X360</pubDate>
     </item>
     <item>
+      <title>[Payloads] Np-Fake-Signin-Ps5</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>np-fake-signin</pubDate>
+    </item>
+    <item>
       <title>[Payloads] Kura V1.6.60</title>
       <link/>
       <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
       <pubDate>Kura</pubDate>
+    </item>
+    <item>
+      <title>[Payloads] Elf Arsenal V1.6.23</title>
+      <link/>
+      <description>Récupéré depuis le stockage local (Interne / Fallback)</description>
+      <pubDate>ELF_Arsenal</pubDate>
     </item>
     <item>
       <title>[Packages PKG] Ps5Pkg Ps5Webit-Nexgen999 Installer V1.00</title>
@@ -1154,7 +1166,7 @@
       <title>[ProsperoStore] Playden</title>
       <link>https://github.com/leolobato/playden-ps5</link>
       <description>Plays your Steam games on the PS5: sign in to Steam, download your Windows games and run each one through Wine as its own title.</description>
-      <pubDate>0.12.0-beta.5</pubDate>
+      <pubDate>0.12.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PS5Term</title>
@@ -1220,7 +1232,7 @@
       <title>[ProsperoStore] PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.</description>
-      <pubDate>2.5.2</pubDate>
+      <pubDate>2.5.5</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Home5</title>
@@ -1328,7 +1340,13 @@
       <title>[ProsperoStore] KamTape for PS5</title>
       <link>https://github.com/Richie133/Kamtape-PS5</link>
       <description>Kamtape is a retro YouTube clone. Now on ps5</description>
-      <pubDate>0.3.0-beta</pubDate>
+      <pubDate>0.4.0-beta</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] Codename Engine (PS5 port)</title>
+      <link>https://github.com/Richie133/Friday-Night-Funkin-Codename-Ps5-port</link>
+      <description>unauthorized port of the codename engine for ps5 and maybe ps4 later on. based on haxelfixel. Very buggy</description>
+      <pubDate>0.1.3-beta</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Lantern Miner</title>
@@ -1465,8 +1483,8 @@
     <item>
       <title>[ProsperoStore] Parasite Eve 2 PS5</title>
       <link>https://github.com/GUMMIBRI/parasite-eve-ii-pc</link>
-      <description>Parasite Eve 1&amp;2 Port community: https://discord.gg/Yg88tHYXK. Early PS5 beta; own North American discs required. Saving, menus, fonts and audio remain under qualification.</description>
-      <pubDate>0.1-beta</pubDate>
+      <description>Community: https://discord.gg/Yg88tHYXK. PS5 beta based on upstream 0.3.9; owner boot confirmed. Requires own USA disc1.bin and disc2.bin in PPSA77023/parasite-eve-ii/discs. Install under...</description>
+      <pubDate>v0.3.9-ps5-beta</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] The 3rd Birthday</title>
@@ -1501,8 +1519,8 @@
     <item>
       <title>[ProsperoStore] TrinityXSX</title>
       <link>https://github.com/grzegorz2047/TrinityXSX</link>
-      <description>Standalone Xbox Series X|S (GDK) game library and compatibility runtime for PS5 combining XCL, vkd3d-proton, DXVK, PS5 Wine, Touchpad Quick Menu HUD, Web Companion, and MihawkGen Frame Generation.</description>
-      <pubDate>v0.2.10</pubDate>
+      <description>Standalone Xbox Series X|S (GDK) &amp; DRM-free PC/GOG game library and runtime for PS5 with on-console GOG installer, Wine Mono, Touchpad HUD &amp; Mouse+KB toggle, LAN PC input, Web Companion &amp; FrameGen.</description>
+      <pubDate>v0.2.12</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] FLEX</title>
@@ -1610,7 +1628,7 @@
       <title>[ProsperoStore] Prospero Disk</title>
       <link>https://github.com/leolobato/prospero-disk</link>
       <description>Shows what is using your PS5's storage as an interactive sunburst and a sorted list, with game names and icons, and never changes anything.</description>
-      <pubDate>1.0.3</pubDate>
+      <pubDate>1.1.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Raptor: Call of the Shadows (PS5)</title>
@@ -1922,7 +1940,7 @@
       <title>[ProsperoStore] MihawkOS</title>
       <link>https://github.com/mihawk-99/PS5_MihawkOS</link>
       <description>A Windows-inspired PS5 homebrew OS bringing 32-bit and 64-bit Windows gaming to console hardware through a custom Wine/Proton compatibility stack and native Vulkan graphics.</description>
-      <pubDate>8.2.0-alpha-8</pubDate>
+      <pubDate>9.0.0-alpha-9</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] PKG Folderizer</title>
@@ -2013,6 +2031,12 @@
       <link>https://github.com/lucasliet/BattleShip-remix</link>
       <description>Native PS5 port of Smash Remix, the Super Smash Bros. 64 mod, built on the SSB64 decompilation and libultraship. Bring your own Smash Remix ROM.</description>
       <pubDate>v2.0.1-port.13</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] PSGopher</title>
+      <link>https://github.com/Press5elect/PSGopher</link>
+      <description>An N64 emulator for PlayStation 5, powered by Gopher64.</description>
+      <pubDate>0.0.1</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Prospero Hi-Fi</title>
@@ -2429,6 +2453,12 @@
       <pubDate>01.000.308</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] RingOut</title>
+      <link>https://github.com/GUMMIBRI/RingOut-PS5</link>
+      <description>1.0 Beta of the unofficial PS5 port of Soulcalibur II for GameCube. Offline fights. Bring your own US GameCube disc image. The Windows Setup Kit prepares the game folder and separate module....</description>
+      <pubDate>1.0.0-beta</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] Genesis Plus GX PS5</title>
       <link>https://github.com/MisterTemaki/genplusgxPS5</link>
       <description>Genesis Plus GX (Mega Drive, Sega CD, Master System, Game Gear) as a native PS5 app.</description>
@@ -2475,6 +2505,12 @@
       <link>https://github.com/consolecenterstudio/ps5-backup-center</link>
       <description>Download, install, transfer and share games via BitTorrent and shared links. Manage libraries and back up, compare and restore saves across PS5, USB, NAS and cloud, from your TV or browser.</description>
       <pubDate>3.2.0</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] New Blitz 2027</title>
+      <link>https://github.com/blitzrecomp/newblitz</link>
+      <description>Native PS5 port of New Blitz 2027, a recompilation of NFL Blitz 2000 (N64). Needs your own USA v1.1 ROM; no game data included. 1.0.2 was tested on a PS5; newer builds aren't yet. Testers wanted!</description>
+      <pubDate>v1.0.4</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Arcade Gallery</title>
