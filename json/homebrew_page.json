@@ -100,6 +100,20 @@
       "source": "https://github.com/willindiana/navi5"
     },
     {
+      "name": "PlayKaraoke",
+      "filename": "PLKR00001.zip",
+      "url": "https://github.com/PlayKaraoke/PS5-PlayKaraoke-Player/releases/download/v0.3.0/PLKR00001.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PLKR00001/0.3.0/PLKR00001.zip",
+      "description": "Offline karaoke player for jailbroken PS5: CDG (MP3+G) and 4K MP4 playback, real-time ±12 semitone pitch shifting, fair singer rotation, and song requests from phones via QR code.",
+      "version": "0.3.0",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PLKR00001",
+      "author": "PlayKaraoke",
+      "checksum": "2cb11756c973cc3b9c27270a31429368dd75958eb61611563b3da9c587ca6379",
+      "source": "https://github.com/PlayKaraoke/PS5-PlayKaraoke-Player"
+    },
+    {
       "name": "OliSe Player",
       "filename": "PPSA01153.zip",
       "url": "https://github.com/Marice/OliSePlayer/releases/download/02.001.000/PPSA01153.zip",
@@ -172,15 +186,15 @@
     {
       "name": "PC5",
       "filename": "PPSA11018.zip",
-      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.5.0/PPSA11018.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.5.0/PPSA11018.zip",
+      "url": "https://github.com/bornaradusin/PC5/releases/download/v2.5.2/PPSA11018.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA11018/2.5.2/PPSA11018.zip",
       "description": "Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.",
-      "version": "2.5.0",
+      "version": "2.5.2",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA11018",
       "author": "bornaradusin",
-      "checksum": "b61b754dcea643fae3fa3281d585119e6db3a8970ee2ae29015cc6eef9c3c14f",
+      "checksum": "539673b4d0d3d33825b43b343aa3f1ed6274b821f9b077d6302c007909308970",
       "source": "https://github.com/bornaradusin/PC5"
     },
     {
@@ -368,15 +382,15 @@
     {
       "name": "ProsperoSunshine",
       "filename": "PPSA47989.zip",
-      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.6.8/PPSA47989.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.6.8/PPSA47989.zip",
+      "url": "https://github.com/Darkatek7/ProsperoSunshine/releases/download/v0.6.9/PPSA47989.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA47989/0.6.9/PPSA47989.zip",
       "description": "Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.",
-      "version": "0.6.8",
+      "version": "0.6.9",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA47989",
       "author": "Darkatek7",
-      "checksum": "c3edbc3bdb365f1af10920c2087ff5b96446e36de6365aecc7dc7f32e8266c1f",
+      "checksum": "d3e42a156720ba66d049196b0234fa1225611a7d821076705ab1ee53f112932d",
       "source": "https://github.com/Darkatek7/ProsperoSunshine"
     },
     {
@@ -438,15 +452,15 @@
     {
       "name": "Lantern Miner",
       "filename": "PPSA58001.zip",
-      "url": "https://github.com/RedHotBallBag/lantern-miner-ps5/releases/download/v0.9.1-beta/LanternMiner-v0.9.1-beta.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA58001/0.9.1-beta/PPSA58001.zip",
+      "url": "https://github.com/RedHotBallBag/lantern-miner-ps5/releases/download/v0.9.2-beta/LanternMiner-v0.9.2-beta.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA58001/0.9.2-beta/PPSA58001.zip",
       "description": "Lantern Miner: a cosy Manic Miner-style cavern platformer for jailbroken PS5 (beta)",
-      "version": "0.9.1-beta",
+      "version": "0.9.2-beta",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA58001",
       "author": "Superfurry",
-      "checksum": "482c46be49fa5f98e8c31e85de9ef538e0b86a692e415aae220769d490741648",
+      "checksum": "038c3b901aea4c4b9b614f9aea5d660719dbe6773afad057e5f21dc70ef55ee4",
       "source": "https://github.com/RedHotBallBag/lantern-miner-ps5"
     },
     {
@@ -830,29 +844,29 @@
     {
       "name": "TrinityXSX",
       "filename": "PPSA83601.zip",
-      "url": "https://github.com/grzegorz2047/TrinityXSX/releases/download/v0.2.7/PPSA83601.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA83601/v0.2.7/PPSA83601.zip",
+      "url": "https://github.com/grzegorz2047/TrinityXSX/releases/download/v0.2.10/PPSA83601.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA83601/v0.2.10/PPSA83601.zip",
       "description": "Standalone Xbox Series X|S (GDK) game library and compatibility runtime for PS5 combining XCL, vkd3d-proton, DXVK, PS5 Wine, Touchpad Quick Menu HUD, Web Companion, and MihawkGen Frame Generation.",
-      "version": "v0.2.7",
+      "version": "v0.2.10",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA83601",
       "author": "grzegorz2047",
-      "checksum": "55a85bb5a0cca43ca6d1a012fe0b9ce41cda61c37ad5f58ec525789c4faa99f2",
+      "checksum": "c64df66a5a98cb70daf54e1df65d51a28856fb9c31df7d79e23d6c2a97ac936b",
       "source": "https://github.com/grzegorz2047/TrinityXSX"
     },
     {
       "name": "FLEX",
       "filename": "PPSA84840.zip",
-      "url": "https://github.com/MrRobotto512/FLEX/releases/download/v0.8.4/PPSA84840.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA84840/0.8.4/PPSA84840.zip",
+      "url": "https://github.com/MrRobotto512/FLEX/releases/download/v0.8.5/PPSA84840.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA84840/0.8.5/PPSA84840.zip",
       "description": "Player for the movies and TV shows on your own Windows PC running the FLEX media server (required): poster grid, themed home rows, search, resume, and updates from the PC.",
-      "version": "0.8.4",
+      "version": "0.8.5",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA84840",
       "author": "MrRobotto512",
-      "checksum": "0e2d551e015f940616199d0b0635309ce0cda947ce8bc05baed9793c88883ffc",
+      "checksum": "e976149985477926b3e1b2a5be256724e1aa2f520ef51d412578f89c1a2b2dc0",
       "source": "https://github.com/MrRobotto512/FLEX"
     },
     {
@@ -1078,6 +1092,20 @@
       "author": "damiantw",
       "checksum": "632efadfaf9f6e73316c51268813719fa42f277a482144ae3c225894259af1b2",
       "source": "https://github.com/damiantw/sfiii-ps5"
+    },
+    {
+      "name": "Prospero Disk",
+      "filename": "PPSA93475.zip",
+      "url": "https://github.com/leolobato/prospero-disk/releases/download/v1.0.3/prospero-disk-1.0.3-PPSA93475.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA93475/1.0.3/PPSA93475.zip",
+      "description": "Shows what is using your PS5's storage as an interactive sunburst and a sorted list, with game names and icons, and never changes anything.",
+      "version": "1.0.3",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA93475",
+      "author": "leolobato",
+      "checksum": "5fb2c89cff2b21985ccac53c727a87219fada2bcd3cbc62e5939e5e197227cc3",
+      "source": "https://github.com/leolobato/prospero-disk"
     },
     {
       "name": "Raptor: Call of the Shadows (PS5)",
@@ -1458,6 +1486,20 @@
       "source": "https://github.com/quatrixone/ProsperoAI"
     },
     {
+      "name": "ProsperoPuzzles",
+      "filename": "PPSA99006.zip",
+      "url": "https://github.com/BlackBearRevived/ProsperoPuzzles/releases/download/1.000.030/PPSA99006.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99006/1.000.030/PPSA99006.zip",
+      "description": "50 native logic puzzles for PlayStation 5 homebrew",
+      "version": "1.000.030",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99006",
+      "author": "BlackBearRevived",
+      "checksum": "b947fdd077e034f298332d685bd1c225842391f4cd4f1a9c77e92356ac82275d",
+      "source": "https://github.com/BlackBearRevived/ProsperoPuzzles"
+    },
+    {
       "name": "vkQuake",
       "filename": "PPSA99010.zip",
       "url": "https://github.com/mihawk-99/PS5_vkQuake/releases/download/1.0/PPSA99010.zip",
@@ -1530,15 +1572,15 @@
     {
       "name": "reUndr (NFS: Underground)",
       "filename": "PPSA99025.zip",
-      "url": "https://github.com/bystritskiy/reUndr-ps5/releases/download/01.002.001/PPSA99025-01.002.001.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99025/01.002.001/PPSA99025.zip",
+      "url": "https://github.com/bystritskiy/reUndr-ps5/releases/download/01.003.000/PPSA99025-01.003.000.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99025/01.003.000/PPSA99025.zip",
       "description": "Need for Speed: Underground, the Xbox version recompiled to run natively on PS5, in 4K at up to 60 fps. Bring your own disc.",
-      "version": "01.002.001",
+      "version": "01.003.000",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99025",
       "author": "bystritskiy",
-      "checksum": "aa265fc6116d99242e5209f1454c8db684f73e403441a08e2a36d438dd81f1d3",
+      "checksum": "67e92dde0b201698cef7028ce499ecc77b2c5ef46c01aa13c9fc50b4fea1d4dc",
       "source": "https://github.com/bystritskiy/reUndr-ps5"
     },
     {
@@ -1568,6 +1610,20 @@
       "author": "bizkut",
       "checksum": "c09d43d0c84d9fc1bc976a1691ef22f0ebdcda7539f45af34fe1abdcb4ff4fdb",
       "source": "https://github.com/bizkut/ps5-forever"
+    },
+    {
+      "name": "ICO",
+      "filename": "PPSA99031.zip",
+      "url": "https://github.com/bystritskiy/ico-ps5/releases/download/01.001.000/PPSA99031.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99031/01.001.000/PPSA99031.zip",
+      "description": "Native PS5 port of ICO, based on the ico-pc recompilation, in 4K with DualSense. Import your own PS2 disc image on the console.",
+      "version": "01.001.000",
+      "category": "Games",
+      "kind": "game",
+      "titleid": "PPSA99031",
+      "author": "bystritskiy",
+      "checksum": "2043edd76933b174de079b452f00cf4c203107d6c2e31018a76fc9e4d5fe9a42",
+      "source": "https://github.com/bystritskiy/ico-ps5"
     },
     {
       "name": "EVO Player",
@@ -1852,15 +1908,15 @@
     {
       "name": "Parallax Browser",
       "filename": "PPSA99207.zip",
-      "url": "https://github.com/rikleigh/parallax-browser/releases/download/v0.4.2/parallax-browser-0.4.2.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99207/0.4.2/PPSA99207.zip",
+      "url": "https://github.com/rikleigh/parallax-browser/releases/download/v0.5.0/parallax-browser-0.5.0.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99207/0.5.0/PPSA99207.zip",
       "description": "A fast Web browser for the PS5 with WebGL, WebGPU, Gamepad API, hardware video decoding up to 8K, and PS VR2 video playback.",
-      "version": "0.4.2",
+      "version": "0.5.0",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99207",
       "author": "Rik Leigh",
-      "checksum": "c8d22f85558ea3840ad3dd026b9d4f8f91d9315e651174f8d536aaf0415d87a7",
+      "checksum": "cef755f0dfaeb3a726d6280fbcd2f834b28869238dc21b8ec78c01730b6b8e68",
       "source": "https://github.com/rikleigh/parallax-browser"
     },
     {

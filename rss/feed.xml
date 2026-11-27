@@ -1181,6 +1181,12 @@
       <pubDate>v0.8.0-beta.1</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] PlayKaraoke</title>
+      <link>https://github.com/PlayKaraoke/PS5-PlayKaraoke-Player</link>
+      <description>Offline karaoke player for jailbroken PS5: CDG (MP3+G) and 4K MP4 playback, real-time ±12 semitone pitch shifting, fair singer rotation, and song requests from phones via QR code.</description>
+      <pubDate>0.3.0</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] OliSe Player</title>
       <link>https://github.com/Marice/OliSePlayer</link>
       <description>Tracker music radio in FastTracker II style, streaming MOD, XM, S3M and IT from The Mod Archive.</description>
@@ -1214,7 +1220,7 @@
       <title>[ProsperoStore] PC5</title>
       <link>https://github.com/bornaradusin/PC5</link>
       <description>Launcher for your own PC games via Wine, DXVK and VKD3D-Proton: console or USB installs, Steam emulator, covers, DualSense, up to four players, web page, crash reports and updates.</description>
-      <pubDate>2.5.0</pubDate>
+      <pubDate>2.5.2</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Home5</title>
@@ -1298,7 +1304,7 @@
       <title>[ProsperoStore] ProsperoSunshine</title>
       <link>https://github.com/Darkatek7/ProsperoSunshine</link>
       <description>Sunshine-compatible game-stream host: play your PS5 on any Moonlight client in your LAN, with picture, game audio, controller, keyboard and mouse input, and a friend can join as a second player.</description>
-      <pubDate>0.6.8</pubDate>
+      <pubDate>0.6.9</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] SudokuZen</title>
@@ -1328,7 +1334,7 @@
       <title>[ProsperoStore] Lantern Miner</title>
       <link>https://github.com/RedHotBallBag/lantern-miner-ps5</link>
       <description>Lantern Miner: a cosy Manic Miner-style cavern platformer for jailbroken PS5 (beta)</description>
-      <pubDate>0.9.1-beta</pubDate>
+      <pubDate>0.9.2-beta</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] ccleste</title>
@@ -1496,13 +1502,13 @@
       <title>[ProsperoStore] TrinityXSX</title>
       <link>https://github.com/grzegorz2047/TrinityXSX</link>
       <description>Standalone Xbox Series X|S (GDK) game library and compatibility runtime for PS5 combining XCL, vkd3d-proton, DXVK, PS5 Wine, Touchpad Quick Menu HUD, Web Companion, and MihawkGen Frame Generation.</description>
-      <pubDate>v0.2.7</pubDate>
+      <pubDate>v0.2.10</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] FLEX</title>
       <link>https://github.com/MrRobotto512/FLEX</link>
       <description>Player for the movies and TV shows on your own Windows PC running the FLEX media server (required): poster grid, themed home rows, search, resume, and updates from the PC.</description>
-      <pubDate>0.8.4</pubDate>
+      <pubDate>0.8.5</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] VLC</title>
@@ -1599,6 +1605,12 @@
       <link>https://github.com/damiantw/sfiii-ps5</link>
       <description>Shining Force III PS5 port (sfiii-native recompilation) on Vulkan, with an on-console patcher for your own game data; no game data included.</description>
       <pubDate>1.0.0</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] Prospero Disk</title>
+      <link>https://github.com/leolobato/prospero-disk</link>
+      <description>Shows what is using your PS5's storage as an interactive sunburst and a sorted list, with game names and icons, and never changes anything.</description>
+      <pubDate>1.0.3</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Raptor: Call of the Shadows (PS5)</title>
@@ -1763,6 +1775,12 @@
       <pubDate>01.007.000</pubDate>
     </item>
     <item>
+      <title>[ProsperoStore] ProsperoPuzzles</title>
+      <link>https://github.com/BlackBearRevived/ProsperoPuzzles</link>
+      <description>50 native logic puzzles for PlayStation 5 homebrew</description>
+      <pubDate>1.000.030</pubDate>
+    </item>
+    <item>
       <title>[ProsperoStore] vkQuake</title>
       <link>https://github.com/mihawk-99/PS5_vkQuake</link>
       <description>Native PS5 port of vkQuake, the Vulkan Quake engine, at up to 120 FPS and 4K with DualSense input. Needs your own Quake game data.</description>
@@ -1796,7 +1814,7 @@
       <title>[ProsperoStore] reUndr (NFS: Underground)</title>
       <link>https://github.com/bystritskiy/reUndr-ps5</link>
       <description>Need for Speed: Underground, the Xbox version recompiled to run natively on PS5, in 4K at up to 60 fps. Bring your own disc.</description>
-      <pubDate>01.002.001</pubDate>
+      <pubDate>01.003.000</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] reUndr 2 (NFS: Underground 2)</title>
@@ -1809,6 +1827,12 @@
       <link>https://github.com/bizkut/ps5-forever</link>
       <description>Battle.net launcher for World of Warcraft (Retail, Classic and Forever) with a built-in add-on manager; press Options for the Forever menu and L3+R3 for the on-screen keyboard.</description>
       <pubDate>01.000.024</pubDate>
+    </item>
+    <item>
+      <title>[ProsperoStore] ICO</title>
+      <link>https://github.com/bystritskiy/ico-ps5</link>
+      <description>Native PS5 port of ICO, based on the ico-pc recompilation, in 4K with DualSense. Import your own PS2 disc image on the console.</description>
+      <pubDate>01.001.000</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] EVO Player</title>
@@ -1934,7 +1958,7 @@
       <title>[ProsperoStore] Parallax Browser</title>
       <link>https://github.com/rikleigh/parallax-browser</link>
       <description>A fast Web browser for the PS5 with WebGL, WebGPU, Gamepad API, hardware video decoding up to 8K, and PS VR2 video playback.</description>
-      <pubDate>0.4.2</pubDate>
+      <pubDate>0.5.0</pubDate>
     </item>
     <item>
       <title>[ProsperoStore] Lost Odyssey</title>

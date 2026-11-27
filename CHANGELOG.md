@@ -1,5 +1,19 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 27/11/2026 à 01:51
+* **HOMEBREW_PAGE**
+  * `PlayKaraoke` (0.3.0) - *Nouveau*
+  * `PC5` (2.5.2) - *Mise à jour (Précédent: 2.5.0)*
+  * `ProsperoSunshine` (0.6.9) - *Mise à jour (Précédent: 0.6.8)*
+  * `Lantern Miner` (0.9.2-beta) - *Mise à jour (Précédent: 0.9.1-beta)*
+  * `TrinityXSX` (v0.2.10) - *Mise à jour (Précédent: v0.2.7)*
+  * `FLEX` (0.8.5) - *Mise à jour (Précédent: 0.8.4)*
+  * `Prospero Disk` (1.0.3) - *Nouveau*
+  * `ProsperoPuzzles` (1.000.030) - *Nouveau*
+  * `reUndr (NFS: Underground)` (01.003.000) - *Mise à jour (Précédent: 01.002.001)*
+  * `ICO` (01.001.000) - *Nouveau*
+  * `Parallax Browser` (0.5.0) - *Mise à jour (Précédent: 0.4.2)*
+
 ## Build du 26/11/2026 à 16:47
 * **PAYLOADS**
   * `Web-File-Mgr-V1.15` (v1.15) - *Nouveau*
