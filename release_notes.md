@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.28-0134)
+### 🚀 Synthèse de la mise à jour (v2026.11.28-1524)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -46,66 +46,31 @@ Le store PlayStation 5 a été mis à jour avec succès.
 <summary><b>⚡ Pack PAYLOADS</b></summary>
 
 * **payloads**
-  * `kstuff_EchoStretch_v1.6.7.elf`
-  * `kstuff-lite_EchoStretch_v1.11.elf`
-  * `kstuff-lite_drakmor_v1.2-dr-test2.elf`
-  * `kstuff-a53_SoNic_v1.4.elf`
-  * `actremotelink_pin_notify_v2.0.elf`
-  * `actremotelink_agent_v2.0.elf`
-  * `CheatRunner_v0.18.elf`
-  * `kylin-core_v2.0.0-community-lite.elf`
-  * `A53-Kstuff-ShadowMountPlus-3in1.elf`
-  * `A53-kstuff-SMP.elf`
-  * `Kstuff-NG_v1.00.elf`
-  * `kstuff-1.13-fpkg-dr-test5.elf`
-  * `a53_ppr_install_1140_20.09.elf`
-  * `a53_ppr_install_1160_20.09.elf`
+  * `pkg-manager_v1.5.1.elf`
+  * `pkg-receiver_v1.2.9.elf`
+  * `ps5-fan-control_v0.3.elf`
+  * `fan_target_v0.1.elf`
+  * `fan_target_75c_v0.1.elf`
+  * `fan_target_70c_v0.1.elf`
+  * `fan_target_65c_v0.1.elf`
+  * `fan_target_85c_v0.1.elf`
+  * `fan_target_80c_v0.1.elf`
   * `Common_FPS_PS5_v1.2.6.elf`
   * `overlay_payload.elf`
   * `ps5-overlay-kus_v1.0.19.elf`
-  * `BFpilot_v0.5.0.elf`
-  * `lapy_jb_daemon.elf`
-  * `web-file-mgr-v1.15.elf`
-  * `wfm-7zip-helper.elf`
-  * `PS5-File-Explorer_vfile-explorer-v0.2.1.elf`
-  * `ps5-fan-control_v0.3.elf`
-  * `fan_target_v0.1.elf`
-  * `fan_target_85c_v0.1.elf`
-  * `fan_target_70c_v0.1.elf`
-  * `fan_target_65c_v0.1.elf`
-  * `fan_target_75c_v0.1.elf`
-  * `fan_target_80c_v0.1.elf`
-  * `pkg-manager_v1.5.1.elf`
-  * `pkg-receiver_v1.2.9.elf`
+  * `actremotelink_agent_v2.0.elf`
+  * `actremotelink_pin_notify_v2.0.elf`
+  * `snes9xPS5_v2.9.elf`
+  * `genplusgxPS5_v2.2.elf`
+  * `ps5-romm_v1.4.4.elf`
+  * `fbneo-ps5_v2.4.elf`
+  * `PHU-Sandbox.Exit_v1.0.elf`
   * `PS5-Game-Compressor_v1.0.4.elf`
   * `ps5-app-dumper_v2.10.elf`
   * `shadowmountplus.elf`
   * `BackPork_v0.1.elf`
   * `apr_emu_updater_v2.0.6.elf`
   * `PS5-Game-Compressor_fork_v1.1.1.elf`
-  * `FGG-PlayPods-GUI_v0.1.5.elf`
-  * `FGG-PlayPods_v1.0.elf`
-  * `PS5-Custom-Tool-Manager-_vCustom.elf`
-  * `ps5-wallpaper-modd_v1.0.elf`
-  * `ChronicLoader-PS5-Payload_v0.1.elf`
-  * `PS_Game_State_Lib_v0.1.elf`
-  * `PS-DiscordPresence_v0.01.elf`
-  * `unrar-ps5_v1.4.0.elf`
-  * `PS5-Power-Payloads-Project_v1.0.elf`
-  * `ps5-date-time-sync_v1.0.0.elf`
-  * `FGG-Unpack_v0.1.elf`
-  * `snes9xPS5_v2.9.elf`
-  * `genplusgxPS5_v2.2.elf`
-  * `ps5-romm_v1.4.4.elf`
-  * `fbneo-ps5_v2.4.elf`
-  * `PHU-Sandbox.Exit_v1.0.elf`
-  * `ps5shopappkg-dpi.elf`
-  * `ps5library-agent.elf`
-  * `orbit_store.elf`
-  * `bfplayer-standalone.elf`
-  * `ProsperoPlayer_v1.0.elf`
-  * `svtplay_v0.3.elf`
-  * `PS-Play_v2.1.elf`
   * `zftpd-ps5-zhttp-v1.7.1.elf`
   * `zftpd-ps5-v1.7.1.elf`
   * `elfldr_v0.28.elf`
@@ -118,35 +83,57 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5-ezremote-server_v1.13.elf`
   * `ps5upload_v9.5.1.elf`
   * `airpsx_v0.19.elf`
+  * `ps5shopappkg-dpi.elf`
+  * `ps5library-agent.elf`
+  * `orbit_store.elf`
   * `ps5-linux-loader_v2.5.elf`
-  * `webkit-autoloader-installer_v0.8.4.elf`
-  * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen_v1.2.0.elf`
-  * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf`
-  * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0.elf`
-  * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen-en_v1.2.0.elf`
-  * `PoorDS4_v0.2.0.elf`
-  * `PoorDS4-status_v0.2.0.elf`
-  * `PoorDS4-stop_v0.2.0.elf`
-  * `OmniPad-PS5_v1.0.4-hotfix1.elf`
-  * `FGG-XSense_v1.1.elf`
-  * `ghost-toothAPI.elf`
-  * `pad2c_v2.1.0.elf`
-  * `AnyPad-PS5_v0.6.0.elf`
+  * `BFpilot_v0.5.0.elf`
+  * `lapy_jb_daemon.elf`
+  * `web-file-mgr-v1.15.elf`
+  * `wfm-7zip-helper.elf`
+  * `PS5-File-Explorer_vfile-explorer-v0.2.1.elf`
+  * `PS5-Custom-Tool-Manager-_vCustom.elf`
+  * `ps5-wallpaper-modd_v1.0.elf`
   * `ps5debug-NG_v1.3.2.elf`
   * `ps5-fw-spoof.elf`
   * `ps5-self-pager-system-common-lib.elf`
-  * `ps5-self-pager-game.elf`
   * `ps5-self-pager-shellcore.elf`
   * `ps5-self-pager-full-system.elf`
+  * `ps5-self-pager-game.elf`
   * `ps5-self-decrypter-shellcore.elf`
-  * `ps5-self-decrypter-system-common-lib.elf`
   * `ps5-self-decrypter-full-system.elf`
+  * `ps5-self-decrypter-system-common-lib.elf`
   * `ps5-self-decrypter-game.elf`
   * `ps5-remoteplay-get-pin_v0.1.1.elf`
   * `MemDBG_vnightly-20261112-g6e31144.elf`
   * `ps5-hwinfo_v0.1.elf`
+  * `A53-Kstuff-ShadowMountPlus-3in1.elf`
+  * `A53-kstuff-SMP.elf`
+  * `Kstuff-NG_v1.00.elf`
+  * `kstuff-1.13-fpkg-dr-test5.elf`
+  * `a53_ppr_install_1140_20.09.elf`
+  * `a53_ppr_install_1160_20.09.elf`
+  * `kstuff_EchoStretch_v1.6.7.elf`
+  * `kstuff-lite_EchoStretch_v1.11.elf`
+  * `kstuff-lite_drakmor_v1.2-dr-test2.elf`
+  * `kstuff-a53_SoNic_v1.4.elf`
+  * `FGG-PlayPods-GUI_v0.1.5.elf`
+  * `FGG-PlayPods_v1.0.elf`
+  * `garlic-savemgr_v2.0.elf`
+  * `garlic-worker_v1.5.6.elf`
+  * `savemnt-offset-dumper_v1.0.0.elf`
+  * `ChronicLoader-PS5-Payload_v0.1.elf`
+  * `PS_Game_State_Lib_v0.1.elf`
+  * `PS-DiscordPresence_v0.01.elf`
+  * `unrar-ps5_v1.4.0.elf`
+  * `PS5-Power-Payloads-Project_v1.0.elf`
+  * `ps5-date-time-sync_v1.0.0.elf`
+  * `FGG-Unpack_v0.1.elf`
   * `nanoDNS_v0.4.elf`
   * `Chukei_DNS_v0.9.0.elf`
+  * `CheatRunner_v0.18.elf`
+  * `kylin-core_v2.0.0-community-lite.elf`
+  * `np-fake-signin-ps5.elf`
   * `etaHEN_v2.5B.bin`
   * `PS5_Unified_Autoloader_v0.1.7-abc3b82.elf`
   * `pldmgr_v0.6.3.elf`
@@ -155,34 +142,47 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `onionHEN_v0.9.0.elf`
   * `etaHEN-2.6B.bin`
   * `ProsperoMgr.elf`
-  * `np-fake-signin-ps5.elf`
-  * `garlic-savemgr_v2.0.elf`
-  * `garlic-worker_v1.5.6.elf`
-  * `savemnt-offset-dumper_v1.0.0.elf`
-  * `web-file-mgr-v1.14.elf`
-  * `web-file-mgr_v1.9.elf`
-  * `web-file-mgr-v1.9.elf`
-  * `web-file-mgr-v1.12.elf`
-  * `web-file-mgr-v1.10.elf`
-  * `web-file-mgr-v1.13-rc1.elf`
-  * `web-file-mgr-v1.11b.elf`
-  * `web-file-mgr-v1.13-rc2.elf`
-  * `web-file-mgr-v1.11.elf`
-  * `zftpd-ps5-v1.7.0.elf`
-  * `zftpd-ps5-zhttp-v1.7.0.elf`
-  * `zftpd-ps5-zhttp-v1.6.0.elf`
-  * `zftpd-ps5-v1.6.0.elf`
+  * `webkit-autoloader-installer_v0.8.4.elf`
+  * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen-en_v1.2.0.elf`
+  * `Host-PSM-pooP2JB-v1.2.0-instala-onionhen_v1.2.0.elf`
+  * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr_v1.2.0.elf`
+  * `Host-PSM-pooP2JB-v1.2.0-instala-pldmgr-en_v1.2.0.elf`
+  * `bfplayer-standalone.elf`
+  * `ProsperoPlayer_v1.0.elf`
+  * `svtplay_v0.3.elf`
+  * `PS-Play_v2.1.elf`
+  * `PoorDS4-stop_v0.2.0.elf`
+  * `PoorDS4_v0.2.0.elf`
+  * `PoorDS4-status_v0.2.0.elf`
+  * `OmniPad-PS5_v1.0.4-hotfix1.elf`
+  * `FGG-XSense_v1.1.elf`
+  * `ghost-toothAPI.elf`
+  * `pad2c_v2.1.0.elf`
+  * `AnyPad-PS5_v0.6.0.elf`
   * `Nuvio-PS5_v1.8.0.elf`
-  * `PoorDS4rc51_v0.1.0-rc51.elf`
-  * `pegasus-dl_v1.11.0.elf`
-  * `PS5-PHStore_vPHStore.elf`
-  * `Spectrum-Library_v1.4.8.elf`
   * `ps5library-agent-0.2.70.elf`
   * `ps5library-agent-0.2.55.elf`
-  * `ps5_overlay.elf`
-  * `ps5_overlay_shellui.elf`
-  * `PS5X360_v0.5.7.elf`
+  * `pegasus-dl_v1.11.0.elf`
+  * `Spectrum-Library_v1.4.8.elf`
+  * `PS5-PHStore_vPHStore.elf`
   * `Kura_v1.6.60.elf`
+  * `web-file-mgr-v1.11.elf`
+  * `web-file-mgr-v1.11b.elf`
+  * `web-file-mgr-v1.12.elf`
+  * `web-file-mgr-v1.9.elf`
+  * `web-file-mgr_v1.9.elf`
+  * `web-file-mgr-v1.10.elf`
+  * `web-file-mgr-v1.13-rc1.elf`
+  * `web-file-mgr-v1.14.elf`
+  * `web-file-mgr-v1.13-rc2.elf`
+  * `PoorDS4rc51_v0.1.0-rc51.elf`
+  * `ps5_overlay_shellui.elf`
+  * `ps5_overlay.elf`
+  * `PS5X360_v0.5.7.elf`
+  * `zftpd-ps5-zhttp-v1.6.0.elf`
+  * `zftpd-ps5-v1.6.0.elf`
+  * `zftpd-ps5-v1.7.0.elf`
+  * `zftpd-ps5-zhttp-v1.7.0.elf`
 
 </details>
 
@@ -223,7 +223,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
 <summary><b>🛠 Pack APPS</b></summary>
 
 * **apps**
-  * `SpectrumLibrary_1.0.4.zip`
   * `flycast-ps5-2026.10.06.zip`
   * `PPSA50011.zip`
   * `PS5X360-Helper.elf`
@@ -258,6 +257,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ProsperoExplorer-v1.zip`
   * `PPSA99000.zip`
   * `EmuStore-PS5-v0.4.0.zip`
+  * `SpectrumLibrary_1.0.4.zip`
 
 </details>
 
@@ -269,6 +269,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `CWEN00001.zip`
   * `FAKE77031.zip`
   * `FAKE99260.zip`
+  * `FAKE99261.zip`
   * `FWRG00001.zip`
   * `LAPY69432.zip`
   * `NAVI00001.zip`

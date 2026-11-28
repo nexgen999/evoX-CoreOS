@@ -30,6 +30,20 @@
       "source": "https://github.com/phantomptr/ps5term"
     },
     {
+      "name": "PS5Upload Play",
+      "filename": "FAKE99261.zip",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v13.0.0/PS5Upload-Play-FAKE99261-13.0.0.zip",
+      "local_path": "downloads/apps/homebrew_page/app/FAKE99261/13.0.0/FAKE99261.zip",
+      "description": "Play a friend's PS5 game on your own PS5 with your controller. Open or join Play Rooms, chat and talk with the room, and set up Remote Play from the couch.",
+      "version": "13.0.0",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "FAKE99261",
+      "author": "phantomptr",
+      "checksum": "5419ae4bbcc7b61ed232da3506af6a672438c752a7ef42f2841fcf0dda7a47d3",
+      "source": "https://github.com/phantomptr/ps5upload"
+    },
+    {
       "name": "EliVier Explorer",
       "filename": "LAPY69432.zip",
       "url": "https://github.com/Marice/ps5-elivier-explorer/releases/download/v00.003.000/LAPY69432.zip",
@@ -368,29 +382,29 @@
     {
       "name": "TrinityX360",
       "filename": "PPSA83600.zip",
-      "url": "https://github.com/grzegorz2047/TrinityX360/releases/download/v1.0.6/PPSA83600.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA83600/v1.0.6/PPSA83600.zip",
+      "url": "https://github.com/grzegorz2047/TrinityX360/releases/download/v1.0.7/PPSA83600.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA83600/v1.0.7/PPSA83600.zip",
       "description": "Xbox 360 emulator for PS5 on Xenia Canary, built from BrinooTk's PS5X360 source, adding Kinect for more games via a phone, 2x resolution, anti-aliasing and game fixes.",
-      "version": "v1.0.6",
+      "version": "v1.0.7",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA83600",
       "author": "grzegorz2047",
-      "checksum": "44a9a39dea9a3511804e2bf2a4780a89b512c1e4c2894f94fb042e5a49c572b4",
+      "checksum": "13226aa8b0ecf493f40c39204cdb9781482724e24700b3f277a671e68a54040c",
       "source": "https://github.com/grzegorz2047/TrinityX360"
     },
     {
       "name": "TrinityXSX",
       "filename": "PPSA83601.zip",
-      "url": "https://github.com/grzegorz2047/TrinityXSX/releases/download/v0.2.17/PPSA83601.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA83601/v0.2.17/PPSA83601.zip",
+      "url": "https://github.com/grzegorz2047/TrinityXSX/releases/download/v0.2.20/PPSA83601.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA83601/v0.2.20/PPSA83601.zip",
       "description": "Standalone Xbox Series X|S (GDK) & DRM-free PC/GOG game library and runtime for PS5 with on-console GOG installer, Wine Mono, Touchpad HUD & Mouse+KB toggle, LAN PC input, Web Companion & FrameGen.",
-      "version": "v0.2.17",
+      "version": "v0.2.20",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA83601",
       "author": "grzegorz2047",
-      "checksum": "ce0ebe5a903c435956b04a0a06a8479bd2a5e7ed9d2bec56c4fa0a3cb23f30f4",
+      "checksum": "2fa878407223562d5223bb2fd28ee9339d034f67847fef35187b9487c6cab50f",
       "source": "https://github.com/grzegorz2047/TrinityXSX"
     },
     {
@@ -1012,15 +1026,15 @@
     {
       "name": "Parallax Browser",
       "filename": "PPSA99207.zip",
-      "url": "https://github.com/rikleigh/parallax-browser/releases/download/v0.5.0/parallax-browser-0.5.0.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99207/0.5.0/PPSA99207.zip",
+      "url": "https://github.com/rikleigh/parallax-browser/releases/download/v0.5.1/parallax-browser-0.5.1.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99207/0.5.1/PPSA99207.zip",
       "description": "A fast Web browser for the PS5 with WebGL, WebGPU, Gamepad API, hardware video decoding up to 8K, and PS VR2 video playback.",
-      "version": "0.5.0",
+      "version": "0.5.1",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99207",
       "author": "Rik Leigh",
-      "checksum": "cef755f0dfaeb3a726d6280fbcd2f834b28869238dc21b8ec78c01730b6b8e68",
+      "checksum": "3882e056b6f5892f261ef06616b528891ad72b9f0a358108f24c582837188396",
       "source": "https://github.com/rikleigh/parallax-browser"
     },
     {
@@ -1082,15 +1096,15 @@
     {
       "name": "PS5 Browser",
       "filename": "PPSA99257.zip",
-      "url": "https://github.com/Vibe-Code-Jesus/PS5Browser-Releases/releases/download/native-v01.000.010/PS5Browser-Native-01.000.010-Preview.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99257/native-v01.000.010/PPSA99257.zip",
+      "url": "https://github.com/Vibe-Code-Jesus/PS5Browser-Releases/releases/download/native-v01.000.011/PS5Browser-Native-01.000.011-Preview.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99257/native-v01.000.011/PPSA99257.zip",
       "description": "A PS5 web browser with tabbed browsing, a download manager, archive extraction, supported exFAT conversion, TorBox integration, media playback, CAPTCHA tools and in-app updates.",
-      "version": "native-v01.000.010",
+      "version": "native-v01.000.011",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99257",
       "author": "Vibe-Code-Jesus",
-      "checksum": "44fc31c3d7a80ed285c804070c399f992b61d7c623067ac2eba4ef44a43e26e5",
+      "checksum": "9e1e98b22a54832ce52f14ae570e6b6ebf0759f00bc822b906ae074ebaacbf38",
       "source": "https://github.com/Vibe-Code-Jesus/PS5Browser-Releases"
     },
     {

@@ -228,15 +228,15 @@
     {
       "name": "Codename Engine (PS5 port)",
       "filename": "PPSA52210.zip",
-      "url": "https://github.com/Richie133/Friday-Night-Funkin-Codename-Ps5-port/releases/download/v0.1.6-beta/PPSA52210.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA52210/0.1.6-beta/PPSA52210.zip",
+      "url": "https://github.com/Richie133/Friday-Night-Funkin-Codename-Ps5-port/releases/download/v0.1.8-beta/PPSA52210.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA52210/0.1.8-beta/PPSA52210.zip",
       "description": "unauthorized port of the codename engine for ps5 and maybe ps4 later on. based on haxelfixel. Very buggy",
-      "version": "0.1.6-beta",
+      "version": "0.1.8-beta",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA52210",
       "author": "Richie133",
-      "checksum": "2b738c933336f3ba42318eddbac8e42fa57d5222183d4aa9cb93e2ed3ee418e8",
+      "checksum": "311b76196be6c0ffcc98899d425e0184fed09d53567ac03bf0fc3bb4f869469f",
       "source": "https://github.com/Richie133/Friday-Night-Funkin-Codename-Ps5-port"
     },
     {
@@ -368,15 +368,15 @@
     {
       "name": "osu!",
       "filename": "PPSA70727.zip",
-      "url": "https://github.com/actuallyssstaris/ProjectCadence/releases/download/v2.1.5/projectcadence-v2.1.5.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA70727/2.1.5/PPSA70727.zip",
+      "url": "https://github.com/actuallyssstaris/ProjectCadence/releases/download/v3.0.0/projectcadence-v3.0.0.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA70727/3.0.0/PPSA70727.zip",
       "description": "osu!standard running natively on a jailbroken PS5",
-      "version": "2.1.5",
+      "version": "3.0.0",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA70727",
       "author": "actuallyssstaris",
-      "checksum": "a4683134f8e71f259a8e1a4c48ac6b82f0e49c9fb1a25b3144369a4a6940bd29",
+      "checksum": "bb8f9f45eda74ac2b4b7b21dd9c9fdcda684889bc2b23f2d1814c9399a7efd0a",
       "source": "https://github.com/actuallyssstaris/ProjectCadence"
     },
     {
@@ -410,15 +410,15 @@
     {
       "name": "Parasite Eve 2 PS5",
       "filename": "PPSA77023.zip",
-      "url": "https://github.com/GUMMIBRI/parasite-eve-ii-pc/releases/download/v0.3.9-ps5-beta/Parasite-Eve-2-PS5-0.3.9-beta.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA77023/v0.3.9-ps5-beta/PPSA77023.zip",
-      "description": "Community: https://discord.gg/Yg88tHYXK. PS5 beta based on upstream 0.3.9; owner boot confirmed. Requires own USA disc1.bin and disc2.bin in PPSA77023/parasite-eve-ii/discs. Install under...",
-      "version": "v0.3.9-ps5-beta",
+      "url": "https://github.com/GUMMIBRI/parasite-eve-ii-pc/releases/download/v0.3.9.1-ps5-beta/Parasite-Eve-2-PS5-0.3.9.1-beta.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA77023/v0.3.9.1-ps5-beta/PPSA77023.zip",
+      "description": "Discord: https://discord.gg/Yg88tHYXK. PS5 beta with save-reading fix. Requires your own USA discs and writable USB. Setup instructions and known limitations are in the release notes.",
+      "version": "v0.3.9.1-ps5-beta",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA77023",
       "author": "GUMMIBRI",
-      "checksum": "f26eb01338a4ec98162785ebe46d0a5df4015f0fde2fbc9536e56a1966a7fc44",
+      "checksum": "3d4ca32c7df957c635654c4eee4e3ff3caa00e84de51cdd13682c1fdaf2fe491",
       "source": "https://github.com/GUMMIBRI/parasite-eve-ii-pc"
     },
     {
@@ -508,15 +508,15 @@
     {
       "name": "Pokémon Prosperous Platinum",
       "filename": "PPSA92008.zip",
-      "url": "https://github.com/cybervisi0n/pokeplatinum/releases/download/v0.2.4/release_ps5.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA92008/0.2.4/PPSA92008.zip",
+      "url": "https://github.com/cybervisi0n/pokeplatinum/releases/download/v0.2.5/release_ps5.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA92008/0.2.5/PPSA92008.zip",
       "description": "Pokémon Platinum decomp port for the PS5",
-      "version": "0.2.4",
+      "version": "0.2.5",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA92008",
       "author": "cybervisi0n",
-      "checksum": "67d5e99a12bae64aa2de647e456c5a096d200e93bbf5ee16ec7781bba5dd217c",
+      "checksum": "0feabfac8cef37979ab458efdbbdf1444a72da76824b7c7b34c8b29436af4862",
       "source": "https://github.com/cybervisi0n/pokeplatinum"
     },
     {
@@ -550,15 +550,15 @@
     {
       "name": "Brogue CE",
       "filename": "PPSA92043.zip",
-      "url": "https://github.com/plutobox/ps5-BrogueCE/releases/download/01.000.000/PPSA92043.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA92043/01.000.000/PPSA92043.zip",
+      "url": "https://github.com/plutobox/ps5-BrogueCE/releases/download/02.000.000/PPSA92043.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA92043/02.000.000/PPSA92043.zip",
       "description": "Brogue is a single-player strategy game set in the halls of a mysterious and randomly-generated dungeon.",
-      "version": "01.000.000",
+      "version": "02.000.000",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA92043",
       "author": "plutobox",
-      "checksum": "8c5801eb8c22c1ec497d5b21736845c005b1daa46b3fff3cec766b379a964536",
+      "checksum": "f388c0df84f17f5c04461bb86ebc008d8c5195064eec7193a9bc40d07332d5ea",
       "source": "https://github.com/plutobox/ps5-BrogueCE"
     },
     {
@@ -1488,15 +1488,15 @@
     {
       "name": "New Blitz 2027",
       "filename": "PPSA99961.zip",
-      "url": "https://github.com/blitzrecomp/newblitz/releases/download/v1.0.4/PPSA99961.zip",
-      "local_path": "downloads/apps/homebrew_page/game/PPSA99961/v1.0.4/PPSA99961.zip",
+      "url": "https://github.com/blitzrecomp/newblitz/releases/download/v1.0.5/PPSA99961.zip",
+      "local_path": "downloads/apps/homebrew_page/game/PPSA99961/v1.0.5/PPSA99961.zip",
       "description": "Native PS5 port of New Blitz 2027, a recompilation of NFL Blitz 2000 (N64). Needs your own USA v1.1 ROM; no game data included. 1.0.2 was tested on a PS5; newer builds aren't yet. Testers wanted!",
-      "version": "v1.0.4",
+      "version": "v1.0.5",
       "category": "Games",
       "kind": "game",
       "titleid": "PPSA99961",
       "author": "Blitz Recomp",
-      "checksum": "123648e57498bb2a55038aa08e72b1dcf57f0e03a97c6f86a47a5d397c6684c4",
+      "checksum": "f4028a0052c1ea8fb56616d5b301748f9b9e4a3d5c86fda9c8f21e87cad24327",
       "source": "https://github.com/blitzrecomp/newblitz"
     },
     {

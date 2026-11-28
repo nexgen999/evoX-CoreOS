@@ -42,7 +42,7 @@
       "description": "FTP server background daemon. Port: 21",
       "version": "v0.22",
       "category": "PS5 Server",
-      "checksum": "5e845b93dac8906f15f72dbe5b3ee07d3a4c47474a3afd4126d8ba4a280b106d",
+      "checksum": "50a5d2bb188a825eedce13b4d3ca92f5c6c71852f591f1506860fd30d6f45363",
       "source": "https://github.com/ps5-payload-dev/ftpsrv/releases"
     },
     {
@@ -64,7 +64,7 @@
       "description": "GDB Debugger server payload. Port: 1234",
       "version": "v0.9",
       "category": "PS5 Server",
-      "checksum": "fc91ea233cdbb47acd8087b93d557d9f8a663d0f47cb75908a05a024d07e7efb",
+      "checksum": "80952d75f423768b95385f0944e5a5c2f417dcc10c22c1bb6516a923ad8894e5",
       "source": "https://github.com/ps5-payload-dev/gdbsrv/releases"
     },
     {
@@ -75,7 +75,7 @@
       "description": "Kernel log server daemon. Port: 3232",
       "version": "v0.9",
       "category": "PS5 Server",
-      "checksum": "e828ec144231f81547cb58bc7d2c396fa984be0c2295f31364b58017816dcceb",
+      "checksum": "7e89c33eb90d44ea4644b80c56c29084d93faf415a9d64f1397a58ac7ca752d8",
       "source": "https://github.com/ps5-payload-dev/klogsrv/releases"
     },
     {
@@ -112,14 +112,14 @@
       "source": "https://github.com/cy33hc/ps5-ezremote-server/releases"
     },
     {
-      "name": "Ps5Upload V12.6.44",
-      "filename": "ps5upload_v12.6.44.elf",
-      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v12.6.44/ps5upload_v12.6.44.elf",
-      "local_path": "payloads/ps5_server/ps5upload/v12.6.44/ps5upload_v12.6.44.elf",
+      "name": "Ps5Upload V13.0.1",
+      "filename": "ps5upload_v13.0.1.elf",
+      "url": "https://nexgen999.github.io/evoX-CoreOS/payloads/ps5_server/ps5upload/v13.0.1/ps5upload_v13.0.1.elf",
+      "local_path": "payloads/ps5_server/ps5upload/v13.0.1/ps5upload_v13.0.1.elf",
       "description": "PS5 Upload server / tool. Port: 9025",
-      "version": "v12.6.44",
+      "version": "v13.0.1",
       "category": "PS5 Server",
-      "checksum": "144c5f714328dea2b260f3b169df041c2e0fa69e35e0ca5309c7a697dc947ecd",
+      "checksum": "7f052f795af19eb0bd2548d84c0bf3f56661e8b728877bf2aeb30fbd5e486410",
       "source": "https://github.com/phantomptr/ps5upload/releases"
     },
     {

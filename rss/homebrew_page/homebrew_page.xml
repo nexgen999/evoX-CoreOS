@@ -29,6 +29,12 @@
       <pubDate>00.001.005</pubDate>
     </item>
     <item>
+      <title>PS5Upload Play</title>
+      <link>https://github.com/phantomptr/ps5upload</link>
+      <description>Play a friend's PS5 game on your own PS5 with your controller. Open or join Play Rooms, chat and talk with the room, and set up Remote Play from the couch.</description>
+      <pubDate>13.0.0</pubDate>
+    </item>
+    <item>
       <title>Forgotten Warrior Remastered</title>
       <link>https://github.com/youss17x/Forgotten-Warrior-PS5</link>
       <description>Native PS5 port of the J2ME platformer Forgotten Warrior with DualSense controls and 4K output. Requires your own copy of the original game.</description>
@@ -200,7 +206,7 @@
       <title>Codename Engine (PS5 port)</title>
       <link>https://github.com/Richie133/Friday-Night-Funkin-Codename-Ps5-port</link>
       <description>unauthorized port of the codename engine for ps5 and maybe ps4 later on. based on haxelfixel. Very buggy</description>
-      <pubDate>0.1.6-beta</pubDate>
+      <pubDate>0.1.8-beta</pubDate>
     </item>
     <item>
       <title>Lantern Miner</title>
@@ -296,7 +302,7 @@
       <title>osu!</title>
       <link>https://github.com/actuallyssstaris/ProjectCadence</link>
       <description>osu!standard running natively on a jailbroken PS5</description>
-      <pubDate>2.1.5</pubDate>
+      <pubDate>3.0.0</pubDate>
     </item>
     <item>
       <title>Stremio Plus</title>
@@ -337,8 +343,8 @@
     <item>
       <title>Parasite Eve 2 PS5</title>
       <link>https://github.com/GUMMIBRI/parasite-eve-ii-pc</link>
-      <description>Community: https://discord.gg/Yg88tHYXK. PS5 beta based on upstream 0.3.9; owner boot confirmed. Requires own USA disc1.bin and disc2.bin in PPSA77023/parasite-eve-ii/discs. Install under...</description>
-      <pubDate>v0.3.9-ps5-beta</pubDate>
+      <description>Discord: https://discord.gg/Yg88tHYXK. PS5 beta with save-reading fix. Requires your own USA discs and writable USB. Setup instructions and known limitations are in the release notes.</description>
+      <pubDate>v0.3.9.1-ps5-beta</pubDate>
     </item>
     <item>
       <title>The 3rd Birthday</title>
@@ -368,13 +374,13 @@
       <title>TrinityX360</title>
       <link>https://github.com/grzegorz2047/TrinityX360</link>
       <description>Xbox 360 emulator for PS5 on Xenia Canary, built from BrinooTk's PS5X360 source, adding Kinect for more games via a phone, 2x resolution, anti-aliasing and game fixes.</description>
-      <pubDate>v1.0.6</pubDate>
+      <pubDate>v1.0.7</pubDate>
     </item>
     <item>
       <title>TrinityXSX</title>
       <link>https://github.com/grzegorz2047/TrinityXSX</link>
       <description>Standalone Xbox Series X|S (GDK) &amp; DRM-free PC/GOG game library and runtime for PS5 with on-console GOG installer, Wine Mono, Touchpad HUD &amp; Mouse+KB toggle, LAN PC input, Web Companion &amp; FrameGen.</description>
-      <pubDate>v0.2.17</pubDate>
+      <pubDate>v0.2.20</pubDate>
     </item>
     <item>
       <title>FLEX</title>
@@ -422,7 +428,7 @@
       <title>Pokémon Prosperous Platinum</title>
       <link>https://github.com/cybervisi0n/pokeplatinum</link>
       <description>Pokémon Platinum decomp port for the PS5</description>
-      <pubDate>0.2.4</pubDate>
+      <pubDate>0.2.5</pubDate>
     </item>
     <item>
       <title>Dungeon Crawl Stone Soup</title>
@@ -440,7 +446,7 @@
       <title>Brogue CE</title>
       <link>https://github.com/plutobox/ps5-BrogueCE</link>
       <description>Brogue is a single-player strategy game set in the halls of a mysterious and randomly-generated dungeon.</description>
-      <pubDate>01.000.000</pubDate>
+      <pubDate>02.000.000</pubDate>
     </item>
     <item>
       <title>Towelket</title>
@@ -530,7 +536,7 @@
       <title>Home Screen Manager</title>
       <link>https://github.com/lazyboy6791/PS5HomeScreenManager</link>
       <description>It only does everything you want with your PS5 home screen. Create Folders, Wallpapers, Edit &amp; Modify App/Game Icons &amp; Backgrounds, Change App/Game Names, Hide Apps/Games, Rearrange Tiles and much mor</description>
-      <pubDate>2.2.5</pubDate>
+      <pubDate>2.2.6</pubDate>
     </item>
     <item>
       <title>PokeMMO Prospero</title>
@@ -848,7 +854,7 @@
       <title>Parallax Browser</title>
       <link>https://github.com/rikleigh/parallax-browser</link>
       <description>A fast Web browser for the PS5 with WebGL, WebGPU, Gamepad API, hardware video decoding up to 8K, and PS VR2 video playback.</description>
-      <pubDate>0.5.0</pubDate>
+      <pubDate>0.5.1</pubDate>
     </item>
     <item>
       <title>Lost Odyssey</title>
@@ -896,7 +902,7 @@
       <title>PS5 Browser</title>
       <link>https://github.com/Vibe-Code-Jesus/PS5Browser-Releases</link>
       <description>A PS5 web browser with tabbed browsing, a download manager, archive extraction, supported exFAT conversion, TorBox integration, media playback, CAPTCHA tools and in-app updates.</description>
-      <pubDate>native-v01.000.010</pubDate>
+      <pubDate>native-v01.000.011</pubDate>
     </item>
     <item>
       <title>BattleShip Remix</title>
@@ -1382,7 +1388,7 @@
       <title>New Blitz 2027</title>
       <link>https://github.com/blitzrecomp/newblitz</link>
       <description>Native PS5 port of New Blitz 2027, a recompilation of NFL Blitz 2000 (N64). Needs your own USA v1.1 ROM; no game data included. 1.0.2 was tested on a PS5; newer builds aren't yet. Testers wanted!</description>
-      <pubDate>v1.0.4</pubDate>
+      <pubDate>v1.0.5</pubDate>
     </item>
     <item>
       <title>Arcade Gallery</title>

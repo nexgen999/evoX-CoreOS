@@ -1,5 +1,20 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 28/11/2026 à 15:24
+* **HOMEBREW_PAGE**
+  * `PS5Upload Play` (13.0.0) - *Nouveau*
+  * `Codename Engine (PS5 port)` (0.1.8-beta) - *Mise à jour (Précédent: 0.1.6-beta)*
+  * `osu!` (3.0.0) - *Mise à jour (Précédent: 2.1.5)*
+  * `Parasite Eve 2 PS5` (v0.3.9.1-ps5-beta) - *Mise à jour (Précédent: v0.3.9-ps5-beta)*
+  * `TrinityX360` (v1.0.7) - *Mise à jour (Précédent: v1.0.6)*
+  * `TrinityXSX` (v0.2.20) - *Mise à jour (Précédent: v0.2.17)*
+  * `Pokémon Prosperous Platinum` (0.2.5) - *Mise à jour (Précédent: 0.2.4)*
+  * `Brogue CE` (02.000.000) - *Mise à jour (Précédent: 01.000.000)*
+  * `Home Screen Manager` (2.2.6) - *Mise à jour (Précédent: 2.2.5)*
+  * `Parallax Browser` (0.5.1) - *Mise à jour (Précédent: 0.5.0)*
+  * `PS5 Browser` (native-v01.000.011) - *Mise à jour (Précédent: native-v01.000.010)*
+  * `New Blitz 2027` (v1.0.5) - *Mise à jour (Précédent: v1.0.4)*
+
 ## Build du 28/11/2026 à 01:34
 * **PAYLOADS**
   * `Elf Arsenal V1.6.23` (v1.6.23) - *Mise à jour (Précédent: ELF_Arsenal)*

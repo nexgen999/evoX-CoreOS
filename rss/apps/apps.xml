@@ -5,12 +5,6 @@
     <link>https://nexgen999.github.io/evoX-CoreOS</link>
     <description>Mises à jour automatiques pour la catégorie Applications</description>
     <item>
-      <title>Spectrumlibrary 1.0.4</title>
-      <link>https://github.com/Phoenixx1202/Spectrum-Library-PC/releases/download/1.0.4/SpectrumLibrary_1.0.4.zip</link>
-      <description>Spectrum-Library-PC</description>
-      <pubDate>1.0.4</pubDate>
-    </item>
-    <item>
       <title>Flycast-Ps5-2026.10.06</title>
       <link>https://github.com/rpf16rj/flycast-ps5-libretro-core/releases/download/v2026.10.06-run14/flycast-ps5-2026.10.06.zip</link>
       <description>flycast-ps5-libretro-core</description>
@@ -213,6 +207,12 @@
       <link>https://github.com/romanocry/EmuStore-PS5/releases/download/v0.4.0/EmuStore-PS5-v0.4.0.zip</link>
       <description>hEmuStore-PS5</description>
       <pubDate>v0.4.0</pubDate>
+    </item>
+    <item>
+      <title>Spectrumlibrary 1.0.4</title>
+      <link>https://github.com/Phoenixx1202/Spectrum-Library-PC/releases/download/1.0.4/SpectrumLibrary_1.0.4.zip</link>
+      <description>Spectrum-Library-PC</description>
+      <pubDate>1.0.4</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,6 @@
     <title>PS5 Store Feeds - Applications</title>
   </head>
   <body>
-    <outline text="Spectrumlibrary 1.0.4" title="Spectrumlibrary 1.0.4" type="rss" xmlUrl="https://github.com/Phoenixx1202/Spectrum-Library-PC/releases/download/1.0.4/SpectrumLibrary_1.0.4.zip" description="Spectrum-Library-PC"/>
     <outline text="Flycast-Ps5-2026.10.06" title="Flycast-Ps5-2026.10.06" type="rss" xmlUrl="https://github.com/rpf16rj/flycast-ps5-libretro-core/releases/download/v2026.10.06-run14/flycast-ps5-2026.10.06.zip" description="flycast-ps5-libretro-core"/>
     <outline text="Ppsa50011" title="Ppsa50011" type="rss" xmlUrl="https://github.com/BrinooTk/PS5X360/releases/download/v1.0.2/PPSA50011.zip" description="x360 emu for ps5, you need xpsemu_tools.elf"/>
     <outline text="Ps5X360-Helper" title="Ps5X360-Helper" type="rss" xmlUrl="https://github.com/BrinooTk/PS5X360/releases/download/v1.0.2/PS5X360-Helper.elf" description="x360 emu for ps5, you need xpsemu_tools.elf"/>
@@ -39,5 +38,6 @@
     <outline text="Prosperoexplorer-V1" title="Prosperoexplorer-V1" type="rss" xmlUrl="https://github.com/SvenGDK/Prospero-Explorer/releases/download/v1.0/ProsperoExplorer-v1.zip" description="File explorer for PS5 that manages files and archives, plays media, edits text, installs packages and serves files over the network"/>
     <outline text="Ppsa99000" title="Ppsa99000" type="rss" xmlUrl="https://github.com/darkxex/ProsperoStore/releases/download/v1.000.120/PPSA99000.zip" description="homebrew store"/>
     <outline text="Emustore-Ps5-V0.4.0" title="Emustore-Ps5-V0.4.0" type="rss" xmlUrl="https://github.com/romanocry/EmuStore-PS5/releases/download/v0.4.0/EmuStore-PS5-v0.4.0.zip" description="hEmuStore-PS5"/>
+    <outline text="Spectrumlibrary 1.0.4" title="Spectrumlibrary 1.0.4" type="rss" xmlUrl="https://github.com/Phoenixx1202/Spectrum-Library-PC/releases/download/1.0.4/SpectrumLibrary_1.0.4.zip" description="Spectrum-Library-PC"/>
   </body>
 </opml>

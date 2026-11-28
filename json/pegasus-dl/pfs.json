@@ -3,6 +3,72 @@
   "version": 1,
   "packages": [
     {
+      "titleId": "PPSA14407",
+      "title": "Metal Gear and Metal Gear 2: Solid Snake",
+      "createdAt": "2026-11-28T03:39:59.281Z",
+      "version": "2.000.002",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/98ad84333d9f1a4f7225a5cb0d6430128436beb245620317e9dc858788999076",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/0f3a34adcfa9b660714f2f642c1aacbce8b304db21781b0f635fd97e6db9b680",
+      "description": "Format: Folder\nReleased in 1998, this was the first 3D title in the METAL GEAR series. The game pioneers 3D stealth action against the threat of war and global nuclear weapons, using live action footage, cinematic cut scenes, interwoven with innovative gameplay. The storyline, a whirlwind of intrigue and betrayal, has been hailed as the greatest story of the 20th century and was the third title in the METAL GEAR series to become a hit in subsequent years. Also included: an exclusive digital Screenplay Book and Master Book that details the story and characters in Metal Gear Solid and Metal Gear &amp; Metal Gear 2: Solid Snake. [Title lineup] Metal Gear Metal Gear 2: Solid Snake Metal Gear Solid (Including VR Missions/Special Missions) Regional versions of the titles are available as additional downloads. [Digital book] Metal Gear Solid: Screenplay Book Metal Gear Solid: Master Book Metal Gear &amp; Metal Gear 2: Screenplay Book Metal Gear &amp; Metal Gear 2: Master Book The digital books can be accessed from the game's main menu screen. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product.\nRegion: EUR\nFirmware: 6.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: Thank you, UNLIMITED!\nUpdated: 2026-11-28T02:39:50.373Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/lr58nh2u4law"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/YSI9nzVgNc"
+        }
+      ],
+      "sizeBytes": 1105954079
+    },
+    {
+      "titleId": "PPSA14326",
+      "title": "Metal Gear Solid 2: Sons of Liberty Master Collection",
+      "createdAt": "2026-11-28T02:39:12.534Z",
+      "version": "2.1",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/79d919dbbd1133d6320d9e4022422506d94dc110484e127c27f483099860b8dd",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/79d919dbbd1133d6320d9e4022422506d94dc110484e127c27f483099860b8dd",
+      "description": "Format: Folder\nThis is the fourth release in the METAL GEAR series. Metal Gear Solid 2 is a story a told in two parts: In the Tanker chapters, Solid Snake sneaks into a secret tanker in pursuit of a new top-secret nuclear weapon, called Metal Gear. In the Plant chapters, Raiden of the new FOXHOUND unit infiltrates an offshore plant occupied by terrorists. New gameplay actions such as handling weapons from a first person viewpoint, holding up enemies at gunpoint, and grabbing and dragging fallen opponents were also incorporated into this title. An exclusive digital Screenplay Book and Master Book that details the story and characters in Metal Gear Solid 2: Sons of Liberty are also included. [Title lineup] Metal Gear Solid 2: Sons of Liberty (HD Collection version) Regional versions of the titles are available as additional downloads. [Digital book] Metal Gear Solid 2: Screenplay Book Metal Gear Solid 2: Master Book The digital books can be accessed from the game's main menu screen. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product.\nRegion: EUR\nFirmware: 6.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: Thank you, DUPLEX!\nUpdated: 2026-11-28T02:35:17.933Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/8964yhxkzyec"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/jnpAu7wWFQ"
+        }
+      ],
+      "sizeBytes": 21625160335
+    },
+    {
+      "titleId": "PPSA14363",
+      "title": "Metal Gear Solid Master Collection",
+      "createdAt": "2026-11-28T02:39:12.534Z",
+      "version": "3.0",
+      "category": "game",
+      "posterUrl": "https://pegasus-dl.dev/api/posters/98ad84333d9f1a4f7225a5cb0d6430128436beb245620317e9dc858788999076",
+      "originalPosterUrl": "https://pegasus-dl.dev/api/posters/0f3a34adcfa9b660714f2f642c1aacbce8b304db21781b0f635fd97e6db9b680",
+      "description": "Format: Folder\nReleased in 1998, this was the first 3D title in the METAL GEAR series. The game pioneers 3D stealth action against the threat of war and global nuclear weapons, using live action footage, cinematic cut scenes, interwoven with innovative gameplay. The storyline, a whirlwind of intrigue and betrayal, has been hailed as the greatest story of the 20th century and was the third title in the METAL GEAR series to become a hit in subsequent years. Also included: an exclusive digital Screenplay Book and Master Book that details the story and characters in Metal Gear Solid and Metal Gear &amp; Metal Gear 2: Solid Snake. [Title lineup] Metal Gear Metal Gear 2: Solid Snake Metal Gear Solid (Including VR Missions/Special Missions) Regional versions of the titles are available as additional downloads. [Digital book] Metal Gear Solid: Screenplay Book Metal Gear Solid: Master Book Metal Gear &amp; Metal Gear 2: Screenplay Book Metal Gear &amp; Metal Gear 2: Master Book The digital books can be accessed from the game's main menu screen. If you already own the PS4® version of this game, you can get the PS5® digital version at no extra cost and you do not need to purchase this product.\nRegion: EUR\nFirmware: 7.xx+\nAPR: apr-emu-v0.4.2.1\nCredits: Thank you, DUPLEX!\nUpdated: 2026-11-28T02:31:31.134Z",
+      "downloadSource": "https://catalog.gfs-dlps.workers.dev/api/packages",
+      "downloadLinks": [
+        {
+          "name": "Folder · Data",
+          "url": "https://datanodes.to/5363prztyglg"
+        },
+        {
+          "name": "Folder · Viki",
+          "url": "https://vikingfile.com/f/fLUW3xxIab"
+        }
+      ],
+      "sizeBytes": 17051020165
+    },
+    {
       "titleId": "PPSA09518",
       "title": "WUCHANG: Fallen Feathers",
       "createdAt": "2026-11-26T02:39:45.783Z",
