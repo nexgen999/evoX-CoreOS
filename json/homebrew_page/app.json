@@ -382,15 +382,15 @@
     {
       "name": "TrinityXSX",
       "filename": "PPSA83601.zip",
-      "url": "https://github.com/grzegorz2047/TrinityXSX/releases/download/v0.2.12/PPSA83601.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA83601/v0.2.12/PPSA83601.zip",
+      "url": "https://github.com/grzegorz2047/TrinityXSX/releases/download/v0.2.17/PPSA83601.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA83601/v0.2.17/PPSA83601.zip",
       "description": "Standalone Xbox Series X|S (GDK) & DRM-free PC/GOG game library and runtime for PS5 with on-console GOG installer, Wine Mono, Touchpad HUD & Mouse+KB toggle, LAN PC input, Web Companion & FrameGen.",
-      "version": "v0.2.12",
+      "version": "v0.2.17",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA83601",
       "author": "grzegorz2047",
-      "checksum": "2db6ee9a052ee8eade1518c0b420b2bf7ced04da2d4600926c7ba19a141637c2",
+      "checksum": "ce0ebe5a903c435956b04a0a06a8479bd2a5e7ed9d2bec56c4fa0a3cb23f30f4",
       "source": "https://github.com/grzegorz2047/TrinityXSX"
     },
     {
@@ -688,6 +688,34 @@
       "source": "https://github.com/quatrixone/ProsperoAI"
     },
     {
+      "name": "PS5 OpenGL Showcase",
+      "filename": "PPSA99005.zip",
+      "url": "https://github.com/BlackBearRevived/ps5-opengl/releases/download/v1.0.4/ps5-opengl-showcase-1.0.4-PPSA99005.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99005/1.0.4/PPSA99005.zip",
+      "description": "Watch particles trace a glowing knot above a field of gems in this OpenGL 4.6 demo, with live frame-rate and resolution readouts.",
+      "version": "1.0.4",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99005",
+      "author": "BlackBearReloaded",
+      "checksum": "2b00e567901e88eebfec8f50dcd512621d7482cfcbb52ed6512a34a1575d889c",
+      "source": "https://github.com/BlackBearRevived/ps5-opengl"
+    },
+    {
+      "name": "PS5 FSR4 Showcase",
+      "filename": "PPSA99011.zip",
+      "url": "https://github.com/BlackBearRevived/ps5-fsr4/releases/download/v01.000.012/ps5-fsr4-showcase-01.000.012-PPSA99011.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99011/01.000.012/PPSA99011.zip",
+      "description": "Explore a city at dusk and compare FSR4 upscaling with native and bilinear rendering in split-screen views at 1080p, 1440p and 4K.",
+      "version": "01.000.012",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99011",
+      "author": "BlackBearReloaded",
+      "checksum": "3441ac0e0214c4e9c2c3019054695c8d6023c70fb69fd9577624d12bcd259386",
+      "source": "https://github.com/BlackBearRevived/ps5-fsr4"
+    },
+    {
       "name": "Media Player Classic PS5",
       "filename": "PPSA99015.zip",
       "url": "https://github.com/MisterTemaki/MediaPlayerClassicPS5/releases/download/v1.7.1/MediaPlayerClassicPS5-v1.7.1-PPSA99015.zip",
@@ -742,6 +770,20 @@
       "author": "Sain Saji",
       "checksum": "27b9011f80c9a3020ce77244b9d6c5116fcf67b174f624256c7bc59f6b334f0c",
       "source": "https://github.com/sainsaji/EVO-PLAYER-PS5"
+    },
+    {
+      "name": "Homebrew UI Lab",
+      "filename": "PPSA99050.zip",
+      "url": "https://github.com/BlackBearRevived/ps5-homebrew-ui/releases/download/1.000.020/PPSA99050.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99050/1.000.020/PPSA99050.zip",
+      "description": "Explore themes and animated widgets for PS5 homebrew apps with your controller, from browsing the Cinema Library shelves to picking a country on the World Atlas.",
+      "version": "1.000.020",
+      "category": "Apps",
+      "kind": "app",
+      "titleid": "PPSA99050",
+      "author": "BlackBearReloaded",
+      "checksum": "c8dc58374cde36e1e6c365a01bfd9c0a7b28e331d7ba002ab9146cc917e672b5",
+      "source": "https://github.com/BlackBearRevived/ps5-homebrew-ui"
     },
     {
       "name": "Surround Sound Studio",
@@ -900,15 +942,15 @@
     {
       "name": "MihawkOS",
       "filename": "PPSA99170.zip",
-      "url": "https://github.com/mihawk-99/PS5_MihawkOS/releases/download/v9.0.0-alpha-9/PS5_MihawkOS-v9.0.0-alpha-9.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99170/9.0.0-alpha-9/PPSA99170.zip",
+      "url": "https://github.com/mihawk-99/PS5_MihawkOS/releases/download/v10.0.0-alpha-10/PS5_MihawkOS-v10.0.0-alpha-10.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99170/10.0.0-alpha-10/PPSA99170.zip",
       "description": "A Windows-inspired PS5 homebrew OS bringing 32-bit and 64-bit Windows gaming to console hardware through a custom Wine/Proton compatibility stack and native Vulkan graphics.",
-      "version": "9.0.0-alpha-9",
+      "version": "10.0.0-alpha-10",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99170",
       "author": "Mihawk",
-      "checksum": "41aa881daa73b02603268fa0ff24b0f79706a293a084f428654b8ef76199d39f",
+      "checksum": "e5786b8e342d81e22b145f08078b3b12ed20646df4846fe28aea97baaee58d3f",
       "source": "https://github.com/mihawk-99/PS5_MihawkOS"
     },
     {
@@ -1292,15 +1334,15 @@
     {
       "name": "Alembic",
       "filename": "PPSA99594.zip",
-      "url": "https://github.com/fthdgn-gh/Alembic/releases/download/v0.7.1/alembic-app-v0.7.1.zip",
-      "local_path": "downloads/apps/homebrew_page/app/PPSA99594/0.7.1/PPSA99594.zip",
+      "url": "https://github.com/fthdgn-gh/Alembic/releases/download/v0.7.2/alembic-app-v0.7.2.zip",
+      "local_path": "downloads/apps/homebrew_page/app/PPSA99594/0.7.2/PPSA99594.zip",
       "description": "Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC, also on SMB, NFS, WebDAV and FTP servers.",
-      "version": "0.7.1",
+      "version": "0.7.2",
       "category": "Apps",
       "kind": "app",
       "titleid": "PPSA99594",
       "author": "Fatih Doğan",
-      "checksum": "7db0c4182ed7f585a60b140096cf20e4165b91f92f1fd146d8fc46f7bfd4cf28",
+      "checksum": "bdaab6208496d0b65f9e39e0c96f2bd067d615775686bf76d58db35d605e1de6",
       "source": "https://github.com/fthdgn-gh/Alembic"
     },
     {

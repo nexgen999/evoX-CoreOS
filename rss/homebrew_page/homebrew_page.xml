@@ -200,13 +200,13 @@
       <title>Codename Engine (PS5 port)</title>
       <link>https://github.com/Richie133/Friday-Night-Funkin-Codename-Ps5-port</link>
       <description>unauthorized port of the codename engine for ps5 and maybe ps4 later on. based on haxelfixel. Very buggy</description>
-      <pubDate>0.1.3-beta</pubDate>
+      <pubDate>0.1.6-beta</pubDate>
     </item>
     <item>
       <title>Lantern Miner</title>
       <link>https://github.com/RedHotBallBag/lantern-miner-ps5</link>
       <description>Lantern Miner: a cosy Manic Miner-style cavern platformer for jailbroken PS5 (beta)</description>
-      <pubDate>0.9.2-beta</pubDate>
+      <pubDate>0.10.0-beta</pubDate>
     </item>
     <item>
       <title>ccleste</title>
@@ -374,7 +374,7 @@
       <title>TrinityXSX</title>
       <link>https://github.com/grzegorz2047/TrinityXSX</link>
       <description>Standalone Xbox Series X|S (GDK) &amp; DRM-free PC/GOG game library and runtime for PS5 with on-console GOG installer, Wine Mono, Touchpad HUD &amp; Mouse+KB toggle, LAN PC input, Web Companion &amp; FrameGen.</description>
-      <pubDate>v0.2.12</pubDate>
+      <pubDate>v0.2.17</pubDate>
     </item>
     <item>
       <title>FLEX</title>
@@ -647,6 +647,12 @@
       <pubDate>01.007.000</pubDate>
     </item>
     <item>
+      <title>PS5 OpenGL Showcase</title>
+      <link>https://github.com/BlackBearRevived/ps5-opengl</link>
+      <description>Watch particles trace a glowing knot above a field of gems in this OpenGL 4.6 demo, with live frame-rate and resolution readouts.</description>
+      <pubDate>1.0.4</pubDate>
+    </item>
+    <item>
       <title>ProsperoPuzzles</title>
       <link>https://github.com/BlackBearRevived/ProsperoPuzzles</link>
       <description>50 native logic puzzles for PlayStation 5 homebrew</description>
@@ -657,6 +663,12 @@
       <link>https://github.com/mihawk-99/PS5_vkQuake</link>
       <description>Native PS5 port of vkQuake, the Vulkan Quake engine, at up to 120 FPS and 4K with DualSense input. Needs your own Quake game data.</description>
       <pubDate>1.0</pubDate>
+    </item>
+    <item>
+      <title>PS5 FSR4 Showcase</title>
+      <link>https://github.com/BlackBearRevived/ps5-fsr4</link>
+      <description>Explore a city at dusk and compare FSR4 upscaling with native and bilinear rendering in split-screen views at 1080p, 1440p and 4K.</description>
+      <pubDate>01.000.012</pubDate>
     </item>
     <item>
       <title>Media Player Classic PS5</title>
@@ -711,6 +723,12 @@
       <link>https://github.com/sainsaji/EVO-PLAYER-PS5</link>
       <description>Media player for PS5 that plays video from USB or internal storage, with hardware decoding up to 4K, 10-bit HDR and surround audio.</description>
       <pubDate>0.13.7</pubDate>
+    </item>
+    <item>
+      <title>Homebrew UI Lab</title>
+      <link>https://github.com/BlackBearRevived/ps5-homebrew-ui</link>
+      <description>Explore themes and animated widgets for PS5 homebrew apps with your controller, from browsing the Cinema Library shelves to picking a country on the World Atlas.</description>
+      <pubDate>1.000.020</pubDate>
     </item>
     <item>
       <title>Surround Sound Studio</title>
@@ -794,7 +812,7 @@
       <title>MihawkOS</title>
       <link>https://github.com/mihawk-99/PS5_MihawkOS</link>
       <description>A Windows-inspired PS5 homebrew OS bringing 32-bit and 64-bit Windows gaming to console hardware through a custom Wine/Proton compatibility stack and native Vulkan graphics.</description>
-      <pubDate>9.0.0-alpha-9</pubDate>
+      <pubDate>10.0.0-alpha-10</pubDate>
     </item>
     <item>
       <title>PKG Folderizer</title>
@@ -884,7 +902,7 @@
       <title>BattleShip Remix</title>
       <link>https://github.com/lucasliet/BattleShip-remix</link>
       <description>Native PS5 port of Smash Remix, the Super Smash Bros. 64 mod, built on the SSB64 decompilation and libultraship. Bring your own Smash Remix ROM.</description>
-      <pubDate>v2.0.1-port.13</pubDate>
+      <pubDate>v2.0.1-port.14</pubDate>
     </item>
     <item>
       <title>PSGopher</title>
@@ -1124,7 +1142,7 @@
       <title>Alembic</title>
       <link>https://github.com/fthdgn-gh/Alembic</link>
       <description>Converts PS5 and PS4 packages and game dumps between FPKG, exFAT, FFPKG, FFPFS and FFPFSC images, on the console or with a PC, also on SMB, NFS, WebDAV and FTP servers.</description>
-      <pubDate>0.7.1</pubDate>
+      <pubDate>0.7.2</pubDate>
     </item>
     <item>
       <title>Cloud Play</title>
@@ -1309,7 +1327,7 @@
     <item>
       <title>RingOut</title>
       <link>https://github.com/GUMMIBRI/RingOut-PS5</link>
-      <description>1.0 Beta of the unofficial PS5 port of Soulcalibur II for GameCube. Offline fights. Bring your own US GameCube disc image. The Windows Setup Kit prepares the game folder and separate module....</description>
+      <description>Play Link, Spawn and Heihachi on one PS5 roster in 1.0 Beta. Link comes from your US GameCube disc. Use the Windows Setup Kit to import Spawn from Xbox and Heihachi from US PS2.</description>
       <pubDate>1.0.0-beta</pubDate>
     </item>
     <item>

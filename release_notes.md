@@ -1,4 +1,4 @@
-### 🚀 Synthèse de la mise à jour (v2026.11.27-1634)
+### 🚀 Synthèse de la mise à jour (v2026.11.28-0134)
 
 Le store PlayStation 5 a été mis à jour avec succès.
 
@@ -150,11 +150,14 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `etaHEN_v2.5B.bin`
   * `PS5_Unified_Autoloader_v0.1.7-abc3b82.elf`
   * `pldmgr_v0.6.3.elf`
+  * `ELF_Arsenal_v1.6.23.elf`
   * `PIZZA-HEN_v2.00.elf`
   * `onionHEN_v0.9.0.elf`
   * `etaHEN-2.6B.bin`
   * `ProsperoMgr.elf`
+  * `np-fake-signin-ps5.elf`
   * `garlic-savemgr_v2.0.elf`
+  * `garlic-worker_v1.5.6.elf`
   * `savemnt-offset-dumper_v1.0.0.elf`
   * `web-file-mgr-v1.14.elf`
   * `web-file-mgr_v1.9.elf`
@@ -165,7 +168,6 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `web-file-mgr-v1.11b.elf`
   * `web-file-mgr-v1.13-rc2.elf`
   * `web-file-mgr-v1.11.elf`
-  * `garlic-worker_v1.5.6.elf`
   * `zftpd-ps5-v1.7.0.elf`
   * `zftpd-ps5-zhttp-v1.7.0.elf`
   * `zftpd-ps5-zhttp-v1.6.0.elf`
@@ -180,9 +182,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `ps5_overlay.elf`
   * `ps5_overlay_shellui.elf`
   * `PS5X360_v0.5.7.elf`
-  * `np-fake-signin-ps5.elf`
   * `Kura_v1.6.60.elf`
-  * `ELF_Arsenal_v1.6.23.elf`
 
 </details>
 
@@ -371,8 +371,10 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99002.zip`
   * `PPSA99003.zip`
   * `PPSA99004.zip`
+  * `PPSA99005.zip`
   * `PPSA99006.zip`
   * `PPSA99010.zip`
+  * `PPSA99011.zip`
   * `PPSA99015.zip`
   * `PPSA99016.zip`
   * `PPSA99020.zip`
@@ -382,6 +384,7 @@ Le store PlayStation 5 a été mis à jour avec succès.
   * `PPSA99030.zip`
   * `PPSA99031.zip`
   * `PPSA99039.zip`
+  * `PPSA99050.zip`
   * `PPSA99051.zip`
   * `PPSA99061.zip`
   * `PPSA99062.zip`

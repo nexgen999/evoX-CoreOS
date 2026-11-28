@@ -1,5 +1,21 @@
 # 📜 Journal des Mises à Jour (Changelog)
 
+## Build du 28/11/2026 à 01:34
+* **PAYLOADS**
+  * `Elf Arsenal V1.6.23` (v1.6.23) - *Mise à jour (Précédent: ELF_Arsenal)*
+  * `Np-Fake-Signin-Ps5` (v1.4) - *Mise à jour (Précédent: np-fake-signin)*
+  * `Garlic-Worker V1.5.6` (v1.5.6) - *Mise à jour (Précédent: garlic-worker)*
+* **HOMEBREW_PAGE**
+  * `Codename Engine (PS5 port)` (0.1.6-beta) - *Mise à jour (Précédent: 0.1.3-beta)*
+  * `Lantern Miner` (0.10.0-beta) - *Mise à jour (Précédent: 0.9.2-beta)*
+  * `TrinityXSX` (v0.2.17) - *Mise à jour (Précédent: v0.2.12)*
+  * `PS5 OpenGL Showcase` (1.0.4) - *Nouveau*
+  * `PS5 FSR4 Showcase` (01.000.012) - *Nouveau*
+  * `Homebrew UI Lab` (1.000.020) - *Nouveau*
+  * `MihawkOS` (10.0.0-alpha-10) - *Mise à jour (Précédent: 9.0.0-alpha-9)*
+  * `BattleShip Remix` (v2.0.1-port.14) - *Mise à jour (Précédent: v2.0.1-port.13)*
+  * `Alembic` (0.7.2) - *Mise à jour (Précédent: 0.7.1)*
+
 ## Build du 27/11/2026 à 16:34
 * **PAYLOADS**
   * `Ps5Library-Agent` (v0.2.92) - *Mise à jour (Précédent: v0.2.91)*
